@@ -25,7 +25,11 @@ jobs:
         run: ruff check .
 
       - name: Test
+        env:
+          PYTHONPATH: .
         run: pytest -v --cov=src
 
       - name: Idempotency smoke test
+        env:
+          PYTHONPATH: .
         run: pytest tests/test_idempotency.py -v
