@@ -22,7 +22,8 @@ logger = logging.getLogger(__name__)
 def run_batch(input_file: TextIO, output_file: TextIO) -> None:
     budget = BatchBudget()
     logger.info(
-        f"Starting batch with budget: {budget.max_requests} requests, {budget.max_wallclock} seconds."
+        f"Starting batch with budget: {budget.max_requests} reqs, "
+        f"{budget.max_wallclock} secs."
     )
 
     for line in input_file:

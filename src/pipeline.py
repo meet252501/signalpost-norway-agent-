@@ -183,7 +183,8 @@ def process_company(
                         if career_text:
                             # Basic NLP pattern match
                             hiring_keywords = re.compile(
-                                r"(ledige stillinger|apply now|we are hiring|join our team|open positions)",
+                                r"(ledige stillinger|apply now|we are hiring|"
+                                r"join our team|open positions)",
                                 re.IGNORECASE,
                             )
                             if hiring_keywords.search(career_text):
