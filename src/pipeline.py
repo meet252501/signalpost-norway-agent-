@@ -144,13 +144,17 @@ def process_company(
             if html:
                 # If we used the search fallback, verify the title
                 if official_site.provenance.extraction_method == "search_engine_fallback":
-                    from src.match.normalize import name_similarity, match_decision
+                    from src.match.normalize import match_decision, name_similarity
                     title_match = re.search(r'<title>(.*?)</title>', html, re.IGNORECASE)
                     title = title_match.group(1) if title_match else ""
                     
-                    if match_decision(name_similarity(entity.legal_name, title), has_corroborating_signal=False) != "accept":
+                    similarity = name_similarity(entity.legal_name, title)
+                    if match_decision(similarity, has_corroborating_signal=False) != "accept":
                         # Failed verification, skip extracting from this site
-                        logger.info(f"Rejected search fallback for {entity.legal_name}: title '{title}' did not match.")
+                        logger.info(
+                            f"Rejected search fallback for {entity.legal_name}: "
+                            f"title '{title}' did not match."
+                        )
                         official_site = build_missing_claim()
                         html = None # Skip further extraction
                 

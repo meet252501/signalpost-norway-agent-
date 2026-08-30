@@ -9,7 +9,6 @@ import re
 from urllib.parse import quote_plus, unquote
 
 from src.budget import BatchBudget
-from src.crawl.fetcher import fetch_url
 
 logger = logging.getLogger(__name__)
 
@@ -40,9 +39,12 @@ def search_company_website(legal_name: str, budget: BatchBudget) -> str | None:
     query = quote_plus(f'"{legal_name}" norge')
     url = f"https://html.duckduckgo.com/html/?q={query}"
     
-    # DuckDuckGo will block bot user-agents, so we use a standard one for search
+    # We MUST pretend to be a standard browser, otherwise DDG will block us
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        )
     }
     
     # We must spend budget for the search
