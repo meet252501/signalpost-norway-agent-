@@ -33,7 +33,7 @@ def run_batch(input_file: TextIO, output_file: TextIO) -> None:
 
         try:
             data = json.loads(line)
-            org_number = data.get("org_number")
+            org_number = data.get("org_number") or data.get("organisation_number")
         except json.JSONDecodeError:
             # If it's just a string, assume it's the org number
             org_number = line
@@ -64,10 +64,18 @@ def run_batch(input_file: TextIO, output_file: TextIO) -> None:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Signalpost Agent Batch Runner")
     parser.add_argument(
-        "--input", "-i", type=argparse.FileType("r"), default=sys.stdin, help="Input JSONL file"
+        "-i",
+        "--input",
+        type=argparse.FileType("r", encoding="utf-8"),
+        required=True,
+        help="Input JSONL file of companies (universe.jsonl)",
     )
     parser.add_argument(
-        "--output", "-o", type=argparse.FileType("w"), default=sys.stdout, help="Output JSONL file"
+        "-o",
+        "--output",
+        type=argparse.FileType("w", encoding="utf-8"),
+        required=True,
+        help="Output JSONL file to write results to",
     )
     args = parser.parse_args()
 

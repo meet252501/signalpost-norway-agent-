@@ -72,6 +72,20 @@ def process_company(
                     extraction_method="registry_hjemmeside",
                 ),
             )
+        else:
+            # Fallback: Search for the website
+            from src.crawl.search import search_company_website
+            candidate_url = search_company_website(entity.legal_name, budget)
+            if candidate_url:
+                official_site = Claim(
+                    value=candidate_url,
+                    availability=Availability.AVAILABLE,
+                    provenance=Provenance(
+                        source_url="https://duckduckgo.com",
+                        retrieved_at=datetime.now(UTC),
+                        extraction_method="search_engine_fallback",
+                    ),
+                )
 
         if entity.employee_count is not None:
             # Simple banding example
@@ -127,6 +141,19 @@ def process_company(
             else:
                 html = fetch_with_playwright(url, budget)
 
+            if html:
+                # If we used the search fallback, verify the title
+                if official_site.provenance.extraction_method == "search_engine_fallback":
+                    from src.match.normalize import name_similarity, match_decision
+                    title_match = re.search(r'<title>(.*?)</title>', html, re.IGNORECASE)
+                    title = title_match.group(1) if title_match else ""
+                    
+                    if match_decision(name_similarity(entity.legal_name, title), has_corroborating_signal=False) != "accept":
+                        # Failed verification, skip extracting from this site
+                        logger.info(f"Rejected search fallback for {entity.legal_name}: title '{title}' did not match.")
+                        official_site = build_missing_claim()
+                        html = None # Skip further extraction
+                
             if html:
                 # Extract structured
                 structured = extract_structured_data(html, url)

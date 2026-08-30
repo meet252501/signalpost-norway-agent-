@@ -27,3 +27,8 @@ trials.csv
 
 # Playwright
 .playwright/
+
+data/
+.coverage
+scratch/
+download.py
