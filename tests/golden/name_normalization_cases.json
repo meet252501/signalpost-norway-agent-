@@ -1,0 +1,15 @@
+[
+  {"input": "Example AS", "expected": "example"},
+  {"input": "EXAMPLE  ASA", "expected": "example"},
+  {"input": "Nordic Tech Solutions AS", "expected": "nordic tech solutions"},
+  {"input": "Atlas Consulting AS", "expected": "atlas consulting"},
+  {"input": "Atlas AS", "expected": "atlas"},
+  {"input": "Fjord Logistics ANS", "expected": "fjord logistics"},
+  {"input": "Ole Hansen ENK", "expected": "ole hansen"},
+  {"input": "Vik & Sønner DA", "expected": "vik sønner"},
+  {"input": "Nordland Samvirke SA", "expected": "nordland samvirke"},
+  {"input": "Company Without Suffix", "expected": "company without suffix"},
+  {"input": "  Trailing   Spaces   AS  ", "expected": "trailing spaces"},
+  {"input": "Punctuation, Inc. AS", "expected": "punctuation inc"},
+  {"input": "Kommandittselskapet Nord KS", "expected": "kommandittselskapet nord"}
+]

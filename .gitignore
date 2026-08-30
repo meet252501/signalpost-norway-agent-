@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Env / secrets
+.env
+
+# Data (large / generated, never commit raw crawl or profile output)
+data/raw/*
+data/processed/*
+data/snapshots/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/snapshots/.gitkeep
+
+# Learning harness trial logs (large, regenerable)
+*.sqlite
+trials.csv
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Playwright
+.playwright/

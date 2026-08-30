@@ -1,0 +1,23 @@
+{
+  "organisasjonsnummer": "912345678",
+  "navn": "Nedlagt Foretak AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap"
+  },
+  "hjemmeside": "",
+  "forretningsadresse": {
+    "adresse": ["Fjordveien 5"],
+    "postnummer": "5003",
+    "poststed": "BERGEN",
+    "kommune": "BERGEN",
+    "land": "Norge"
+  },
+  "naeringskode1": {
+    "kode": "46.190",
+    "beskrivelse": "Uspesifisert engroshandel"
+  },
+  "stiftelsesdato": "2008-06-15",
+  "registreringsdatoEnhetsregisteret": "2008-06-20",
+  "slettedato": "2023-11-01"
+}
