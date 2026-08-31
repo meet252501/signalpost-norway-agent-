@@ -1,13 +1,21 @@
 """
 Structured data extraction from HTML.
 Extracts JSON-LD, Microdata, OpenGraph using extruct.
+NOTE: extruct is imported lazily, inside extract_structured_data(), not
+at module level. Importing it at module level meant this entire module
+- including find_social_links(), which doesn't touch extruct at all -
+would fail to import if extruct's install ever broke in the batch
+runtime (dependency conflict, wheel build issue, etc.), silently
+killing LinkedIn discovery along with JSON-LD parsing. Keeping the
+import local to the function that actually needs it means a broken
+extruct install only takes down structured-data extraction, not the
+whole module.
 """
 
 from __future__ import annotations
 
 from typing import Any
 
-import extruct
 from bs4 import BeautifulSoup
 
 
@@ -17,6 +25,8 @@ def extract_structured_data(html: str, base_url: str) -> dict[str, Any]:
     Focuses on JSON-LD, microdata, and opengraph.
     """
     try:
+        import extruct
+
         data = extruct.extract(
             html, base_url=base_url, syntaxes=["json-ld", "microdata", "opengraph"]
         )

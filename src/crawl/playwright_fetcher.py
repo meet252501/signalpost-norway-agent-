@@ -7,7 +7,8 @@ from __future__ import annotations
 
 import logging
 
-from playwright.sync_api import TimeoutError, sync_playwright
+from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
+from playwright.sync_api import sync_playwright
 
 from src.budget import BatchBudget
 
@@ -36,7 +37,7 @@ def fetch_with_playwright(url: str, budget: BatchBudget, timeout_ms: int = 15000
             try:
                 # Wait until network is mostly idle to ensure JS renders
                 page.goto(url, wait_until="networkidle")
-            except TimeoutError:
+            except PlaywrightTimeoutError:
                 # If networkidle times out, just take whatever is there
                 logger.debug(
                     f"Playwright networkidle timeout for {url}, falling back to loaded state."
