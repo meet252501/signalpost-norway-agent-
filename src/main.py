@@ -46,7 +46,22 @@ def run_batch(input_file: TextIO, output_file: TextIO) -> None:
                 logger.error("Budget exhausted before company. Ending batch.")
                 break
 
+            from src.storage.snapshot import diff_snapshots, latest_snapshot, write_snapshot
+            from src.validate.schema import RefreshMetadata
+
             result = process_company(org_number, budget)
+            
+            if result.status == "completed" and result.profile:
+                prev = latest_snapshot(org_number)
+                diffs = diff_snapshots(prev, result.profile)
+                write_snapshot(result.profile)
+                
+                result.refresh = RefreshMetadata(
+                    previous_snapshot_at=prev.profile_generated_at if prev else None,
+                    material_changes=diffs,
+                    change_count=len(diffs)
+                )
+
             output_file.write(result.model_dump_json() + "\n")
             output_file.flush()
 
