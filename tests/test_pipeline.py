@@ -26,9 +26,11 @@ def test_process_company_basic(mock_fetch, mock_resolve):
     mock_resp.status_code = 200
     mock_resp.text = "<html><body>Some mock page</body></html>" + " " * 1000
     mock_fetch.return_value = mock_resp
-    
-    with patch('src.pipeline.get_candidate_routes') as mock_routes, \
-         patch('src.pipeline.fetch_with_playwright') as mock_pw:
+
+    with (
+        patch("src.pipeline.get_candidate_routes") as mock_routes,
+        patch("src.pipeline.fetch_with_playwright") as mock_pw,
+    ):
         mock_routes.return_value = {"careers": [], "about": []}
         mock_pw.return_value = None
 

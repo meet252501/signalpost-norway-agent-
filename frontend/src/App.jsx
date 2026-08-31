@@ -59,23 +59,26 @@ function App() {
   return (
     <div className="container">
       <header>
-        <h1>Signalpost Norway Agent</h1>
+        <h1>Signalpost Norway</h1>
         <p>Verified company intelligence from official sources.</p>
       </header>
 
       <div className="dashboard-grid">
         {/* Left Sidebar - List */}
-        <div className="glass-panel">
-          <div style={{ padding: '1.25rem', borderBottom: '1px solid var(--surface-border)' }}>
-            <h3 style={{ marginBottom: '0.5rem' }}>Processed Companies</h3>
-            <p style={{ fontSize: '0.875rem', color: 'var(--text-secondary)' }}>
+        <div className="glass-panel" style={{ display: 'flex', flexDirection: 'column', height: '80vh' }}>
+          <div className="sidebar-header">
+            <h3>Processed Companies</h3>
+            <p style={{ fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
               {companies.length} snapshots available
             </p>
           </div>
           
-          <div className="company-list" style={{ padding: '1.25rem', maxHeight: '70vh', overflowY: 'auto' }}>
+          <div className="company-list" style={{ overflowY: 'auto', flex: 1 }}>
             {loading ? (
-              <div className="loading">Loading...</div>
+              <div className="empty-state">
+                <div className="loading-spinner"></div>
+                <p>Loading companies...</p>
+              </div>
             ) : companies.length === 0 ? (
               <div className="empty-state">No companies processed yet.</div>
             ) : (
@@ -95,43 +98,51 @@ function App() {
         </div>
 
         {/* Right Area - Profile Details */}
-        <div className="glass-panel profile-details">
+        <div className="glass-panel profile-details" style={{ height: '80vh', overflowY: 'auto' }}>
           {!selectedOrg ? (
             <div className="empty-state">
+              <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="var(--surface-border)" strokeWidth="1" strokeLinecap="round" strokeLinejoin="round" style={{marginBottom: '1rem'}}>
+                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                <polyline points="17 8 12 3 7 8"></polyline>
+                <line x1="12" y1="3" x2="12" y2="15"></line>
+              </svg>
               <h2>Select a company to view its profile</h2>
             </div>
           ) : profileLoading ? (
-            <div className="loading">Loading profile...</div>
+            <div className="empty-state">
+              <div className="loading-spinner"></div>
+              <p>Loading profile...</p>
+            </div>
           ) : profile ? (
             <div>
               <div className="profile-header">
                 <h2>{profile.entity.legal_name}</h2>
                 <div style={{ display: 'flex', gap: '1rem', alignItems: 'center' }}>
-                  <span className="data-label">ORG: {profile.entity.org_number}</span>
+                  <span className="data-label" style={{marginBottom: 0}}>ORG: {profile.entity.org_number}</span>
                   <span className={`status-badge status-${profile.entity.status}`}>
                     {profile.entity.status}
                   </span>
                 </div>
-                <div style={{ marginTop: '0.5rem', color: 'var(--text-secondary)' }}>
-                  {profile.entity.registered_address}
+                <div style={{ marginTop: '1rem', color: 'var(--text-secondary)' }}>
+                  📍 {profile.entity.registered_address}
                 </div>
               </div>
 
               <div className="data-grid">
                 <div className="data-card">
-                  <div className="data-label">Official Website</div>
+                  <div className="data-label">🌐 Official Website</div>
                   {renderClaim(profile.official_site)}
                 </div>
                 <div className="data-card">
-                  <div className="data-label">LinkedIn</div>
+                  <div className="data-label">💼 LinkedIn</div>
                   {renderClaim(profile.linkedin_url)}
                 </div>
                 <div className="data-card">
-                  <div className="data-label">Headcount Band</div>
+                  <div className="data-label">👥 Headcount Band</div>
                   {renderClaim(profile.headcount_band)}
                 </div>
                 <div className="data-card">
-                  <div className="data-label">Hiring Signal</div>
+                  <div className="data-label">🚀 Hiring Signal</div>
                   {renderClaim(profile.hiring_signal)}
                 </div>
               </div>
@@ -139,8 +150,8 @@ function App() {
               {/* Diffs / What Changed Section */}
               {profile.refresh && profile.refresh.material_changes.length > 0 && (
                 <div className="diff-section">
-                  <h3>What Changed Since Last Snapshot</h3>
-                  <div className="diff-list">
+                  <h3>What Changed</h3>
+                  <div>
                     {profile.refresh.material_changes.map((diff, i) => (
                       <div key={i} className="diff-item">
                         <div className="diff-field">{diff.field}</div>

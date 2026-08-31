@@ -5,12 +5,13 @@ src/storage/snapshot.py once the pipeline is producing profiles.
 Run: uvicorn src.api.main:app --reload
 """
 
-from fastapi import FastAPI, HTTPException
-from fastapi.middleware.cors import CORSMiddleware
 from pathlib import Path
 
-from src.storage.snapshot import latest_snapshot
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+
 from src.config import settings
+from src.storage.snapshot import latest_snapshot
 
 app = FastAPI(title="Signalpost Norway Agent API")
 
@@ -33,19 +34,21 @@ def list_companies() -> dict:
     snapshots_dir = Path(settings.data_dir) / "snapshots"
     if not snapshots_dir.exists():
         return {"companies": []}
-    
+
     companies = []
     # Folders are org_numbers
     for org_dir in snapshots_dir.iterdir():
         if org_dir.is_dir():
             latest = latest_snapshot(org_dir.name)
             if latest:
-                companies.append({
-                    "org_number": latest.entity.org_number,
-                    "legal_name": latest.entity.legal_name,
-                    "status": latest.entity.status,
-                    "last_updated": latest.profile_generated_at
-                })
+                companies.append(
+                    {
+                        "org_number": latest.entity.org_number,
+                        "legal_name": latest.entity.legal_name,
+                        "status": latest.entity.status,
+                        "last_updated": latest.profile_generated_at,
+                    }
+                )
     return {"companies": companies}
 
 

@@ -21,8 +21,7 @@ logger = logging.getLogger(__name__)
 def run_batch(input_file: TextIO, output_file: TextIO) -> None:
     budget = BatchBudget()
     logger.info(
-        f"Starting batch with budget: {budget.max_requests} reqs, "
-        f"{budget.max_wallclock} secs."
+        f"Starting batch with budget: {budget.max_requests} reqs, {budget.max_wallclock} secs."
     )
 
     for line in input_file:
@@ -50,16 +49,16 @@ def run_batch(input_file: TextIO, output_file: TextIO) -> None:
             from src.validate.schema import RefreshMetadata
 
             result = process_company(org_number, budget)
-            
+
             if result.status == "completed" and result.profile:
                 prev = latest_snapshot(org_number)
                 diffs = diff_snapshots(prev, result.profile)
                 write_snapshot(result.profile)
-                
+
                 result.refresh = RefreshMetadata(
                     previous_snapshot_at=prev.profile_generated_at if prev else None,
                     material_changes=diffs,
-                    change_count=len(diffs)
+                    change_count=len(diffs),
                 )
 
             output_file.write(result.model_dump_json() + "\n")
