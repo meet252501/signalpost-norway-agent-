@@ -84,5 +84,5 @@ class BatchBudget:
             "cost_max_usd": self.max_cost_usd,
         }
 
-GLOBAL_BUDGET = BatchBudget()
 
+GLOBAL_BUDGET = BatchBudget()

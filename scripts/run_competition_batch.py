@@ -10,12 +10,21 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from norway_company_agent.batch import profile_complete_for_modules, profiles_from_bulk, read_organisation_inputs, terminal_envelope, validate_envelopes  # noqa: E402
-from norway_company_agent.budget import GLOBAL_BUDGET  # noqa: E402
-from norway_company_agent.evidence import utc_now  # noqa: E402
-from norway_company_agent.identity import apply_website_identity_gate  # noqa: E402
-from norway_company_agent.official import fetch_official_modules  # noqa: E402
-from norway_company_agent.website import fetch_website  # noqa: E402
+from norway_company_agent.batch import (
+    profile_complete_for_modules,
+    profiles_from_bulk,
+    read_organisation_inputs,
+    terminal_envelope,
+    validate_envelopes,
+)
+from norway_company_agent.budget import GLOBAL_BUDGET
+from norway_company_agent.evidence import utc_now
+from norway_company_agent.identity import apply_website_identity_gate
+from norway_company_agent.official import fetch_official_modules
+from norway_company_agent.website import fetch_website
+from norway_company_agent.footprint_gatherer import gather_footprints
+from norway_company_agent.external_footprint import aggregate_footprint
+from norway_company_agent.research import answer_profile
 
 
 def write_jsonl(path: Path, rows: list[dict]) -> None:
@@ -23,13 +32,21 @@ def write_jsonl(path: Path, rows: list[dict]) -> None:
     temporary = path.with_suffix(path.suffix + ".tmp")
     with temporary.open("w", encoding="utf-8") as handle:
         for row in rows:
-            handle.write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
+            handle.write(
+                json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n"
+            )
     temporary.replace(path)
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Evaluator-owned Signalpost batch contract")
-    parser.add_argument("--organisations", required=True, help="JSON, JSONL, or text organisation-number list")
+    parser = argparse.ArgumentParser(
+        description="Evaluator-owned Signalpost batch contract"
+    )
+    parser.add_argument(
+        "--organisations",
+        required=True,
+        help="JSON, JSONL, or text organisation-number list",
+    )
     parser.add_argument("--bulk", required=True, help="Frozen Brreg entity snapshot")
     parser.add_argument("--output", required=True, help="Terminal envelope JSONL")
     parser.add_argument("--profiles-output", required=True)
@@ -39,15 +56,20 @@ def main() -> None:
     parser.add_argument("--workers", type=int, default=8)
     parser.add_argument("--checkpoint-every", type=int, default=25)
     parser.add_argument("--resume", action="store_true")
-    parser.add_argument("--modules", default="registry,accounting_obligation,registry_live,financials,roles,group,locations,website")
+    parser.add_argument(
+        "--modules",
+        default="registry,accounting_obligation,registry_live,financials,roles,group,locations,website",
+    )
     args = parser.parse_args()
 
     started_at = utc_now()
     organisation_inputs = read_organisation_inputs(args.organisations)
     orgs = [item["organisation_number"] for item in organisation_inputs]
     if len(orgs) != args.expected_count:
-        raise SystemExit(f"Expected {args.expected_count} organisations, received {len(orgs)}")
-    
+        raise SystemExit(
+            f"Expected {args.expected_count} organisations, received {len(orgs)}"
+        )
+
     batch_multiplier = args.expected_count / 100.0
     GLOBAL_BUDGET.max_requests = int(2000 * batch_multiplier)
     GLOBAL_BUDGET.max_wallclock = int(2700 * batch_multiplier)
@@ -59,21 +81,33 @@ def main() -> None:
         for key in ("evaluation_split", "sample_slice"):
             if key in annotations[profile["organisation_number"]]:
                 profile[key] = annotations[profile["organisation_number"]][key]
-    requested_modules = [item.strip() for item in args.modules.split(",") if item.strip()]
-    fetch_modules = set(requested_modules) - {"registry", "accounting_obligation", "website"}
+    requested_modules = [
+        item.strip() for item in args.modules.split(",") if item.strip()
+    ]
+    fetch_modules = set(requested_modules) - {
+        "registry",
+        "accounting_obligation",
+        "website",
+    }
     operations = {"requests": 0, "bytes": 0, "latencies_ms": []}
 
     def enrich(profile: dict) -> tuple[dict, dict]:
-        records, metrics = fetch_official_modules(profile["organisation_number"], fetch_modules)
+        records, metrics = fetch_official_modules(
+            profile["organisation_number"], fetch_modules
+        )
         profile["evidence"].update(records)
         website_metrics = {"requests": 0, "bytes": 0, "latencies_ms": []}
         if "website" in requested_modules:
             website_record, website_metrics = fetch_website(profile.get("website"))
-            profile["evidence"]["website"] = apply_website_identity_gate(profile, website_record)["website"]
+            profile["evidence"]["website"] = apply_website_identity_gate(
+                profile, website_record
+            )["website"]
         metric = {
             "requests": len(metrics) + website_metrics["requests"],
-            "bytes": sum(item.bytes_received for item in metrics) + website_metrics["bytes"],
-            "latencies_ms": [item.elapsed_ms for item in metrics] + website_metrics["latencies_ms"],
+            "bytes": sum(item.bytes_received for item in metrics)
+            + website_metrics["bytes"],
+            "latencies_ms": [item.elapsed_ms for item in metrics]
+            + website_metrics["latencies_ms"],
         }
         profile["run_metrics"] = metric
         return profile, metric
@@ -82,7 +116,11 @@ def main() -> None:
     resumed_profiles = 0
     profiles_output = Path(args.profiles_output)
     if args.resume and profiles_output.exists():
-        prior = [json.loads(line) for line in profiles_output.read_text(encoding="utf-8").splitlines() if line.strip()]
+        prior = [
+            json.loads(line)
+            for line in profiles_output.read_text(encoding="utf-8").splitlines()
+            if line.strip()
+        ]
         if not set(item["organisation_number"] for item in prior).issubset(set(orgs)):
             raise SystemExit("Resume profile membership is not a subset of this batch")
         state = {
@@ -91,9 +129,14 @@ def main() -> None:
             if profile_complete_for_modules(item, requested_modules)
         }
         resumed_profiles = len(state)
-    pending_profiles = [profile for profile in profiles if profile["organisation_number"] not in state]
+    pending_profiles = [
+        profile for profile in profiles if profile["organisation_number"] not in state
+    ]
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
-        futures = {pool.submit(enrich, profile): profile["organisation_number"] for profile in pending_profiles}
+        futures = {
+            pool.submit(enrich, profile): profile["organisation_number"]
+            for profile in pending_profiles
+        }
         for index, future in enumerate(as_completed(futures), 1):
             profile, metric = future.result()
             state[profile["organisation_number"]] = profile
@@ -105,9 +148,24 @@ def main() -> None:
                 write_jsonl(profiles_output, checkpoint)
 
     completed_at = utc_now()
-    ordered_profiles = [state[org] for org in orgs]
+    ordered_profiles = [state[org] for org in orgs if org in state]
+
+    if "external_footprint" in requested_modules:
+        cache_dir = Path(args.report).parent / "footprint_cache"
+        observations_by_org = gather_footprints(ordered_profiles, cache_dir)
+        for profile in ordered_profiles:
+            org = profile["organisation_number"]
+            obs = observations_by_org.get(org, [])
+            profile["evidence"]["external_footprint"] = aggregate_footprint(obs)
+
     envelopes = [
-        terminal_envelope(profile, run_id=args.run_id, modules=requested_modules, started_at=started_at, completed_at=completed_at)
+        terminal_envelope(
+            profile,
+            run_id=args.run_id,
+            modules=requested_modules,
+            started_at=started_at,
+            completed_at=completed_at,
+        )
         for profile in ordered_profiles
     ]
     validation = validate_envelopes(envelopes, args.expected_count)
@@ -115,7 +173,11 @@ def main() -> None:
     write_jsonl(Path(args.output), envelopes)
     latencies = sorted(operations.pop("latencies_ms"))
     operations["p50_ms"] = latencies[len(latencies) // 2] if latencies else None
-    operations["p95_ms"] = latencies[min(len(latencies) - 1, int(len(latencies) * 0.95))] if latencies else None
+    operations["p95_ms"] = (
+        latencies[min(len(latencies) - 1, int(len(latencies) * 0.95))]
+        if latencies
+        else None
+    )
     report = {
         "run_id": args.run_id,
         "started_at": started_at,
@@ -130,7 +192,9 @@ def main() -> None:
         "validation": validation,
     }
     Path(args.report).parent.mkdir(parents=True, exist_ok=True)
-    Path(args.report).write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    Path(args.report).write_text(
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     print(json.dumps(report, ensure_ascii=False, indent=2))
     raise SystemExit(0 if validation["passed"] else 1)
 

@@ -2,7 +2,8 @@ from __future__ import annotations
 
 import threading
 import time
-from typing import Any, Callable
+from collections.abc import Callable
+from typing import Any
 
 from .evidence import evidence
 from .http import FetchResult, fetch_json
@@ -10,15 +11,33 @@ from .http import FetchResult, fetch_json
 ACCOUNTING_OBLIGATION_SOURCE = "https://www.brreg.no/en/submission-of-annual-accounts/reporting-obligations-to-the-register-of-company-accounts/who-has-an-accounting-obligation/"
 ACCOUNTING_RULESET_VERSION = "brreg_accounting_obligation_rules_2024-08-09_v1"
 ALWAYS_ACCOUNTING_OBLIGED_FORMS = {"AS", "ASA", "BRL", "BBL", "STI", "SF", "VPFO"}
-THRESHOLD_OR_ACTIVITY_FORMS = {"ENK", "ANS", "DA", "SA", "FLI", "ESEK", "NUF", "UTLA", "ORGL", "SAM", "SPA", "KS", "BO"}
+THRESHOLD_OR_ACTIVITY_FORMS = {
+    "ENK",
+    "ANS",
+    "DA",
+    "SA",
+    "FLI",
+    "ESEK",
+    "NUF",
+    "UTLA",
+    "ORGL",
+    "SAM",
+    "SPA",
+    "KS",
+    "BO",
+}
 
 BRREG_ENTITY = "https://data.brreg.no/enhetsregisteret/api/enheter/{org}"
 BRREG_ROLES = BRREG_ENTITY + "/roller"
 BRREG_GROUP = "https://data.brreg.no/enhetsregisteret/api/konsernstruktur/{org}"
 BRREG_SUBUNITS = "https://data.brreg.no/enhetsregisteret/api/underenheter?overordnetEnhet={org}&size=1000"
 BRREG_ACCOUNTS = "https://data.brreg.no/regnskapsregisteret/regnskap/{org}"
-BRREG_ACCOUNT_YEARS = "https://data.brreg.no/regnskapsregisteret/regnskap/aarsregnskap/kopi/{org}/aar"
-BRREG_ACCOUNT_PDF = "https://data.brreg.no/regnskapsregisteret/regnskap/aarsregnskap/kopi/{org}/{year}"
+BRREG_ACCOUNT_YEARS = (
+    "https://data.brreg.no/regnskapsregisteret/regnskap/aarsregnskap/kopi/{org}/aar"
+)
+BRREG_ACCOUNT_PDF = (
+    "https://data.brreg.no/regnskapsregisteret/regnskap/aarsregnskap/kopi/{org}/{year}"
+)
 
 _history_lock = threading.Lock()
 _history_last_request = 0.0
@@ -37,14 +56,18 @@ def accounting_obligation_assessment(profile: dict[str, Any]) -> dict[str, Any]:
         reason = "The registry snapshot reports a latest submitted annual-account year."
     elif legal_form in ALWAYS_ACCOUNTING_OBLIGED_FORMS:
         classification = "required_by_legal_form"
-        reason = f"Brreg lists organisation form {legal_form} in an always-obliged category."
+        reason = (
+            f"Brreg lists organisation form {legal_form} in an always-obliged category."
+        )
     elif legal_form in THRESHOLD_OR_ACTIVITY_FORMS:
         classification = "threshold_or_activity_dependent"
         reason = "Obligation depends on statutory size, partner, activity, tax or supervision tests not fully present in the open entity row."
     else:
         classification = "special_rule_or_review_required"
         reason = "The open entity row is insufficient for a definitive accounting-obligation decision."
-    ruleset_hash = __import__("hashlib").sha256(ACCOUNTING_RULESET_VERSION.encode()).hexdigest()
+    ruleset_hash = (
+        __import__("hashlib").sha256(ACCOUNTING_RULESET_VERSION.encode()).hexdigest()
+    )
     return evidence(
         "accounting_obligation",
         "available",
@@ -77,24 +100,44 @@ def normalize_financials(body: Any) -> dict[str, Any]:
         return {"records": []}
     normalized = []
     for item in records[:3]:
-        normalized.append({
-            "record_id": item.get("id"),
-            "account_type": item.get("regnskapstype"),
-            "period": item.get("regnskapsperiode"),
-            "currency": item.get("valuta"),
-            "revenue": _get(item, "resultatregnskapResultat", "driftsresultat", "driftsinntekter", "sumDriftsinntekter"),
-            "operating_result": _get(item, "resultatregnskapResultat", "driftsresultat", "driftsresultat"),
-            "profit_before_tax": _get(item, "resultatregnskapResultat", "ordinaertResultatFoerSkattekostnad"),
-            "annual_result": _get(item, "resultatregnskapResultat", "aarsresultat"),
-            "assets": _get(item, "eiendeler", "sumEiendeler"),
-            "equity": _get(item, "egenkapitalGjeld", "egenkapital", "sumEgenkapital"),
-            "debt": _get(item, "egenkapitalGjeld", "gjeldOversikt", "sumGjeld"),
-        })
+        normalized.append(
+            {
+                "record_id": item.get("id"),
+                "account_type": item.get("regnskapstype"),
+                "period": item.get("regnskapsperiode"),
+                "currency": item.get("valuta"),
+                "revenue": _get(
+                    item,
+                    "resultatregnskapResultat",
+                    "driftsresultat",
+                    "driftsinntekter",
+                    "sumDriftsinntekter",
+                ),
+                "operating_result": _get(
+                    item, "resultatregnskapResultat", "driftsresultat", "driftsresultat"
+                ),
+                "profit_before_tax": _get(
+                    item,
+                    "resultatregnskapResultat",
+                    "ordinaertResultatFoerSkattekostnad",
+                ),
+                "annual_result": _get(item, "resultatregnskapResultat", "aarsresultat"),
+                "assets": _get(item, "eiendeler", "sumEiendeler"),
+                "equity": _get(
+                    item, "egenkapitalGjeld", "egenkapital", "sumEgenkapital"
+                ),
+                "debt": _get(item, "egenkapitalGjeld", "gjeldOversikt", "sumGjeld"),
+            }
+        )
     return {"records": normalized}
 
 
 def normalize_financial_history(body: Any, org: str) -> dict[str, Any]:
-    years = sorted({str(year) for year in body if str(year).isdigit()}) if isinstance(body, list) else []
+    years = (
+        sorted({str(year) for year in body if str(year).isdigit()})
+        if isinstance(body, list)
+        else []
+    )
     return {
         "years": years,
         "pdfs": [
@@ -104,7 +147,10 @@ def normalize_financial_history(body: Any, org: str) -> dict[str, Any]:
     }
 
 
-def _reserve_history_slot(clock: Callable[[], float] = time.monotonic, sleeper: Callable[[float], None] = time.sleep) -> None:
+def _reserve_history_slot(
+    clock: Callable[[], float] = time.monotonic,
+    sleeper: Callable[[float], None] = time.sleep,
+) -> None:
     """Reserve starts at least 2.1 seconds apart without serializing response time."""
     global _history_last_request
     with _history_lock:
@@ -128,29 +174,45 @@ def normalize_roles(body: Any) -> dict[str, Any]:
             person = item.get("person") or {}
             name = person.get("navn") or {}
             entity = item.get("enhet") or {}
-            display_name = " ".join(filter(None, [name.get("fornavn"), name.get("mellomnavn"), name.get("etternavn")])) or entity.get("navn")
-            roles.append({
-                "name": display_name or None,
-                "organisation_number": entity.get("organisasjonsnummer"),
-                "role_code": _get(item, "type", "kode"),
-                "role": _get(item, "type", "beskrivelse"),
-                "group_code": _get(group, "type", "kode"),
-                "group": _get(group, "type", "beskrivelse"),
-                "last_changed": changed,
-                "inactive": bool(item.get("avregistrert")),
-            })
+            display_name = " ".join(
+                filter(
+                    None,
+                    [
+                        name.get("fornavn"),
+                        name.get("mellomnavn"),
+                        name.get("etternavn"),
+                    ],
+                )
+            ) or entity.get("navn")
+            roles.append(
+                {
+                    "name": display_name or None,
+                    "organisation_number": entity.get("organisasjonsnummer"),
+                    "role_code": _get(item, "type", "kode"),
+                    "role": _get(item, "type", "beskrivelse"),
+                    "group_code": _get(group, "type", "kode"),
+                    "group": _get(group, "type", "beskrivelse"),
+                    "last_changed": changed,
+                    "inactive": bool(item.get("avregistrert")),
+                }
+            )
     return {"roles": roles}
 
 
 def normalize_locations(body: Any) -> dict[str, Any]:
     rows = _get(body, "_embedded", "underenheter") or []
-    return {"locations": [{
-        "organisation_number": item.get("organisasjonsnummer"),
-        "name": item.get("navn"),
-        "address": item.get("beliggenhetsadresse") or item.get("postadresse"),
-        "industry": item.get("naeringskode1"),
-        "employees": item.get("antallAnsatte"),
-    } for item in rows]}
+    return {
+        "locations": [
+            {
+                "organisation_number": item.get("organisasjonsnummer"),
+                "name": item.get("navn"),
+                "address": item.get("beliggenhetsadresse") or item.get("postadresse"),
+                "industry": item.get("naeringskode1"),
+                "employees": item.get("antallAnsatte"),
+            }
+            for item in rows
+        ]
+    }
 
 
 def normalize_entity(body: Any) -> dict[str, Any]:
@@ -170,21 +232,55 @@ def normalize_entity(body: Any) -> dict[str, Any]:
     }
 
 
-def _classified(field: str, source_type: str, result: FetchResult, value: Any = None) -> dict[str, Any]:
+def _classified(
+    field: str, source_type: str, result: FetchResult, value: Any = None
+) -> dict[str, Any]:
     if result.status == 200:
-        return evidence(field, "available", source_type, result.url, value=result.body if value is None else value, content_sha256=result.content_sha256, retrieved_at=result.retrieved_at, effective_at=result.effective_at)
+        return evidence(
+            field,
+            "available",
+            source_type,
+            result.url,
+            value=result.body if value is None else value,
+            content_sha256=result.content_sha256,
+            retrieved_at=result.retrieved_at,
+            effective_at=result.effective_at,
+        )
     if result.status in {404, 410}:
-        return evidence(field, "not_found", source_type, result.url, note=result.error, content_sha256=result.content_sha256, retrieved_at=result.retrieved_at, effective_at=result.effective_at)
-    return evidence(field, "source_error", source_type, result.url, note=result.error, content_sha256=result.content_sha256, retrieved_at=result.retrieved_at, effective_at=result.effective_at)
+        return evidence(
+            field,
+            "not_found",
+            source_type,
+            result.url,
+            note=result.error,
+            content_sha256=result.content_sha256,
+            retrieved_at=result.retrieved_at,
+            effective_at=result.effective_at,
+        )
+    return evidence(
+        field,
+        "source_error",
+        source_type,
+        result.url,
+        note=result.error,
+        content_sha256=result.content_sha256,
+        retrieved_at=result.retrieved_at,
+        effective_at=result.effective_at,
+    )
 
 
-def fetch_official_modules(org: str, modules: set[str], fetcher: Callable[[str], FetchResult] = fetch_json) -> tuple[dict[str, Any], list[FetchResult]]:
+def fetch_official_modules(
+    org: str, modules: set[str], fetcher: Callable[[str], FetchResult] = fetch_json
+) -> tuple[dict[str, Any], list[FetchResult]]:
     records: dict[str, Any] = {}
     metrics: list[FetchResult] = []
     endpoints = {
         "registry_live": (BRREG_ENTITY.format(org=org), "official_registry_live"),
         "financials": (BRREG_ACCOUNTS.format(org=org), "official_annual_accounts"),
-        "financial_history": (BRREG_ACCOUNT_YEARS.format(org=org), "official_annual_account_copies"),
+        "financial_history": (
+            BRREG_ACCOUNT_YEARS.format(org=org),
+            "official_annual_account_copies",
+        ),
         "roles": (BRREG_ROLES.format(org=org), "official_roles"),
         "group": (BRREG_GROUP.format(org=org), "official_group_structure"),
         "locations": (BRREG_SUBUNITS.format(org=org), "official_subunits"),
@@ -192,10 +288,26 @@ def fetch_official_modules(org: str, modules: set[str], fetcher: Callable[[str],
     for module, (url, source_type) in endpoints.items():
         if module not in modules:
             continue
-        result = _fetch_history(url) if module == "financial_history" and fetcher is fetch_json else fetcher(url)
+        result = (
+            _fetch_history(url)
+            if module == "financial_history" and fetcher is fetch_json
+            else fetcher(url)
+        )
         metrics.append(result)
         normalized = None
         if result.status == 200:
-            normalized = normalize_entity(result.body) if module == "registry_live" else normalize_financials(result.body) if module == "financials" else normalize_financial_history(result.body, org) if module == "financial_history" else normalize_roles(result.body) if module == "roles" else normalize_locations(result.body) if module == "locations" else result.body
+            normalized = (
+                normalize_entity(result.body)
+                if module == "registry_live"
+                else normalize_financials(result.body)
+                if module == "financials"
+                else normalize_financial_history(result.body, org)
+                if module == "financial_history"
+                else normalize_roles(result.body)
+                if module == "roles"
+                else normalize_locations(result.body)
+                if module == "locations"
+                else result.body
+            )
         records[module] = _classified(module, source_type, result, value=normalized)
     return records, metrics

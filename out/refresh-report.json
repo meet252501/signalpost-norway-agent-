@@ -1,0 +1,7 @@
+{
+  "deterministic": true,
+  "meaningful_diffs": 0,
+  "qualification_passed": true,
+  "evidence_complete": true,
+  "idempotent_rerun": true
+}

@@ -12,19 +12,25 @@ def load(path: str | None) -> dict[str, Any]:
 
 
 def rows(path: str) -> list[dict[str, Any]]:
-    return [json.loads(line) for line in Path(path).read_text(encoding="utf-8").splitlines() if line.strip()]
+    return [
+        json.loads(line)
+        for line in Path(path).read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
 
 
 def ratio(numerator: int, denominator: int) -> float:
     return numerator / denominator if denominator else 0.0
 
 
-def capped(weight: float, value: float | int | None) -> float:
+def capped(weight: float, value: float | None) -> float:
     return round(weight * max(0.0, min(1.0, float(value or 0))), 3)
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Signalpost competition proxy v3: external intelligence is the primary differentiator.")
+    parser = argparse.ArgumentParser(
+        description="Signalpost competition proxy v3: external intelligence is the primary differentiator."
+    )
     parser.add_argument("--profiles", required=True)
     parser.add_argument("--external-report", required=True)
     parser.add_argument("--batch-report", required=True)
@@ -49,13 +55,27 @@ def main() -> None:
     coverage = external.get("coverage", {})
 
     external_qualified = bool(external.get("qualification_passed"))
-    zero_wrong = external.get("wrong_entity_publications") == 0 and external.get("published_audited", 0) > 0
-    supported = external.get("unsupported_publications") == 0 and external.get("published_audited", 0) > 0
+    zero_wrong = (
+        external.get("wrong_entity_publications") == 0
+        and external.get("published_audited", 0) > 0
+    )
+    supported = (
+        external.get("unsupported_publications") == 0
+        and external.get("published_audited", 0) > 0
+    )
     entity_points = 10.0 if external_qualified and zero_wrong else 0.0
-    breadth_points = capped(10, coverage.get("two_platforms")) if external_qualified else 0.0
-    workforce_points = capped(7, coverage.get("workforce_jobs")) if external_qualified else 0.0
-    review_points = capped(8, coverage.get("ratings_reviews")) if external_qualified else 0.0
-    buzz_points = capped(7, coverage.get("buzz_engagement")) if external_qualified else 0.0
+    breadth_points = (
+        capped(10, coverage.get("two_platforms")) if external_qualified else 0.0
+    )
+    workforce_points = (
+        capped(7, coverage.get("workforce_jobs")) if external_qualified else 0.0
+    )
+    review_points = (
+        capped(8, coverage.get("ratings_reviews")) if external_qualified else 0.0
+    )
+    buzz_points = (
+        capped(7, coverage.get("buzz_engagement")) if external_qualified else 0.0
+    )
 
     sentiment_gate = bool(
         sentiment.get("qualification_passed")
@@ -63,7 +83,9 @@ def main() -> None:
         and sentiment.get("evidence_support_rate") == 1.0
     )
     sentiment_points = capped(10, coverage.get("sentiment")) if sentiment_gate else 0.0
-    freshness_points = capped(3, external.get("fresh_coverage")) if external_qualified else 0.0
+    freshness_points = (
+        capped(3, external.get("fresh_coverage")) if external_qualified else 0.0
+    )
     external_score = {
         "verified_external_identity": entity_points,
         "multi_source_breadth": breadth_points,
@@ -76,18 +98,31 @@ def main() -> None:
 
     exact_registry = ratio(
         sum(
-            (row.get("evidence", {}).get("registry_live", {}).get("value") or {}).get("organisation_number")
+            (row.get("evidence", {}).get("registry_live", {}).get("value") or {}).get(
+                "organisation_number"
+            )
             == row.get("organisation_number")
             for row in profiles
         ),
         n,
     )
-    financial = ratio(sum(row.get("evidence", {}).get("financials", {}).get("status") == "available" for row in profiles), n)
-    roles_locations = ratio(
-        sum(all(module in row.get("evidence", {}) for module in ("roles", "locations")) for row in profiles),
+    financial = ratio(
+        sum(
+            row.get("evidence", {}).get("financials", {}).get("status") == "available"
+            for row in profiles
+        ),
         n,
     )
-    website_terminal = ratio(sum("website" in row.get("evidence", {}) for row in profiles), n)
+    roles_locations = ratio(
+        sum(
+            all(module in row.get("evidence", {}) for module in ("roles", "locations"))
+            for row in profiles
+        ),
+        n,
+    )
+    website_terminal = ratio(
+        sum("website" in row.get("evidence", {}) for row in profiles), n
+    )
     foundation = {
         "official_identity": capped(4, exact_registry),
         "annual_accounts": capped(4, financial),
@@ -101,16 +136,32 @@ def main() -> None:
     if not external_qa_passed:
         research_points = min(5.0, research_points)
 
-    batch_valid = bool(batch.get("validation", {}).get("passed") and batch.get("emitted_envelopes") == n)
-    resume_valid = bool(resume.get("validation", {}).get("passed") and resume.get("profiles_fetched_this_run") == 0) if resume else False
-    refresh_valid = bool(refresh.get("qualification_passed") and refresh.get("evidence_complete") and refresh.get("idempotent_rerun"))
+    batch_valid = bool(
+        batch.get("validation", {}).get("passed")
+        and batch.get("emitted_envelopes") == n
+    )
+    resume_valid = (
+        bool(
+            resume.get("validation", {}).get("passed")
+            and resume.get("profiles_fetched_this_run") == 0
+        )
+        if resume
+        else False
+    )
+    refresh_valid = bool(
+        refresh.get("qualification_passed")
+        and refresh.get("evidence_complete")
+        and refresh.get("idempotent_rerun")
+    )
     p95 = batch.get("operations", {}).get("p95_ms")
     connector_policy = bool(external.get("connector_policy_passed"))
     extensibility = {
         "terminal_daily_batch": 4.0 if batch_valid else 0.0,
         "deterministic_resume": 2.0 if resume_valid else 0.0,
         "measured_refresh_diffs": 3.0 if refresh_valid else 0.0,
-        "latency_budget": 1.0 if batch_valid and p95 is not None and p95 <= 10_000 else 0.0,
+        "latency_budget": 1.0
+        if batch_valid and p95 is not None and p95 <= 10_000
+        else 0.0,
         "connector_rights_and_rate_policy": 2.0 if connector_policy else 0.0,
     }
 
@@ -147,7 +198,11 @@ def main() -> None:
             "product_ux_design": 8,
         },
         "profiles": n,
-        "details": {"external": external_score, "foundation": foundation, "extensibility": extensibility},
+        "details": {
+            "external": external_score,
+            "foundation": foundation,
+            "extensibility": extensibility,
+        },
         "category_scores": categories,
         "raw_score": raw_score,
         "target": args.target,
@@ -158,7 +213,9 @@ def main() -> None:
         "unproven_or_failed": [name for name, passed in gates.items() if not passed],
     }
     Path(args.output).parent.mkdir(parents=True, exist_ok=True)
-    Path(args.output).write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    Path(args.output).write_text(
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     print(json.dumps(report, ensure_ascii=False, indent=2))
 
 

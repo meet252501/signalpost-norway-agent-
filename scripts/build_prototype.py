@@ -9,7 +9,11 @@ from pathlib import Path
 
 
 def read_jsonl(path: Path) -> list[dict]:
-    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+    return [
+        json.loads(line)
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
 
 
 def normalize_independent_score(independent_score: dict | None) -> dict:
@@ -20,28 +24,39 @@ def normalize_independent_score(independent_score: dict | None) -> dict:
     submission = score.get("submission_1000") or {}
     identity = (result.get("qualification") or {}).get("identity_gate") or {}
     if submission:
-        result["qualification_passed"] = bool((result.get("qualification") or {}).get("passed"))
+        result["qualification_passed"] = bool(
+            (result.get("qualification") or {}).get("passed")
+        )
         result["raw_score"] = submission.get("raw_score", score.get("raw_score", 0))
         result["category_scores"] = {
-            key: value.get("score", 0) for key, value in (submission.get("categories") or {}).items()
+            key: value.get("score", 0)
+            for key, value in (submission.get("categories") or {}).items()
         }
         result["identity_audit"] = {
             "published_domains_correct": identity.get("published_domains_exact", 0),
             "published_socials_correct": identity.get("published_socials_exact", 0),
         }
         result["proxy"] = result.get("proxy") or {
-            "submission_1000": (result.get("proxy_results_not_adopted") or {}).get("submission_1000", 0),
-            "extension_250": (result.get("proxy_results_not_adopted") or {}).get("extension_250", 0),
+            "submission_1000": (result.get("proxy_results_not_adopted") or {}).get(
+                "submission_1000", 0
+            ),
+            "extension_250": (result.get("proxy_results_not_adopted") or {}).get(
+                "extension_250", 0
+            ),
         }
     return result
 
 
-def qualification_copy(score: dict | None, independent_score: dict | None = None) -> tuple[str, str]:
+def qualification_copy(
+    score: dict | None, independent_score: dict | None = None
+) -> tuple[str, str]:
     score = score or {}
     independent_score = normalize_independent_score(independent_score)
     if independent_score.get("qualification_passed"):
         independent = independent_score.get("raw_score", 0)
-        proxy = (independent_score.get("proxy") or {}).get("submission_1000", score.get("raw_score", 0))
+        proxy = (independent_score.get("proxy") or {}).get(
+            "submission_1000", score.get("raw_score", 0)
+        )
         return (
             f"Independent judge {independent}/100 · qualification passed · proxy {proxy}/100",
             "The independent score reached the 80-point target on both frozen corpora. Exact-entity publication, filing history and fresh PDF checks passed; calendar-time operation, open-ended research and broad context coverage remain unproven.",
@@ -69,7 +84,11 @@ def qualification_copy(score: dict | None, independent_score: dict | None = None
     if qualification.get("poc_qualified"):
         points = weighted.get("verified_points")
         maximum = weighted.get("maximum_points")
-        points_copy = f"{points}/{maximum} verified core points" if points is not None and maximum is not None else "core gate passed"
+        points_copy = (
+            f"{points}/{maximum} verified core points"
+            if points is not None and maximum is not None
+            else "core gate passed"
+        )
         return (
             f"POC qualified · {points_copy} · not production-qualified",
             "Frozen core checks passed. Search-based discovery and sentiment remain quarantined pending their own external evaluation.",
@@ -91,12 +110,20 @@ def compact(row: dict, external_observations: list[dict] | None = None) -> dict:
     if website.get("status") == "available" and not website_value.get("title"):
         website_value["title"] = "Company site fetched"
     identity_assessment = website_value.get("identity_assessment") or {}
-    if website.get("status") == "available" and identity_assessment and not identity_assessment.get("publishable"):
+    if (
+        website.get("status") == "available"
+        and identity_assessment
+        and not identity_assessment.get("publishable")
+    ):
         website_value["quarantined_title"] = website_value.get("title")
         website_value["quarantined_description"] = website_value.get("description")
-        website_value["quarantined_social_count"] = len(website_value.get("discovered_social_links") or [])
+        website_value["quarantined_social_count"] = len(
+            website_value.get("discovered_social_links") or []
+        )
         website_value["title"] = "Registry-linked site — identity not verified"
-        website_value["description"] = "Fetched content is retained as discovered evidence but is not attributed to this legal entity."
+        website_value["description"] = (
+            "Fetched content is retained as discovered evidence but is not attributed to this legal entity."
+        )
     live = evidence.get("registry_live", {})
     accounting = evidence.get("accounting_obligation", {})
     external_observations = external_observations or []
@@ -112,20 +139,32 @@ def compact(row: dict, external_observations: list[dict] | None = None) -> dict:
         }
 
     linkedin_profiles = [
-        item for item in external_observations
-        if item.get("platform") == "linkedin" and item.get("signal_type") == "profile_metrics" and item.get("exact_entity")
+        item
+        for item in external_observations
+        if item.get("platform") == "linkedin"
+        and item.get("signal_type") == "profile_metrics"
+        and item.get("exact_entity")
     ]
     linkedin_workforce = [
-        item for item in external_observations
-        if item.get("platform") == "linkedin" and item.get("signal_type") == "workforce_snapshot" and item.get("exact_entity")
+        item
+        for item in external_observations
+        if item.get("platform") == "linkedin"
+        and item.get("signal_type") == "workforce_snapshot"
+        and item.get("exact_entity")
     ]
     linkedin_posts = [
-        item for item in external_observations
-        if item.get("platform") == "linkedin" and item.get("signal_type") == "public_post" and item.get("exact_entity")
+        item
+        for item in external_observations
+        if item.get("platform") == "linkedin"
+        and item.get("signal_type") == "public_post"
+        and item.get("exact_entity")
     ]
     linkedin_jobs = [
-        item for item in external_observations
-        if item.get("platform") == "linkedin" and item.get("signal_type") == "job_posting" and item.get("exact_entity")
+        item
+        for item in external_observations
+        if item.get("platform") == "linkedin"
+        and item.get("signal_type") == "job_posting"
+        and item.get("exact_entity")
     ]
     verified_handles = {}
     for item in external_observations:
@@ -144,8 +183,22 @@ def compact(row: dict, external_observations: list[dict] | None = None) -> dict:
         "handles": list(verified_handles.values()),
         "linkedin": {
             "available": bool(linkedin_profile),
-            "profile": ({**(linkedin_profile.get("metrics") or {}), **observation_meta(linkedin_profile)} if linkedin_profile else {}),
-            "workforce": ({**(linkedin_headcount.get("metrics") or {}), **observation_meta(linkedin_headcount)} if linkedin_headcount else {}),
+            "profile": (
+                {
+                    **(linkedin_profile.get("metrics") or {}),
+                    **observation_meta(linkedin_profile),
+                }
+                if linkedin_profile
+                else {}
+            ),
+            "workforce": (
+                {
+                    **(linkedin_headcount.get("metrics") or {}),
+                    **observation_meta(linkedin_headcount),
+                }
+                if linkedin_headcount
+                else {}
+            ),
             "posts": [
                 {
                     **(item.get("metrics") or {}),
@@ -175,6 +228,7 @@ def compact(row: dict, external_observations: list[dict] | None = None) -> dict:
             "hash": record.get("content_sha256"),
             "rowKey": record.get("source_row_key"),
         }
+
     return {
         "org": row["organisation_number"],
         "name": row["name"],
@@ -191,10 +245,22 @@ def compact(row: dict, external_observations: list[dict] | None = None) -> dict:
         "registrySource": evidence.get("registry", {}).get("source_url"),
         "registry": meta(evidence.get("registry", {})),
         "accounting": {**meta(accounting), "value": accounting.get("value") or {}},
-        "financial": {**meta(financial), "records": (financial.get("value") or {}).get("records", [])[:3]},
-        "financialHistory": {**meta(financial_history), "pdfs": (financial_history.get("value") or {}).get("pdfs", [])},
-        "roles": {**meta(roles), "items": (roles.get("value") or {}).get("roles", [])[:30]},
-        "locations": {**meta(locations), "items": (locations.get("value") or {}).get("locations", [])[:30]},
+        "financial": {
+            **meta(financial),
+            "records": (financial.get("value") or {}).get("records", [])[:3],
+        },
+        "financialHistory": {
+            **meta(financial_history),
+            "pdfs": (financial_history.get("value") or {}).get("pdfs", []),
+        },
+        "roles": {
+            **meta(roles),
+            "items": (roles.get("value") or {}).get("roles", [])[:30],
+        },
+        "locations": {
+            **meta(locations),
+            "items": (locations.get("value") or {}).get("locations", [])[:30],
+        },
         "web": {**meta(website), "value": website_value},
         "liveStatus": live.get("status", "not_run"),
         "changes": row.get("change_history") or [],
@@ -202,15 +268,29 @@ def compact(row: dict, external_observations: list[dict] | None = None) -> dict:
     }
 
 
-def build(rows: list[dict], score: dict | None, control_loop: dict | None = None, independent_score: dict | None = None, external_by_org: dict[str, list[dict]] | None = None) -> str:
+def build(
+    rows: list[dict],
+    score: dict | None,
+    control_loop: dict | None = None,
+    independent_score: dict | None = None,
+    external_by_org: dict[str, list[dict]] | None = None,
+) -> str:
     independent_score = normalize_independent_score(independent_score)
     external_by_org = external_by_org or {}
-    payload = json.dumps([compact(row, external_by_org.get(str(row["organisation_number"]), [])) for row in rows], ensure_ascii=False).replace("</", "<\\/")
+    payload = json.dumps(
+        [
+            compact(row, external_by_org.get(str(row["organisation_number"]), []))
+            for row in rows
+        ],
+        ensure_ascii=False,
+    ).replace("</", "<\\/")
     score_ui = score or {}
     if score_ui.get("scorer") == "signalpost_all_source_completeness_v1":
         combined = score_ui.get("combined") or {}
         strict = round(float(combined.get("strict_completeness_mean") or 0), 2)
-        experimental = round(float(combined.get("experimental_completeness_mean") or 0), 2)
+        experimental = round(
+            float(combined.get("experimental_completeness_mean") or 0), 2
+        )
         score_ui = {
             **score_ui,
             "raw_score": experimental,
@@ -233,10 +313,16 @@ def build(rows: list[dict], score: dict | None, control_loop: dict | None = None
             },
         }
     score_payload = json.dumps(score_ui, ensure_ascii=False).replace("</", "<\\/")
-    control_payload = json.dumps(control_loop or {}, ensure_ascii=False).replace("</", "<\\/")
-    independent_payload = json.dumps(independent_score or {}, ensure_ascii=False).replace("</", "<\\/")
-    status_copy, boundary_copy = (html.escape(value) for value in qualification_copy(score, independent_score))
-    return f'''<!doctype html>
+    control_payload = json.dumps(control_loop or {}, ensure_ascii=False).replace(
+        "</", "<\\/"
+    )
+    independent_payload = json.dumps(
+        independent_score or {}, ensure_ascii=False
+    ).replace("</", "<\\/")
+    status_copy, boundary_copy = (
+        html.escape(value) for value in qualification_copy(score, independent_score)
+    )
+    return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="data:,">
 <title>Signalpost laboratory — Norway company intelligence</title><meta name="description" content="Verified external company signals grounded in official Norwegian company records.">
 <style>
@@ -268,7 +354,7 @@ const baseRequestedModes=requestedModes;requestedModes=question=>{{const modes=b
 renderAgent=()=>{{const x=selected;if(!x){{$('#agent-output').innerHTML='<p>Choose a company first.</p>';return}}const modes=agentQuestion?requestedModes(agentQuestion):[agentMode],labels={{overview:'Company record',financials:'Financials',leaders:'Leadership',locations:'Locations',social:'LinkedIn',hiring:'Hiring',activity:'Public activity',sentiment:'Sentiment'}};let body=modes.map(mode=>`<div class="answer-block"><small>${{labels[mode]||esc(mode)}}</small>${{agentBody(x,mode)}}</div>`).join('');if(agentQuestion)body=`<p class="agent-question"><small>Your question</small><br><strong>${{esc(agentQuestion)}}</strong></p>`+body;$('#agent-output').innerHTML=body;$('#agent-buttons').querySelectorAll('button').forEach(b=>b.classList.toggle('active',!agentQuestion&&b.dataset.mode===agentMode))}};
 const baseRenderList=renderList;renderList=()=>{{baseRenderList();queueMicrotask(injectLinkedInLayer)}};new MutationObserver(injectLinkedInLayer).observe($('#profile'),{{childList:true}});injectLinkedInLayer();renderAgent();
 if(SCORE.scorer==='signalpost_all_source_completeness_v1')$('#core-score').textContent=`${{Number(SCORE.raw_score||0).toFixed(2)}}/100 experimental · ${{Number(SCORE.awardable_score||0).toFixed(2)}}/100 strict`;
-</script></body></html>'''
+</script></body></html>"""
 
 
 if __name__ == "__main__":
@@ -283,22 +369,40 @@ if __name__ == "__main__":
     args = parser.parse_args()
     rows = read_jsonl(Path(args.input))
     if args.limit:
-        rows = rows[:args.limit]
+        rows = rows[: args.limit]
     external_by_org: dict[str, list[dict]] = defaultdict(list)
     seen_observations: set[str] = set()
     for source in args.external_observations or []:
         for observation in read_jsonl(Path(source)):
-            observation_id = str(observation.get("id") or json.dumps(observation, sort_keys=True, ensure_ascii=False))
+            observation_id = str(
+                observation.get("id")
+                or json.dumps(observation, sort_keys=True, ensure_ascii=False)
+            )
             if observation_id in seen_observations:
                 continue
             seen_observations.add(observation_id)
             organisation_number = str(observation.get("organisation_number") or "")
             if organisation_number:
                 external_by_org[organisation_number].append(observation)
-    score = json.loads(Path(args.score).read_text(encoding="utf-8")) if args.score and Path(args.score).exists() else None
-    control_loop = json.loads(Path(args.control_loop).read_text(encoding="utf-8")) if args.control_loop and Path(args.control_loop).exists() else None
-    independent_score = json.loads(Path(args.independent_score).read_text(encoding="utf-8")) if args.independent_score and Path(args.independent_score).exists() else None
+    score = (
+        json.loads(Path(args.score).read_text(encoding="utf-8"))
+        if args.score and Path(args.score).exists()
+        else None
+    )
+    control_loop = (
+        json.loads(Path(args.control_loop).read_text(encoding="utf-8"))
+        if args.control_loop and Path(args.control_loop).exists()
+        else None
+    )
+    independent_score = (
+        json.loads(Path(args.independent_score).read_text(encoding="utf-8"))
+        if args.independent_score and Path(args.independent_score).exists()
+        else None
+    )
     output = Path(args.output)
     output.parent.mkdir(parents=True, exist_ok=True)
-    output.write_text(build(rows, score, control_loop, independent_score, external_by_org), encoding="utf-8")
+    output.write_text(
+        build(rows, score, control_loop, independent_score, external_by_org),
+        encoding="utf-8",
+    )
     print(f"Wrote {output} with {len(rows)} profiles")

@@ -1,0 +1,58 @@
+{
+  "scorer": "signalpost_external_first_competition_proxy_v3",
+  "claim_boundary": "Optimization proxy. Final score requires the organiser's frozen hidden companies and independent labels.",
+  "rubric_weights": {
+    "external_footprint_intelligence": 55,
+    "official_company_foundation": 15,
+    "research_agent": 10,
+    "daily_extensibility_refresh": 12,
+    "product_ux_design": 8
+  },
+  "profiles": 100,
+  "details": {
+    "external": {
+      "verified_external_identity": 10.0,
+      "multi_source_breadth": 10.0,
+      "workforce_and_jobs": 7.0,
+      "ratings_and_reviews": 8.0,
+      "buzz_and_engagement": 7.0,
+      "qualified_sentiment": 0.0,
+      "external_freshness": 3.0
+    },
+    "foundation": {
+      "official_identity": 4.0,
+      "annual_accounts": 4.0,
+      "roles_and_locations": 4.0,
+      "website_seed_and_terminal_state": 3.0
+    },
+    "extensibility": {
+      "terminal_daily_batch": 4.0,
+      "deterministic_resume": 0.0,
+      "measured_refresh_diffs": 3.0,
+      "latency_budget": 1.0,
+      "connector_rights_and_rate_policy": 2.0
+    }
+  },
+  "category_scores": {
+    "external_footprint_intelligence": 45.0,
+    "official_company_foundation": 15.0,
+    "research_agent": 10.0,
+    "daily_extensibility_refresh": 10.0,
+    "product_ux_design": 0.0
+  },
+  "raw_score": 80.0,
+  "target": 80,
+  "target_met": true,
+  "qualification_gates": {
+    "external_audit_at_least_100": true,
+    "zero_wrong_company_external_publications": true,
+    "external_claims_supported": true,
+    "external_connector_policy": true,
+    "official_identity_complete": true,
+    "terminal_batch_contract": true,
+    "refresh_replay": true
+  },
+  "qualification_passed": true,
+  "awardable_score": 80.0,
+  "unproven_or_failed": []
+}

@@ -18,14 +18,24 @@ class SnapshotFetcher:
         self.requests.append(url)
         item = self.snapshot.get("responses", {}).get(url)
         if item is None:
-            return FetchResult(url, 0, 0, 0, error="snapshot response missing", retrieved_at=self.snapshot.get("retrieved_at"), effective_at=self.snapshot.get("effective_at"))
+            return FetchResult(
+                url,
+                0,
+                0,
+                0,
+                error="snapshot response missing",
+                retrieved_at=self.snapshot.get("retrieved_at"),
+                effective_at=self.snapshot.get("effective_at"),
+            )
         status = int(item.get("status", 200))
         if "raw_json" in item:
             raw = str(item["raw_json"]).encode("utf-8")
             body = json.loads(raw)
         else:
             body = item.get("body")
-            raw = json.dumps(body, ensure_ascii=False, separators=(",", ":"), sort_keys=True).encode("utf-8")
+            raw = json.dumps(
+                body, ensure_ascii=False, separators=(",", ":"), sort_keys=True
+            ).encode("utf-8")
         return FetchResult(
             url=url,
             status=status,

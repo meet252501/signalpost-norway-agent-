@@ -22,10 +22,19 @@ def build(config: list[dict], profiles: list[dict]) -> list[dict]:
         proof = str(seed.pop("proof"))
         row = {
             **seed,
-            "id": "verified-observation-" + hashlib.sha256(f"{org}|{seed['source_url']}|{seed['signal_type']}".encode()).hexdigest()[:24],
+            "id": "verified-observation-"
+            + hashlib.sha256(
+                f"{org}|{seed['source_url']}|{seed['signal_type']}".encode()
+            ).hexdigest()[:24],
             "retrieved_at": "2026-08-23T05:28:01Z",
             "exact_entity": True,
-            "identity_proof": [{"type": "manual_exact_entity_review", "legal_name": names[org], "basis": proof}],
+            "identity_proof": [
+                {
+                    "type": "manual_exact_entity_review",
+                    "legal_name": names[org],
+                    "basis": proof,
+                }
+            ],
             "acquisition_mode": mode,
             "rights_status": seed.get("rights_status") or "review_required",
             "source_class": seed.get("source_class") or "public_news",
@@ -36,16 +45,33 @@ def build(config: list[dict], profiles: list[dict]) -> list[dict]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Build frozen observations from independently reviewed exact-entity sources.")
+    parser = argparse.ArgumentParser(
+        description="Build frozen observations from independently reviewed exact-entity sources."
+    )
     parser.add_argument("--profiles", required=True)
     parser.add_argument("--config", required=True)
     parser.add_argument("--output", required=True)
     args = parser.parse_args()
-    profiles = [json.loads(line) for line in Path(args.profiles).read_text(encoding="utf-8").splitlines() if line.strip()]
+    profiles = [
+        json.loads(line)
+        for line in Path(args.profiles).read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
     config = json.loads(Path(args.config).read_text(encoding="utf-8"))
     rows = build(config, profiles)
-    Path(args.output).write_text("".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows), encoding="utf-8")
-    print(json.dumps({"observations": len(rows), "companies": len({row['organisation_number'] for row in rows})}, indent=2))
+    Path(args.output).write_text(
+        "".join(json.dumps(row, ensure_ascii=False) + "\n" for row in rows),
+        encoding="utf-8",
+    )
+    print(
+        json.dumps(
+            {
+                "observations": len(rows),
+                "companies": len({row["organisation_number"] for row in rows}),
+            },
+            indent=2,
+        )
+    )
 
 
 if __name__ == "__main__":

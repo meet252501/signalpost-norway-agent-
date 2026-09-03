@@ -10,7 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from norway_company_agent.identity import apply_website_identity_gate  # noqa: E402
+from norway_company_agent.identity import apply_website_identity_gate
 
 
 def main() -> None:
@@ -18,7 +18,11 @@ def main() -> None:
     parser.add_argument("--input", required=True)
     args = parser.parse_args()
     path = Path(args.input)
-    rows = [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+    rows = [
+        json.loads(line)
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
     statuses = Counter()
     quarantined_links = 0
     for row in rows:
@@ -32,9 +36,20 @@ def main() -> None:
     temporary = path.with_suffix(path.suffix + ".tmp")
     with temporary.open("w", encoding="utf-8") as handle:
         for row in rows:
-            handle.write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
+            handle.write(
+                json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n"
+            )
     temporary.replace(path)
-    print(json.dumps({"profiles": len(rows), "website_identity_statuses": dict(statuses), "quarantined_social_links": quarantined_links}, ensure_ascii=False))
+    print(
+        json.dumps(
+            {
+                "profiles": len(rows),
+                "website_identity_statuses": dict(statuses),
+                "quarantined_social_links": quarantined_links,
+            },
+            ensure_ascii=False,
+        )
+    )
 
 
 if __name__ == "__main__":

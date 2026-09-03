@@ -10,8 +10,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from norway_company_agent.evidence import utc_now  # noqa: E402
-from norway_company_agent.sentiment import sentiment_input_eligibility  # noqa: E402
+from norway_company_agent.evidence import utc_now
+from norway_company_agent.sentiment import sentiment_input_eligibility
 
 MODEL_ID = "NOSIBLE/financial-sentiment-v1.2-base"
 MODEL_REVISION = "acc796e59f4b568fe73e127de81c10a982b88845"
@@ -20,7 +20,11 @@ OUTPUT_LABELS = ("positive", "neutral", "negative")
 
 
 def read_jsonl(path: Path) -> list[dict]:
-    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+    return [
+        json.loads(line)
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
 
 
 def write_jsonl(path: Path, rows: list[dict]) -> None:
@@ -28,7 +32,9 @@ def write_jsonl(path: Path, rows: list[dict]) -> None:
     temporary = path.with_suffix(path.suffix + ".tmp")
     with temporary.open("w", encoding="utf-8") as handle:
         for row in rows:
-            handle.write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
+            handle.write(
+                json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n"
+            )
     temporary.replace(path)
 
 
@@ -46,7 +52,9 @@ def label_token_ids(tokenizer) -> dict[str, list[int]]:
             if len(encoded) == 1:
                 ids.add(encoded[0])
         if not ids:
-            raise RuntimeError(f"Pinned tokenizer does not encode {label!r} as one token")
+            raise RuntimeError(
+                f"Pinned tokenizer does not encode {label!r} as one token"
+            )
         output[label] = sorted(ids)
     return output
 
@@ -56,7 +64,9 @@ def load_model():
         import torch
         from transformers import AutoModelForCausalLM, AutoTokenizer
     except ImportError as exc:
-        raise RuntimeError("Install the optional model runtime with: uv sync --extra sentiment") from exc
+        raise RuntimeError(
+            "Install the optional model runtime with: uv sync --extra sentiment"
+        ) from exc
 
     if torch.cuda.is_available():
         device, dtype = "cuda", torch.bfloat16
@@ -64,7 +74,9 @@ def load_model():
         device, dtype = "mps", torch.float16
     else:
         device, dtype = "cpu", torch.float32
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_ID, revision=MODEL_REVISION, trust_remote_code=True)
+    tokenizer = AutoTokenizer.from_pretrained(
+        MODEL_ID, revision=MODEL_REVISION, trust_remote_code=True
+    )
     model = AutoModelForCausalLM.from_pretrained(
         MODEL_ID,
         revision=MODEL_REVISION,
@@ -75,7 +87,9 @@ def load_model():
     return model, tokenizer, torch, device
 
 
-def classify(model, tokenizer, torch, device: str, text: str) -> tuple[str, dict[str, float]]:
+def classify(
+    model, tokenizer, torch, device: str, text: str
+) -> tuple[str, dict[str, float]]:
     messages = [
         {"role": "system", "content": SYSTEM_PROMPT},
         {"role": "user", "content": text},
@@ -88,7 +102,9 @@ def classify(model, tokenizer, torch, device: str, text: str) -> tuple[str, dict
     )
     inputs = tokenizer([prompt], return_tensors="pt").to(device)
     ids_by_label = label_token_ids(tokenizer)
-    allowed_ids = sorted({token_id for ids in ids_by_label.values() for token_id in ids})
+    allowed_ids = sorted(
+        {token_id for ids in ids_by_label.values() for token_id in ids}
+    )
     with torch.inference_mode():
         generated = model.generate(
             **inputs,
@@ -99,19 +115,30 @@ def classify(model, tokenizer, torch, device: str, text: str) -> tuple[str, dict
             output_scores=True,
         )
     token_id = generated.sequences[0, -1].item()
-    label = normalize_generated_label(tokenizer.decode([token_id], skip_special_tokens=True))
+    label = normalize_generated_label(
+        tokenizer.decode([token_id], skip_special_tokens=True)
+    )
     if label is None:
-        label = next((name for name, ids in ids_by_label.items() if token_id in ids), None)
+        label = next(
+            (name for name, ids in ids_by_label.items() if token_id in ids), None
+        )
     if label is None:
         raise RuntimeError("Constrained generation returned an unknown label token")
     logits = generated.scores[0][0]
-    label_logits = torch.stack([torch.max(logits[ids_by_label[name]]) for name in OUTPUT_LABELS])
+    label_logits = torch.stack(
+        [torch.max(logits[ids_by_label[name]]) for name in OUTPUT_LABELS]
+    )
     probabilities = torch.softmax(label_logits.float(), dim=0).cpu().tolist()
-    return label, {name: round(float(value), 8) for name, value in zip(OUTPUT_LABELS, probabilities)}
+    return label, {
+        name: round(float(value), 8)
+        for name, value in zip(OUTPUT_LABELS, probabilities)
+    }
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Run the pinned NOSIBLE baseline on exact-company, independently sourced snippets.")
+    parser = argparse.ArgumentParser(
+        description="Run the pinned NOSIBLE baseline on exact-company, independently sourced snippets."
+    )
     parser.add_argument("--input", required=True)
     parser.add_argument("--predictions", required=True)
     parser.add_argument("--report", required=True)
@@ -124,7 +151,7 @@ def main() -> None:
     items = read_jsonl(Path(args.input))
     eligible = []
     rejected = []
-    for item in items[:args.limit]:
+    for item in items[: args.limit]:
         accepted, reasons = sentiment_input_eligibility(item)
         if accepted:
             eligible.append(item)
@@ -136,25 +163,29 @@ def main() -> None:
     latencies = []
     for item in eligible:
         started = time.monotonic()
-        label, probabilities = classify(model, tokenizer, torch, device, str(item["text"]))
+        label, probabilities = classify(
+            model, tokenizer, torch, device, str(item["text"])
+        )
         latencies.append(int((time.monotonic() - started) * 1000))
-        predictions.append({
-            "id": item["id"],
-            "organisation_number": item.get("organisation_number"),
-            "label": label,
-            "label_probabilities": probabilities,
-            "exact_entity": True,
-            "source_class": item["source_class"],
-            "source_url": item["source_url"],
-            "retrieved_at": item["retrieved_at"],
-            "evidence_span": item["evidence_span"],
-            "content_sha256": item["content_sha256"],
-            "model_id": MODEL_ID,
-            "model_revision": MODEL_REVISION,
-            "system_prompt": SYSTEM_PROMPT,
-            "thinking_enabled": False,
-            "generation_constraint": "single token restricted to positive|neutral|negative",
-        })
+        predictions.append(
+            {
+                "id": item["id"],
+                "organisation_number": item.get("organisation_number"),
+                "label": label,
+                "label_probabilities": probabilities,
+                "exact_entity": True,
+                "source_class": item["source_class"],
+                "source_url": item["source_url"],
+                "retrieved_at": item["retrieved_at"],
+                "evidence_span": item["evidence_span"],
+                "content_sha256": item["content_sha256"],
+                "model_id": MODEL_ID,
+                "model_revision": MODEL_REVISION,
+                "system_prompt": SYSTEM_PROMPT,
+                "thinking_enabled": False,
+                "generation_constraint": "single token restricted to positive|neutral|negative",
+            }
+        )
 
     write_jsonl(Path(args.predictions), predictions)
     ordered = sorted(latencies)
@@ -175,7 +206,9 @@ def main() -> None:
     }
     report_path = Path(args.report)
     report_path.parent.mkdir(parents=True, exist_ok=True)
-    report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    report_path.write_text(
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     print(json.dumps(report, ensure_ascii=False, indent=2))
 
 

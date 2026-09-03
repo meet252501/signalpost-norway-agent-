@@ -1,0 +1,18 @@
+{
+  "published_audited": 105,
+  "wrong_entity_publications": 0,
+  "unsupported_publications": 0,
+  "audit_size_gate": true,
+  "connector_policy_passed": true,
+  "qualification_passed": true,
+  "fresh_coverage": 1.0,
+  "coverage": {
+    "verified_external_identity": 1.0,
+    "multi_source_breadth": 1.0,
+    "two_platforms": 1.0,
+    "workforce_jobs": 1.0,
+    "ratings_reviews": 1.0,
+    "buzz_engagement": 1.0,
+    "sentiment": 1.0
+  }
+}

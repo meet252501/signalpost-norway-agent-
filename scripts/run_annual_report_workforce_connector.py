@@ -10,22 +10,61 @@ import subprocess
 import tempfile
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 from pypdf import PdfReader
 
-
 UA = "SignalpostResearchPOC/1.0 (+https://builderr.ai)"
 OCR_NUMBER = r"(?-i:\b[0-9O][0-9O .,-]{0,8})"
 PATTERNS = (
-    (0, "full_time_equivalents", re.compile(rf"(?i)(?:antall|tal\s+p[aå])\s+(?:aarsverk|arsverk|årsverk)\s+i\s+(?:regnskapsaret|rekneskapsaret)\s*(?:er|:|=)?\s*({OCR_NUMBER})")),
-    (0, "full_time_equivalents", re.compile(rf"(?i)antall\s+(?:aarsverk|arsverk|årsverk)(?:\s+sysselsatt\s+i\s+regnskapsaret)?\s*(?:er|:|=)?\s*({OCR_NUMBER})")),
-    (0, "full_time_equivalents", re.compile(rf"(?i)selskapet\s+har(?:\s+[i1]\s+\d{{4}})?\s+sysselsatt\s+({OCR_NUMBER})\s+(?:aarsverk|arsverk|årsverk)")),
-    (0, "full_time_equivalents", re.compile(rf"(?i)selskapet\s+har\s+({OCR_NUMBER})\s+(?:aarsverk|arsverk|årsverk)")),
-    (0, "full_time_equivalents", re.compile(rf"(?i)antall\s+(?:aarsverk|arsverk|årsverk)\s+(?:sysselsatt|syssetsatt)\s+i\s+regnskapsaret\s*(?:er|:|=)?\s*({OCR_NUMBER})")),
-    (1, "employees", re.compile(rf"(?i)gjennomsnittlig(?:e)?\s+antall\s+ansatte(?:\s+i\s+regnskapsaret)?\s*(?:er|:|=)?\s*({OCR_NUMBER})")),
-    (1, "employees", re.compile(rf"(?i)antall\s+ansatte\s*(?:er|:|=)?\s*({OCR_NUMBER})")),
+    (
+        0,
+        "full_time_equivalents",
+        re.compile(
+            rf"(?i)(?:antall|tal\s+p[aå])\s+(?:aarsverk|arsverk|årsverk)\s+i\s+(?:regnskapsaret|rekneskapsaret)\s*(?:er|:|=)?\s*({OCR_NUMBER})"
+        ),
+    ),
+    (
+        0,
+        "full_time_equivalents",
+        re.compile(
+            rf"(?i)antall\s+(?:aarsverk|arsverk|årsverk)(?:\s+sysselsatt\s+i\s+regnskapsaret)?\s*(?:er|:|=)?\s*({OCR_NUMBER})"
+        ),
+    ),
+    (
+        0,
+        "full_time_equivalents",
+        re.compile(
+            rf"(?i)selskapet\s+har(?:\s+[i1]\s+\d{{4}})?\s+sysselsatt\s+({OCR_NUMBER})\s+(?:aarsverk|arsverk|årsverk)"
+        ),
+    ),
+    (
+        0,
+        "full_time_equivalents",
+        re.compile(
+            rf"(?i)selskapet\s+har\s+({OCR_NUMBER})\s+(?:aarsverk|arsverk|årsverk)"
+        ),
+    ),
+    (
+        0,
+        "full_time_equivalents",
+        re.compile(
+            rf"(?i)antall\s+(?:aarsverk|arsverk|årsverk)\s+(?:sysselsatt|syssetsatt)\s+i\s+regnskapsaret\s*(?:er|:|=)?\s*({OCR_NUMBER})"
+        ),
+    ),
+    (
+        1,
+        "employees",
+        re.compile(
+            rf"(?i)gjennomsnittlig(?:e)?\s+antall\s+ansatte(?:\s+i\s+regnskapsaret)?\s*(?:er|:|=)?\s*({OCR_NUMBER})"
+        ),
+    ),
+    (
+        1,
+        "employees",
+        re.compile(rf"(?i)antall\s+ansatte\s*(?:er|:|=)?\s*({OCR_NUMBER})"),
+    ),
     (2, "employees", re.compile(rf"(?i)({OCR_NUMBER})\s+(?:heltids)?ansatte\b")),
 )
 WORD_COUNTS = {"ingen": 0, "en": 1, "ett": 1, "to": 2, "tre": 3, "fire": 4, "fem": 5}
@@ -64,7 +103,9 @@ def number_value(value: str) -> int | float | None:
     return int(number) if number.is_integer() else round(number, 2)
 
 
-def extract_candidate(text: str) -> tuple[int | float | None, str | None, str, str | None]:
+def extract_candidate(
+    text: str,
+) -> tuple[int | float | None, str | None, str, str | None]:
     compact = re.sub(r"[\t\r ]+", " ", text)
     matches = []
     for priority, measure, pattern in PATTERNS:
@@ -84,14 +125,20 @@ def extract_candidate(text: str) -> tuple[int | float | None, str | None, str, s
         end = len(compact) if end_pos < 0 else end_pos
         span = compact[start:end].strip()[:500]
         if not re.search(r"(?i)konsern|group", span):
-            matches.append((2, WORD_COUNTS[match.group(1).casefold()], span, "employees"))
+            matches.append(
+                (2, WORD_COUNTS[match.group(1).casefold()], span, "employees")
+            )
     for match in ZERO_WORKFORCE_PATTERN.finditer(compact):
         start = max(0, compact.rfind("\n", 0, match.start()) + 1)
         end_pos = compact.find("\n", match.end())
         end = len(compact) if end_pos < 0 else end_pos
         span = compact[start:end].strip()[:500]
         if not re.search(r"(?i)konsern|group", span):
-            measure = "full_time_equivalents" if match.group(1) and re.search(r"(?i)verk", match.group(1)) else "employees"
+            measure = (
+                "full_time_equivalents"
+                if match.group(1) and re.search(r"(?i)verk", match.group(1))
+                else "employees"
+            )
             matches.append((0, 0, span, measure))
     if not matches:
         return None, None, "no_employee_phrase", None
@@ -108,7 +155,18 @@ def ocr_pdf(pdf_path: Path, *, pages: int, dpi: int) -> str:
     with tempfile.TemporaryDirectory(prefix="signalpost-annual-ocr-") as temporary:
         prefix = Path(temporary) / "page"
         subprocess.run(
-            ["pdftoppm", "-f", "1", "-l", str(pages), "-jpeg", "-r", str(dpi), str(pdf_path), str(prefix)],
+            [
+                "pdftoppm",
+                "-f",
+                "1",
+                "-l",
+                str(pages),
+                "-jpeg",
+                "-r",
+                str(dpi),
+                str(pdf_path),
+                str(prefix),
+            ],
             check=True,
             stdout=subprocess.DEVNULL,
             stderr=subprocess.DEVNULL,
@@ -127,11 +185,18 @@ def ocr_pdf(pdf_path: Path, *, pages: int, dpi: int) -> str:
         return "\n".join(text)
 
 
-def collect(profile: dict, cache_dir: Path, *, ocr_pages: int, ocr_dpi: int) -> tuple[dict | None, dict]:
+def collect(
+    profile: dict, cache_dir: Path, *, ocr_pages: int, ocr_dpi: int
+) -> tuple[dict | None, dict]:
     org = str(profile["organisation_number"])
-    registry = ((profile.get("evidence") or {}).get("registry") or {}).get("value") or {}
+    registry = ((profile.get("evidence") or {}).get("registry") or {}).get(
+        "value"
+    ) or {}
     if str(registry.get("antallAnsatte") or "").isdigit():
-        return None, {"organisation_number": org, "status": "registry_count_already_available"}
+        return None, {
+            "organisation_number": org,
+            "status": "registry_count_already_available",
+        }
     history = (profile.get("evidence") or {}).get("financial_history") or {}
     pdfs = (history.get("value") or {}).get("pdfs") or []
     if not pdfs:
@@ -148,7 +213,11 @@ def collect(profile: dict, cache_dir: Path, *, ocr_pages: int, ocr_dpi: int) -> 
             with urllib.request.urlopen(request, timeout=90) as response:
                 raw = response.read(20_000_001)
             if len(raw) > 20_000_000 or not raw.startswith(b"%PDF"):
-                return None, {"organisation_number": org, "status": "unsupported_pdf", "bytes": len(raw)}
+                return None, {
+                    "organisation_number": org,
+                    "status": "unsupported_pdf",
+                    "bytes": len(raw),
+                }
             cache_path.write_bytes(raw)
             cache_hit = False
         reader = PdfReader(io.BytesIO(raw), strict=False)
@@ -157,32 +226,55 @@ def collect(profile: dict, cache_dir: Path, *, ocr_pages: int, ocr_dpi: int) -> 
             pages.append(page.extract_text() or "")
         text = "\n".join(pages)
         ocr_used = False
-        ocr_cache_path = cache_dir / f"{org}-{latest['year']}-ocr-{ocr_pages}-{ocr_dpi}.txt"
+        ocr_cache_path = (
+            cache_dir / f"{org}-{latest['year']}-ocr-{ocr_pages}-{ocr_dpi}.txt"
+        )
         if needs_ocr(text) and ocr_pages > 0:
             if ocr_cache_path.exists():
                 ocr_text = ocr_cache_path.read_text(encoding="utf-8", errors="replace")
             else:
-                ocr_text = ocr_pdf(cache_path, pages=min(ocr_pages, len(reader.pages)), dpi=ocr_dpi)
+                ocr_text = ocr_pdf(
+                    cache_path, pages=min(ocr_pages, len(reader.pages)), dpi=ocr_dpi
+                )
                 ocr_cache_path.write_text(ocr_text, encoding="utf-8")
             # Preserve the exact organisation number from the digital cover
             # while adding the OCR-only notes used for workforce extraction.
             text = text + "\n" + ocr_text
             ocr_used = True
         if org not in re.sub(r"\D", "", text):
-            return None, {"organisation_number": org, "status": "organisation_number_not_in_pdf", "cache_hit": cache_hit, "ocr_used": ocr_used}
+            return None, {
+                "organisation_number": org,
+                "status": "organisation_number_not_in_pdf",
+                "cache_hit": cache_hit,
+                "ocr_used": ocr_used,
+            }
         count, span, status, measure = extract_candidate(text)
         if count is None:
-            return None, {"organisation_number": org, "status": status, "cache_hit": cache_hit, "pages": len(reader.pages), "ocr_used": ocr_used}
+            return None, {
+                "organisation_number": org,
+                "status": status,
+                "cache_hit": cache_hit,
+                "pages": len(reader.pages),
+                "ocr_used": ocr_used,
+            }
         digest = hashlib.sha256(raw).hexdigest()
-        metrics = {"workforce_value": count, "measure": measure, "year": str(latest["year"]), "scope": "company_phrase"}
+        metrics = {
+            "workforce_value": count,
+            "measure": measure,
+            "year": str(latest["year"]),
+            "scope": "company_phrase",
+        }
         metrics[str(measure)] = count
         observation = {
-            "id": "annual-workforce-" + hashlib.sha256(f"{org}|{latest['year']}|{count}|{digest}".encode()).hexdigest()[:24],
+            "id": "annual-workforce-"
+            + hashlib.sha256(
+                f"{org}|{latest['year']}|{count}|{digest}".encode()
+            ).hexdigest()[:24],
             "organisation_number": org,
             "platform": "brreg",
             "signal_type": "workforce_snapshot",
             "source_url": url,
-            "retrieved_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+            "retrieved_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
             "content_sha256": digest,
             "exact_entity": True,
             "identity_proof": [
@@ -197,13 +289,26 @@ def collect(profile: dict, cache_dir: Path, *, ocr_pages: int, ocr_dpi: int) -> 
             "metrics": metrics,
             "strategy": "annual_report_workforce_snapshot",
         }
-        return observation, {"organisation_number": org, "status": "accepted", "workforce_value": count, "measure": measure, "cache_hit": cache_hit, "ocr_used": ocr_used}
+        return observation, {
+            "organisation_number": org,
+            "status": "accepted",
+            "workforce_value": count,
+            "measure": measure,
+            "cache_hit": cache_hit,
+            "ocr_used": ocr_used,
+        }
     except Exception as exc:
-        return None, {"organisation_number": org, "status": "error", "error": f"{type(exc).__name__}: {str(exc)[:180]}"}
+        return None, {
+            "organisation_number": org,
+            "status": "error",
+            "error": f"{type(exc).__name__}: {str(exc)[:180]}",
+        }
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Extract conservative company-scope workforce counts from official annual-report PDFs.")
+    parser = argparse.ArgumentParser(
+        description="Extract conservative company-scope workforce counts from official annual-report PDFs."
+    )
     parser.add_argument("--profiles", required=True)
     parser.add_argument("--organisations", required=True)
     parser.add_argument("--output", required=True)
@@ -214,17 +319,32 @@ def main() -> None:
     parser.add_argument("--ocr-pages", type=int, default=15)
     parser.add_argument("--ocr-dpi", type=int, default=130)
     args = parser.parse_args()
-    wanted = [line.strip() for line in Path(args.organisations).read_text().splitlines() if line.strip()]
+    wanted = [
+        line.strip()
+        for line in Path(args.organisations).read_text().splitlines()
+        if line.strip()
+    ]
     profile_map = {
         str(row["organisation_number"]): row
-        for row in (json.loads(line) for line in Path(args.profiles).read_text().splitlines() if line.strip())
+        for row in (
+            json.loads(line)
+            for line in Path(args.profiles).read_text().splitlines()
+            if line.strip()
+        )
         if str(row["organisation_number"]) in set(wanted)
     }
     eligible = []
     for org in wanted:
         profile = profile_map[org]
-        registry = ((profile.get("evidence") or {}).get("registry") or {}).get("value") or {}
-        pdfs = ((((profile.get("evidence") or {}).get("financial_history") or {}).get("value") or {}).get("pdfs") or [])
+        registry = ((profile.get("evidence") or {}).get("registry") or {}).get(
+            "value"
+        ) or {}
+        pdfs = (
+            ((profile.get("evidence") or {}).get("financial_history") or {}).get(
+                "value"
+            )
+            or {}
+        ).get("pdfs") or []
         if not str(registry.get("antallAnsatte") or "").isdigit() and pdfs:
             eligible.append(profile)
     if args.limit:
@@ -234,14 +354,29 @@ def main() -> None:
     collected = {}
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = {
-            pool.submit(collect, profile, cache_dir, ocr_pages=args.ocr_pages, ocr_dpi=args.ocr_dpi): str(profile["organisation_number"])
+            pool.submit(
+                collect,
+                profile,
+                cache_dir,
+                ocr_pages=args.ocr_pages,
+                ocr_dpi=args.ocr_dpi,
+            ): str(profile["organisation_number"])
             for profile in eligible
         }
         for future in as_completed(futures):
             collected[futures[future]] = future.result()
-    observations = [collected[str(profile["organisation_number"])][0] for profile in eligible if collected[str(profile["organisation_number"])][0]]
-    company_results = [collected[str(profile["organisation_number"])][1] for profile in eligible]
-    Path(args.output).write_text("".join(json.dumps(row, ensure_ascii=False) + "\n" for row in observations), encoding="utf-8")
+    observations = [
+        collected[str(profile["organisation_number"])][0]
+        for profile in eligible
+        if collected[str(profile["organisation_number"])][0]
+    ]
+    company_results = [
+        collected[str(profile["organisation_number"])][1] for profile in eligible
+    ]
+    Path(args.output).write_text(
+        "".join(json.dumps(row, ensure_ascii=False) + "\n" for row in observations),
+        encoding="utf-8",
+    )
     statuses = {}
     for row in company_results:
         statuses[row["status"]] = statuses.get(row["status"], 0) + 1
@@ -253,8 +388,16 @@ def main() -> None:
         "claim_boundary": "Latest official PDF, exact organisation number in document, company-scope employee phrase only; group phrases and conflicts abstain.",
         "company_results": company_results,
     }
-    Path(args.report).write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({key: value for key, value in report.items() if key != "company_results"}, ensure_ascii=False, indent=2))
+    Path(args.report).write_text(
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    print(
+        json.dumps(
+            {key: value for key, value in report.items() if key != "company_results"},
+            ensure_ascii=False,
+            indent=2,
+        )
+    )
 
 
 if __name__ == "__main__":

@@ -12,9 +12,13 @@ from pathlib import Path
 
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--universe", required=True, help="Public .jsonl or .jsonl.gz universe")
+    parser.add_argument(
+        "--universe", required=True, help="Public .jsonl or .jsonl.gz universe"
+    )
     parser.add_argument("--output", required=True, help="Output JSONL manifest")
-    parser.add_argument("--count", type=int, default=1000, help="At least 1000 for a valid entry")
+    parser.add_argument(
+        "--count", type=int, default=1000, help="At least 1000 for a valid entry"
+    )
     parser.add_argument("--seed", type=int, default=20260823)
     args = parser.parse_args()
     if args.count < 1000:
@@ -32,7 +36,9 @@ def main() -> None:
     output.parent.mkdir(parents=True, exist_ok=True)
     with output.open("w", encoding="utf-8") as handle:
         for row in chosen:
-            handle.write(json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n")
+            handle.write(
+                json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n"
+            )
     print(f"Wrote {len(chosen):,} companies to {output}")
 
 

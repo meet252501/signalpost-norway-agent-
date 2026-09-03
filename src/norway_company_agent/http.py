@@ -1,15 +1,15 @@
 from __future__ import annotations
 
-import json
 import hashlib
+import json
 import time
 import urllib.error
 import urllib.request
 from dataclasses import dataclass
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from typing import Any
 
-from .budget import GLOBAL_BUDGET, BudgetExceeded
+from .budget import GLOBAL_BUDGET
 
 
 @dataclass
@@ -26,7 +26,7 @@ class FetchResult:
 
 
 def _utc_now() -> str:
-    return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+    return datetime.now(UTC).isoformat().replace("+00:00", "Z")
 
 
 def fetch_json(url: str, *, timeout: float = 20.0, attempts: int = 3) -> FetchResult:
@@ -36,18 +36,37 @@ def fetch_json(url: str, *, timeout: float = 20.0, attempts: int = 3) -> FetchRe
         started = time.monotonic()
         request = urllib.request.Request(
             url,
-            headers={"Accept": "application/json", "User-Agent": "builderr-signalpost-poc/0.1 (+https://builderr.ai)"},
+            headers={
+                "Accept": "application/json",
+                "User-Agent": "builderr-signalpost-poc/0.1 (+https://builderr.ai)",
+            },
         )
         try:
             with urllib.request.urlopen(request, timeout=timeout) as response:
                 raw = response.read()
                 elapsed = int((time.monotonic() - started) * 1000)
-                return FetchResult(url, response.status, elapsed, len(raw), json.loads(raw), content_sha256=hashlib.sha256(raw).hexdigest(), retrieved_at=_utc_now())
+                return FetchResult(
+                    url,
+                    response.status,
+                    elapsed,
+                    len(raw),
+                    json.loads(raw),
+                    content_sha256=hashlib.sha256(raw).hexdigest(),
+                    retrieved_at=_utc_now(),
+                )
         except urllib.error.HTTPError as exc:
             elapsed = int((time.monotonic() - started) * 1000)
             raw = exc.read()
             if exc.code in {404, 410}:
-                return FetchResult(url, exc.code, elapsed, len(raw), error=f"HTTP {exc.code}", content_sha256=hashlib.sha256(raw).hexdigest(), retrieved_at=_utc_now())
+                return FetchResult(
+                    url,
+                    exc.code,
+                    elapsed,
+                    len(raw),
+                    error=f"HTTP {exc.code}",
+                    content_sha256=hashlib.sha256(raw).hexdigest(),
+                    retrieved_at=_utc_now(),
+                )
             last_error = f"HTTP {exc.code}"
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
             last_error = type(exc).__name__

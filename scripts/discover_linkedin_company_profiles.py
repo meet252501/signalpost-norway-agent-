@@ -10,7 +10,7 @@ import time
 import urllib.error
 import urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -34,7 +34,9 @@ except ModuleNotFoundError:  # Direct `python scripts/...` execution.
         normalized_company,
         registered_domain,
     )
-    from run_linkedin_guest_jobs_connector import fetch as fetch_jobs  # type: ignore[no-redef]
+    from run_linkedin_guest_jobs_connector import (
+        fetch as fetch_jobs,  # type: ignore[no-redef]
+    )
 
 
 LEGAL_SUFFIXES = {"as", "asa", "ba", "da", "enk", "nuf", "sa", "stiftelsen"}
@@ -48,7 +50,10 @@ def parse_exact_typeahead(raw: bytes, legal_name: str) -> list[dict]:
     payload = json.loads(raw.decode("utf-8", errors="replace"))
     expected = normalized_full_name(legal_name)
     return [
-        {"linkedin_company_id": str(item["id"]), "display_name": str(item.get("displayName") or "")}
+        {
+            "linkedin_company_id": str(item["id"]),
+            "display_name": str(item.get("displayName") or ""),
+        }
         for item in payload
         if item.get("type") == "COMPANY"
         and item.get("id")
@@ -71,14 +76,26 @@ def official_site_aliases(profile: dict) -> list[str]:
         return []
     value = website.get("value") or {}
     raw = [value.get("title")]
-    raw.extend(item.get("name") for item in value.get("structured_organisations") or [] if isinstance(item, dict))
+    raw.extend(
+        item.get("name")
+        for item in value.get("structured_organisations") or []
+        if isinstance(item, dict)
+    )
     aliases = []
     banned = {"home", "homepage", "forside", "welcome", "velkommen", "official site"}
     legal = normalized_full_name(profile.get("name"))
     for item in raw:
-        candidate = re.split(r"\s+[|\u2013\u2014]\s+", str(item or ""), maxsplit=1)[0].strip()
+        candidate = re.split(r"\s+[|\u2013\u2014]\s+", str(item or ""), maxsplit=1)[
+            0
+        ].strip()
         normalized = normalized_full_name(candidate)
-        if not normalized or normalized in banned or normalized == legal or len(normalized) < 3 or len(normalized) > 80:
+        if (
+            not normalized
+            or normalized in banned
+            or normalized == legal
+            or len(normalized) < 3
+            or len(normalized) > 80
+        ):
             continue
         if candidate not in aliases:
             aliases.append(candidate)
@@ -86,9 +103,15 @@ def official_site_aliases(profile: dict) -> list[str]:
 
 
 def profile_leaders(profile: dict) -> list[str]:
-    roles = (((profile.get("evidence") or {}).get("roles") or {}).get("value") or {}).get("roles") or []
+    roles = (
+        ((profile.get("evidence") or {}).get("roles") or {}).get("value") or {}
+    ).get("roles") or []
     priority = {"DAGL", "LEDE", "INNH"}
-    return [str(item.get("name") or "") for item in roles if item.get("role_code") in priority and item.get("name")][:5]
+    return [
+        str(item.get("name") or "")
+        for item in roles
+        if item.get("role_code") in priority and item.get("name")
+    ][:5]
 
 
 def _profile_official_domain(profile: dict) -> str | None:
@@ -97,17 +120,22 @@ def _profile_official_domain(profile: dict) -> str | None:
     return registered_domain(value.get("final_url") or profile.get("website"))
 
 
-def discovery_identity(profile: dict, linkedin_profile: dict, sources: set[str]) -> dict:
+def discovery_identity(
+    profile: dict, linkedin_profile: dict, sources: set[str]
+) -> dict:
     legal_full = normalized_full_name(profile.get("name"))
     linkedin_full = normalized_full_name(linkedin_profile.get("name"))
     full_name_match = bool(legal_full and legal_full == linkedin_full)
     core_name_match = bool(
         normalized_company(profile.get("name"))
-        and normalized_company(profile.get("name")) == normalized_company(linkedin_profile.get("name"))
+        and normalized_company(profile.get("name"))
+        == normalized_company(linkedin_profile.get("name"))
     )
     official_domain = _profile_official_domain(profile)
     linkedin_domain = registered_domain(linkedin_profile.get("website"))
-    domain_match = bool(official_domain and linkedin_domain and official_domain == linkedin_domain)
+    domain_match = bool(
+        official_domain and linkedin_domain and official_domain == linkedin_domain
+    )
     municipality = normalized_full_name(profile.get("municipality"))
     linkedin_location = normalized_full_name(
         " ".join(
@@ -120,7 +148,11 @@ def discovery_identity(profile: dict, linkedin_profile: dict, sources: set[str])
     )
     location_match = bool(municipality and municipality in linkedin_location)
     company_id_job_link = "company_id_job_link" in sources
-    aliases = [item.split(":", 1)[1] for item in sources if item.startswith("official_site_alias:")]
+    aliases = [
+        item.split(":", 1)[1]
+        for item in sources
+        if item.startswith("official_site_alias:")
+    ]
     linkedin_name = normalized_full_name(linkedin_profile.get("name"))
     alias_match = any(
         normalized_full_name(alias) == linkedin_name
@@ -130,10 +162,17 @@ def discovery_identity(profile: dict, linkedin_profile: dict, sources: set[str])
     linkedin_text = normalized_full_name(
         " ".join(
             [str(linkedin_profile.get("description") or "")]
-            + [str(item.get("text") or "") for item in linkedin_profile.get("posts") or []]
+            + [
+                str(item.get("text") or "")
+                for item in linkedin_profile.get("posts") or []
+            ]
         )
     )
-    matched_leaders = [leader for leader in profile_leaders(profile) if normalized_full_name(leader) in linkedin_text]
+    matched_leaders = [
+        leader
+        for leader in profile_leaders(profile)
+        if normalized_full_name(leader) in linkedin_text
+    ]
     exact = bool(
         (core_name_match and domain_match)
         or (alias_match and domain_match)
@@ -165,7 +204,9 @@ class SnapshotCache:
         self.path.mkdir(parents=True, exist_ok=True)
         self.lock = threading.Lock()
 
-    def get(self, url: str, timeout: float, *, jobs: bool = False) -> tuple[bytes, str, str]:
+    def get(
+        self, url: str, timeout: float, *, jobs: bool = False
+    ) -> tuple[bytes, str, str]:
         request_hash = hashlib.sha256(url.encode()).hexdigest()
         snapshot = self.path / f"{request_hash}.bin"
         if snapshot.exists():
@@ -178,14 +219,30 @@ class SnapshotCache:
         return raw, hashlib.sha256(raw).hexdigest(), str(snapshot)
 
 
-def discover_one(profile: dict, cache: SnapshotCache, timeout: float, delay: float, fuzzy: bool = False) -> dict:
+def discover_one(
+    profile: dict,
+    cache: SnapshotCache,
+    timeout: float,
+    delay: float,
+    fuzzy: bool = False,
+) -> dict:
     org = str(profile["organisation_number"])
     legal_name = str(profile.get("name") or "")
-    result = {"organisation_number": org, "name": legal_name, "typeahead": [], "candidates": [], "accepted": None, "errors": []}
-    queries = [(legal_name, False)] + [(alias, True) for alias in official_site_aliases(profile) if fuzzy]
+    result = {
+        "organisation_number": org,
+        "name": legal_name,
+        "typeahead": [],
+        "candidates": [],
+        "accepted": None,
+        "errors": [],
+    }
+    queries = [(legal_name, False)] + [
+        (alias, True) for alias in official_site_aliases(profile) if fuzzy
+    ]
     for query, is_alias in queries:
-        query_url = "https://www.linkedin.com/jobs-guest/api/typeaheadHits?" + urllib.parse.urlencode(
-            {"typeaheadType": "COMPANY", "query": query}
+        query_url = (
+            "https://www.linkedin.com/jobs-guest/api/typeaheadHits?"
+            + urllib.parse.urlencode({"typeaheadType": "COMPANY", "query": query})
         )
         try:
             raw, _, typeahead_snapshot = cache.get(query_url, timeout, jobs=True)
@@ -204,10 +261,15 @@ def discover_one(profile: dict, cache: SnapshotCache, timeout: float, delay: flo
         query_profile_url = legal_name_profile_url(query)
         if query_profile_url:
             source = f"official_site_alias:{query}" if is_alias else "legal_name_slug"
-            candidates.setdefault(canonical_company_url(query_profile_url) or query_profile_url, set()).add(source)
+            candidates.setdefault(
+                canonical_company_url(query_profile_url) or query_profile_url, set()
+            ).add(source)
     for item in result["typeahead"][:2]:
-        jobs_url = "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?" + urllib.parse.urlencode(
-            {"f_C": item["linkedin_company_id"], "location": "Norway", "start": 0}
+        jobs_url = (
+            "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?"
+            + urllib.parse.urlencode(
+                {"f_C": item["linkedin_company_id"], "location": "Norway", "start": 0}
+            )
         )
         try:
             raw, _, snapshot = cache.get(jobs_url, timeout, jobs=True)
@@ -217,13 +279,22 @@ def discover_one(profile: dict, cache: SnapshotCache, timeout: float, delay: flo
                     candidates[url].add(f"official_site_alias:{item['query']}")
             item["jobs_snapshot_path"] = snapshot
         except Exception as exc:
-            result["errors"].append(f"company_id {item['linkedin_company_id']} {type(exc).__name__}: {str(exc)[:120]}")
+            result["errors"].append(
+                f"company_id {item['linkedin_company_id']} {type(exc).__name__}: {str(exc)[:120]}"
+            )
         time.sleep(max(0, delay))
 
     for candidate, sources in candidates.items():
-        candidate_row = {"url": candidate, "sources": sorted(sources), "accepted": False}
+        candidate_row = {
+            "url": candidate,
+            "sources": sorted(sources),
+            "accepted": False,
+        }
         try:
-            snapshot = cache.path / f"{hashlib.sha256(candidate.encode()).hexdigest()}-profile.html"
+            snapshot = (
+                cache.path
+                / f"{hashlib.sha256(candidate.encode()).hexdigest()}-profile.html"
+            )
             if snapshot.exists():
                 raw = snapshot.read_bytes()
                 final_url = candidate
@@ -236,7 +307,8 @@ def discover_one(profile: dict, cache: SnapshotCache, timeout: float, delay: flo
             identity = discovery_identity(profile, linkedin_profile, sources)
             candidate_row.update(
                 {
-                    "resolved_url": linkedin_profile.get("page_url") or canonical_company_url(final_url),
+                    "resolved_url": linkedin_profile.get("page_url")
+                    or canonical_company_url(final_url),
                     "profile": linkedin_profile,
                     "identity": identity,
                     "content_sha256": digest,
@@ -258,7 +330,9 @@ def discover_one(profile: dict, cache: SnapshotCache, timeout: float, delay: flo
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Discover exact LinkedIn company profiles from a frozen Norwegian company corpus.")
+    parser = argparse.ArgumentParser(
+        description="Discover exact LinkedIn company profiles from a frozen Norwegian company corpus."
+    )
     parser.add_argument("--profiles", required=True)
     parser.add_argument("--output", required=True)
     parser.add_argument("--report", required=True)
@@ -266,19 +340,41 @@ def main() -> None:
     parser.add_argument("--workers", type=int, default=4)
     parser.add_argument("--delay", type=float, default=0.1)
     parser.add_argument("--timeout", type=float, default=20.0)
-    parser.add_argument("--fuzzy", action="store_true", help="Also query exact aliases found on verified official websites.")
+    parser.add_argument(
+        "--fuzzy",
+        action="store_true",
+        help="Also query exact aliases found on verified official websites.",
+    )
     args = parser.parse_args()
-    profiles = [json.loads(line) for line in Path(args.profiles).read_text().splitlines() if line.strip()]
+    profiles = [
+        json.loads(line)
+        for line in Path(args.profiles).read_text().splitlines()
+        if line.strip()
+    ]
     cache = SnapshotCache(Path(args.cache_dir))
     results = []
     with ThreadPoolExecutor(max_workers=max(1, args.workers)) as pool:
-        futures = {pool.submit(discover_one, profile, cache, args.timeout, args.delay, args.fuzzy): profile for profile in profiles}
+        futures = {
+            pool.submit(
+                discover_one, profile, cache, args.timeout, args.delay, args.fuzzy
+            ): profile
+            for profile in profiles
+        }
         for index, future in enumerate(as_completed(futures), 1):
             results.append(future.result())
             if index % 50 == 0:
-                print(f"{index}/{len(profiles)} accepted={sum(bool(item['accepted']) for item in results)}", flush=True)
-    results.sort(key=lambda item: next(i for i, profile in enumerate(profiles) if str(profile["organisation_number"]) == item["organisation_number"]))
-    retrieved_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+                print(
+                    f"{index}/{len(profiles)} accepted={sum(bool(item['accepted']) for item in results)}",
+                    flush=True,
+                )
+    results.sort(
+        key=lambda item: next(
+            i
+            for i, profile in enumerate(profiles)
+            if str(profile["organisation_number"]) == item["organisation_number"]
+        )
+    )
+    retrieved_at = datetime.now(UTC).isoformat().replace("+00:00", "Z")
     observations = []
     for row in results:
         accepted = row.get("accepted")
@@ -288,17 +384,24 @@ def main() -> None:
         profile_url = accepted["resolved_url"]
         observations.append(
             {
-                "id": "linkedin-discovered-handle-" + hashlib.sha256(f"{row['organisation_number']}|{profile_url}".encode()).hexdigest()[:24],
+                "id": "linkedin-discovered-handle-"
+                + hashlib.sha256(
+                    f"{row['organisation_number']}|{profile_url}".encode()
+                ).hexdigest()[:24],
                 "organisation_number": row["organisation_number"],
                 "platform": "linkedin",
                 "signal_type": "profile_handle",
                 "source_url": profile_url,
                 "profile_url": profile_url,
-                "linkedin_company_ids": sorted({item["linkedin_company_id"] for item in row.get("typeahead") or []}),
+                "linkedin_company_ids": sorted(
+                    {item["linkedin_company_id"] for item in row.get("typeahead") or []}
+                ),
                 "retrieved_at": retrieved_at,
                 "content_sha256": accepted["content_sha256"],
                 "exact_entity": True,
-                "identity_proof": [{"type": "linkedin_discovery_identity", "value": identity}],
+                "identity_proof": [
+                    {"type": "linkedin_discovery_identity", "value": identity}
+                ],
                 "acquisition_mode": "unofficial_api_experiment",
                 "rights_status": "experimental",
                 "source_class": "professional_network",
@@ -306,7 +409,10 @@ def main() -> None:
             }
         )
     Path(args.output).parent.mkdir(parents=True, exist_ok=True)
-    Path(args.output).write_text("".join(json.dumps(item, ensure_ascii=False) + "\n" for item in observations), encoding="utf-8")
+    Path(args.output).write_text(
+        "".join(json.dumps(item, ensure_ascii=False) + "\n" for item in observations),
+        encoding="utf-8",
+    )
     report = {
         "connector": "linkedin_exact_company_discovery_v1",
         "companies": len(profiles),
@@ -319,8 +425,14 @@ def main() -> None:
         "claim_boundary": "Discovery output is experimental pending LinkedIn source-rights approval; exact-entity gates remain mandatory.",
     }
     Path(args.report).parent.mkdir(parents=True, exist_ok=True)
-    Path(args.report).write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({key: value for key, value in report.items() if key != "results"}, indent=2))
+    Path(args.report).write_text(
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    print(
+        json.dumps(
+            {key: value for key, value in report.items() if key != "results"}, indent=2
+        )
+    )
 
 
 if __name__ == "__main__":

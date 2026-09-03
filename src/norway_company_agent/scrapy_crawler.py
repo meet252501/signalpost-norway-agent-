@@ -49,7 +49,9 @@ class OperationalTelemetryMiddleware:
     def _record(self, request):
         started = request.meta.get("_signalpost_started_at")
         if started is not None:
-            self.crawler.signalpost_request_latency_ms.append((time.monotonic() - started) * 1000)
+            self.crawler.signalpost_request_latency_ms.append(
+                (time.monotonic() - started) * 1000
+            )
         host = (urllib.parse.urlparse(request.url).hostname or "unknown").casefold()
         self.crawler.signalpost_request_domains[host] += 1
 
@@ -57,7 +59,9 @@ class OperationalTelemetryMiddleware:
         self._record(request)
         download_latency = request.meta.get("download_latency")
         if download_latency is not None:
-            self.crawler.signalpost_response_download_latency_ms.append(float(download_latency) * 1000)
+            self.crawler.signalpost_response_download_latency_ms.append(
+                float(download_latency) * 1000
+            )
         self.crawler.signalpost_response_statuses[str(response.status)] += 1
         return response
 
@@ -65,7 +69,9 @@ class OperationalTelemetryMiddleware:
         started = request.meta.get("_signalpost_started_at")
         self._record(request)
         if started is not None:
-            self.crawler.signalpost_failure_attempt_latency_ms.append((time.monotonic() - started) * 1000)
+            self.crawler.signalpost_failure_attempt_latency_ms.append(
+                (time.monotonic() - started) * 1000
+            )
         self.crawler.signalpost_error_buckets[type(exception).__name__] += 1
 
 
@@ -93,15 +99,28 @@ class SignalpostWebsiteSpider(scrapy.Spider):
         },
     }
 
-    def __init__(self, profiles_path: str, limit: int | None = None, organisation_numbers: str | None = None, *args, **kwargs):
+    def __init__(
+        self,
+        profiles_path: str,
+        limit: int | None = None,
+        organisation_numbers: str | None = None,
+        *args,
+        **kwargs,
+    ):
         super().__init__(*args, **kwargs)
         import json
 
-        rows = [json.loads(line) for line in Path(profiles_path).read_text(encoding="utf-8").splitlines() if line.strip()]
+        rows = [
+            json.loads(line)
+            for line in Path(profiles_path).read_text(encoding="utf-8").splitlines()
+            if line.strip()
+        ]
         allowed = set(organisation_numbers.split(",")) if organisation_numbers else None
         self.profiles = [
-            row for row in rows
-            if row.get("website") and (allowed is None or row["organisation_number"] in allowed)
+            row
+            for row in rows
+            if row.get("website")
+            and (allowed is None or row["organisation_number"] in allowed)
         ][: int(limit) if limit else None]
 
     def _initial_requests(self):
@@ -118,7 +137,9 @@ class SignalpostWebsiteSpider(scrapy.Spider):
                     "organisation_number": profile["organisation_number"],
                     "requested_url": url,
                     "page_kind": "homepage",
-                    "scheme_supplied": bool(re.match(r"^https?://", supplied, re.I)),
+                    "scheme_supplied": bool(
+                        re.match(r"^https?://", supplied, re.IGNORECASE)
+                    ),
                     "_company_started_at": time.monotonic(),
                 },
             )
@@ -137,7 +158,9 @@ class SignalpostWebsiteSpider(scrapy.Spider):
         yield event
         if event.get("status") != "available":
             return
-        soup = BeautifulSoup(response.body.decode(response.encoding or "utf-8", errors="replace"), "lxml")
+        soup = BeautifulSoup(
+            response.body.decode(response.encoding or "utf-8", errors="replace"), "lxml"
+        )
         for url in _priority_links(response.url, soup):
             yield scrapy.Request(
                 url,
@@ -179,7 +202,11 @@ class SignalpostWebsiteSpider(scrapy.Spider):
                 callback=self.parse_homepage,
                 errback=self.errback_page,
                 dont_filter=True,
-                meta={**request.meta, "requested_url": fallback, "http_fallback_attempted": True},
+                meta={
+                    **request.meta,
+                    "requested_url": fallback,
+                    "http_fallback_attempted": True,
+                },
             )
             return
         if request.meta.get("page_kind") == "homepage":

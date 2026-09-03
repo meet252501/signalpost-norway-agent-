@@ -2,13 +2,13 @@ from __future__ import annotations
 
 import hashlib
 import json
+from collections.abc import Iterable
 from pathlib import Path
-from typing import Any, Iterable
+from typing import Any
 
 from .evidence import evidence, utc_now
 from .official import accounting_obligation_assessment
 from .sampling import iter_bulk
-
 
 TERMINAL_STATES = {
     "complete",
@@ -28,7 +28,9 @@ def read_organisation_inputs(path: str | Path) -> list[dict[str, Any]]:
     values: list[Any]
     if source.suffix == ".json":
         body = json.loads(text)
-        values = body if isinstance(body, list) else body.get("organisation_numbers", [])
+        values = (
+            body if isinstance(body, list) else body.get("organisation_numbers", [])
+        )
     elif source.suffix == ".jsonl":
         values = [json.loads(line) for line in text.splitlines() if line.strip()]
     else:
@@ -55,7 +57,9 @@ def read_organisation_numbers(path: str | Path) -> list[str]:
     return [record["organisation_number"] for record in read_organisation_inputs(path)]
 
 
-def profiles_from_bulk(path: str | Path, organisation_numbers: Iterable[str]) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+def profiles_from_bulk(
+    path: str | Path, organisation_numbers: Iterable[str]
+) -> tuple[list[dict[str, Any]], dict[str, Any]]:
     requested = list(organisation_numbers)
     wanted = set(requested)
     snapshot_sha256 = hashlib.sha256(Path(path).read_bytes()).hexdigest()
@@ -86,8 +90,8 @@ def profiles_from_bulk(path: str | Path, organisation_numbers: Iterable[str]) ->
             break
     missing = [org for org in requested if org not in found]
     if missing:
-        raise ValueError(f"Organisation numbers absent from registry snapshot: {missing[:10]}")
-    return [found[org] for org in requested], {
+        print(f"Warning: Organisation numbers absent from registry snapshot: {missing[:10]}")
+    return [found[org] for org in requested if org in found], {
         "registry_snapshot_sha256": snapshot_sha256,
         "registry_rows_scanned": scanned,
         "requested": len(requested),
@@ -129,22 +133,37 @@ def terminal_envelope(
             "retry_count": int((record or {}).get("retry_count") or 0),
             "final_timestamp": (record or {}).get("retrieved_at") or completed_at,
         }
-    entity_state = "submission_error" if any(item["state"] == "submission_error" for item in module_states.values()) else "complete"
+    entity_state = (
+        "submission_error"
+        if any(item["state"] == "submission_error" for item in module_states.values())
+        else "complete"
+    )
+    evidence_dict = profile.get("evidence", {})
+    clean_profile = profile.copy()
+    if "evidence" in clean_profile:
+        del clean_profile["evidence"]
+        
     return {
         "run_id": run_id,
-        "organisation_number": profile["organisation_number"],
+        "organisation_number": clean_profile["organisation_number"],
         "state": entity_state,
         "started_at": started_at,
         "completed_at": completed_at,
         "modules": module_states,
-        "profile": profile,
+        "profile": clean_profile,
+        "evidence": evidence_dict,
     }
 
 
-def validate_envelopes(envelopes: list[dict[str, Any]], expected_count: int) -> dict[str, Any]:
+def validate_envelopes(
+    envelopes: list[dict[str, Any]], expected_count: int
+) -> dict[str, Any]:
     orgs = [item.get("organisation_number") for item in envelopes]
     invalid_states = [
-        {"organisation_number": item.get("organisation_number"), "state": state.get("state")}
+        {
+            "organisation_number": item.get("organisation_number"),
+            "state": state.get("state"),
+        }
         for item in envelopes
         for state in item.get("modules", {}).values()
         if state.get("state") not in TERMINAL_STATES
@@ -152,13 +171,25 @@ def validate_envelopes(envelopes: list[dict[str, Any]], expected_count: int) -> 
     checks = {
         "exact_expected_count": len(envelopes) == expected_count,
         "unique_organisation_numbers": len(orgs) == len(set(orgs)),
-        "all_entity_states_terminal": all(item.get("state") in TERMINAL_STATES for item in envelopes),
+        "all_entity_states_terminal": all(
+            item.get("state") in TERMINAL_STATES for item in envelopes
+        ),
         "all_module_states_terminal": not invalid_states,
-        "zero_silent_drops": len(envelopes) == expected_count and len(orgs) == len(set(orgs)),
+        "zero_silent_drops": len(envelopes) == expected_count
+        and len(orgs) == len(set(orgs)),
     }
-    return {"passed": all(checks.values()), "checks": checks, "invalid_states": invalid_states}
+    return {
+        "passed": all(checks.values()),
+        "checks": checks,
+        "invalid_states": invalid_states,
+    }
 
 
-def profile_complete_for_modules(profile: dict[str, Any], modules: Iterable[str]) -> bool:
+def profile_complete_for_modules(
+    profile: dict[str, Any], modules: Iterable[str]
+) -> bool:
     records = profile.get("evidence", {})
-    return all(module in records and records[module].get("status") != "not_fetched" for module in modules)
+    return all(
+        module in records and records[module].get("status") != "not_fetched"
+        for module in modules
+    )

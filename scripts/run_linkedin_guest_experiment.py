@@ -9,12 +9,11 @@ import re
 import time
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from pathlib import Path
 from urllib.parse import unquote, urlparse
 
 from bs4 import BeautifulSoup
-
 
 UA = "Mozilla/5.0 (compatible; SignalpostResearch/1.0)"
 LEGAL_SUFFIXES = {"as", "asa", "ba", "da", "enk", "nuf", "sa", "stiftelsen"}
@@ -29,7 +28,11 @@ def canonical_company_url(value: str) -> str | None:
     parsed = urlparse(str(value or ""))
     host = (parsed.hostname or "").casefold()
     parts = [unquote(part) for part in parsed.path.split("/") if part]
-    if (host != "linkedin.com" and not host.endswith(".linkedin.com")) or len(parts) < 2 or parts[0].casefold() != "company":
+    if (
+        (host != "linkedin.com" and not host.endswith(".linkedin.com"))
+        or len(parts) < 2
+        or parts[0].casefold() != "company"
+    ):
         return None
     return f"https://linkedin.com/company/{parts[1].casefold()}"
 
@@ -44,13 +47,19 @@ def normalized_company(value: str) -> str:
 def legal_name_profile_url(value: str) -> str | None:
     """Build one deterministic stale-handle fallback from the registry legal name."""
     transliterated = (
-        str(value or "").casefold().replace("æ", "ae").replace("ø", "o").replace("å", "a")
+        str(value or "")
+        .casefold()
+        .replace("æ", "ae")
+        .replace("ø", "o")
+        .replace("å", "a")
     )
     words = re.findall(r"[a-z0-9]+", transliterated)
     return f"https://www.linkedin.com/company/{'-'.join(words)}" if words else None
 
 
-def fetch_profile_page(profile_url: str, legal_name: str, timeout: float = 20) -> tuple[bytes, str, str | None]:
+def fetch_profile_page(
+    profile_url: str, legal_name: str, timeout: float = 20
+) -> tuple[bytes, str, str | None]:
     """Fetch the published handle, then one legal-name slug only when it is stale (404)."""
     try:
         raw, final_url = fetch(profile_url, timeout)
@@ -59,14 +68,18 @@ def fetch_profile_page(profile_url: str, legal_name: str, timeout: float = 20) -
         if exc.code != 404:
             raise
     fallback = legal_name_profile_url(legal_name)
-    if not fallback or canonical_company_url(fallback) == canonical_company_url(profile_url):
+    if not fallback or canonical_company_url(fallback) == canonical_company_url(
+        profile_url
+    ):
         raise urllib.error.HTTPError(profile_url, 404, "Not Found", {}, None)
     raw, final_url = fetch(fallback, timeout)
     return raw, final_url, fallback
 
 
 def registered_domain(value: str) -> str | None:
-    parsed = urlparse(str(value or "") if "://" in str(value or "") else f"https://{value}")
+    parsed = urlparse(
+        str(value or "") if "://" in str(value or "") else f"https://{value}"
+    )
     host = (parsed.hostname or "").casefold().removeprefix("www.")
     return host or None
 
@@ -102,7 +115,11 @@ def json_ld_graph(soup: BeautifulSoup) -> list[dict]:
 
 def _page_company_ids(soup: BeautifulSoup) -> list[str]:
     encoded_values = set(
-        re.findall(r"facetCurrentCompany(?:%3D|=)(?:%255B|%5B|\[)(.*?)(?:%255D|%5D|\])", str(soup), re.I)
+        re.findall(
+            r"facetCurrentCompany(?:%3D|=)(?:%255B|%5B|\[)(.*?)(?:%255D|%5D|\])",
+            str(soup),
+            re.IGNORECASE,
+        )
     )
     output = set()
     for encoded in encoded_values:
@@ -114,12 +131,14 @@ def _page_company_ids(soup: BeautifulSoup) -> list[str]:
 def _followers(soup: BeautifulSoup) -> int | None:
     descriptions = [
         str(tag.get("content") or "")
-        for tag in soup.select('meta[name="description"],meta[property="og:description"],meta[name="twitter:description"]')
+        for tag in soup.select(
+            'meta[name="description"],meta[property="og:description"],meta[name="twitter:description"]'
+        )
     ]
     match = re.search(
         r"([\d\s\u00a0.,]+)\s+(?:followers|follower|følgere|Follower:innen|seguidores)",
         " ".join(descriptions),
-        re.I,
+        re.IGNORECASE,
     )
     return clean_number(match.group(1)) if match else None
 
@@ -158,24 +177,35 @@ def extract_profile(raw: bytes, expected_url: str | None = None) -> dict:
     graph = json_ld_graph(soup)
     organisations = [item for item in graph if item.get("@type") == "Organization"]
     if not organisations:
-        raise RuntimeError("LinkedIn guest page returned no structured organization profile")
+        raise RuntimeError(
+            "LinkedIn guest page returned no structured organization profile"
+        )
     organisation = organisations[-1]
     page_url = canonical_company_url(str(organisation.get("url") or ""))
     if expected_url and page_url != expected_url:
-        raise RuntimeError(f"LinkedIn page identity mismatch: expected {expected_url}, received {page_url}")
+        raise RuntimeError(
+            f"LinkedIn page identity mismatch: expected {expected_url}, received {page_url}"
+        )
     number = organisation.get("numberOfEmployees") or {}
-    visible_employees = clean_number(number.get("value")) if isinstance(number, dict) else None
+    visible_employees = (
+        clean_number(number.get("value")) if isinstance(number, dict) else None
+    )
     engagement = _post_engagement(soup)
     posts = []
     for item in graph:
         if item.get("@type") != "DiscussionForumPosting":
             continue
-        author_url = canonical_company_url(str((item.get("author") or {}).get("url") or ""))
+        author_url = canonical_company_url(
+            str((item.get("author") or {}).get("url") or "")
+        )
         if page_url and author_url != page_url:
             continue
         url = str(item.get("url") or item.get("mainEntityOfPage") or "")
         activity_match = re.search(r"activity-(\d+)", unquote(url))
-        metrics = engagement.get(activity_match.group(1) if activity_match else "", {"likes": 0, "comments": 0})
+        metrics = engagement.get(
+            activity_match.group(1) if activity_match else "",
+            {"likes": 0, "comments": 0},
+        )
         posts.append(
             {
                 "url": url,
@@ -200,11 +230,15 @@ def extract_profile(raw: bytes, expected_url: str | None = None) -> dict:
     }
 
 
-def assess_profile_identity(profile: dict, requested_url: str | None, metrics: dict) -> dict:
-    website = ((profile.get("evidence") or {}).get("website") or {})
+def assess_profile_identity(
+    profile: dict, requested_url: str | None, metrics: dict
+) -> dict:
+    website = (profile.get("evidence") or {}).get("website") or {}
     website_value = website.get("value") or {}
     official_domain = registered_domain(
-        website_value.get("final_url") or website.get("source_url") or profile.get("website")
+        website_value.get("final_url")
+        or website.get("source_url")
+        or profile.get("website")
     )
     linkedin_domain = registered_domain(metrics.get("website"))
     legal_core = normalized_company(str(profile.get("name") or ""))
@@ -213,7 +247,9 @@ def assess_profile_identity(profile: dict, requested_url: str | None, metrics: d
     reverse_domain = bool(official_domain and official_domain == linkedin_domain)
     structured_page = bool(metrics.get("page_url"))
     return {
-        "publishable_candidate": bool(structured_page and (exact_name or reverse_domain)),
+        "publishable_candidate": bool(
+            structured_page and (exact_name or reverse_domain)
+        ),
         "requested_url": requested_url,
         "resolved_url": metrics.get("page_url"),
         "exact_legal_name_core": exact_name,
@@ -236,11 +272,19 @@ def main() -> None:
     parser.add_argument("--delay", type=float, default=1.0)
     parser.add_argument("--timeout", type=float, default=20.0)
     args = parser.parse_args()
-    handles = [json.loads(line) for line in Path(args.handles).read_text().splitlines() if line.strip()]
+    handles = [
+        json.loads(line)
+        for line in Path(args.handles).read_text().splitlines()
+        if line.strip()
+    ]
     linkedin = [item for item in handles if item.get("platform") == "linkedin"]
     profiles = {
         str(item["organisation_number"]): item
-        for item in (json.loads(line) for line in Path(args.profiles).read_text().splitlines() if line.strip())
+        for item in (
+            json.loads(line)
+            for line in Path(args.profiles).read_text().splitlines()
+            if line.strip()
+        )
     }
     observations = []
     errors = []
@@ -250,7 +294,9 @@ def main() -> None:
     cache_dir = Path(args.cache_dir)
     cache_dir.mkdir(parents=True, exist_ok=True)
     for handle in linkedin:
-        expected_url = canonical_company_url(str(handle.get("profile_url") or handle.get("source_url") or ""))
+        expected_url = canonical_company_url(
+            str(handle.get("profile_url") or handle.get("source_url") or "")
+        )
         try:
             profile = profiles[str(handle["organisation_number"])]
             raw, final_url, fallback_url = fetch_profile_page(
@@ -263,8 +309,13 @@ def main() -> None:
             metrics = extract_profile(raw)
             identity = assess_profile_identity(profile, expected_url, metrics)
             if not identity["publishable_candidate"]:
-                raise RuntimeError(f"LinkedIn exact-entity identity not established: {json.dumps(identity, ensure_ascii=False)}")
-            resolved_key = (str(handle["organisation_number"]), str(metrics["page_url"]))
+                raise RuntimeError(
+                    f"LinkedIn exact-entity identity not established: {json.dumps(identity, ensure_ascii=False)}"
+                )
+            resolved_key = (
+                str(handle["organisation_number"]),
+                str(metrics["page_url"]),
+            )
             if resolved_key in seen_resolved:
                 duplicate_resolved_handles.append(
                     {
@@ -275,7 +326,7 @@ def main() -> None:
                 )
                 continue
             seen_resolved.add(resolved_key)
-            retrieved = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+            retrieved = datetime.now(UTC).isoformat().replace("+00:00", "Z")
             common = {
                 "organisation_number": handle["organisation_number"],
                 "platform": "linkedin",
@@ -303,7 +354,10 @@ def main() -> None:
             observations.append(
                 {
                     **common,
-                    "id": "linkedin-profile-" + hashlib.sha256(f"{handle['organisation_number']}|{expected_url}|profile".encode()).hexdigest()[:24],
+                    "id": "linkedin-profile-"
+                    + hashlib.sha256(
+                        f"{handle['organisation_number']}|{expected_url}|profile".encode()
+                    ).hexdigest()[:24],
                     "signal_type": "profile_metrics",
                     "source_url": final_url,
                     "evidence_span": f"{metrics['name']} — {metrics['followers']} followers — {metrics['visible_employees']} visible employee profiles",
@@ -311,11 +365,17 @@ def main() -> None:
                     "strategy": "social_profile_metrics",
                 }
             )
-            if metrics["visible_employees"] is not None or metrics["employee_size_label"]:
+            if (
+                metrics["visible_employees"] is not None
+                or metrics["employee_size_label"]
+            ):
                 observations.append(
                     {
                         **common,
-                        "id": "linkedin-workforce-" + hashlib.sha256(f"{handle['organisation_number']}|{expected_url}|workforce".encode()).hexdigest()[:24],
+                        "id": "linkedin-workforce-"
+                        + hashlib.sha256(
+                            f"{handle['organisation_number']}|{expected_url}|workforce".encode()
+                        ).hexdigest()[:24],
                         "signal_type": "workforce_snapshot",
                         "source_url": final_url,
                         "evidence_span": f"LinkedIn structured company profile reports {metrics['visible_employees']} associated employee profiles and size {metrics['employee_size_label']}.",
@@ -334,7 +394,10 @@ def main() -> None:
                 observations.append(
                     {
                         **common,
-                        "id": "linkedin-post-" + hashlib.sha256(f"{handle['organisation_number']}|{post['url']}".encode()).hexdigest()[:24],
+                        "id": "linkedin-post-"
+                        + hashlib.sha256(
+                            f"{handle['organisation_number']}|{post['url']}".encode()
+                        ).hexdigest()[:24],
                         "signal_type": "public_post",
                         "source_url": post["url"],
                         "evidence_span": post["text"],
@@ -370,16 +433,27 @@ def main() -> None:
             )
         time.sleep(max(0, args.delay))
     Path(args.output).parent.mkdir(parents=True, exist_ok=True)
-    Path(args.output).write_text("".join(json.dumps(item, ensure_ascii=False) + "\n" for item in observations), encoding="utf-8")
+    Path(args.output).write_text(
+        "".join(json.dumps(item, ensure_ascii=False) + "\n" for item in observations),
+        encoding="utf-8",
+    )
     report = {
         "connector": "linkedin_guest_structured_company_v2",
         "handles": len(linkedin),
         "handles_extracted": len(company_results),
-        "companies_extracted": len({item["organisation_number"] for item in company_results}),
+        "companies_extracted": len(
+            {item["organisation_number"] for item in company_results}
+        ),
         "observations": len(observations),
-        "profile_metrics": sum(item["signal_type"] == "profile_metrics" for item in observations),
-        "workforce_snapshots": sum(item["signal_type"] == "workforce_snapshot" for item in observations),
-        "public_posts": sum(item["signal_type"] == "public_post" for item in observations),
+        "profile_metrics": sum(
+            item["signal_type"] == "profile_metrics" for item in observations
+        ),
+        "workforce_snapshots": sum(
+            item["signal_type"] == "workforce_snapshot" for item in observations
+        ),
+        "public_posts": sum(
+            item["signal_type"] == "public_post" for item in observations
+        ),
         "company_results": company_results,
         "duplicate_resolved_handles": duplicate_resolved_handles,
         "errors": errors,
@@ -389,8 +463,19 @@ def main() -> None:
             "Automated reuse remains experimental because LinkedIn's terms prohibit scraping without separate permission."
         ),
     }
-    Path(args.report).write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps({key: value for key, value in report.items() if key not in {"company_results", "errors"}}, indent=2))
+    Path(args.report).write_text(
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
+    print(
+        json.dumps(
+            {
+                key: value
+                for key, value in report.items()
+                if key not in {"company_results", "errors"}
+            },
+            indent=2,
+        )
+    )
 
 
 if __name__ == "__main__":

@@ -6,7 +6,9 @@ from typing import Any
 
 
 def _task_id(payload: dict[str, Any]) -> str:
-    encoded = json.dumps(payload, ensure_ascii=False, sort_keys=True, separators=(",", ":")).encode()
+    encoded = json.dumps(
+        payload, ensure_ascii=False, sort_keys=True, separators=(",", ":")
+    ).encode()
     return hashlib.sha256(encoded).hexdigest()[:24]
 
 
@@ -15,7 +17,9 @@ def plan_external_tasks(profile: dict[str, Any]) -> list[dict[str, Any]]:
     name = str(profile.get("name") or "")
     if not org or not name:
         return []
-    registry = (profile.get("evidence", {}).get("registry_live", {}).get("value") or profile)
+    registry = (
+        profile.get("evidence", {}).get("registry_live", {}).get("value") or profile
+    )
     address = registry.get("business_address") or registry.get("postal_address") or {}
     municipality = address.get("kommune") or profile.get("municipality") or ""
     website = profile.get("evidence", {}).get("website", {})

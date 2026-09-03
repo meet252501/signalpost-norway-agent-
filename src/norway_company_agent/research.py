@@ -4,7 +4,9 @@ import re
 from typing import Any
 
 
-def _claim(label: str, value: Any, record: dict[str, Any], classification: str) -> dict[str, Any]:
+def _claim(
+    label: str, value: Any, record: dict[str, Any], classification: str
+) -> dict[str, Any]:
     return {
         "claim": label,
         "value": value,
@@ -19,8 +21,31 @@ def _claim(label: str, value: Any, record: dict[str, Any], classification: str) 
 def answer_profile(row: dict[str, Any], question: str) -> dict[str, Any]:
     """Deterministic retrieval/answer layer; it never invents a missing field."""
     q = question.casefold()
-    financial_terms = ("financial", "finance", "account", "revenue", "income", "profit", "result", "debt", "asset", "regnskap")
-    all_topics = not any(term in q for term in (*financial_terms, "lead", "role", "location", "where", "social", "sentiment", "employee"))
+    financial_terms = (
+        "financial",
+        "finance",
+        "account",
+        "revenue",
+        "income",
+        "profit",
+        "result",
+        "debt",
+        "asset",
+        "regnskap",
+    )
+    all_topics = not any(
+        term in q
+        for term in (
+            *financial_terms,
+            "lead",
+            "role",
+            "location",
+            "where",
+            "social",
+            "sentiment",
+            "employee",
+        )
+    )
     evidence = row.get("evidence", {})
     facts: list[dict[str, Any]] = []
     unsupported: list[str] = []
@@ -51,15 +76,30 @@ def answer_profile(row: dict[str, Any], question: str) -> dict[str, Any]:
                 ("Debt", "debt"),
             ):
                 if latest.get(key) is not None:
-                    facts.append(_claim(label, latest[key], financial, "official_annual_account"))
+                    facts.append(
+                        _claim(label, latest[key], financial, "official_annual_account")
+                    )
         else:
-            unsupported.append("No normalized annual-account record was returned; missing values are not interpreted as zero.")
+            unsupported.append(
+                "No normalized annual-account record was returned; missing values are not interpreted as zero."
+            )
 
     roles = evidence.get("roles", {})
     if all_topics or any(term in q for term in ("lead", "role")):
-        people = [item for item in (roles.get("value") or {}).get("roles", []) if not item.get("inactive")]
+        people = [
+            item
+            for item in (roles.get("value") or {}).get("roles", [])
+            if not item.get("inactive")
+        ]
         for person in people[:12]:
-            facts.append(_claim(person.get("role") or person.get("group") or "Registered role", person.get("name") or person.get("organisation_number"), roles, "official_role_record"))
+            facts.append(
+                _claim(
+                    person.get("role") or person.get("group") or "Registered role",
+                    person.get("name") or person.get("organisation_number"),
+                    roles,
+                    "official_role_record",
+                )
+            )
         if not people:
             unsupported.append("No active public role holder was returned.")
 
@@ -67,25 +107,56 @@ def answer_profile(row: dict[str, Any], question: str) -> dict[str, Any]:
     if all_topics or any(term in q for term in ("location", "where")):
         items = (locations.get("value") or {}).get("locations", [])
         for item in items[:12]:
-            facts.append(_claim("Registered subunit", {"name": item.get("name"), "address": item.get("address")}, locations, "official_subunit_record"))
+            facts.append(
+                _claim(
+                    "Registered subunit",
+                    {"name": item.get("name"), "address": item.get("address")},
+                    locations,
+                    "official_subunit_record",
+                )
+            )
         if not items:
-            unsupported.append("No registered subunit was returned; this does not prove the company has no physical presence.")
+            unsupported.append(
+                "No registered subunit was returned; this does not prove the company has no physical presence."
+            )
 
     website = evidence.get("website", {})
     if all_topics or "social" in q:
         value = website.get("value") or {}
-        website_publishable = (value.get("identity_assessment") or {}).get("publishable", True)
+        website_publishable = (value.get("identity_assessment") or {}).get(
+            "publishable", True
+        )
         if value.get("description") and website_publishable:
-            facts.append(_claim("Website description", value["description"], website, "company_reported_claim"))
+            facts.append(
+                _claim(
+                    "Website description",
+                    value["description"],
+                    website,
+                    "company_reported_claim",
+                )
+            )
         for item in (value.get("social_links") or []) if website_publishable else []:
-            facts.append(_claim(f"Declared {item['platform']} profile", item["url"], website, "company_linked_social_profile"))
+            facts.append(
+                _claim(
+                    f"Declared {item['platform']} profile",
+                    item["url"],
+                    website,
+                    "company_linked_social_profile",
+                )
+            )
         if website.get("status") == "available" and not website_publishable:
-            unsupported.append("A registry-linked website was fetched, but exact legal-entity identity was not established; its claims and social links are quarantined.")
+            unsupported.append(
+                "A registry-linked website was fetched, but exact legal-entity identity was not established; its claims and social links are quarantined."
+            )
         if website.get("status") != "available":
-            unsupported.append("The registry-linked company website was not available to this run.")
+            unsupported.append(
+                "The registry-linked company website was not available to this run."
+            )
 
     if "sentiment" in q:
-        unsupported.append("Sentiment is not scored: no labelled Norwegian news/social evaluation corpus has been run, and company-owned pages are structurally promotional.")
+        unsupported.append(
+            "Sentiment is not scored: no labelled Norwegian news/social evaluation corpus has been run, and company-owned pages are structurally promotional."
+        )
 
     return {
         "organisation_number": row.get("organisation_number"),
@@ -109,14 +180,22 @@ UNSUPPORTED_SCREEN_TERMS = {
 
 
 def _latest_financial(row: dict[str, Any]) -> dict[str, Any]:
-    records = ((row.get("evidence", {}).get("financials", {}).get("value") or {}).get("records") or [])
+    records = (row.get("evidence", {}).get("financials", {}).get("value") or {}).get(
+        "records"
+    ) or []
     return records[0] if records else {}
 
 
 def _numeric_operator(phrase: str) -> str:
     return {
-        "more than": ">", "over": ">", "above": ">", "at least": ">=",
-        "fewer than": "<", "less than": "<", "under": "<", "at most": "<=",
+        "more than": ">",
+        "over": ">",
+        "above": ">",
+        "at least": ">=",
+        "fewer than": "<",
+        "less than": "<",
+        "under": "<",
+        "at most": "<=",
     }.get(phrase.casefold(), phrase)
 
 
@@ -125,49 +204,143 @@ def parse_screen_query(query: str) -> dict[str, Any]:
     text = " ".join(query.strip().split())
     lower = text.casefold()
     filters: list[dict[str, Any]] = []
-    unsupported = [message for term, message in UNSUPPORTED_SCREEN_TERMS.items() if term in lower]
+    unsupported = [
+        message for term, message in UNSUPPORTED_SCREEN_TERMS.items() if term in lower
+    ]
 
-    municipality = re.search(r"\b(?:in|municipality(?:\s+is|\s*=)?)\s+([a-zæøåéü .'-]+?)(?=\s+(?:with|and|having|that|where)\b|$)", lower)
+    municipality = re.search(
+        r"\b(?:in|municipality(?:\s+is|\s*=)?)\s+([a-zæøåéü .'-]+?)(?=\s+(?:with|and|having|that|where)\b|$)",
+        lower,
+    )
     if municipality:
-        filters.append({"field": "municipality", "operator": "eq", "value": municipality.group(1).strip().upper(), "evidence_module": "registry"})
+        filters.append(
+            {
+                "field": "municipality",
+                "operator": "eq",
+                "value": municipality.group(1).strip().upper(),
+                "evidence_module": "registry",
+            }
+        )
 
-    legal_form = re.search(r"\b(?:legal\s+form|organisation\s+form)\s*(?:is|=)?\s*(asa|as|enk|nuf|ans|da|sa|sti|brl)\b", lower)
+    legal_form = re.search(
+        r"\b(?:legal\s+form|organisation\s+form)\s*(?:is|=)?\s*(asa|as|enk|nuf|ans|da|sa|sti|brl)\b",
+        lower,
+    )
     if legal_form:
-        filters.append({"field": "legal_form", "operator": "eq", "value": legal_form.group(1).upper(), "evidence_module": "registry"})
+        filters.append(
+            {
+                "field": "legal_form",
+                "operator": "eq",
+                "value": legal_form.group(1).upper(),
+                "evidence_module": "registry",
+            }
+        )
 
-    employees = re.search(r"\b(more than|over|above|at least|fewer than|less than|under|at most)\s+(\d+)\s+(?:registered\s+)?employees?\b", lower)
+    employees = re.search(
+        r"\b(more than|over|above|at least|fewer than|less than|under|at most)\s+(\d+)\s+(?:registered\s+)?employees?\b",
+        lower,
+    )
     if not employees:
         employees = re.search(r"\bemployees?\s*(>=|<=|>|<|=)\s*(\d+)\b", lower)
     if employees:
-        filters.append({"field": "employees", "operator": _numeric_operator(employees.group(1)), "value": int(employees.group(2)), "evidence_module": "registry"})
+        filters.append(
+            {
+                "field": "employees",
+                "operator": _numeric_operator(employees.group(1)),
+                "value": int(employees.group(2)),
+                "evidence_module": "registry",
+            }
+        )
 
-    revenue = re.search(r"\brevenue\s*(>=|<=|>|<|=|more than|over|above|at least|fewer than|less than|under|at most)\s*(?:nok\s*)?([\d.,]+)\s*(billion|million|bn|m)?\b", lower)
+    revenue = re.search(
+        r"\brevenue\s*(>=|<=|>|<|=|more than|over|above|at least|fewer than|less than|under|at most)\s*(?:nok\s*)?([\d.,]+)\s*(billion|million|bn|m)?\b",
+        lower,
+    )
     if not revenue:
-        revenue = re.search(r"\b(more than|over|above|at least|fewer than|less than|under|at most)\s*(?:nok\s*)?([\d.,]+)\s*(billion|million|bn|m)?\s+revenue\b", lower)
+        revenue = re.search(
+            r"\b(more than|over|above|at least|fewer than|less than|under|at most)\s*(?:nok\s*)?([\d.,]+)\s*(billion|million|bn|m)?\s+revenue\b",
+            lower,
+        )
     if revenue:
         amount = float(revenue.group(2).replace(",", "."))
         unit = revenue.group(3)
-        amount *= 1_000_000_000 if unit in {"billion", "bn"} else 1_000_000 if unit in {"million", "m"} else 1
-        filters.append({"field": "revenue", "operator": _numeric_operator(revenue.group(1)), "value": amount, "evidence_module": "financials"})
+        amount *= (
+            1_000_000_000
+            if unit in {"billion", "bn"}
+            else 1_000_000
+            if unit in {"million", "m"}
+            else 1
+        )
+        filters.append(
+            {
+                "field": "revenue",
+                "operator": _numeric_operator(revenue.group(1)),
+                "value": amount,
+                "evidence_module": "financials",
+            }
+        )
 
     if re.search(r"\bunprofitable|loss[- ]making|negative annual result\b", lower):
-        filters.append({"field": "annual_result", "operator": "<", "value": 0, "evidence_module": "financials"})
+        filters.append(
+            {
+                "field": "annual_result",
+                "operator": "<",
+                "value": 0,
+                "evidence_module": "financials",
+            }
+        )
     elif re.search(r"\bprofitable|positive annual result\b", lower):
-        filters.append({"field": "annual_result", "operator": ">", "value": 0, "evidence_module": "financials"})
+        filters.append(
+            {
+                "field": "annual_result",
+                "operator": ">",
+                "value": 0,
+                "evidence_module": "financials",
+            }
+        )
 
     if re.search(r"\b(?:with|has|have)\s+(?:an?\s+)?(?:official\s+)?website\b", lower):
-        filters.append({"field": "website", "operator": "present", "value": True, "evidence_module": "website"})
+        filters.append(
+            {
+                "field": "website",
+                "operator": "present",
+                "value": True,
+                "evidence_module": "website",
+            }
+        )
     if re.search(r"\b(?:with|has|have)\s+(?:annual\s+)?accounts\b", lower):
-        filters.append({"field": "financials", "operator": "available", "value": True, "evidence_module": "financials"})
+        filters.append(
+            {
+                "field": "financials",
+                "operator": "available",
+                "value": True,
+                "evidence_module": "financials",
+            }
+        )
 
-    industry = re.search(r"\bindustry(?:\s+contains|\s+is|\s*=)?\s+[\"']([^\"']+)[\"']", text, flags=re.IGNORECASE)
+    industry = re.search(
+        r"\bindustry(?:\s+contains|\s+is|\s*=)?\s+[\"']([^\"']+)[\"']",
+        text,
+        flags=re.IGNORECASE,
+    )
     if industry:
-        filters.append({"field": "industry", "operator": "contains", "value": industry.group(1).casefold(), "evidence_module": "registry"})
+        filters.append(
+            {
+                "field": "industry",
+                "operator": "contains",
+                "value": industry.group(1).casefold(),
+                "evidence_module": "registry",
+            }
+        )
 
     sort = None
     top = re.search(r"\btop\s+(\d+)\s+by\s+(revenue|employees)\b", lower)
     if top:
-        sort = {"field": top.group(2), "direction": "desc", "limit": min(int(top.group(1)), 100)}
+        sort = {
+            "field": top.group(2),
+            "direction": "desc",
+            "limit": min(int(top.group(1)), 100),
+        }
     return {
         "version": "closed_company_screen_v1",
         "query": text,
@@ -189,7 +362,13 @@ def _compare(actual: Any, operator: str, expected: Any) -> bool:
         return str(expected).casefold() in str(actual or "").casefold()
     if actual is None:
         return False
-    return {">": actual > expected, ">=": actual >= expected, "<": actual < expected, "<=": actual <= expected, "=": actual == expected}[operator]
+    return {
+        ">": actual > expected,
+        ">=": actual >= expected,
+        "<": actual < expected,
+        "<=": actual <= expected,
+        "=": actual == expected,
+    }[operator]
 
 
 def _screen_value(row: dict[str, Any], field: str) -> Any:
@@ -199,47 +378,90 @@ def _screen_value(row: dict[str, Any], field: str) -> Any:
         return _latest_financial(row).get(field)
     if field == "website":
         record = row.get("evidence", {}).get("website", {})
-        return record.get("status") == "available" and bool((record.get("value") or {}).get("identity_assessment", {}).get("publishable", True))
+        return record.get("status") == "available" and bool(
+            (record.get("value") or {})
+            .get("identity_assessment", {})
+            .get("publishable", True)
+        )
     if field == "financials":
-        return row.get("evidence", {}).get("financials", {}).get("status") == "available"
+        return (
+            row.get("evidence", {}).get("financials", {}).get("status") == "available"
+        )
     if field == "industry":
-        return " ".join(filter(None, [str(row.get("industry_code") or ""), str(row.get("industry_label") or "")]))
+        return " ".join(
+            filter(
+                None,
+                [
+                    str(row.get("industry_code") or ""),
+                    str(row.get("industry_label") or ""),
+                ],
+            )
+        )
     return None
 
 
 def screen_profiles(rows: list[dict[str, Any]], query: str) -> dict[str, Any]:
     plan = parse_screen_query(query)
     if not plan["executable"]:
-        return {"query": query, "plan": plan, "results": [], "result_count": 0, "abstained": True, "reason": "; ".join(plan["unsupported"]) or "No supported criterion was recognized."}
+        return {
+            "query": query,
+            "plan": plan,
+            "results": [],
+            "result_count": 0,
+            "abstained": True,
+            "reason": "; ".join(plan["unsupported"])
+            or "No supported criterion was recognized.",
+        }
     results = []
     for row in rows:
-        if not all(_compare(_screen_value(row, item["field"]), item["operator"], item["value"]) for item in plan["filters"]):
+        if not all(
+            _compare(_screen_value(row, item["field"]), item["operator"], item["value"])
+            for item in plan["filters"]
+        ):
             continue
         citations = []
         evidence_modules = {item["evidence_module"] for item in plan["filters"]}
         if plan.get("sort"):
-            evidence_modules.add("financials" if plan["sort"]["field"] == "revenue" else "registry")
+            evidence_modules.add(
+                "financials" if plan["sort"]["field"] == "revenue" else "registry"
+            )
         for module in sorted(evidence_modules):
             record = row.get("evidence", {}).get(module, {})
-            citations.append({
-                "module": module,
-                "source_url": record.get("source_url"),
-                "retrieved_at": record.get("retrieved_at"),
-                "content_sha256": record.get("content_sha256"),
-            })
-        results.append({
-            "organisation_number": row.get("organisation_number"),
-            "name": row.get("name"),
-            "municipality": row.get("municipality"),
-            "employees": row.get("employees"),
-            "revenue": _latest_financial(row).get("revenue"),
-            "annual_result": _latest_financial(row).get("annual_result"),
-            "citations": citations,
-        })
+            citations.append(
+                {
+                    "module": module,
+                    "source_url": record.get("source_url"),
+                    "retrieved_at": record.get("retrieved_at"),
+                    "content_sha256": record.get("content_sha256"),
+                }
+            )
+        results.append(
+            {
+                "organisation_number": row.get("organisation_number"),
+                "name": row.get("name"),
+                "municipality": row.get("municipality"),
+                "employees": row.get("employees"),
+                "revenue": _latest_financial(row).get("revenue"),
+                "annual_result": _latest_financial(row).get("annual_result"),
+                "citations": citations,
+            }
+        )
     sort = plan.get("sort")
     if sort:
-        results.sort(key=lambda item: (item.get(sort["field"]) is None, -(item.get(sort["field"]) or 0), item.get("organisation_number") or ""))
+        results.sort(
+            key=lambda item: (
+                item.get(sort["field"]) is None,
+                -(item.get(sort["field"]) or 0),
+                item.get("organisation_number") or "",
+            )
+        )
         results = results[: sort["limit"]]
     else:
         results.sort(key=lambda item: item.get("organisation_number") or "")
-    return {"query": query, "plan": plan, "results": results, "result_count": len(results), "abstained": False}
+    return {
+        "query": query,
+        "plan": plan,
+        "results": results,
+        "result_count": len(results),
+        "abstained": False,
+    }

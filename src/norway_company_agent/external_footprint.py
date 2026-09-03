@@ -1,10 +1,9 @@
 from __future__ import annotations
 
 from collections import Counter, defaultdict
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from typing import Any
 from urllib.parse import urlparse
-
 
 PLATFORMS = {
     "company_site",
@@ -55,7 +54,13 @@ EXPERIMENTAL_ACQUISITION_MODES = {
     "unofficial_api_experiment",
     "rights_review_experiment",
 }
-INDEPENDENT_SENTIMENT_CLASSES = {"customer_review", "employee_review", "licensed_news", "public_news", "public_mention"}
+INDEPENDENT_SENTIMENT_CLASSES = {
+    "customer_review",
+    "employee_review",
+    "licensed_news",
+    "public_news",
+    "public_mention",
+}
 
 
 def _host(url: str) -> str:
@@ -86,10 +91,19 @@ def validate_observation(item: dict[str, Any]) -> list[str]:
         reasons.append("acquisition mode is not approved for publication")
     if item.get("rights_status") != "approved":
         reasons.append("source rights are not approved")
-    if item.get("signal_type") in {"review", "public_post", "public_mention"} and not item.get("evidence_span"):
+    if item.get("signal_type") in {
+        "review",
+        "public_post",
+        "public_mention",
+    } and not item.get("evidence_span"):
         reasons.append("missing evidence span")
     if item.get("sentiment_label") is not None:
-        if item.get("sentiment_label") not in {"positive", "neutral", "negative", "mixed"}:
+        if item.get("sentiment_label") not in {
+            "positive",
+            "neutral",
+            "negative",
+            "mixed",
+        }:
             reasons.append("unsupported sentiment label")
         if item.get("source_class") not in INDEPENDENT_SENTIMENT_CLASSES:
             reasons.append("sentiment source is not independent")
@@ -105,7 +119,7 @@ def publishable_observation(item: dict[str, Any]) -> bool:
 def _as_datetime(value: str | None) -> datetime | None:
     try:
         parsed = datetime.fromisoformat(str(value or "").replace("Z", "+00:00"))
-        return parsed if parsed.tzinfo else parsed.replace(tzinfo=timezone.utc)
+        return parsed if parsed.tzinfo else parsed.replace(tzinfo=UTC)
     except ValueError:
         return None
 
@@ -123,8 +137,12 @@ def aggregate_footprint(
     """
 
     accepted = [item for item in observations if publishable_observation(item)]
-    rejected = [{"id": item.get("id"), "reasons": validate_observation(item)} for item in observations if not publishable_observation(item)]
-    now = _as_datetime(as_of) or datetime.now(timezone.utc)
+    rejected = [
+        {"id": item.get("id"), "reasons": validate_observation(item)}
+        for item in observations
+        if not publishable_observation(item)
+    ]
+    now = _as_datetime(as_of) or datetime.now(UTC)
     cutoff_seconds = freshness_days * 86_400
     fresh = []
     for item in accepted:
@@ -136,21 +154,40 @@ def aggregate_footprint(
     for item in accepted:
         by_platform[item["platform"]].append(item)
 
-    review_items = [item for item in accepted if item["signal_type"] in {"review", "review_summary"}]
+    review_items = [
+        item for item in accepted if item["signal_type"] in {"review", "review_summary"}
+    ]
     job_items = [item for item in accepted if item["signal_type"] == "job_posting"]
-    public_items = [item for item in accepted if item["signal_type"] in {"public_post", "public_mention", "buzz_metrics"}]
+    public_items = [
+        item
+        for item in accepted
+        if item["signal_type"] in {"public_post", "public_mention", "buzz_metrics"}
+    ]
     sentiment_items = [item for item in accepted if item.get("sentiment_label")]
-    independent_sentiment_hosts = {_host(str(item["source_url"])) for item in sentiment_items}
+    independent_sentiment_hosts = {
+        _host(str(item["source_url"])) for item in sentiment_items
+    }
     independent_sentiment_reviewers = {
-        str(item.get("reviewer_id")) for item in sentiment_items if item.get("reviewer_id")
+        str(item.get("reviewer_id"))
+        for item in sentiment_items
+        if item.get("reviewer_id")
     }
 
     label_values = {"negative": -1, "neutral": 0, "positive": 1}
-    scalar_sentiment = [label_values[item["sentiment_label"]] for item in sentiment_items if item["sentiment_label"] in label_values]
+    scalar_sentiment = [
+        label_values[item["sentiment_label"]]
+        for item in sentiment_items
+        if item["sentiment_label"] in label_values
+    ]
     sentiment_ready = len(sentiment_items) >= 10 and (
-        len(independent_sentiment_hosts) >= 2 or len(independent_sentiment_reviewers) >= 10
+        len(independent_sentiment_hosts) >= 2
+        or len(independent_sentiment_reviewers) >= 10
     )
-    sentiment_score = round(50 + 50 * sum(scalar_sentiment) / len(scalar_sentiment), 1) if sentiment_ready and scalar_sentiment else None
+    sentiment_score = (
+        round(50 + 50 * sum(scalar_sentiment) / len(scalar_sentiment), 1)
+        if sentiment_ready and scalar_sentiment
+        else None
+    )
 
     engagement = sum(
         int((item.get("metrics") or {}).get(field) or 0)
@@ -165,7 +202,9 @@ def aggregate_footprint(
         "rejected_observations": len(rejected),
         "rejections": rejected,
         "platforms": sorted(by_platform),
-        "platform_counts": {platform: len(items) for platform, items in sorted(by_platform.items())},
+        "platform_counts": {
+            platform: len(items) for platform, items in sorted(by_platform.items())
+        },
         "fresh_observations": len(fresh),
         "freshness_days": freshness_days,
         "review_signal_count": len(review_items),
@@ -178,7 +217,9 @@ def aggregate_footprint(
             "items": len(sentiment_items),
             "independent_sources": len(independent_sentiment_hosts),
             "independent_reviewers": len(independent_sentiment_reviewers),
-            "label_counts": dict(Counter(item["sentiment_label"] for item in sentiment_items)),
+            "label_counts": dict(
+                Counter(item["sentiment_label"] for item in sentiment_items)
+            ),
             "warning": "Dated contextual signal, not a timeless fact about the company.",
         },
     }

@@ -11,11 +11,18 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from norway_company_agent.external_footprint import publishable_observation, validate_observation  # noqa: E402
+from norway_company_agent.external_footprint import (
+    publishable_observation,
+    validate_observation,
+)
 
 
 def read_jsonl(path: Path) -> list[dict[str, Any]]:
-    return [json.loads(line) for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+    return [
+        json.loads(line)
+        for line in path.read_text(encoding="utf-8").splitlines()
+        if line.strip()
+    ]
 
 
 def ratio(numerator: int, denominator: int) -> float:
@@ -23,10 +30,16 @@ def ratio(numerator: int, denominator: int) -> float:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Evaluate frozen external-footprint observations and exact-entity labels.")
+    parser = argparse.ArgumentParser(
+        description="Evaluate frozen external-footprint observations and exact-entity labels."
+    )
     parser.add_argument("--profiles", required=True)
     parser.add_argument("--observations", required=True)
-    parser.add_argument("--labels", required=True, help="JSONL: id, exact_entity, metric_correct, sentiment_correct")
+    parser.add_argument(
+        "--labels",
+        required=True,
+        help="JSONL: id, exact_entity, metric_correct, sentiment_correct",
+    )
     parser.add_argument("--output", required=True)
     parser.add_argument("--minimum-audit", type=int, default=100)
     args = parser.parse_args()
@@ -44,11 +57,20 @@ def main() -> None:
 
     audited = [item for item in observations if str(item.get("id")) in labels]
     published = [item for item in audited if publishable_observation(item)]
-    wrong_entity = sum(not labels[str(item["id"])].get("exact_entity", False) for item in published)
-    wrong_metric = sum(not labels[str(item["id"])].get("metric_correct", False) for item in published)
+    wrong_entity = sum(
+        not labels[str(item["id"])].get("exact_entity", False) for item in published
+    )
+    wrong_metric = sum(
+        not labels[str(item["id"])].get("metric_correct", False) for item in published
+    )
     unsupported = sum(bool(validate_observation(item)) for item in published)
-    sentiment_audited = [item for item in published if item.get("sentiment_label") is not None]
-    sentiment_correct = sum(labels[str(item["id"])].get("sentiment_correct", False) for item in sentiment_audited)
+    sentiment_audited = [
+        item for item in published if item.get("sentiment_label") is not None
+    ]
+    sentiment_correct = sum(
+        labels[str(item["id"])].get("sentiment_correct", False)
+        for item in sentiment_audited
+    )
 
     all_orgs = {str(item["organisation_number"]) for item in profiles}
     accepted_all = [item for item in observations if publishable_observation(item)]
@@ -62,17 +84,56 @@ def main() -> None:
         org_signals[org].add(str(item["signal_type"]))
 
     coverage = {
-        "any_external": ratio(sum(bool(org_platforms[org]) for org in all_orgs), len(all_orgs)),
-        "two_platforms": ratio(sum(len(org_platforms[org]) >= 2 for org in all_orgs), len(all_orgs)),
-        "workforce_jobs": ratio(sum(bool(org_signals[org] & {"job_posting", "workforce_snapshot"}) for org in all_orgs), len(all_orgs)),
-        "ratings_reviews": ratio(sum(bool(org_signals[org] & {"review", "review_summary", "place_summary"}) for org in all_orgs), len(all_orgs)),
-        "buzz_engagement": ratio(sum(bool(org_signals[org] & {"public_post", "public_mention", "profile_metrics"}) for org in all_orgs), len(all_orgs)),
-        "sentiment": ratio(sum(any(item.get("sentiment_label") for item in accepted_all if str(item.get("organisation_number")) == org) for org in all_orgs), len(all_orgs)),
+        "any_external": ratio(
+            sum(bool(org_platforms[org]) for org in all_orgs), len(all_orgs)
+        ),
+        "two_platforms": ratio(
+            sum(len(org_platforms[org]) >= 2 for org in all_orgs), len(all_orgs)
+        ),
+        "workforce_jobs": ratio(
+            sum(
+                bool(org_signals[org] & {"job_posting", "workforce_snapshot"})
+                for org in all_orgs
+            ),
+            len(all_orgs),
+        ),
+        "ratings_reviews": ratio(
+            sum(
+                bool(org_signals[org] & {"review", "review_summary", "place_summary"})
+                for org in all_orgs
+            ),
+            len(all_orgs),
+        ),
+        "buzz_engagement": ratio(
+            sum(
+                bool(
+                    org_signals[org]
+                    & {"public_post", "public_mention", "profile_metrics"}
+                )
+                for org in all_orgs
+            ),
+            len(all_orgs),
+        ),
+        "sentiment": ratio(
+            sum(
+                any(
+                    item.get("sentiment_label")
+                    for item in accepted_all
+                    if str(item.get("organisation_number")) == org
+                )
+                for org in all_orgs
+            ),
+            len(all_orgs),
+        ),
     }
-    acquisition_modes = Counter(str(item.get("acquisition_mode")) for item in observations)
+    acquisition_modes = Counter(
+        str(item.get("acquisition_mode")) for item in observations
+    )
     entity_precision = ratio(len(published) - wrong_entity, len(published))
     metric_precision = ratio(len(published) - wrong_metric, len(published))
-    sentiment_accuracy = ratio(sentiment_correct, len(sentiment_audited)) if sentiment_audited else None
+    sentiment_accuracy = (
+        ratio(sentiment_correct, len(sentiment_audited)) if sentiment_audited else None
+    )
     qualification = bool(
         audit_size_gate
         and published
@@ -95,14 +156,18 @@ def main() -> None:
         "sentiment_audited": len(sentiment_audited),
         "sentiment_accuracy": sentiment_accuracy,
         "coverage": coverage,
-        "platform_counts": dict(Counter(str(item.get("platform")) for item in accepted_all)),
+        "platform_counts": dict(
+            Counter(str(item.get("platform")) for item in accepted_all)
+        ),
         "acquisition_modes": dict(acquisition_modes),
         "minimum_audit": args.minimum_audit,
         "audit_size_gate": audit_size_gate,
         "qualification_passed": qualification,
     }
     Path(args.output).parent.mkdir(parents=True, exist_ok=True)
-    Path(args.output).write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    Path(args.output).write_text(
+        json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
     print(json.dumps(report, ensure_ascii=False, indent=2))
 
 

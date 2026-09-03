@@ -4,9 +4,13 @@ from collections import Counter
 from typing import Any
 from urllib.parse import urlparse
 
-
 LABELS = ("positive", "neutral", "negative", "mixed")
-INDEPENDENT_SOURCE_CLASSES = {"licensed_news", "public_news", "official_notice", "licensed_review"}
+INDEPENDENT_SOURCE_CLASSES = {
+    "licensed_news",
+    "public_news",
+    "official_notice",
+    "licensed_review",
+}
 
 
 def sentiment_input_eligibility(item: dict[str, Any]) -> tuple[bool, list[str]]:
@@ -15,14 +19,22 @@ def sentiment_input_eligibility(item: dict[str, Any]) -> tuple[bool, list[str]]:
         reasons.append("exact company identity is not verified")
     if item.get("source_class") not in INDEPENDENT_SOURCE_CLASSES:
         reasons.append("source is not an allowed independent class")
-    for field in ("source_url", "retrieved_at", "evidence_span", "content_sha256", "text"):
+    for field in (
+        "source_url",
+        "retrieved_at",
+        "evidence_span",
+        "content_sha256",
+        "text",
+    ):
         if not item.get(field):
             reasons.append(f"missing {field}")
     return not reasons, reasons
 
 
 def publishable_sentiment_item(item: dict[str, Any]) -> bool:
-    eligible, _ = sentiment_input_eligibility({**item, "text": item.get("text") or item.get("evidence_span")})
+    eligible, _ = sentiment_input_eligibility(
+        {**item, "text": item.get("text") or item.get("evidence_span")}
+    )
     return bool(eligible and item.get("label") in LABELS)
 
 
@@ -48,7 +60,13 @@ def aggregate_company_sentiment(items: list[dict[str, Any]]) -> dict[str, Any]:
         }
     counts = Counter(item["label"] for item in accepted)
     non_neutral = {label for label in counts if label != "neutral" and counts[label]}
-    label = next(iter(non_neutral)) if len(non_neutral) == 1 else "mixed" if len(non_neutral) > 1 else "neutral"
+    label = (
+        next(iter(non_neutral))
+        if len(non_neutral) == 1
+        else "mixed"
+        if len(non_neutral) > 1
+        else "neutral"
+    )
     return {
         "status": "available",
         "label": label,
@@ -68,7 +86,9 @@ def evaluate_predictions(
     minimum_items: int = 300,
 ) -> dict[str, Any]:
     if minimum_items < 300:
-        raise ValueError("The POC sentiment qualification minimum cannot be lower than 300 items")
+        raise ValueError(
+            "The POC sentiment qualification minimum cannot be lower than 300 items"
+        )
     gold_ids = [str(item["id"]) for item in gold]
     prediction_ids = [str(item["id"]) for item in predictions]
     if len(set(gold_ids)) != len(gold_ids):
@@ -91,8 +111,12 @@ def evaluate_predictions(
     )
     wrong_entity = sum(not item.get("exact_entity", False) for item in published_items)
     supported = sum(publishable_sentiment_item(item) for item in published_items)
-    company_owned = sum(item.get("source_class") == "company_owned" for item in published_items)
-    active_labels = tuple(label for label in LABELS if any(item["label"] == label for item in gold))
+    company_owned = sum(
+        item.get("source_class") == "company_owned" for item in published_items
+    )
+    active_labels = tuple(
+        label for label in LABELS if any(item["label"] == label for item in gold)
+    )
     for label in LABELS:
         tp = fp = fn = 0
         for item in gold:
@@ -104,12 +128,27 @@ def evaluate_predictions(
             fn += actual == label and predicted_label != label
         precision = tp / (tp + fp) if tp + fp else 0.0
         recall = tp / (tp + fn) if tp + fn else 0.0
-        f1 = 2 * precision * recall / (precision + recall) if precision + recall else 0.0
-        per_label[label] = {"precision": precision, "recall": recall, "f1": f1, "support": sum(item["label"] == label for item in gold)}
-    macro_f1 = sum(per_label[label]["f1"] for label in active_labels) / len(active_labels) if active_labels else 0.0
+        f1 = (
+            2 * precision * recall / (precision + recall) if precision + recall else 0.0
+        )
+        per_label[label] = {
+            "precision": precision,
+            "recall": recall,
+            "f1": f1,
+            "support": sum(item["label"] == label for item in gold),
+        }
+    macro_f1 = (
+        sum(per_label[label]["f1"] for label in active_labels) / len(active_labels)
+        if active_labels
+        else 0.0
+    )
     published = len(published_items)
-    required_labels_present = all(per_label[label]["support"] > 0 for label in ("positive", "neutral", "negative"))
-    exact_entity_precision = (published - wrong_entity) / published if published else None
+    required_labels_present = all(
+        per_label[label]["support"] > 0 for label in ("positive", "neutral", "negative")
+    )
+    exact_entity_precision = (
+        (published - wrong_entity) / published if published else None
+    )
     evidence_support_rate = supported / published if published else None
     coverage = published / len(gold) if gold else None
     gate = bool(
@@ -140,5 +179,7 @@ def evaluate_predictions(
         "minimum_items_gate": minimum_items,
         "required_labels_present": required_labels_present,
         "qualification_passed": gate,
-        "production_scale_gate_passed": bool(gate and len(gold) >= 600 and per_label["mixed"]["support"] > 0),
+        "production_scale_gate_passed": bool(
+            gate and len(gold) >= 600 and per_label["mixed"]["support"] > 0
+        ),
     }

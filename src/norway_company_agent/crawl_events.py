@@ -8,7 +8,14 @@ import trafilatura
 from bs4 import BeautifulSoup
 
 from .evidence import evidence, utc_now
-from .website import _extraction_state, _jsonld_organisations, _registered_domain, _social_links, normalize_homepage, structured_social_links
+from .website import (
+    _extraction_state,
+    _jsonld_organisations,
+    _registered_domain,
+    _social_links,
+    normalize_homepage,
+    structured_social_links,
+)
 
 
 def extract_page_event(
@@ -34,15 +41,38 @@ def extract_page_event(
         "content_sha256": hashlib.sha256(body).hexdigest(),
     }
     if status_code < 200 or status_code >= 300:
-        return {**base, "status": "not_found" if status_code in {404, 410} else "source_error", "error": f"HTTP {status_code}"}
+        return {
+            **base,
+            "status": "not_found" if status_code in {404, 410} else "source_error",
+            "error": f"HTTP {status_code}",
+        }
     if "html" not in content_type.casefold():
-        return {**base, "status": "source_error", "error": f"Unsupported content type: {content_type}"}
+        return {
+            **base,
+            "status": "source_error",
+            "error": f"Unsupported content type: {content_type}",
+        }
     page_html = body.decode("utf-8", errors="replace")
     soup = BeautifulSoup(page_html, "lxml")
-    text = trafilatura.extract(page_html, url=final_url, include_links=False, include_tables=False, favor_precision=True) or ""
+    text = (
+        trafilatura.extract(
+            page_html,
+            url=final_url,
+            include_links=False,
+            include_tables=False,
+            favor_precision=True,
+        )
+        or ""
+    )
     title = soup.title.get_text(" ", strip=True)[:500] if soup.title else ""
-    description_tag = soup.select_one('meta[name="description"], meta[property="og:description"]')
-    description = str(description_tag.get("content") or "").strip()[:2000] if description_tag else ""
+    description_tag = soup.select_one(
+        'meta[name="description"], meta[property="og:description"]'
+    )
+    description = (
+        str(description_tag.get("content") or "").strip()[:2000]
+        if description_tag
+        else ""
+    )
     identity_nodes = soup.select(
         'footer, address, [itemprop="legalName"], [itemprop="address"], '
         '[itemprop="telephone"], [itemprop="email"]'
@@ -60,10 +90,18 @@ def extract_page_event(
         "extraction_state": _extraction_state(text, soup),
     }
     if page_kind == "homepage":
-        structured = extruct.extract(page_html, base_url=final_url, syntaxes=["json-ld", "microdata", "opengraph"])
+        structured = extruct.extract(
+            page_html,
+            base_url=final_url,
+            syntaxes=["json-ld", "microdata", "opengraph"],
+        )
         event["structured_organisations"] = _jsonld_organisations(structured)
-        combined_social = event["social_links"] + structured_social_links(event["structured_organisations"])
-        event["social_links"] = list({(item["platform"], item["url"]): item for item in combined_social}.values())
+        combined_social = event["social_links"] + structured_social_links(
+            event["structured_organisations"]
+        )
+        event["social_links"] = list(
+            {(item["platform"], item["url"]): item for item in combined_social}.values()
+        )
         event["registered_domain"] = _registered_domain(final_url)
     return event
 
@@ -90,7 +128,9 @@ def error_page_event(
     }
 
 
-def missing_seed_error_events(profiles: list[dict[str, Any]], events: list[dict[str, Any]]) -> list[dict[str, Any]]:
+def missing_seed_error_events(
+    profiles: list[dict[str, Any]], events: list[dict[str, Any]]
+) -> list[dict[str, Any]]:
     """Give every crawlable seed a terminal ledger entry, including robots rejections."""
     event_orgs = {str(event.get("organisation_number") or "") for event in events}
     missing = []
@@ -100,16 +140,20 @@ def missing_seed_error_events(profiles: list[dict[str, Any]], events: list[dict[
             continue
         requested_url = normalize_homepage(str(profile["website"]))
         if requested_url:
-            missing.append(error_page_event(
-                organisation_number=organisation_number,
-                requested_url=requested_url,
-                page_kind="homepage",
-                error="No page event emitted; request was rejected before download (for example by robots.txt).",
-            ))
+            missing.append(
+                error_page_event(
+                    organisation_number=organisation_number,
+                    requested_url=requested_url,
+                    page_kind="homepage",
+                    error="No page event emitted; request was rejected before download (for example by robots.txt).",
+                )
+            )
     return missing
 
 
-def merge_profile_events(profile: dict[str, Any], events: list[dict[str, Any]]) -> dict[str, Any]:
+def merge_profile_events(
+    profile: dict[str, Any], events: list[dict[str, Any]]
+) -> dict[str, Any]:
     homepage_events = [item for item in events if item.get("page_kind") == "homepage"]
     homepage_events.sort(key=lambda item: item.get("retrieved_at") or "")
     homepage = homepage_events[-1] if homepage_events else None
@@ -118,7 +162,10 @@ def merge_profile_events(profile: dict[str, Any], events: list[dict[str, Any]]) 
             "website",
             "not_found",
             "registry_linked_company_website_scrapy",
-            str(profile.get("website") or "https://data.brreg.no/enhetsregisteret/api/enheter"),
+            str(
+                profile.get("website")
+                or "https://data.brreg.no/enhetsregisteret/api/enheter"
+            ),
             note="No homepage crawl event was produced",
         )
     if homepage.get("status") != "available":
@@ -134,7 +181,13 @@ def merge_profile_events(profile: dict[str, Any], events: list[dict[str, Any]]) 
     available = [item for item in events if item.get("status") == "available"]
     unique_pages = {}
     social = {}
-    for item in sorted(available, key=lambda value: (value.get("page_kind") != "homepage", value.get("final_url") or "")):
+    for item in sorted(
+        available,
+        key=lambda value: (
+            value.get("page_kind") != "homepage",
+            value.get("final_url") or "",
+        ),
+    ):
         page = {
             "url": item.get("final_url"),
             "title": item.get("title") or "",
@@ -159,7 +212,10 @@ def merge_profile_events(profile: dict[str, Any], events: list[dict[str, Any]]) 
         "extraction_state": homepage.get("extraction_state"),
         "pages": list(unique_pages.values()),
         "crawl_errors": [
-            {"url": item.get("final_url") or item.get("requested_url"), "error": item.get("error")}
+            {
+                "url": item.get("final_url") or item.get("requested_url"),
+                "error": item.get("error"),
+            }
             for item in events
             if item.get("status") != "available"
         ],
