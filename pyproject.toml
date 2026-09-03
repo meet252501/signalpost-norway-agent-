@@ -1,16 +1,28 @@
 [project]
-name = "signalpost-norway-agent"
+name = "norway-company-agent-poc"
 version = "0.1.0"
-description = "Norway company-intelligence agent for the Builderr.ai Signalpost challenge"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
+dependencies = [
+  "beautifulsoup4>=4.14,<5",
+  "extruct>=0.18,<1",
+  "lxml>=6,<7",
+  "pydantic>=2.12,<3",
+  "pypdf>=6,<7",
+  "rapidfuzz>=3.14.6",
+  "tldextract>=5.3,<6",
+  "trafilatura>=2.0,<3",
+]
 
-[tool.ruff]
-line-length = 100
-target-version = "py311"
+[project.optional-dependencies]
+crawler = [
+  "scrapy>=2.13,<3",
+  "scrapy-playwright>=0.0.44,<1",
+]
+sentiment = [
+  "accelerate>=1.10,<2",
+  "torch>=2.5,<3",
+  "transformers>=4.51,<5",
+]
 
-[tool.ruff.lint]
-select = ["E", "F", "I", "UP", "B"]
-
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-asyncio_mode = "auto"
+[tool.uv]
+package = false

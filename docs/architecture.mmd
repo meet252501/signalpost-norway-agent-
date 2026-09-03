@@ -1,9 +1,0 @@
-flowchart TD
-    A[Org-number manifest\n411,160 companies] --> B[1. RESOLVE\nregistry lookup -> canonical entity]
-    B --> C[2. DISCOVER CANDIDATES\nofficial site, LinkedIn, jobs, news]
-    C --> D[3. CRAWL\nScrapy sitemap-first / Playwright fallback]
-    D --> E[4. EXTRACT\nextruct structured data / Trafilatura text]
-    E --> F[5. MATCH and VERIFY\nRapidFuzz confidence scoring]
-    F --> G[6. VALIDATE\nPydantic schema + provenance]
-    G --> H[7. STORE / SNAPSHOT\nappend-only, diffable]
-    H --> I[8. SERVE\nFastAPI + React dashboard]

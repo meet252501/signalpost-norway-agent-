@@ -1,92 +1,79 @@
-# Signalpost Norway Agent
+# Signalpost reference agent
 
-Builderr.ai challenge — **Signalpost company research**
-Open: Aug 23 – Oct 21, 2026 · Prize pool: $2,500 · Bonus: JBOX $250/$150/$100 · Fortnightly vote: $100 x 4
+This is a runnable starting point for the Signalpost company-research challenge. It is intentionally a solid baseline, not a winning submission.
 
-## What this is
+The public universe contains 411,160 eligible companies. A valid entry must process at least 1,000; you may process 10,000 or the full universe.
 
-An autonomous agent that builds verified company-intelligence profiles for
-Norway-registered companies from public sources only — official filings,
-company websites, LinkedIn, job boards, and dated news/public activity.
-Think "Crunchbase for Norway," rebuilt from scratch with provenance on
-every claim.
+## What it already does
 
-Full challenge context lives in [`docs/challenge_brief_summary.md`](docs/challenge_brief_summary.md).
+- reads a batch of Norwegian organisation numbers;
+- anchors identity in the Brønnøysund bulk registry;
+- fetches official financials, roles, group links and registered workplaces;
+- visits the registry-listed website and rejects weak entity matches;
+- emits one terminal JSONL envelope per input;
+- records sources, retrieval times, content hashes, request counts and latency;
+- supports checkpoint/resume and a deterministic refresh replay;
+- includes examples for external-footprint discovery and an evidence-bounded research agent.
 
-## Repo layout
+## First run
 
-```
-signalpost-norway-agent/
-├── README.md                       ← you are here
-├── PROJECT_PLAN.md                  ← phased build plan, milestones, timeline
-├── TODO.md                          ← running checklist
-├── NOTES.md                         ← daily working log
-├── CHANGELOG.md
-├── CONTRIBUTING.md                   ← workflow, style, commit conventions
-├── SECURITY.md                       ← secrets handling, safe-URL policy
-├── LICENSE                           ← MIT (adjust if the challenge requires otherwise)
-├── Makefile                          ← install / lint / test / crawl-dev / freeze
-├── pyproject.toml                     ← ruff + pytest config
-├── requirements.txt / requirements-dev.txt
-├── Dockerfile / docker-compose.yml    ← reproducible batch runs
-├── .env.example                       ← required env vars (no secrets committed)
-├── .editorconfig / .gitignore
-├── .github/
-│   ├── workflows/ci.yml                ← lint + test + idempotency check on every push
-│   ├── PULL_REQUEST_TEMPLATE.md
-│   └── ISSUE_TEMPLATE/                  ← bug report, strategy/feature idea
-├── docs/
-│   ├── challenge_brief_summary.md      ← condensed rules, gates, scoring, budget
-│   ├── architecture.md / architecture.mmd  ← system design (text + Mermaid diagram)
-│   ├── data_schema.md                   ← output-contract doc (mirrors src/validate/schema.py)
-│   ├── source_policy.md                 ← what we're allowed to crawl and how
-│   ├── scoring_and_gates.md             ← hard gates + scoring weights, mapped to our checks
-│   ├── learning_harness.md              ← strategy try/score/promote/freeze loop
-│   ├── api_and_budget.md                ← request/time/cost budget tracking per batch
-│   ├── SUBMISSION.md                    ← fill-in template for each submission/revision
-│   ├── glossary.md / faq.md / risk_register.md
-│   └── pdf/                             ← PDF exports of the plan + brief summary
-├── src/
-│   ├── config.py       ← env-driven settings, single source of truth for budgets/keys
-│   ├── resolve/          ← org number -> canonical entity resolution
-│   ├── crawl/             ← Scrapy spiders, sitemap discovery, Playwright fallback
-│   ├── extract/            ← extruct (structured data) + Trafilatura (text)
-│   ├── match/               ← RapidFuzz candidate matching (site/LinkedIn/jobs/news)
-│   ├── validate/
-│   │   └── schema.py          ← real Pydantic models (Claim, Entity, CompanyProfile, ResultEnvelope)
-│   ├── storage/
-│   │   └── snapshot.py         ← append-only snapshot write/read + diff + idempotency check
-│   ├── api/
-│   │   └── main.py              ← minimal FastAPI app serving profiles
-│   └── cli/                       ← run commands: crawl-batch, score-batch, freeze
-├── frontend/                        ← React dashboard scaffold (Phase 8, lowest priority)
-├── data/
-│   ├── raw/ processed/ snapshots/     ← gitignored, generated at runtime
-│   └── samples/sample_profile.json     ← one hand-written example matching the schema
-├── tests/
-│   ├── conftest.py                     ← shared fixtures
-│   ├── test_schema.py                   ← output-contract validation tests
-│   └── test_idempotency.py               ← guards the idempotent-refresh hard gate
-└── scripts/                          ← one-off utility scripts (universe download, sampling)
-```
-
-## Quick start
+Requires Python 3.12+ and `uv`.
 
 ```bash
-make dev-install          # installs deps + Playwright browser
-cp .env.example .env      # fill in any API keys
-make check                 # lint + tests
-make crawl-dev              # run pipeline against the dev slice (once implemented)
+uv sync
+curl -L 'https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv' -o brreg-enheter.csv
+curl -L 'https://builderr.ai/signalpost-company-universe-2025.jsonl.gz' -o signalpost-universe.jsonl.gz
+
+python select_entry_batch.py \
+  --universe signalpost-universe.jsonl.gz \
+  --count 1000 \
+  --output entry-companies.jsonl
+
+uv run python scripts/run_competition_batch.py \
+  --organisations entry-companies.jsonl \
+  --bulk brreg-enheter.csv \
+  --profiles-output out/profiles.jsonl \
+  --output out/envelopes.jsonl \
+  --report out/run-report.json \
+  --run-id local-001 \
+  --expected-count 1000
+
+uv run --with pytest pytest -q
 ```
 
-Or via Docker: `docker compose run agent`.
+The published archive was clean-room verified on August 24, 2026: 104 tests and 5 subtests passed, followed by a one-company live BRREG smoke run with one terminal envelope, five requests and zero silent drops.
 
-## Status
+Increase `--count` and `--expected-count` together if you want to publish more than the 1,000-company minimum. For a private smoke test before submission, make a 10-row input and change `--expected-count 10`.
 
-Planning + scaffold stage. Core pipeline modules (`resolve`, `crawl`,
-`extract`, `match`) are stubs; the schema, storage/diffing logic, and
-tests are real and reviewed but **not yet run** in this environment
-(no network access here to install dependencies — run `make check`
-in your own environment to confirm before building further). See
-`TODO.md` for the current checklist and `PROJECT_PLAN.md` for the
-phased build order.
+## The improvement loop
+
+1. Treat the organisation number as the anchor.
+2. Generate site/profile candidates from official data, the company site, lawful search providers and named people.
+3. Save every candidate and the evidence for or against it.
+4. Publish only exact-entity matches. Parent, brand, franchise and similarly named companies are not exact.
+5. Crawl static HTML first. Escalate to a browser only when a deterministic completeness check fails.
+6. Measure added supported coverage, wrong-company claims, runtime, requests and cost.
+7. Promote a strategy only when it improves coverage without weakening the accuracy gates.
+8. Freeze strategies and thresholds before the daily evaluation run.
+
+The strongest differentiator is external evidence that remains exact and auditable: official company pages, company-owned profiles, jobs, dated activity, ratings/reviews and permitted public signals. Do not trade accuracy for volume.
+
+## Important source rule
+
+Open-source code does not grant permission to scrape a platform. Follow each source's terms, robots policy, rate limits and licence. LinkedIn, Meta and Indeed are useful identity/discovery targets, but direct automated collection may be restricted. Use permitted APIs, licensed providers, company-owned outbound links, or return `blocked`/`not_available`.
+
+Read `docs/competition-control-loop.md`, `docs/external-connectors.md` and the public source policy before adding connectors.
+
+## Submission contract
+
+Submit a repository with:
+
+- at least 1,000 completed company profiles and the exact organisation-number manifest used;
+- one documented command that accepts a JSONL batch of organisation numbers;
+- exactly one terminal envelope per input;
+- pinned dependencies and reproducible setup;
+- a previous-snapshot input and material-change output;
+- a machine-readable run report with runtime, request count and third-party cost;
+- declared models, APIs, licences and source-rights assumptions.
+
+Email the repository URL, run command, models/APIs and expected cost per 100-company run to `submit@builderr.ai`.
