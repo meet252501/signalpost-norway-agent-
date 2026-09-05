@@ -1,7 +1,7 @@
 {
   "run_id": "submission-run-1",
-  "started_at": "2026-09-03T15:06:46.751866Z",
-  "completed_at": "2026-09-03T15:08:08.641979Z",
+  "started_at": "2026-09-05T13:33:00.692515Z",
+  "completed_at": "2026-09-05T13:34:55.277462Z",
   "expected_count": 100,
   "emitted_envelopes": 100,
   "resumed_profiles": 0,
@@ -26,8 +26,8 @@
   "operations": {
     "requests": 536,
     "bytes": 2265978,
-    "p50_ms": 789,
-    "p95_ms": 1201
+    "p50_ms": 1385,
+    "p95_ms": 1644
   },
   "validation": {
     "passed": true,

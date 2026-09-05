@@ -3,7 +3,7 @@ param (
     [string]$InputFile
 )
 
-$OutputDir = "out"
+$OutputDir = "out-all"
 
 if (!(Test-Path -Path $OutputDir)) {
     New-Item -ItemType Directory -Path $OutputDir | Out-Null
@@ -90,6 +90,6 @@ Write-Host "Generating evaluation artifacts..."
 "@ | Set-Content -Path "$OutputDir/ux-report.json" -Encoding UTF8
 
 Write-Host "Updating frontend data.json..."
-uv run python -c "import json; data=[json.loads(line) for line in open('out/envelopes.jsonl', encoding='utf-8') if line.strip()]; json.dump(data, open('frontend/data.json', 'w', encoding='ascii'), ensure_ascii=True)"
+uv run python -c "import json; data=[json.loads(line) for line in open('out-all/envelopes.jsonl', encoding='utf-8') if line.strip()]; json.dump(data, open('frontend/data.json', 'w', encoding='ascii'), ensure_ascii=True)"
 
 Write-Host "Done! All artifacts generated and frontend updated. Ready for score_competition_v3.py"

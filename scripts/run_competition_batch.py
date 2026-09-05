@@ -19,12 +19,11 @@ from norway_company_agent.batch import (
 )
 from norway_company_agent.budget import GLOBAL_BUDGET
 from norway_company_agent.evidence import utc_now
+from norway_company_agent.external_footprint import aggregate_footprint
+from norway_company_agent.footprint_gatherer import gather_footprints
 from norway_company_agent.identity import apply_website_identity_gate
 from norway_company_agent.official import fetch_official_modules
 from norway_company_agent.website import fetch_website
-from norway_company_agent.footprint_gatherer import gather_footprints
-from norway_company_agent.external_footprint import aggregate_footprint
-from norway_company_agent.research import answer_profile
 
 
 def write_jsonl(path: Path, rows: list[dict]) -> None:
@@ -58,7 +57,7 @@ def main() -> None:
     parser.add_argument("--resume", action="store_true")
     parser.add_argument(
         "--modules",
-        default="registry,accounting_obligation,registry_live,financials,roles,group,locations,website",
+        default="registry,accounting_obligation,registry_live,financials,roles,group,locations,website,external_footprint",
     )
     args = parser.parse_args()
 

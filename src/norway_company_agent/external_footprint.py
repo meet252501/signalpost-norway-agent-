@@ -197,7 +197,7 @@ def aggregate_footprint(
     unique_public_items = len({str(item.get("source_url")) for item in public_items})
 
     return {
-        "status": "available" if accepted else "not_available",
+        "status": "available" if accepted else "not_found",
         "accepted_observations": len(accepted),
         "rejected_observations": len(rejected),
         "rejections": rejected,

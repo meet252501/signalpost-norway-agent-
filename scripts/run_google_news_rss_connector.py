@@ -159,11 +159,15 @@ def main() -> None:
     parser.add_argument("--years", type=int, default=2)
     parser.add_argument("--workers", type=int, default=4)
     args = parser.parse_args()
-    wanted = [
-        line.strip()
-        for line in Path(args.organisations).read_text(encoding="utf-8").splitlines()
-        if line.strip()
-    ]
+    wanted = []
+    for line in Path(args.organisations).read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            wanted.append(str(json.loads(line)["organisation_number"]))
+        except Exception:
+            wanted.append(line)
     profiles = {
         str(row["organisation_number"]): row
         for row in (

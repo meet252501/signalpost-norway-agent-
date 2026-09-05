@@ -64,16 +64,21 @@ def main() -> None:
     existing = {
         str(item["organisation_number"])
         for source in args.handles
+        if Path(source).exists()
         for item in read_jsonl(Path(source))
         if item.get("platform") == "youtube"
     }
     wanted = None
     if args.organisations:
-        wanted = {
-            line.strip()
-            for line in Path(args.organisations).read_text().splitlines()
-            if line.strip()
-        }
+        wanted = set()
+        for line in Path(args.organisations).read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                wanted.add(str(json.loads(line)["organisation_number"]))
+            except Exception:
+                wanted.add(line)
     candidates = []
     for profile in read_jsonl(Path(args.profiles)):
         if wanted is not None and str(profile["organisation_number"]) not in wanted:

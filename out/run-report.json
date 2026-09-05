@@ -1,11 +1,11 @@
 {
-  "run_id": "batch-1000",
-  "started_at": "2026-09-03T09:11:24.425208Z",
-  "completed_at": "2026-09-03T09:15:36.244965Z",
-  "expected_count": 1000,
-  "emitted_envelopes": 1000,
-  "resumed_profiles": 125,
-  "profiles_fetched_this_run": 875,
+  "run_id": "submission-run-1",
+  "started_at": "2026-09-05T13:33:00.692515Z",
+  "completed_at": "2026-09-05T13:34:55.277462Z",
+  "expected_count": 100,
+  "emitted_envelopes": 100,
+  "resumed_profiles": 0,
+  "profiles_fetched_this_run": 100,
   "modules": [
     "registry",
     "accounting_obligation",
@@ -14,19 +14,20 @@
     "roles",
     "group",
     "locations",
-    "website"
+    "website",
+    "external_footprint"
   ],
   "registry": {
-    "registry_snapshot_sha256": "af760326df5f14d0604a276550edeca537478f8b4f866775cbf32263290d4127",
-    "registry_rows_scanned": 1000,
-    "requested": 1000,
-    "selected": 1000
+    "registry_snapshot_sha256": "5d8802f7f123030165979820cd1c5e39f8aba7fb9d85086906b9e367301de601",
+    "registry_rows_scanned": 1168036,
+    "requested": 100,
+    "selected": 100
   },
   "operations": {
-    "requests": 4917,
-    "bytes": 52798501,
-    "p50_ms": 2100,
-    "p95_ms": 6062
+    "requests": 536,
+    "bytes": 2265978,
+    "p50_ms": 1385,
+    "p95_ms": 1644
   },
   "validation": {
     "passed": true,
