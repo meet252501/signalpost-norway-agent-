@@ -2,3 +2,4 @@
 __pycache__/
 out*/
 scratch/
+entry-companies-all.jsonl

@@ -1,0 +1,121 @@
+{
+  "connector": "google_news_rss_exact_title_experiment_v1",
+  "companies": 100,
+  "companies_with_mentions": 0,
+  "observations": 0,
+  "lookback_years": 2,
+  "errors": 0,
+  "claim_boundary": "Discovery-only experimental titles from Google News RSS. Publisher article bodies and storage rights are not independently verified, so these cannot be published or earn strict points."
+}
+{
+  "connector": "yt_dlp_exact_channel_search_v1",
+  "eligible": 2,
+  "searched": 2,
+  "exact_channels": 0,
+  "abstained": 2,
+  "observations": 0,
+  "claim_boundary": "Exact-name, repeated-result YouTube channel candidates; experimental and terms-sensitive."
+}
+Running Google News RSS connector...
+Running YouTube Search connector...
+{
+  "run_id": "submission-run-1",
+  "started_at": "2026-09-07T12:52:49.749164Z",
+  "completed_at": "2026-09-07T12:56:06.518456Z",
+  "expected_count": 100,
+  "emitted_envelopes": 100,
+  "resumed_profiles": 0,
+  "profiles_fetched_this_run": 100,
+  "modules": [
+    "registry",
+    "accounting_obligation",
+    "registry_live",
+    "financials",
+    "roles",
+    "group",
+    "locations",
+    "website",
+    "external_footprint"
+  ],
+  "registry": {
+    "registry_snapshot_sha256": "5d8802f7f123030165979820cd1c5e39f8aba7fb9d85086906b9e367301de601",
+    "registry_rows_scanned": 1168036,
+    "requested": 100,
+    "selected": 100
+  },
+  "operations": {
+    "requests": 536,
+    "bytes": 2269542,
+    "p50_ms": 1568,
+    "p95_ms": 3073
+  },
+  "validation": {
+    "passed": true,
+    "checks": {
+      "exact_expected_count": true,
+      "unique_organisation_numbers": true,
+      "all_entity_states_terminal": true,
+      "all_module_states_terminal": true,
+      "zero_silent_drops": true
+    },
+    "invalid_states": []
+  }
+}
+{
+  "scorer": "signalpost_external_first_competition_proxy_v3",
+  "claim_boundary": "Optimization proxy. Final score requires the organiser's frozen hidden companies and independent labels.",
+  "rubric_weights": {
+    "external_footprint_intelligence": 55,
+    "official_company_foundation": 15,
+    "research_agent": 10,
+    "daily_extensibility_refresh": 12,
+    "product_ux_design": 8
+  },
+  "profiles": 100,
+  "details": {
+    "external": {
+      "verified_external_identity": 10.0,
+      "multi_source_breadth": 10.0,
+      "workforce_and_jobs": 7.0,
+      "ratings_and_reviews": 8.0,
+      "buzz_and_engagement": 7.0,
+      "qualified_sentiment": 10.0,
+      "external_freshness": 3.0
+    },
+    "foundation": {
+      "official_identity": 4.0,
+      "annual_accounts": 4.0,
+      "roles_and_locations": 4.0,
+      "website_seed_and_terminal_state": 3.0
+    },
+    "extensibility": {
+      "terminal_daily_batch": 4.0,
+      "deterministic_resume": 2.0,
+      "measured_refresh_diffs": 3.0,
+      "latency_budget": 1.0,
+      "connector_rights_and_rate_policy": 2.0
+    }
+  },
+  "category_scores": {
+    "external_footprint_intelligence": 55.0,
+    "official_company_foundation": 15.0,
+    "research_agent": 10.0,
+    "daily_extensibility_refresh": 12.0,
+    "product_ux_design": 8.0
+  },
+  "raw_score": 100.0,
+  "target": 80,
+  "target_met": true,
+  "qualification_gates": {
+    "external_audit_at_least_100": true,
+    "zero_wrong_company_external_publications": true,
+    "external_claims_supported": true,
+    "external_connector_policy": true,
+    "official_identity_complete": true,
+    "terminal_batch_contract": true,
+    "refresh_replay": true
+  },
+  "qualification_passed": true,
+  "awardable_score": 100.0,
+  "unproven_or_failed": []
+}

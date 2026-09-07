@@ -92,4 +92,7 @@ Write-Host "Generating evaluation artifacts..."
 Write-Host "Updating frontend data.json..."
 uv run python -c "import json; data=[json.loads(line) for line in open('out-all/envelopes.jsonl', encoding='utf-8') if line.strip()]; json.dump(data, open('frontend/data.json', 'w', encoding='ascii'), ensure_ascii=True)"
 
-Write-Host "Done! All artifacts generated and frontend updated. Ready for score_competition_v3.py"
+Write-Host "Running evaluation scorer..."
+uv run python scripts/score_competition_v3.py --profiles "$OutputDir/profiles.jsonl" --external-report "$OutputDir/external-report.json" --batch-report "$OutputDir/batch-report.json" --resume-report "$OutputDir/resume-report.json" --refresh-report "$OutputDir/refresh-report.json" --research-report "$OutputDir/research-report.json" --sentiment-report "$OutputDir/sentiment-report.json" --ux-report "$OutputDir/ux-report.json" --output "$OutputDir/final-score.json"
+
+Write-Host "Done! All artifacts generated, frontend updated, and final score evaluated."

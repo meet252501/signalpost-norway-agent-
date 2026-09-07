@@ -12,6 +12,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import UTC, datetime
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+import time
 
 LEGAL = {"as", "asa", "sa", "ba", "da", "ans", "enk", "nuf", "sti"}
 UA = "SignalpostResearchPOC/1.0 (https://builderr.ai; bounded qualification run)"
@@ -64,16 +65,29 @@ def fetch(profile: dict, limit: int, years: int) -> tuple[list[dict], dict]:
     org = str(profile["organisation_number"])
     query = urllib.parse.quote(f'"{profile["name"]}" when:{years}y')
     url = f"https://news.google.com/rss/search?q={query}&hl=no&gl=NO&ceid=NO:no"
+    raw = None
+    last_err = None
+    time.sleep(1) # Base delay to limit concurrent spike
+    for attempt in range(4):
+        try:
+            request = urllib.request.Request(
+                url,
+                headers={
+                    "User-Agent": UA,
+                    "Accept": "application/rss+xml, application/xml",
+                },
+            )
+            with urllib.request.urlopen(request, timeout=25) as response:
+                raw = response.read(2_000_000)
+                break
+        except Exception as e:
+            last_err = e
+            time.sleep((attempt + 1) * 2)
+    
+    if not raw:
+        raise last_err or Exception("Fetch failed after retries")
+
     try:
-        request = urllib.request.Request(
-            url,
-            headers={
-                "User-Agent": UA,
-                "Accept": "application/rss+xml, application/xml",
-            },
-        )
-        with urllib.request.urlopen(request, timeout=25) as response:
-            raw = response.read(2_000_000)
         root = ET.fromstring(raw)
         retrieved_at = datetime.now(UTC).isoformat().replace("+00:00", "Z")
         output = []
