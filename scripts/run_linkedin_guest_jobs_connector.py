@@ -47,8 +47,18 @@ def fetch(url: str, timeout: float) -> bytes:
             "Accept": "text/html,application/json,text/plain;q=0.9,*/*;q=0.8",
         },
     )
-    with urlopen(request, timeout=timeout) as response:
-        return response.read(2_000_000)
+    max_retries = 3
+    delay = 2.0
+    for attempt in range(max_retries):
+        try:
+            with urlopen(request, timeout=timeout) as response:
+                return response.read(2_000_000)
+        except Exception as e:
+            if attempt == max_retries - 1:
+                print(f"Failed after {max_retries} attempts: {e}")
+                return b""
+            time.sleep(delay)
+            delay *= 2
 
 
 def parse_job_cards(raw: bytes, expected_company_url: str) -> tuple[list[dict], int]:

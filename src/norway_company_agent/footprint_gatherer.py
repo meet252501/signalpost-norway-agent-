@@ -89,4 +89,24 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
                 obs = json.loads(line)
                 observations_by_org[str(obs["organisation_number"])].append(obs)
 
+    # Fagfolkguiden Reviews
+    fagfolk_output = cache_dir / "fagfolk_observations.jsonl"
+    fagfolk_report = cache_dir / "fagfolk_report.json"
+    
+    print(f"Running Fagfolkguiden Reviews connector...")
+    subprocess.run([
+        "uv", "run", "python", "scripts/run_fagfolkguiden_reviews_connector.py",
+        "--profiles", str(profiles_file),
+        "--organisations", str(orgs_file),
+        "--output", str(fagfolk_output),
+        "--cache", str(cache_dir / "fagfolk_cache"),
+        "--report", str(fagfolk_report)
+    ], check=False)
+
+    if fagfolk_output.exists():
+        for line in fagfolk_output.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                obs = json.loads(line)
+                observations_by_org[str(obs["organisation_number"])].append(obs)
+
     return observations_by_org
