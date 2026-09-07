@@ -83,22 +83,48 @@ function renderDirectory() {
   }).join('');
 }
 
-function setupSearch() {
-  document.getElementById('directorySearch').addEventListener('input', (e) => {
-    const q = e.target.value.toLowerCase();
-    filteredCompanies = COMPANIES.filter(c => 
-      c.name.toLowerCase().includes(q) || 
-      c.org.includes(q) || 
-      c.municipality.toLowerCase().includes(q)
-    );
-    renderDirectory();
+function applyFilters() {
+  const q = document.getElementById('directorySearch').value.toLowerCase();
+  const sort = document.getElementById('sortFilter') ? document.getElementById('sortFilter').value : 'data';
+  const status = document.getElementById('statusFilter') ? document.getElementById('statusFilter').value : 'all';
+  
+  filteredCompanies = COMPANIES.filter(c => {
+    const matchesSearch = c.name.toLowerCase().includes(q) || c.org.includes(q) || c.municipality.toLowerCase().includes(q);
+    let matchesStatus = true;
+    if (status === 'bankrupt') matchesStatus = c.bankrupt === true;
+    else if (status === 'liquidating') matchesStatus = c.liquidating === true;
+    else if (status === 'active') matchesStatus = !c.bankrupt && !c.liquidating;
+    return matchesSearch && matchesStatus;
   });
+  
+  if (sort === 'name') {
+    filteredCompanies.sort((a, b) => a.name.localeCompare(b.name));
+  } else {
+    filteredCompanies.sort((a, b) => b.evidenceCount - a.evidenceCount);
+  }
+  
+  renderDirectory();
+}
+
+function setupSearch() {
+  document.getElementById('directorySearch').addEventListener('input', applyFilters);
 }
 
 function selectCompany(org) {
   selectedCompany = COMPANIES.find(c => c.org === org);
   renderDirectory(); // Update selection highlight
   renderProfile();
+  
+  // Clear the agent response text when switching companies
+  const responseBox = document.getElementById('agentResponse');
+  if (responseBox) {
+    responseBox.innerHTML = `
+      <h3 class="response-title">Agent Response</h3>
+      <p class="response-text" id="agentResponseText">
+        Select a question or ask above to query the live Python API.
+      </p>
+    `;
+  }
 }
 
 function formatCurrency(num) {

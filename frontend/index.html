@@ -41,15 +41,17 @@
         <h1 class="main-title">Companies <span class="count-badge" id="totalCount">0</span></h1>
         <p class="sidebar-desc">Profiles with the most verified data appear first.</p>
         
-        <div class="filters-row">
-          <div class="filter-dropdown">
-            <span>Most data found</span>
-            <span class="material-symbols-outlined">expand_more</span>
-          </div>
-          <div class="filter-dropdown">
-            <span>All status</span>
-            <span class="material-symbols-outlined">expand_more</span>
-          </div>
+        <div class="filters-row" style="display:flex; gap:10px;">
+          <select id="sortFilter" class="filter-dropdown" style="background:transparent; color:var(--text-main); border:1px solid var(--border-color); padding:4px 8px; border-radius:4px;" onchange="applyFilters()">
+            <option value="data">Most data found</option>
+            <option value="name">Alphabetical</option>
+          </select>
+          <select id="statusFilter" class="filter-dropdown" style="background:transparent; color:var(--text-main); border:1px solid var(--border-color); padding:4px 8px; border-radius:4px;" onchange="applyFilters()">
+            <option value="all">All status</option>
+            <option value="active">Active</option>
+            <option value="bankrupt">Bankrupt</option>
+            <option value="liquidating">Liquidating</option>
+          </select>
         </div>
         
         <div class="search-box">
