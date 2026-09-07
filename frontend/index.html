@@ -97,35 +97,64 @@
       </div>
     </main>
 
-    <!-- RIGHT SIDEBAR: AGENT -->
+    <!-- RIGHT SIDEBAR -->
     <aside class="right-sidebar">
-      <div class="agent-header">
-        <h2 class="sidebar-title">COMPANY RESEARCH AGENT</h2>
-        <div class="agent-title-row">
-          <div class="agent-icon">
-            <span class="material-symbols-outlined">smart_toy</span>
+      <div class="sidebar-nav" style="display:flex; gap:10px; margin-bottom: 20px; border-bottom: 1px solid var(--border-color); padding-bottom:10px;">
+         <button class="tab-btn active" id="btnAgentTab" onclick="switchRightTab('agent')" style="flex:1;">Agent</button>
+         <button class="tab-btn" id="btnScreenerTab" onclick="switchRightTab('screener')" style="flex:1;">Screener</button>
+      </div>
+      
+      <div id="agentTabContent">
+        <div class="agent-header">
+          <h2 class="sidebar-title">COMPANY RESEARCH AGENT</h2>
+          <div class="agent-title-row">
+            <div class="agent-icon">
+              <span class="material-symbols-outlined">smart_toy</span>
+            </div>
+            <h1 class="main-title">Ask Signalpost</h1>
           </div>
-          <h1 class="main-title">Ask Signalpost</h1>
+          <p class="sidebar-desc">Ask what the company does, who runs it, where it operates, or whether it is hiring.</p>
         </div>
-        <p class="sidebar-desc">Ask what the company does, who runs it, where it operates, or whether it is hiring.</p>
+
+        <div class="agent-chat">
+          <textarea id="agentInput" placeholder="How is this company doing? Who runs it?"></textarea>
+          <button class="btn-primary" onclick="simulateAgent()">Check the evidence</button>
+        </div>
+
+        <div class="agent-suggestions">
+          <button class="suggestion-tab active" onclick="document.getElementById('agentInput').value='Give me a brief overview of this company.'; simulateAgent();">Company brief</button>
+          <button class="suggestion-tab" onclick="document.getElementById('agentInput').value='What are the latest financials?'; simulateAgent();">Latest financials</button>
+          <button class="suggestion-tab" onclick="document.getElementById('agentInput').value='Who runs this company?'; simulateAgent();">Who runs it?</button>
+        </div>
+
+        <div class="agent-response" id="agentResponse">
+          <h3 class="response-title">Agent Response</h3>
+          <p class="response-text" id="agentResponseText">
+            Select a company and ask a question to query the live Python API.
+          </p>
+        </div>
       </div>
 
-      <div class="agent-chat">
-        <textarea id="agentInput" placeholder="How is this company doing? Who runs it?"></textarea>
-        <button class="btn-primary" onclick="simulateAgent()">Check the evidence</button>
-      </div>
-
-      <div class="agent-suggestions">
-        <button class="suggestion-tab active">Company brief</button>
-        <button class="suggestion-tab">Latest financials</button>
-        <button class="suggestion-tab">Who runs it?</button>
-      </div>
-
-      <div class="agent-response" id="agentResponse">
-        <h3 class="response-title">Company brief</h3>
-        <p class="response-text" id="agentResponseText">
-          Select a company and click "Check the evidence" to generate an AI summary based on the official registry data.
-        </p>
+      <div id="screenerTabContent" style="display:none;">
+        <div class="agent-header">
+          <h2 class="sidebar-title">COMPANY SCREENER</h2>
+          <div class="agent-title-row">
+            <div class="agent-icon">
+              <span class="material-symbols-outlined">filter_alt</span>
+            </div>
+            <h1 class="main-title">Semantic Search</h1>
+          </div>
+          <p class="sidebar-desc">Screen companies using natural language.</p>
+        </div>
+        
+        <div class="agent-chat">
+          <textarea id="screenerInput" placeholder="e.g. employees > 50 and profitable"></textarea>
+          <button class="btn-primary" onclick="runScreener()">Run screen</button>
+        </div>
+        
+        <div class="agent-response" id="screenerResponse" style="margin-top:20px;">
+            <p class="response-text">Enter a query above to screen all companies.</p>
+        </div>
       </div>
     </aside>
 

@@ -109,4 +109,24 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
                 obs = json.loads(line)
                 observations_by_org[str(obs["organisation_number"])].append(obs)
 
+    # Annual Report Workforce OCR
+    ocr_output = cache_dir / "ocr_observations.jsonl"
+    ocr_report = cache_dir / "ocr_report.json"
+    
+    print(f"Running Annual Report Workforce OCR connector...")
+    subprocess.run([
+        "uv", "run", "python", "scripts/run_annual_report_workforce_connector.py",
+        "--profiles", str(profiles_file),
+        "--organisations", str(orgs_file),
+        "--output", str(ocr_output),
+        "--cache", str(cache_dir / "ocr_cache"),
+        "--report", str(ocr_report)
+    ], check=False)
+
+    if ocr_output.exists():
+        for line in ocr_output.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                obs = json.loads(line)
+                observations_by_org[str(obs["organisation_number"])].append(obs)
+
     return observations_by_org

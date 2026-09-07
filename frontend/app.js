@@ -240,28 +240,77 @@ function renderProfile() {
 
 function setupTabs() {
   document.querySelectorAll('.tab-btn').forEach(btn => {
+    // Only target center panel tabs if they don't have an ID (which the right sidebar ones do)
+    if (btn.id) return;
+    
     btn.addEventListener('click', () => {
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.center-panel .tab-btn').forEach(b => b.classList.remove('active'));
       document.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
       
       btn.classList.add('active');
       document.getElementById(`tab-${btn.dataset.tab}`).classList.add('active');
     });
   });
-  
-  document.querySelectorAll('.suggestion-tab').forEach(btn => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.suggestion-tab').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      simulateAgent(btn.textContent);
-    });
-  });
 }
 
-function simulateAgent(query) {
+function switchRightTab(tab) {
+  if (tab === 'agent') {
+    document.getElementById('btnAgentTab').classList.add('active');
+    document.getElementById('btnScreenerTab').classList.remove('active');
+    document.getElementById('agentTabContent').style.display = 'block';
+    document.getElementById('screenerTabContent').style.display = 'none';
+  } else {
+    document.getElementById('btnScreenerTab').classList.add('active');
+    document.getElementById('btnAgentTab').classList.remove('active');
+    document.getElementById('screenerTabContent').style.display = 'block';
+    document.getElementById('agentTabContent').style.display = 'none';
+  }
+}
+
+async function runScreener() {
+  const query = document.getElementById('screenerInput').value;
+  if (!query) return;
+  
+  const responseBox = document.getElementById('screenerResponse');
+  responseBox.innerHTML = `
+    <p class="response-text">
+      <span class="material-symbols-outlined" style="animation: pulse 1.5s infinite; vertical-align: middle;">search</span>
+      Screening companies...
+    </p>
+  `;
+  
+  try {
+    const res = await fetch('/api/screen', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ query: query })
+    });
+    const data = await res.json();
+    
+    if (data.abstained) {
+      responseBox.innerHTML = `<p class="response-text warning" style="color:var(--danger);">${data.reason}</p>`;
+      return;
+    }
+    
+    let html = `<p class="response-text" style="color:var(--success); margin-bottom:10px;">Found ${data.result_count} companies matching query.</p>`;
+    data.results.forEach(c => {
+       html += `
+         <div style="background:var(--bg-lighter); padding:10px; border-radius:6px; margin-bottom:8px; cursor:pointer; border:1px solid var(--border-color);" onclick="selectCompany('${c.organisation_number}')">
+           <h4 style="margin:0; font-size:14px;">${c.name}</h4>
+           <p style="margin:4px 0 0; font-size:12px; color:var(--text-muted);">${c.municipality} | Rev: ${formatCurrency(c.revenue)}</p>
+         </div>
+       `;
+    });
+    responseBox.innerHTML = html;
+  } catch (err) {
+    responseBox.innerHTML = `<p class="response-text error">Error contacting API backend. Is server.py running?</p>`;
+  }
+}
+
+async function simulateAgent() {
   if (!selectedCompany) return;
   const input = document.getElementById('agentInput');
-  const text = query || input.value || 'Company brief';
+  const text = input.value || 'Company brief';
   input.value = '';
   
   const responseBox = document.getElementById('agentResponse');
@@ -269,23 +318,48 @@ function simulateAgent(query) {
     <h3 class="response-title">${text}</h3>
     <p class="response-text">
       <span class="material-symbols-outlined" style="animation: pulse 1.5s infinite; vertical-align: middle;">smart_toy</span>
-      Analyzing registry data...
+      Analyzing registry data via Python API...
     </p>
   `;
   
-  setTimeout(() => {
-    let reply = "";
-    if (text.toLowerCase().includes('run')) {
-      reply = `${selectedCompany.name} is primarily operating in the "${selectedCompany.industry}" sector in ${selectedCompany.municipality}. The board and executive leadership can be seen in the Leadership tab.`;
-    } else if (text.toLowerCase().includes('financial')) {
-      reply = `According to the latest accounts, the operating result was registered as ${selectedCompany.score > 0 ? 'available' : 'unavailable'} in Regnskapsregisteret.`;
+  try {
+    const res = await fetch('/api/chat', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        organisation_number: selectedCompany.org,
+        question: text
+      })
+    });
+    const data = await res.json();
+    
+    let html = `<h3 class="response-title">${text}</h3>`;
+    if (data.facts && data.facts.length > 0) {
+      html += `<ul style="margin:10px 0; padding-left:20px;">`;
+      data.facts.forEach(f => {
+        let val = typeof f.value === 'object' ? JSON.stringify(f.value) : f.value;
+        html += `<li style="font-size:13px; color:var(--text-light); margin-bottom:6px;">
+          <strong style="color:var(--text-main);">${f.claim}:</strong> ${val}
+        </li>`;
+      });
+      html += `</ul>`;
     } else {
-      reply = `${selectedCompany.name} is a ${selectedCompany.form} registered in ${selectedCompany.municipality}. It is ${selectedCompany.bankrupt ? 'currently bankrupt' : (selectedCompany.liquidating ? 'under liquidation' : 'an active entity')}. We found ${selectedCompany.evidenceCount} out of 8 possible evidence modules in the Enhetsregisteret bulk run.`;
+      html += `<p class="response-text">No facts could be definitively retrieved for this query.</p>`;
     }
     
+    if (data.unsupported_or_uncertain && data.unsupported_or_uncertain.length > 0) {
+      html += `<div style="background: rgba(255,100,100,0.1); border-left: 3px solid var(--danger); padding: 8px 12px; margin-top:10px; border-radius:4px;">`;
+      data.unsupported_or_uncertain.forEach(u => {
+        html += `<p style="font-size:12px; color:var(--danger); margin:0 0 4px;">${u}</p>`;
+      });
+      html += `</div>`;
+    }
+    
+    responseBox.innerHTML = html;
+  } catch (err) {
     responseBox.innerHTML = `
       <h3 class="response-title">${text}</h3>
-      <p class="response-text">${reply}</p>
+      <p class="response-text error" style="color:var(--danger);">Error contacting API backend. Is server.py running?</p>
     `;
-  }, 800);
+  }
 }
