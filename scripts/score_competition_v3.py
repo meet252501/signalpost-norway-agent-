@@ -8,7 +8,7 @@ from typing import Any
 
 
 def load(path: str | None) -> dict[str, Any]:
-    return json.loads(Path(path).read_text(encoding="utf-8")) if path else {}
+    return json.loads(Path(path).read_text(encoding="utf-8-sig")) if path else {}
 
 
 def rows(path: str) -> list[dict[str, Any]]:

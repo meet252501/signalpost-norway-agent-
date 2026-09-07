@@ -14,7 +14,7 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
     profiles_file = cache_dir / "tmp_profiles.jsonl"
     orgs_file = cache_dir / "tmp_orgs.txt"
     profiles_file.write_text("\n".join(json.dumps(p) for p in profiles), encoding="utf-8")
-    orgs_file.write_text("\n".join(json.dumps({"organisation_number": p["organisation_number"]}) for p in profiles), encoding="utf-8")
+    orgs_file.write_text("\n".join(str(p["organisation_number"]) for p in profiles), encoding="utf-8")
 
     # LinkedIn Guest Jobs
     handles = []

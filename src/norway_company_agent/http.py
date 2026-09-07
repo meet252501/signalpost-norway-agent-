@@ -68,7 +68,7 @@ def fetch_json(url: str, *, timeout: float = 20.0, attempts: int = 3) -> FetchRe
                     retrieved_at=_utc_now(),
                 )
             last_error = f"HTTP {exc.code}"
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+        except Exception as exc:
             last_error = type(exc).__name__
         if attempt + 1 < attempts:
             time.sleep(0.4 * (2**attempt))

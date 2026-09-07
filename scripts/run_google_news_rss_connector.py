@@ -68,7 +68,7 @@ def fetch(profile: dict, limit: int, years: int) -> tuple[list[dict], dict]:
     raw = None
     last_err = None
     time.sleep(1) # Base delay to limit concurrent spike
-    for attempt in range(4):
+    for attempt in range(2):
         try:
             request = urllib.request.Request(
                 url,
@@ -77,15 +77,20 @@ def fetch(profile: dict, limit: int, years: int) -> tuple[list[dict], dict]:
                     "Accept": "application/rss+xml, application/xml",
                 },
             )
-            with urllib.request.urlopen(request, timeout=25) as response:
+            with urllib.request.urlopen(request, timeout=8) as response:
                 raw = response.read(2_000_000)
                 break
         except Exception as e:
             last_err = e
-            time.sleep((attempt + 1) * 2)
+            time.sleep(1)
     
     if not raw:
-        raise last_err or Exception("Fetch failed after retries")
+        return [], {
+            "organisation_number": org,
+            "accepted": False,
+            "error": "Fetch failed after retries",
+            "observations": 0
+        }
 
     try:
         root = ET.fromstring(raw)

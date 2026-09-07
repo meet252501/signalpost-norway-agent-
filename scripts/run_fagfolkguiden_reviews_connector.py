@@ -70,11 +70,11 @@ def fetch(profile: dict, cache_dir: Path) -> tuple[list[dict], dict]:
             request = urllib.request.Request(
                 url, headers={"User-Agent": UA, "Accept": "text/html"}
             )
-            max_retries = 3
-            delay = 2.0
+            max_retries = 2
+            delay = 1.0
             for attempt in range(max_retries):
                 try:
-                    with urllib.request.urlopen(request, timeout=25) as response:
+                    with urllib.request.urlopen(request, timeout=10) as response:
                         raw = response.read(2_000_000)
                         break
                 except Exception as e:
@@ -82,7 +82,6 @@ def fetch(profile: dict, cache_dir: Path) -> tuple[list[dict], dict]:
                         raise e
                     import time
                     time.sleep(delay)
-                    delay *= 2
             cache.write_bytes(raw)
             cache_hit = False
         text = BeautifulSoup(raw, "html.parser").get_text(" ", strip=True)
