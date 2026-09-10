@@ -106,7 +106,7 @@ def _registered_domain(url: str) -> str:
     return ext.top_domain_under_public_suffix
 
 
-def _robots_allowed(url: str, timeout: float) -> bool:
+def _robots_allowed(url: str, timeout: float) -> tuple[bool, urllib.robotparser.RobotFileParser | None]:
     assert_public_url(url)
     parsed = urllib.parse.urlparse(url)
     robots_url = urllib.parse.urlunparse(
@@ -119,12 +119,12 @@ def _robots_allowed(url: str, timeout: float) -> bool:
         request = urllib.request.Request(robots_url, headers={"User-Agent": USER_AGENT})
         with SAFE_OPENER.open(request, timeout=timeout) as response:
             parser.parse(response.read().decode("utf-8", errors="replace").splitlines())
-        return parser.can_fetch(USER_AGENT, url)
+        return parser.can_fetch(USER_AGENT, url), parser
     except Exception:
         # An unavailable robots file is not permission to ignore explicit site terms; callers retain
         # the URL and can route uncertain domains to review. For this bounded homepage POC, allow one
         # ordinary GET when robots.txt is absent rather than crawl deeper.
-        return True
+        return True, None
 
 
 def _social_links(base_url: str, soup: BeautifulSoup) -> list[dict[str, str]]:
@@ -272,10 +272,35 @@ def _priority_links(base_url: str, soup: BeautifulSoup, limit: int = 4) -> list[
     ]
 
 
+def _sitemap_priority_links(sitemap_url: str, base_domain: str, timeout: float) -> list[str]:
+    try:
+        GLOBAL_BUDGET.check_and_spend(sitemap_url)
+        request = urllib.request.Request(sitemap_url, headers={"User-Agent": USER_AGENT})
+        with SAFE_OPENER.open(request, timeout=timeout) as response:
+            raw = response.read(2_000_000)
+        import xml.etree.ElementTree as ET
+        root = ET.fromstring(raw)
+        
+        candidates: dict[str, int] = {}
+        for elem in root.iter():
+            if elem.tag.endswith('loc') and elem.text:
+                url = elem.text.strip()
+                parsed = urllib.parse.urlparse(url)
+                if parsed.scheme not in {"http", "https"} or _registered_domain(url) != base_domain:
+                    continue
+                haystack = url.casefold()
+                rank = next((i for i, term in enumerate(PRIORITY_TERMS) if term in haystack), None)
+                if rank is not None:
+                    candidates[url] = min(rank, candidates.get(url, rank))
+        return [url for url, _ in sorted(candidates.items(), key=lambda item: (item[1], item[0]))][:5]
+    except Exception:
+        return []
+
 def _fetch_secondary_page(
     url: str, *, homepage_domain: str, timeout: float, max_bytes: int
 ) -> tuple[dict[str, Any] | None, list[dict[str, str]], int, int, int, str | None]:
-    if not _robots_allowed(url, timeout):
+    can_fetch, _ = _robots_allowed(url, timeout)
+    if not can_fetch:
         return None, [], 1, 0, 0, "robots.txt disallows page"
     GLOBAL_BUDGET.check_and_spend(url)
     started = time.monotonic()
@@ -349,6 +374,7 @@ def _jsonld_organisations(metadata: dict[str, Any]) -> list[dict[str, Any]]:
                 "LocalBusiness",
                 "Store",
                 "Restaurant",
+                "JobPosting",
             }:
                 values.append(value)
             for child in value.values():
@@ -393,7 +419,8 @@ def fetch_website(
             normalized,
             note=str(exc),
         ), {"requests": 0, "bytes": 0, "latencies_ms": []}
-    if not _robots_allowed(normalized, timeout):
+    can_fetch, parser = _robots_allowed(normalized, timeout)
+    if not can_fetch:
         return evidence(
             "website",
             "blocked",
@@ -448,6 +475,34 @@ def fetch_website(
             )
             or ""
         )
+        extraction_state = _extraction_state(text, soup)
+        if extraction_state == "js_fallback_candidate":
+            try:
+                from playwright.sync_api import sync_playwright
+                with sync_playwright() as p:
+                    browser = p.chromium.launch(headless=True)
+                    page = browser.new_page(user_agent=USER_AGENT)
+                    page.goto(final_url, timeout=timeout * 1000, wait_until="networkidle")
+                    html = page.content()
+                    browser.close()
+                soup = BeautifulSoup(html, "lxml")
+                structured = extruct.extract(
+                    html, base_url=final_url, syntaxes=["json-ld", "microdata", "opengraph"]
+                )
+                text = (
+                    trafilatura.extract(
+                        html,
+                        url=final_url,
+                        include_links=False,
+                        include_tables=False,
+                        favor_precision=True,
+                    )
+                    or ""
+                )
+                extraction_state = "js_fallback_complete"
+            except Exception:
+                pass
+
         title = soup.title.get_text(" ", strip=True) if soup.title else ""
         description_tag = soup.select_one(
             'meta[name="description"], meta[property="og:description"]'
@@ -462,10 +517,10 @@ def fetch_website(
             "title": title[:500],
             "description": description[:2000],
             "main_text_excerpt": text[:5000],
-            "social_links": _social_links(final_url, soup),
+            "social_links": _social_links(final_url, soup) + structured_social_links(structured),
             "structured_organisations": _jsonld_organisations(structured),
             "content_sha256": __import__("hashlib").sha256(raw).hexdigest(),
-            "extraction_state": _extraction_state(text, soup),
+            "extraction_state": extraction_state,
         }
         pages = [
             {
@@ -481,24 +536,50 @@ def fetch_website(
         bytes_received = len(raw)
         page_latencies = [elapsed]
         homepage_domain = value["registered_domain"]
-        for page_url in _priority_links(final_url, soup):
-            page, page_social, page_requests, page_bytes, page_elapsed, page_error = (
-                _fetch_secondary_page(
+        sitemap_urls = []
+        if parser and parser.site_maps():
+            sitemap_urls.extend(parser.site_maps())
+        else:
+            parsed_home = urllib.parse.urlparse(final_url)
+            sitemap_urls.append(urllib.parse.urlunparse((parsed_home.scheme, parsed_home.netloc, "/sitemap.xml", "", "", "")))
+            
+        sitemap_links = []
+        for s_url in sitemap_urls[:2]:
+            sitemap_links.extend(_sitemap_priority_links(s_url, homepage_domain, timeout))
+            
+        combined_links = []
+        seen_links = set()
+        for link in sitemap_links + _priority_links(final_url, soup):
+            if link not in seen_links:
+                seen_links.add(link)
+                combined_links.append(link)
+
+        import concurrent.futures
+        with concurrent.futures.ThreadPoolExecutor(max_workers=6) as executor:
+            futures = [
+                executor.submit(
+                    _fetch_secondary_page,
                     page_url,
-                    homepage_domain=homepage_domain,
-                    timeout=timeout,
-                    max_bytes=min(max_bytes, 1_000_000),
+                    homepage_domain,
+                    timeout,
+                    min(max_bytes, 1_000_000),
                 )
-            )
-            requests += page_requests
-            bytes_received += page_bytes
-            if page_elapsed:
-                page_latencies.append(page_elapsed)
-            if page:
-                pages.append(page)
-                social.extend(page_social)
-            elif page_error:
-                crawl_errors.append({"url": page_url, "error": page_error})
+                for page_url in combined_links[:6]
+            ]
+            for page_url, future in zip(combined_links[:6], futures):
+                try:
+                    page, page_social, page_requests, page_bytes, page_elapsed, page_error = future.result()
+                    requests += page_requests
+                    bytes_received += page_bytes
+                    if page_elapsed:
+                        page_latencies.append(page_elapsed)
+                    if page:
+                        pages.append(page)
+                        social.extend(page_social)
+                    elif page_error:
+                        crawl_errors.append({"url": page_url, "error": page_error})
+                except Exception:
+                    pass
         value["pages"] = pages
         value["social_links"] = list(
             {(item["platform"], item["url"]): item for item in social}.values()

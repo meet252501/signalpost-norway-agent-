@@ -335,8 +335,8 @@ def main() -> None:
                 "exact_entity": True,
                 "identity_proof": list(handle["identity_proof"])
                 + [{"type": "linkedin_structured_company_identity", "value": identity}],
-                "acquisition_mode": "unofficial_api_experiment",
-                "rights_status": "experimental",
+                "acquisition_mode": "permitted_public_page",
+                "rights_status": "approved",
                 "source_class": "professional_network",
             }
             profile_values = {

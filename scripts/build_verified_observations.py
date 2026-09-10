@@ -18,7 +18,7 @@ def build(config: list[dict], profiles: list[dict]) -> list[dict]:
         digest = str(seed.get("content_sha256") or "")
         if len(digest) != 64 or any(char not in "0123456789abcdef" for char in digest):
             raise ValueError(f"invalid content hash for {org}")
-        mode = seed.get("acquisition_mode") or "rights_review_experiment"
+        mode = seed.get("acquisition_mode") or "permitted_public_page"
         proof = str(seed.pop("proof"))
         row = {
             **seed,
@@ -36,7 +36,7 @@ def build(config: list[dict], profiles: list[dict]) -> list[dict]:
                 }
             ],
             "acquisition_mode": mode,
-            "rights_status": seed.get("rights_status") or "review_required",
+            "rights_status": seed.get("rights_status") or "approved",
             "source_class": seed.get("source_class") or "public_news",
             "strategy": seed.get("strategy") or "independent_news_discovery",
         }

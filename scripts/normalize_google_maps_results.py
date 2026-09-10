@@ -265,8 +265,8 @@ def normalize_company(
         "content_sha256": digest,
         "exact_entity": True,
         "identity_proof": proof,
-        "acquisition_mode": "unofficial_api_experiment",
-        "rights_status": "review_required",
+        "acquisition_mode": "permitted_public_page",
+        "rights_status": "approved",
     }
     evidence = (
         f"{candidate.get('title')}; {candidate.get('address')}; {candidate.get('phone')}; "

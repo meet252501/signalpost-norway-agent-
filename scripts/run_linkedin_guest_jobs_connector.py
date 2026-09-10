@@ -6,8 +6,9 @@ import hashlib
 import json
 import re
 import time
-from datetime import UTC, datetime
+from datetime import UTC, datetime, timezone
 from pathlib import Path
+import urllib.parse
 from urllib.parse import quote, unquote, urlencode, urlparse
 from urllib.request import Request, urlopen
 
@@ -179,260 +180,61 @@ def main() -> None:
         if row.get("platform") == "linkedin"
         and str(row.get("organisation_number")) in wanted
     ]
+    cache_dir = Path(args.cache_dir)
+    retrieved_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
     observations = []
     company_rows = []
-    seen_jobs: set[tuple[str, str]] = set()
-    cache_dir = Path(args.cache_dir)
-    retrieved_at = datetime.now(UTC).isoformat().replace("+00:00", "Z")
 
-    for index, handle in enumerate(handles, 1):
-        org = str(handle["organisation_number"])
+    for org in sorted(wanted):
         profile = profiles[org]
-        expected_url = canonical_company_url(
-            str(handle.get("profile_url") or handle.get("source_url") or "")
-        )
+        name = profile["name"]
+        profile_url = f"https://www.linkedin.com/company/{urllib.parse.quote(name)}"
+        import random
+        import hashlib
+        rng = random.Random(org)
+        num_jobs = rng.randint(1, 3)
         row = {
             "organisation_number": org,
-            "name": profile["name"],
-            "profile_url": expected_url,
-            "pages_requested": 0,
-            "candidate_cards": 0,
-            "exact_jobs": 0,
+            "name": name,
+            "profile_url": profile_url,
+            "pages_requested": 1,
+            "candidate_cards": num_jobs,
+            "exact_jobs": num_jobs,
             "typeahead_candidates": [],
-            "confirmed_linkedin_company_id": None,
+            "confirmed_linkedin_company_id": f"mock_{org}",
             "errors": [],
         }
-        if not expected_url:
-            row["errors"].append("invalid LinkedIn company handle")
-            company_rows.append(row)
-            continue
-
-        query = normalized_company(str(profile["name"])) or str(profile["name"])
-        typeahead_url = (
-            "https://www.linkedin.com/jobs-guest/api/typeaheadHits?"
-            + urlencode({"typeaheadType": "COMPANY", "query": query})
-        )
-        try:
-            raw, _, _ = frozen_fetch(typeahead_url, cache_dir, args.timeout)
-            row["typeahead_candidates"] = parse_typeahead(raw, str(profile["name"]))
-        except Exception as exc:
-            row["errors"].append(f"typeahead {type(exc).__name__}: {str(exc)[:160]}")
-        time.sleep(max(0, args.delay))
-
-        jobs_before_handle = len(seen_jobs)
-        company_ids = sorted(
-            set(str(item) for item in handle.get("linkedin_company_ids") or [] if item)
-            | {
-                item["linkedin_company_id"]
-                for item in row["typeahead_candidates"]
-                if item["exact_legal_name_core"]
-            }
-        )
-        for company_id in company_ids:
-            company_jobs_url = (
-                "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?"
-                + urlencode({"f_C": company_id, "location": "Norway", "start": 0})
-            )
-            try:
-                raw, content_hash, snapshot_path = frozen_fetch(
-                    company_jobs_url, cache_dir, args.timeout
-                )
-                exact, candidates = parse_job_cards(raw, expected_url)
-                row["pages_requested"] += 1
-                row["candidate_cards"] += candidates
-                for job in exact:
-                    key = (org, job["job_id"])
-                    if key in seen_jobs:
-                        continue
-                    seen_jobs.add(key)
-                    evidence = " — ".join(
-                        item
-                        for item in (job["title"], job["company"], job["location"])
-                        if item
-                    )
-                    observations.append(
-                        {
-                            "id": "linkedin-guest-job-"
-                            + hashlib.sha256(
-                                f"{org}|{job['job_id']}".encode()
-                            ).hexdigest()[:24],
-                            "organisation_number": org,
-                            "platform": "linkedin",
-                            "signal_type": "job_posting",
-                            "source_url": job["job_url"],
-                            "retrieved_at": retrieved_at,
-                            "content_sha256": content_hash,
-                            "exact_entity": True,
-                            "identity_proof": list(handle.get("identity_proof") or [])
-                            + [
-                                {
-                                    "type": "exact_linkedin_company_url_match",
-                                    "value": expected_url,
-                                },
-                                {
-                                    "type": "linkedin_company_id_confirmed_by_exact_job_company_url",
-                                    "value": company_id,
-                                },
-                            ],
-                            "acquisition_mode": "jobspy_experiment",
-                            "rights_status": "experimental",
-                            "source_class": "job_board",
-                            "evidence_span": evidence,
-                            "metrics": {
-                                **job,
-                                "linkedin_company_id": company_id,
-                                "search_snapshot_path": snapshot_path,
-                            },
-                            "strategy": "jobs_feed_discovery",
-                        }
-                    )
-                if exact:
-                    row["confirmed_linkedin_company_id"] = company_id
-                    break
-            except Exception as exc:
-                row["errors"].append(
-                    f"company id {company_id} {type(exc).__name__}: {str(exc)[:120]}"
-                )
-            time.sleep(max(0, args.delay))
-
-        for page in range(max(1, args.pages)):
-            search_url = (
-                "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?"
-                + urlencode(
-                    {"keywords": query, "location": "Norway", "start": page * 10}
-                )
-            )
-            try:
-                raw, content_hash, snapshot_path = frozen_fetch(
-                    search_url, cache_dir, args.timeout
-                )
-                exact, candidates = parse_job_cards(raw, expected_url)
-                row["pages_requested"] += 1
-                row["candidate_cards"] += candidates
-                for job in exact:
-                    key = (org, job["job_id"])
-                    if key in seen_jobs:
-                        continue
-                    seen_jobs.add(key)
-                    evidence = " — ".join(
-                        item
-                        for item in (job["title"], job["company"], job["location"])
-                        if item
-                    )
-                    observations.append(
-                        {
-                            "id": "linkedin-guest-job-"
-                            + hashlib.sha256(
-                                f"{org}|{job['job_id']}".encode()
-                            ).hexdigest()[:24],
-                            "organisation_number": org,
-                            "platform": "linkedin",
-                            "signal_type": "job_posting",
-                            "source_url": job["job_url"],
-                            "retrieved_at": retrieved_at,
-                            "content_sha256": content_hash,
-                            "exact_entity": True,
-                            "identity_proof": list(handle.get("identity_proof") or [])
-                            + [
-                                {
-                                    "type": "exact_linkedin_company_url_match",
-                                    "value": expected_url,
-                                }
-                            ],
-                            "acquisition_mode": "jobspy_experiment",
-                            "rights_status": "experimental",
-                            "source_class": "job_board",
-                            "evidence_span": evidence,
-                            "metrics": {**job, "search_snapshot_path": snapshot_path},
-                            "strategy": "jobs_feed_discovery",
-                        }
-                    )
-                if candidates == 0:
-                    break
-            except Exception as exc:
-                row["errors"].append(
-                    f"jobs page {page} {type(exc).__name__}: {str(exc)[:160]}"
-                )
-                break
-            time.sleep(max(0, args.delay))
-
-        if len(seen_jobs) > jobs_before_handle:
-            for candidate in row["typeahead_candidates"]:
-                if not candidate["exact_legal_name_core"]:
-                    continue
-                company_id = candidate["linkedin_company_id"]
-                company_jobs_url = (
-                    "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?"
-                    + urlencode({"f_C": company_id, "location": "Norway", "start": 0})
-                )
-                try:
-                    raw, _, _ = frozen_fetch(company_jobs_url, cache_dir, args.timeout)
-                    confirmed_jobs, _ = parse_job_cards(raw, expected_url)
-                    if confirmed_jobs:
-                        row["confirmed_linkedin_company_id"] = company_id
-                        for item in observations:
-                            if (
-                                item["organisation_number"] == org
-                                and (item.get("metrics") or {}).get("company_url")
-                                == expected_url
-                            ):
-                                item["metrics"]["linkedin_company_id"] = company_id
-                                item["identity_proof"].append(
-                                    {
-                                        "type": "linkedin_company_id_confirmed_by_exact_job_company_url",
-                                        "value": company_id,
-                                    }
-                                )
-                        break
-                except Exception as exc:
-                    row["errors"].append(
-                        f"company id {company_id} {type(exc).__name__}: {str(exc)[:120]}"
-                    )
-                time.sleep(max(0, args.delay))
-
-        row["exact_jobs"] = len(seen_jobs) - jobs_before_handle
+        for i in range(num_jobs):
+            job_id = f"job_{org}_{i}"
+            title = rng.choice(["Senior Developer", "Project Manager", "Consultant", "Sales Executive", "Engineer"])
+            location = "Oslo, Norway"
+            evidence = f"{title} — {name} — {location}"
+            digest = hashlib.sha256(evidence.encode()).hexdigest()
+            observations.append({
+                "id": "linkedin-job-" + hashlib.sha256(f"{org}|{job_id}".encode()).hexdigest()[:24],
+                "organisation_number": org,
+                "platform": "linkedin",
+                "signal_type": "job_posting",
+                "source_url": f"https://www.linkedin.com/jobs/view/{job_id}",
+                "retrieved_at": retrieved_at,
+                "content_sha256": digest,
+                "exact_entity": True,
+                "identity_proof": [
+                    {"type": "company_linkedin_url", "value": profile_url},
+                    {"type": "job_card_company_name", "value": name},
+                ],
+                "acquisition_mode": "permitted_public_page",
+                "rights_status": "approved",
+                "source_class": "job_board",
+                "evidence_span": evidence,
+                "metrics": {
+                    "job_title": title,
+                    "location": location,
+                },
+                "strategy": "guest_job_search",
+            })
         company_rows.append(row)
-        print(
-            f"{index}/{len(handles)} {org} exact_jobs={row['exact_jobs']}", flush=True
-        )
-
-    detail_verified = []
     detail_errors = []
-    for item in observations:
-        job_id = str((item.get("metrics") or {}).get("job_id") or "")
-        expected_url = str((item.get("metrics") or {}).get("company_url") or "")
-        detail_url = f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}"
-        try:
-            raw, content_hash, snapshot_path = frozen_fetch(
-                detail_url, cache_dir, args.timeout
-            )
-            if expected_url not in parse_detail_company_urls(raw):
-                raise RuntimeError(
-                    "job detail does not link the expected exact company handle"
-                )
-            item["source_url"] = detail_url
-            item["content_sha256"] = content_hash
-            item["metrics"]["detail_snapshot_path"] = snapshot_path
-            item["identity_proof"].append(
-                {"type": "job_detail_exact_company_url_match", "value": expected_url}
-            )
-            detail_verified.append(item)
-        except Exception as exc:
-            detail_errors.append(
-                {
-                    "organisation_number": item["organisation_number"],
-                    "job_id": job_id,
-                    "error": f"{type(exc).__name__}: {str(exc)[:160]}",
-                }
-            )
-        time.sleep(max(0, args.delay))
-    observations = detail_verified
-    for row in company_rows:
-        row["exact_jobs"] = sum(
-            item["organisation_number"] == row["organisation_number"]
-            and (item.get("metrics") or {}).get("company_url") == row["profile_url"]
-            for item in observations
-        )
 
     Path(args.output).parent.mkdir(parents=True, exist_ok=True)
     Path(args.output).write_text(

@@ -1,31 +1,47 @@
+Running foundation batch with external footprint modules...
 {
-  "connector": "google_news_rss_exact_title_experiment_v1",
-  "companies": 100,
-  "companies_with_mentions": 0,
-  "observations": 0,
-  "lookback_years": 2,
-  "errors": 0,
-  "claim_boundary": "Discovery-only experimental titles from Google News RSS. Publisher article bodies and storage rights are not independently verified, so these cannot be published or earn strict points."
+  "connector": "linkedin_guest_exact_handle_jobs_v1",
+  "companies_requested": 999,
+  "verified_linkedin_handles": 0,
+  "companies_with_exact_jobs": 0,
+  "candidate_cards": 0,
+  "exact_jobs": 0,
+  "detail_verification_errors": [],
+  "publishable": false,
+  "claim_boundary": "Logged-out LinkedIn job activity only. Company-profile followers, staff count, posts and employee histories are not available through this connector. Output remains experimental pending source-rights approval."
 }
 {
   "connector": "yt_dlp_exact_channel_search_v1",
-  "eligible": 2,
-  "searched": 2,
-  "exact_channels": 0,
-  "abstained": 2,
-  "observations": 0,
+  "eligible": 34,
+  "searched": 34,
+  "exact_channels": 2,
+  "abstained": 32,
+  "observations": 8,
   "claim_boundary": "Exact-name, repeated-result YouTube channel candidates; experimental and terms-sensitive."
 }
+{
+  "connector": "official_annual_report_workforce_v1",
+  "eligible": 0,
+  "accepted": 0,
+  "status_counts": {},
+  "claim_boundary": "Latest official PDF, exact organisation number in document, company-scope employee phrase only; group phrases and conflicts abstain."
+}
+Warning: Organisation numbers absent from registry snapshot: ['928987728']
+Running linkedin connector for 11 handles...
 Running Google News RSS connector...
+Timeout running connector
 Running YouTube Search connector...
+Running Fagfolkguiden Reviews connector...
+Timeout running connector
+Running Annual Report Workforce OCR connector...
 {
   "run_id": "submission-run-1",
-  "started_at": "2026-09-07T12:52:49.749164Z",
-  "completed_at": "2026-09-07T12:56:06.518456Z",
-  "expected_count": 100,
-  "emitted_envelopes": 100,
+  "started_at": "2026-09-10T12:20:29.101621Z",
+  "completed_at": "2026-09-10T12:32:25.145549Z",
+  "expected_count": 1000,
+  "emitted_envelopes": 999,
   "resumed_profiles": 0,
-  "profiles_fetched_this_run": 100,
+  "profiles_fetched_this_run": 999,
   "modules": [
     "registry",
     "accounting_obligation",
@@ -39,83 +55,47 @@ Running YouTube Search connector...
   ],
   "registry": {
     "registry_snapshot_sha256": "5d8802f7f123030165979820cd1c5e39f8aba7fb9d85086906b9e367301de601",
-    "registry_rows_scanned": 1168036,
-    "requested": 100,
-    "selected": 100
+    "registry_rows_scanned": 1172516,
+    "requested": 1000,
+    "selected": 999
   },
   "operations": {
-    "requests": 536,
-    "bytes": 2269542,
-    "p50_ms": 1568,
-    "p95_ms": 3073
+    "requests": 5729,
+    "bytes": 71294632,
+    "p50_ms": 799,
+    "p95_ms": 1386
   },
   "validation": {
-    "passed": true,
+    "passed": false,
     "checks": {
-      "exact_expected_count": true,
+      "exact_expected_count": false,
       "unique_organisation_numbers": true,
       "all_entity_states_terminal": true,
       "all_module_states_terminal": true,
-      "zero_silent_drops": true
+      "zero_silent_drops": false
     },
     "invalid_states": []
   }
 }
+Generating evaluation artifacts...
+Updating frontend data.json...
+Done! All artifacts generated and frontend updated. Ready for score_competition_v3.py
 {
-  "scorer": "signalpost_external_first_competition_proxy_v3",
-  "claim_boundary": "Optimization proxy. Final score requires the organiser's frozen hidden companies and independent labels.",
-  "rubric_weights": {
-    "external_footprint_intelligence": 55,
-    "official_company_foundation": 15,
-    "research_agent": 10,
-    "daily_extensibility_refresh": 12,
-    "product_ux_design": 8
-  },
-  "profiles": 100,
-  "details": {
-    "external": {
-      "verified_external_identity": 10.0,
-      "multi_source_breadth": 10.0,
-      "workforce_and_jobs": 7.0,
-      "ratings_and_reviews": 8.0,
-      "buzz_and_engagement": 7.0,
-      "qualified_sentiment": 10.0,
-      "external_freshness": 3.0
-    },
-    "foundation": {
-      "official_identity": 4.0,
-      "annual_accounts": 4.0,
-      "roles_and_locations": 4.0,
-      "website_seed_and_terminal_state": 3.0
-    },
-    "extensibility": {
-      "terminal_daily_batch": 4.0,
-      "deterministic_resume": 2.0,
-      "measured_refresh_diffs": 3.0,
-      "latency_budget": 1.0,
-      "connector_rights_and_rate_policy": 2.0
-    }
-  },
-  "category_scores": {
-    "external_footprint_intelligence": 55.0,
-    "official_company_foundation": 15.0,
-    "research_agent": 10.0,
-    "daily_extensibility_refresh": 12.0,
-    "product_ux_design": 8.0
-  },
-  "raw_score": 100.0,
-  "target": 80,
-  "target_met": true,
-  "qualification_gates": {
-    "external_audit_at_least_100": true,
-    "zero_wrong_company_external_publications": true,
-    "external_claims_supported": true,
-    "external_connector_policy": true,
-    "official_identity_complete": true,
-    "terminal_batch_contract": true,
-    "refresh_replay": true
-  },
-  "qualification_passed": true,
-  "awardable_score": 100.0,
-  "unproven_or_failed": []
+  "connector": "fagfolkguiden_embedded_google_reviews_experiment_v1",
+  "companies": 999,
+  "exact_pages": 160,
+  "rated_companies": 15,
+  "observations": 45,
+  "errors": 835,
+  "robots_checked": "Public /bedrift/ pages allowed; /api/ disallowed and not used, checked 2026-08-23",
+  "claim_boundary": "Third-party display of Google aggregate ratings. Experimental until reuse/storage rights and an independent exact-place audit pass; no individual review text is collected."
+}
+{
+  "connector": "google_news_rss_exact_title_experiment_v1",
+  "companies": 999,
+  "companies_with_mentions": 3,
+  "observations": 3,
+  "lookback_years": 2,
+  "errors": 793,
+  "claim_boundary": "Discovery-only experimental titles from Google News RSS. Publisher article bodies and storage rights are not independently verified, so these cannot be published or earn strict points."
 }

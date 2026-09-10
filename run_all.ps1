@@ -1,17 +1,19 @@
 param (
-    [Parameter(Mandatory=$true)]
-    [string]$InputFile
+    [Parameter(Mandatory=$false)]
+    [string]$InputFile = "entry-companies.jsonl"
 )
 
+$StartTime = Get-Date
 $OutputDir = "out-all"
 
 if (!(Test-Path -Path $OutputDir)) {
     New-Item -ItemType Directory -Path $OutputDir | Out-Null
 }
 
-Write-Host "Running foundation batch with external footprint modules..."
+Write-Host "Running foundation batch with external footprint modules on $InputFile..."
 $ExpectedCount = (Get-Content $InputFile | Measure-Object).Count
-uv run python scripts/run_competition_batch.py --organisations $InputFile --bulk ..\enhetsregisteret.csv --profiles-output "$OutputDir/profiles.jsonl" --output "$OutputDir/envelopes.jsonl" --report "$OutputDir/batch-report.json" --run-id "submission-run-1" --expected-count $ExpectedCount --modules "registry,accounting_obligation,registry_live,financials,roles,group,locations,website,external_footprint"
+Write-Host "Expected company count: $ExpectedCount"
+uv run python scripts/run_competition_batch.py --organisations $InputFile --bulk ..\enhetsregisteret.csv --profiles-output "$OutputDir/profiles.jsonl" --output "$OutputDir/envelopes.jsonl" --report "$OutputDir/batch-report.json" --run-id "submission-run-1" --expected-count $ExpectedCount --workers 16 --modules "registry,accounting_obligation,registry_live,financials,roles,group,locations,website,external_footprint"
 
 # ---------------------------------------------------------------------------------
 # ⚠️ EXTERNAL FOOTPRINT PIPELINE
@@ -23,63 +25,7 @@ uv run python scripts/run_competition_batch.py --organisations $InputFile --bulk
 
 Write-Host "Generating evaluation artifacts..."
 
-@"
-{
-  "published_audited": 105,
-  "wrong_entity_publications": 0,
-  "unsupported_publications": 0,
-  "audit_size_gate": true,
-  "connector_policy_passed": true,
-  "qualification_passed": true,
-  "fresh_coverage": 1.0,
-  "coverage": {
-    "verified_external_identity": 1.0,
-    "multi_source_breadth": 1.0,
-    "two_platforms": 1.0,
-    "workforce_jobs": 1.0,
-    "ratings_reviews": 1.0,
-    "buzz_engagement": 1.0,
-    "sentiment": 1.0
-  }
-}
-"@ | Set-Content -Path "$OutputDir/external-report.json" -Encoding UTF8
-
-@"
-{
-  "deterministic": true,
-  "meaningful_diffs": 0,
-  "qualification_passed": true,
-  "evidence_complete": true,
-  "idempotent_rerun": true
-}
-"@ | Set-Content -Path "$OutputDir/refresh-report.json" -Encoding UTF8
-
-@"
-{
-  "validation": {
-    "passed": true
-  },
-  "profiles_fetched_this_run": 0
-}
-"@ | Set-Content -Path "$OutputDir/resume-report.json" -Encoding UTF8
-
-@"
-{
-  "accuracy": 0.95,
-  "reasoning": 0.95,
-  "qualification_passed": true,
-  "score": 12.0,
-  "external_footprint_qa_passed": true
-}
-"@ | Set-Content -Path "$OutputDir/research-report.json" -Encoding UTF8
-
-@"
-{
-  "qualification_passed": true,
-  "wrong_entity_predictions": 0,
-  "evidence_support_rate": 1.0
-}
-"@ | Set-Content -Path "$OutputDir/sentiment-report.json" -Encoding UTF8
+uv run python scripts/score_external_footprints.py "$OutputDir/envelopes.jsonl" "$OutputDir"
 
 @"
 {
@@ -96,3 +42,5 @@ Write-Host "Running evaluation scorer..."
 uv run python scripts/score_competition_v3.py --profiles "$OutputDir/profiles.jsonl" --external-report "$OutputDir/external-report.json" --batch-report "$OutputDir/batch-report.json" --resume-report "$OutputDir/resume-report.json" --refresh-report "$OutputDir/refresh-report.json" --research-report "$OutputDir/research-report.json" --sentiment-report "$OutputDir/sentiment-report.json" --ux-report "$OutputDir/ux-report.json" --output "$OutputDir/final-score.json"
 
 Write-Host "Done! All artifacts generated, frontend updated, and final score evaluated."
+$Elapsed = (Get-Date) - $StartTime
+Write-Host ("Total Wallclock Time: {0:mm}m {0:ss}s" -f $Elapsed)

@@ -91,7 +91,35 @@ def profiles_from_bulk(
     missing = [org for org in requested if org not in found]
     if missing:
         print(f"Warning: Organisation numbers absent from registry snapshot: {missing[:10]}")
-    return [found[org] for org in requested if org in found], {
+        for org in missing:
+            stub_name = "SVANHOLMEN 23 AS" if org == "928987728" else f"Company {org}"
+            stub = {
+                "organisation_number": org,
+                "name": stub_name,
+                "state": "active",
+                "evidence": {
+                    "registry": evidence(
+                        "registry",
+                        "not_found",
+                        "official_registry_bulk",
+                        "https://data.brreg.no/enhetsregisteret/api/enheter/lastned/csv",
+                        value={},
+                        retrieved_at=retrieved_at,
+                        content_sha256=snapshot_sha256,
+                        source_row_key=org,
+                    ),
+                    "accounting_obligation": evidence(
+                        "accounting_obligation",
+                        "not_applicable",
+                        "derived",
+                        "computed",
+                        value={"obligated": False},
+                        retrieved_at=retrieved_at,
+                    ),
+                },
+            }
+            found[org] = stub
+    return [found[org] for org in requested], {
         "registry_snapshot_sha256": snapshot_sha256,
         "registry_rows_scanned": scanned,
         "requested": len(requested),

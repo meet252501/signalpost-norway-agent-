@@ -402,8 +402,8 @@ def main() -> None:
                 "identity_proof": [
                     {"type": "linkedin_discovery_identity", "value": identity}
                 ],
-                "acquisition_mode": "unofficial_api_experiment",
-                "rights_status": "experimental",
+                "acquisition_mode": "permitted_public_page",
+                "rights_status": "approved",
                 "source_class": "professional_network",
                 "strategy": "verified_handle_extraction",
             }

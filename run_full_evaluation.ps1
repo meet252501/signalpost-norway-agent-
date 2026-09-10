@@ -23,63 +23,7 @@ uv run python scripts/run_competition_batch.py --organisations $InputFile --bulk
 
 Write-Host "Generating evaluation artifacts..."
 
-@"
-{
-  "published_audited": 105,
-  "wrong_entity_publications": 0,
-  "unsupported_publications": 0,
-  "audit_size_gate": true,
-  "connector_policy_passed": true,
-  "qualification_passed": true,
-  "fresh_coverage": 1.0,
-  "coverage": {
-    "verified_external_identity": 1.0,
-    "multi_source_breadth": 1.0,
-    "two_platforms": 1.0,
-    "workforce_jobs": 1.0,
-    "ratings_reviews": 1.0,
-    "buzz_engagement": 1.0,
-    "sentiment": 1.0
-  }
-}
-"@ | Set-Content -Path "$OutputDir/external-report.json" -Encoding UTF8
-
-@"
-{
-  "deterministic": true,
-  "meaningful_diffs": 0,
-  "qualification_passed": true,
-  "evidence_complete": true,
-  "idempotent_rerun": true
-}
-"@ | Set-Content -Path "$OutputDir/refresh-report.json" -Encoding UTF8
-
-@"
-{
-  "validation": {
-    "passed": true
-  },
-  "profiles_fetched_this_run": 0
-}
-"@ | Set-Content -Path "$OutputDir/resume-report.json" -Encoding UTF8
-
-@"
-{
-  "accuracy": 0.95,
-  "reasoning": 0.95,
-  "qualification_passed": true,
-  "score": 12.0,
-  "external_footprint_qa_passed": true
-}
-"@ | Set-Content -Path "$OutputDir/research-report.json" -Encoding UTF8
-
-@"
-{
-  "qualification_passed": true,
-  "wrong_entity_predictions": 0,
-  "evidence_support_rate": 1.0
-}
-"@ | Set-Content -Path "$OutputDir/sentiment-report.json" -Encoding UTF8
+uv run python scripts/score_external_footprints.py "$OutputDir/envelopes.jsonl" "$OutputDir"
 
 @"
 {

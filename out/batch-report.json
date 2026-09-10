@@ -1,11 +1,11 @@
 {
   "run_id": "submission-run-1",
-  "started_at": "2026-09-07T14:02:27.379247Z",
-  "completed_at": "2026-09-07T14:03:52.269583Z",
-  "expected_count": 100,
-  "emitted_envelopes": 100,
-  "resumed_profiles": 0,
-  "profiles_fetched_this_run": 100,
+  "started_at": "2026-09-10T14:13:49.249740Z",
+  "completed_at": "2026-09-10T14:24:12.899392Z",
+  "expected_count": 1000,
+  "emitted_envelopes": 999,
+  "resumed_profiles": 100,
+  "profiles_fetched_this_run": 899,
   "modules": [
     "registry",
     "accounting_obligation",
@@ -19,24 +19,24 @@
   ],
   "registry": {
     "registry_snapshot_sha256": "5d8802f7f123030165979820cd1c5e39f8aba7fb9d85086906b9e367301de601",
-    "registry_rows_scanned": 1168036,
-    "requested": 100,
-    "selected": 100
+    "registry_rows_scanned": 1172516,
+    "requested": 1000,
+    "selected": 999
   },
   "operations": {
-    "requests": 536,
-    "bytes": 2268310,
-    "p50_ms": 854,
-    "p95_ms": 1222
+    "requests": 4701,
+    "bytes": 32654420,
+    "p50_ms": 818,
+    "p95_ms": 1676
   },
   "validation": {
-    "passed": true,
+    "passed": false,
     "checks": {
-      "exact_expected_count": true,
+      "exact_expected_count": false,
       "unique_organisation_numbers": true,
       "all_entity_states_terminal": true,
       "all_module_states_terminal": true,
-      "zero_silent_drops": true
+      "zero_silent_drops": false
     },
     "invalid_states": []
   }
