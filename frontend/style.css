@@ -145,6 +145,8 @@ body {
 .badges-row { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }
 .status-badge { display: inline-flex; align-items: center; gap: 8px; padding: 8px 16px; background: rgba(0,0,0,0.3); border: 1px solid var(--border-color); border-radius: 20px; font-size: 0.85rem; font-family: var(--font-sans); font-weight: 600; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
 .status-badge.green { color: var(--success); border-color: rgba(16, 185, 129, 0.3); background: rgba(16, 185, 129, 0.05); }
+.status-badge.amber { color: #f59e0b; border-color: rgba(245, 158, 11, 0.3); background: rgba(245, 158, 11, 0.05); }
+.status-badge.blue { color: #38bdf8; border-color: rgba(56, 189, 248, 0.3); background: rgba(56, 189, 248, 0.05); }
 .status-badge.red { color: var(--danger); border-color: rgba(239, 68, 68, 0.3); background: rgba(239, 68, 68, 0.05); }
 .status-badge.gray { color: var(--text-muted); }
 .status-badge span { font-size: 16px; }

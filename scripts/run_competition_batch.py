@@ -18,8 +18,10 @@ from norway_company_agent.batch import (
     validate_envelopes,
 )
 from norway_company_agent.budget import GLOBAL_BUDGET
+from norway_company_agent.compliance import evaluate_compliance
 from norway_company_agent.evidence import evidence, utc_now
 from norway_company_agent.external_footprint import aggregate_footprint
+from norway_company_agent.financial_analysis import analyze_financial_health
 from norway_company_agent.footprint_gatherer import gather_footprints
 from norway_company_agent.identity import apply_website_identity_gate
 from norway_company_agent.official import fetch_official_modules
@@ -197,6 +199,10 @@ def main() -> None:
         if "website" in requested_modules and "website" not in ev:
             ev["website"] = evidence("website", "not_found", "registry_linked_company_website", "https://data.brreg.no/enhetsregisteret/api/enheter", note="No website", retrieved_at=completed_at)
 
+        # 5. Advanced intelligence: Financial Health & Compliance Pre-Screening
+        profile["financial_health"] = analyze_financial_health(profile)
+        profile["compliance"] = evaluate_compliance(profile)
+
     envelopes = [
         terminal_envelope(
             profile,
@@ -207,6 +213,10 @@ def main() -> None:
         )
         for profile in ordered_profiles
     ]
+    for env, prof in zip(envelopes, ordered_profiles):
+        env["financial_health"] = prof.get("financial_health")
+        env["compliance"] = prof.get("compliance")
+
     validation = validate_envelopes(envelopes, args.expected_count)
     write_jsonl(profiles_output, ordered_profiles)
     write_jsonl(Path(args.output), envelopes)

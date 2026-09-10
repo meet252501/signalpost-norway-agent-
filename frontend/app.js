@@ -56,7 +56,9 @@ function parseData(rawData) {
       bankrupt: bankrupt,
       liquidating: liquidating,
       evidenceCount: evidenceCount,
-      score: item.score || (evidenceCount / 8.0 * 10)
+      score: item.score || (evidenceCount / 8.0 * 10),
+      finHealth: p.financial_health || item.financial_health || null,
+      compliance: p.compliance || item.compliance || null
     };
   });
   
@@ -70,13 +72,24 @@ function renderDirectory() {
     if (c.bankrupt || c.liquidating) badgeClass += ' warning';
     const badgeText = c.bankrupt ? 'Bankrupt' : (c.liquidating ? 'Liquidating' : `${c.evidenceCount}/8 data`);
     
+    let extraBadge = '';
+    const compTier = c.compliance?.compliance_tier;
+    if (compTier === 'low_risk' || c.compliance?.badge_color === 'green') {
+      extraBadge = `<div class="data-badge" style="color:var(--success); background:rgba(16,185,129,0.1);"><span class="material-symbols-outlined">shield</span>Clean</div>`;
+    } else if (compTier === 'high_risk' || c.compliance?.badge_color === 'red' || c.bankrupt) {
+      extraBadge = `<div class="data-badge warning"><span class="material-symbols-outlined">gavel</span>High Risk</div>`;
+    }
+
     return `
       <div class="company-item ${selectedCompany?.org === c.org ? 'selected' : ''}" onclick="selectCompany('${c.org}')">
         <div class="item-name">${c.name}</div>
         <div class="item-desc">${c.municipality} — ${c.industry}</div>
-        <div class="${badgeClass}">
-          <span class="material-symbols-outlined">${c.bankrupt || c.liquidating ? 'warning' : 'verified'}</span>
-          ${badgeText}
+        <div style="display:flex; gap:6px; flex-wrap:wrap;">
+          <div class="${badgeClass}">
+            <span class="material-symbols-outlined">${c.bankrupt || c.liquidating ? 'warning' : 'verified'}</span>
+            ${badgeText}
+          </div>
+          ${extraBadge}
         </div>
       </div>
     `;
@@ -152,6 +165,26 @@ function renderProfile() {
   if (c.website) badgesHTML += `<div class="status-badge green"><span class="material-symbols-outlined">check_circle</span>Verified website</div>`;
   if (evidence.roles?.status === 'available') badgesHTML += `<div class="status-badge green"><span class="material-symbols-outlined">check_circle</span>Roles verified</div>`;
   
+  const finH = c.finHealth || {};
+  const finLatest = finH.latest || finH;
+  const comp = c.compliance || {};
+
+  // Compliance & AML badge
+  if (comp && comp.compliance_tier) {
+    const color = comp.badge_color || (comp.compliance_tier === 'low_risk' ? 'green' : (comp.compliance_tier === 'high_risk' ? 'red' : 'amber'));
+    const label = comp.status_label || (comp.compliance_tier === 'low_risk' ? 'AML/KYC: Low Risk' : (comp.compliance_tier === 'high_risk' ? 'AML/KYC: High Risk' : 'AML/KYC: Standard Diligence'));
+    const icon = comp.compliance_tier === 'low_risk' ? 'verified_user' : (comp.compliance_tier === 'high_risk' ? 'gavel' : 'shield');
+    badgesHTML += `<div class="status-badge ${color}"><span class="material-symbols-outlined">${icon}</span>${label}</div>`;
+  }
+
+  // Financial Health badge
+  if (finLatest && finLatest.altman_z_score) {
+    let zTier = finLatest.credit_risk_tier || 'low_risk';
+    let zClass = zTier === 'low_risk' ? 'blue' : (zTier === 'high_risk' ? 'red' : 'amber');
+    let zIcon = zTier === 'low_risk' ? 'trending_up' : (zTier === 'high_risk' ? 'trending_down' : 'swap_horiz');
+    badgesHTML += `<div class="status-badge ${zClass}"><span class="material-symbols-outlined">${zIcon}</span>Altman Z'': ${finLatest.altman_z_score.toFixed(2)} (${finLatest.solvency_status || 'solid'})</div>`;
+  }
+  
   document.getElementById('pBadges').innerHTML = badgesHTML;
   
   // Extract specific evidence points
@@ -179,9 +212,14 @@ function renderProfile() {
         <span class="desc">Official company record</span>
       </div>
       <div class="data-item">
-        <span class="label">REGISTERED WORKPLACES</span>
-        <span class="value">${locs.length > 0 ? locs.length : 1}</span>
-        <span class="desc">Official subunits</span>
+        <span class="label">SOLVENCY STATUS</span>
+        <span class="value" style="color:${finLatest.solvency_status === 'solid' ? 'var(--success)' : (finLatest.solvency_status === 'vulnerable' || finLatest.solvency_status === 'negative_equity' ? 'var(--danger)' : '#38bdf8')}">${(finLatest.solvency_status || 'Satisfactory').toUpperCase()}</span>
+        <span class="desc">Equity ratio: ${finLatest.equity_ratio_pct !== null && finLatest.equity_ratio_pct !== undefined ? finLatest.equity_ratio_pct + '%' : 'N/A'}</span>
+      </div>
+      <div class="data-item">
+        <span class="label">AML & REGULATORY RISK</span>
+        <span class="value" style="color:${comp.badge_color === 'green' ? 'var(--success)' : (comp.badge_color === 'red' ? 'var(--danger)' : '#f59e0b')}">${(comp.compliance_tier || 'STANDARD').replace('_', ' ').toUpperCase()}</span>
+        <span class="desc">Risk score: ${comp.risk_score !== undefined ? comp.risk_score + '/100' : 'Clean'}</span>
       </div>
       <div class="data-item">
         <span class="label">IDENTITY SCORE</span>
@@ -192,8 +230,32 @@ function renderProfile() {
   `;
   
   // Financials Tab
+  let zColor = 'var(--text-main)';
+  if (finLatest.credit_risk_tier === 'low_risk') zColor = 'var(--success)';
+  else if (finLatest.credit_risk_tier === 'high_risk') zColor = 'var(--danger)';
+  else if (finLatest.credit_risk_tier === 'grey_zone') zColor = '#f59e0b';
+
   let htmlFin = `
-    <h2 class="section-title">Financial snapshot</h2>
+    <h2 class="section-title">Solvency & Credit Health Analytics <span class="material-symbols-outlined" style="color:var(--primary-accent);font-size:18px">query_stats</span></h2>
+    <div class="card-grid three-col" style="margin-bottom:32px;">
+      <div class="info-card">
+        <h4>Altman Z''-Score</h4>
+        <p style="font-size:1.5rem; font-weight:700; color:${zColor}; margin:6px 0;">${finLatest.altman_z_score !== null && finLatest.altman_z_score !== undefined ? finLatest.altman_z_score.toFixed(2) : 'N/A'}</p>
+        <p>${finH.rating_label || (finLatest.credit_risk_tier || 'Statutory Baseline')}</p>
+      </div>
+      <div class="info-card">
+        <h4>Equity Ratio</h4>
+        <p style="font-size:1.5rem; font-weight:700; color:var(--success); margin:6px 0;">${finLatest.equity_ratio_pct !== null && finLatest.equity_ratio_pct !== undefined ? finLatest.equity_ratio_pct + '%' : 'N/A'}</p>
+        <p>Solvency: ${(finLatest.solvency_status || 'Satisfactory').toUpperCase()}</p>
+      </div>
+      <div class="info-card">
+        <h4>Debt-to-Equity Ratio</h4>
+        <p style="font-size:1.5rem; font-weight:700; color:#38bdf8; margin:6px 0;">${finLatest.debt_to_equity !== null && finLatest.debt_to_equity !== undefined ? finLatest.debt_to_equity.toFixed(2) + 'x' : 'N/A'}</p>
+        <p>Revenue trend: ${(finH.revenue_trend || 'Active').toUpperCase()}</p>
+      </div>
+    </div>
+
+    <h2 class="section-title">Official statutory filings</h2>
     <div class="data-list">
       <div class="data-row"><span class="key">Revenue</span><span class="val">${formatCurrency(fin.revenue)}</span></div>
       <div class="data-row"><span class="key">Operating result</span><span class="val">${formatCurrency(fin.operating_result)}</span></div>

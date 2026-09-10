@@ -158,6 +158,43 @@ def answer_profile(row: dict[str, Any], question: str) -> dict[str, Any]:
             "Sentiment is not scored: no labelled Norwegian news/social evaluation corpus has been run, and company-owned pages are structurally promotional."
         )
 
+    fin_health = row.get("financial_health") or {}
+    latest_fin = fin_health.get("latest") or fin_health
+    compliance = row.get("compliance") or {}
+    if any(term in q for term in ("health", "solvency", "z-score", "credit", "altman", "trend", "margin")):
+        if fin_health and (latest_fin.get("altman_z_score") is not None or latest_fin.get("solvency_status")):
+            if latest_fin.get("altman_z_score") is not None:
+                facts.append(_claim("Altman Z''-Score", latest_fin["altman_z_score"], financial, "computed_financial_health"))
+            tier = latest_fin.get("credit_risk_tier") or fin_health.get("rating_label") or fin_health.get("credit_tier")
+            if tier:
+                facts.append(_claim("Credit risk tier", tier, financial, "computed_financial_health"))
+            if latest_fin.get("solvency_status"):
+                facts.append(_claim("Solvency status", latest_fin["solvency_status"], financial, "computed_financial_health"))
+            if latest_fin.get("equity_ratio_pct") is not None:
+                facts.append(_claim("Equity ratio (%)", latest_fin["equity_ratio_pct"], financial, "computed_financial_health"))
+            trend = fin_health.get("revenue_trend") or fin_health.get("financial_trend")
+            if trend:
+                facts.append(_claim("Financial trajectory", trend, financial, "computed_financial_health"))
+        else:
+            unsupported.append("Financial health model requires at least one filed annual accounting report.")
+
+    if any(term in q for term in ("aml", "kyc", "compliance", "sanction", "risk", "insolvency", "bankrupt")):
+        if compliance:
+            label = compliance.get("status_label") or compliance.get("compliance_rating") or compliance.get("compliance_tier")
+            if label:
+                facts.append(_claim("AML/KYC compliance rating", label, registry, "computed_compliance_screening"))
+            if compliance.get("sanctions_screening"):
+                facts.append(_claim("Sanctions screening status", compliance["sanctions_screening"], registry, "computed_compliance_screening"))
+            if compliance.get("risk_score") is not None:
+                facts.append(_claim("Statutory risk score (0-100)", compliance["risk_score"], registry, "computed_compliance_screening"))
+            gov = compliance.get("governance") or {}
+            gov_str = "VERIFIED" if gov.get("has_board_chair") else ("UNVERIFIED" if gov else compliance.get("board_governance"))
+            if gov_str:
+                facts.append(_claim("Board governance", gov_str, registry, "computed_compliance_screening"))
+            if compliance.get("flags"):
+                facts.append(_claim("Compliance notice flags", compliance["flags"], registry, "computed_compliance_screening"))
+
+
     return {
         "organisation_number": row.get("organisation_number"),
         "company_name": row.get("name"),
