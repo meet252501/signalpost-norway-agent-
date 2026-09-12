@@ -68,17 +68,17 @@ def extract_company_info(html: str, org: str) -> dict:
         info["name"] = title_match.group(1).strip()
     
     # Look for Purehelp operational driftscore (0-100)
-    driftscore_match = re.search(r'driftscore er beregnet til\s*<b>(\d+)</b>', html)
+    driftscore_match = re.search(r'driftscore er beregnet til\s*<b[^>]*>\s*(\d+)\s*</b>', html)
     if driftscore_match:
         info["driftscore"] = int(driftscore_match.group(1))
     
-    # Look for rating/score data
-    rating_match = re.search(r'rating["\s:]*["\']?([A-F][+-]?|[0-9]+(?:\.[0-9]+)?)', html, re.I)
+    # Look for rating/score data (exclude CSS class names by ensuring a space or > before rating)
+    rating_match = re.search(r'(?:>|\s)rating["\s:=]*["\']?([A-F][+-]?|[0-9]+(?:\.[0-9]+)?)(?:<|["\']|\s)', html, re.I)
     if rating_match:
         info["rating"] = rating_match.group(1)
     
     # Look for Purehelp score
-    score_match = re.search(r'(?:score|kredittvurdering)["\s:]*["\']?([A-F][+-]?|\d+)', html, re.I)
+    score_match = re.search(r'(?:>|\s)(?:score|kredittvurdering)["\s:=]*["\']?([A-F][+-]?|\d+)(?:<|["\']|\s)', html, re.I)
     if score_match:
         info["score"] = score_match.group(1)
     
