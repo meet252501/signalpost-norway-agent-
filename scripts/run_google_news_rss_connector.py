@@ -9,13 +9,54 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import UTC, datetime
+from datetime import UTC, datetime, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 import time
 
 LEGAL = {"as", "asa", "sa", "ba", "da", "ans", "enk", "nuf", "sti"}
 UA = "SignalpostResearchPOC/1.0 (https://builderr.ai; bounded qualification run)"
+
+# Simple keyword-based sentiment classifier for Norwegian/English news headlines
+POSITIVE_KEYWORDS = {
+    # Norwegian positive
+    "vekst", "vinner", "rekord", "styrker", "ekspanderer", "investerer",
+    "suksess", "vokser", "øker", "lønnsomhet", "overskudd", "samarbeid",
+    "innovasjon", "prisvinner", "lanserer", "sterk", "positiv", "fremgang",
+    "oppgang", "beste", "topp", "solgt", "avtale", "kontrakt", "feirer",
+    "bærekraft", "grønn", "fornybar", "anbefaler", "tildelt", "utnevnt",
+    # English positive
+    "growth", "profit", "award", "record", "expands", "launches", "wins",
+    "success", "innovation", "partnership", "strong", "positive", "best",
+    "leading", "celebrates", "sustainable", "investment", "milestone",
+    "breakthrough", "achievement",
+}
+
+NEGATIVE_KEYWORDS = {
+    # Norwegian negative
+    "tap", "konkurs", "nedgang", "krise", "kutt", "permitterer", "sparken",
+    "nedbemannet", "gjeldsforhandling", "svindel", "skandale", "mistenkt",
+    "anmeldt", "stengt", "straffet", "bot", "overtredelse", "avvikle",
+    "tvangsoppløsning", "underskudd", "misligholder", "faller", "verst",
+    # English negative
+    "loss", "bankruptcy", "crisis", "layoff", "fraud", "scandal", "fine",
+    "closed", "penalty", "decline", "failure", "shutdown", "debt", "default",
+    "investigation", "charged", "violation", "worst", "collapse",
+}
+
+
+def classify_sentiment(text: str) -> str:
+    """Simple keyword-based sentiment for news headlines."""
+    words = set(re.findall(r"[a-zæøå]+", text.casefold()))
+    pos = len(words & POSITIVE_KEYWORDS)
+    neg = len(words & NEGATIVE_KEYWORDS)
+    if pos > neg:
+        return "positive"
+    if neg > pos:
+        return "negative"
+    if pos == neg and pos > 0:
+        return "mixed"
+    return "neutral"
 
 
 def norm(value: object) -> str:
@@ -37,21 +78,9 @@ def exact_title_match(company_name: str, title: str) -> bool:
         or len(company_tokens) > len(title_tokens)
     ):
         return False
-    # A full legal name may occur after ordinary headline grammar ("fra X AS"),
-    # but not inside a longer company name ("Aneo Roan Vind Holding AS").
     allowed_predecessors = {
-        "av",
-        "for",
-        "fra",
-        "hos",
-        "i",
-        "med",
-        "om",
-        "på",
-        "til",
-        "og",
-        "kjøper",
-        "velger",
+        "av", "for", "fra", "hos", "i", "med", "om", "på", "til", "og",
+        "kjøper", "velger",
     }
     for index in range(len(title_tokens) - len(company_tokens) + 1):
         if title_tokens[index : index + len(company_tokens)] != company_tokens:
@@ -61,46 +90,105 @@ def exact_title_match(company_name: str, title: str) -> bool:
     return False
 
 
+def fetch_rss(query: str, timeout: float = 8.0) -> bytes:
+    """Fetch Google News RSS for a search query."""
+    encoded = urllib.parse.quote(f'"{query}"')
+    url = f"https://news.google.com/rss/search?q={encoded}&hl=no&gl=NO&ceid=NO:no"
+    request = urllib.request.Request(url, headers={
+        "User-Agent": UA,
+        "Accept": "application/rss+xml, application/xml, text/xml",
+    })
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            return response.read(500_000)
+    except Exception:
+        return b""
+
+
+def parse_rss_items(raw: bytes) -> list[dict]:
+    """Parse RSS XML into list of {title, link, pubDate, source}."""
+    items = []
+    if not raw:
+        return items
+    try:
+        root = ET.fromstring(raw)
+    except ET.ParseError:
+        return items
+    for item_el in root.iter("item"):
+        title_el = item_el.find("title")
+        link_el = item_el.find("link")
+        pub_el = item_el.find("pubDate")
+        source_el = item_el.find("source")
+        if title_el is None or link_el is None:
+            continue
+        title = (title_el.text or "").strip()
+        link = (link_el.text or "").strip()
+        pub_date = (pub_el.text or "").strip() if pub_el is not None else None
+        source = (source_el.text or "").strip() if source_el is not None else None
+        source_url = source_el.get("url", "") if source_el is not None else ""
+        if title and link:
+            items.append({
+                "title": title,
+                "link": link,
+                "pubDate": pub_date,
+                "source": source,
+                "source_url": source_url,
+            })
+    return items
+
+
 def fetch(profile: dict, limit: int, years: int) -> tuple[list[dict], dict]:
+    """Fetch real Google News RSS articles for a company."""
     org = str(profile.get("organisation_number"))
     name = profile.get("name", "Unknown Company")
     
-    # Generate mock news articles
+    # Fetch real RSS feed
+    raw = fetch_rss(name)
+    rss_items = parse_rss_items(raw)
+    
+    now = datetime.now(UTC)
+    retrieved_at = now.isoformat()
+    cutoff = now - timedelta(days=years * 365)
+    
     output = []
+    accepted = 0
+    rejected = 0
     
-    # Use deterministic random seed based on org number
-    import random
-    import hashlib
-    from datetime import datetime, timezone, timedelta
-    
-    rng = random.Random(org)
-    
-    num_articles = rng.randint(1, limit)
-    
-    now = datetime.now(timezone.utc)
-    
-    for i in range(num_articles):
-        # Generate a fake title that mentions the company name
-        topic = rng.choice(["announces new partnership", "reports strong Q3 growth", "launches innovative product", "expands operations in Norway", "receives industry award"])
-        title = f"{name} {topic}"
-        publisher = rng.choice(["Dagens Næringsliv", "E24", "Finansavisen", "NRK", "Aftenposten"])
+    for item in rss_items[:limit]:
+        title = item["title"]
+        link = item["link"]
         
-        # Random date within the last 'years' years
-        days_ago = rng.randint(1, years * 365)
-        published_at = (now - timedelta(days=days_ago)).strftime("%a, %d %b %Y %H:%M:%S GMT")
-        retrieved_at = now.isoformat()
+        # Only accept articles where the company name appears in the title
+        if not exact_title_match(name, title):
+            rejected += 1
+            continue
         
-        link = f"https://news.google.com/search?q={urllib.parse.quote(name)}&article={i}"
-        digest = hashlib.sha256(f"{title}|{publisher}".encode()).hexdigest()
+        # Parse publication date
+        published_at = None
+        if item.get("pubDate"):
+            try:
+                pub_dt = parsedate_to_datetime(item["pubDate"])
+                if pub_dt.tzinfo is None:
+                    pub_dt = pub_dt.replace(tzinfo=UTC)
+                if pub_dt < cutoff:
+                    continue
+                published_at = pub_dt.isoformat()
+            except Exception:
+                pass
         
-        output.append({
-            "id": "google-news-title-" + hashlib.sha256(f"{org}|{title}|{publisher}".encode()).hexdigest()[:24],
+        publisher = item.get("source") or "Unknown"
+        digest = hashlib.sha256(f"{title}|{link}".encode()).hexdigest()
+        
+        # Classify sentiment from real headline
+        sentiment = classify_sentiment(title)
+        
+        obs = {
+            "id": "google-news-title-" + hashlib.sha256(f"{org}|{title}|{link}".encode()).hexdigest()[:24],
             "organisation_number": org,
             "platform": "news",
             "signal_type": "public_mention",
             "source_url": link,
             "retrieved_at": retrieved_at,
-            "published_at": published_at,
             "content_sha256": digest,
             "exact_entity": True,
             "identity_proof": [
@@ -113,19 +201,28 @@ def fetch(profile: dict, limit: int, years: int) -> tuple[list[dict], dict]:
             "evidence_span": title,
             "text": title,
             "publisher": publisher,
+            "sentiment_label": sentiment,
+            "sentiment_model_version": "keyword-classifier-v1",
             "strategy": "independent_news_discovery",
-        })
-        
+        }
+        if published_at:
+            obs["published_at"] = published_at
+            
+        output.append(obs)
+        accepted += 1
+    
     return output, {
         "organisation_number": org,
-        "items": num_articles,
-        "accepted": num_articles,
+        "rss_items_fetched": len(rss_items),
+        "items": accepted,
+        "accepted": accepted,
+        "rejected": rejected,
     }
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Bounded exact-title Google News RSS discovery experiment."
+        description="Bounded exact-title Google News RSS discovery — fetches real RSS feeds."
     )
     parser.add_argument("--profiles", required=True)
     parser.add_argument("--organisations", required=True)
@@ -153,48 +250,60 @@ def main() -> None:
         )
     }
     observations, results = [], []
-    with ThreadPoolExecutor(max_workers=max(1, min(args.workers, 4))) as pool:
-        futures = {
-            pool.submit(fetch, profiles[org], args.per_company, args.years): org
-            for org in wanted
-        }
-        import concurrent.futures
-        for future in as_completed(futures):
-            try:
-                rows, status = future.result()
-                observations.extend(rows)
-                results.append(status)
-            except concurrent.futures.TimeoutError:
-                results.append({
-                    "organisation_number": "unknown",
-                    "status": "timeout",
-                    "articles_found": 0,
-                })
-            except Exception as e:
-                pass
+    
+    # Rate limiting: be polite to Google News
+    batch_size = 4
+    delay_between_batches = 0.5
+    
+    with ThreadPoolExecutor(max_workers=max(1, min(args.workers, batch_size))) as pool:
+        # Process in batches to avoid hammering
+        for batch_start in range(0, len(wanted), batch_size):
+            batch = wanted[batch_start:batch_start + batch_size]
+            futures = {
+                pool.submit(fetch, profiles[org], args.per_company, args.years): org
+                for org in batch
+                if org in profiles
+            }
+            for future in as_completed(futures):
+                try:
+                    rows, status = future.result()
+                    observations.extend(rows)
+                    results.append(status)
+                except Exception as e:
+                    org = futures[future]
+                    results.append({
+                        "organisation_number": org,
+                        "error": str(e)[:200],
+                        "items": 0,
+                        "accepted": 0,
+                    })
+            if batch_start + batch_size < len(wanted):
+                time.sleep(delay_between_batches)
+    
     order = {org: index for index, org in enumerate(wanted)}
     observations.sort(
         key=lambda row: (
-            order[row["organisation_number"]],
+            order.get(row["organisation_number"], 99999),
             row.get("published_at") or "",
             row["id"],
         )
     )
-    results.sort(key=lambda row: order[row["organisation_number"]])
+    results.sort(key=lambda row: order.get(row["organisation_number"], 99999))
     Path(args.output).write_text(
         "".join(json.dumps(row, ensure_ascii=False) + "\n" for row in observations),
         encoding="utf-8",
     )
+    companies_with_news = len({r["organisation_number"] for r in results if r.get("accepted", 0) > 0})
+    total_rss = sum(r.get("rss_items_fetched", 0) for r in results)
     report = {
-        "connector": "google_news_rss_exact_title_experiment_v1",
+        "connector": "google_news_rss_real_v2",
         "companies": len(wanted),
-        "companies_with_mentions": len(
-            {row["organisation_number"] for row in observations}
-        ),
+        "companies_with_mentions": companies_with_news,
         "observations": len(observations),
+        "rss_items_fetched_total": total_rss,
         "lookback_years": args.years,
-        "errors": sum("error" in row for row in results),
-        "claim_boundary": "Discovery-only experimental titles from Google News RSS. Publisher article bodies and storage rights are not independently verified, so these cannot be published or earn strict points.",
+        "errors": sum(1 for row in results if "error" in row),
+        "claim_boundary": "Real Google News RSS public feeds. Only articles with exact company name match in title are kept.",
         "company_results": results,
     }
     Path(args.report).write_text(

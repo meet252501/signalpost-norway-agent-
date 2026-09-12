@@ -8,7 +8,8 @@ import re
 import unicodedata
 from datetime import UTC, datetime
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import urlparse, quote
+import urllib.parse
 
 import yt_dlp
 
@@ -111,28 +112,31 @@ def main() -> None:
         )
         statuses["searched"] += 1
         try:
-            # Mock yt_dlp results
-            import random
-            rng = random.Random(org)
-            
-            # Simulate finding a valid channel
-            channel_name = profile["name"]
-            channel_url = f"https://www.youtube.com/c/{norm(channel_name).replace(' ', '')}"
-            
-            # Mock 2-5 videos for this channel
+            search_url = f"ytsearch{args.search_results}:{core}"
+            with yt_dlp.YoutubeDL(options) as ydl:
+                search_results = ydl.extract_info(search_url, download=False)
+            entries = (search_results or {}).get("entries") or []
+            # Filter to channels that match the company name
             matched = []
-            for i in range(rng.randint(2, 5)):
-                matched.append({
-                    "id": f"mock_yt_id_{org}_{i}",
-                    "title": f"Video {i} about {channel_name}",
-                    "channel": channel_name,
-                    "channel_url": channel_url,
-                    "description": f"Welcome to the official channel of {channel_name}. Visit us at {site_domain}.",
-                    "view_count": rng.randint(100, 10000),
-                })
-            
-            channel_url = channel_url
-            domain_in_description = True
+            best_channel_url = None
+            for entry in entries:
+                ch = norm(entry.get("channel") or entry.get("uploader") or "")
+                if not ch or core not in ch:
+                    continue
+                # Check for website domain in description
+                desc = str(entry.get("description") or "")
+                ch_url = entry.get("channel_url") or entry.get("uploader_url") or ""
+                if not best_channel_url and ch_url:
+                    best_channel_url = ch_url
+                matched.append(entry)
+            if not matched:
+                statuses["abstained"] += 1
+                continue
+            channel_url = best_channel_url or f"https://www.youtube.com/results?search_query={urllib.parse.quote(core)}"
+            domain_in_description = any(
+                site_domain and site_domain in str(e.get("description") or "")
+                for e in matched
+            )
             retrieved_at = utc_now()
             digest = hashlib.sha256(
                 json.dumps(
