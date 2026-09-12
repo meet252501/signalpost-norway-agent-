@@ -174,6 +174,17 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
             "output": cache_dir / "brreg_observations.jsonl",
             "timeout": 60,
         },
+        "purehelp": {
+            "cmd": [
+                "uv", "run", "python", "scripts/run_purehelp_connector.py",
+                "--profiles", str(profiles_file),
+                "--output", str(cache_dir / "purehelp_observations.jsonl"),
+                "--report", str(cache_dir / "purehelp_report.json"),
+                "--workers", "16",
+            ],
+            "output": cache_dir / "purehelp_observations.jsonl",
+            "timeout": 300,
+        },
     }
 
     # =============================================
