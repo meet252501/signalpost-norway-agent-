@@ -43,7 +43,7 @@ def main():
                 metrics["ratings_reviews"] += 1
             if fp.get("public_item_count", 0) > 0:
                 metrics["buzz_engagement"] += 1
-            if fp.get("sentiment", {}).get("status") == "available":
+            if fp.get("sentiment", {}).get("status") == "available" or fp.get("sentiment", {}).get("items", 0) > 0:
                 metrics["sentiment"] += 1
                 
     coverage = {k: v / total for k, v in metrics.items()}

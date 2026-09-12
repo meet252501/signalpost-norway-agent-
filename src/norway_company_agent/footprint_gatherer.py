@@ -180,6 +180,7 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
                 "--profiles", str(profiles_file),
                 "--output", str(cache_dir / "purehelp_observations.jsonl"),
                 "--report", str(cache_dir / "purehelp_report.json"),
+                "--cache-dir", str(cache_dir / "purehelp_cache"),
                 "--workers", "16",
             ],
             "output": cache_dir / "purehelp_observations.jsonl",

@@ -71,14 +71,15 @@ def norm(value: object) -> str:
 
 def exact_title_match(company_name: str, title: str) -> bool:
     company_tokens = re.findall(r"[a-z0-9æøå]+", str(company_name or "").casefold())
-    # Strip publisher suffix like " - NRK" or " | E24"
     clean_title = re.split(r"\s+[-|]\s+", str(title or ""), maxsplit=1)[0]
     title_tokens = re.findall(r"[a-z0-9æøå]+", clean_title.casefold())
-    if not company_tokens or not title_tokens:
+    if not company_tokens or not title_tokens or len(company_tokens) > len(title_tokens):
         return False
-    # Check if all company name tokens appear as a contiguous subsequence
+    allowed_predecessors = {"av", "for", "fra", "hos", "i", "med", "om", "på", "til", "og", "kjøper", "velger"}
     for index in range(len(title_tokens) - len(company_tokens) + 1):
-        if title_tokens[index : index + len(company_tokens)] == company_tokens:
+        if title_tokens[index : index + len(company_tokens)] != company_tokens:
+            continue
+        if index == 0 or title_tokens[index - 1] in allowed_predecessors:
             return True
     return False
 
