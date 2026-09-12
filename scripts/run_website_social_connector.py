@@ -1,121 +1,97 @@
 #!/usr/bin/env python3
 """Extract social media handles from already-crawled company website data.
 
-This connector reads profiles that already have website evidence and extracts
-social media links (LinkedIn, Facebook, Instagram, X/Twitter, YouTube, TikTok)
-from the crawled HTML. No additional HTTP requests are made.
+Uses discovered_social_links and social_link_assessments from the website
+evidence to extract verified social media profiles. No additional HTTP
+requests are made — all data comes from the website crawl.
 """
 from __future__ import annotations
 
 import argparse
 import hashlib
 import json
-import re
-import sys
 from datetime import UTC, datetime
 from pathlib import Path
-from urllib.parse import urlparse
-
-SOCIAL_PATTERNS = {
-    "linkedin": {
-        "hosts": {"linkedin.com", "www.linkedin.com"},
-        "path_pattern": re.compile(r"^/company/([^/?#]+)", re.I),
-    },
-    "facebook": {
-        "hosts": {"facebook.com", "www.facebook.com", "m.facebook.com", "fb.com"},
-        "path_pattern": re.compile(r"^/([^/?#]+)", re.I),
-    },
-    "instagram": {
-        "hosts": {"instagram.com", "www.instagram.com"},
-        "path_pattern": re.compile(r"^/([^/?#]+)", re.I),
-    },
-    "x": {
-        "hosts": {"x.com", "www.x.com", "twitter.com", "www.twitter.com"},
-        "path_pattern": re.compile(r"^/([^/?#]+)", re.I),
-    },
-    "youtube": {
-        "hosts": {"youtube.com", "www.youtube.com"},
-        "path_pattern": re.compile(r"^/(?:@|channel/|c/|user/)([^/?#]+)", re.I),
-    },
-    "tiktok": {
-        "hosts": {"tiktok.com", "www.tiktok.com"},
-        "path_pattern": re.compile(r"^/@?([^/?#]+)", re.I),
-    },
-}
-
-IGNORE_PATHS = {"", "/", "/share", "/sharer", "/intent", "/login", "/signup", "/help"}
 
 
 def extract_social_links(profile: dict) -> list[dict]:
-    """Extract social links from a profile's website evidence."""
+    """Extract publishable social links from a profile's website evidence."""
     observations = []
-    org = profile.get("organisation_number", "")
+    org = str(profile.get("organisation_number", ""))
     website_ev = profile.get("evidence", {}).get("website", {})
     
     if website_ev.get("status") != "available":
         return observations
     
-    # Get social links from website evidence
-    social_links = website_ev.get("value", {}).get("social_links", [])
-    website_url = website_ev.get("value", {}).get("url", "") or profile.get("website", "")
+    value = website_ev.get("value", {})
+    website_url = value.get("final_url") or value.get("requested_url") or ""
     retrieved_at = website_ev.get("retrieved_at") or datetime.now(UTC).isoformat()
     
-    # Also check raw_links if available
-    raw_links = website_ev.get("value", {}).get("raw_links", [])
-    all_links = list(set(l for l in (social_links + raw_links) if isinstance(l, str)))
+    # Use discovered_social_links with their assessments
+    discovered = value.get("discovered_social_links", [])
+    assessments = {
+        (a.get("platform"), a.get("url")): a
+        for a in value.get("social_link_assessments", [])
+    }
     
     seen_platforms = set()
     
-    for link in all_links:
-        if not isinstance(link, str) or not link.startswith("http"):
+    for link_info in discovered:
+        if not isinstance(link_info, dict):
             continue
         
-        parsed = urlparse(link)
-        host = (parsed.hostname or "").lower().removeprefix("www.")
-        path = parsed.path.rstrip("/")
+        platform = link_info.get("platform", "")
+        url = link_info.get("url", "")
         
-        if path.lower() in IGNORE_PATHS:
+        if not platform or not url:
             continue
         
-        for platform, config in SOCIAL_PATTERNS.items():
-            # Check if the host matches (with or without www.)
-            clean_hosts = {h.removeprefix("www.") for h in config["hosts"]}
-            if host not in clean_hosts and f"www.{host}" not in config["hosts"]:
-                continue
-            
-            match = config["path_pattern"].match(path)
-            if not match:
-                continue
-            
-            handle = match.group(1)
-            # Skip generic/utility paths
-            if handle.lower() in {"share", "sharer", "intent", "login", "signup", "help", "explore", "search", "hashtag", "watch"}:
-                continue
-            
-            platform_key = f"{platform}:{handle.lower()}"
-            if platform_key in seen_platforms:
-                continue
-            seen_platforms.add(platform_key)
-            
-            content = f"{platform}:{handle}:{org}"
-            digest = hashlib.sha256(content.encode()).hexdigest()
-            
-            obs = {
-                "id": f"website-social-{platform}-{org}-{handle[:20]}",
-                "organisation_number": org,
-                "platform": platform,
-                "signal_type": "profile_handle",
-                "source_url": link,
-                "retrieved_at": retrieved_at,
-                "content_sha256": digest,
-                "exact_entity": True,
-                "identity_proof": f"Social link found on verified company website {website_url}",
-                "acquisition_mode": "permitted_public_page",
-                "rights_status": "approved",
-                "source_class": "company_social",
-                "handle": handle,
-            }
-            observations.append(obs)
+        # Check assessment - only include publishable links
+        assessment = assessments.get((platform, url), {})
+        if not assessment.get("publishable", False):
+            continue
+        
+        # Skip duplicates
+        platform_key = f"{platform}:{url}"
+        if platform_key in seen_platforms:
+            continue
+        seen_platforms.add(platform_key)
+        
+        identity_score = assessment.get("identity_score", 0)
+        matched_tokens = assessment.get("matched_tokens", [])
+        method = assessment.get("method", "unknown")
+        
+        content = f"{platform}:{url}:{org}"
+        digest = hashlib.sha256(content.encode()).hexdigest()
+        
+        # Extract handle from URL for display
+        handle = url.rstrip("/").split("/")[-1]
+        
+        obs = {
+            "id": f"website-social-{platform}-" + hashlib.sha256(f"{org}|{url}".encode()).hexdigest()[:24],
+            "organisation_number": org,
+            "platform": platform,
+            "signal_type": "profile_handle",
+            "source_url": url,
+            "retrieved_at": retrieved_at,
+            "content_sha256": digest,
+            "exact_entity": True,
+            "identity_proof": [
+                {
+                    "type": "company_site_social_link",
+                    "website": website_url,
+                    "score": identity_score,
+                    "matched_tokens": matched_tokens,
+                    "method": method,
+                },
+            ],
+            "acquisition_mode": "permitted_public_page",
+            "rights_status": "approved",
+            "source_class": "company_social",
+            "handle": handle,
+            "strategy": "website_crawl_social_discovery",
+        }
+        observations.append(obs)
     
     return observations
 
@@ -154,7 +130,7 @@ def main():
     
     # Write report
     report = {
-        "connector": "website_social_links_v1",
+        "connector": "website_social_links_v2",
         "profiles_checked": len(profiles),
         "companies_with_social": companies_with_social,
         "total_observations": len(all_observations),
