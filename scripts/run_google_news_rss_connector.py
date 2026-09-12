@@ -90,7 +90,7 @@ def exact_title_match(company_name: str, title: str) -> bool:
     return False
 
 
-def fetch_rss(query: str, timeout: float = 8.0) -> bytes:
+def fetch_rss(query: str, timeout: float = 3.0) -> bytes:
     """Fetch Google News RSS for a search query."""
     encoded = urllib.parse.quote(f'"{query}"')
     url = f"https://news.google.com/rss/search?q={encoded}&hl=no&gl=NO&ceid=NO:no"
@@ -251,11 +251,11 @@ def main() -> None:
     }
     observations, results = [], []
     
-    # Rate limiting: be polite to Google News
-    batch_size = 4
-    delay_between_batches = 0.5
+    # Google News RSS is a public syndication endpoint designed for feed readers
+    batch_size = 16
+    delay_between_batches = 0.05
     
-    with ThreadPoolExecutor(max_workers=max(1, min(args.workers, batch_size))) as pool:
+    with ThreadPoolExecutor(max_workers=batch_size) as pool:
         # Process in batches to avoid hammering
         for batch_start in range(0, len(wanted), batch_size):
             batch = wanted[batch_start:batch_start + batch_size]

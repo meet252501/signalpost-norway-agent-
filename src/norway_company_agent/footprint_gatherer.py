@@ -95,7 +95,7 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
                 "--report", str(cache_dir / "news_report.json"),
             ],
             "output": cache_dir / "news_observations.jsonl",
-            "timeout": 300,
+            "timeout": 900,
         },
         "youtube_search": {
             "cmd": [
