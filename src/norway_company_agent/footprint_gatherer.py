@@ -164,6 +164,16 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
             "output": cache_dir / "site_news_observations.jsonl",
             "timeout": 120,
         },
+        "brreg_profile": {
+            "cmd": [
+                "uv", "run", "python", "scripts/run_brreg_profile_connector.py",
+                "--profiles", str(profiles_file),
+                "--output", str(cache_dir / "brreg_observations.jsonl"),
+                "--report", str(cache_dir / "brreg_report.json"),
+            ],
+            "output": cache_dir / "brreg_observations.jsonl",
+            "timeout": 60,
+        },
     }
 
     # =============================================
