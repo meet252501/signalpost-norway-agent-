@@ -1,0 +1,321 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 629299
+Virksomheten
+Organisasjonsnummer : 916 497 083
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MJELVA INVEST AS
+Forretningsadresse: Vardane 11B
+5306 ERDAL
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ronny Mjelva
+Dato for fastsettelse av Aarsregnskapet: 08.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 916 497 083
+
+MJELVA INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 41 000
+
+Sum inntekter 41 000
+
+Kostnader
+
+Varekostnad 1 264
+
+Lennskostnad 4 11 658 4 770
+
+Avskrivning 3 15 048 15 048
+
+Annen driftskostnad 4 224 607 175 980
+
+Sum kostnader 251 313 197 062
+
+Driftsresultat -210 313 -197 062
+
+Annen finansinntekt 5 062 500
+
+Annen finanskostnad 396 32 888
+
+Netto finans 5 062 104 -32 888
+
+Resultat fer skattekostnad 4 851 791 -229 950
+
+Arsresultat 4 851 791 -229 950
+
+Overferinger og
+
+disponeringer
+
+Overferinger annen
+
+egenkapital 6 4 851 791 -229 950
+
+Sum overferinger og
+
+disponeringer 4 851 791 -229 950
+Utskriftsdato 02.07.2026 Organisasjonsnr 916 497 083 Side 1 av 3
+
+Organisasjonsnr: 916 497 083
+
+MJELVA INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 3 5 008 975 4 710 475
+
+Maskiner og anlegg 3 15 048 30 096
+
+Sum varige driftsmidler 5 024 023 4 740 571
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 30 000 30 000
+
+Investeringer 1
+
+tilknyttet selskap 25 005 25 500
+
+Investeringer i aksjer og
+
+andeler 419 419
+
+Andre fordringer 2 923 695 254 230
+
+Sum finansielle
+
+anleggsmidler 979 119 310 149
+
+Sum anleggsmidler 6 003 142 5 050 720
+
+Omlepsmidler
+
+Varer
+
+Sum varer 3 900 669 1 689 169
+
+Fordringer
+
+Andre fordringer 40 862 6 904
+
+Sum fordringer 40 862 6 904
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Sum bankinnskudd,
+
+kontanter og lignende 4 288 71173
+
+Sum omlepsmidler 3 945 819 1 767 246
+
+SUM ELENDELER 9 948 961 6 817 966
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6, 7 30 000 30 000
+
+Annen innskutt egenkapital 6 -5 666 -5 666
+
+Sum innskutt egenkapital 24 334 24 334
+Utskriftsdato 02.07.2026 Organisasjonsnr 916 497 083 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 6 8 801 134 3 949 343
+
+Sum opptjent egenkapital 8 801 134 3 949 343
+
+Sum egenkapital 8 825 468 3 973 677
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 520 195
+
+Leverandergjeld 25 000 10 735
+
+Betalbar skatt 5 -27 677
+
+Skyldige offentlige
+
+avgifter 138 138
+
+Annen kortsiktig gjeld 1 126 033 2 313 222
+
+Sum kortsiktig gjeld 1123 494 2 844 290
+
+Sum gjeld 1123 494 2 844 290
+
+SUM EGENKAPITAL OG GJELD 9 948 962 6 817 967
+Utskriftsdato 02.07.2026 Organisasjonsnr 916 497 083 Side 3 av 3
+
+Organisasjonsnr: 916 497 083
+
+MJELVA INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Mielva Invest AS
+Noter til regnskapet for 2025
+Note 1 - Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+Datterselskap/tilknyttet selskap
+Datterselskapet og tilknyttede selskaper vurderes etter kostmetoden i selskapsregnskapet. Investeringen er
+vurdert til anskaffelseskost for aksjene med mindre nedskrivning har vazert nédvendig. Det er foretatt
+nedskrivning til virkelig verdi nar verdifall skyldes arsaker som ikke kan antas a vere forbigaende og det ma
+anses ngdvendig etter god regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke
+lenger er til stede.
+Utbytte og andre utdelinger er inntektsfgrt samme ar som det er avsatt i datterselskapet. Overstiger utbytte
+andel av tilbakeholdt resultat etter kjgpet, representerer den overskytende del tilbakebetaling av investert
+kapital, og utdelingene er fratrukket investeringens verdi i balansen.
+Klassifisering og vurdering av balanseposter
+Omlg¢psmidler og kortsiktig gjeld omfatter poster som forfaller til betaling innen ett ar etter balansedagen,
+samt poster som knytter seg til varekretslgpet. Ovrige poster er klassifisert som anleggsmiddel/langsiktig
+gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til
+nominelt belgp pa etableringstidspunktet.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi ved verdifall som ikke forventes
+a vere forbigaende. Anleggsmidler med begrenset gkonomisk levetid avskrives planmessig. Langsiktig gjeld
+balansefgres til nominelt belgp pa etableringstidspunktet.
+Skatter
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er utlignet og nettofgrt. Netto utsatt skattefordel balansefgres i den grad det er
+sannsynlig at denne kan bli nyttiggjort.
+Note 2 - Fordringer og gjeld
+
+Fordringer med forfall senere enn ett ar 2025 2024
+
+Lan Mjelva Eiendom AS 26 270 0
+Selskapet har ingen gjeld med forfall senere enn 5 ar etter utgangen av balansedagen og heller ingen
+fordringer med forfall senere enn 5 ar etter utgangen av balansedagen.
+
+01.07.2026 Side 1
+
+Mielva Invest AS
+Noter til regnskapet for 2025
+Note 3 - Varige driftsmidler
+Utstyr Tomter, Sum
+bygninger
+og annen eiendom
+Anskaffelseskost 01.01. 56 430 4710 475 4 766 905
+Tilgang kjgpte driftsmidler 0 298 500 298 500
+Anskaffelseskost 31.12. 56 430 5 008 975 5 065 405
+Akk.avskrivning 31.12. -41 382 0 -41 382
+Balansefgrt pr. 31.12. 15 048 5 008 975 5 024 023
+Arets avskrivninger 15 048 0 15 048
+Dkonomisk levetid Sar Ingen ask
+Avskrivningsplan Linezer
+Note 4 - Lénnskostnader, antall ansatte og lan til ansatte
+Selskapet har i regnskapsaret sysselsatt totalt O arsverk.
+Ytelser til ledende personer
+Selskapet er ikke pliktig til a ha tjenestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+Det er ikke utbetalt Ignn eller annen godtgjgrelse til selskapts styre eller daglig leder.
+Selskapet har fravalgt revisjon og har derfor ingen kostnader knyttet til dette.
+01.07.2026 Side 2
+
+Mielva Invest AS
+Noter til regnskapet for 2025
+Note 5 - Skatt
+Beregning av arets skattegrunnlag: 2025 2024
+Ordinzert resultat for skattekostnad 4851791 -229 949
+Permanente forskjeller 7140 9 658
+Andel av regnskapsmessig underskudd i selskap med
+deltakerfastsetting 0 32 888
+3% av skattefrie inntekter etter fritaksmetoden 151 875 45 000
+Tilbakefgring av inntektsfgrt utbytte -5 062 500 0
+Endring i midlertidige forskjeller 7825 6019
+Arets skattegrunnlag -43 869 -136 384
+Oversikt over midlertidige forskjeller 2025 2024
+Driftsmidler inkl goodwill -13 844 -6 019
+Sum -13 844 -6 019
+Akkumulert fremfgrbart underskudd fgr konsernbidrag -541 392 -497 523
+Netto midlertidige forskjeller pr 31.12 -555 236 -503 542
+Forskjeller som ikke inngar i utsatt skatt/-skattefordel -555 236 0
+Sum 0 -503 542
+Note 6 - Egenkapital
+Aksjekapital Annen Sum
+egenkapital
+Egenkapital 01.01.2025 30 000 3949 344 3 973 678
+Arsresultat 0 4851 791 4851 791
+Egenkapital 31.12.2025 30 000 8 801 135 8 825 469
+Note 7 - Aksjekapital og aksjonzrinformasjon
+Aksjekapitalen bestar av:
+Antall Palydende Balansefort
+Ordinzere aksjer 400 75 30 000
+Oversikt over aksjonzrene i selskapet pr. 31.12:
+Ordinzre Eier- Stemme-
+aksjer andel andel
+Ronny Mjelva, Styreleder 400 100 % 100 %
+01.07.2026 Side 3

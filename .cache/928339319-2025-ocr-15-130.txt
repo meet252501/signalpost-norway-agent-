@@ -1,0 +1,487 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 430205
+Virksomheten
+Organisasjonsnummer : 928 339 319
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MIF III NO. 11 AS
+Forretningsadresse: Notenesgata 14
+6002 ALESUND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ingeborg Kolbeinsen Lien
+Dato for fastsettelse av Aarsregnskapet: 27.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 11.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 928 339 319
+
+MIF III No. 11 AS
+
+RESULTATREGNSKAP
+
+Belep i: EUR Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Revenue 1 15 816 285 1 321 501
+
+Sum inntekter 15 816 285 1 321 501
+
+Kostnader
+
+Bareboat and time charter
+
+hire 1, 2 3 875 803 412 674
+
+Employee benefits expense 3 769 349 397 656
+
+Depreciation and
+
+amortisation expenses 3 659 487 134 765
+
+Other expenses 4, 5 2 338 575 789 804
+
+Sum kostnader 10 643 213 1 734 899
+
+Driftsresultat 5 173 O71 -413 398
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 6 33 782 908
+
+Net exchange rate
+
+differences -41 132 640 378
+
+Sum finansinntekter -7 350 641 286
+
+Other financial expenses 5, 6 2 560 339 2 459 603
+
+Sum finanskostnader 2 560 339 2 459 603
+
+Netto finans -2 567 690 -1 818 317
+
+Resultat for skattekostnad 2 605 382 -2 231 715
+
+Income tax expense 7 1 380 083
+
+Arsresultat 1 225 298 -2 231 715
+
+Arsresultat etter
+
+minoritetsinteresser 1 225 298 -2 231 715
+
+Totalresultat 1 225 298 -2 231 715
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -2 231 715
+
+Other equity 1 225 298
+
+Sum overferinger og
+
+disponeringer 1 225 298 -2 231 715
+Utskriftsdato 11.06.2026 Organisasjonsnr 928 339 319 Side 1 av 3
+
+Organisasjonsnr: 928 339 319
+MIF III No. 11 AS
+BALANSE
+Belsp i: EUR Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Varige driftsmidler
+Machinery and equipment 3 659 487
+Sum varige driftsmidler 659 487
+Finansielle anleggsmidler
+Investering i datterselskap 8, 9 15 332 978
+Forward 2 50 746 793
+Sum finansielle
+anleggsmidler 15 332 978 50 746 793
+Sum anleggsmidler 15 332 978 51 406 280
+Omlepsmidler
+Varer
+Fordringer
+Accounts receivables 1 169 360 1 946 598
+Other short-term
+receivables 5 1 854 881 733 000
+Konsernfordringer 5 1 662 346
+Sum fordringer 4 686 587 2 679 597
+Bankinnskudd, kontanter
+og lignende
+Cash and cash equivalents 3 403 608 217 501
+Sum bankinnskudd,
+kontanter og lignende 3 403 608 217 501
+Sum omlepsmidler 8 090 196 2 897 099
+SUM ELENDELER 23 423 174 54 303 378
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Share capital 10, 11 3 075 3.075
+Overkurs 10 537 385 537 385
+Sum innskutt egenkapital 540 460 540 460
+Opptjent egenkapital
+Other equity 10 1 589 579
+Sum opptjent egenkapital 1 589 579
+
+Utskriftsdato 11.06.2026 Organisasjonsnr 928 339 319 Side 2 av 3
+
+Sum egenkapital 2 130 038 540 460
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 9 34 647 917
+
+Sum annen langsiktig gjeld 34 647 917
+
+Sum langsiktig gjeld 34 647 917
+
+Kortsiktig gjeld
+
+Leverandergjeld 5 44 204 216 037
+
+Kortsiktig konserngjeld 5 16 903 670 17 557 339
+
+Other current liabilities 5 4 345 260 1 341 626
+
+Sum kortsiktig gjeld 21 293 135 19 115 OO1
+
+Sum gjeld 21 293 135 53 762 918
+
+SUM EGENKAPITAL OG GJELD 23 423 174 54 303 378
+Utskriftsdato 11.06.2026 Organisasjonsnr 928 339 319 Side 3 av 3
+
+Organisasjonsnr: 928 339 319
+
+MIF III NO. 11 AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Var dato Din/Deres dato Saksbehandler
+29.03.2022 14.03.2022 Lars Waaltorp
+800 80 000 Din/Deres referanse Telefon
+Skatteetaten Skatteetaten.no 90833418
+Org.nr Var referanse Postadresse
+974761076 2022/5263455 Postboks 9200 Grenland
+0134 OSLO
+EDDA WIND IX AS
+Postboks 394
+5501 HAUGESUND
+Att. Anett Underhaug Vage
+Tillatelse til 4 utarbeide arsregnskap og arsberetning pa engelsk for
+_ Edda Wind IX AS, org.nr. 928 339 319
+Vi viser til deres henvendelse av 14. mars 2022 der det sekes om dispensasjon fra kravet til a utarbeide
+arsregnskap og arsberetning pa norsk for Edda Wind IX AS.
+Skattekontoret gir pa bakgrunn av en konkret helhetsvurdering Edda Wind IX AS dispensasjon fra kravet til
+a utarbeide arsregnskap og arsberetning pa norsk, jf. regnskapsloven § 3-4 tredje ledd. Dispensasjonen
+gjelder sa lenge opplysningene som danner grunnlaget for vedtaket ikke endres vesentlig.
+Kopi av dette brevet ma sendes til Regnskapsregisteret i Branngysund sammen med arsregnskapet. Den
+regnskapspliktige ma selv dokumentere ved dette brev at tillatelse er gitt.
+Bakgrunn
+Edda Wind IX AS er eid av et norsk selskap. Selskapet er en del av et konsern som driver virksomhet
+innen internasjonal shippingvirksomhet. Selskapet benytter engelsk som arbeidssprak, og det er ingen
+forhold rundt selskapets finansiering som skulle tilsi behov for regnskap pa norsk.
+Skattekontorets vurdering
+Etter regnskapsloven § 3-4 tredje ledd skal "arsregnskapet og arsberetningen [...] veere pa norsk.
+Departementet kan ved [...] enkeltvedtak bestemme at arsregnskapet og/eller arsberetningen kan veere pa
+et annet sprak.”
+| Ot. prp. nr. 42 (1997-1998) Om lov om arsregnskap mv., er det uttalt falgende om regnskapslovens
+formal, jf. pkt. 1.1:
+“Regjeringen har som siktemal at regnskapsloven skal bidra til informative regnskaper for ulike
+grupper av regnskapsbrukere. Regnskapsbrukerne er dels investorer og kreditorer som tilfgrer
+kapital til foretakene, og dels andre grupper som har interesse av a vite hvordan foretaket drives,
+f.eks. de ansatte og lokalsamfunnet. Informasjonen til kapitalmarkedet skal gi grunnlag for riktig
+prising av finansielle objekter. Riktig prisdannelse pa aksjer er en forutsetning for at ressursbruken i
+samfunnsgkonomien skal bli best mulig. Gode regnskaper vil ogsa gj@re det vanskeligere for
+markedsdeltakere a ta ut spekulasjonsgevinster med basis i skjevt fordelt informasjon.”
+Side 1/2
+
+Det fremgar saledes at et av hovedformalene med regnskapsloven er a bidra til “informative regnskaper for
+ulike grupper av regnskapsbrukere”. Regnskapsbrukere vil omfatte, jf. uttalelsen i proposisjonen, blant
+andre investorer, kreditorer, ansatte og lokalsamfunnet.
+
+Det er etter skattekontorets vurdering derfor avgj@rende ved vurdering av om dispensasjon fra kravet til a
+utarbeide arsregnskap og/eller arsberetning pa norsk kan gis, at det ikke foreligger mulige brukere av
+regnskapsinformasjon som blir vesentlig berg@rt negativt ved en eventuell dispensasjon.
+
+Det er seerlig hensynet til brbukerne av regnskapsinformasjon som skal vurderes ved en
+dispensasjonssgknad. | denne vurderingen har skattekontoret lagt seerlig vekt pa at selskapet er eid av en
+profesjonell eier. Videre er det vektlagt at selskapet driver virksomhet i en internasjonal bransje der alle
+sentrale aktgrer behersker og benytter engelsk.
+
+Vennligst oppgi var referanse ved henvendelse i saken.
+
+Med hilsen
+
+Lars Waaltorp
+
+seniorradgiver
+
+Brukerdialog, brukerkontakt
+
+Skatteetaten
+
+Dokumentet er elektronisk godkjent og har derfor ikke handskrevne signaturer.
+
+Side 2/2
+
+Revenue statement
+Edda Wind IX AS
+
+Amount in EUR
+Operating income and operating expenses Note 2025 2024
+Revenue 1 15 816 285 1 321 501
+Total income 15 816 285 1321 501
+Bareboat and time charter hire 1,2 3 875 803 412 674
+Employee benefits expense 3 769 349 397 656
+Depreciation and amortisation expenses 3 659 487 134 765
+Other expenses 4,5 2 338 575 789 804
+Total expenses 10 643 213 1 734 899
+Operating profit 5 173 071 -413 398
+Financial income and expenses
+Other interest income 6 33 782 908
+Net exchange rate differences -41 132 640 378
+Other financial expenses 5,6 2 560 339 2 459 603
+Net financial items -2 567 690 -1 818 317
+Net profit before tax 2 605 382 -2 231 715
+Income tax expense 7 1 380 083 0
+Net profit after tax 1 225 298 -2 231 715
+Net profit or loss 1 225 298 -2 231 715
+Attributable to
+Other equity 1 225 298 0
+Loss brought forward 0 2231 715
+Total 1 225 298 -2 231 715
+Edda Wind IX AS Side 1
+
+Balance sheet
+
+Edda Wind IX AS
+Amount in EUR
+Assets Note 2025 2024
+Non-current assets
+Property, plant and equipment
+Machinery and equipment 3 0 659 487
+Total property, plant and equipment 0 659 487
+Non-current financial assets
+Investments in subsidiaries 8,9 15 332 978 0
+Forward 2 0 50 746 793
+Total non-current financial assets 15 332 978 50 746 793
+Total non-current assets 15 332 978 51 406 280
+Current assets
+Accounts receivables 1 169 360 1 946 598
+Other short-term receivables 5 1 854 881 733 000
+Receivables from group companies 5 1 662 346 0
+Total receivables 4 686 587 2 679 597
+Cash and cash equivalents 3 403 608 217 501
+Total current assets 8 090 196 2 897 099
+Total assets 23 423 174 54 303 378
+Edda Wind IX AS Page 2
+
+Balance sheet
+Edda Wind IX AS
+Amount in EUR
+Equity and liabilities Note 2025 2024
+Equity
+Paid-in capital
+Share capital 10, 11 3075 3075
+Share premium reserve 10 537 385 537 385
+Total paid-up equity 540 460 540 460
+Other equity 10 1 589 579 0
+Total retained earnings 1 589 579 0
+Total equity 2 130 038 540 460
+Liabilities
+Liabilities to financial institutions 9 0 34 647 917
+Total non-current liabilities 0 34 647 917
+Current liabilities
+Trade payables 5 44 204 216 037
+Liabilities to group companies 5 16 903 670 17 557 339
+Other current liabilities 5 4 345 260 1 341 626
+Total current liabilities 21 293 135 19 115 001
+Total liabilities 21 293 135 53 762 918
+Total equity and liabilities 23 423 174 54 303 378
+Haugesund, 24.04.2026
+The board of Edda Wind IX AS
+Stig Morten Helland Ingeborg Kolbeinsen Lien
+Chairman of the board/General Manager Member of the board
+Edda Wind IX AS Page 3
+
+Edda Wind IX AS
+
+Notes to Financial Statements 2025
+ACCOUNTING PRINCIPLES
+The financial statement have been prepared in accordance with the Norwegian Accounting Act and generally accepted accounting
+principles for small entities. Edda Wind IX AS was established on 01.11.2021
+Currency
+The Financial Statements are presented in EUR. Monetary items (assets, liabilities and bank deposits) in foreign currency are
+converted at the exchange rate as on the balance sheet date. The exchange rate to Norwegian kroner for 2025 is set to 11,8159 for
+the balance sheet date and 11.7246 as an average for the year.
+Classification and valuation of balance sheet items
+Current assets and liabilities include items due for payment within one year from the date of acquisition. Other items are classified
+as fixed assets / long-term liabilities. Current assets are valued at lower of cost or fair value. Current liabilities are recorded at
+nominal value at the time it is incurred. Fixed assets are valued at cost and written down to fair value if impairment is not expected
+to be temporary. Long-term Liabilities are recorded at nominal value at the time incurred.
+Receivables
+Receivables are recorded at nominal value less realised and expected losses. Provisions for doubtful debts are made on the basis of
+individual assessment of each receivable.
+Operating revenue and expensees
+Revenue from freight operations is recognised when earned, which would normally be in the line with the operation of the vessel.
+Expenses are recorded based on the matching principle, which means that expenses are included in the same period as the related
+revenues are recognised.
+Income tax and deferred tax
+Income tax expense relates to the accounting result and comprises current tax and changes in net deferred taxes. Deferred tax
+expense results from temporary differences between the accounting value of assets and liabilities and their value for tax purposes.
+The tax effect is offset against any income tax expense, and the net is recorded in the financial statements. Deferred tax is recorded
+as long-term liabilities. to the extent that deferred tax asset exceed deferred tax liabilities, deferred tax assets are recorded in
+accordance with accepted accounting principles.
+Estimates
+During the preparation of the financial statements and according to the generally accepted accounting principles the management
+has used estimates and assumptions that affect the profit and loss account and the valuation of assets and liabilities, and requires
+disclosure of information about liabilities that, as of the balance sheet date, are not yet certain
+Group
+The company is included in Edda Wind ASA's consolidated financial statements.
+The consolidated financial statements can be obtained at the company's business office in Haugesund, or at Edda Wind's website,
+www.eddawind.com
+
+Note 1 - Operating income
+Vestri Enabler has operated under a time charters external customer during 2025. Edda Wind IX AS has recognised operating
+income of EUR 15,8 million. Vestri Enabler was hired on bareboat terms through the tax lease structure until 22 October 2025.
+Total bareboat hire in 2025 was EUR 2,0 million. From 22 October 2025, Vestri Enabler was leased on time charter terms from
+Puerto de Gilet SL. Total time charter hire in 2025 was EUR 1,9 million.
+Note 2 - Tax lease structure
+In 2022 the company entered into a construction contract with Astilleros Gondan for the delivery of a Commissioning Service
+Vessel (CSOV), which was delivered in 2024.
+In connection with the shipbuilding contract, the Company and Astilleros Gondan have established a structure that qualifies for a
+Spanish tax regime (Spanish Tax Lease, or "STL"). The Spanish tax lease is a structure containing certain tax benefits in Spain, that
+also results in lower construction cost for the Company's vessel. Astilleros Gondan has engaged a Spanish bank, Banco de Sabadell
+to set up and manage the tax lease. The structure is established so that the Company sells its vessel to the Spanish tax lease structure
+at delivery. The Company will then lease the vessel back from the Spanish structure under a bareboat agreement. Upon maturity of
+the lease contract, the Company has a right and obligation to buy the shares of the Spanish AIE, which owns the vessel.
+The AJE has to remain owner of the vessel over a certain period of years in order to maintain the benefits in the tax lease structure.
+The AJE gets tax depreciation on the vessel from the start of the construction. There are no opportunities for the external investors
+of the AJE to make any decisions for the AIJE that has not been regulated in the contracts following the newbuilding contract and the
+tax lease contracts, and they are at the end of the lease contract period obliged to sell the shares to Edda Wind IX AS for EUR 1. All
+construction financing is made from Edda Wind IX AS to the shipyard, and prior to delivery of the vessel from the Shipyard, Edda
+Wind IX AS pays instalments directly to the shipyard equal to the net price of the vessel. Following the delivery, the vessel is sold
+to a leasing company within the STL structure at a consideration equal to the gross price of the vessel. The difference between the
+gross and net price is the STL benefit. In accordance with the lease agreements, all financing and cash payments in the Spanish
+lease structure in the leasing period are pre-arranged between the involved parties and based on the agreement, the consideration
+from the leasing company is paid to Edda Wind IX AS and immediately deposited to an account under the STL structure, less the
+STL benefit, which is re-routed to the Shipyard. Following the deposit, Edda Wind IX AS is released from making any other
+payment under the STL agreements. As such, the STL benefit is a pre-arranged flow-through of cash in Edda Wind Ix AS
+originating from within the STL structure. The external post delivery financing of the vessel will remain in Edda Wind IX AS
+during the tax lease period.
+Since Edda Wind IX AS has an obligation to sell the vessel to a leasing company within the STL structure, and purchase the shares
+of the AIE, the construction contract is treated as a forward contract and recognised equal to the consideration paid to the shipyard,
+less any government grants received in relation to the newbuilding contract.
+Edda Wind IX AS exercised its right and purchased the shares in the Spanish AJE (converted into a limited liability company),
+Puerto de Gilet S.L., as owner of Vestri Enabler on 22 October 2025. The book value of the forward contract was converted to
+shares in Puerto de Gilet S.L. at the time Edda Wind IX AS bought the shares.
+
+31.12.2025 31.12.2024
+Forward contract 51 980 000 51 980 000
+Bareboat hire, accumulated (2 432 140) (412 674)
+Received grant from Enova, accumulated (1 123 449) (820 534)
+Transferred to shares (48 424 411) -
+Total - 50 746 793
+Vestri Enabler was delivered from the yard on 11 November 2024. From this date the vessel was leased back from the ATE under a
+bareboat lease until the purchase of the shares in Puerto de Gilet SL on 22 October 2025, after which the vessel was leased from the
+spanish owner on a time charter agreement. The agreed bareboat rate has been booked as a reduction of the forward contract and as
+bareboat cost over the bareboat period.
+
+All project expenses regarding the preparation of the Vessel and crew to the Company's time charter parties are expensed on an
+ongoing basis. Expenses in connection with construction follow-up and additional investments related to the Vessel are considered
+as an expense on leased property, and thereby capitalised and later depreciated over the bareboat rental period.
+
+2025 2024
+Capitalised expenses - 794 252
+
+Note 3 - Tangible assets
+
+Cost of leased fixed assets Total
+Acquisition cost 01.01.25 929 017 929 017
+Accumulated depreciation 01.01 (134 765) (134 765)
+Correction to 2024 (134 765) (134 765)
+Depreciation 2025 (659 487) (659 487)
+Book value 31.12.25 - -
+
+Cost of leased fixed assets Total
+Acquisition cost 01.01.24 196 426 196 426
+Accumulated depreciation 01.01 - -
+Additions 732 591 732 591
+Depreciation 2024 (134 765) (134 765)
+Book value 31.12.24 794 252 - 794 252
+Note 4 - Remuneration
+The Company has no employees and is therefore not obliged to follow Act on Mandatory Occupational Pensions. There has been no
+remuneration to board members in 2025 or 2024.
+Audit fee
+Remuneration to the auditor is divided into the following: 2025 2 024
+Statutory audit 15 499 6 860
+Consulting services - -
+Sum ex. VAT 15 499 6 860
+Note 5 - Related parties
+Transaction type Company Affiliation 2025 2 024
+Management fee Edda Wind Management AS Group 574 279 15 989
+Management fee @stensjo Rederi AS Associated - 29 221
+Interest expense Edda Wind ASA Group 617 723 761 591
+Interest expense Edda Wind V AS Group 7 834 7147
+Interest expense Edda Wind VI AS Group 20 087 -
+Interest income Edda Wind XI AS Group 4137 -
+Interest income Edda Wind XIV AS Group 3718 -
+Guarantee commission Edda Wind ASA Group 274 556 206 847
+Insurance services Wilhelmsen Insurance Services AS Associated 109 406 78 153
+Equipment purchase Wilhelmsen Ships Service AS Associated - 10 508
+Cost related to newbuilding program @stensjo Rederi AS Associated - 63 670
+Sum transactions 1611 741 1173 126
+Other short term receivables 2025 2 024
+Group 1 772 996 -
+Sum 1772 996 -
+Trade payables 2025 2 024
+Group 38 149 -
+Sum 38 149 -
+Other short term liabilities 2025 2 024
+Group 3 174 987 -
+Sum 3 174 987 -
+
+The company has receivables to group companies of 1 662 346 EUR and liabilities to group companies of 16 903 670 EUR, which
+is specified on a separate accounting line in the balance sheet.

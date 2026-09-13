@@ -1,0 +1,459 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 430673
+Virksomheten
+Organisasjonsnummer : 989 249 703
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MYRKRAFT AS
+Forretningsadresse: c/o S. Dyrstad
+Dyrstadveien 188
+4516 MANDAL
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Sigurd Eivind Dyrstad
+Dato for fastsettelse av Aarsregnskapet: 30.04.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 09.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 249 703
+
+MYRKRAFT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Andre driftskostnader 15 646 16 150
+
+Sum kostnader 15 646 16 150
+
+Driftsresultat -15 646 -16 150
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 32 808 48 952
+
+Andre finansinntekter 1 188 684 184 783
+
+Sum finansinntekter 221 492 233 735
+
+Annen rentekostnad 119
+
+Sum finanskostnader 119
+
+Netto finans 221 492 233 616
+
+Resultat fer skattekostnad 205 846 217 467
+
+Skattekostnad 2 5 848 8 436
+
+Arsresultat 199 998 209 O31
+
+Arsresultat etter
+
+minoritetsinteresser 199 998 209 O31
+
+Totalresultat 199 998 209 O31
+
+Overfoeringer og
+
+disponeringer
+
+Ordinert utbytte 225 000 450 000
+
+Overfert fra annen
+
+egenkapital -25 002 -240 969
+
+Sum overferinger og
+
+disponeringer 3 199 998 209 031
+Utskriftsdato 09.05.2026 Organisasjonsnr 989 249 703 Side 1 av 3
+
+Organisasjonsnr: 989 249 703
+MYRKRAFT AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Finansielle anleggsmidler
+Aksjer i Elektro Ser
+Holding AS 1 160 724 160 724
+Lan til tilknyttet selskap 1
+Sum finansielle
+anleggsmidler 160 724 160 724
+Sum anleggsmidler 160 724 160 724
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 7 377
+Sum fordringer 7 #377
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd 743 021 988 234
+Sum bankinnskudd,
+kontanter og lignende 743 O21 988 234
+Sum omlepsmidler 743 021 995 611
+SUM ELENDELER 903 745 1 156 335
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4 137 000 137 000
+Sum innskutt egenkapital 137 000 137 000
+Opptjent egenkapital
+Annen egenkapital 535 897 560 899
+Sum opptjent egenkapital 535 897 560 899
+Sum egenkapital 3 672 897 697 899
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 2
+
+Utskriftsdato 09.05.2026 Organisasjonsnr 989 249 703 Side 2 av 3
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Betalbar skatt 2 5 848 8 436
+Utbytte 225 000 450 000
+Sum kortsiktig gjeld 230 848 458 436
+Sum gjeld 230 848 458 436
+SUM EGENKAPITAL OG GJELD 903 745 1 156 335
+
+Utskriftsdato 09.05.2026 Organisasjonsnr 989 249 703 Side 3 av 3
+
+Organisasjonsnr: 989 249 703
+
+MYRKRAFT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Myrkraft AS :
+:
+3
+Resultatregnskap 2
+Balanse <
+yy
+Org.nr.: 989 249 703
+
+Myrkraft AS
+
+Resultatregnskap
+
+Driftsinntekter og -kostnader Note 2025 2024
+
+Andre driftskostnader 15 646 16 150
+
+Sum driftskostnader 15 646 16 150
+
+Driftsresultat -15 646 -16 150
+
+Finansinntekter og -kostnader
+
+Renteinntekter 32 808 48 952
+
+Andre finansinntekter 1 188 684 184 783 x
+
+Rentekostnader 0 119 .
+
+Resultat av finansposter 221 492 233 616 S
+~~
+
+Resultat for skattekostnad 2035 846 217 467 S
+z
+
+Skattekostnad 2 5 848 8 436 8
+o
+
+Arets resultat 199998 209 031 5
+¥
+2
+
+Overfoeringer $
+
+Avsatt til utbytte 225 000 450 000 =
+
+Overfert fra annen egenkapital 25 002 240 969 E
+
+Sum overferinger 3 199 998 209 031 4
+&
+
+Myrkraft AS
+
+Balanse pr. 31.12.
+
+EIENDELER Note 2025 2024
+
+ANLEGGSMIDLER
+
+Finansielle anleggsmidler
+
+Aksjer i Elektro Ser Holding AS 1 160 724 160 724
+
+Sum finansielle anleggsmidler 160 724 160 724
+
+Sum anleggsmidler 160 724 160 724
+
+OML@OPSMIDLER
+
+Fordringer
+
+Andre kortsiktige fordringer 0 7377 m9
+
+Sum fordring 0 7377 3
+S
+~
+
+Bankinnskudd my. ms
+
+Bankinnskudd 743 021 988 234 3
+
+Sum bankinnskudd, kontanter o.l. 743 021 988 234 <
+S
+4
+
+Sum omlgepsmidler 743 021 995 611 o
+nN
+=
+
+SUM EIENDELER 903 745 1 156 335 8
+:
+&
+
+Myrkraft AS
+Balanse pr. 31.12.
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+Innskutt egenkapital
+Aksjekapital 4 137 000 137 000
+Sum innskutt egenkapital 137 000 137 000
+Opptjent egenkapital
+Annen egenkapital 535 897 560 899
+Sum opptjent egenkapital 535 897 560 899
+Sum egenkapital 3 672 897 697 899
+GJELD =
+Kortsiktig gjeld 3
+Betalbar skatt 2 5 848 8 436 v
+Skyldig utbytte 225 000 450 000 =
+Sum kortsiktig gjeld 230 848 438 436 3
+<
+Sum gjeld 230 848 438 436 S
+areas x
+iw
+SUM EGENKAPITAL OG GJELD 903 745 1 156 335 5
+Mandal, 30.04.2026 :
+Styret i Myrkraft AS 2
+Q
+&
+Sigurd Eivind Dyrstad
+Styrets leder
+
+Myrkraft AS Noter til regnskapet for 2025
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Selskapet er et holdingselskap som forvalter eierinteresser i andre selskaper. Virksomheten drives fra
+Lindesnes Kommune.
+Driftsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som
+de leveres.
+Klassifisering og vurdering av balanseposter.
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Omlgpsmidler vurderes til laveste verdi
+av anskaffelseskost og antatt virkelig verdi.
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk, og er vurdert til anskaffelseskost.
+Varige driftsmidler balansefgres og avskrives over driftsmidlets skonomiske levetid. Varige
+driftsmidler nedskrives til antatt virkelig verdi nar verdifallet forventes ikke a vere forbigaende.
+Bruk av estimater
+Utarbeidelsen av arsregnskapet i henhold til god regnskapsskikk forutsetter at ledelsen benytter
+estimater og forutsetninger som pavirker resultatregnskapet og verdsettelsen av eiendeler og gjeld, a
+samt opplysninger om usikre eiendeler og forpliktelser pa balansedagen. a
+Betingede tap som er sannsynlige og kvantifiserbare, kostnadsfgres lgpende. S
+Ke
+my
+Fordringer g
+Kundefordringer og andre fordringer er oppfgrt i balansen til palydende etter fradrag for avsetning til 2
+forventet tap. Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte +
+fordringene. S
+4
+=
+Varige driftsmidler ra
+Varige driftsmidler balansefgres og avskrives over driftsmidlets forventede levetid. Direkte in
+vedlikehold av driftsmidler kostnadsfgres Igpende under driftskostnader, mens pakostninger eller S
+forbedringer tillegges driftsmidlets kostpris og avskrives i takt med driftsmidlet. Dersom gjenvinnbart w
+belgp av driftsmiddelet er lavere enn balansefgrt verdi foretas nedskrivning til gjenvinnbart belgp. z
+Gjenvinnbart belgp er det hgyeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdien av de 3
+fremtidige kontantstr@mmene som eiendelen forventes a generere. E
+E
+Aksjer x
+Investeringer i aksjer er vurdert til kostmetoden med mindre nedskrivning har vert ngdvendig. Ps
+v
+=
+Skatter &
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier samt ligningsmessig underskudd til fremfgring ved
+utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverseres eller kan reverseres i samme periode er utlignet og nettofgrt.
+Note 1 Aksjer i andre selskaper
+Forretnings-
+Firma kontor Eierandel Resultat Egenkapital
+Elektro Sgr Holding AS Mandal 18 % 770 440 6 830 966
+Kortsiktig
+Transaksjoner/mellomvzrender fordring Utbytte
+Elektro Sgr Holding AS 0 184 783
+
+Myrkraft AS Noter til regnskapet for 2025
+Note 2 Skatter
+Beregning av arets skattegrunnlag/ 2025 2024
+betalbar skatt
+Regnskapsmessig resultat fgr skattekostnad 205 846 217 467
+Endring i midlertidige forskjeller 0 0
+Permanente forskjeller -179 263 -179 121
+Arets skattegrunnlag 26 583 38 346
+Betalbar skatt 5 848 8 436
+Arets skattekostnad fordeler seg pa:
+Betalbar skatt 5 848 8 436
+For mye/lite avsatt i fjor 0 0
+Endring utsatt skatt/utsatt skattefordel 0 0
+Arets skattekostnad 5 848 8 436
+Oversikt over midlertidige forskjeller:
+2025 2024 Endring a
+Andre forskjeller 0 0 0 a
+Underskudd til fremfgring 0 0 0 S
+Netto midlertidige forskjeller 0 0 0 SS
+5
+Utsatt skatt 0 0 0 &
+=
+S
+Note 3 Egenkapital =
+. wn
+Aksje- Annen iN
+kapital egenkapital SUM =
+Egenkapital 01.01. 137 000 560 899 697 899 .
+Arets resultat 199 998 199 998 =
+Avsatt til utbytte -225 000 -225 000 x
+Egenkapital 31.12. 137 000 535 897 672 897 £
+E
+s
+Note 4 Aksjekapital, aksjonzrer mv. a
+v
+bag
+Aksjekapital Antall Palydende _Balansefgrt &
+A-aksjer 100 137 13 700
+B-aksjer 900 137 123 300
+137 000
+Alle aksjene gir samme rettigheter i selskapet.
+Aksjonzrer A-aksjer B-aksjer Eierandel Stemmeandel Utbytteandel
+Sigurd Eivind Dyrstad 1) 100 300 40,0 % 100,0 % 80,0 %
+Anne Gro Dyrstad Rike 300 30,0 % 10,0 %
+Lars Dyrstad 300 30,0 % 10,0 %
+Totalt antall aksjer 100 900 100,0 % 100,0 % 100,0 %
+1) Styreleder Sigurd Eivind Dyrstad
+Note 5 Ansatte, godtgjgrelser mv.
+Selskapet har ikke hatt ansatte 1 2025.
+Det er ikke utbetalt Ilgnn eller annen godtgjgrelse til daglig leder eller til styret.
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Sigurd Eivind Dyrstad
+Styreleder
+Pavegne av: Myrkraft AS QES
+Serienummer: bankid.no no_bankid:95 78-5 993-4-2782071
+IP: 79. 160.XXX.XXX
+2026-04-30 12:15:19 UTC
+==pankin &%
+Ny
+it
+Rs)
+“
+ics)
+v
+Ke
+my
+Si
+t
+ie)
+A
+st
+S
+Y
+=
+e
+»
+=
++
+§
+2
+‘ew
+X
+S)
+£
+=
+v
+&
+3
+x
+S)
+Q
+Ss)
+v
+=
+<
+wv
+a
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.

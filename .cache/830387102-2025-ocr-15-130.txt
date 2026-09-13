@@ -1,0 +1,520 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 639562
+Virksomheten
+Organisasjonsnummer : 830 387 102
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: HUNSTAD EITENDOM AS
+Forretningsadresse: Ibsens gate 16
+1831 ASKIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Finn Terje Hunstad
+Dato for fastsettelse av arsregnskapet: 01.07.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 25.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 830 387 102
+
+HUNSTAD EIENDOM AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Leieinntekter 232 070 195 860
+
+Sum inntekter 232 070 195 860
+
+Kostnader
+
+Avskrivning pa driftsmidler 2 60 800 71 482
+
+Annen driftskostnad 3 157 425 72 997
+
+Sum kostnader 218 225 144 479
+
+Driftsresultat 13 845 51 381
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 4 713
+
+Sum finansinntekter 4 713
+
+Annen rentekostnad 43 74
+
+Sum finanskostnader 43 74
+
+Netto finans 4 670 -74
+
+Resultat fer skattekostnad 18 516 51 307
+
+Skattekostnad 11 877 21 215
+
+Arsresultat 4 6 639 30 092
+
+Arsresultat etter
+
+minoritetsinteresser 6 639 30 092
+
+Totalresultat 6 639 30 092
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 124 778
+
+Annen egenkapital 6 639 -94 686
+
+Sum overferinger og
+
+disponeringer 6 639 30 092
+Utskriftsdato 25.07.2026 Organisasjonsnr 830 387 102 Side 1 av 3
+
+Organisasjonsnr: 830 387 102
+
+HUNSTAD EIENDOM AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 2 441 738 502 538
+
+Sum varige driftsmidler 2 441 738 502 538
+
+Sum anleggsmidler 441 738 502 538
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 6 000
+
+Andre kortsiktige
+
+fordringer 124 778
+
+Sum fordringer 6 000 124 778
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd 373 349 178 374
+
+Sum bankinnskudd,
+
+kontanter og lignende 373 349 178 374
+
+Sum omlepsmidler 379 349 303 152
+
+SUM ELENDELER 821 087 805 690
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Overkurs 13 104 13 104
+
+Sum innskutt egenkapital 43 104 43 104
+
+Opptjent egenkapital
+
+Annen egenkapital 623 231 616 593
+
+Sum opptjent egenkapital 623 231 616 593
+
+Sum egenkapital 4 666 335 659 697
+
+Kortsiktig gjeld
+
+Leverandergjeld 2 451
+
+Betalbar skatt 11 877 21 215
+Utskriftsdato 25.07.2026 Organisasjonsnr 830 387 102 Side 2 av 3
+
+Utbytte 124 778
+
+Annen kortsiktig gjeld 140 424
+
+Sum kortsiktig gjeld 154 751 145 993
+
+Sum gjeld 154 751 145 993
+
+SUM EGENKAPITAL OG GJELD 821 087 805 690
+Utskriftsdato 25.07.2026 Organisasjonsnr 830 387 102 Side 3 av 3
+
+Organisasjonsnr: 830 387 102
+
+HUNSTAD EIENDOM AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Hunstad Eiendom AS
+
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Revisjonsberetning
+
+yr ws
+
+, {
+
+‘ ; ; Org.nr.: 830 387 102
+
+. / ‘
+
+RESULTATREGNSKAP |
+HUNSTAD EIENDOM AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Leieinntekter 232 070 195 860
+Sum driftsinntekter 232 070 195 860
+Avskrivning pa driftsmidler 2 60 800 71 482
+Annen driftskostnad 3 157 425 72 997
+Sum driftskostnader 218 225 144 479
+Driftsresultat 13 845 51 381
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 4713 8)
+Annen rentekostnad 43 74
+Resultat av finansposter 4670 -74
+Resultat for skattekostnad 18 516 51 307
+Skattekostnad 11 877 21 215
+Arsresultat 4 | 663930092
+OVERF@RINGER
+
+Avsatt til utbytte 0 124 778
+Annen egenkapital 6 639 -94 686
+Sum overfgringer 6 639 30 092
+HUNSTAD EIENDOM AS SIDE 2
+
+BALANSE |
+
+HUNSTAD EIENDOM AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+VARIGE DRIFTSMIDLER
+Tomter, bygninger og annen fast eiendom 2 441 738 502 538
+Sum varige driftsmidler 2 441 738 502 538
+Sum anleggsmidler 441 738 502 538
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 6 000 0
+Andre kortsiktige fordringer 0 124778
+Sum fordringer 6 000 124 778
+INVESTERINGER
+Bankinnskudd 373 349 178 374
+Sum omlgpsmidler 379 349 303 152
+Sum eiendeler 821 087 805 690
+HUNSTAD EIENDOM AS SIDE 3
+
+BALANSE |
+HUNSTAD EIENDOM AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 30 000 30 000
+Overkurs 13 104 13 104
+Sum innskutt egenkapital 43 104 43 104
+OPPTJENT EGENKAPITAL
+Annen egenkapital 623 231 616 593
+Sum opptjent egenkapital 623 231 616 593
+Sum egenkapital 4 666 335 659 697
+GJELD
+KORTSIKTIG GJELD
+Leverandgrgjeld 2451 0
+Betalbar skatt 11 877 21 215
+Utbytte 0 124 778
+Annen kortsiktig gjeld 140 424 0
+Sum kortsiktig gjeld 154 751 145 993
+Sum gjeld 154 751 145 993
+Sum egenkapital og gjeld 821 087 805 690
+Svinndal, 01.07.2026
+Styret i Hunstad Eiendom AS
+Finn Terje Hunstad
+Styreleder/daglig leder
+HUNSTAD EIENDOM AS SIDE 4
+
+Noter 2025
+
+HUNSTAD EIENDOM AS
+
+REGNSKAPSPRINSIPPER
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets ¢konomiske levetid.
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart beldp ved
+verdifall som forventes ikke a vere forbigaende. Gjenvinnbart belgp er det hgyeste av netto salgsverdi og
+verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstr@mmer knyttet til eiendelen. Nedskrivingen
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+FORDRINGER
+
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Note 1 Virksomhetens art og lokalisering
+
+Hunstad Eiendom AS er et selskap der virksomheten omfatter utleie av eiendom. Selskapet er lokalisert i
+Indre Zstfold kommune.
+
+Note 2 Anleggsmidler
+Tomter, bygninger og annen Sum
+fast eiendom
+Anskaffelseskost pr. 01.01.25 1 684 837 1 684 837
+= Anskaffelseskost 31.12.25 1 684 837 1 684 837
+Akkumulerte avskrivninger 31.12.25 1 243 099 1 243 099
+= Bokfort verdi 31.12.25 441 738 441 738
+Arets ordinzere avskrivninger 60 800 60 800
+Pkonomisk levetid 0-33 ar
+Note 3 Lénnskostnader og antall arsverk
+L@NNSKOSTNADER
+2025 2024
+Sum 0 0
+Selskapet har i 2025 sysselsatt 0 arsverk.
+Note 4 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 30 000 13 104 0 616 593 659 697
+Arets resultat 6 639 6 639
+Pr 31.12.2025 30 000 13 104 0 623 231 666 335
+
+Ot llectoE~
+as.revision
+Til generalforsamlingen i Revisornummer 901 096 957 MYA —
+Hunstad Eiendom AS Medlem av Den norske Revisorforening
+Postadresse: Postboks 1018, 1803 Askim
+Besoksadresser:
+Vangsveien 10, 1814 Askim
+Akersgata 41, 0158 Oslo
+Tit: +47 91 800 500
+post@revision.no
+UAVHENGIG REVISORS BERETNING
+Konklusjon
+Vi har revidert arsregnskapet til Hunstad Eiendom AS som viser et overskudd 8
+pa kr. 6 639. Arsregnskapet bestar av balanse per 31. desember 2025, resultatregnskap for =
+regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder et 2
+sammendrag av viktige regnskapsprinsipper. 5
+a
+Etter var mening :
+e oppfyller arsregnskapet gjeldende lovkrav, og 5
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling =
+per 31. desember 2025 og av dets resultater for regnskapsaret avsluttet per denne =
+datoen i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. S
+=
+Grunnlag for konklusjonen x
+Vi har gjennomf¢rt revisjonen i samsvar med den internasjonale revisjonsstandarden for g
+revisjon av regnskap til mindre komplekse enheter (ISA for MKE). Vare oppgaver og E
+plikter i henhold til ISA for MKE er beskrevet nedenfor under Revisors oppgaver og 2
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med =
+kravene i relevante lover og forskrifter i Norge og International Code of Ethics for 3
+Professional Accountants (inkludert internasjonale uavhengighetsstandarder) utstedt av S
+International Ethics Standards Board for Accountants (IESBA-reglene), og vi har *
+overholdt vare gvrige etiske forpliktelser i samsvar med disse kravene. Innhentet
+revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var
+konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir
+et rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge.
+Ledelsen er ogsa ansvarlig for slik intern kontroll som den finner nédvendig for 4 kunne
+utarbeide et arsregnskap som ikke inneholder vesentlig feilinformasjon, verken som f¢lge
+av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt
+drift og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift
+skal legges til grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil
+bli avviklet.
+i INAA
+GROUP
+
+as.revision
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er 4a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder
+vesentlig feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi
+en revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hgy
+grad av sikkerhet, men ingen garanti for at en revisjon utfgrt i samsvar med ISA or MKE,
+alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon kan oppsta som felge av
+misligheter eller utilsiktede feil. Feilinformasjon er 4 anse som vesentlig dersom den
+enkeltvis eller samlet med rimelighet kan forventes a pavirke gkonomiske beslutninger
+som brukerne foretar, pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til
+https://revisorforeningen.no/revisjonsberetninger
+©
+Askim, 1. juli 2026 E
+AS Revision =
+<
+2
+=
+A
+Jon Inge Solberg <
+Statsautorisert revisor x
+nN
+=
+S
+=
+9
+x=
+S
+WB
+i
+$
+a
+§
+c
+E
+3
+S
+©
+S
+a
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Jon Inge Solberg
+Statsautorisert revisor
+Pavegne av: AS Revision QES
+Serienummer: bankid.no no_bankid:95 78-5 995-4-350703
+IP: 77. 16.XXX.XXX
+2026-07-01 14:32:24 UTC
+==pankin &%
+Re)
+>
+=
+=
+=
+3
+=
+:
+hal
+S
+wy
+=
+ay
+=
+=)
+=
+4
+=
+a)
+v4
+N
+ca
+=
+3
+£
+=
+v
+&
+3
+4
+S)
+Q
+Ss)
+vu
+<
+o
+ang
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.
+
+Arsregnskap 2025
+Hunstad Eiendom AS :
+S
+G
+A
+a)
+:
+Resultatregnskap N
+Balanse &
+Noter til regnskapet “
+Revisjonsberetning g
+F
+
+Ad a
+| ‘ { > | Org.nr.: 830 387 102

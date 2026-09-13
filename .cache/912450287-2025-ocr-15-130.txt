@@ -1,0 +1,622 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 338027
+Virksomheten
+Organisasjonsnummer : 912 450 287
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NAVIGATOR NORWAY AS
+Forretningsadresse: c/o Thomas Olafsen
+Veradammen 19
+3219 SANDEFJORD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Thomas Olafsen
+Dato for fastsettelse av Aarsregnskapet: 13.03.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 23.03.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 912 450 287
+
+NAVIGATOR NORWAY AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 5 168 070 5 734 188
+
+Annen driftsinntekt 0 120 762
+
+Sum inntekter 5 168 070 5 854 950
+
+Kostnader
+
+Varekostnad 3 141 871 4 307 835
+
+Lennskostnad 1, 2 1 057 131 713 580
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 8 378 5 144
+
+Annen driftskostnad 230 345 179 279
+
+Sum kostnader 4 437 726 5 205 838
+
+Driftsresultat 730 344 649 112
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 3 383 9 152
+
+Annen finansinntekt 21 656 21 337
+
+Sum finansinntekter 25 039 30 489
+
+Annen rentekostnad 0 1 365
+
+Annen finanskostnad 70 831 69 007
+
+Sum finanskostnader 70 $31 70 372
+
+Netto finans -45 793 -39 883
+
+Resultat fer skattekostnad 684 552 609 230
+
+Skattekostnad 147 881 196 669
+
+Arsresultat 536 670 412 560
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 425 000 425 000
+
+Tilleggsutbytte 0 1 987 000
+
+Annen egenkapital 111 670 -1 999 440
+Utskriftsdato 23.03.2026 Organisasjonsnr 912 450 287 Side 1 av 3
+
+Organisasjonsnr: 912 450 287
+
+NAVIGATOR NORWAY AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verkt@y, kontormaskiner,
+
+ol. 3 0 8 378
+
+Sum varige driftsmidler 0 8 378
+
+Finansielle anleggsmidler
+
+Lan til foretak i samme
+
+konsern 24 758 )
+
+Sum finansielle
+
+anleggsmidler 24 758 0
+
+Sum anleggsmidler 24 758 8 378
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 370 529 167 818
+
+Andre kortsiktige
+
+fordringer 3 475 27 716
+
+Sum fordringer 374 004 195 534
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 2 946 384 1 307 907
+
+Sum bankinnskudd,
+
+kontanter og lignende 2 946 384 1 307 907
+
+Sum omlepsmidler 3 320 388 1 503 441
+
+SUM ELENDELER 3 345 146 1 511 818
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4, 5 100 000 88 334
+Utskriftsdato 23.03.2026 Organisasjonsnr 912 450 287 Side 2 av 3
+
+Annen innskutt egenkapital 5 0 0
+
+Sum innskutt egenkapital 100 000 88 334
+
+Opptjent egenkapital
+
+Annen egenkapital 5 549 047 449 042
+
+Udekket tap 5 0 0)
+
+Sum opptjent egenkapital 549 047 449 042
+
+Sum egenkapital 649 047 537 376
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 545 2 049
+
+Sum avsetninger for
+
+forpliktelser 545 2 049
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 1 337 127 267 687
+
+Betalbar skatt 149 386 62 997
+
+Skyldige offentlige
+
+avgifter 641 976 110 578
+
+Utbytte 425 000 425 000
+
+Annen kortsiktig gjeld 142 065 106 131
+
+Sum kortsiktig gjeld 2 695 555 972 393
+
+Sum gjeld 2 696 099 974 442
+
+SUM EGENKAPITAL OG GJELD 3 345 146 1 511 818
+Utskriftsdato 23.03.2026 Organisasjonsnr 912 450 287 Side 3 av 3
+
+Organisasjonsnr: 912 450 287
+
+NAVIGATOR NORWAY AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+er eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett 4r.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+Leieavtaler er ikke balansefert. Fordringer og gjeld i utenlandsk
+
+valuta er verdsatt til kursen ved regnskapsarets slutt. Kursgevinster og
+kursstap i utenlandsk valuta fores som finansinntekt og finanskostnad.
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens
+
+betalbare skatt og endring i utsatt skatt. Utsatt skatt er beregnet med 22%
+pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt skattemessig underskudd til
+fremforing ved utgangen av regnskapsaret. Skatte@kende og skattereduserende
+midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet
+
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+1
+Antall Aarsverk i regnskapsaret
+1.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+861864.00 579125.00
+Folketryqdavgift Arets Fjorarets
+130380.00 90915.00
+Andre ytelser Arets Fjorarets
+64888 .00 43539.00
+Sum le@nnskostnader Arets Fjorarets
+1057131.00 713580.00
+Note
+3
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+17148.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+17148.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+17148.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+8378.00 0.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Til generalforsamlingen 1 Bree nithe vei 24
+Navigator Norway AS 1987 Sancvika
+Org. nr.: 935 650 798
+Telefon: 46 90 26 47
+E-post:
+Internett: www.bhl.no
+Medlemmer av
+Den norske Revisorforening
+Ansvarlig revisor:
+Trond Dolvik
+UAVHENGIG REVISORS BERETNING
+Konklusjon
+Vi har revidert Navigator Norway AS arsregnskap som viser et overskudd pa kr. 536 670.
+Arsregnskapet bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret
+avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige
+regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember
+2025 og av dets resultat for regnskapsaret avsluttet per denne datoen 1 samsvar med
+regnskapslovens regler og god regnskapsskikk 1 Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfert revisjonen 1 samsvar med de internasjonale revisjonsstandardene International
+Standards on Auditing ([SA-ene). Vare oppgaver og plikter i henhold til disse standardene er
+beskrevet nedenfor under Revisors oppgaver og plikter ved revisjonen av arsregnskapet. Vi er
+uavhengige av selskapet slik det kreves 1 lov, forskrift og International Code of Ethics for
+Professional Accountants (inkludert internasjonale uavhengighetsstandarder) utstedt av the
+International Ethics Standards Board for Accountants (IESBA-reglene), og vi har overholdt vare
+evrige etiske forpliktelser 1 samsvar med disse kravene. Innhentet revisjonsbevis er etter var
+vurdering tilstrekKelig og hensiktsmessig som grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir et
+rettvisende bilde 1 samsvar med regnskapslovens regler og god regnskapsskikk 1 Norge. Ledelsen
+er ogsa ansvarlig for slik intern kontroll som den finner ngdvendig for 4 kunne utarbeide et
+arsregnskap som ikke inneholder vesentlig feilinformasjon, verken som folge av misligheter eller
+utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift
+og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges
+til grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures} av Signicat. Dette sikrer dokumentet og dets vedlegg mot endnnger etter signering SIGNICAT
+
+/ ° ;
+him |
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder
+vesentlig feilinformasjon, verken som felge av misligheter eller utilsiktede feil, og 4 avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hey grad av
+sikkerhet, men ingen garanti for at en revisjon utfert 1 samsvar med [SA-ene, alltid vil avdekke
+vesentlig feilinformasjon som eksisterer. Feilinformasjon kan oppsta som folge av misligheter eller
+utilsiktede feil. Feilinformasjon blir vurdert som vesentlig dersom den enkeltvis eller samlet med
+rimelighet kan forventes 4 pavirke gkonomiske beslutninger som brukerne foretar basert pa
+arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til
+https://Awww.revisorforeningen.no/revisjonsberetninger
+Sandvika, 13.03.2026
+BHL AS
+Elektronisk signert
+Trond Dolvik
+Statsautorisert revisor
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures} av Signicat. Dette sikrer dokumentet og dets vedlegg mot endnnger etter signering SIGNICAT
+
+Elektronisk signatur
+Signert av Dato og tid (UTC+01:00) Central European Time (Berlin) (DD. MM.YYYY HA: MM:SS)
+ignoturmetode
+{identitet bekreftet med Buypass (NO)) Buypass ( N O )
+© buypass’
+
+Arsregnskap for
+NAVIGATOR NORWAY AS
+912450287
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+NAVIGATOR NORWAY AS
+912 450 287
+Resultatregnskap
+
+Note 2025 01.04 -
+
+31.12.2024
+
+Driftsinntekter
+Salgsinntekt 5 168 070 5 734 188
+Annen driftsinntekt 0 120 762
+Sum driftsinntekter 5 168 070 5 854 950
+Driftskostnader
+Varekostnad -3 141 871 -4 307 835
+Lgnnskostnad 1,2 -1 057 131 -713 580
+Avskrivning pa varige driftsmidler og immaterielle 3 -8 378 -5 144
+eiendeler
+Annen driftskostnad -230 345 -179 279
+Sum driftskostnader -4 437 726 -5 205 838
+Driftsresultat 730 344 649 112
+Finansinntekter
+Annen renteinntekt 3 383 9 152
+Annen finansinntekt 21 656 21337
+Sum finansinntekter 25 039 30 489
+Finanskostnader
+Annen rentekostnad 0 -1 365
+Annen finanskostnad -70 831 -69 007
+Sum finanskostnader -70 831 -70 372
+Netto finans -45 793 -39 883
+Resultat for skattekostnad 684 552 609 230
+Skattekosinad -147 881 -196 669
+Arsresultat 536 670 412 560
+Overforinger
+Ordinzert utbytte 425 000 425 000
+Tilleggsutbytte 0 1 987 000
+Annen egenkapital 111 670 -1 999 440
+Sum overferinger 536 670 412 560
+
+NAVIGATOR NORWAY AS
+912 450 287
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Driftslgs@re, inventar, verktoy, kontormaskiner, ol. 3 0 8 378
+Sum varige driftsmidler 0 8 378
+Finansielle anleggsmidler
+Lan til foretak i samme konsern 24 758 0
+Sum finansielle anleggsmidler 24 758 0
+Sum anleggsmidler 24 758 8 378
+Omlgpsmidler
+Fordringer
+Kundefordringer 370 529 167 818
+Andre kortsiktige fordringer 3475 27716
+Sum fordringer 374 004 195 534
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 2 946 384 1 307 907
+Sum bankinnskudd, kontanter og lignende 2 946 384 1 307 907
+Sum omlgpsmidler 3 320 388 1 503 441
+SUM EIENDELER 3 345 146 1511 818
+
+NAVIGATOR NORWAY AS
+912 450 287
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4,5 100 000 88 334
+Sum innskutt egenkapital 100 000 88 334
+Opptjent egenkapital
+Annen egenkapital 5 549 047 449 042
+Sum opptjent egenkapital 549 047 449 042
+Sum egenkapital 649 047 537 376
+Gjeld
+Avsetning og forpliktelser
+Utsatt skatt 545 2 049
+Sum avsetning for forpliktelser 545 2 049
+Kortsiktig gjeld
+Leverandgrgjeld 1 337 127 267 687
+Betalbar skatt 149 386 62 997
+Skyldige offentlige avgifter 641976 110 578
+Utbytte 425 000 425 000
+Annen kortsiktig gjeld 142 065 106 131
+Sum kortsiktig gjeld 2 695 555 972 393
+Sum gjeld 2 696 099 974 442
+SUM EGENKAPITAL OG GJELD 3 345 146 1511 818
+SANDEFJORD, 10.03.2026
+Thomas Olafsen Carl Adam Peter Wendel
+styrets leder / daglig leder Fredelin
+
+styremediem
+
+NAVIGATOR NORWAY AS
+
+912 450 287
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Drive engroshandel med datamaskiner, tilleggsutstyr til datamaskiner samt programvare og aktiviteter naturlig i
+sammenheng med dette. Virksomheten drives fra Sandefjord
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekretsla@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefert. Fordringer og gjeld i utenlandsk valuta er verdsatt til kursen ved regnskapsarets
+slutt. Kursgevinster og kursstap i utenlandsk valuta feres som finansinntekt og finanskostnad.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+NAVIGATOR NORWAY AS
+912 450 287
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 1
+Note 2 - Lonnskostnader
+01.04 -
+Spesifikasjon av lonnskostnader 2025 31.12.2024
+Lenn 861 864 579 125
+Arbeidsgiveravgift 130 380 90 915
+Pensjonskostnader 0 0
+Andre relaterte ytelser 64 888 43 539
+sum 1 057 131 713 580
+Note 3 - Varige driftsmidler og immaterielle eiendeler
+Varige
+driftsmidler
+Anskaffelseskost 01.01. 17 148
+Tilgang i aret 0
+Avgang i aret 0
+Anskaffelseskost 31.12. 17 148
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -17 148
+Balansefort verdi per 31.12. 0
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 8 378
+Note 4 - Aksjekapital
+Aksjenes
+Aksjeklasse Ct aksjerpalydende__ Bokfort verdi
+Ordinzere 100 000 1 100 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+NAVIGATOR DISTRIBUTION NORDIC AB 51 000 51,00 Ordineere
+THOMAS OLAFSEN INVEST AS 49 000 49,00 Ordinzere
+Totalt antall aksjer 100 000 100
+Note 5 - Egenkapital
+Opptjent
+CA Kjekapital egenkapital Sum
+Egenkapital 31.12.2024 88 334 449 042 537 376
+Arsresultat 0 536 670 536 670
+Avsatt utbytte 0 -425 000 -425 000
+Andre endringer 11 666 -11 666 0
+Egenkapital 31.12.2025 100 000 549 047 649 047

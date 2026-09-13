@@ -1,0 +1,615 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 582148
+Virksomheten
+Organisasjonsnummer : 915 592 163
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MARKER VINDPARK AS
+Forretningsadresse: c/o Arowya AS
+Fr@yas gate 15
+0273 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Joakim Onarheim Martens
+Dato for fastsettelse av Aarsregnskapet: 11.06.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 14.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 915 592 163
+
+MARKER VINDPARK AS
+
+RESULTATREGNSKAP
+
+Belep i: EUR Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Revenue 8 844 097 6 042 181
+
+Other income 877 705 319 713
+
+Sum inntekter 9 721 802 6 361 893
+
+Kostnader
+
+Raw materials and
+
+consumables used 1 086 919 1 030 404
+
+Employee benefits expense 1
+
+Depreciation and
+
+amortisation expenses 2 3 037 810 3 026 294
+
+Other expenses 2 897 530 2 121 757
+
+Sum kostnader 7 022 259 6 178 455
+
+Driftsresultat 2 699 543 183 438
+
+Finansinntekter og
+
+finanskostnader
+
+Other financial income 27 469 5 151
+
+Sum finansinntekter 27 469 5 151
+
+Rentekostnad til foretak
+
+1 samme konsern 1 425 036 1 507 115
+
+Annen rentekostnad 1 542 782
+
+Other financial expenses 3 363 25 843
+
+Sum finanskostnader 1 429 940 1 533 741
+
+Netto finans -1 402 472 -1 528 590
+
+Resultat fer skattekostnad 1 297 O71 -1 345 152
+
+Income tax expense 3 -357 855 -157 526
+
+Arsresultat 4 1 654 926 -1 187 626
+
+Arsresultat etter
+
+minoritetsinteresser 1 654 926 -1 187 626
+
+Totalresultat 1 654 926 -1 187 626
+
+Overferinger og
+
+disponeringer
+
+Other equity 1 654 926 -1 187 626
+
+Sum overferinger og
+
+disponeringer 1 654 926 -1 187 626
+Utskriftsdato 14.07.2026 Organisasjonsnr 915 592 163 Side 1 av 3
+
+Organisasjonsnr: 915 592 163
+
+MARKER VINDPARK AS
+
+BALANSE
+
+Belsp i: EUR Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Varige driftsmidler
+
+Buildings and land 2 46 476 098 49 436 728
+
+Machinery and equipment 2
+
+Ships 2
+
+Equipment and other
+
+movables 2
+
+Sum varige driftsmidler 2 46 476 098 49 436 728
+
+Sum anleggsmidler 46 476 098 49 436 728
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Accounts receivables 5 1 533 002 990 209
+
+Other short-term
+
+receivables 5 95 598 870 518
+
+Sum fordringer 1 628 600 1 860 726
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Cash and cash equivalents 1 633 468 866 779
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 633 468 866 779
+
+Sum omlepsmidler 3 262 068 2 727 506
+
+SUM ELENDELER 49 738 166 52 164 234
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Share capital 6 101 938 101 938
+
+Overkurs 11 710 293 11 710 293
+
+Sum innskutt egenkapital 11 812 231 11 812 231
+
+Opptjent egenkapital
+
+Other equity -4 963 939 -6 618 866
+
+Sum opptjent egenkapital -4 963 939 -6 618 866
+
+Sum egenkapital 4 6 848 291 5 193 365
+Utskriftsdato 14.07.2026 Organisasjonsnr 915 592 163 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3 2 874 033 3 231 888
+
+Other provisions 2 3 166 473 3 089 294
+
+Sum avsetninger for
+
+forpliktelser 6 040 506 6 321 182
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 5 35 416 165 39 293 343
+
+Sum annen langsiktig gjeld 35 416 165 39 293 343
+
+Sum langsiktig gjeld 41 456 671 45 614 525
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 13 277 29 667
+
+Tax payable 3
+
+Public duties payable 340 559 174 278
+
+Other current liabilities 5 1 079 367 1 152 399
+
+Sum kortsiktig gjeld 1 433 203 1 356 344
+
+Sum gjeld 42 889 874 46 970 869
+
+SUM EGENKAPITAL OG GJELD 49 738 166 52 164 234
+Utskriftsdato 14.07.2026 Organisasjonsnr 915 592 163 Side 3 av 3
+
+Organisasjonsnr: 915 592 163
+
+MARKER VINDPARK AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Var dato Din/Deres dato Saksbehandler
+o 02.07.2024 Vibeke Home
+800 80 000 Din/Deres referanse Telefon
+Skatteetaten Skatteetaten.no 48123176
+Org.nr Var referanse Postadresse
+974761076 2024/5306751 Postboks 9200 Grenland
+0134 OSLO
+MARKER VINDPARK AS
+Att.Trond-Erik Olstad
+c/o Arowya AS, Freyas gate 15
+0273 OSLO
+Norge
+Tillatelse til 4 utarbeide arsregnskap og arsberetning pa engelsk for
+_ Marker Vindpark AS, org.nr. 915 592 163
+Vi viser til deres henvendelse av 21. juni 2024 der det s#kes om dispensasjon fra kravet
+til a utarbeide arsregnskap og arsberetning pa norsk for Marker Vindpark AS.
+Skattekontoret gir pa bakgrunn av en konkret helhetsvurdering Marker Vindpark AS
+dispensasjon fra kravet til a utarbeide arsregnskap og arsberetning pa norsk, jf.
+regnskapsloven § 3-4 tredje ledd. Dispensasjonen gjelder sa lenge opplysningene som
+danner grunnlaget for vedtaket ikke endres vesentlig.
+Kopi av dette brevet ma sendes til Regnskapsregisteret i Branngysund sammen med
+arsregnskapet. Den regnskapspliktige ma selv dokumentere ved dette brev at tillatelse er
+gitt.
+Bakgrunn
+Marker Vindpark AS er eid av et utenlandsk selskap. Selskapet driver virksomhet innen
+produksjon av elektrisitet fra vindkraft.
+Selskapet har utenlandsk administrasjon og majoriteten av brukerne av arsregnskapet er
+utenlandske. Styrelederen og styremedilemmet i selskapet er utenlandske.
+Skattekontorets vurdering
+Etter regnskapsloven § 3-4 tredje ledd skal "arsregnskapet og arsberetningen [...] vzere
+pa norsk. Departementet kan ved [...] enkeltvedtak bestemme at arsregnskapet og/eller
+arsberetningen kan veere pa et annet sprak.”
+| Ot. prp. nr. 42 (1997-1998) Om lov om arsregnskap mvv., er det uttalt falgende om
+regnskapslovens formal, jf. pkt. 1.1:
+"Regjeringen har som siktemal at regnskapsloven skal bidra til informative
+regnskaper for ulike grupper av regnskapsbrukere. Regnskapsbrukerne er dels
+investorer og kreditorer som tilfgrer kapital til foretakene, og dels andre grupper
+Side 1/2
+
+som har interesse av a vite hvordan foretaket drives, f.eks. de ansatte og
+lokalsamfunnet. Informasjonen til kapitalmarkedet skal gi grunnlag for riktig prising
+av finansielle objekter. Riktig prisdannelse pa aksjer er en forutsetning for at
+ressursbruken i samfunnsgkonomien skal bli best mulig. Gode regnskaper vil ogsa
+gj@re det vanskeligere for markedsdeltakere a ta ut spekulasjonsgevinster med
+basis i skjevt fordelt informasjon.”
+
+Det fremgar saledes at et av hovedformalene med regnskapsloven er a bidra til
+
+“informative regnskaper for ulike grupper av regnskapsbrukere”. Regnskapsbrukere vil
+
+omfatte, jf. uttalelsen i proposisjonen, blant andre investorer, kreditorer, ansatte og
+
+lokalsamfunnet.
+
+Det er etter skattekontorets vurdering derfor avgj@rende ved vurdering av om
+
+dispensasjon fra kravet til a utarbeide arsregnskap og/eller arsberetning pa norsk kan
+
+gis, at det ikke foreligger mulige brukere av regnskapsinformasjon som blir vesentlig
+
+bergrt negativt ved en eventuell dispensasjon.
+
+Det er seerlig hensynet til brukerne av regnskapsinformasjon som skal vurderes ved en
+
+dispensasjonssgknad. | denne vurderingen har skattekontoret lagt szerlig vekt pa at
+
+selskapet er direkte eid av et utenlandsk selskap. Videre er det vektlagt at selskapet
+
+driver virksomhet i en bransje der alle sentrale aktgrer behersker og benytter engelsk.
+
+Vennligst oppgi var referanse ved henvendelse i saken.
+
+Med hilsen
+
+Vibeke Horne
+
+Skatteetaten
+
+Dokumentet er elektronisk godkjent og har derfor ikke handskrevne signaturer.
+
+Side 2/2
+
+Annual Report 2025
+Marker Vindpark AS
+Revenue statement
+Balance sheet
+Notes to the Accounts
+Org.no.: 915 592 163
+
+Revenue statement
+Marker Vindpark AS
+
+Operating income and operating expenses Note 2025 2024
+Revenue 8 844 097 6 042 181
+Other income 877 705 319 713
+Total income 9 721 802 6 361 893
+Raw materials and consumables used 1 086 919 1 030 404
+Depreciation and amortisation expenses 2 3 037 810 3 026 294
+Other expenses 2 897 530 2121 757
+Total expenses 7 022 259 6 178 455
+Operating profit 2 699 543 183 438
+Financial income and expenses
+
+Other financial income 27 469 5 151
+Interest expense to group companies 1 425 036 1507 115
+Other interest expenses 1 542 182
+Other financial expenses 3 363 25 843
+Net financial items -1 402 472 -1 528 590
+Net profit before tax 1 297 071 -1 345 152
+Income tax expense 3 -357 855 -157 526
+Net profit or loss 4 1 654 926 -1 187 626
+Attributable to
+
+Other equity 1 654 926 -1 187 626
+Total 1 654 926 -1 187 626
+Marker Vindpark AS Side 2
+
+Balance sheet
+
+Marker Vindpark AS
+Assets Note 2025 2024
+Non-current assets
+Intangible assets
+Property, plant and equipment
+Buildings and land 2 46 476 098 49 436 728
+Total property, plant and equipment 2 46 476 098 49 436 728
+Non-current financial assets
+Total non-current assets 46 476 098 49 436 728
+Current assets
+Debtors
+Accounts receivables 5 1 533 002 990 209
+Other short-term receivables 5 95 598 870 518
+Total receivables 1 628 600 1 860 726
+Cash and cash equivalents 1 633 468 866 779
+Total current assets 3 262 068 2727 506
+Total assets 49 738 166 52 164 234
+Marker Vindpark AS Page 3
+
+Balance sheet
+Marker Vindpark AS
+Equity and liabilities Note 2025 2024
+Equity
+Paid-in capital
+Share capital 6 101 938 101 938
+Share premium reserve 11 710 293 11 710 293
+Total paid-up equity 11 812 231 11 812 231
+Retained earnings
+Other equity -4 963 939 -6 618 866
+Total retained earnings -4 963 939 -6 618 866
+Total equity 4 6 848 291 5 193 365
+Liabilities
+Provisions
+Deferred tax 3 2 874 033 3 231 888
+Other provisions 2 3 166 473 3 089 294
+Other non-current liabilities
+Non-current liabilities to group companies 5 35 416 165 39 293 343
+Total non-current liabilities 35 416 165 39 293 343
+Current liabilities
+Trade payables 13 277 29 667
+Public duties payable 340 559 174 278
+Other current liabilities 5 1 079 367 1 152 399
+Total current liabilities 1 433 203 1 356 344
+Total liabilities 42 889 874 46 970 869
+Total equity and liabilities 49 738 166 52 164 234
+Oslo, 11.06.2026
+The board of Marker Vindpark AS
+Steven Antony Macdonald King Joakim Onarheim Martens Martin Paparic
+member of the board general Manager chairman of the board
+Marker Vindpark AS Page 4
+
+Accounting principles
+
+The annual accounts have been prepared in conformity with the Accounting Act and NRS 8 - Good
+accounting practice for small companies.
+
+Foreign currency
+
+The annual statement is presented in EURO. Monetary foreign currency items are valued at the exchange
+rate on the balance sheet date.
+
+Operating revenues
+
+Income are posted to income as they are delivered.
+
+Ordinary profit tax
+
+The tax charge in the profit and loss account consists of tax payable for the period and the change in
+deferred tax. Deferred tax is calculated at the tax rate at 22 % on the basis of tax-reducing and tax-increasing
+temporary differences that exist between accounting and tax values, and the tax loss carried forward at the
+end of the accounting year. Tax-increasing and tax-reducing temporary differences that reverse or may
+reverse in the same period are set off and entered net.
+
+Resource rent tax
+
+From 2024, the deferred tax has been calculated based on gross rate 32.1% reduced with calculated
+corporate tax according to special rules.
+
+The resource rent income for the wind power plant is calculated based on the plant's production, hour by
+hour, multiplied by the spot price for the corresponding hour. Deductions are made for actual operating costs,
+investments and improvements for the wind power plant, as well as tax depreciation. A deduction is made for
+a waiting interest, which is calculated based on the tax values of assets in the wind power plant, multiplied by
+a standard interest rate set annually by the Ministry of Finance. For 2025 this rate is set at 3,1%.
+
+Deferred tax on resource rent is calculated based on temporary differences between the accounting and tax
+values of the wind power plant.
+
+Classification and valuation of fixed assets
+
+Fixed assets include assets included for long-term ownership and use. Fixed assets are valued at acquisition
+cost. Property, plant and equipment are entered in the balance sheet and depreciated over the asset’s
+economic lifetime. Property, plant and equipment are written down to a recoverable amount in the case of fall
+in value which is expected not to be temporary. Write-downs are reversed when the basis for the write-down
+is no longer present.
+
+Classification and valuation of current assets
+
+Current assets and short-term liabilities normally include items that fall due for payment within one year of the
+balance sheet date, as well as items that relate to the stock cycle. Current assets are valued at the lower of
+acquisition cost and fair value.
+
+Receivables
+
+Receivables from customers and other receivables are entered at par value after deducting a provision for
+expected losses. The provision for losses is made on the basis of an individual assessment of the respective
+receivables.
+
+Note 1 Loans and provision of security to leading personnel
+
+The company has not given loans or collateral to leading persons, shareholders etc.
+
+There are no employees in the company.
+
+Note 2 Non-current assets
+Wind power plant Removal cost Total
+Purchase cost as of 01.01.25 66 782 420 -2 730 533 64 051 887
+= Acquisition cost 31.12.25 66 782 420 -2 730 533 64 051 887
+Accumulated depreciation 31.12.25 20 306 322 435 940 20 742 262
+= Book value 31.12.25 46 476 098 -3 166 473 43 309 625
+This year's ordinary depreciations 2 960 631 77179 3 037 810
+Economic life 12-25 years 25 years
+Note 3 Corporate and resource rent tax
+This year's tax expense 2025 2024
+Entered tax on ordinary profit/loss:
+Payable tax 0 0
+Changes in deferred tax -357 855 -157 526
+Tax expense on ordinary profit/loss -357 855 -157 526
+Taxable income:
+Result before tax 1 297 071 -1 345 152
+Permanent differences 379 908 6 714 414
+Changes in temporary differences 2 858 634 -4 891 689
+Other changes prior year -90 471 -1 294 422
+Taxable income 4 445 142 -816 849
+Payable tax in the balance:
+Payable tax on this year's result 977 931 0
+Utilization of loss carried forward -977 931 0
+Total payable tax in the balance 0 0
+The tax effect of temporary differences and loss for to be carried forward that has formed the basis for
+deferred tax and deferred tax advantages, specified on type of temporary differences
+Temporary difference, corporate tax 2025 2024 Difference
+Tangible assets 43 742 154 46 523 608 2 781 455
+Allocations and more -3 166 473 -3 089 294 77179
+Total 40 575 681 43 434 314 2 858 634
+Accumulated loss to be brought forward -39 265 557 -40 105 945 -840 388
+Basis for deferred tax 1310 124 3 328 369 2 018 246
+Deferred tax (22 %) 288 227 732 241 444 014
+The tax expense for the year includes effects of updated information and revised estimates related to tax
+positions from prior years. Based on new information obtained during the year, amendments were made to
+previously submitted tax returns.
+These amendments resulted in a net adjustment of EUR 780,548, comprising EUR 29,698 related to
+resource rent tax and EUR 810,246 related to corporate income tax. The adjustments are recognised in the
+current year's tax return but are reflected differently for financial reporting purposes, resulting in a tax income
+of EUR 357,855 in the financial statements compared with a tax expense of EUR 422,693 in the 2025 tax
+return.
+
+Temporary difference, resource rent tax 2025 2024 Difference
+Tangible assets 22 262 953 17 779019 -4 483 934
+Dismantling/removal obligations -3 166 473 -3 089 294 77179
+Production duty carried forward(gross up) -2 201 503 -1 069 057 1 132 446
+Loss carried forward -6 137 096 -3 187 606 2 949 490
+Effect from deferred CT in RRT -2 702 409 -2 646 000 -56 409
+Basis temp difference resource rent tax 8 055 472 7 787 062 -381 228
+Deferred resource rent tax (32,1%) 2 585 806 2 499 647 -86 159
+Total deferred tax 2 874 033 3 231 888 357 855
+The resource rent tax expense includes effects of revised estimates related to interest on losses and
+production tax, based on updated information obtained during the year. The adjustments are recognised in
+this years result.
+Note 4 Equity capital
+Share Share Other paid- Other equity Total equity
+capital premium in equity capital capital
+capital
+Pr. 31.12.2024 101938 11710293 0 -6 618 866 5 193 365
+Result of the year 1 654 926 1 654 926
+Pr 31.12.2025 101938 11710293 0 -4 963 939 6 848 291
+Note 5 Inter-company items between companies in the same group
+2025 2024
+Receivables
+Customer receivables within the group 1 370 674 979 558
+Other short-term receivables within the group 8 347 9 621
+Total 1 379 021 989 179
+Liabilities
+Loans from companies in the same group 35 416 165 39 293 343
+Other short-term liabilities within the group 688 286 736 072
+Total 36 104 450 40 029 415
+Note 6 Shareholders
+The share capital in Marker Vindpark AS as of 31.12 consists of:
+Total Face value Entered
+Ordinary shares 34 333 3,0 101 969
+Total 34 333 101 969
+Ownership structure
+The largest shareholders in % at year end:
+Ordinary Owner interest Share of votes
+Bkw Renewables Partners Ag 34 333 100,0 100,0
+
+To the General Meeting of Marker Vindpark AS
+
+H ’
+Independent Auditor’s Report
+Opinion
+We have audited the financial statements of Marker Vindpark AS (the Company), which comprise the balance
+sheet as at 31 December 2025, the revenue statement for the year then ended, and notes to the financial
+statements, including a summary of significant accounting policies.
+In our opinion the financial statements comply with applicable statutory requirements, and the financial
+statements give a true and fair view of the financial position of the Company as at 31 December 2025, and its
+financial performance for the year then ended in accordance with the Norwegian Accounting Act and
+accounting standards and practices generally accepted in Norway.
+Basis for Opinion
+We conducted our audit in accordance with International Standards on Auditing (ISAs). Our responsibilities
+under those standards are further described in the Auditor’s Responsibilities for the Audit of the Financial
+Statements section of our report. We are independent of the Company as required by relevant laws and
+regulations in Norway and the International Ethics Standards Board for Accountants’ International Code of
+Ethics for Professional Accountants (including International Independence Standards) (IESBA Code), and we
+have fulfilled our other ethical responsibilities in accordance with these requirements. We believe that the
+audit evidence we have obtained is sufficient and appropriate to provide a basis for our opinion.
+Responsibilities of the Board of Directors and the Managing Director for the Financial Statements
+The Board of Directors and the Managing Director (management) are responsible for the preparation of
+financial statements that give a true and fair view in accordance with the Norwegian Accounting Act and
+accounting standards and practices generally accepted in Norway, and for such internal control as
+management determines is necessary to enable the preparation of financial statements that are free from
+material misstatement, whether due to fraud or error. In preparing the financial statements, management is
+responsible for assessing the Company’s ability to continue as a going concern, disclosing, as applicable,
+matters related to going concern. The financial statements use the going concern basis of accounting insofar
+as it is not likely that the enterprise will cease operations.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free
+from material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our
+opinion. Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in
+accordance with ISAs will always detect a material misstatement when it exists. Misstatements can arise
+from fraud or error and are considered material if, individually or in aggregate, they could reasonably be
+expected to influence the economic decisions of users taken on the basis of these financial statements. For
+further description of Auditor’s Responsibilities for the Audit of the Financial Statements reference is made to:
+https://revisorforeningen.no/revisjonsberetninger
+Hamar, 11 June 2026
+Tell Norge AS
+Pal Bakke
+State Authorised Public Accountant
+(This document is signed electronically)
+Tell Norge AS, Vangsvegen 71, 2317 Hamar, Postboks 102, 2301 Hamar
+T: +47 96 00 55 44, org. no.: 834 836 912 MVA, www.tellnorge.no
+Statsautoriserte revisorer, medlemmer av Den norske Revisorforening og autorisert regnskapsforerselskap

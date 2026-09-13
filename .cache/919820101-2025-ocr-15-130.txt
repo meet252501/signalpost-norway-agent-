@@ -1,0 +1,340 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 500151
+Virksomheten
+Organisasjonsnummer : 919 820 101
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: OPPHAUG HOLDING AS
+Forretningsadresse: Sagplassvegen 67
+7054 RANHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ole Morten Opphaug
+Dato for fastsettelse av arsregnskapet: 29.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 919 820 101
+
+OPPHAUG HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 6 752 344 015
+
+Sum kostnader 6 752 344 015
+
+Driftsresultat -6 752 -344 015
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter e) e)
+
+Sum finanskostnader fe) fe)
+
+Netto finans 0 fe)
+
+Resultat fer skattekostnad -6 752 -344 015
+
+Arsresultat -6 752 -344 015
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -6 752 -302 099
+
+Annen egenkapital 0 -41 916
+Utskriftsdato 01.06.2026 Organisasjonsnr 919 820 101 Side 1 av 3
+
+Organisasjonsnr: 919 820 101
+
+OPPHAUG HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 30 000 30 000
+
+Investeringer i aksjer og
+
+andeler 500 000 500 000
+
+Sum finansielle
+
+anleggsmidler 530 000 530 000
+
+Sum anleggsmidler 530 000 530 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 78 329
+
+Sum bankinnskudd,
+
+kontanter og lignende 78 329
+
+Sum omlepsmidler 78 329
+
+SUM ELENDELER 530 078 530 329
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 1 40 000 40 000
+
+Sum innskutt egenkapital 40 000 40 000
+
+Opptijent egenkapital
+
+Annen egenkapital 1 0 0
+Utskriftsdato 01.06.2026 Organisasjonsnr 919 820 101 Side 2 av 3
+
+Udekket tap 1 308 851 302 099
+
+Sum opptjent egenkapital -308 851 -302 099
+
+Sum egenkapital -268 851 -262 099
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 fe]
+
+Kortsiktig gjeld
+
+Leverandergjeld 0 6 000
+
+Kortsiktig konserngjeld 161 000 161 000
+
+Annen kortsiktig gjeld 637 928 625 428
+
+Sum kortsiktig gjeld 798 928 792 428
+
+Sum gjeld 798 928 792 428
+
+SUM EGENKAPITAL OG GJELD 530 078 530 329
+Utskriftsdato 01.06.2026 Organisasjonsnr 919 820 101 Side 3 av 3
+
+Organisasjonsnr: 919 820 101
+
+OPPHAUG HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Eiendeler som er knyttet til varekretslopet er klassifisert som
+omlepsmidler.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og
+
+virkelig verdi. Kortsiktig gjeld balansefores til nominelt belep pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes a vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+
+Selskapet har ikke endret
+
+regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap for
+OPPHAUG HOLDING AS
+919820101
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+OPPHAUG HOLDING AS
+919 820 101
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad 6 752 344 015
+Sum driftskostnader 6 752 344 015
+Driftsresultat -6 752 -344 015
+Arsresultat -6 752 -344 015
+Overforinger
+Annen egenkapital 0 -41 916
+Udekket tap -§ 752 -302 099
+Sum overferinger -6 752 -344 015
+
+OPPHAUG HOLDING AS
+919 820 101
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer i tilknyttet selskap 30 000 30 000
+Investeringer i aksjer og andeler 500 000 500 000
+Sum finansielle anleggsmidler 530 000 530 000
+Sum anleggsmidler 530 000 530 000
+Omlgpsmidler
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 78 329
+Sum bankinnskudd, kontanter og lignende 78 329
+Sum omlgpsmidler 78 329
+SUM EIENDELER 530 078 530 329
+
+OPPHAUG HOLDING AS
+919 820 101
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 1 40 000 40 000
+Sum innskutt egenkapital 40 000 40 000
+Opptjent egenkapital
+Udekket tap 1 308 851 302 099
+Sum opptjent egenkapital -308 851 -302 099
+Sum egenkapital -268 851 -262 099
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 0 6 000
+Kortsiktig konserngjeld 161 000 161 000
+Annen kortsiktig gjeld 637 928 625 428
+Sum kortsiktig gjeld 798 928 792 428
+Sum gjeld 798 928 792 428
+SUM EGENKAPITAL OG GJELD 530 078 530 329
+RANHEIM, 29.05.2026
+Ole Morten Opphaug
+styrets leder / daglig leder
+
+OPPHAUG HOLDING AS
+919 820 101
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Arten av virksomhet og hvor virksomheten drives
+Selskapets virksomhet er a eie og investere i aksjer. Virksomheten drives i Ranheim.
+Antall arsverk
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+Note 1 - Egenkapital
+Aksjekapital Udekket tap sum
+Egenkapital 31.12.2024 40 000 -302 099 -262 099
+Arsresultat 0 -6 752 -6 752
+Egenkapital 31.12.2025 40 000 -308 851 -268 851
+Mer om egenkapital
+Egenkapitalen er tapt. Det ligger dog store urealiserte verdier i selskapene der en eier aksjer. Aksjeeier sikrer
+likviditeten ved a lane midler til selskapet.

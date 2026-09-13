@@ -1,0 +1,383 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 510662
+Virksomheten
+Organisasjonsnummer : 924 716 568
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: DIAMETA AS
+Forretningsadresse: Nils Bays vei 43B
+0855 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Trine Anette @fsti Braten
+Dato for fastsettelse av arsregnskapet: 29.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 924 716 568
+
+DIAMETA AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 300 29 581
+
+Sum inntekter 3 300 29 581
+
+Kostnader
+
+Annen driftskostnad 8 897 25 841
+
+Sum kostnader 8 897 25 841
+
+Driftsresultat -5 597 3 740
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter e) e)
+
+Sum finanskostnader 0 0
+
+Netto finans e) fe)
+
+Resultat fer skattekostnad -5 597 3 740
+
+Arsresultat -5 597 3 740
+
+Arsresultat etter
+
+minoritetsinteresser -5 597 3 740
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -5 597 3 740
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -5 597 0
+
+Overferinger til/fra
+
+annen egenkapital 0 3 740
+
+Sum overferinger og
+
+disponeringer -5 597 3 740
+Utskriftsdato 02.06.2026 Organisasjonsnr 924 716 568 Side 1 av 3
+
+Organisasjonsnr: 924 716 568
+DIAMETA AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Sum finansielle
+anleggsmidler 0 0
+Sum anleggsmidler 0 0
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Andre kortsiktige
+fordringer 1 469 1 469
+Sum fordringer 1 469 1 469
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 12 266 17 863
+Sum bankinnskudd,
+kontanter og lignende 12 266 17 863
+Sum omlepsmidler 13 735 19 332
+SUM EIENDELER 13 735 19 332
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital
+(selskapskapital) 30 000 30 000
+Annen innskutt egenkapital -5 570 -5 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+
+Utskriftsdato 02.06.2026 Organisasjonsnr 924 716 568 Side 2 av 3
+
+Udekket tap 10 695 5 098
+
+Sum opptjent egenkapital -10 695 -5 098
+
+Sum egenkapital 13 735 19 332
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 fe]
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Sum kortsiktig gjeld 0 0
+
+Sum gjeld 0 0
+
+SUM EGENKAPITAL OG GJELD 13 735 19 332
+Utskriftsdato 02.06.2026 Organisasjonsnr 924 716 568 Side 3 av 3
+
+Organisasjonsnr: 924 716 568
+
+DIAMETA AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Totalleverander av
+
+kurs/foredrag/undervisning for god selvfglelse.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Styret vurderer det som riktig a avlegge arsregnskapet under forutsetning om
+fortsatt drift, da det er
+
+iverksatt tiltak for 4 styrke selskapets ekonomi.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Diameta AS
+(924 716 568)
+74
+Diameta AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 3300 29581
+Sum driftsinntekter 3300 29581
+Driftskostnader
+
+Annen driftskostnad 8 897 25 841
+Sum driftskostnader 8897 25841
+Driftsresultat -5597 3740
+Resultat for skatt -5597 3740
+Arsresultat -5597 3740
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 0 3740
+
+Udekket tap -5 597 0
+Sum overferinger og disponeringer -5 597 3740
+
+Diameta AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Fordringer
+Andre kortsiktige fordringer 1 469 1 469
+Sum fordringer 1 469 1 469
+Bankinnskudd, kontanter o.l. 12266 17 863
+Sum omlepsmidler 13735 19332
+Sum eiendeler 13735 19332
+Diameta AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital -6 570 -§ 570
+Sum innskutt egenkapital 24430 24430
+Opptjent egenkapital
+
+Udekket tap -10695 -6 098
+Sum opptjent egenkapital -10695 -5098
+Sum egenkapital 13735 19332
+Sum egenkapital og gjeld 13735 19332
+
+Diameta AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Totalleverander av kurs/foredrag/undervisning for god selvfalelse.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er iverksatt tiltak for a styrke selskapets okonomi.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Diameta AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Lasse Ruud <lasse@intellisearch.no>
+Elektronisk signering
+TRINE ANETTE @FSTI BRATEN LASSE P@SCHE RUUD
+02.05.1971 - Styreleder 20.12.1968 - Styremedlem
+Y) Signert Y) Signert
+29.05.2026 13:05 29.05.2026 11:29
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 29.05.2026 11:24:37

@@ -1,0 +1,424 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 386213
+Virksomheten
+Organisasjonsnummer : 926 801 473
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: CHRISTIANSSAND INVEST AS
+Forretningsadresse: Monelia 39
+4656 HAMRESANDEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Lars Hakon Pedersen
+Dato for fastsettelse av arsregnskapet: 31.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 21.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 926 801 473
+
+CHRISTIANSSAND INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 5 463 3 454
+
+Sum kostnader 5 463 3 454
+
+Driftsresultat -5 463 -3 454
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 52 103
+
+Sum finansinntekter 52 103
+
+Sum finanskostnader 0 0
+
+Netto finans 52 103
+
+Resultat fer skattekostnad -5 411 -3 351
+
+Arsresultat -5 411 -3 351
+
+Arsresultat etter
+
+minoritetsinteresser -5 411 -3 351
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -5 411 -3 351
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -5 411 -3 352
+
+Sum overferinger og
+
+disponeringer -5 411 -3 351
+Utskriftsdato 21.04.2026 Organisasjonsnr 926 801 473 Side 1 av 3
+
+Organisasjonsnr: 926 801 473
+CHRISTIANSSAND INVEST AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 1 050 968 1 050 968
+Sum finansielle
+anleggsmidler 1 050 968 1 050 968
+Sum anleggsmidler 1 050 968 1 050 968
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Sum fordringer 0 0
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 13 935 19 346
+Sum bankinnskudd,
+kontanter og lignende 13 935 19 346
+Sum omlepsmidler 13 935 19 346
+SUM ELENDELER 1 064 903 1 070 314
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital
+(selskapskapital) 62 500 62 500
+Overkurs 992 195 992 195
+Sum innskutt egenkapital 1 054 695 1 054 695
+Opptjent egenkapital
+
+Utskriftsdato 21.04.2026 Organisasjonsnr 926 801 473 Side 2 av 3
+
+@reavrunding -1 -1
+
+Udekket tap 14 796 9 384
+
+Sum opptjent egenkapital -14 796 -9 385
+
+Sum egenkapital 1 039 899 1 045 310
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 25 004 25 004
+
+Sum annen langsiktig gjeld 25 004 25 004
+
+Sum langsiktig gjeld 25 004 25 004
+
+Kortsiktig gjeld
+
+Sum kortsiktig gjeld 0 0
+
+Sum gjeld 25 004 25 004
+
+SUM EGENKAPITAL OG GJELD 1 064 903 1 070 314
+Utskriftsdato 21.04.2026 Organisasjonsnr 926 801 473 Side 3 av 3
+
+Organisasjonsnr: 926 801 473
+
+CHRISTIANSSAND INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Hamresanden
+
+Virksomhetens art
+
+Investeringer.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Det er ikke usikkerhet om fortsatt drift, og styret vurderer det som riktig
+a avlegge arsregnskapet under forutsetning om fortsatt drift. Selskapets
+eiere vil tilfg@re mer penger dersom det blir nedvendig.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Christianssand Invest AS
+(926 801 473)
+Christianssand Invest AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 5 463 3 454
+Sum driftskostnader 5 463 3 454
+Driftsresultat -§ 463 -3 454
+Finansinntekter
+
+Annen renteinntekt 52 103
+Sum finansinntekter 52 103
+Netto finans 52 103
+Resultat for skatt -§ 411 -3 351
+Arsresultat 5411 -3351
+Overforinger og disponeringer
+
+Udekket tap -6 411 -3 352
+Sum overferinger og disponeringer -5 411 -3 351
+
+Christianssand Invest AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anleggsmidler
+
+Investeringer i aksjer og andeler 1 O50 968 1 050 968
+Sum finansielle anleggsmidler 1 050 968 1 050 968
+Sum anleggsmidler 1050968 1050968
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 13 935 19 346
+Sum omlepsmidler 13 935 19 346
+Sum eiendeler 1064903 1070314
+
+Christianssand Invest AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 62 500 62 500
+
+Overkurs 992 195 992 195
+Sum innskutt egenkapital 1054695 1054695
+Opptjent egenkapital
+
+Annen egenkapital -1 -1
+
+Udekket tap -14 796 -9 384
+Sum opptjent egenkapital -14 796 -9 385
+Sum egenkapital 1039899 1045310
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 25 004 25 004
+Sum annen langsiktig gjeld 25 004 25 004
+Sum gjeld 25 004 25 004
+Sum egenkapital og gjeld 1064903 1070314
+
+Christianssand Invest AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Hamresanden
+Virksomhetens art
+Investeringer.
+Note 2: Usikkerhet rundt fortsatt drift
+Det er ikke usikkerhet om fortsatt drift, og styret vurderer det som riktig 4 avlegge
+arsregnskapet under forutsetning om fortsatt drift. Selskapets eiere vil tilfore mer penger
+dersom det blir nadvendig.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Christianssand Invest AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Lars Hakon Pedersen <larshpedersen93@gmail.com>
+Elektronisk signering
+LARS HAKON PEDERSEN THOMAS INGEBRETSEN
+11.05.1993 - Styreleder 04.07.1993 - Styremedilem
+© Signert ® Signert
+18.04.2026 10:39 === bankID 18.04.2026 11:51 === bankID
+SNORRE OFFERGAARD HARALDSTAD
+03.09.1993 - Styremedilem
+© Signert
+18.04.2026 12:16 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 18.04.2026 12:16:36
+
+GENERALFORSAMLINGSPROTOKOLL
+for generalforsamling i Christianssand Invest AS, org.nr 926 801 473
+Den 5. april 2026 ble det avholdt ordinzer generalforsamling i Christianssand Invest AS.
+Dagsorden var fglgende:
+1. Godkjennelse av behandlingsform og dagsorden
+Samtlige aksjonzerer samtykket til at det ble gjennomfgrt en forenklet generalforsamlingen i henhold til aksjeloven
+§5-7.
+2. Valg av m@teleder og personer til a medundertegne protokollen.
+Lars Hakon Pedersen er valgt som m@¢teleder. Lars Hakon Pedersen, Thomas Ingebretsen og Snorre Haraldstad ble
+enstemmig valgt til a undertegne protokollen.
+3. Godkjennelse av arsregnskap
+Det fremlagte resultatregnskap, balanse og noter ble enstemmig godkjent som selskapets offisielle regnskap for
+2025.
+4. Disponering av arsresultatet
+Generalforsamlingen tar arets underskudd til orientering. Det ble enstemmig vedtatt a ikke utdele aksjeutbytte for
+2025.
+5. Godtgjgrelse til styrets medlemmer
+Det ble enstemmig vedtatt at det ikke utbetales styrehonorar.
+6. Valg av styre
+Alle styremedlemmer gnsker a fortsette og styret foreslar at sittende styre blir valgt for en ny periode pa ett ar.
+Generalforsamlingen fattet falgende vedtak: Styret ble gjenvalgt for ett ar.
+Flere saker forela ikke til behandling og generalforsamlingen ble hevet.
+Kristiansand/Oslo, 05.04.2026
+Lars Hakon Pedersen Thomas Ingebretsen
+Styreleder Styremedlem
+Sel O Nhe ledh
+Snorre Haraldstad
+Styremedlem

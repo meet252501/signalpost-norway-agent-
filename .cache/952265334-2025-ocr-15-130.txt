@@ -1,0 +1,505 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 706029
+Virksomheten
+Organisasjonsnummer : 952 265 334
+Organisasjonsform: Borettslag
+Foretaksnavn: DURUD BORETTSLAG
+Forretningsadresse: vV/Obos Eiendomsforvaltning AS
+Standardveien 1
+0581 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: OBOS EIENDOMSFORVALTNING AS
+Dato for fastsettelse av Aarsregnskapet: 21.05.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 10.08.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 952 265 334
+
+DURUD BORETTSLAG
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 12 801 288 12 333 423
+
+Sum inntekter 12 801 288 12 333 423
+
+Kostnader
+
+Lennskostnad 483 188 564 789
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 188 744 172 246
+
+Annen driftskostnad 11 995 508 9 492 941
+
+Sum kostnader 12 667 440 10 229 976
+
+Driftsresultat 133 848 2 103 447
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 141 446 153 428
+
+Sum finansinntekter 141 446 153 428
+
+Annen finanskostnad 1 692 868 1 832 975
+
+Sum finanskostnader 1 692 868 1 832 975
+
+Netto finans -1 551 422 -1 679 547
+
+Resultat fer skattekostnad -1 417 574 423 900
+
+Arsresultat -1 417 574 423 900
+
+Totalresultat -1 417 574 423 900
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -1 417 574 423 900
+
+Sum overferinger og
+
+disponeringer -1 417 574 423 900
+Utskriftsdato 10.08.2026 Organisasjonsnr 952 265 334 Side 1 av 3
+
+Organisasjonsnr: 952 265 334
+DURUD BORETTSLAG
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 14 694 531 14 694 531
+Driftslesere, inventar,
+verktay, kontormaskiner
+og lignende 907 244 1 016 636
+Sum varige driftsmidler 15 601 775 15 711 167
+Finansielle anleggsmidler
+Andre fordringer 902 021 2 385 687
+Sum finansielle
+anleggsmidler 902 021 2 385 687
+Sum anleggsmidler 16 503 796 18 096 854
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Kundefordringer 9 864 22 070
+Andre fordringer 9 137
+Sum fordringer 19 OO1 22 070
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 54 916 1 229 745
+Sum bankinnskudd,
+kontanter og lignende 54 916 1 229 745
+Sum omlepsmidler 73 917 1 251 815
+SUM ELENDELER 16 577 713 19 348 669
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 10.08.2026 Organisasjonsnr 952 265 334 Side 2 av 3
+
+Annen innskutt egenkapital 27 600 27 600
+
+Sum innskutt egenkapital 27 600 27 600
+
+Opptjent egenkapital
+
+Udekket tap 17 911 027 16 493 453
+
+Sum opptjent egenkapital -17 911 027 -16 493 453
+
+Sum egenkapital -17 883 427 -16 465 853
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 30 313 349 31 558 332
+
+@vrig langsiktig gjeld 3 725 500 3 725 500
+
+Sum annen langsiktig gjeld 34 038 849 35 283 832
+
+Sum langsiktig gjeld 34 038 849 35 283 832
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 51 257 9 829
+
+Leverandergjeld 356 799 482 223
+
+Skyldige offentlige
+
+avgifter 17 O91
+
+Annen kortsiktig gjeld 14 235 21 546
+
+Sum kortsiktig gjeld 422 291 530 690
+
+Sum gjeld 34 461 140 35 814 522
+
+SUM EGENKAPITAL OG GJELD 16 577 713 19 348 669
+Utskriftsdato 10.08.2026 Organisasjonsnr 952 265 334 Side 3 av 3
+
+Organisasjonsnr: 952 265 334
+
+DURUD BORETTSLAG
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.75
+
+Tig OB OS attning
+-@ by
+_ &
+4
+a
+Arsmete 2026
+Innkalling
+
+Velkommen til arsmete i DURUD BORETTSLAG
+Innkallingen inneholder alle sakene som skal behandles pa arsmetet. Styret haper du leser gjennom og viser
+din interesse ved 4 delta pa arsmetet.
+Digital avstemning med mete:
+Avstemningen apner 18. mai kl. 20:00 og lukker 21. mai kl. 20:00.
+Du finner avstemningen pa:
+https://vibbo.no/1062
+Det holdes ogsa et frivillig mote 18. mai kl. 19:00 , Aurora Verksted, Durudveien 33, 1344 Haslum.
+Hvordan deltar du digitalt?
+¢ Du far en link via SMS.
+« Du kan ogsa finne metet ved 4 ga inn pa vibbo.no
+« Du kan se gjennom sakene som skal behandles, komme med spersmal og avgi din stemme.
+* Viktig: Juridiske eiere (firmaer) som @nsker a deltai arsmetet, ma gjore det giennom en boligforvalter. Kontakt
+OBOS support i god tid for 4 fa lagt til boligforvalteren.
+Hvem kan stemme pa arsmoetet?
+¢ Alle eiere har rett til a stemme pa arsmetet.
+¢ Enstemme avgis pr. eierandel.
+Hvordan stemme hvis du ikke kan delta digitalt?
+Dersom du ikke kan delta digitalt, ma du benytte analog stemmeseddel som er vedlagt i innkallingen. Dette ma
+gjores innen avstemningen lukkes.
+Stemmegivning
+Man kan stemme digitalt eller pa papir. Stemmeseddel skal legges i lukket konvolutt i styrets postkasse ved
+T-bane-trappen.
+Saker til behandling
+1. Valg av meteleder
+2. Valg av protokollvitner
+5. Godkjenning av meteinnkallingen
+4. Arsrapport og arsregnskap
+5. Fastsettelse av honorarer
+6. Rydding av fellesarealer; boder/garasjer/verksted.
+7. Ekstra kompensasjon for merarbeid for styret
+8. Takrenner pa balkongene
+9. Utvidet bruk av fellesvaskeri
+10. Bommen foran 22 blokken
+2 av 34
+
+11. Valg av revisor
+12. Nye inngangspartier.
+13. Valg av tillitsvalgte
+14. Valgkomité
+Med vennlig hilsen,
+Styret i DURUD BORETTSLAG
+3 av 34
+
+Sak 1
+Valg av meteleder
+Krav til flertall:
+Alminnelig (50%)
+Metelederen serger for at metet blir avviklet etter lovens regler og er ansvarlig for at det feres protokoll. Hvis
+ikke arsmetet velger en meteleder eller den foreslatte metelederen ikke blir valgt, er det styrets leder som etter
+loven er meteleder.
+Forslag til vedtak
+Christian Arntzen er valgt.
+Sak 2
+Valg av protokollvitner
+Krav til flertall:
+Alminnelig (50%)
+Valg av minst én eier til 4 signere protokollen.
+Forslag til vedtak
+Johan Lyder Von Tangen og Olav Harry Holteberg er valgt.
+Sak 3
+Godkjenning av meteinnkallingen
+Krav til flertall:
+Alminnelig (50%)
+Det ble foreslatt 4 godkjenne den maten arsmetet er innkalt pa.
+Forslag til vedtak
+Meteinnkallingen godkjennes
+Sak 4
+Arsrapport og arsregnskap
+Krav til flertall:
+Alminnelig (50%)
+a) Godkjenning av arsrapport og arsregnskap
+4 av 34
+
+b) Styret foreslar overforing av arets resultat fra egenkapital.
+Forslag til vedtak
+Arsrapport og arsregnskap godkjennes. Arets resultat overfores fra egenkapital
+Vedlegg
+1.1062 Arsregnskap Durud Borettslag styrerommet (1).pdf
+Sak 5
+Fastsettelse av honorarer
+Krav til flertall:
+Alminnelig (50%)
+Godtgjorelse for styret foreslas satt til kr 350 O00,- basert pa en okning pa 2,7% jfr. KPI.
+Forslag til vedtak
+Styrets godtgjorelse settes til kr 350 O00,-
+Sak 6
+Rydding av fellesarealer; boder/garasjer/verksted.
+Krav til flertall:
+Alminnelig (50%)
+Vi har en pagaende oppryddingsprosess ifm avgang av vaktmester ansatt i Durud bri. Vi har frigjort plass
+i garasjer mot Bzerumsveien og div. lagere i div. bygninger, samt at det gjenstar en stor oppryddingsjobb i
+tidligere vaktmesters verksted/boder. Her ma alt giennomgas for a kunne utnytte ressurser videre, oke tilgang
+pa utsyr og unnga unedige anskaffelser.
+Dette er en stor jobb, som ma utferes av styret. Vi ma kartlegge hva som kan brukes, hva som evt ma kastes,
+selges eller gis bort. Vi anser at dette ber gjores av styret, siden vi har kjennskap til hva som kan brukes i
+borettslaget. Det utbetales etter timeliste med en total ramme pa kr 50 000.-.
+Styrets innstilling
+Arsmetet godkjenner at det utbetales vederlag etter timelister, med en maks sum pA kr 50 000.-.
+Forslag til vedtak
+Godkjent med en ramme pa kr 50 000.-.
+5 av 34
+
+Sak 7
+Ekstra kompensasjon for merarbeid for styret
+Krav til flertall:
+Alminnelig (50%)
+Styret har prioritert a fremforhandle bedre avtaler og begrense bruken av konsulent og andre eksterne
+tjenester for a holde utgiftene nede. Vaktmester Ole Morten gikk av med pensjon 1. april 2025, styret har derfor
+mattet ta ansvaret for forefallende arbeid i borettslaget. | flere maneder var styreleder fungerende vaktmester,
+dette ble gjort for 4 spare utgifter ved innleid hjelp. Vi hari ettertid sett at dette har medfert at arbeidsmengden
+for styret har okt betraktelig utover det som kan forventes av vanlig styrearbeid, og mener derfor at dette ber
+kompenseres. Dett har gitt borettslaget en besparelse pa rundt kr 500 000.-.
+Forslag til vedtak
+Styret kompenseres med kr 10 O0O,- pr mnd for utfert ekstraarbeid i 2025.
+Sak 8
+Takrenner pa balkongene
+Forslag fremmet av:
+Siri Wengaard Berger
+Krav til flertall:
+Alminnelig (50%)
+Vi som bor i u-etg far alt regnvannet fra balkongene i etasjene over direkte ned pa terrassegulvet vart. Dette
+gjor at flere terrassebord ma byttes ut hvert annet / hvert tredje ar fordi de ratner av alt vannet. Et annen
+utfordring er at beboere i etasjene over vanner plantene sine, og enkelte ganger skyver alt regnvannet pa sine
+balkonger ut fra balkongen, og dette lander med stor kraft direkte pa vare terrassegulv. Resultatet er klissvate
+hageputer og klesvask som (ironisk nok)henger ute for 4 terke. Vil derfor foresla at det monteres takrenner pa
+balkongene slik at ovennevnte problemer og utfordringer kan unngas!
+Styrets innstilling
+Styret har innhentet prisoverslag, og det antydes en pris pa omtrent kr 20 000 pr balkong. Styret mener dette
+er for kostbart.
+Forslag til vedtak
+Det monteres takrenner pa balkongene slik at ovennevnte problemer og utfordringer kan unngas.
+
+6 av 34
+
+Sak 9
+Utvidet bruk av fellesvaskeri
+Forslag fremmet av:
+Ruth Therese og Kristian Brokstad
+Krav til flertall:
+Alminnelig (50%)
+Vi onsker med dette 4 fremme et forslag om at vaskemaskinene i borettslagets fellesvaskeri ogsa kan benyttes
+pa sendager og helligdager, forutsatt at bruken skjer innenfor de tidsrammene som allerede er definert som
+akseptable i henhold til husordensreglene.
+Bakgrunnen for forslaget er et anske om 4 gjore fellesfasilitetene mer fleksible og tilgjengelige for beboerne.
+| en travel hverdag kan det vzere utfordrende 4 finne tid til klesvask innenfor et begrenset antall dager, og for
+mange vil nettopp sondager og helligdager vaere de dagene hvor man har best anledning til 4a ta seg av slike
+praktiske oppgaver.
+Nar det gjelder eventuelle ulemper, szerlig knyttet til stey og vibrasjoner, er det verdt a merke seg at
+vaskemaskinene er plassert i kjelleren. Vibrasjoner fra bruk vil derfor i stor grad ledes ned i grunnen, og vi
+antar at dette ikke vil medfore mer sjenanse enn det som allerede oppstar ved bruk av private vaskemaskiner
+i de ulike leilighetene i bygget.
+Forslaget innebzerer ikke en utvidelse av tidsrommet for bruk, men kun en apning for at eksisterende
+tidsrammer ogsa skal gjelde pa sendager og helligdager. Dette sikrer at hensynet til ro og trivsel fortsatt
+ivaretas.
+Jeg haper arsmetet vil se positivt pa forslaget, som etter min vurdering vil bidra til okt fleksibilitet og bedre
+utnyttelse av borettslagets felles fasiliteter, uten 4 g4 pa bekostning av bomiljeet.
+Styrets innstilling
+Avventer tilbakemelding fra forslagsstiller iom at det allerede er apent pa sendager.
+Forslag til vedtak
+Borettslagets fellesvaskeri kan benyttes pa sendager og helligdager, forutsatt at bruken skjer innenfor de
+tidsrammene som allerede er definert som akseptable i henhold til husordensreglene.
+Sak 10
+Bommen foran 22 blokken
+Forslag fremmet av:
+Charlotte Fjell Lindman
+Krav til flertall:
+Alminnelig (50%)
+Hei,
+
+Jav 34
+
+Jeg sendte inn dette forslaget like etter jul. Men fikk ikke ordentlig svar fra styret. Vil gjerne det taes opp.
+Jeg onsker a sende inn et forslag om 4 ta ned bommen foran 22 som ble satt opp i sommer.
+Argumenter:
+1. Den gjor det mer tungvint a bo her, da det ikke lenger er enkelt 4 kjore opp til deren for de som faktisk bor i
+blokken med f.eks. tunge varer.
+2. Argumentet for 4 sette den opp var at det parkerer biler her oppe. Det var etter min mening ikke et stort
+problem i utgangspunktet og det har ikke endret noe 4 sette opp en bom alle kan apne. Den har vel heller
+motsatt effekt, da de som ferst har kjert giennom blir staende lenger.
+3. Den fungerer ikke med tanke pa at offentlige biler/taxier/oda kjorer opp pa gresset for 4 komme forbi uten
+& apne bommen.
+4. Det er en handicap plass her oppe som mister noe av effekten sin om man ma ut og inn av bilen raskt (fordi
+bommen lukker seg for fort) for 4 komme til den.
+5. Biler har begynt 4 stille seg foran bommen i stede for 4 kjore opp. F.eks. for 4 levere noe. Og star dai veien
+for andre biler som vil opp.
+6. Det er personer i forskjellige livsfaser i blokken. Jeg har selv hatt et ar der jeg har hatt problemer med a ga
+og har hatt stor nytte av 4 enkelt bli sluppet av og hentet ved deren. Jeg er frisk na og dette gjelder jo ikke alle,
+men jeg tenker at det beste er a ikke ha bom med mindre det er virkelig nodvendig.
+7. Det gikk ikke an 4 stemme for at den skulle opp, den ble bare satt opp.
+Styrets innstilling
+Styrets innstilling er at bommen skal bli, i likhet med de andre i omadet. Sa vidt vi vet, er arsaken til at bom ikke
+har blitt satt opp for hensyn til tidligere beboer som hadde behov for HC-parkering.
+Bommen foran D22 gjer at det blir samme praksis med innkjering for alle blokkene.
+Forslag til vedtak
+Ta ned bommen foran 22 blokken.
+Sak 11
+Valg av revisor
+Krav til flertall:
+Alminnelig (50%)
+Som kjent byttet dere til Ernst & Young AS 9. desember 2025.
+Dette har oppstatt etter byttet.
+TC Newco Norway IV AS (organisasjonsnummer 936295800) velges som borettslagets revisor. TC Newco
+Norway IV AS er et heleid datterselskap av Ernst & Young AS, og forventes overdratt til Cedra Group Norge AS
+4. juli 2026.
+Generalforsamlingen samtykker til at relevant kunde- og oppdragsrelatert informasjon, herunder
+personopplysninger, kan overferes fra Ernst & Young AS til TC Newco Norway IV AS. Det samtykkes ogsa
+
+8 av 34
+
+til at identitetsopplysninger og andre personopplysninger innhentet i henhold til hvitvaskingslovgivningen for
+personer tilknyttet virksomheten samt reelle rettighetshavere kan overferes til TC Newco Norway IV AS.
+Forretningsferer gis fullmakt til 4 akseptere beskrevet overlevering til TC Newco Norway IV AS.
+Forslag til vedtak
+TC Newco Norway IV AS (organisasjonsnummer 936295800) velges som borettslagets revisor. TC Newco
+Norway IV AS er et heleid datterselskap av Ernst & Young AS, og forventes overdratt til Cedra Group Norge AS
+1. juli 2026. Generalforsamlingen samtykker til at relevant kunde- og oppdragsrelatert informasjon, herunder
+personopplysninger, kan overferes fra Ernst & Young AS til TC Newco Norway IV AS. Det samtykkes ogsa
+til at identitetsopplysninger og andre personopplysninger innhentet i henhold til hvitvaskingslovgivningen for
+personer tilknyttet virksomheten samt reelle rettighetshavere kan overferes til TC Newco Norway IV AS.
+Forretningsferer gis fullmakt til 4 akseptere beskrevet overlevering til TC Newco Norway IV AS.
+Sak 12
+Nye inngangspartier.
+Krav til flertall:
+Alminnelig (50%)
+Flere av inngangspartiene er slitt og har sterkt behov for vedlikehold/oppgradering. Dette gjelder spesielt for
+nr, 14, 16 og 20. Vedlagte skisser viser hvordan de ser ut i dag og forslag til hvordan oppgraderingen kan
+loses. Styret onsker a giennomfere vedlikehold/oppgradering av samtlige inngangspartier. | nr. 12, 18 og 22
+vil vi ogsa foreta et vedlikehold av inngangspartiene, med oppgradering av tak og vegger, samt ny og bedre
+belysning.
+Styrets innstilling
+Styret mener at vedlikehold uansett er nedvendig. Foreslatte losning vil heve standarden i borettslaget.
+Forslag til vedtak
+Arsmotet godkjenner at styret far oppgradert inngangspartiene med en ramme pa kr 1 000 000,- eks mva
+Vedlegg
+2. Eksisterende_inng_durud_brl.jpeg
+35. Forslag_inng_Durud_brl.pdf
+Sak 13
+Valg av tillitsvalgte
+Roller og kandidater
+Valg av 1 styreleder Velges for 2 ar
+Felgende stiller til valg som styreleder:
+
+¢ Magnar Nicolai Sture Dalen
+
+9 av 34
+
+Stiller til gienvalg, etter a ha veert styreleder i 3 ar i borettslaget. Utdannet sykepleier og @konom. Er
+pensjonist, og har tidligere jobbet i administrasjonen i Oslo kommune.
+Valg av 2 styremedlem Velges for 2 ar
+Felgende stiller til valg som styremediem:
+¢ Fritjof Eilertsen
+Jeg sitter som tillitsvalgt i lokallaget Akershus i Autismeforeningen, og er med som styremedlem i
+interimstyret i Par@grendeunionen.
+Til daglig jobber jeg deltid i et lite firma som har med utviklingshemmede a gjgre. Min sjef holder kurs for blant
+annet de som jobered gruppen. Jeg er kontormedarbeider og utferer ulike oppdrag der.
+Jeg er ellers frivillig i bade fotball og handball og noe i friidrett. Og er avilaster i en familie, som jeg har vzert i
+mange ar na.
+Jeg kan, om jeg blir valgt i styret, er kan jeg gijerne brukes til datating, men og @nske om a bidra til at regler
+gjeldende parkering overholdes. Ellers med pa a bista med oppgaver der ansvarlig ikke er tilgjengelig.
+¢ Geir Kristian Nzess
+Jeg stiller til gijenvalg etter tre ar i styret, og haper a kunne bidra videre. De to forste arene hadde jeg ansvar
+for parkering, og har ogsa jobbet med a strukturere styrets e-post og dokumenter for a gjore arbeidet mer
+oversiktlig.
+Til daglig jobber jeg med drift i et forretningsjuridisk advokatfirma i Oslo, og har tidligere mange ars erfaring
+med ledelse og personalansvar. Jeg opplever at denne bakgrunnen er nyttig i styrearbeidet.
+Jeg er lasningsorientert og opptatt av godt samarbeid, og haper pa fornyet tillit.
+¢ Ole Morten Finstad
+Jeg har bodd i Durud Borettslag siden 1977 og har jobbet som vaktmester her i 18 ar og sittet i styret for.Gikk
+av med pensjonen i 2025 Jeg tror jeg kjenner borettslaget ganske godt og vet hva som trengs og gjgre og ikke.
+Jeg kan ogsa gjore noe fysisk arbeid slik at vi kan kutte noe av vaktmestertjenesten for og spare noe penger
+¢ Siri Wengaard Berger
+Jeg vil gjerne stille til valg som styremedlem i Durud borettslag. Jeg heter Siri Wengaard Berger og har
+bodd i Durudveien siden august 2024. Jeg er 44 ar, er utdannet eiendomsmegler og jobber til daglig i avisen
+Klassekampen som salgssjef hvor jeg har jobbet i 9 ar. Jeg har god erfaring med styrearbeid og administrativt
+arbeid. Jeg har tidligere sittet i styret i Sameiet Uranienborg, og sitter i dag i styret for Klassekampen hvor
+jeg har sittet i 2 ar.
+Jeg er positiv av natur, zerlig, rettferdig og jeg vant til a tai et tak. Jeg haper jeg kan fa bidra positivt til styrets
+arbeid for neste periode.
+Sak 14
+Valgkomité
+Roller og kandidater
+10 av 34

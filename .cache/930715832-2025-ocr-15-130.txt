@@ -1,0 +1,371 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 461032
+Virksomheten
+Organisasjonsnummer : 930 715 832
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NOSA INVEST AS
+Forretningsadresse: Buengvegen 28B
+7099 FLATASEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: GEIR OLAV SINGSTAD
+Dato for fastsettelse av arsregnskapet: 20.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 21.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 715 832
+
+NOSA INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 10 000
+
+Annen driftskostnad 26 170 17 308
+
+Sum kostnader 26 170 27 308
+
+Driftsresultat -26 170 -27 308
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 1 165 459
+
+Annen finansinntekt 1 250 000 430 000
+
+Sum finansinntekter 251 165 430 459
+
+Annen rentekostnad 48 923 123 907
+
+Annen finanskostnad 1
+
+Sum finanskostnader 48 923 123 907
+
+Netto finans 202 242 306 552
+
+Resultat fer skattekostnad 176 O72 279 244
+
+Skattekostnad pa resultat 2 -2 116
+
+Arsresultat 3 176 072 281 360
+
+Arsresultat etter
+
+minoritetsinteresser 176 072 281 360
+
+Totalresultat 176 072 281 360
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 176 072 281 360
+
+Sum overferinger og
+
+disponeringer 176 072 281 360
+Utskriftsdato 21.05.2026 Organisasjonsnr 930 715 832 Side 1 av 3
+
+Organisasjonsnr: 930 715 832
+NOSA INVEST AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 2
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 1 2 500 000 2 500 000
+Andre langsiktige
+fordringer 4
+Sum finansielle
+anleggsmidler 2 500 000 2 500 000
+Sum anleggsmidler 2 500 000 2 500 000
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 4 25 000 430 000
+Sum fordringer 25 000 430 000
+Investeringer
+Aksjer og andeler 1
+foretak i samme konsern 1
+Markedsbaserte aksjer 1
+Markedsbaserte obligasjoner 1
+Andre markedsbaserte
+finansielle instrumenter 1
+Andre finansielle
+instrumenter 1
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 88 443 73 593
+Sum bankinnskudd,
+kontanter og lignende 88 443 73 593
+Sum omlepsmidler 113 443 503 593
+SUM ELENDELER 2 613 443 3 003 593
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Utskriftsdato 21.05.2026 Organisasjonsnr 930 715 832 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital 5 30 000 30 000
+
+Beholdning av egne aksjer 5
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 3 1 128 413 952 341
+
+Sum opptjent egenkapital 1128 413 952 341
+
+Sum egenkapital 3 1158 413 982 341
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 4
+
+Langsiktig konserngjeld 4
+
+@vrig langsiktig gjeld 4 1 454 693 2 017 770
+
+Sum annen langsiktig gjeld 1 454 693 2 017 770
+
+Sum langsiktig gjeld 1 454 693 2 017 770
+
+Kortsiktig gjeld
+
+Leverandergjeld 338 1 113
+
+Betalbar skatt 2
+
+Annen kortsiktig gjeld 2 370
+
+Sum kortsiktig gjeld 338 3 483
+
+Sum gjeld 1 455 031 2 021 253
+
+SUM EGENKAPITAL OG GJELD 2 613 443 3 003 593
+Utskriftsdato 21.05.2026 Organisasjonsnr 930 715 832 Side 3 av 3
+
+Organisasjonsnr: 930 715 832
+
+NOSA INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Nosa Invest AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 930 715 832
+
+RESULTATREGNSKAP |
+NOSA INVEST AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Lénnskostnad 0 10 000
+Annen driftskostnad 26 170 17 308
+Sum driftskostnader 26 170 27 308
+Driftsresultat -26 170 -27 308
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 1165 459
+Annen finansinntekt 1 250 000 430 000
+Annen rentekostnad 48 923 123 907
+Resultat av finansposter 202 242 306 552
+Resultat for skattekostnad 176 072 279 244
+Skattekostnad pa resultat 2 0 -2 116
+Arsresultat 3 176 072 281 360
+OVERF@RINGER
+
+Avsatt til annen egenkapital 176 072 281 360
+Sum overfgringer 176 072 281 360
+NOSA INVEST AS SIDE 2
+
+BALANSE |
+
+NOSA INVEST AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i aksjer og andeler 1 2 500 000 2 500 000
+Sum finansielle anleggsmidler 2 500 000 2 500 000
+Sum anleggsmidler 2 500 000 2 500 000
+OML@PSMIDLER
+FORDRINGER
+Andre kortsiktige fordringer 4 25 000 430 000
+Sum fordringer 25 000 430 000
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 88 443 73 593
+Sum omlgpsmidler 113 443 503 593
+Sum eiendeler | 2613 443 3.003 593 |
+NOSA INVEST AS SIDE 3
+
+BALANSE |
+NOSA INVEST AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 5 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 3 1128 413 952 341
+Sum opptjent egenkapital 1128 413 952 341
+Sum egenkapital 3 1158 413 982 341
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Pvrig langsiktig gjeld 4 1 454 693 2 017 770
+Sum annen langsiktig gjeld 1 454 693 2 017 770
+KORTSIKTIG GJELD
+Leverandgrgjeld 338 1113
+Annen kortsiktig gjeld 0 2 370
+Sum kortsiktig gjeld 338 3 483
+Sum gjeld 1 455 031 2 021 253
+Sum egenkapital og gjeld | 2613443 3 003593
+Flatasen, 19.05.2026
+Styret i Nosa Invest AS
+GEIR OLAV SINGSTAD Kine Knutsen Monkvik
+styreleder/daglig leder styremediem
+NOSA INVEST AS SIDE 4
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+ARTEN AV VIRKSOMHET OG HVOR VIRKSOMHETEN DRIVES
+
+Selskapet driver med investering i aksjer i andre selskaper i Trondheim kommune.
+
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Oml¢psmidler og kortsiktig gijeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+FORDRINGER
+
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Note 1 Verdipapirer
+Eier- Anskaffelses Balansefgrt
+
+andel kost verdi
+AS Byggservice 10,0% 2 500 000 2 500 000
+Sum 2 500 000 2 500 000
+Note 2 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 -2 116
+Skattekostnad ordinzert resultat 0 -2 116
+Skattepliktig inntekt:
+Resultat for skatt 176 072 279 244
+Permanente forskjeller -237 100 -409 480
+Skattepliktig inntekt -61 028 -130 236
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Inntektsfgrt avsatt utbytte 7500 12 900 5 400
+Akkumulert fremfgrbart underskudd -202 167 -141 139 61 028
+Inngar ikke i beregningen av utsatt skatt 194 667 128 239 -66 428
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+
+Note 3 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Stiftelse 04.01.2023 30 000 0 0 952 341 982 341
+Arets resultat 176 072 176 072
+Pr 31.12.2025 30 000 0 0 1128 413 1 158 413
+Arsregnskapet er fastsatt under forutsetning om fortsatt drift, og styret bekrefter at forutsetningen er
+tilstede.
+Note 4 Fordringer og gjeld
+All langsiktig gjeld forfaller innen 5 ar.
+Note 5 Aksjonzrer
+AKSJEKAPITALEN | NOSA INVEST AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfgrt
+Ordinzre aksjer 30 1 000,0 30 000
+Sum 30 30 000
+EIERSTRUKTUR
+De stgrste aksjonzrene i % pr. 31.12 var:
+Ordinzre Eierandel Stemmeandel
+GEIR OLAV SINGSTAD 30 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Verv Ordinzere
+GEIR OLAV SINGSTAD styreleder/daglig leder 30
+Totalt antall aksjer 30

@@ -1,0 +1,484 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 648997
+Virksomheten
+Organisasjonsnummer : 914 170 125
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MAPOGRAPHICS AS
+Forretningsadresse: c/o Lars Erik Mangset
+Saxegaardsgata 1
+0192 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Lars Erik Mangset
+Dato for fastsettelse av Aarsregnskapet: 19.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 07.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 914 170 125
+
+MAPOGRAPHICS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 33 815 31 751
+
+Sum inntekter 33 815 31 751
+
+Kostnader
+
+Varekostnad 12 715 10 302
+
+Annen driftskostnad 40 774 34 836
+
+Sum kostnader 53 489 45 138
+
+Driftsresultat -19 674 -13 387
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 0 609
+
+Sum finansinntekter 0 609
+
+Annen finanskostnad 993 0
+
+Sum finanskostnader 993 e)
+
+Netto finans -993 609
+
+Resultat fer skattekostnad -20 668 -12 778
+
+Arsresultat -20 668 -12 778
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 1 -20 668 -12 778
+Utskriftsdato 07.07.2026 Organisasjonsnr 914 170 125 Side 1 av 3
+
+Organisasjonsnr: 914 170 125
+
+MAPOGRAPHICS AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 1 215 2 366
+
+Andre kortsiktige
+
+fordringer 2 3 819 3 820
+
+Sum fordringer 5 034 6 186
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 93 571 115 093
+
+Sum bankinnskudd,
+
+kontanter og lignende 93 571 115 093
+
+Sum omlepsmidler 98 605 121 279
+
+SUM ELENDELER 98 605 121 279
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 1, 3, 4 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Udekket tap 1 88 923 68 256
+
+Sum opptjent egenkapital -88 923 -68 256
+Utskriftsdato 07.07.2026 Organisasjonsnr 914 170 125 Side 2 av 3
+
+Sum egenkapital 3 -58 923 -38 256
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 15 263 13 768
+
+Annen kortsiktig gjeld 142 265 145 766
+
+Sum kortsiktig gjeld 157 528 159 534
+
+Sum gjeld 157 528 159 534
+
+SUM EGENKAPITAL OG GJELD 98 605 121 279
+Utskriftsdato 07.07.2026 Organisasjonsnr 914 170 125 Side 3 av 3
+
+Organisasjonsnr: 914 170 125
+
+MAPOGRAPHICS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som
+
+er knyttet til varekretslepet er klassifisert som omle@psmidler. Fordringer
+klassifiseres som omlepsmidler hvis de forfaller til betaling innen ett ar
+etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig
+hvis gjelden forfaller til betaling innen ett 4ar.
+
+Omlepsmidler vurderes
+
+til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+Fordringer og gjeld i utenlandsk valuta er verdsatt til kursen ved
+regnskapsarets slutt. Kursgevinster og kursstap i utenlandsk valuta fores
+som finansinntekt og finanskostnad.
+
+Selskapet har ikke endret
+
+regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+3
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Selskapets egenkapital er tapt. Styret vil i 2026 ta stilling til veien
+videre for selskapet, og vurdere om innlan i selskapet skal konverteres til
+aksjekapital.
+
+Pr. 31.12.2025 har ikke selskapet andre kreditorer enn
+
+selskapets egen aksjonerer. Aksjonerenes krav mot selskapet star tilbakefor
+@vrige kreditorers krav.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+Mer om lan og sikkerhetsstillelse
+
+Arsregnskap for
+MAPOGRAPHICS AS
+914170125
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+BanklD Qualified Signing ;
+MAPOGRAPHICS AS Ce Oe a Oe aramendh f
+914170 125 BankID Qualified Signing
+
+Mangset, Lars Enk
+
+2026-06-15
+Resultatregnskap
+
+Note 2025 2024
+
+Driftsinntekter
+Salgsinntekt 33 815 31 751
+Sum driftsinntekter 33 815 31 751
+Driftskostnader
+Varekostnad -12 715 -10 302
+Annen driftskostnad -40 774 -34 836
+Sum driftskostnader -53 489 -45 138
+Driftsresultat -19 674 -13 387
+Finansinntekter
+Annen finansinntekt 0 609
+Sum finansinntekter 0 609
+Finanskostnader
+Annen finanskostnad -993 0
+Sum finanskostnader -993 0
+Netto finans -993 609
+Arsresultat -20 668 -12 778
+Overforinger
+Udekket tap 1 -20 668 -12 778
+Sum overferinger -20 668 -12 778
+
+BanklD Qualified Signing ;
+MAPOGRAPHICS AS S60 mene
+914170 125 BankID Qualified Signing
+Mangset, Lars Enk
+2026-06-15
+Balanse
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Fordringer
+Kundefordringer 1215 2 366
+Andre kortsiktige fordringer 2 3 819 3 820
+Sum fordringer 5 034 6 186
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 93 571 115 093
+Sum bankinnskudd, kontanter og lignende 93 571 115 093
+Sum omlgpsmidler 98 605 121 279
+SUM EIENDELER 98 605 121 279
+
+BanklD Qualified Signing ;
+MAPOGRAPHICS AS S60 mene
+914170 125 BankID Qualified Signing
+Mangset, Lars Enk
+2026-06-15
+Balanse
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 1,3,4 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Udekket tap 1 -88 923 -68 256
+Sum opptjent egenkapital -88 923 -68 256
+Sum egenkapital 3 -58 923 -38 256
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 15 263 13 768
+Annen kortsiktig gjeld 142 265 145 766
+Sum kortsiktig gjeld 157 528 159 534
+Sum gjeld 157 528 159 534
+SUM EGENKAPITAL OG GJELD 98 605 121 279
+OSLO, 19.05.2026
+Pablo Izquierdo Ruiz De Lars Erik Mangset
+Larramendi styremediem / daglig leder
+styrets leder
+
+BanklD Qualified Signing ;
+MAPOGRAPHICS AS S60 mene
+914 170 125 BankID Qualified Signing
+Mangset, Lars Enk
+2026-06-15
+Noter
+Arten av virksomhet og hvor virksomheten drives
+Maporgraphics AS selger kart til kunder over hele verden. Selskapet er heldigitalt men har sin base i Oslo.
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+Klassifisering og vurdering av balanseposter
+Eiendeler som er knyttet til varekretslgpet er klassifisert som oml@psmidler. Fordringer klassifiseres som
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld
+som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Forevrig er folgende regnskapsprinsipper anvendt:
+Fordringer og gjeld i utenlandsk valuta er verdsatt til kursen ved regnskapsarets slutt. Kursgevinster og kursstap
+i utenlandsk valuta feres som finansinntekt og finanskostnad.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Note 1 - Egenkapital
+Aksjekapital Udekket tap sum
+Egenkapital 31.12.2024 30 000 -68 256 -38 256
+Arsresultat 0 -20 668 -20 668
+Egenkapital 31.12.2025 30 000 -88 923 -58 923
+Note 2 - Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+Note 3 - Usikkerhet om fortsatt drift
+Det er knyttet usikkerhet til fortsatt drift.
+Selskapets egenkapital er tapt. Styret vil i 2026 ta stilling til veien videre for selskapet, og vurdere om innlan i
+selskapet skal konverteres til aksjekapital.
+Pr. 31.12.2025 har ikke selskapet andre kreditorer enn selskapets egen aksjoneerer. Aksjoneerenes krav mot
+selskapet star tilbakefor @vrige kreditorers krav.
+
+BanklD Qualified Signing ;
+MAPOGRAPHICS AS Ce Oe a Oe aramendh f
+914 170 125 BankID Qualified Signing
+Mangset, Lars Enk
+2026-06-15
+Note 4 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfort verdi
+Ordingere 30 1 000 30 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+Lars Erik Mangset 15 50,00 Ordinzere
+Pablo Izquierdo Ruiz de Larramendi 15 50,00 Ordineere
+Totalt antall aksjer 30 100
+Antall arsverk
+Selskapet har ikke hatt ansatte i |Igpet av regnskapsaret.
+
+Arsregnskap for
+MAPOGRAPHICS AS
+914170125
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+MAPOGRAPHICS AS
+914170125
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 33 815 31 751
+Sum driftsinntekter 33 815 31 751
+Driftskostnader
+Varekostnad -12 715 -10 302
+Annen driftskostnad -40 774 -34 836
+Sum driftskostnader -53 489 -45 138
+Driftsresultat -19 674 -13 387
+Finansinntekter
+Annen finansinntekt 0 609
+Sum finansinntekter 0 609
+Finanskostnader
+Annen finanskostnad -993 0
+Sum finanskostnader -993 0
+Netto finans -993 609
+Arsresultat -20 668 -12 778
+Overforinger
+Udekket tap 1 -20 668 -12 778
+Sum overferinger -20 668 -12 778
+
+MAPOGRAPHICS AS
+914 170 125
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Fordringer
+Kundefordringer 1215 2 366
+Andre kortsiktige fordringer 2 3 819 3 820
+Sum fordringer 5 034 6 186
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 93 571 115 093
+Sum bankinnskudd, kontanter og lignende 93 571 115 093
+Sum omlgpsmidler 98 605 121 279
+SUM EIENDELER 98 605 121 279

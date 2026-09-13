@@ -1,0 +1,424 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 397878
+Virksomheten
+Organisasjonsnummer : 919 496 401
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NARANJO 1 AS
+Forretningsadresse: Damsgardsveien 77
+5058 BERGEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Odd Terje Alpen
+Dato for fastsettelse av arsregnskapet: 16.02.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 919 496 401
+
+NARANJO 1 AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salsinntekt 40 000
+
+Anna driftsinntekt 1 156 320
+
+Sum inntekter 1 156 320 40 000
+
+Kostnader
+
+Avskriving 1 16 685
+
+Annan driftskostnad 156 004 119 120
+
+Sum kostnader 2 156 004 135 805
+
+Driftsresultat 1 000 315 -95 805
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 108 41
+
+Anna finansinntekt 91
+
+Sum finansinntekter 199 41
+
+Annen rentekostnad 19 920 276 538
+
+Annan finanskostnad 3 606
+
+Sum finanskostnader 23 526 276 538
+
+Netto finans -23 327 -276 497
+
+Resultat fer skattekostnad 3 976 988 -372 302
+
+Arsresultat 4 976 988 -372 302
+
+Arsresultat etter
+
+minoritetsinteresser 976 988 -372 302
+
+Totalresultat 976 988 -372 302
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 976 988 -372 302
+
+Sum overferinger og
+
+disponeringer 976 988 -372 302
+Utskriftsdato 27.04.2026 Organisasjonsnr 919 496 401 Side 1 av 3
+
+Organisasjonsnr: 919 496 401
+
+NARANJO 1 AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Varige driftsmidler
+
+Tomter, bygningar og
+
+annan fast eigedom 1 4 578 825
+
+Maskinar og anlegg 1
+
+Skip, riggar, fly og
+
+liknande 1
+
+Driftslaus@yre, inventar,
+
+verktay, kontormaskinar
+
+og liknande 1 66 737
+
+Sum varige driftsmidler 1 4 645 562
+
+Sum anleggsmidler 4 645 562
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundekrav 10 000
+
+Andre kortsiktige krav 5 269 973
+
+Sum fordringer 5 269 973 10 000
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskot, kontantar og
+
+liknande 139 909 7 204
+
+Sum bankinnskudd,
+
+kontanter og lignende 139 909 7 204
+
+Sum omlepsmidler 5 409 882 17 204
+
+SUM ELENDELER 5 409 882 4 662 766
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5 1 500 000 1 500 000
+
+Beholdning av egne aksjer 5
+
+Sum innskutt egenkapital 1 500 000 1 500 000
+
+Opptijent egenkapital
+
+Udekket tap 6 318 432 1 295 420
+Utskriftsdato 27.04.2026 Organisasjonsnr 919 496 401 Side 2 av 3
+
+Sum opptjent egenkapital -318 432 -1 295 420
+
+Sum egenkapital 4 1 181 568 204 580
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 7
+
+@vrig langsiktig gjeld 7 2 660 000 2 660 000
+
+Sum annen langsiktig gjeld 2 660 000 2 660 000
+
+Sum langsiktig gjeld 2 660 000 2 660 000
+
+Kortsiktig gjeld
+
+Leverandergjeld 10 365 75 619
+
+Betalbar skatt 3
+
+Anna kortsiktig gjeld 1 557 949 1 722 568
+
+Sum kortsiktig gjeld 1 568 314 1 798 187
+
+Sum gjeld 4 228 314 4 458 187
+
+SUM EGENKAPITAL OG GJELD 5 409 882 4 662 766
+Utskriftsdato 27.04.2026 Organisasjonsnr 919 496 401 Side 3 av 3
+
+Organisasjonsnr: 919 496 401
+
+NARANJO 1 AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Ove Elingson
+2026-02-16
+Odd Tere Aon
+2026-02-17
+°
+Arsrekneskap 2025
+Naranjo 1 AS
+Resultatrekneskap
+Balanse
+Notar til rekneskapen
+A Org.nr.: 919 496 401
+
+RESULTATREKNESKAP |
+NARANJO 1 AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salsinntekt 0 40 000
+Anna driftsinntekt 1 156 320 0
+Sum driftsinntekter 1 156 320 40 000
+Avskriving 1 0 16 685
+Annan driftskostnad 156 004 119 120
+Sum driftskostnader 2 156 004 135 805
+Driftsresultat 1000 315 -95 805
+FINANSINNTEKTER OG FINANSKOSTNADER
+Anna renteinntekt 108 41
+Anna finansinntekt 91 8)
+Annan rentekostnad 19 920 276 538
+Annan finanskostnad 3 606 0
+Resultat av finanspostar -23 327 -276 497
+Resultat for skattekostnad 3 976 988 -372 302
+Resultat 976 988 -372 302
+EKSTRAORDINAERE INNTEKTER OG KOSTNADER
+Arsresultat 4 976 988 -372 302
+OVERF@RING
+Avsett til dekning av tidligare udekket tap 976 988 0
+Overfgrt til udekt tap 0 372 302
+Sum overfgringar 976 988 -372 302
+NARANJO 1 AS SIDE 2
+
+BALANSE |
+
+NARANJO 1 AS
+EIGEDELAR Note 2025 2024
+ANLEGGSMIDDEL
+IMMATERIELLE EIGEDELER
+VARIGE DRIFTSMIDDEL
+Tomter, bygningar og annan fast eigedom 1 0 4578 825
+Driftslaus@yre, inventar, verktdy, kontormaskinar og liknande 1 0 66 737
+Sum varige driftsmiddel 1 0 4 645 562
+FINANSIELLE ANLEGGSMIDDEL
+Sum anleggsmiddel 0 4 645 562
+OML@PSMIDDEL
+KRAV
+Kundekrav 0 10 000
+Andre kortsiktige krav 5 269 973 0
+Sum krav 5 269 973 10 000
+INVESTERINGAR
+Bankinnskot, kontantar og liknande 139 909 7 204
+Sum omlgpsmiddel 5 409 882 17 204
+Sum eigedelar 5 409 882 4 662 766
+NARANJO 1 AS SIDE 3
+
+BALANSE |
+NARANJO 1 AS
+EIGENKAPITAL OG GJELD Note 2025 2024
+EIGENKAPITAL
+INNSKOTEN EIGENKAPITAL
+Aksjekapital 5 1 500 000 1 500 000
+Sum innskoten eigenkapital 1 500 000 1 500 000
+OPPTENT EIGENKAPITAL
+Udekt tap 6 -318 432 -1 295 420
+Sum opptent eigenkapital -318 432 -1 295 420
+Sum eigenkapital 4 1181 568 204 580
+GJELD
+AVSETJING TIL PLIKTER
+@VRIG LANGSIKTIG GJELD
+Pvrig langsiktig gjeld 7 2 660 000 2 660 000
+Sum anna langsiktig gjeld 2 660 000 2 660 000
+KORTSIKTIG GJELD
+Leverandgrgjeld 10 365 75 619
+Anna kortsiktig gjeld 1557 949 1 722 568
+Sum kortsiktig gjeld 1 568 314 1 798 187
+Sum gijeld 4 228 314 4 458 187
+Sum eigenkapital og gjeld 5 409 882 4 662 766
+Bergen , 16.02.2026
+Styret i Naranjo 1 AS
+Odd Terje Alpen Ove Ellingsen Alf Ole Grimstad
+styreleiar styremedlem/dagleg leiar styremedlem
+NARANJO 1 AS SIDE 4
+
+Rekneskapsprinsipp
+Arsrekneskapen er sett opp i samsvar med rekneskapslova og NRS 8, God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+Inntektsfgring ved sal av varer skjer pa leveringstidspunktet. Tenester blir inntektsfgrte etter kvart som dei
+blir leverte.
+SKATT
+Skattekostnaden i resultatrekneskapen omfattar bade den betalbare skatten i perioden og endring i utsett
+skatt. Utsett skatt er rekna ut med 22 % pa grunnlag av dei mellombelse skilnadene mellom rekneskaps- og
+skatteverdiane, og underskotet ved utgangen av rekneskapsaret som kan framf¢rast i likninga.
+Skatteaukande og skattereduserande mellombelse skilnader som reverserer eller kan reverserast i den
+same perioden, er utlikna og nettofgrte.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLAR
+Omlgpsmidlar og kortsiktig gijeld omfattar normalt postar som forfell til betaling seinast eitt ar etter
+balansedagen, og postar som gjeld varekrinslgpet. Omlgpsmidlar blir vurderte til lagaste verdi av
+innkjgpskostnad og verkeleg verdi.
+FORDRINGAR
+Kundefordringar og andre fordringar blir forte opp til palydande verdi etter fradrag for avsetning til
+forventa tap. Avsetning til tap blir gjort pa grunnlag av ei individuell vurdering av dei enkelte fordringane.
+Note 1 Anleggsmiddel
+Bygningar Driftslds@re, Sum
+og tomter inventar ol.
+Innkjgpskostnad pr. 01.01.25 4578 825 318 229 4 897 054
+- Avgang i aret 4578 825 275 039 4 853 864
+= Innkj@pskostnad 31.12.25 0 43 190 43 190
+Akkumulerte avskrivingar 31.12.25 43 190 43 190
+= Bokfort verdi 31.12.25 0 0 0
+®konomisk levetid 5 ar
+Note 2 Lonskostnader
+Naranjo 1 AS har ikkje hatt lgns- eller personalkostnader i 2025 og det finst heller ingen slike plikter.
+Note 3 Skatt
+Skattekostnad dette aret 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Skatt som skal betalast 0 0
+Endring i utsett skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+
+Skattepliktig inntekt:
+Resultat for skatt 976 988 -372 302
+Permanente skilnader 0 0
+Endring i mellombelse skilnader 0 1
+Bruk av underskott for framfgring -976 988 0
+Skattepliktig inntekt 0 -372 302
+Skatt i balansen som skal betalast:
+Skatt pa resultatet dette aret som skal betalast 0 0
+Sum skatt i balansen som skal betalast 0 0
+Skatteeffekten av mellombelse skilnader og underskott til framfgring som har gjeve opphav til utsett skatt
+og utsette skattefordelar, spesifisert pa typar av mellombelse skilnader
+2025 2024 Endring
+Akkumulert underskott som kan framfgrast -307 017 -1 284005 -976 988
+Inngar ikkje i utrekninga av utsett skatt 307 017 1 284 005 976 988
+Utsett skattefordel (22 %) 0 0 0
+Etter God regnskapsskikk for sma fgretak vert ikkje utsett skattefordel balansefgrt.
+Note 4 Eigenkapital
+Aksjekapital Overkurs Annan Sum eigenkapital
+eigenkapital
+Per 31.12.2024 1500 000 0 -1 295 420 204 580
+Endringar forte mot EK 0 0
+Per 01.01.2025 1500 000 0 -1 295 420 204 580
+Arets resultat 976 988 976 988
+Konsernbidrag motteke 0 0
+Per 31.12.2025 1500 000 0 -318 432 1 181 568
+Note 5 Aksjonzrar
+AKSJEKAPITALEN | NARANJO 1 AS PR. 31.12 ER SETT SAMAN AV:
+Antal Palydande Bokfgrt
+Ordinzre aksjar 1 500 1 000,0 1 500 000
+Sum 1500 1 500 000
+EIGARSTRUKTUR
+Dei stg@rste aksjonzerane i % pr. 31.12 var:
+Ordinzre Eigarandel Stemmedel
+Ellingsen & Alpen AS 1 500 100,0 100,0
+
+Note 6 Vidare drift
+
+Resultatet for 2025 viser eit resultat pa kr 976 988 etter skatt, mot kr -372 302 i 2024. Soliditeten og
+likviditeten er god, og det er ikkje noko som indikerer at drifta ikkje kan halde fram. Styret vurderer at det
+framleis er fgresetnader for vidare drift og legg det til grunn for arbeidet sitt.
+
+Note 7 Anna langsiktig gjeld
+
+Gjeld som forfell meir enn fem ar 2025 2024
+etter at rekneskapsaret er slutt:
+
+Konvertible lan 0 0
+Obligasjonslan 0 0
+Gjeld til kredittinstitusjonar 0 0
+Anna langsiktig gjeld 2 660 000 2 660 000
+Sum anna langsiktig gjeld 2 660 000 2 660 000

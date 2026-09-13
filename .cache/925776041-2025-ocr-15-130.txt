@@ -1,0 +1,443 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 544179
+Virksomheten
+Organisasjonsnummer : 925 776 041
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: WILD GEAR AS
+Forretningsadresse: Tajeveien 1
+3470 SLEMMESTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Morten Andresen Hilstrem
+Dato for fastsettelse av arsregnskapet: 12.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 925 776 041
+
+WILD GEAR AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 48 142 204 576
+
+Sum inntekter 48 142 204 576
+
+Kostnader
+
+Varekostnad 173 551 164 992
+
+Annen driftskostnad 19 776 19 202
+
+Sum kostnader 193 327 184 194
+
+Driftsresultat -145 185 20 382
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap -21 872 0
+
+Sum finansinntekter -21 872 fe)
+
+Annen rentekostnad 15 938 16 871
+
+Sum finanskostnader 15 938 16 871
+
+Netto finans -37 810 -16 871
+
+Resultat fer skattekostnad -182 995 3 511
+
+Arsresultat -182 995 3 511
+
+Arsresultat etter
+
+minoritetsinteresser -182 995 3 511
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -182 995 3 511
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -182 995 0
+
+Overferinger til/fra
+
+annen egenkapital 0 3 511
+
+Sum overferinger og
+
+disponeringer -182 995 3 511
+Utskriftsdato 15.06.2026 Organisasjonsnr 925 776 041 Side 1 av 3
+
+Organisasjonsnr: 925 776 041
+WILD GEAR AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investering 1 datterselskap 0 30 000
+Sum finansielle
+anleggsmidler 0 30 000
+Sum anleggsmidler 0 30 000
+Omlepsmidler
+Varer
+Varelager 0 173 551
+Sum varer 0 173 551
+Fordringer
+Kundefordringer 105 186 155 550
+Sum fordringer 105 186 155 550
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 108 414 111 931
+Sum bankinnskudd,
+kontanter og lignende 108 414 111 931
+Sum omlepsmidler 213 600 441 032
+SUM ELENDELER 213 600 471 032
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital
+(selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Utskriftsdato 15.06.2026 Organisasjonsnr 925 776 041 Side 2 av 3
+
+@reavrunding 1 1
+
+Udekket tap 190 997 8 002
+
+Sum opptjent egenkapital -190 996 -8 001
+
+Sum egenkapital -160 996 21 999
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 374 596 438 658
+
+Sum annen langsiktig gjeld 374 596 438 658
+
+Sum langsiktig gjeld 374 596 438 658
+
+Kortsiktig gjeld
+
+Skyldig offentlige avgifter 0 10 375
+
+Sum kortsiktig gjeld 0 10 375
+
+Sum gjeld 374 596 449 033
+
+SUM EGENKAPITAL OG GJELD 213 600 471 032
+Utskriftsdato 15.06.2026 Organisasjonsnr 925 776 041 Side 3 av 3
+
+Organisasjonsnr: 925 776 041
+
+WILD GEAR AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Slemmestad
+
+Virksomhetens art
+
+Kj@p og salg av MC utstyr og
+
+import/salg av og andre produkter som naturlig faller sammen med dette,
+
+herunder 4 delta i andre selskaper med lignende virksomhet, kj@p og salg av
+aksjer, eller pa annen mate gj@re seg interessert i andre foretagender.
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Styret har besluttet 4 avvikle selskapet. Som falge av dette er
+arsregnskapet utarbeidet med forutsetning
+
+om at selskapet ikke lenger har
+
+fortsatt drift. Regnskapsprinsippene som er benyttet for verdsettelsen
+av
+
+selskapets eiendeler og forpliktelser reflekterer derfor en
+avviklingssituasjon.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Wild Gear AS
+(925 776 041)
+Wild Gear AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 48 142 204 576
+Sum driftsinntekter 48 142 204 576
+Driftskostnader
+
+Varekostnad 173 551 164 992
+
+Annen driftskostnad 19 776 19 202
+Sum driftskostnader 193 327 184194
+Driftsresultat -145 185 20 382
+Finansinntekter
+
+Inntekt pa investering i datterselskap og tilknyttet selskap -21 872 fe)
+Sum finansinntekter -21 872 0
+Finanskostnader
+
+Annen rentekostnad 15 938 16 871
+Sum finanskostnader 15 938 16 871
+Netto finans -37 810 -16871
+Resultat for skatt -182 995 3511
+Arsresultat -182995 36511
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital e) 3511
+
+Udekket tap -182 995 (@)
+Sum overferinger og disponeringer -182 995 3511
+
+Wild Gear AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anieggsmidler
+
+Investeringer i datterselskap @) 30 000
+Sum finansielle anleggsmidler 0 30 000
+Sum anleggsmidler QO 30000
+Omlepsmidler
+Varelager QO 173551
+Fordringer
+
+Kundefordringer 105186 155550
+Sum fordringer 105186 155550
+Bankinnskudd, kontanter o.l. 108 414 111931
+Sum omlepsmidler 213600 441032
+Sum eiendeler 213600 471032
+
+Wild Gear AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Annen egenkapital 1 1
+
+Udekket tap -190 997 -8 002
+Sum opptjent egenkapital -190 996 -8 OO1
+Sum egenkapital -160996 21999
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 374596 438658
+Sum annen langsiktig gjeld 374596 438658
+Kortsiktig gjeld
+
+Skyldig offentlige avgifter fe) 10 375
+Sum kortsiktig gjeld 0 10375
+Sum gjeld 374596 449033
+Sum egenkapital og gjeld 213600 471032
+
+Wild Gear AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Slemmestad
+Virksomhetens art
+Kjap og salg av MC utstyr og import/salg av og andre produkter som naturlig faller sammen
+med dette, herunder 4 delta i andre selskaper med lignende virksomhet, kjap og salg av aksjer,
+eller pa annen mate gjare seg interessert i andre foretagender.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret har besluttet 4 avvikle selskapet. Som felge av dette er arsregnskapet utarbeidet med
+forutsetning om at selskapet ikke lenger har fortsatt drift. Regnskapsprinsippene som er
+benyttet for verdsettelsen av selskapets eiendeler og forpliktelser reflekterer derfor en
+awiklingssituasjon.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Wild Gear AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+
+Opprettet av Eva Hilstram <eva@wildgear.no>
+
+Elektronisk signering
+MORTEN ANDRESEN HILSTR@M EVA LILLI SELVAG HILSTROM
+07.03.1983 - Styreleder 09.04.1965 - Styremedlem
+Y) Signert Y) Signert
+12.06.2026 12:07 === bankID 12.06.2026 13:57 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 12.06.2026 12:05:59

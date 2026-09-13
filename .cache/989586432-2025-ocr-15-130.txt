@@ -1,0 +1,453 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 591001
+Virksomheten
+Organisasjonsnummer : 989 586 432
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: AJAX FORLAG AS
+Forretningsadresse: Kvednaholen 20A
+4332 FIGGJO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Frank Robert Jacobsen
+Dato for fastsettelse av arsregnskapet: 26.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 586 432
+
+AJAX FORLAG AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1159 168 1 512 486
+
+Annen driftsinntekt 13 794 100 513
+
+Sum inntekter 1172 962 1 612 999
+
+Kostnader
+
+Varekostnad 2 450 203 1 193 398
+
+Lennskostnad 3 167 301 151 505
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 4 59 219 6 468
+
+Annen driftskostnad 244 511 122 575
+
+Sum kostnader 921 235 1 473 946
+
+Driftsresultat 251 727 139 052
+
+Annen rentekostnad 45 849 36 080
+
+Sum finanskostnader 45 849 36 080
+
+Netto finans -45 849 -36 080
+
+Resultat fer skattekostnad 205 878 102 973
+
+Skattekostnad pa resultat 5 13 245
+
+Arsresultat 6 192 633 102 973
+
+Arsresultat etter
+
+minoritetsinteresser 192 633 102 973
+
+Totalresultat 192 633 102 973
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 192 633 102 973
+
+Sum overferinger og
+
+disponeringer 192 633 102 973
+Utskriftsdato 27.06.2026 Organisasjonsnr 989 586 432 Side 1 av 3
+
+Organisasjonsnr: 989 586 432
+AJAX FORLAG AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 5
+Varige driftsmidler
+Tomter, bygninger o.a.
+fast eiendom 4
+Maskiner og anlegg 4
+Skip og flytende
+installasjoner 4
+Driftslesere, inventar o.
+a. utstyr 4 246 000 3 000
+Sum varige driftsmidler 4 246 000 3 000
+Finansielle anleggsmidler
+Lan til foretak i samme
+konsern 7 180 000
+Sum finansielle
+anleggsmidler 180 000
+Sum anleggsmidler 246 000 183 000
+Omlepsmidler
+Varer
+Sum varer 2 804 699 560 082
+Fordringer
+Kundefordringer 320 364 155 182
+Andre kortsiktige
+fordringer 7 448 1 751
+Sum fordringer 327 812 156 933
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 8 4 051
+Sum bankinnskudd,
+kontanter og lignende 4 051
+Sum omlepsmidler 1 136 562 717 #O15
+SUM ELENDELER 1 382 562 900 015
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Utskriftsdato 27.06.2026 Organisasjonsnr 989 586 432 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital 9 100 000 100 000
+
+Beholdning av egne aksjer 9
+
+Sum innskutt egenkapital 100 000 100 000
+
+Opptjent egenkapital
+
+Annen egenkapital 247 568 54 935
+
+Sum opptjent egenkapital 247 568 54 935
+
+Sum egenkapital 6 347 568 154 935
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 5 934
+
+Sum avsetninger for
+
+forpliktelser 934
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 395 350 16 262
+
+Langsiktig konserngjeld 7 39 166
+
+Sum annen langsiktig gjeld 434 516 16 262
+
+Sum langsiktig gjeld 435 450 16 262
+
+Kortsiktig gjeld
+
+Leverandergjeld 451 716 450 761
+
+Betalbar skatt 5 12 311
+
+Skyldig offentlige avgifter 61 645 92 526
+
+Annen kortsiktig gjeld 73 871 185 531
+
+Sum kortsiktig gjeld 599 544 728 817
+
+Sum gjeld 1 034 994 745 079
+
+SUM EGENKAPITAL OG GJELD 1 382 562 900 015
+Utskriftsdato 27.06.2026 Organisasjonsnr 989 586 432 Side 3 av 3
+
+Organisasjonsnr: 989 586 432
+
+AJAX FORLAG AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+1.00
+
+Arsregnskap 2025
+Ajax Forlag AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 989 586 432
+
+RESULTATREGNSKAP |
+AJAX FORLAG AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 1159 168 1512 486
+Annen driftsinntekt 13 794 100 513
+Sum driftsinntekter 1172 962 1 612 999
+Varekostnad 2 450 203 1 193 398
+Lgnnskostnad 3 167 301 151 505
+Avskrivning av driftsmidler og immaterielle eiendeler 4 59 219 6 468
+Annen driftskostnad 244511 122 575
+Sum driftskostnader 921 235 1 473 946
+Driftsresultat 251 727 139 052
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen rentekostnad 45 849 36 080
+Resultat av finansposter -45 849 -36 080
+Resultat for skattekostnad 205 878 102 973
+Skattekostnad pa resultat 5 13 245 0
+Arsresultat 6 | 192 633) 102 973
+OVERF@RINGER
+
+Avsatt til annen egenkapital 192 633 102 973
+Sum overfgringer 192 633 102 973
+AJAX FORLAG AS SIDE 2
+
+BALANSE |
+
+AJAX FORLAG AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+Driftslds¢re, inventar o.a. utstyr 4 246 000 3 000
+Sum varige driftsmidler 4 246 000 3 000
+FINANSIELLE ANLEGGSMIDLER
+Lan til foretak i samme konsern 7 0 180 000
+Sum finansielle anleggsmidler 0 180 000
+Sum anleggsmidler 246 000 183 000
+OML@PSMIDLER
+Lager av varer og annen beholdning 2 804 699 560 082
+FORDRINGER
+Kundefordringer 320 364 155 182
+Andre kortsiktige fordringer 7 448 1751
+Sum fordringer 327 812 156 933
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 8 4051 0
+Sum oml¢psmidler 1 136 562 717 015
+Sum eiendeler | 1382 562, 900 015
+AJAX FORLAG AS SIDE 3
+
+BALANSE |
+
+AJAX FORLAG AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 9 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 247 568 54 935
+Sum opptjent egenkapital 247 568 54 935
+Sum egenkapital 6 347 568 154 935
+GJELD
+AVSETNING FOR FORPLIKTELSER
+Utsatt skatt 5 934 0
+ANNEN LANGSIKTIG GJELD
+Gjeld til kredittinstitusjoner 395 350 16 262
+Langsiktig konserngjeld 7 39 166 0
+Sum annen langsiktig gjeld 434 516 16 262
+KORTSIKTIG GJELD
+Leverandgrgjeld 451 716 450 761
+Betalbar skatt 5 12 311 0
+Skyldig offentlige avgifter 61 645 92 526
+Annen kortsiktig gjeld 73 871 185 531
+Sum kortsiktig gjeld 599 544 728 817
+Sum gjeld 1 034 994 745 079
+Sum egenkapital og gjeld | 1382 562| 900 015
+
+Figgjo, 26.05.2026
+
+Styret i Ajax Forlag AS
+
+Frank Robert Jacobsen
+
+styreleder/daglig leder
+AJAX FORLAG AS SIDE 4
+
+AJAX FORLAG AS 989 586 432
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets dkonomiske levetid.
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belgp ved
+verdifall som forventes ikke a vere forbigaende. Gjenvinnbart belgp er det hgyeste av netto salgsverdi og
+verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstr@mmer knyttet til eiendelen. Nedskrivingen
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Omlgpsmidler og kortsiktig gijeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+VARER
+
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+FORDRINGER
+
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Note 1 Virksomhetens art og lokalisering
+
+Ajax Forlag AS er et selskap der virksomheten omfatter Grafisk design og visuell kommunikasjonsdesign.
+Selskapet er lokalisert iSandnes kommune.
+
+Note 2 Varer
+
+Varelager 2025 2024
+Lager av innkjgpte handelsvarer 804 699 560 082
+Sum varelager 804 699 560 082
+AJAX FORLAG AS SIDE S
+
+AJAX FORLAG AS 989 586 432
+Note 3 Lonnskostnader og antall arsverk
+LONNSKOSTNADER
+2025 2024
+Lénninger 146 015 132 240
+Arbeidsgiveravgift 21 207 19 265
+Andre ytelser 79 0
+Sum 167 301 151 505
+Selskapet har i 2025 sysselsatt 1 arsverk.
+Note 4 Anleggsmidler
+Driftslds@re, Sum
+inventar ol.
+Anskaffelseskost pr. 01.01.25 27 874 27 874
++ Tilgang kjgpte driftsmidler 739 000 739 000
+- Avgang i aret 469 000 469 000
+= Anskaffelseskost 31.12.25 297 874 297 874
+Akkumulerte avskrivninger 31.12.25 51874 51 874
+= Bokfogrt verdi 31.12.25 246 000 246 000
+Arets ordinzere avskrivninger 59 219 59 219
+Pkonomisk levetid O-5 ar
+Note 5 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 12 311 0
+Endring i utsatt skatt 934 0
+Skattekostnad ordinzrt resultat 13 245 0
+Skattepliktig inntekt:
+Resultat for skatt 205 878 102 973
+Permanente forskjeller 2 086 0
+Endring i midlertidige forskjeller -8 244 -45 186
+Anvendelse av fremfgrbart underskudd -143 761 -57 786
+Skattepliktig inntekt 55 960 0
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 12 311 0
+Sum betalbar skatt i balansen 12 311 0
+AJAX FORLAG AS SIDE 6
+
+AJAX FORLAG AS 989 586 432
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte skattefordeler,
+spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varige driftsmidler 9 244 0 -9 244
+Fordringer -5 000 -4 000 1 000
+Sum 4244 -4 000 -8 244
+Akkumulert fremfgrbart underskudd 0 -143 761 -143 761
+Inngar ikke i beregningen av utsatt skatt 0 147 761 147 761
+Grunnlag for utsatt skatt / skattefordel 4244 0 -4 244
+Utsatt skatt / skattefordel (22 %) 934 0 -934
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 6 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 100 000 0 0 54 935 154 935
+Arets resultat 192 633 192 633
+Pr 31.12.2025 100 000 0 0 247 568 347 568
+Note 7 Mellomvzrende med selskap i samme konsern
+2025 2024
+Fordringer
+Lan til foretak i samme konsern 0 180 000
+Sum 0 180 000
+Gjeld
+Annen kortsiktig gjeld konsern 39 166 0
+Sum 39 166 0
+Note 8 Bankinnskudd
+Innestaende midler pa skattetrekkskonto (bundne midler) er pa kr. 4051.
+AJAX FORLAG AS SIDE 7
+
+AJAX FORLAG AS 989 586 432
+Note 9 Aksjonzrer
+AKSJEKAPITALEN | AJAX FORLAG AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+
+Ordinzere aksjer 100 1 000,0 100 000
+Sum 100 100 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+
+Ordinzre Eierandel Stemmeandel
+JACO FINANS AS 100 100,0 100,0
+AJAX FORLAG AS SIDE 8

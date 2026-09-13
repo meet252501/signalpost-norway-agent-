@@ -1,0 +1,441 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 350717
+Virksomheten
+Organisasjonsnummer : 989 202 723
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: VESTPOOL HOLDING AS
+Forretningsadresse: Jongskollen 11
+1337 SANDVIKA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kjell Seppola
+Dato for fastsettelse av arsregnskapet: 22.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 24.03.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 202 723
+
+VESTPOOL HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 1, 2 105 376 251 467
+
+Annen driftskostnad 402 059 397 256
+
+Sum kostnader 507 435 648 724
+
+Driftsresultat -507 435 -648 724
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 483 670
+
+Annen finansinntekt 752 818 756 714
+
+Verdigkning av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 3 235 084 -252 215
+
+Sum finansinntekter 988 385 505 169
+
+Annen rentekostnad 9 858 16 743
+
+Annen finanskostnad 277 133 277 155
+
+Sum finanskostnader 286 991 293 898
+
+Netto finans 701 394 211 272
+
+Resultat fer skattekostnad 4, 5 193 959 -437 452
+
+Arsresultat 193 959 -437 452
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 6 0 98 650
+
+Tilleggsutbytte 6 98 650 0
+
+Annen egenkapital 6 95 309 -536 102
+Utskriftsdato 24.03.2026 Organisasjonsnr 989 202 723 Side 1 av 3
+
+Organisasjonsnr: 989 202 723
+
+VESTPOOL HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 7 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Markedsbaserte aksjer 3 2 422 885 2 189 670
+
+Sum investeringer 2 422 885 2 189 670
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 55 254 446 598
+
+Sum bankinnskudd,
+
+kontanter og lignende 55 254 446 598
+
+Sum omlepsmidler 2 478 139 2 636 268
+
+SUM ELENDELER 2 478 139 2 636 268
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6, 8 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 6 2 143 975 2 048 666
+
+Sum opptjent egenkapital 2 143 975 2 048 666
+
+Sum egenkapital 2 173 975 2 078 666
+Utskriftsdato 24.03.2026 Organisasjonsnr 989 202 723 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 1 0
+
+Leverandergjeld 12 890 2 644
+
+Skyldige offentlige
+
+avgifter 33 281 21 280
+
+Utbytte 6 0 98 650
+
+Annen kortsiktig gjeld 257 992 435 028
+
+Sum kortsiktig gjeld 304 164 557 602
+
+Sum gjeld 304 164 557 602
+
+SUM EGENKAPITAL OG GJELD 2 478 139 2 636 268
+Utskriftsdato 24.03.2026 Organisasjonsnr 989 202 723 Side 3 av 3
+
+Organisasjonsnr: 989 202 723
+VESTPOOL HOLDING AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+Regnskapsprinsipper
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+Klassifisering og vurdering av
+balanseposter
+Eiendeler som er knyttet til varekretslepet er klassifisert
+som omlepsmidler. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett 4r.
+Omlepsmidler vurderes til
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt belep pa etableringstidspunktet.
+Forevrig er
+foalgende regnskapsprinsipper anvendt:
+FIFO-metoden for tilordning av
+anskaffelseskost for ombyttbare finansielle eiendeler, Markedsbaserte
+finansielle omle@psmidler er vurdert til virkelig verdi.
+Selskapet har ikke
+endret regnskapsprinsipp fra 2024 til 2025.
+Note
+2
+Antall Arsverk i regnskapsaret
+0.50
+Note
+1
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+80444.00 202500.00
+Folketrygqdavgift Arets Fjorarets
+11343 .00 28553 .00
+Andre ytelser Arets Fljorarets
+13590.00 20415.00
+Sum_ lennskostnader Arets Fjorarets
+105376.00 251467.00
+
+A\/ AZETS
+Arsregnskap for
+VESTPOOL HOBQING AS
+9892027
+Regnskapsar »
+01.01.2025 - 31.12.2025
+Arsregnskapet er utarbeidet av Azets Insight AS
+
+VESTPOOL HOLDING AS
+989 202 723
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+L@nnskostnad 1,2 105 376 251 467
+Annen driftskostnad 402 059 397 256
+Sum driftskostnader 507 435 648 724
+Driftsresultat -507 435 -648 724
+Finansinntekter
+Annen renteinntekt 483 670
+Annen finansinntekt 752 818 756 714
+Verdigkning av finansielle instrumenter vurdert til 3 235 084 -252 215
+virkelig verdi
+Sum finansinntekter 988 385 505 169
+Finanskostnader
+Annen rentekostnad 9 858 16 743
+Annen finanskostnad 277 133 277 155
+Sum finanskostnader 286 991 293 898
+Netto finans 701 394 211 272
+Arsresultat 193 959 -437 452
+Overforinger
+Ordinzert utbytte 6 0 98 650
+Tilleggsutbytte 6 98 650 0
+Annen egenkapital 6 95 309 -536 102
+Sum overferinger 193 959 -437 452
+
+VESTPOOL HOLDING AS
+989 202 723
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Investeringer
+Markedsbaserte aksjer 3 2 422 885 2 189 670
+Sum investeringer 2 422 885 2 189 670
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 55 254 446 598
+Sum bankinnskudd, kontanter og lignende 55 254 446 598
+Sum omlgpsmidler 2 478 139 2 636 268
+SUM EIENDELER 2 478 139 2 636 268
+
+VESTPOOL HOLDING AS
+989 202 723
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 6,8 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 6 2 143 975 2 048 666
+Sum opptjent egenkapital 2 143 975 2 048 666
+Sum egenkapital 2 173 975 2 078 666
+Gjeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner 1 0
+Leverandgrgjeld 12 890 2 644
+Skyldige offentlige avgifter 33 281 21 280
+Utbytte 6 0 98 650
+Annen kortsiktig gjeld 257 992 435 028
+Sum kortsiktig gjeld 304 164 557 602
+Sum gjeld 304 164 557 602
+SUM EGENKAPITAL OG GJELD 2 478 139 2 636 268
+SANDVIKA, 22.03.2026
+Kjell Ragnar Seppola Bente Seppola
+styrets leder / daglig leder styremediem
+
+VESTPOOL HOLDING AS
+
+989 202 723
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Vestpool Holding AS sin virksomhet er innenfor Investeringsvirksomhet samt deltagelse i og ut@velse av all
+
+annen virksomhet.
+
+Virksomheten drives fra leide lokaler i Sandvika.
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet til varekretsl@pet er klassifisert som omlgpsmidler. Tilsvarende klassifiseres gjeld som
+kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+FIFOQ-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler, Markedsbaserte
+
+finansielle oml@psmidler er vurdert til virkelig verdi.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 80 444 202 500
+Arbeidsgiveravgift 11 343 28 553
+Pensjonskostnader 0 0
+Andre relaterte ytelser 13 590 20 415
+Sum 105 376 251 467
+Note 2 - Antall arsverk
+
+Antall arsverk sysselsatt i regnskapsaret: 0,5
+
+Note 3 - Kortsiktige investeringer
+
+Spesifikasjon Anskaffelseskost Markedsverdi
+
+Aksjer 2 385 770 2 422 885
+
+Sum 2 385 770 2 422 885
+Note 4 - Spesifisering av skatt
+Skattepliktig inntekt 2025 2024
+Resultat for skatt 193 959 -437 452
+Permanente forskjeller -744 726 -307 358
+Skattepliktig inntekt -550 767 -744 810
+
+VESTPOOL HOLDING AS
+989 202 723
+Note 5 - Midlertidige forskjeller - utsatt skatt/skattefordel
+Utsatt skatt/utsatt skattefordel i balansen avsettes pa grunnlag av forskjeller mellom regnskapsmessige og
+skattemessige verdier i henhold til norsk regnskapsstandard for skatt.
+Midlertidige skatteskende og skattereduserende forskjeller som kan utlignes er nettofert.
+Midlertidige forskjeller knyttet til: 01.01.2025 31.12.2025 Endring
+Fremferbart underskudd -6 533 215 -7 083 982 550 767
+Netto forskjeller -6 533 215 -7 083 982 550 767
+Skattereduserende forskjeller som ikke kan utlignes 6 533 215 7 083 982 -550 767
+Sum midlertidige forskjeller som inngar i grunnlag for 0 0 0
+utsatt skatt/skattefordel
+Utsatt skatt 31.12.2025 basert pa 22 % 0 0 0
+Note 6 - Egenkapital
+Opptjent
+a CAKjekapital —eegenkapital Sum
+Egenkapital 31.12.2024 30 000 2 048 666 2 078 666
+Arsresultat 0 193 959 193 959
+Tilleggsutbytte i |gpet av aret, 0 -98 650 -98 650
+basert pa siste fastsatte regnskap
+Egenkapital 31.12.2025 30 000 2 143 975 2173 975
+Note 7 - Varige driftsmidler/anleggsmidler
+Mer om varige driftsmidler/anleggsmidler
+Bygning og annen fast eiendom til kr 0 gjelder G.nr. 159, Bruksnr. 501, Seksjon 7 som ble solgt i 2021.
+Eiendommen er fortsatt
+hjemlet pa Vestpool Holding AS.
+
+VESTPOOL HOLDING AS
+989 202 723
+Note 8 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordineere 30 000 1 30 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+Kjell Ragnar Seppola 13 938 46,46 Ordinzere
+Bente Seppola 12 195 40,65 Ordineere
+Kjell Robin Seppola 1 489 4,96 Ordineere
+Christer Seppola 1 249 4,16 Ordineere
+Pernille Seppola S 721 2,40 Ordineere
+Kristiane Seppola 216 0,72 Ordineere
+Gry E Sveinsson Seppola 192 0,64 Ordineere
+Totalt antall aksjer 30 000 100

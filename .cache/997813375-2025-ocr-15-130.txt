@@ -1,0 +1,458 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 680384
+Virksomheten
+Organisasjonsnummer : 997 813 375
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: STEINFJELL CONSULTING AS
+Forretningsadresse: Trulsrudskogen 76
+1350 LOMMEDALEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Rokke Geir
+Dato for fastsettelse av arsregnskapet: 25.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 997 813 375
+
+STEINFJELL CONSULTING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 3 4 760 4 760
+
+Annen driftskostnad 2 50 549 45 946
+
+Sum kostnader 55 309 50 706
+
+Driftsresultat -55 309 -50 706
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 245 331 82 589
+
+Annen finansinntekt 4 1 992 850 348 015
+
+Verdiokning
+
+markedsbaserte omlepsmidler 4 1 635 302
+
+Sum finansinntekter 2 238 180 2 065 907
+
+Verdireduksjon
+
+markedsbaserte omlepsmidler 4 1 037 109
+
+Annen rentekostnad 80 811 2 413
+
+Annen finanskostnad 207 710
+
+Sum finanskostnader 1 325 630 2 413
+
+Netto finans 912 550 2 063 494
+
+Resultat fer skattekostnad 857 240 2 012 787
+
+Skattekostnad pa resultat 5 88 364 86 209
+
+Arsresultat 768 876 1 926 578
+
+Arsresultat etter
+
+minoritetsinteresser 768 876 1 926 578
+
+Totalresultat 768 876 1 926 578
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 6 768 876 1 926 578
+
+Sum overferinger og
+
+disponeringer 768 876 1 926 578
+Utskriftsdato 15.07.2026 Organisasjonsnr 997 813 375 Side 1 av 3
+
+Organisasjonsnr: 997 813 375
+
+STEINFJELL CONSULTING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 5
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 3
+
+Maskiner og anlegg 3
+
+Skip og flytende
+
+installasjoner 3
+
+Driftslesere, inventar o.
+
+a. utstyr 3 13 175 17 935
+
+Sum varige driftsmidler 13 175 17 935
+
+Finansielle anleggsmidler
+
+Investeringer 1 aksjer og
+
+andeler 4 5 986 647 5 195 826
+
+Andre langsiktige
+
+fordringer 4 136 480 1 428 556
+
+Sum finansielle
+
+anleggsmidler 6 123 127 6 624 382
+
+Sum anleggsmidler 6 136 302 6 642 317
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 51 690
+
+Sum fordringer 51 690
+
+Investeringer
+
+Aksjer og andeler i
+
+foretak i samme konsern 4
+
+Markedsbaserte aksjer 4 12 643 291 8 730 530
+
+Markedsbaserte obligasjoner 4
+
+Andre markedsbaserte
+
+finansielle instrumenter 4
+
+Sum investeringer 12 643 291 8 730 530
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 640 400 4 450 818
+
+Sum bankinnskudd,
+
+kontanter og lignende 640 400 4 450 818
+Utskriftsdato 15.07.2026 Organisasjonsnr 997 813 375 Side 2 av 3
+
+Sum omlepsmidler 13 335 381 13 181 348
+
+SUM ELENDELER 19 471 683 19 823 665
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6, 7 30 000 30 000
+
+Beholdning av egne aksjer 7
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 6 19 349 373 19 707 221
+
+Sum opptjent egenkapital 19 349 373 19 707 221
+
+Sum egenkapital 19 379 373 19 737 221
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 5 57 049 3 946
+
+Sum avsetninger for
+
+forpliktelser 57 049 3 946
+
+Annen langsiktig gjeld
+
+Sum langsiktig gjeld 57 049 3 946
+
+Kortsiktig gjeld
+
+Betalbar skatt 5 35 261 82 498
+
+Sum kortsiktig gjeld 35 261 82 498
+
+Sum gjeld 92 310 86 444
+
+SUM EGENKAPITAL OG GJELD 19 471 683 19 823 665
+Utskriftsdato 15.07.2026 Organisasjonsnr 997 813 375 Side 3 av 3
+
+Organisasjonsnr: 997 813 375
+
+STEINFJELL CONSULTING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Steinfjell Consulting AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 997 813 375
+
+Resultatregnskap
+Steinfjell Consulting AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Avskrivning av driftsmidler og immaterielle eiendeler 3 4 760 4 760
+Annen driftskostnad 2 50 549 45 946
+Sum driftskostnader 55 309 50 706
+Driftsresultat -55 309 -50 706
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 245 331 82 589
+Annen finansinntekt 4 1 992 850 348 015
+Verdigkning markedsbaserte omlgpsmidler 4 0 1 635 302
+Verdireduksjon markedsbaserte omlgpsmidler 4 1 037 109 0
+Annen rentekostnad 80 811 2 413
+Annen finanskostnad 207 710 0
+Resultat av finansposter 912 550 2 063 494
+Resultat for skattekostnad 857 240 2012 787
+Skattekostnad pa resultat 5 88 364 86 209
+Arsresultat 768 876 1 926 578
+Overferinger
+
+Avsatt til annen egenkapital 6 768 876 1 926 578
+Sum overforinger 768 876 1 926 578
+Steinfjell Consulting AS Side 2
+
+Balanse
+
+Steinfjell Consulting AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Varige driftsmidler
+Driftslgsore, inventar o.a. utstyr 3 13 175 17 935
+Sum varige driftsmidler 13 175 17 935
+Finansielle anleggsmidler
+Investeringer i aksjer og andeler 4 5 986 647 5 195 826
+Andre langsiktige fordringer 4 136 480 1 428 556
+Sum finansielle anleggsmidler 6 123 127 6 624 382
+Sum anleggsmidler 6 136 302 6 642 317
+Oml@psmidier
+Andre kortsiktige fordringer 51 690 0
+Sum fordringer 51 690 0
+Investeringer
+Markedsbaserte aksjer 4 12 643 291 8 730 530
+Sum investeringer 12 643 291 8 730 530
+Bankinnskudd, kontanter o.]|. 640 400 4 450 818
+Sum omlgpsmidler 13 335 381 13 181 348
+Sum eiendeler 19 471 683 19 823 665
+Steinfjell Consulting AS Side 3
+
+Balanse
+Steinfjell Consulting AS
+
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 6,7 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 6 19 349 373 19 707 221
+Sum opptjent egenkapital 19 349 373 19 707 221
+Sum egenkapital 19 379 373 19 737 221
+Gjeld
+Avsetning for forpliktelser
+Utsatt skatt 5 57 049 3 946
+Sum avsetning for forpliktelser 57 049 3 946
+Annen langsiktig gjeld
+Kortsiktig gjeld
+Betalbar skatt 5 35 261 82 498
+Sum kortsiktig gjeld 35 261 82 498
+Sum gjeld 92 310 86 444
+Sum egenkapital og gjeld 19 471 683 19 823 665
+
+24.06.2026
+
+Styret i Steinfjell Consulting AS
+
+Rgekke Geir
+
+styreleder
+Steinfjell Consulting AS Side 4
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skatteskende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofart.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til anskaffelseskost.
+Varige driftsmidier balansefgres og avskrives over driftsmidiets gkonomiske levetid. Avskrivningsperioden for
+fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belgp ved verdifall som forventes ikke a
+veere forbigaende. Gjenvinnbart belep er det hgyeste av netto salgsverdi og verdi i bruk. Verdi i bruk er
+naverdi av fremtidige kontantstrammer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for
+nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlapsmidler
+Omlgpsmidler og kortsiktig gield omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Fordringer
+Kundefordringer og andre fordringer oppfgres til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Virksomhetens art og lokalisering
+Steinfjell Consulting AS er et selskap der virksomheten omfatter Andre egeninvesteringsselskaper. Selskapet
+er lokalisert i Beerum kommune.
+Note 2 Lonnskostnader
+Steinfjell Consulting AS har ikke hatt I@nns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Selskapet har valgt bort revisor.
+Note 3 Anleggsmidler
+Maskiner Sum
+og anlegg
+Anskaffelseskost pr. 01.01.25 34 000 34 000
+= Anskaffelseskost 31.12.25 34 000 34 000
+Akkumulerte avskrivninger 31.12.25 20 825 20 825
+= Bokfert verdi 31.12.25 13 175 13 175
+Arets ordingere avskrivninger 4 760 4 760
+@konomisk levetid 7 ar
+
+Note 4 Investeringer i aksjer og andeler
+Pe Antall aksjer Balansefart verdi
+Aramis Topco Limited 337 760,57 4 000 632,34
+Viken Corporate Finance AS 1 188 1 982 552,03
+Aksjene er bokfert til kostpris og antas 4 ha hgyere verdi enn bokfgrt verdi.
+Selskapet har investert i markedsbaserte aksjer og fond til en kostpris pa kr 11 316 040,45. Disse er
+verdiregulert med kr 1 327 250,24 til virkelig verdi pr 31.12.25.
+Note 5 Skatt
+Arets skattekostnad 2025 2024
+Resultatfert skatt pa ordinert resultat:
+Betalbar skatt 35 261 82 498
+Endring i utsatt skatt 53 103 3711
+Skattekostnad ordinzrt resultat 88 364 86 209
+Skattepliktig inntekt:
+Resultat for skatt 857 240 2 012 787
+Permanente forskjeller -701 725 -1 620 933
+Endring i midlertidige forskjeller 4 760 -16 866
+Skattepliktig inntekt 160 276 374 989
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 35 261 82 498
+Sum betalbar skatt i balansen 35 261 82 498
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte skattefordeler,
+spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varige driftsmidler 13.175 17 935 4 760
+Sum 13 175 17 935 4 760
+Aksjer og andre verdipapirer 246 140 0 -246 140
+Grunnlag for utsatt skatt 259 315 17 935 -241 380
+Utsatt skatt (22 %) 57 049 3 946 -53 104
+Note 6 Egenkapital
+Aksjekapital §Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 30 000 0 0 19 707 221 19 737 221
+Arets resultat 768 876 768 876
+Tilleggsutbytte 0 -1 126 725 -1 126 725
+Pr 31.12.2025 30 000 0 0 19 349 373 19 379 373
+
+Note 7 Aksjoneerer
+Aksjekapitalen i Steinfjell Consulting AS pr. 31.12 bestar av:
+Antall Palydende Bokfort
+
+Ordineere aksjer 100 300,0 30 000
+Sum 100 30 000
+Eierstruktur
+De sterste aksjonzeerene i % pr. 31.12 var:
+
+Ordinzere Eierandel Stemmeandel
+Rgkke Geir 100 100,0 100,0
+Aksjer eiet av medlemmer i styret og daglig leder:
+Navn Verv Ordinzre
+Rekke Geir styreleder 100
+Totalt antall aksjer 100

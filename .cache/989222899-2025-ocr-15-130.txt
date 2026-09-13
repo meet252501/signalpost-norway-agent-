@@ -1,0 +1,478 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 507494
+Virksomheten
+Organisasjonsnummer : 989 222 899
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: VEITA VIRKE AS
+Forretningsadresse: c/o Contema Merkantil AS
+Holstveita 18
+7012 TRONDHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Arnt Tore Carlsen
+Dato for fastsettelse av arsregnskapet: 31.05.2026
+Revisjon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 222 899
+
+VEILITA VIRKE AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 4 346 3.475
+
+Sum kostnader 4 346 3 475
+
+Driftsresultat -4 346 -3 475
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 9 562
+
+Annen finansinntekt 28
+
+Sum finansinntekter 9 562 28
+
+Rentekostnad til foretak
+
+1 samme konsern 521 329
+
+Sum finanskostnader 521 329
+
+Netto finans 9 041 -301
+
+Resultat fer skattekostnad 4 695 -3 776
+
+Arsresultat 4 695 -3 776
+
+Overferinger til/fra
+
+annen egenkapital 4 695
+
+Overferinger til/fra
+
+annen egenkapital -3 776
+Utskriftsdato 02.06.2026 Organisasjonsnr 989 222 899 Side 1 av 3
+
+Organisasjonsnr: 989 222 899
+
+VEITA VIRKE AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investering 1 datterselskap 333 250 333 250
+
+Sum finansielle
+
+anleggsmidler 333 250 333 250
+
+Sum anleggsmidler 333 250 333 250
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Konsernfordringer 1 426 882 1 417 320
+
+Sum fordringer 1 426 882 1 417 320
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 0) 0)
+
+Markedsbaserte aksjer 3 4 000 4 000
+
+Markedsbaserte obligasjoner 0 0
+
+Andre markedsbaserte
+
+finansielle instrumenter 0 0
+
+Andre finansielle
+
+instrumenter 0 0
+
+Sum investeringer 3 4 000 4 000
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 243 243
+
+Sum bankinnskudd,
+
+kontanter og lignende 243 243
+
+Sum omlepsmidler 1 431 125 1 421 563
+
+SUM ELENDELER 1 764 375 1 754 813
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 150 000 150 000
+
+Overkurs 180 125 180 125
+
+Sum innskutt egenkapital 330 125 330 125
+Utskriftsdato 02.06.2026 Organisasjonsnr 989 222 899 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 1 409 361 1 404 667
+Sum opptjent egenkapital 1 409 361 1 404 667
+Sum egenkapital 1 739 486 1 734 792
+Kortsiktig gjeld
+
+Kortsiktig konserngjeld 17 585 12 718
+Annen kortsiktig gjeld 7 303 7 303
+Sum kortsiktig gjeld 24 888 20 021
+Sum gjeld 24 888 20 021
+SUM EGENKAPITAL OG GJELD 1 764 375 1 754 813
+
+Utskriftsdato 02.06.2026 Organisasjonsnr 989 222 899 Side 3 av 3
+
+Organisasjonsnr: 989 222 899
+
+VEITA VIRKE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+=== Note 1: Regnskapsprinsipper [[note-1]]
+
+Arsregnskapet er satt opp 1
+
+samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+
+==== Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa
+
+leveringstidspunktet.
+
+Tjenester inntektsfoeres etter hvert som de
+
+leveres.
+
+==== Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt.
+
+Utsatt skatt er
+
+beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier,
+
+samt ligningsmessig
+
+underskudd til fremfering ved utgangen av regnskapsaret.
+Skatteskende og
+
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofert.
+
+==== Klassifisering
+
+og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til
+
+varig elie og bruk.
+
+Anleggsmidler er vurdert til anskaffelseskost.
+
+Varige
+
+driftsmidler balanseferes og avskrives over driftsmidlets skonomiske
+levetid.
+
+Avskrivingsperioden for fast eiendom anskaffet etter 2009 er
+dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner.
+
+Varige driftsmidler nedskrives til gjenvinnbart
+
+belep ved verdifall som forventes ikke 4 vere forbigaende.
+Gjenvinnbart
+
+belep er det heyeste av netto salgsverdi og verdi i bruk.
+
+Verdi i bruk er
+
+naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivingen
+
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlepsmidler
+
+Omlepsmidler og kortsiktig
+
+gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen,
+
+samt poster som knytter seg til varekretslapet.
+
+Omlepsmidler
+
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi.
+Varer
+
+Varer er vurdert til det laveste av anskaffelseskost og netto
+salgsverdi.
+
+==== Fordringer
+
+Kundefordringer og andre fordringer
+
+oppfordres til palydende etter fradrag for avsetning til forventet
+tap.
+
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene.
+
+Note
+
+2
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap for 2025
+Veita Virke AS
+Orgnr: 989222899
+conta
+
+INNHOLDSLISTE
+Resultat 2... eee B
+Driftsresultater.. 2 ee B
+Finansinntekter og kostnader............ 0.000002 ee eee B
+Arsresultat. 0 eee eee 8
+Overfgringer. 2... eee B
+Balanse. 2. 2 1. ee ee A
+Anleggsmidler... 2... 0.0.0.0... 00.00 2 ee A
+Omlgpsmidler. 2... ee LA
+Fiendeler.. 2... 2. ee ee A
+Egenkapital .. 2. 2 2. eee A
+Gjeld 2. ee A
+Egenkapitaloggjeld..... 2... 0.0.00... 000 0 ee ee ee SG
+Styret. eee ee ee eS
+Noter. 2. 2 ee eee eee 6
+Note 1: Regnskapsprinsipper ... 2... 0... ee ee ee ee  G
+Note 2:Arsverk 20. 0 eee eee 7
+Note 3: Fondsinvesteringer.... 2... 0.020.000.0000 0 ee ee eee eT
+
+RESULTAT
+
+Driftsresultater
+
+Note 2024 2025
+Driftsinntekter 0 0
+Lonnskostnad 2 0 0
+Annen driftskostnad 3475 4346
+Driftskostnader 3475 4346
+Driftsresultat -3.475 -4 346
+Finansinntekter og kostnader
+
+Note 2024 2025
+Inntekt pa investering i datterselskap og tilknyttet 0 9 562
+selskap
+Annen finansinntekt 28 0
+Finansinntekter 28 9562
+Rentekostnad til foretak i samme konsern 329 521
+Finanskostnader 329 521
+Finansinntekter og kostnader -301 9041
+Arsresultat
+
+Note 2024 2025
+Driftsresultat -3.475 -4 346
+Finansinntekter og kostnader -301 9041
+Resultat for skattekostnad -3 776 4695
+Skattekostnad 0 0
+Arsresultat -3776 4695
+Overforinger
+
+2024 2025
+Avsatt til annen egenkapital 0 4695
+Overfgrt fra annen egenkapital -3 776 0
+Sum overf¢ringer -3776 4695
+Conta Arsoppgjgr, Veita Virke AS
+-3-
+
+BALANSE
+
+Anleggsmidler
+
+Note 2024 2025
+Immaterielle eiendeler 0 0
+Varige driftsmidler 0 0
+Investeringer i datterselskap 333 250 333 250
+Finansielle anleggsmidler 333 250 333 250
+Anleggsmidler 333 250 333 250
+Omlgpsmidler
+
+Note 2024 2025
+Kortsiktige konsernfordringer 1417 320 1 426 882
+Fordringer 1 417 320 1 426 882
+Markedsbaserte aksjer 3 4000 4000
+Investeringer 3 4000 4000
+Bankinnskudd, kontanter og lignende 243 243
+Omlgpsmidler 1 421 563 1431125
+Eiendeler
+
+Note 2024 2025
+Anleggsmidler 333 250 333 250
+Omlgpsmidler 1 421 563 1431125
+Eiendeler 1 754 813 1 764 375
+Egenkapital
+
+Note 2024 2025
+Selskapskapital 150 000 150 000
+Overkurs 180 125 180 125
+Innskutt egenkapital 330 125 330 125
+Annen egenkapital 1 404 667 1 409 361
+Opptjent egenkapital 1 404 667 1 409 361
+Egenkapital 1 734 792 1739 486
+
+Conta Arsoppgjgr, Veita Virke AS
+-4-
+
+Gjeld
+Note 2024 2025
+Avsetning for forpliktelser 0 0
+Annen langsiktig gjeld 0 0
+Kortsiktig konserngjeld 12718 17 585
+Annen kortsiktig gjeld 7 303 7 303
+Kortsiktig gjeld 20021 24 888
+Gjeld 20 021 24 888
+Egenkapital og gjeld
+Note 2024 2025
+Egenkapital 1 734 792 1739 486
+Gjeld 20 021 24 888
+Egenkapital og gjeld 1 754 813 1 764 375
+Trondheim, 31.05.2026
+Styret i Veita Virke AS
+Arnt Tore Carlsen
+Styrets leder/Daglig leder
+Conta Arsoppgjgr, Veita Virke AS
+-5-
+
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Driftsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som
+de leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring
+ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres i samme periode er utlignet og nettofgrt.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets ¢konomiske
+levetid. Avskrivingsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som
+gjelder rabygget og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til
+gjenvinnbart belgp ved verdifall som forventes ikke a veere forbigaende.
+Gjenvinnbart belgp er det hayeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av
+fremtidige kontantstra@mmer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for
+nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlopsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi
+av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+Conta Arsoppgjgr, Veita Virke AS
+
+-6-
+
+Fordringer
+Kundefordringer og andre fordringer oppfordres til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+o
+
+Note 2: Arsverk
+Selskapet har sysselsatt 0 arsverk i 2025.
+Note 3: Fondsinvesteringer
+Selskapet har investeringer i fond klassifisert som oml@psmidler med félgende verdier:
+
+Balansefert verdi Arets resultatforte
+
+verdiendring
+Franklin Biotechnology Discv A(acc)USD 7 008 0
+Conta Arsoppgjgr, Veita Virke AS
+-7-

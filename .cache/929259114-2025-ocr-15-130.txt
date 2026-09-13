@@ -1,0 +1,493 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 491104
+Virksomheten
+Organisasjonsnummer : 929 259 114
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: NIDAROS BETONG HOLDING AS
+Forretningsadresse: Nordslettvegen 3
+7038 TRONDHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Erlend Harstad
+Dato for fastsettelse av Aarsregnskapet: 27.05.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 25.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 929 259 114
+
+NIDAROS BETONG HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 40 989 35 307
+
+Sum kostnader 40 989 35 307
+
+Driftsresultat -40 989 -35 307
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 0 0
+
+Resultat fer skattekostnad -40 989 -35 307
+
+Arsresultat -40 989 -35 307
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 1 -40 989 -35 307
+Utskriftsdato 25.06.2026 Organisasjonsnr 929 259 114 Side 1 av 3
+
+Organisasjonsnr: 929 259 114
+NIDAROS BETONG HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investering i datterselskap 2 48 000 30 000
+Lan til foretak i samme
+konsern 3 958 632 1 158 632
+Sum finansielle
+anleggsmidler 1 006 632 1188 632
+Sum anleggsmidler 1 006 632 1 188 632
+Omlepsmidler
+Varer
+Fordringer
+Sum fordringer 0 0
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 182 006 10
+Sum bankinnskudd,
+kontanter og lignende 182 006 10
+Sum omlepsmidler 182 006 10
+SUM ELENDELER 1 188 638 1 188 642
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 1, 4 60 000 60 000
+Overkurs 1 1128 632 1 128 632
+Annen innskutt egenkapital 1 -5 570 -5 570
+Sum innskutt egenkapital 1 183 062 1 183 062
+Opptjent egenkapital
+
+Utskriftsdato 25.06.2026 Organisasjonsnr 929 259 114 Side 2 av 3
+
+Udekket tap 1 92 401 51 412
+
+Sum opptjent egenkapital -92 401 -51 412
+
+Sum egenkapital 5, 6, 7, 1 090 661 1 131 650
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 3 0 0
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 6 250 0
+
+Kortsiktig konserngjeld 3 82 267 47 532
+
+Annen kortsiktig gjeld 9 9 460 9 460
+
+Sum kortsiktig gjeld 97 977 56 992
+
+Sum gjeld 97 977 56 992
+
+SUM EGENKAPITAL OG GJELD 1188 638 1188 642
+Utskriftsdato 25.06.2026 Organisasjonsnr 929 259 114 Side 3 av 3
+
+Organisasjonsnr: 929 259 114
+
+NIDAROS BETONG HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Fordringer klassifiseres som omlepsmidler hvis de forfaller
+
+til betaling innen ett ar etter transaksjonsdagen.
+
+Omlepsmidler vurderes
+
+til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter
+
+bade periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt skattemessig
+underskudd til fremfering ved utgangen av regnskapsaret. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er fastsatt og skattevirkningen er beregnet pa
+nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+
+2025.
+
+Note
+
+6
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+3
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Konsernregnskap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belep - foretak i samme konsern Arets Fjorarets
+958632.00 1158632.00
+Kortsiktig gjeld
+Samlet belep - foretak i samme konserm Arets Fjorarets
+82267.00 47532.00
+Note
+5
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+Mer om lan og sikkerhetsstillelse
+
+Arsregnskap for
+NIDAROS BETONG HOLDING AS
+929259114
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+NIDAROS BETONG HOLDING AS
+929 259 114
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -40 989 -35 307
+Sum driftskostnader -40 989 -35 307
+Driftsresultat -40 989 -35 307
+Arsresultat -40 989 -35 307
+Overforinger
+Udekket tap 1 -40 989 -35 307
+Sum overferinger -40 989 -35 307
+
+NIDAROS BETONG HOLDING AS
+929 259 114
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investering i datterselskap 2 48 000 30 000
+Lan til foretak i samme konsern 3 958 632 1 158 632
+Sum finansielle anleggsmidler 1 006 632 1 188 632
+Sum anleggsmidler 1 006 632 1 188 632
+Omlgpsmidler
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 182 006 10
+Sum bankinnskudd, kontanter og lignende 182 006 10
+Sum omlgpsmidler 182 006 10
+SUM EIENDELER 1 188 638 1 188 642
+
+NIDAROS BETONG HOLDING AS
+929 259 114
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 1,4 60 000 60 000
+Overkurs 1 1 128 632 1 128 632
+Annen innskutt egenkapital 1 -5 570 -5 570
+Sum innskutt egenkapital 1 183 062 1 183 062
+Opptjent egenkapital
+Udekket tap 1 -92 401 -51 412
+Sum opptjent egenkapital -92 401 -51 412
+Sum egenkapital 5,6, 7,8 1 090 661 1131 650
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 6 250 0
+Kortsiktig konserngjeld 3 82 267 47 532
+Annen kortsiktig gjeld 9 9 460 9 460
+Sum kortsiktig gjeld 97 977 56 992
+Sum gjeld 97 977 56 992
+SUM EGENKAPITAL OG GJELD 1 188 638 1 188 642
+TRONDHEIM, 27.05.2026
+Lars Kare Skjemstad Erlend Sgrensen Harstad
+Haugrenning styremediem
+styrets leder
+
+NIDAROS BETONG HOLDING AS
+
+929 259 114
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Nidaros Betong Holding AS er et holdingselskap som hovedsakelig driver med eie og forvaltning av aksjer og
+andre investeringer. Selskapets virksomhet drives fra Trondheim.
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremforing ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+NIDAROS BETONG HOLDING AS
+929 259 114
+Note 1 - Egenkapital
+Annen innsk.
+Aksjekapital Overkurs EK Udekket tap sum
+Egenkapital 31.12.2024 60 000 1 128 632 -5 570 -51 412 1 131 650
+Arsresultat 0 0 0 -40 989 -40 989
+Egenkapital 31.12.2025 60 000 1 128 632 5 570 -92 401 1 090 661
+Note 2 - Investeringer i datterselskap
+Datterselskap ForretningskommuneEier- Egenkapital siste ar Resultatsiste
+/stemmeandel ar
+Nidaros Betong AS Trondheim 100% -441 848 139 702
+Nidaros Betongsaging AS_ _—_—s Trondheim 60% 213 673 190 173
+Note 3 - Konsern, tilknyttet selskap m.v.
+Fordringer
+2025 2024
+Samlet belap som gjelder foretak i samme konsern 958 632 1 158 632
+Kortsiktig gjeld
+2025 2024
+Samlet belgp som gjelder foretak i samme konsern 82 267 47 532
+Note 4 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordinzere 30 2 000 60 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+Erlend Sgrensen Harstad 15 50,00 Ordineere
+Lars Kare Haugrenning 15 50,00 Ordineere
+Totalt antall aksjer 30 100
+Note 5 - Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+Note 6 - Antall arsverk
+Selskapet har ikke hatt ansatte i Iopet av regnskapsaret.
+
+NIDAROS BETONG HOLDING AS
+
+929 259 114
+
+Note 7 - Fortsatt drift
+
+Arsregnskapet er aviagt under forutsetning om fortsatt drift. Forutsetningen bygger pa styrets vurdering av
+konsernets og morselskapets @konomiske stilling, likviditet og forventet inntjening, herunder utviklingen i de to
+datterselskapene.
+
+Det ene heleide datterselskapet har hatt regnskapsmessige underskudd i 2023 og 2024, og konsernet har i
+denne perioden hatt en stram likviditetssituasjon. Det er gjennomfert tett oppfalging av likviditet og kostnader.
+| 2025 hadde selskapet et positivt driftsresultat pa om lag 57 000 kroner. Forelgpige tall per april 2026 viser et
+resultat pa om lag 700 000 kroner. Styret vurderer at den positive resultatutviklingen og forbedret likviditet i
+datterselskapet vesentlig reduserer risikoen knyttet til fortsatt drift i konsernet.
+
+Det andre datterselskapet ble etablert i 2025. Morselskapet eier 60 % av aksjene, mens 40 % eies av @vrige
+aksjoneerer. Selskapet hadde et overskudd pa om lag 190 000 kroner i oppstartsaret. Resultatutviklingen i dette
+selskapet bidrar positivt til konsernets samlede inntjening og likviditet.
+
+Pa bakgrunn av resultatforbedringen i det heleide datterselskapet, det positive resultatet i det 60 % eide
+datterselskapet og de gjennomferte og planlagte tiltakene, har styret lagt til grunn at forutsetningen om fortsatt
+drift er oppfylt ved avleggelsen av arsregnskapet.
+
+Note 8 - Obligatorisk tjenestepensjon
+
+Virksomheten er ikke pliktig til 4 ha ttenestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+
+Note 9 - Annen kortsiktig gjeld
+
+Selskapet har gjeld til eier pa kr 9 460. Lanet er rentefritt og forventes innfridd innen kort tid.
+
+ns
+P qf
+Til generalforsamlingen i
+Nidaros Betong Holding AS
+UAVHENGIG REVISORS BERETNING
+Uttalelse om revisjonen av arsregnskapet
+Konklusjon
+Vi har revidert arsregnskapet for Nidaros Betong Holding AS som viser et underskudd
+pa kr 40 989. Arsregnskapet bestar av balanse per 31. desember 2025,
+resultatregnskap for regnskapsaret avsluttet per denne datoen og noter til
+arsregnskapet, herunder et sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling
+per 31. desember 2025 og av dets resultater for regnskapsaret avsluttet per
+denne datoen i samsvar med regnskapslovens regler og god regnskapsskikk i
+Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfert revisjonen i samsvar med den internasjonale revisjonsstandarden
+for revisjon av regnskap til mindre komplekse enheter (ISA for MKE). Vare oppgaver og
+plikter i henhold til ISA for MKE er beskrevet nedenfor under Revisors oppgaver og
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med
+kravene i relevante lover og forskrifter i Norge og International Code of Ethics for
+Professional Accountants (inkludert internasjonale uavhengighetsstandarder) utstedt
+av International Ethics Standards Board for Accountants (IESBA-reglene), og vi har
+overholdt vare e@vrige etiske forpliktelser i samsvar med disse kravene. Innhentet
+revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for
+var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret (ledelsen) er ansvarlige for a utarbeide arsregnskapet og for at det gir et
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i
+Norge. Ledelsen er ogsa ansvarlig for slik internkontroll som den finner ngdvendig for a
+kunne utarbeide et arsregnskap som ikke inneholder vesentlig feilinformasjon, verken
+som felge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til
+fortsatt drift og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om
+fortsatt drift skal legges til grunn for arsregnskapet sa lenge det ikke er sannsynlig at
+virksomheten vil bli avviklet.
+Pergus AS www.pergus.no
+post@pergus.no Org.nr.: 922 736 200
+TLF: 73 56 90 90 Postadresse: Tungasletta 8, 7047 Trondheim
+
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke
+inneholder vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede
+feil, og a avgi en revisjonsberetning som inneholder var konklusjon. Betryggende
+sikkerhet er en hey grad av sikkerhet, men ingen garanti for at en revisjon utfert i
+samsvar med ISA for MKE, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon
+kan oppsta som felge av misligheter eller utilsiktede feil. Feilinformasjon er a anse som
+vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke de
+gkonomiske beslutningene som brukerne foretar, pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til
+https://revisorforeningen.no/om-revisjon/revisjonsberetning-revisors-oppgaver-og-
+plikter/
+Trondheim, 27.05.2026
+Pergus AS
+*.
+
+/ | a .
+Espen Aski
+Sfatsautorisert revisor
+Pergus AS www.pergus.no
+post@pergus.no Org.nr.: 922 736 200
+TLF: 73 56 90 90 Postadresse: Tungasletta 8, 7047 Trondheim

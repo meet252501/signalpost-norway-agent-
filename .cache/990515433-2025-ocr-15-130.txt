@@ -1,0 +1,392 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 632971
+Virksomheten
+Organisasjonsnummer : 990 515 433
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: HKH BYGG OG EIENDOM AS
+Forretningsadresse: Mjatveitstea 19A
+5918 FREKHAUG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Knut Henanger
+Dato for fastsettelse av arsregnskapet: 31.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 990 515 433
+
+HKH BYGG OG EIENDOM AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 950 000
+
+Sum inntekter 950 000
+
+Kostnader
+
+Lennskostnad 1
+
+Annen driftskostnad 1 107 412 403 019
+
+Sum kostnader 107 412 403 019
+
+Driftsresultat 842 588 -403 019
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 7 695 9 956
+
+Sum finansinntekter 7 695 9 956
+
+Annen rentekostnad 186 135 183 217
+
+Sum finanskostnader 186 135 183 217
+
+Netto finans -178 440 -173 261
+
+Resultat fer skattekostnad 664 148 -576 281
+
+Skattekostnad pa resultat 2 20 274
+
+Arsresultat 3 643 874 -576 281
+
+Arsresultat etter
+
+minoritetsinteresser 643 874 -576 281
+
+Totalresultat 643 874 -576 281
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 643 874 -576 281
+
+Sum overferinger og
+
+disponeringer 643 874 -576 281
+Utskriftsdato 02.07.2026 Organisasjonsnr 990 515 433 Side 1 av 3
+
+Organisasjonsnr: 990 515 433
+
+HKH BYGG OG EIENDOM AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 2
+
+Varige driftsmidler
+
+Sum varige driftsmidler 4
+
+Finansielle anleggsmidler
+
+Andre langsiktige
+
+fordringer 2 785 000 2 015 000
+
+Sum finansielle
+
+anleggsmidler 2 785 000 2 015 000
+
+Sum anleggsmidler 2 785 000 2 015 000
+
+Omlepsmidler
+
+Varer
+
+Sum varer 4 2 871 779 2 871 779
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 90 000 350 000
+
+Sum fordringer 90 000 350 000
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 29 635 569
+
+Sum bankinnskudd,
+
+kontanter og lignende 29 635 569
+
+Sum omlepsmidler 2 991 414 3 222 348
+
+SUM ELENDELER 5 776 414 5 237 348
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 100 000 100 000
+
+Sum innskutt egenkapital 100 000 100 000
+
+Opptjent egenkapital
+
+Annen egenkapital 2 179 325 1 535 451
+
+Sum opptjent egenkapital 2 179 325 1 535 451
+Utskriftsdato 02.07.2026 Organisasjonsnr 990 515 433 Side 2 av 3
+
+Sum egenkapital 3 2 279 325 1 635 451
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 2 2 635
+Sum avsetninger for
+forpliktelser 2 635
+Annen langsiktig gjeld
+Gjeld til
+kredittinstitusjoner 4 2 400 000 2 400 000
+@vrig langsiktig gjeld 962 000 1 117 000
+Sum annen langsiktig gjeld 3 362 000 3 517 000
+Sum langsiktig gjeld 3 364 635 3 517 000
+Kortsiktig gjeld
+Leverandergjeld 819 2 565
+Betalbar skatt 2 17 639
+Annen kortsiktig gjeld 113 996 82 331
+Sum kortsiktig gjeld 132 454 84 897
+Sum gjeld 3 497 089 3 601 897
+SUM EGENKAPITAL OG GJELD 5 776 414 5 237 348
+POSTER UTENOM BALANSEN
+Garantistillelser 4
+Pantstillelser 4
+
+Utskriftsdato 02.07.2026 Organisasjonsnr 990 515 433 Side 3 av 3
+
+Organisasjonsnr: 990 515 433
+
+HKH BYGG OG EIENDOM AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+HKH Bygg Og Eiendom AS
+
+RESULTATREGNSKAP |
+
+HKH BYGG OG EIENDOM AS
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 950 000 0
+Sum driftsinntekter 950 000 0
+Annen driftskostnad 1 107 412 403 019
+Sum driftskostnader 107 412 403 019
+Driftsresultat 842 588 -403 019
+FINANSINNTEKTER OG FINANSKOSTNADER
+Annen renteinntekt 7695 9 956
+Annen rentekostnad 186 135 183 217
+Resultat av finansposter -178 440 -173 261
+Resultat for skattekostnad 664 148 -576 281
+Skattekostnad pa resultat 2 20 274 0
+Arsresultat 3 643 874 -576 281
+OVERF@RINGER
+Avsatt til annen egenkapital 643 874 -576 281
+Sum overfgringer 643 874 -576 281
+HKH BYGG OG EIENDOM AS SIDE 2
+
+BALANSE |
+
+HKH BYGG OG EIENDOM AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Andre langsiktige fordringer 2 785 000 2 015 000
+Sum finansielle anleggsmidler 2 785 000 2 015 000
+Sum anleggsmidler 2 785 000 2 015 000
+OML@PSMIDLER
+Lager av varer og annen beholdning 4 2871779 2 871779
+FORDRINGER
+Andre kortsiktige fordringer 90 000 350 000
+Sum fordringer 90 000 350 000
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 29 635 569
+Sum omlgpsmidler 2991 414 3 222 348
+Sum eiendeler 5776 414 5 237 348
+HKH BYGG OG EIENDOM AS SIDE 3
+
+BALANSE |
+HKH BYGG OG EIENDOM AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 2179 325 1535 451
+Sum opptjent egenkapital 2179 325 1535 451
+Sum egenkapital 3 2 279 325 1 635 451
+GJELD
+AVSETNING FOR FORPLIKTELSER
+Utsatt skatt 2 2635 0
+ANNEN LANGSIKTIG GJELD
+Gjeld til kredittinstitusjoner 4 2 400 000 2 400 000
+Ovrig langsiktig gjeld 962 000 1 117 000
+Sum annen langsiktig gjeld 3 362 000 3 517 000
+KORTSIKTIG GJELD
+Leverandgrgjeld 819 2565
+Betalbar skatt 2 17 639 0
+Annen kortsiktig gjeld 113 996 82 331
+Sum kortsiktig gjeld 132 454 84 897
+Sum gijeld 3 497 089 3 601 897
+Sum egenkapital og gjeld 5776 414 5 237 348
+Frekhaug
+Styret i HKH Bygg Og Eiendom AS
+Helge Henanger Knut Henanger
+styreleder styremedlem/daglig leder
+HKH BYGG OG EIENDOM AS SIDE 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Oml¢psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+VARER
+
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+FORDRINGER
+
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+PENSJONSFORPLIKTELSER
+
+Pensjonsforpliktelser finansiert over driften er beregnet og balansefgrt under avsetning for forpliktelser.
+Pensjonsordninger finansiert via sikrede ordninger er ikke balansefgrt. Pensjonspremien anses i disse
+tilfeller som pensjonskostnad og klassifiseres sammen med Ignnskostnader.
+
+Note 1 Loénnskostnader
+
+HKH Bygg Og Eiendom AS har ikke hatt lgnns- eller personalkostnader i 2025 og det foreligger heller ingen
+slike forpliktelser.
+
+Note 2 Skatt
+
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+
+Betalbar skatt 17 639 0
+Endring i utsatt skatt 2635 0
+Skattekostnad ordinzert resultat 20 274 0
+Skattepliktig inntekt:
+
+Resultat for skatt 664 148 -576 281
+Permanente forskjeller 0 4285
+Endring i midlertidige forskjeller -11976 0
+Anvendelse av fremfgrbart underskudd -571 996 0
+Skattepliktig inntekt 80177 -571 996
+
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 17 639 0
+Sum betalbar skatt i balansen 17 639 0
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte skattefordeler,
+spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varebeholdning 11 976 0 -11 976
+Fordringer -830 000 0 830 000
+Pensjonspremie/- forpliktelse 830 000 0 -830 000
+Sum 11 976 0 -11 976
+Akkumulert fremfgrbart underskudd 0 -571 996 -571 996
+Inngar ikke i beregningen av utsatt skatt 0 571 996 571 996
+Grunnlag for utsatt skatt / skattefordel 11 976 0 -11 976
+Utsatt skatt / skattefordel (22 %) 2 635 0 -2 635
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 3 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 100 000 0 0 1535 451 1 635 451
+Arets resultat 643 874 643 874
+Pr 31.12.2025 100 000 0 0 2179 325 2 279 325
+Note 4 Pantstillelser og garantier
+31.12.2025 31.12.2024
+Pantsikret gjeld, pantstillelser og garantier
+Langsiktig gjeld til kredittinstitusjoner -2 400 000 -2 400 000
+Sum -2 400 000 -2 400 000
+Regnskapsf¢rt verdi av pantsikrede eiendeler
+Faste eiendommer 2871779 2871779
+Sum 2871779 2871 779

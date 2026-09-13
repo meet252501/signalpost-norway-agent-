@@ -1,0 +1,411 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 601732
+Virksomheten
+Organisasjonsnummer : 822 324 282
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: FONT AS
+Forretningsadresse: Kongens gate 15
+1530 MOSS
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Tom Sverre Bang
+Dato for fastsettelse av arsregnskapet: 28.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 822 324 282
+
+FONT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 15 000 0
+
+Annen driftsinntekt 0 7 141
+
+Sum inntekter 15 000 7 141
+
+Kostnader
+
+Annen driftskostnad 590 51
+
+Sum kostnader 590 51
+
+Driftsresultat 14 411 7 090
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 31 667 100 000
+
+Annen finansinntekt 95 000 0
+
+Sum finansinntekter 126 667 100 000
+
+Annen finanskostnad 0 85 000
+
+Sum finanskostnader 0 85 000
+
+Netto finans 126 667 15 000
+
+Resultat fer skattekostnad 141 O77 22 090
+
+Arsresultat 141 077 22 090
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 82 551 22 090
+
+Annen egenkapital 58 527 0
+Utskriftsdato 30.06.2026 Organisasjonsnr 822 324 282 Side 1 av 3
+
+Organisasjonsnr: 822 324 282
+
+FONT AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Konsernfordringer 66 798 55 731
+
+Sum fordringer 66 798 55 731
+
+Investeringer
+
+Aksjer og andeler i
+
+foretak i samme konsern 1 88 170 40 003
+
+Sum investeringer 88 170 40 003
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 13 50
+
+Sum bankinnskudd,
+
+kontanter og lignende 13 50
+
+Sum omlepsmidler 154 982 95 784
+
+SUM ELENDELER 154 982 95 784
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 58 527 0
+
+Udekket tap 0 82 551
+Utskriftsdato 30.06.2026 Organisasjonsnr 822 324 282 Side 2 av 3
+
+Sum opptjent egenkapital 58 527 -82 551
+
+Sum egenkapital 88 527 -52 551
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Kortsiktig konserngjeld 0 60 000
+
+Annen kortsiktig gjeld 66 455 88 335
+
+Sum kortsiktig gjeld 66 455 148 335
+
+Sum gjeld 66 455 148 335
+
+SUM EGENKAPITAL OG GJELD 154 982 95 784
+Utskriftsdato 30.06.2026 Organisasjonsnr 822 324 282 Side 3 av 3
+
+Organisasjonsnr: 822 324 282
+
+FONT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som
+
+er knyttet til varekretslepet er klassifisert som omle@psmidler. Fordringer
+klassifiseres som omlepsmidler hvis de forfaller til betaling innen ett ar
+etter transaksjonsdagen.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belgep pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gje@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+Leieavtaler er ikke balansefort.
+
+Selskapet har ikke endret
+
+regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+1
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Konsernregnskap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+
+Arsregnskap for
+FONT AS
+822324282
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+FONT AS
+822 324 282
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 15 000 0
+Annen driftsinntekt 0 7 141
+Sum driftsinntekter 15 000 7 141
+Driftskostnader
+Annen driftskostnad -590 -51
+Sum driftskostnader -590 -51
+Driftsresultat 14 411 7 090
+Finansinntekter
+Inntekt pa investering i datterselskap og tilknyttet 31 667 100 000
+selskap
+Annen finansinntekt 95 000 0
+Sum finansinntekter 126 667 100 000
+Finanskostnader
+Annen finanskostnad 0 -85 000
+Sum finanskostnader 0 -85 000
+Netto finans 126 667 15 000
+Arsresultat 141 077 22 090
+Overforinger
+Annen egenkapital 58 527 0
+Udekket tap 82 551 22 090
+Sum overferinger 141 077 22 090
+
+FONT AS
+822 324 282
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Fordringer
+Kortsiktige kKonsernfordringer 66 798 55 731
+Sum fordringer 66 798 55 731
+Investeringer
+Aksjer og andeler i foretak i samme konsern 1 88 170 40 003
+Sum investeringer 88 170 40 003
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 13 50
+Sum bankinnskudd, kontanter og lignende 13 50
+Sum omlg@psmidler 154 982 95 784
+SUM EIENDELER 154 982 95 784
+
+FONT AS
+822 324 282
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 58 527 0
+Udekket tap 0 -82 551
+Sum opptjent egenkapital 58 527 -82 551
+Sum egenkapital 88 527 -52 551
+Gjeld
+Kortsiktig gjeld
+Kortsiktig konserngjeld 0 60 000
+Annen kortsiktig gjeld 66 455 88 335
+Sum kortsiktig gjeld 66 455 148 335
+Sum gjeld 66 455 148 335
+SUM EGENKAPITAL OG GJELD 154 982 95 784
+MOSS, 28.06.2026
+Tom Sverre Bang
+styrets leder
+
+FONT AS
+
+822 324 282
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet til varekretslgpet er klassifisert som oml@psmidler. Fordringer klassifiseres som
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefert.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Konsern, tilknyttet selskap m.v.
+
+Antall arsverk
+
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.

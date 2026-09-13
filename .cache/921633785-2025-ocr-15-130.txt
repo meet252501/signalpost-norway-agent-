@@ -1,0 +1,301 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 375193
+Virksomheten
+Organisasjonsnummer : 921 633 785
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: FINANCE RESOURCES RL AS
+Forretningsadresse: Nes@yveien 9
+1396 BILLINGSTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: ROLF WINTHER LEVERSEN
+Dato for fastsettelse av arsregnskapet: 09.04.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 14.04.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 921 633 785
+
+FINANCE RESOURCES RL AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 35 000
+
+Sum inntekter 35 000
+
+Kostnader
+
+Lennskostnad 2 -836
+
+Annen driftskostnad 17 321 5 238
+
+Sum kostnader 17 321 4 401
+
+Driftsresultat -17 321 30 599
+
+Netto finans
+
+Resultat fer skattekostnad -17 321 30 599
+
+Skattekostnad pa resultat 3
+
+Arsresultat 4 -17 321 30 599
+
+Arsresultat etter
+
+minoritetsinteresser -17 321 30 599
+
+Totalresultat -17 321 30 599
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 30 599
+
+Avsatt til annen
+
+egenkapital -17 321
+
+Sum overferinger og
+
+disponeringer -17 321 30 599
+Utskriftsdato 14.04.2026 Organisasjonsnr 921 633 785 Side 1 av 3
+
+Organisasjonsnr: 921 633 785
+FINANCE RESOURCES RL AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3
+Sum anleggsmidler
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 885
+Andre kortsiktige
+fordringer 390 1 011
+Sum fordringer 390 1 896
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 83 1 979
+Sum bankinnskudd,
+kontanter og lignende 83 1 979
+Sum omlepsmidler 473 3 875
+SUM EIENDELER 473 3 875
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5 30 000 30 000
+Beholdning av egne aksjer 5
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 6
+Udekket tap 102 781 85 460
+Sum opptjent egenkapital -102 781 -85 460
+Sum egenkapital 4 -72 781 -55 460
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 3
+Annen langsiktig gjeld
+
+Utskriftsdato 14.04.2026 Organisasjonsnr 921 633 785 Side 2 av 3
+
+Kortsiktig gjeld
+
+Betalbar skatt 3
+
+Skyldig offentlige avgifter 4 177 4 584
+Annen kortsiktig gjeld 69 078 54 752
+Sum kortsiktig gjeld 73 255 59 336
+Sum gjeld 73 255 59 336
+SUM EGENKAPITAL OG GJELD 473 3 875
+
+Utskriftsdato 14.04.2026 Organisasjonsnr 921 633 785 Side 3 av 3
+
+Organisasjonsnr: 921 633 785
+
+FINANCE RESOURCES RL AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Finance Resources RI AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+p. Org.nr.: 921 633 785
+
+RESULTATREGNSKAP |
+FINANCE RESOURCES RL AS
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 0) 35 000
+Sum driftsinntekter 0 35 000
+Lénnskostnad 2 0 -836
+Annen driftskostnad 17 321 5 238
+Sum driftskostnader 17 321 4401
+Driftsresultat -17 321 30 599
+FINANSINNTEKTER OG FINANSKOSTNADER
+Resultat for skattekostnad -17 321 30 599
+Arsresultat 4 -17 321 | 30.599]
+OVERF@RINGER
+Avsatt til dekning av tidligere udekket tap 0 30 599
+Avsatt til annen egenkapital -17 321 0
+Sum overfgringer -17 321 30 599
+FINANCE RESOURCES RL AS SIDE 2
+
+BALANSE |
+FINANCE RESOURCES RL AS
+
+EIENDELER Note 2025 2024
+OML@PSMIDLER
+
+FORDRINGER
+
+Kundefordringer 0 885
+Andre kortsiktige fordringer 390 1011
+Sum fordringer 390 1 896
+Bankinnskudd, kontanter o.|. 83 1979
+Sum omlgpsmidler 473 3875
+Sum eiendeler 3 875
+FINANCE RESOURCES RL AS SIDE 3
+
+BALANSE |
+FINANCE RESOURCES RL AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 5 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+OPPTJENT EGENKAPITAL
+Udekket tap -102 781 -85 460
+Sum opptjent egenkapital -102 781 -85 460
+Sum egenkapital 4 -72 781 -55 460
+GJELD
+AVSETNING FOR FORPLIKTELSER
+KORTSIKTIG GJELD
+Skyldig offentlige avgifter 4177 4 584
+Annen kortsiktig gjeld 69 078 54 752
+Sum kortsiktig gjeld 73 255 59 336
+Sum gijeld 73 255 59 336
+Sum egenkapital og gjeld 3 875
+Asker, 09.04.2026
+Styret i Finance Resources RI AS
+ROLF WINTHER LEVERSEN
+styreleder/daglig leder
+FINANCE RESOURCES RL AS SIDE 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+FORDRINGER
+
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Note 1 Virksomhetens art og lokalisering
+Finance Resources RI AS er et selskap der virksomheten omfatter Bedriftsradgivning og annen administrativ
+radgivning. Selskapet er lokalisert i Asker kommune.
+Note 2 Lénnskostnader
+Finance Resources RI AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen
+slike forpliktelser.
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0)
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -17 321 30599
+Permanente forskjeller 0) 0
+Anvendelse av fremfgrbart underskudd 0 -30 599
+Skattepliktig inntekt -17 321 0
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -143 418 -126 097 17 321
+Inngar ikke i beregningen av utsatt skatt 143 418 126 097 -17 321
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+
+Note 4 Egenkapital
+Aksjekapital Udekket tap Sum
+egenkapital
+Pr. 31.12.2024 30 000 -85 460 -55 460
+Arets resultat -17 321 -17 321
+Pr 31.12.2025 30 000 -102 781 -72 781
+Note 5 Aksjonzrer
+AKSJEKAPITALEN | FINANCE RESOURCES RL AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfgrt
+Ordinzre aksjer 300 100,0 30 000
+Sum 300 30 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+Ordinzre Eierandel Stemmeandel
+ROLF WINTHER LEVERSEN 300 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Ver Ordinzre
+ROLF WINTHER LEVERSEN styreleder/daglig leder 300
+Totalt antall aksjer 300
+Note 6 Fortsatt drift
+| ldpet av 2025 har selskapet ikke vzert aktivt.
+Driften av Finance Resources RI AS synes saledes ikke a medfgre risiko for tap for kreditorene.

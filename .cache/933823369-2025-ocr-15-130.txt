@@ -1,0 +1,511 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 509362
+Virksomheten
+Organisasjonsnummer : 933 823 369
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MY SPACE AS
+Forretningsadresse: c/o Holmen Gruppen AS
+Rambergveien 1
+3115 TONSBERG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Maria Fjeld
+Dato for fastsettelse av Aarsregnskapet: 15.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.06.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 933 823 369
+
+MY SPACE AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 2 500 0
+
+Annen driftsinntekt 471 462 0
+
+Sum inntekter 473 962 0
+
+Kostnader
+
+Annen driftskostnad 1 444 095 11 480
+
+Sum kostnader 444 095 11 480
+
+Driftsresultat 29 866 -11 480
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 0
+
+Rentekostnad til foretak
+
+1 samme konsern 49 701 941
+
+Annen rentekostnad 85 377 0
+
+Sum finanskostnader 135 078 941
+
+Netto finans -135 078 -941
+
+Resultat fer skattekostnad -105 211 -12 421
+
+Arsresultat -105 211 -12 421
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -105 211 -12 421
+Utskriftsdato 02.06.2026 Organisasjonsnr 933 823 369 Side 1 av 3
+
+Organisasjonsnr: 933 823 369
+MY SPACE AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 2 1 487 340 0
+Sum varige driftsmidler 1 487 340 0
+Finansielle anleggsmidler
+Sum finansielle
+anleggsmidler 0 0
+Sum anleggsmidler 1 487 340 0
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 516 77 106
+Sum fordringer 516 77 106
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 63 613 21 261
+Sum bankinnskudd,
+kontanter og lignende 63 613 21 261
+Sum omlepsmidler 64 129 98 367
+SUM ELENDELER 1 551 469 98 367
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 3 30 000 30 000
+Annen innskutt egenkapital 3 -10 184 -10 184
+Sum innskutt egenkapital 19 816 19 816
+Opptjent egenkapital
+
+Utskriftsdato 02.06.2026 Organisasjonsnr 933 823 369 Side 2 av 3
+
+Udekket tap 3 117 632 12 421
+
+Sum opptjent egenkapital -117 632 -12 421
+
+Sum egenkapital 4 -97 816 7 396
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 984 550 0
+
+Langsiktig konserngjeld 5, 6 630 642 80 941
+
+Sum annen langsiktig gjeld 1 615 192 80 941
+
+Kortsiktig gjeld
+
+Leverandergjeld 17 653 10 030
+
+Annen kortsiktig gjeld 16 439 0
+
+Sum kortsiktig gjeld 34 093 10 030
+
+Sum gjeld 1 649 285 90 971
+
+SUM EGENKAPITAL OG GJELD 1 551 469 98 367
+Utskriftsdato 02.06.2026 Organisasjonsnr 933 823 369 Side 3 av 3
+
+Organisasjonsnr: 933 823 369
+
+MY SPACE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+er eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett ar. Langsiktig gjeld er gjeld som
+forfaller senere enn ett ar etter transaksjonsdagen. Forste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som
+omlepsmiddel og kortsiktig gjeld.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belep pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes a vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+Leieavtaler er ikke balansefort.
+
+Selskapet har ikke endret
+
+regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+4
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Selskapet har per balansedagen tapt egenkapitalen. Dette medforer usikkerhet
+knyttet til selskapets evne til fortsatt drift. Arsregnskapet er likevel
+avlagt under forutsetning om fortsatt drift.
+Bakgrunnen er at selskapets
+eierselskaper har bekreftet at det vil bli stilt til radighet nedvendig
+finansiering for a dekke selskapets lepende forpliktelser og sikre videre
+drift i minst 12 maneder fra balansedagen. Eierselskapene vil dermed
+finansiere selskapets underdekning i den grad dette er nedvendig.
+Styret
+vurderer pa denne bakgrunn at forutsetningen om fortsatt drift er til
+stede.
+Note
+1
+Antall Aarsverk i regnskapsaret
+0.00
+Note
+2
+Varige driftsmidler og immaterielle eiendeler
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+1487340.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+1487340.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+29747.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+1457593 .00 0.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+29747.00 0.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Note
+5
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregnskap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Annen langsiktig gjeld
+Samlet belep - tilknyttet selskap Arets Fjorarets
+630642 .00 80941.00
+Samlet forpliktelse til fordel for foretak i samme konsern
+Mer om tilknyttet selskap/datterselskap
+Gjeld til Holmen Gruppen AS er for 2025 renteberegnet med 24 846,-
+Gjeld til
+Fjeld Boligutleie AS er for 2025 renteberegnet med 24 855, -
+Note
+6
+Gjeld
+Gjeld som forfaller til betaling mer enn fem Ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+Balansefert verdi av de pantsatte eiendeler
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+Mer om gjeld
+
+Arsregnskap for
+933823369
+Regnskapsar
+01.01.2025 - 31.12.2025
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/decument-check/daad4 148-4d3c-4245-b50e-5d2d3590eb59 www. vismasign.com
+
+MY SPACE AS
+933 823 369
+Resultatregnskap
+
+Note 2025 09.07 -
+
+31.12.2024
+Driftsinntekter
+Salgsinntekt 2 500 0
+Annen driftsinntekt 471 462 0
+Sum driftsinntekter 473 962 0
+Driftskostnader
+Annen driftskostnad 1 -444 095 -11 480
+Sum driftskostnader -444 095 -11 480
+Driftsresultat 29 866 -11 480
+Finanskostnader
+Rentekostnad til foretak i samme konsern -49 701 -941
+Annen rentekostnad -85 377 0
+Sum finanskostnader -135 078 -941
+Netto finans -135 078 -941
+Arsresultat -105 211 -12 421
+Overfgringer
+Udekket tap -105 211 -12 421
+Sum overferinger -105 211 -12 421
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/decument-check/daad4 148-4d3c-4245-b50e-5d2d3590eb59 www. vismasign.com
+
+MY SPACE AS
+933 823 369
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger og annen fast eiendom 2 1 487 340 0
+Sum varige driftsmidler 1 487 340 0
+Sum anleggsmidler 1 487 340 0
+Omlopsmidler
+Fordringer
+Andre kortsiktige fordringer 516 77 106
+Sum fordringer 516 77 106
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 63 613 21 261
+Sum bankinnskudd, kontanter og lignende 63 613 21 261
+Sum omlgpsmidier 64 129 98 367
+SUM EIENDELER 1 551 469 98 367
+
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/decument-check/daad4 148-4d3c-4245-b50e-5d2d3590eb59 www. vismasign.com
+
+MY SPACE AS
+933 823 369
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 3 30 000 30 000
+Annen innskutt egenkapital 3 -10 184 -10 184
+Sum innskutt egenkapital 19 816 19 816
+Opptjent egenkapital
+Udekket tap 3 -117 632 -12 421
+Sum opptjent egenkapital -117 632 “12 421
+Sum egenkapital 4 -97 816 7 396
+Gjeld
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 984 550 0
+Langsiktig konserngjeld 5,6 630 642 80 941
+Sum annen langsiktig gjeld 1615 192 80 941
+Kortsiktig gjeld
+Leverandergjeld 17 653 10 030
+Annen kortsiktig gjeld 16 439 0
+Sum kortsiktig gjeld 34 093 10 030
+Sum gjeld 1 649 285 90 971
+SUM EGENKAPITAL OG GJELD 1 551 469 98 367
+TONSBERG, 15.05.2026
+Maria Fjeld Andreas Holmen
+styrets leder styremediem
+
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/decument-check/daad4 148-4d3c-4245-b50e-5d2d3590eb59 www. vismasign.com
+
+MY SPACE AS
+933 823 369
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+Inntektsfering ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfores etter hvert som de
+leveres.
+Klassifisering og vurdering av balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekretslopet er
+klassifisert som omlapsmidler. Fordringer klassifiseres som omlapsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlapsmiddel og kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansef@res til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belop pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfart i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Varige driftsmidler
+Varige driftsmidler balansefores og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidler kostnadsfgres Iopende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+Forevrig er folgende regnskapsprinsipper anvencdt:
+Leieavtaler er ikke balansefart.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Note 1 - Antall arsverk
+Selskapet har ikke hatt ansatte i lapet av regnskapsaret.
+Note 2 - Varige driftsmidler og immaterielle eiendeler
+Varige
+rifts miter
+Anskaffelseskost 01.01. 0
+Tilgang i aret 1 487 340
+Avgang i aret 0
+Anskaffelseskost 31.12. 1 487 340
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -29 747
+Balansefert verdi per 31.12. 1 457 593
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 29 747
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/decument-check/daad4 148-4d3c-4245-b50e-5d2d3590eb59 www. vismasign.com
+
+MY SPACE AS
+933 823 369
+Note 3 - Egenkapital
+Aksjekapital_ Annen innsk. EK Udekket tap Sum
+Egenkapital 31.12.2024 30 000 -10 184 -12 421 7 396
+Arsresultat 0 0 -105 211 -105 211
+Egenkapital 31.12.2025 30 000 -10 184 -117 632 -97 816
+Note 4 - Usikkerhet om fortsatt drift
+Det er knyttet usikkerhet til fortsatt drift.
+Selskapet har per balansedagen tapt egenkapitalen. Dette medfg@rer usikkerhet knyttet til selskapets evne til
+fortsatt drift. Arsregnskapet er likevel avlagt under forutsetning om fortsatt drift.
+Bakgrunnen er at selskapets eierselskaper har bekreftet at det vil bli stilt til radighet nadvendig finansiering for a
+dekke selskapets lopende forpliktelser og sikre videre drift i minst 12 maneder fra balansedagen.
+Eierselskapene vil dermed finansiere selskapets underdekning i den grad dette er ngdvendig.
+Styret vurderer pa denne bakgrunn at forutsetningen om fortsatt drift er til stede.
+Note 5 - Konsern, tilknyttet selskap m.v.
+Annen langsiktig gjeld
+09.07 -
+2025 31.12.2024
+Samlet belap som gijelder tilknyttet selskap 630 642 80 941
+Mer om tilknyttet selskap/datterselskap
+Gjeld til Holmen Gruppen AS er for 2025 renteberegnet med 24 846,-
+Gjeld til Fjeld Boligutleie AS er for 2025 renteberegnet med 24 855,-
+Note 6 - Gjeld og garantiforpliktelser
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/decument-check/daad4 148-4d3c-4245-b50e-5d2d3590eb59 www. vismasign.com
+
+Ordinzr generalforsamling for
+B o
+Behandling av arsregnskap for 2025
+Innhold
+
+1. Innkalling til styremate i MY SPACE AS
+
+2. Protokoll fra styremate i MY SPACE AS
+
+3. Innkalling til ordinger generalforsamling i MY SPACE AS
+
+4. Protokoll fra ordinzer generalforsamling i MY SPACE AS
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/document-check/daad4 149-4d3c-4245-b50e-5d2d3590eb59 www. vismasign.com
+
+Innkalling til styremete i
+MY SPACE AS
+Sted: | selskapets lokaler i Tonsberg
+Dato: 15.05.2026
+Klokken: 12:00
+Til behandling foreligger:
+1. Gjennomgang av forslag til arsregnskap
+2. Vurdering av forsvarlig egenkapital og likviditet
+3. Forslag til disponering av arets resultat
+4. Godkjennelse av forslag til arsregnskap
+5. Innkalling til ordinaer generalforsamling
+6. Eventuelt
+TMINSBERG, 15.05.2026
+Maria Fjeld, styrets leder
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/decument-check/daad4 148-4d3c-4245-b50e-5d2d3590eb59 www. vismasign.com

@@ -1,0 +1,693 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 558980
+Virksomheten
+Organisasjonsnummer : 919 588 470
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: FURTUNE AS
+Forretningsadresse: Vesterasveien 38
+0382 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Mads Behn
+Dato for fastsettelse av arsregnskapet: 10.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 18.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 919 588 470
+
+FURTUNE AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 1 72 289 474 256
+
+Sum kostnader 72 289 474 256
+
+Driftsresultat -72 289 -474 256
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 72 70
+
+Sum finansinntekter 72 70
+
+Annen finanskostnad 0 293
+
+Sum finanskostnader 0 293
+
+Netto finans 72 -223
+
+Resultat fer skattekostnad -72 217 -474 480
+
+Arsresultat -72 217 -474 480
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -72 217 -474 480
+Utskriftsdato 18.06.2026 Organisasjonsnr 919 588 470 Side 1 av 3
+
+Organisasjonsnr: 919 588 470
+
+FURTUNE AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Markedsbaserte obligasjoner 2 000 000 0
+
+Andre finansielle
+
+instrumenter 1 000 000 0
+
+Sum investeringer 2 3 000 000 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 75 402 4 924
+
+Sum bankinnskudd,
+
+kontanter og lignende 75 402 4 924
+
+Sum omlepsmidler 3 075 402 4 924
+
+SUM ELENDELER 3 075 402 4 924
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 90 000 90 000
+
+Overkurs 4 710 000 4 710 000
+
+Ikke registrert
+
+kapitalforheyelse 1 500 000 1 500 000
+
+Sum innskutt egenkapital 6 300 000 6 300 000
+Utskriftsdato 18.06.2026 Organisasjonsnr 919 588 470 Side 2 av 3
+
+Opptjent egenkapital
+
+Udekket tap 7 944 788 7 872 571
+
+Sum opptjent egenkapital -7 944 788 -7 872 571
+
+Sum egenkapital 3, 4 -1 644 788 -1 572 571
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 3 629 1 545
+
+Annen kortsiktig gjeld 5 4 716 561 1 575 950
+
+Sum kortsiktig gjeld 4 720 190 1 577 495
+
+Sum gjeld 4 720 190 1 577 495
+
+SUM EGENKAPITAL OG GJELD 3 075 402 4 924
+Utskriftsdato 18.06.2026 Organisasjonsnr 919 588 470 Side 3 av 3
+
+Organisasjonsnr: 919 588 470
+
+FURTUNE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Eiendeler som er knyttet til varekretslepet er klassifisert
+
+som omlepsmidler. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett 4r.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt belep pa etableringstidspunktet.
+
+Forevrig er
+
+foalgende regnskapsprinsipper anvendt:
+
+FIFO-metoden for tilordning av
+
+anskaffelseskost for ombyttbare finansielle eiendeler, laveste verdis
+prinsipp for markedsbaserte finansielle omlepsmidler. Leieavtaler er ikke
+balansefert.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+
+2025.
+
+Note
+
+4
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Selskapet har per 31.12.2025 negativ egenkapital pa TNOK 1 645, og det
+foreligger saledes usikkerhet knyttet til selskapets evne til fortsatt
+drift.
+
+Selskapet har over tid blitt finansiert av aksjoner gjennom lan og
+l@pende tilfersel av likviditet ved behov. Per balansedagen utgj@r gjeld
+til aksjoner TNOK 4 688.
+
+Styret og aksjoner har besluttet 4A gjennomfere en
+
+gjeldskonvertering i lepet av 2026, hvor vesentlige deler av aksjonerlanet
+planlegges konvertert til egenkapital. Tiltaket forventes a reetablere
+selskapets egenkapital og styrke selskapets finansielle stilling og
+likviditet vesentlig.
+
+Pa bakgrunn av aksjonerens finansielle stette,
+
+planlagt gjeldskonvertering og selskapets forventede finansiering fremover,
+har styret lagt til grunn at forutsetningen om fortsatt drift er til stede
+ved avleggelsen av arsregnskapet
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+5
+
+Gjeld
+
+Gjeld som forfaller til betaling mer enn fem Ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+
+Balansefert verdi av de pantsatte eiendeler
+
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+
+Mer om gjeld
+
+Selskapet har en samlet gjeld til eier pa kr 4 688 117 for innbetalinger i
+regnskapsaret.
+
+Selskapet har gjeld til Maturitas AS pa kr 25 950.
+
+Arsregnskap for 2025
+FURTUNE AS
+
+Org.nr. 919 588 470
+S
+Innhold :
+Resultatregnskap
+Balanse :
+:
+Noter F
+
+Utarbeidet av:
+STATEMENT
+Wergelandsveien 1, 0167 Oslo
+
+FURTUNE AS
+
+919 588 470
+
+Resultatregnskap
+
+Note 2025 2024
+
+Driftskostnader
+
+Annen driftskostnad 1 -72 289 -474 256
+
+Sum driftskostnader -72 289 -474 256
+
+Driftsresultat -72 289 -474 256
+
+Finansinntekter
+
+Annen renteinntekt 72 70
+
+Sum finansinntekter 72 70
+
+Finanskostnader
+
+Annen finanskostnad 0 -293
+
+Sum finanskostnader 0 -293
+
+Netto finans 72 -223
+
+Arsresultat -72 217 -474 480 N
+St
+>
+
+Overforinger g
+
+Udekket tap -72 217 -474 480 S
+
+Sum overferinger -72 217 -474 480 2
+4
+‘S
+wW
+g
+mS
+2
+xr
+=
+=
+>
+x
+§
+&
+a
+$
+9
+@
+
+FURTUNE AS
+
+919 588 470
+
+Balanse
+
+Note 31.12.2025 31.12.2024
+
+EIENDELER
+
+Omlgpsmidler
+
+Investeringer
+
+Andre finansielle instrumenter 1 000 000 0
+
+Markedsbaserte obligasjoner 2 000 000 0
+
+Sum investeringer 2 3 000 000 0
+
+Bankinnskudd, kontanter og lignende
+
+Bankinnskudd, kontanter og lignende 75 402 4924
+
+Sum bankinnskudd, kontanter og lignende 75 402 4924
+
+Sum omlgpsmidler 3 075 402 4924
+
+SUM EIENDELER 3 075 402 4924
+9
+>
+9
+ra
+i]
+iS
+S
+S
+ut
+vA
+s
+wv
+g
+mS
+2
+xr
+=
+=
+e
+x
+§
+&
+3
+s
+S
+a
+
+FURTUNE AS
+
+919 588 470
+
+Balanse
+
+Note 31.12.2025 31.12.2024
+
+EGENKAPITAL OG GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 90 000 90 000
+
+Ikke registrert kapitalforngyelse 1 500 000 1 500 000
+
+Overkurs 4710 000 4710 000
+
+Sum innskutt egenkapital 6 300 000 6 300 000
+
+Opptjent egenkapital
+
+Udekket tap -7 944 788 -7 872 571
+
+Sum opptjent egenkapital -7 944 788 -7 872 571
+
+Sum egenkapital 3,4 -1 644 788 -1 572 571
+
+Gjeld y
+>
+9
+
+Kortsiktig gjeld a
+
+Leverandgrgijeld 3 629 1545 N
+
+Annen kortsiktig gjeld 5 4716 561 1 575 950 S
+
+Sum kortsiktig gjeld 4720 190 1 577 495 IN
+ut
+Wy
+
+Sum gjeld 4720 190 1 577 495 S
+ray
+
+SUM EGENKAPITAL OG GJELD 3 075 402 4924 =
+fo)
+£
+
+OSLO, 10.06.2026 =
+a
+x
+§
+
+Mads Behn 5
+
+styrets leder / daglig leder s
+S
+a
+
+FURTUNE AS
+
+919 588 470
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet til varekretsl@pet er klassifisert som omlgpsmidler. Tilsvarende klassifiseres gjeld som
+
+kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+
+belgp pa etableringstidspunktet.
+
+Forovrig er folgende regnskapsprinsipper anvenct:
+
+FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler, laveste verdis prinsipp for
+
+markedsbaserte finansielle oml@psmidler. Leieavtaler er ikke balansefart.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025. Ni
+g
+St
+>
+
+Arten av virksomhet og hvor virksomheten drives M4
+a)
+i]
+N
+
+Furtune AS er et aksjeselskap med forretningsadresse i Oslo. Selskapets virksomhet omfatter design, utvikling $
+
+og salg av produkter, samt virksomhet som naturlig star i forbindelse med dette. | tillegg kan selskapet eie og IN
+
+forvalte verdipapirer samt delta i annen forretningsvirksomhet. i
+©
+
+Selskapet drives fra Vesterasveien 38, 0382 Oslo. Virksomheten er registrert under neeringskode 72.100 — =
+
+forskning og eksperimentell utvikling innen naturvitenskap og teknikk. =
+2
+=
+=
+e
+x
+5
+&
+3
+s
+S
+a
+
+FURTUNE AS
+919 588 470
+Note 1 - Antall arsverk
+Selskapet har ikke hatt ansatte i lIapet av regnskapsaret.
+Note 2 - Markedsbaserte verdipapirfond og obligasjoner
+Selskapet har investeringer i markedsbaserte verdipapirfond og obligasjoner klassifisert som omlgpsmidler.
+Markedsbaserte verdipapirfond og obligasjoner vurderes etter laveste verdis prinsipp, hvilket innebzerer at
+instrumentene balansefores til laveste av anskaffelseskost og virkelig verdi.
+Virkelig verdi fastsettes med utgangspunkt i observerbare markedsverdier per balansedagen.
+Bokfort verdi pr. 31.12.2025
+NOK
+Anskaffelseskost 3 000 000
+Markedsverdi 3 101 371 PS)
+Bokfert verdi 3 000 000 =
+3
+iS
+Det er ikke foretatt nedskrivning per 31.12.2025. S
+x
+S
+Note 3 - Egenkapital &
+z
+Ikke reg. g
+kapital >
+Aksjekapital Overkurs forhgyelse =. Udekket tap sum 2
+Egenkapital 31.12.2024 90 000 4 710 000 1 500 000 -7 872571 -1 572 571 =
+Arsresultat 0 0 0 -72 217 72217 =
+Egenkapital 31.12.2025 90 000 4710 000 1500 000 -7 944 788 -1 644 788 g
+=
+:
+Mer om egenkapital $s
+Selskapet har en ikke registrert kapitalforhayelse fra 2021 med tegningsbelgp kr 1 500 000. Det ble betalt kr g
+24,50 pr aksje i overkurs, samt @kning av aksjenes palydende fra kr 1,50 til kr 2,00. &
+Note 4 - Usikkerhet om fortsatt drift
+Det er knyttet usikkerhet til fortsatt drift.
+Selskapet har per 31.12.2025 negativ egenkapital pa TNOK 1 645, og det foreligger saledes usikkerhet knyttet
+til selskapets evne til fortsatt drift.
+Selskapet har over tid blitt finansiert avy aksjoneer gjennom lan og Ispende tilfgrsel av likviditet ved behov. Per
+balansedagen utgj@r gjeld til aksjoneer TNOK 4 688.
+Styret og aksjonzer har besluttet 4 gjennomfgre en gjeldskonvertering i |gpet av 2026, hvor vesentlige deler av
+aksjonzerlanet planiegges konvertert til egenkapital. Tiltaket forventes a reetablere selskapets egenkapital og
+styrke selskapets finansielle stilling og likviditet vesentlig.
+Pa bakgrunn av aksjonzerens finansielle stette, planiagt gieldskonvertering og selskapets forventede
+finansiering fremover, har styret lagt til grunn at forutsetningen om fortsatt drift er til stede ved avieggelsen av
+arsregnskapet
+
+FURTUNE AS
+
+919 588 470
+
+Note 5 - Gjeld og garantiforpliktelser
+
+Mer om gjeld
+
+Selskapet har en samlet gjeld til eier pa kr 4 688 117 for innbetalinger i regnskapsaret.
+
+Selskapet har gjeld til Maturitas AS pa kr 25 950.
+2
+>
+9
+ra
+i]
+iS
+S
+S
+ut
+vA
+s
+4
+=
+mS
+2
+=
+=
+=
+e
+x
+5
+&
+3
+s
+S
+a
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Mads Behn
+Underskriver
+Serienummer: bankid.no no_bankid:95 78-5998-4-2493373 QES
+IP: 46.21 2.XXX.XXX
+2026-06-17 09:20:26 UTC
+==pankin &%
+N
+g
+>
+9
+is)
+iva
+w~
+a
+:
+S
+re
+ay
+wy
+Re}
+—~!
+ba
+7)
+=
+>
+2
+=
+=
+7
+ou
+X
+S)
+£
+=
+v
+&
+3
+x
+S)
+Q
+Ss)
+v
+<=
+S
+v
+aq
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.

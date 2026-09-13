@@ -89,6 +89,7 @@ def extract_social_links(profile: dict) -> list[dict]:
             "rights_status": "approved",
             "source_class": "company_social",
             "handle": handle,
+            "evidence_span": f"Company social link ({platform}): {url}",
             "strategy": "website_crawl_social_discovery",
         }
         observations.append(obs)

@@ -1,0 +1,421 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 542548
+Virksomheten
+Organisasjonsnummer : 918 560 971
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: HILMA INVEST AS
+Forretningsadresse: Trakka 4B
+0774 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Marius Chr. Herud
+Dato for fastsettelse av arsregnskapet: 08.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 918 560 971
+
+HILMA INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 26 395 14 190
+
+Sum kostnader 1 26 395 14 190
+
+Driftsresultat -26 395 -14 190
+
+Finansinntekter og
+
+finanskostnader
+
+Mottatt utbytte 690 895 10 763
+
+Gevinst ved salg av
+
+aksjer og andeler 65 589 4 863
+
+Annen renteinntekt 119 069 130 897
+
+Verdiendring
+
+markedsbaserte omlepsmidler 2 291 253 364 064
+
+Sum finansinntekter 1 166 806 510 587
+
+Nedskrivning av
+
+finansielle eiendeler 2 -325 265 -243 845
+
+Annen rentekostnad 169 258 266 682
+
+Sum finanskostnader -156 007 22 837
+
+Netto finans 1 322 813 487 750
+
+Resultat fer skattekostnad 1 296 418 473 560
+
+Endring utsatt skatt 3 -12 288 -32 924
+
+Arsresultat 1 308 706 506 484
+
+Arsresultat etter
+
+minoritetsinteresser 1 308 706 506 484
+
+Totalresultat 1 308 706 506 484
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 1 308 706 506 484
+
+Sum overferinger og
+
+disponeringer 4 1 308 706 506 484
+Utskriftsdato 15.06.2026 Organisasjonsnr 918 560 971 Side 1 av 3
+
+Organisasjonsnr: 918 560 971
+HILMA INVEST AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3 71 340 59 052
+Sum immaterielle eiendeler 71 340 59 052
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 2 12 163 808 12 792 758
+Sum finansielle
+anleggsmidler 12 163 808 12 792 758
+Sum anleggsmidler 12 235 148 12 851 810
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 1 568 1 568
+Sum fordringer 1 568 1 568
+Investeringer
+Markedsbaserte aksjer 2 3 044 056 1 717 786
+Markedsbaserte obligasjoner 2 394 081 357 886
+Sum investeringer 3 438 137 2 075 672
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 2 537 631 1 804 578
+Sum bankinnskudd,
+kontanter og lignende 2 537 631 1 804 578
+Sum omlepsmidler 5 977 335 3 881 818
+SUM ELENDELER 18 212 483 16 733 627
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5 100 000 100 000
+Overkurs 890 000 890 000
+Sum innskutt egenkapital 990 000 990 000
+Opptjent egenkapital
+
+Utskriftsdato 15.06.2026 Organisasjonsnr 918 560 971 Side 2 av 3
+
+Annen egenkapital 10 503 628 9 194 921
+
+Sum opptjent egenkapital 10 503 628 9 194 921
+
+Sum egenkapital 4 11 493 628 10 184 921
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 6 697 964 6 528 706
+
+Sum annen langsiktig gjeld 6 697 964 6 528 706
+
+Sum langsiktig gjeld 6 697 964 6 528 706
+
+Kortsiktig gjeld
+
+Betalbar skatt 3
+
+Annen kortsiktig gjeld 20 891 20 000
+
+Sum kortsiktig gjeld 20 891 20 000
+
+Sum gjeld 6 718 855 6 548 706
+
+SUM EGENKAPITAL OG GJELD 18 212 483 16 733 627
+Utskriftsdato 15.06.2026 Organisasjonsnr 918 560 971 Side 3 av 3
+
+Organisasjonsnr: 918 560 971
+
+HILMA INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Hilma Invest AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 918 560 971
+
+Resultatregnskap
+Hilma Invest AS
+
+Note 2025 2024
+Driftsinntekter
+Driftskostnader
+Annen driftskostnad 26 395 14 190
+Sum driftskostnader 1 26 395 14 190
+Driftsresultat -26 395 -14 190
+Finansposter
+Mottatt utbytte 690 895 10 763
+Gevinst ved salg av aksjer og andeler 65 589 4 863
+Annen renteinntekt 119 069 130 897
+Verdiendring markedsbaserte omlapsmidler 2 291 253 364 064
+Nedskrivning av finansielle eiendeler 2 325 265 243 845
+Annen rentekostnad -169 258 -266 682
+Netto finans 1 322 813 487 750
+Resultat for skatt 1 296 418 473 560
+Endring utsatt skatt 3 -12 288 -32 924
+Arsresultat 4 308 706 506 484
+Overferinger
+Avsatt til annen egenkapital 1 308 706 506 484
+Sum overfgringer 4 1 308 706 506 484
+
+Balanse
+Hilma Invest AS
+
+Note 2025 2024
+Eiendeler
+Anleggsmidler
+Utsatt skattefordel 3 71 340 59 052
+Sum immaterielie eiendeler 71 340 59 052
+Finansielle anleggsmidler
+Investeringer i aksjer og andeler 2 12 163 808 12 792 758
+Sum finansielle anleggsmidler 12 163 808 12 792 758
+Sum anleggsmidler 12 235 148 12 851 810
+Omigpsmidier
+Andre kortsiktige fordringer 1 568 1 568
+Sum fordringer 1 568 1 568
+Investeringer
+Markedsbaserte aksjer 2 3 044 056 1717 786
+Markedsbaserte obligasjoner 2 394 081 357 886
+Sum investeringer 3 438 137 2 075 672
+Bankinnskudd, kontanter o.]. 2 537 631 1 804 578
+Sum oml@psmidler § 977 335 3 881 818
+SUM EIENDELER 18 212 483 16 733 627
+
+Balanse
+Hilma Invest AS
+
+Note 2025 2024
+Egenkapital og gjeld
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5 100 000 100 000
+Overkurs 890 000 890 000
+Sum innskutt egenkapital 990 000 990 000
+Opptjent egenkapital
+Annen egenkapital 10 503 628 9 194 921
+Sum opptjent egenkapital 10 503 628 9 194 921
+Sum egenkapital 4 11 493 628 10 184 921
+Gjeld
+Annen langsiktig gjeld
+Svrig langsiktig gjeld 6 697 964 6 528 706
+Sum annen langsiktig gjeld 6 697 964 6 528 706
+Kortsiktig gjeld
+Annen kortsiktig gjeld 20 891 20 000
+Sum kortsiktig gjeid 20 891 20 000
+Sum gjeld 6 718 855 6 548 706
+SUM EGENKAPITAL OG GJELD 18 212 483 16 733 627
+
+Oslo, 01.06.2026
+Styret i Hilma Invest AS
+/ 3
+| valle (My ; Hon LA cond nterecl
+Marius Chr. Herud Hilde K. Herud
+styreleder styremediem
+
+Hilma Invest AS
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres | samme periode er utlignet og nettofgrt.
+
+Klassifisering og vurdering av anleggsmidler
+
+Eiendeler som er bestemt for varig eie eller bruk klassifiseres som anleggsmidler.
+
+Investeringer
+
+Finansielle investeringer i datterselskap og tilknyttet selskaper vurderes etter kostmetoden i
+selskapsregnskapet. Investering i aksjer og andeler er vurdert til anskaffelseskost med mindre nedskrivning
+har veert nédvendig. Det vil bli foretatt nedskrivning til virkelig verdi nar verdifall skyldes arsaker som ikke
+kan antas a vere forbigaende og det ma anses nédvendig etter god regnskapsskikk. Nedskrivninger vil bli
+reversert nar grunnlaget for nedskrivning ikke lenger er til stede.
+
+Utbytte, konsernbidrag og andre utdelinger fra datterselskap er inntektsfgrt samme ar som det er avsatt i
+givers regnskap. Utbytte fra andre investeringer blir inntektsfgrt nar utbyttet er mottatt. Tilbakebetaling av
+innbetalt kapital blir bokfgrt som reduksjon i kostprisen.
+
+Klassifisering og vurdering av oml¢psmidler
+
+Omlg¢psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidier vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Note 1 L¢nnskostnader og antall arsverk
+
+Selskapet har ikke hatt Ignns- etler personalkostnader i 2025, og det foreligger heller ingen forpliktelser.
+Det er ikke utbetalt styrehonorar eller andre godtgjgrelser til styret, og heller ikke gitt lan eller sikkerhet til
+styret eller andre ledende personer.
+
+Selskapet er ikke pliktig til a ha tijenestepensjonsordning etter lov om offentlig tilenestepensjon.
+
+Hilma Invest AS
+
+Note 2 Aksjer, aksjefond, andeler i andre og obligasjoner
+
+Aksjer omlgpsmidler
+
+Verdipapirfond Kostpris Balanseverdi
+Fondsfinans Utbytte A 1165 589 1 221 280
+Fondsfinans Norden Utbytte A 100 000 281 594
+Fondsfinans Fornybar Energi 100 000 101 856
+DnB Teknologi 200 000 925 982
+DnB Absolut Return 400 000 513 343
+Sum 1 965 589 3 044055
+Kostpris 1965 589
+Verdiendring 01.01. 817 786
+Arets verdiendring 260 681
+Balanseverdi aksjefond 3 044 056
+Aksjer og andeler anleggsmidler
+
+Selskap Kostpris Balanseverdi
+Brattvag Offentlig Eiendom AS 1504 501 1504 504
+Oslo Helsebygg AS 2 580 399 2 580 399
+Veitvet Bydelssenter Invest AS 800 452 534 164
+Grenland Logistikk Invest AS 1 350 000 1 350 000
+Bryne Sentrumseiendom AS 2718 750 2 107 825
+AF Gruppen ASA 483 336 483 336
+Irish Homes AS 2 264 2 264
+Kobbervikdalen 1 860 000 1 860 000
+Verkstedseiendom AS
+
+Mailing & Co Venture AS 411 023 411 023
+Malling Value Add 1 AS 587 795 587 795
+Birkedalsveien 28 Invest AS 742 500 742 500
+Sum 13 041 020 12 163 807
+Kostpris 13 041 020
+Verdiendring 01.01. -1 202 478
+Arets verdiendring 325 264
+Balanseverdi aksjer anleggsmidler 12 163 806
+Obligasjoner
+
+Verdipapirfond Kostpris Balanseverdi
+Fondsfinans High Yield 252 332 394 080
+Sum 252 332 394 080
+Kostpris 252 332
+Verdiendring 01.01. 111 177
+Arets verdiendring 30571
+Balanseverdi obligasjoner 394 080
+
+Hilma Invest AS
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skatt -12 288 -32 924
+Skattekostnad ordinzrt resultat -12 288 -32 924
+Skattepliktig inntekt:
+Resultat fgr skatt 1 296 418 473 560
+Permanente forskjeller -1 352 275 -623 213
+Skattepliktig inntekt -55 857 -149 653
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -324 273 -268 416 55 857
+Grunnilag for _utsatt skattefordel -324 273 -268 416 55 857
+Utsatt skatt basert pa 22% -71 340 -59 052 12 288
+Note 4 Egenkapital
+Aksjekapital Overkurs Annen Sum
+egenkapital egenkapital
+Pr. 31.12.2024 100 000 890 000 9194921 10 184 921
+Arets resultat 1 308 706 1 308 706
+Pr 31.12.2025 100 000 890 000 10503628 11493628
+Note 5 Aksjonzrer
+Aksjekapitalen i Hilma Invest AS pr. 31.12 bestar av:
+Antall Palydende Bokfgrt
+Ordinzre aksjer 100 000 1,0 100 000
+Sum 100 000 100 000
+Eierstruktur
+De st@rste aksjonzrene i % pr. 31.12 var:
+Ordinzre Eierandel
+Hilde K. Herud 45 000 45,0
+Marius Chr. Herud 45 000 45,0
+Iselin Herud 5 000 5,0
+Jonas Chr. Herud 5 000 5,0
+Totalt antall aksjer 100 000 100,0

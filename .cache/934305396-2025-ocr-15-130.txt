@@ -1,0 +1,458 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 518174
+Virksomheten
+Organisasjonsnummer : 934 305 396
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: TRUCK CONSTRUCTION AS
+Forretningsadresse: Kanalveien 11
+5068 BERGEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Per Gunnar Stremberg Rasmussen
+Dato for fastsettelse av arsregnskapet: 27.03.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 934 305 396
+
+TRUCK CONSTRUCTION AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 38 136
+
+Sum kostnader 38 136
+
+Driftsresultat -38 136
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 419 31
+
+Sum finansinntekter 419 31
+
+Annen finanskostnad 970
+
+Sum finanskostnader 970
+
+Netto finans 419 -939
+
+Resultat fer skattekostnad -37 717 -939
+
+Skattekostnad pa resultat 3
+
+Arsresultat -37 717 -939
+
+Arsresultat etter
+
+minoritetsinteresser -37 717 -939
+
+Totalresultat -37 717 -939
+
+Overfoeringer og
+
+disponeringer
+
+Overfert til udekket tap -24 440
+
+Udekket tap -13 277 -939
+
+Sum overferinger og
+
+disponeringer -37 717 -939
+Utskriftsdato 30.06.2026 Organisasjonsnr 934 305 396 Side 1 av 2
+
+Organisasjonsnr: 934 305 396
+
+TRUCK CONSTRUCTION AS
+
+BALANSE
+
+Belep i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Sum anleggsmidler
+
+Omlepsmidler
+
+Varer
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 5 561 43 277
+
+Sum bankinnskudd,
+
+kontanter og lignende 5 561 43 277
+
+Sum omlepsmidler 5 561 43 277
+
+SUM EIENDELER 5 561 43 277
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4, 5 30 000 30 000
+
+Overkurs 5 13 277
+
+Sum innskutt egenkapital 30 000 43 277
+
+Opptjent egenkapital
+
+Udekket tap 5 24 440
+
+Sum opptjent egenkapital -24 440
+
+Sum egenkapital 5 561 43 277
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Betalbar skatt 3
+
+Sum gjeld
+
+SUM EGENKAPITAL OG GJELD 5 561 43 277
+Utskriftsdato 30.06.2026 Organisasjonsnr 934 305 396 Side 2 av 2
+
+Organisasjonsnr: 934 305 396
+
+TRUCK CONSTRUCTION AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+KPMG AS
+KPMG Kanalveien 11 Telephone +47 45 40 40 63
+P.O. Box 4 Kristianborg Internet www.kpmg.no
+N-5822 Bergen Enterprise 935 174 627 MVA
+Til generalforsamlingen i Truck Construction AS
+Uavhengig revisors beretning
+Konklusjon %
+wi)
+Vi har revidert arsregnskapet for Truck Construction AS som bestar av balanse per 31. desember a
+2025, resultatregnskap for regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, S
+herunder et sammendrag av viktige regnskapsprinsipper. s
+iy
+Etter var mening 5
+N
+e oppfyller arsregnskapet gjeldende lovkrav, og g
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025, N
+og av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med 2
+regnskapslovens regler og god regnskapsskikk i Norge. &
+=
+Grunnlag for kKonklusjonen ES
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare =
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og £
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i e
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants =
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for 8
+Accountants (IESBA-reglene), og vi har overholdt vare @vrige etiske forpliktelser i samsvar med disse 2
+kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag &
+for var konklusjon.
+Styrets og daglig leders ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlige for a utarbeide arsregnskapet og for at det gir et
+rettvisende bilde isamsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er
+ogsa ansvarlig for slik internkontroll som den finner ngdvendig for a kunne utarbeide et arsregnskap
+som ikke inneholder vesentlig feilinformasjon, verken som felge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn
+for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som felge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en hey grad av sikkerhet, men ingen garanti
+for at en revisjon utfort i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon.
+Offices in:
+© KPMG AS and KPMG Law Advokatfirma AS, Norwegian limited liability companies and a member firm of the KPMG global Oslo Kristiansand
+organization of independent member firms affiliated wilh KPMG International Limited, a private English company limited by Arendal Stavanger
+guarantee. All rights reserved. Bergen Trondheim
+Drammen Tynset
+Statsautoriserte revisorer - medlemmer avy Den norske Revisorforening Hamar
+
+Feilinformasjon kan oppsta som fglge av misligheter eller utilsiktede feil. Feilinformasjon er a anse
+som vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke de
+gkonomiske beslutningene som brukerne foretar pa grunnlag av arsregnskapet.
+Som del av en revisjon i samsvar med ISA-ene, utever vi profesjonelt skjonn og utviser profesjonell
+skepsis gjennom hele revisjonen. | tillegg:
+e identifiserer og vurderer vi risikoen for vesentlig feilinformasjon i regnskapet, enten det skyldes
+misligheter eller utilsiktede feil. Vi utformer og gjennomfgrer revisjonshandlinger for a handtere
+slike risikoer, og innhenter revisjonsbevis som er tilstrekkelig og hensiktsmessig som grunnlag
+for var konklusjon. Risikoen for at vesentlig feilinformasjon som fglge av misligheter ikke blir
+avdekket, er hayere enn for feilinformasjon som skyldes utilsiktede feil, siden misligheter kan
+innebeere samarbeid, forfalskning, bevisste utelatelser, uriktige fremstillinger eller overstyring
+av internkontroll.
+e opparbeider vi oss en forstaelse av intern kontroll som er relevant for revisjonen, for a utforme
+revisjonshandlinger som er hensiktsmessige etter omstendighetene, men ikke for a gi uttrykk
+for en mening om effektiviteten av selskapets interne kontroll.
+e  evaluerer vi om de anvendte regnskapsprinsippene er hensiktsmessige og om
+regnskapsestimatene og tilharende noteopplysninger utarbeidet av ledelsen er rimelige. %
+wi)
+F
+e konkluderer vi pa om ledelsens bruk av fortsatt drift-forutsetningen er hensiktsmessig, og, a
+basert pa innhentede revisjonsbevis, hvorvidt det foreligger vesentlig usikkerhet knyttet til =
+hendelser eller forhold som kan skape tvil av betydning om selskapets evne til fortsatt drift. =
+Dersom vi konkluderer med at det eksisterer vesentlig usikkerhet, kreves det at vi i 5
+revisjonsberetningen henleder oppmerksomheten pa tilleggsopplysningene i arsregnskapet, N
+eller, dersom slike tilleggsopplysninger ikke er tilstrekkelige, at vi modifiserer var konklusjon. 3
+Vare konklusjoner er basert pa revisjonsbevis innhentet frem til datoen for =
+revisjonsberetningen. Etterfolgende hendelser eller forhold kan imidlertid medfore at selskapet 8
+ikke kan fortsette driften. 3
+Q
+e evaluerer vi den samlede presentasjonen, strukturen og innholdet i arsregnskapet, inkludert =
+tilleggsopplysningene, og hvorvidt arsregnskapet gir uttrykk for de underliggende gy
+transaksjonene og hendelsene pa en mate som gir et rettvisende bilde. 3
+=
+Vi kommuniserer med styret blant annet om det planlagte innholdet i og tidspunkt for revisjonsarbeidet E
+og eventuelle vesentlige funn i revisjonen, herunder vesentlige svakheter i intern kontroll som vi rs
+avdekker gjennom revisjonen. 3
+a
+Bergen
+KPMG AS
+Stein Are Slettemark
+Statsautorisert revisor
+(elektronisk signert)
+2
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Stein Are Slettemark
+Partner
+Pavegne av: KPMGAS QES
+Serienummer: bankid.no no_bankid:95 78-5 999-4- 1237850
+IP: 80.232.XXX.XXX
+2026-03-27 12:23:14 UTC
+==pankin &%
+A
+y
+a
+rl
+g
+=
+=
+~
+KR
+>
+N
+a
+2)
+=
+N
+Na)
+w)
+=
+“9
+vi
+=
+oy
+©
+g
+x
+Ss)
+£
+iS
+vu
+&
+3
+3
+Q
+Ss)
+uv
+<
+=
+uD
+aq
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.
+
+Arsregnskap 2025
+Truck Construction AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 934 305 396
+
+Resultatregnskap
+
+Truck Construction AS
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftskostnad 38 136 0
+Sum driftskostnader 38 136 0
+Driftsresultat -38 136 0
+Finansinntekter og finanskostnader
+Annen renteinntekt 419 31
+Annen finanskostnad 0 970
+Resultat av finansposter 419 -939
+Resultat for skattekostnad -37 717 -939
+Arsresultat -37 717 -939
+Overforinger
+Overfert fra overkurs 13 277 939
+Overfart til udekket tap 24 440 0
+Sum overferinger -37 717 -939
+Truck Construction AS Side 2
+
+Balanse
+Truck Construction AS
+Eiendeler Note 2025 2024
+Omlspsmidiler
+Bankinnskudd, kontanter o.1. 5 561 43 277
+Sum omlgepsmidler 5 561 43 277
+Sum eiendeler 5 561 43 277
+Egenkapital og gjeld
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4,5 30 000 30 000
+Overkurs 5 0 13 277
+Sum innskutt egenkapital 30 000 43 277
+Udekket tap ) -24 440 0
+Sum opptjent egenkapital -24 440 0
+Sum egenkapital § 561 43 277
+Sum egenkapital og gjeld 5 561 43 277
+Styret i Truck Construction AS , 4 | Y0%5
+Per Gunnar Stramberg Rasmussen rne Rasmussen
+styreleder styremediem
+Truck Construction AS Side 3
+
+Truck Construction AS
+
+Noter for regnskapsaret 2025
+Note 1 Regnskapsprinsipper
+Arsregnskapet bestar av falgende deler:
+¢ Resultatregnskap
+* Balanse
+* Noter
+Arsregnskapet er satt opp i samsvar med regnskapslov og NRS 8 - God regnskapsskikk for sma
+foretak.
+Virksomheten drives i Bergen, Norge.
+Hovedregel for vurdering og klassifisering av eiendeler og gjeld
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som omlgpsmidler. Fordringer som skal tilbakebetales innen et ar er uansett klassifisert
+som omlgpsmidler. Ved klassifisering av kortsiktig og langsiktig gjeld er analoge kriterier lagt til
+grunn.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt mottatt belop pa opptakstidspunktet.
+Inntektsforing
+Inntekter inntektsfores etter hvert som de opptjenes.
+Kostnadsforingstidspunkt / sammenstilling
+Utgifter sammenstilles med, og kostnadsfores samtidig med, de inntekter utgiftene kan henfores til.
+Utgifter som ikke kan henfgres direkte til inntekter, kostnadsfores nar de paleper.
+Skatt
+Skattekostnaden er knyttet til det regnskapsmessige resultat og bestar av betalbar skatt og endring 1
+netto utsatt skatt.
+Utsatt skatt i resultatregnskapet er skatt beregnet pa endringer 1 midlertidige forskjeller mellom
+skattemessige og regnskapsmessige verdier. Utsatt skatt er beregnet med 22% pa grunnlag av de
+midlertidige forskjeller som eksisterer mellom regnskapsmessige og skattemessige verdier, samt
+skattemessig underskudd til fremforing ved utgangen av regnskapsaret. Utsatt skatt avsettes som
+langsiktig gjeld i balansen. Netto utsatt skattefordel balansefores i den grad det er sannsynlig at
+denne kan bli nyttiggjort.
+Neerstaende parter
+Selskapet inngdar i konsernet Stromberg Gruppen AS (forretningsadresse Kanalveien 11, 5068
+Bergen), og benytter de samme regnskapsprinsipper som konsernet.
+Selskap i samme konsern er definert som nzerstaende. Transaksjoner mellom nzerstaéende parter er
+utfert i henhold til vanlige forretningsmessige vilkar.
+Selskapet har ikke foretatt endring i regnskapsprinsipp i regnskapsaret.
+
+Note 2 Ansatte
+Selskapet har ingen ansatte. Det er ikke utbetalt styrehonorar.
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -37 717 -939
+Permanente forskjeller 0 -5 784
+Skattepliktig inntekt -37 717 -6 723
+Betalbar skatt 1 balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremforing som har gitt opphav til utsatt
+skatt og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+. 2025 2024 Endring
+Akkumulert fremforbart underskudd -44 440 -6 723 37 717
+Inng€r ikke i beregningen av utsatt skatt 44 440 6 723 -37 717
+Utsatt skattefordel (22 %) 0 0 0
+I henhold til God regnskapsskikk for sma foretak balansefores ikke utsatt skattefordel.
+Note 4 Aksjonzrer
+Aksjekapitalen i Truck Construction AS pr. 31.12 bestar av:
+Antall Palydende Bokfert
+Ordinzere aksjer 100 300,0 30 000
+Sum 100 30 000
+Eierstruktur
+De storste aksjonzerene i % pr. 31.12 var:
+Ordinzre Eierandel Stemmeandel
+Stramberg Gruppen AS 100 100,0 100,0
+
+Note 5 Egenkapital
+Aksjekapital Overkurs Udekket tap Sum
+egenkapital
+Pr. 31.12.2024 30 000 13 277 0 43 277
+Arets resultat -13 277 -24 440 -37 717
+Pr 31.12.2025 30 000 0 -24 440 5 561

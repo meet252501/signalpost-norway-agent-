@@ -1,0 +1,385 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 601033
+Virksomheten
+Organisasjonsnummer : 928 761 959
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: KJEVEORT AS
+Forretningsadresse: Inkognitogata 43
+0255 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Shervin Shadnazar
+Dato for fastsettelse av arsregnskapet: 28.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 928 761 959
+
+KJEVEORT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 1, 2 616 970 556 360
+
+Annen driftskostnad 14 223 17 160
+
+Sum kostnader 631 193 573 520
+
+Driftsresultat -631 193 -573 520
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 29 253
+
+Sum finansinntekter 29 253
+
+Annen rentekostnad 51 0
+
+Sum finanskostnader 51 fe)
+
+Netto finans -23 253
+
+Resultat fer skattekostnad -631 216 -573 267
+
+Arsresultat -631 216 -573 267
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -631 216 -573 267
+Utskriftsdato 30.06.2026 Organisasjonsnr 928 761 959 Side 1 av 3
+
+Organisasjonsnr: 928 761 959
+
+KJEVEORT AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Lan til foretak i samme
+
+konsern 1 070 325 0)
+
+Sum finansielle
+
+anleggsmidler 1 070 325 0
+
+Sum anleggsmidler 1 070 325 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 51 986 114 747
+
+Sum bankinnskudd,
+
+kontanter og lignende 51 986 114 747
+
+Sum omlepsmidler 51 986 114 747
+
+SUM ELENDELER 1 122 311 114 747
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Udekket tap 1 523 927 892 711
+
+Sum opptjent egenkapital -1 523 927 -892 711
+Utskriftsdato 30.06.2026 Organisasjonsnr 928 761 959 Side 2 av 3
+
+Sum egenkapital -1 493 927 -862 711
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 3 2 521 264 829 193
+
+Sum annen langsiktig gjeld 2 521 264 829 193
+
+Kortsiktig gjeld
+
+Leverandergjeld 1 0
+
+Skyldige offentlige
+
+avgifter 28 935 20 244
+
+Annen kortsiktig gjeld 66 038 128 020
+
+Sum kortsiktig gjeld 94 973 148 264
+
+Sum gjeld 2 616 237 977 458
+
+SUM EGENKAPITAL OG GJELD 1 122 311 114 747
+Utskriftsdato 30.06.2026 Organisasjonsnr 928 761 959 Side 3 av 3
+
+Organisasjonsnr: 928 761 959
+KJEVEORT AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+Regnskapsprinsipper
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+balanseposter
+
+Eiendeler som er knyttet til varekretslepet er klassifisert
+
+som omlepsmidler. Fordringer klassifiseres som oml@psmidler hvis de
+forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar
+etter transaksjonsdagen. Feorste ars avdrag pa langsiktige fordringer og
+langsiktig gjeld klassifiseres likevel ikke som oml@psmiddel og kortsiktig
+gjeld.
+Omlepsmidler vurderes til laveste av anskaffelseskost og virkelig
+verdi. Kortsiktig gjeld balansefores til nominelt belep pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes 4 vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer
+og andre fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning til forventet tap. Avsetning til tap gje@res pa grunnlag av
+individuelle vurderinger av de enkelte fordringene.
+
+Selskapet har ikke
+
+endret regnskapsprinsipp fra 2024 til 2025.
+Note
+
+1
+Antall Arsverk i regnskapsaret
+
+1.00
+Note
+
+2
+
+Spesifisering av resultatregnskapet
+Lennkostnader
+
+Lenn Arets Fljorarets
+
+540185.00 487200.00
+Folketrygdavgift Arets Fjorarets
+76785.00 69160.00
+Sum lgnnskostnader Arets Fljorarets
+
+616970.00 556360.00
+
+Note
+3
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregns kap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Annen langsiktig gjeld
+
+Samlet belep - foretak i samme konserm Arets Fjorarets
+
+1353264.00 829193 .00
+
+Arsregnskap for
+KJEVEORT AS
+928761959
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+KJEVEORT AS
+928 761 959
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+L@nnskostnad 1,2 -616 970 -556 360
+Annen driftskostnad -14 223 -17 160
+Sum driftskostnader -631 193 -573 520
+Driftsresultat -631 193 -573 520
+Finansinntekter
+Annen renteinntekt 29 253
+Sum finansinntekter 29 253
+Finanskostnader
+Annen rentekostnad -51 0
+Sum finanskostnader -51 0
+Netto finans -23 253
+Arsresultat -631 216 -573 267
+Overfaringer
+Udekket tap -631 216 -573 267
+Sum overferinger -631 216 -573 267
+
+KJEVEORT AS
+928 761 959
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Lan til foretak i samme konsern 1070 325 0
+Sum finansielle anleggsmidler 1070 325 0
+Sum anleggsmidler 1 070 325 0
+Omlgpsmidler
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 51 986 114 747
+Sum bankinnskudd, kontanter og lignende 51 986 114 747
+Sum omlgpsmidler 51 986 114 747
+SUM EIENDELER 1122 311 114 747
+
+KJEVEORT AS
+928 761 959
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Udekket tap -1 523 927 -892 711
+Sum opptjent egenkapital -1 523 927 -892 711
+Sum egenkapital -1 493 927 -862 711
+Gjeld
+Annen langsiktig gjeld
+Langsiktig konserngjeld 3 2 521 264 829 193
+Sum annen langsiktig gjeld 2 521 264 829 193
+Kortsiktig gjeld
+Leverandgrgjeld 1 0
+Skyldige offentlige avgifter 28 935 20 244
+Annen kortsiktig gjeld 66 038 128 020
+Sum kortsiktig gjeld 94 973 148 264
+Sum gjeld 2 616 237 977 458
+SUM EGENKAPITAL OG GJELD 1122 311 114 747
+OSLO, 28.06.2026
+Shervin Shadnazar
+styrets leder
+
+KJEVEORT AS
+928 761 959
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+Eiendeler som er knyttet til varekretslgpet er klassifisert som omlg@psmidler. Fordringer klassifiseres som
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld
+som kortsiktig hvis gjelden forfaller til betaling innen ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett
+ar etter transaksjonsdagen. Ferste ars avdrag pa langsiktige fordringer og langsiktig gjeld klassifiseres likevel
+ikke som omlgpsmiddel og kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 1
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 540 185 487 200
+Arbeidsgiveravgift 76 785 69 160
+Pensjonskostnader 0 0
+Andre relaterte ytelser 0 0
+Sum 616 970 556 360
+Note 3 - Konsern, tilknyttet selskap m.v.
+Annen langsiktig gjeld
+2025 2024
+Samlet belgp som gjelder foretak i samme konsern 1 353 264 829 193

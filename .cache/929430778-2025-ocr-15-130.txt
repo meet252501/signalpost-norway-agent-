@@ -1,0 +1,580 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 685099
+Virksomheten
+Organisasjonsnummer : 929 430 778
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ENGQVIST INVEST AS
+Forretningsadresse: Innherredsveien 132
+7044 TRONDHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Niklas Engquist
+Dato for fastsettelse av arsregnskapet: 14.07.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 16.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 929 430 778
+
+ENGOVIST INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 4 469 0
+
+Annen driftsinntekt 350 000 0
+
+Sum inntekter 354 469 0
+
+Kostnader
+
+Lennskostnad 2 0 0
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 171 216 0
+
+Annen driftskostnad 167 814 5 953
+
+Sum kostnader 339 030 5 953
+
+Driftsresultat 15 439 -5 953
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 22 753 0
+
+Sum finansinntekter 22 753 e)
+
+Annen rentekostnad 141 487 0
+
+Sum finanskostnader 141 487 0
+
+Netto finans -118 734 e)
+
+Resultat fer skattekostnad -103 295 -5 953
+
+Arsresultat -103 295 -5 953
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -103 295 -5 953
+
+Sum overferinger og
+
+disponeringer -103 295 -5 953
+Utskriftsdato 16.07.2026 Organisasjonsnr 929 430 778 Side 1 av 3
+
+Organisasjonsnr: 929 430 778
+
+ENGOQVIST INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Konsesjoner, patenter,
+
+lisenser, varemerker og
+
+lignende rettigheter 3 0 0
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 3 11 129 874 0
+
+Maskiner og anlegg 3 0 0
+
+Skip, rigger, fly og
+
+lignende 3 0 0
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner
+
+og lignende 3 0 0
+
+Sum varige driftsmidler 11 129 874 0
+
+Sum anleggsmidler 11 129 874 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 66 969 0
+
+Andre kortsiktige
+
+fordringer 4 0 -263
+
+Sum fordringer 66 969 -263
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 670 312 14 554
+
+Sum bankinnskudd,
+
+kontanter og lignende 670 312 14 554
+
+Sum omlepsmidler 737 281 14 291
+
+SUM ELENDELER 11 867 155 14 291
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 5 4 430 000 30 000
+
+Annen innskutt egenkapital -5 570 -5 570
+Utskriftsdato 16.07.2026 Organisasjonsnr 929 430 778 Side 2 av 3
+
+Sum innskutt egenkapital 4 424 430 24 430
+
+Opptijent egenkapital
+
+Annen egenkapital 5 0 0
+
+Udekket tap 113 130 9 835
+
+Sum opptjent egenkapital -113 130 -9 835
+
+Sum egenkapital 4 311 300 14 595
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 6 600 000 0
+
+@vrig langsiktig gjeld 562 763 0
+
+Sum annen langsiktig gjeld 7 162 763 0
+
+Sum langsiktig gjeld 7 162 763 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 10 805 -41
+
+Skyldig offentlige avgifter 15 319 -263
+
+Annen kortsiktig gjeld 366 968 0
+
+Sum kortsiktig gjeld 393 092 -304
+
+Sum gjeld 7 555 855 -304
+
+SUM EGENKAPITAL OG GJELD 11 867 155 14 291
+Utskriftsdato 16.07.2026 Organisasjonsnr 929 430 778 Side 3 av 3
+
+Organisasjonsnr: 929 430 778
+
+ENGOQVIST INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og NRS 8 - God
+regnskapsskikk for sma foretak.
+
+Arten av virksomheten og hvor den
+
+drives
+
+Selskapets virksomhet bestar av [angi virksomhet], og drives i [angi
+geografisk omrade] .
+
+Valuta
+
+Pengeposter i utenlandsk valuta vurderes iht
+
+kursen ved regnskapsarets slutt.
+
+Driftsinntekter
+
+Inntektsforing ved salg
+
+av varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med Skattesats pa grunnlag av de midlertidige forskjeller som
+eksisterer mellom regnskapsmessige og skattemessige verdier, samt
+ligningsmessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reverseres 1 samme periode er utlignet og
+
+nettofert.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+omfatter eiendeler bestemt til varig eile og bruk. Anleggsmidler er vurdert
+til anskaffelseskost. Varige driftsmidler balanseferes og avskrives over
+driftsmidlets @konomiske levetid. Avskrivningsperioden for fast eiendom
+anskaffet etter 2009 er dekomponert i en del som gjelder rabygget og en del
+som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives
+til gjenvinnbart bel@p ved verdifall som forventes ikke a vere forbigaende.
+Gjenvinnbart belep er det heyeste av netto salgsverdi og verdi i bruk. Verdi
+i bruk er naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivningen reverseres nar grunnlaget for nedskrivningen ikke lenger er
+til stede.
+
+Omlepsmidler og kortsiktig gjeld omfatter normalt poster som
+
+forfaller til betaling innen ett ar etter balansedagen, samt poster som
+knytter seg til varekretslepet. Omlepsmidler vurderes til laveste verdi av
+anskaffelseskost og antatt virkelig verdi.
+
+Aksjer i
+
+datterselskap
+
+Investeringer i datterselskap er vurdert etter kostmetoden
+
+ettersom konsernet samlet ikke overstiger grensen for sma
+
+foretak.
+
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og
+netto salgsverdi.
+Fordringer
+Kundefordringer og andre fordringer oppferes
+til palydende etter fradrag for avsetning til forventet tap. Avsetning til
+tap gj@res pa grunnlag av en individuell vurdering av de enkelte
+fordringene.
+Pensjonsforpliktelser
+Pensjonsforpliktelser finansiert over
+driften er beregnet og balansefoert under avsetning for forpliktelser.
+Pensjonsordninger finansiert via sikrede ordninger er ikke balansefort.
+Pensjonspremien anses i disse tilfeller som pensjonskostnad og
+klassifiseres sammen med lennskostnader.
+Garanti
+Det er avsatt til
+forventede garantikostnader. Garantiavsetningen er i balansen oppfert under
+annen kortsiktig gjeld.
+Note
+5
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+2
+Antall Arsverk i regnskapsaret
+0.00
+Note
+3
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+11301090.00 0.00
+Avgang i aret Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+11301090.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+171216.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+11129874.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+
+171216.00 0.00
+@konomisk levetid Immaterielle eiend.
+0
+Anskaffelseskost - balansefeorte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Kons ernregnskap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Note
+5
+Beholdning av _egne aksjer Antall Palydende Andel av aksjek.
+30.00 1000.00 100.00%
+Erverv
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Andel av _aksjekapital Egne aksjer I_morselskap
+0.00% 0.00%
+Avhendelse
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Andel av _aksjekapital Egne aksjer I_morselskap
+0.00% 0.00%
+Samvirkeforetak
+Vedtektsbestenmelser/arsmetevedtak/forslag til vedtak om medlemskapskonti
+Mer om aks jer
+Note
+4
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+
+Rentesats styret Andre organ
+0.00% 0.00%
+
+Mer om 14n og sikkerhetsstillelse
+Det er ikke gitt lan eller sikkerhetsstillelse til styret eller ledende
+personer.
+Note
+
+6
+Noteopplysninger ut over minimumskravene for sma foretak
+Generelt: Arsregnskapet 2025 er satt opp i samsvar med regnskapsloven og god
+regnskapsskikk. Det er utarbeidet etter norske regnskapsstandarder. Regler
+som gjelder for sma foretak er anvendt der annet ikke er angitt.
+Inntektsfering ved salg av varer skjer pa leveringstidspunkt. Tjenester
+inntektsfores ved levering. Klassifisering Omle@psmidler og kortsiktig gjeld
+omfatter poster som forfaller til betaling innen ett Ar, samt poster som
+knytter seg til varekretslepet.
+
+Arsregnskap 2025
+Engavist Invest AS
+Orgnr: 929430778
+
+Utarbeidet ved hjelp av
+Unimicro - levert av Uni Micro
+
+g p Noter 2025 2024
+Driftsinntekter
+Salgsinntekt 4 469 0
+Annen driftsinntekt 350 000 0
+Sum driftsinntekt 354 469 0
+Driftskostnader
+L@nnskostnad 2 0 0
+Avskrivning pa varige driftsmidler og immaterielle eiendeler 3 171 216 0
+Annen driftskostnad 167 814 5 953
+Sum driftskostnad 339 030 5 953
+Driftsresultat 15 439 -5 953
+Finansinntekter
+Annen finansinntekt 22 753 0
+Sum finansinntekt 22 753 0
+Finanskostnader
+Annen rentekostnad 141 487 0
+Sum finanskostnader 141 487 0
+Netto finans -118 734 0
+Resultat fer skattekostnad -103 295 —5 953
+Skattekostnad 0 0
+Arsresultat -103 295 -5 953
+Overferinger og disponeringer
+Fremfering av udekket tap -103 295 —-5 953
+Sum overferinger og disponeringer -103 295 —-5 953
+Arsregnskap for Engqvist Invest AS 2025 Side 1
+
+Noter 2025 2024
+EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Konsesjoner, patenter, lisenser, varemerker og lignende rettigheter 3 0 0
+Varige driftsmidler
+Tomter, bygninger og annen fast eiendom 3 11129 874 0
+Maskiner og anlegg 3 0 0
+Skip, rigger, fly og lignende 3 0 0
+Driftsloso@re, inventar, verktay, kontormaskiner og lignende 3 0 0
+Sum varige driftsmidler 11 129 874 0
+Omlgpsmidler
+Fordringer
+Kundefordringer 66 969 0
+Andre kortsiktige fordringer 4 0 -263
+Sum fordringer 66 969 -263
+Bankinnskudd, kontanter og lignende 670 312 14 554
+Sum omlepsmidler 737 281 14 292
+SUM EIENDELER 11 867 155 14 292
+Arsregnskap for Engqvist Invest AS 2025 Side 2
+
+Noter 2025 2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 5 4 430 000 30 000
+Annen innskutt egenkapital -5 570 -5 570
+Sum innskutt egenkapital 4 424 430 24 430
+Opptjent egenkapital
+Annen egenkapital 5 0 0
+Endringer udekket tap -113 130 —-9 835
+Sum opptjent egenkapital -113 130 -9 835
+Sum egenkapital 4311 300 14 595
+Gjeld
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 6 600 000 0
+@vrig langsiktig gjeld 562 763 0
+Sum annen langsiktig gjeld 7 162 763 0
+Kortsikktig gjeld
+Leverandergijeld 10 805 -41
+Skyldig offentlige avgifter 15 319 -263
+Annen kortsiktig gjeld 366 968 0
+Sum kortsiktig gjeld 393 093 -303
+Sum gjeld 7555 855 -303
+SUM EGENKAPITAL OG GJELD 11 867 155 14 292
+Bo Niclas Engkvist
+Daglig leder, Styrets leder
+Arsregnskap for Engqvist Invest AS 2025 Side 3
+
+Note 1 - Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Arten av virksomheten og hvor den drives
+
+Selskapets virksomhet bestar av [angi virksomhet], og drives i [angi geografisk omrade].
+
+Valuta
+
+Pengeposter i utenlandsk valuta vurderes iht kursen ved regnskapsarets slutt.
+
+Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert som de
+leveres.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med Skattesats pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofart.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til anskaffelseskost.
+Varige driftsmidler balansefgres og avskrives over driftsmidlets @konomiske levetid. Avskrivningsperioden for
+fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belap ved verdifall som forventes ikke a
+veere forbigaende. Gjenvinnbart belgp er det hgyeste av netto salgsverdi og verdi i bruk. Verdi i bruk er
+naverdi av fremtidige kontantstrammer knyttet til eiendelen. Nedskrivningen reverseres nar grunnlaget for
+nedskrivningen ikke lenger er til stede.
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og antatt virkelig verdi.
+
+Aksjer i datterselskap
+
+Investeringer i datterselskap er vurdert etter kostmetoden ettersom konsernet samlet ikke overstiger grensen
+for sma foretak.
+
+Varer
+
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Pensjonsforpliktelser
+
+Pensjonsforpliktelser finansiert over driften er beregnet og balansefert under avsetning for forpliktelser.
+Pensjonsordninger finansiert via sikrede ordninger er ikke balansefert. Pensjonspremien anses i disse tilfeller
+som pensjonskostnad og klassifiseres sammen med I@nnskostnader.
+
+Garanti
+
+Det er avsatt til forventede garantikostnader. Garantiavsetningen er i balansen oppfert under annen kortsiktig
+gjeld.
+
+Note 2 - Antall arsverk
+
+Selskapet har ingen arsverk i 2025
+
+Note 3 - Anleggsmidler
+Varige driftsmidler Immaterielle
+eiendeler
+Anskaffelseskost 01.01 0 0
+Tilgang i aret 11 301 090 0
+Avgang i aret 0 0
+Anskaffelseskost 31.12 11 301 090 0
+Samlede avskrivninger, nedskrivinger og reverseringer av nedskrivinc 171 216 0
+Balansefgrt 31.12 11 129 874 0
+Avskrivninger, nedskrivninger og reverseringer i regnskapsaret 171 216 0
+Mkonomisk levetid immaterielle eiendeler 0
+Avskrivningsplan immaterielle eiendeler
+Balanseferte lanekostnader knyttet til egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virsomhetskjap
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Note 4 - Lan og sikkerhetsstillelse til ledende personer
+Mer om Ian og sikkerhetsstillelse
+Det er ikke gitt lan eller sikkerhetsstillelse til styret eller ledende personer.
+Note 5 - Usikkerhet om fortsatt drift
+Forutsetning for fortsatt drift er lagt til grunn for arsregnskapet
+Note 6 - Opplysninger utover minimumskrav for sma foretak
+Generelt: Arsregnskapet 2025 er satt opp i samsvar med regnskapsloven og god regnskapsskikk. Det er
+utarbeidet etter norske regnskapsstandarder. Regler som gjelder for sma foretak er anvendt der annet ikke er
+angitt.
+Inntektsfgring ved salg av varer skjer pa leveringstidspunkt. Tjenester inntektsferes ved levering.
+Klassifisering Omlgpsmidler og kortsiktig gjeld omfatter poster som forfaller til betaling innen ett ar, samt
+poster som knytter seg til varekretslapet.

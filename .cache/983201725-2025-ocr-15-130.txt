@@ -1,0 +1,473 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 368175
+Virksomheten
+Organisasjonsnummer : 983 201 725
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: RID AS
+Forretningsadresse: Vestre Olsvikveg 25
+6019 ALESUND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ragnar Ingolfsson
+Dato for fastsettelse av arsregnskapet: 26.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 08.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 983 201 725
+
+RID AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 846 591 709 412
+
+Sum inntekter 846 591 709 412
+
+Kostnader
+
+Varekostnad 192 304 86 785
+
+Lennskostnad 1, 2 549 799 483 368
+
+Annen driftskostnad 288 529 182 454
+
+Sum kostnader 1 030 633 752 606
+
+Driftsresultat -184 042 -43 194
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 152 544
+
+Annen finansinntekt 0 0
+
+Sum finansinntekter 152 544
+
+Annen rentekostnad 35 0
+
+Sum finanskostnader 35 e)
+
+Netto finans 117 544
+
+Resultat fer skattekostnad 3, 4 -183 924 -42 650
+
+Skattekostnad 3, 4 -40 463 -9 383
+
+Arsresultat 5 -143 461 -33 267
+
+Annen egenkapital 5 -143 461 -33 267
+Utskriftsdato 08.04.2026 Organisasjonsnr 983 201 725 Side 1 av 3
+
+Organisasjonsnr: 983 201 725
+RID AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3, 4 64 763 24 300
+Sum immaterielle eiendeler 64 763 24 300
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Sum finansielle
+anleggsmidler 0 0
+Sum anleggsmidler 64 763 24 300
+Omlepsmidler
+Varer
+Varer 363 800 0
+Fordringer
+Kundefordringer 0 38 750
+Andre kortsiktige
+fordringer 45 117 7 474
+Sum fordringer 45 117 46 224
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 6 284 350 544 887
+Sum bankinnskudd,
+kontanter og lignende 284 350 544 887
+Sum omlepsmidler 693 267 591 111
+SUM ELENDELER 758 030 615 411
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5, 7 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+
+Utskriftsdato 08.04.2026 Organisasjonsnr 983 201 725 Side 2 av 3
+
+Annen egenkapital 5 198 466 341 927
+
+Sum opptjent egenkapital 198 466 341 927
+
+Sum egenkapital 298 466 441 927
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 fe]
+
+Kortsiktig gjeld
+
+Leverandergjeld 169 892 69 993
+
+Skyldige offentlige
+
+avgifter 6 28 938 43 588
+
+Annen kortsiktig gjeld 8 260 734 59 903
+
+Sum kortsiktig gjeld 459 564 173 484
+
+Sum gjeld 459 564 173 484
+
+SUM EGENKAPITAL OG GJELD 758 030 615 411
+Utskriftsdato 08.04.2026 Organisasjonsnr 983 201 725 Side 3 av 3
+
+Organisasjonsnr: 983 201 725
+
+RID AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Generelt.
+
+Regnskapet er utarbeidet i overenstemmelse med aksjeloven,
+
+regnskapsloven og god regnskapsskikk for sma foretak. Regnskapet bygger pa
+historisk kost prinsippet.
+
+Kostnader sammenstilles med og kostnadsfores
+
+samtidig med de inntekter kostnadene kan sammenstilles med.
+
+Regnskapet er
+
+satt opp basert pa fortsatt drift.
+
+Klassifisering.
+
+Fordringer og gjeld
+
+klassifiseres som omlepsmidler/kortsiktig gjeld dersom de forfaller innen
+ett ar. @vrige eiendeler klassifiseres som anleggsmidler, og a@vrig gjeld
+klassifiseres som langsiktig.
+
+Vurderingsregler.
+
+Fordringer er vurdert til
+
+palydende, nedskrevet med forventet tap pa fordringer.
+
+Inntektsfering skjer
+
+etter opptjeningsprinsippet som normalt vil vere leveringstidspunktet for
+varer og tjenester. Kostnader medtas etter sammenstillingsprinsippet, dvs.
+at kostnader medtas i samme periode som tilherende inntekter
+inntektsfores.
+
+Varelager er vurdert til anskaffelseskost for innkjepte
+
+varer. Produserte varer er vurdert til tilvirkningskost.
+
+Varelager er
+
+nedskrevet til forventet salgsverdi, safremt denne er lavere enn
+anskaffelseskost eller tilvirkningskost.
+
+@vrige omlepsmidler vurderes til
+
+det laveste av anskaffelseskost og virkelig verdi.
+
+Varige driftsmidler
+
+aktiveres og avskrives dersom de har levetid over 3 ar og har en kostpris
+som overstiger kr 30.000.
+
+Varige driftsmidler vurderes til historisk kost
+
+med fradrag for bedrifts@konomiske avskrivninger.
+
+Avskrivninger baseres pa
+
+en vurdering av driftsmidlenes @konomiske og tekniske levetid.
+
+Selskapet
+
+benytter lineere avskrivninger for avskrivning av varige
+
+driftsmdiler.
+
+Utsatt skatt/skattefordel i balansen avsettes pa grunnlag av
+
+forskjeller mellom regnskapsmessige og skattemessige verdier i henhold til
+norsk regnskapsstandard for skatt. Ved beregning av utsatt skatt gjores
+det fradrag for eventuelle fremferbare underskudd.
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbare skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet med 22% pa grunnlag av de
+midlertidige forskjeller som eksisterer mellom regnskapsmessige og
+skattemessige verdier, samt ligningsmessig underskudd til fremfsering ved
+utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige
+forskjeller som reverserer eller kan reverseres i samme periode er utlignet
+og nettofert.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+1.00
+
+Arsregnskap for
+RID AS
+983201725
+Regnskapsar
+01.01.2025 - 31.12.2025
+Arsregnskapet er utarbeidet av:
+
+RID AS
+983 201 725
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 846 591 709 412
+Sum driftsinntekter 846 591 709 412
+Driftskostnader
+Varekostnad -192 304 -86 785
+Lgnnskostnad 1,2 -549 799 -483 368
+Annen driftskostnad -288 529 -182 454
+Sum driftskostnader -1 030 633 -752 606
+Driftsresultat -184 042 -43 194
+Finansinntekter
+Annen renteinntekt 152 544
+Annen finansinntekt 0 0
+Sum finansinntekter 152 544
+Finanskostnader
+Annen rentekostnad -35 0
+Sum finanskostnader -35 0
+Netto finans 117 544
+Resultat for skattekostnad 3,4 -183 924 -42 650
+Skattekosinad 3,4 40 463 9 383
+Arsresultat 5 -143 461 -33 267
+Overforinger
+Annen egenkapital 5 -143 461 -33 267
+Sum overferinger -143 461 -33 267
+
+RID AS
+983 201 725
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3,4 64 763 24 300
+Sum immaterielle eiendeler 64 763 24 300
+Sum anleggsmidler 64 763 24 300
+Omlgpsmidler
+Varer
+Varer 363 800 0
+Sum varer 363 800 0
+Fordringer
+Kundefordringer 0 38 750
+Andre kortsiktige fordringer 45 117 1474
+Sum fordringer 45 117 46 224
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 6 284 350 544 887
+Sum bankinnskudd, kontanter og lignende 284 350 544 887
+Sum omlgpsmidler 693 267 591 111
+SUM EIENDELER 758 030 615 411
+
+RID AS
+983 201 725
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5,7 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+Annen egenkapital 5 198 466 341 927
+Sum opptjent egenkapital 198 466 341 927
+Sum egenkapital 298 466 441 927
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 169 892 69 993
+Skyldige offentlige avgifter 6 28 938 43 588
+Annen kortsiktig gjeld 8 260 734 59 903
+Sum kortsiktig gjeld 459 564 173 484
+Sum gjeld 459 564 173 484
+SUM EGENKAPITAL OG GJELD 758 030 615 411
+ALESUND, 26.03.2026
+Ragnar Ingolfsson
+styrets leder / daglig leder
+
+RID AS
+
+983 201 725
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapet driver utvikling, produksjon og salg av maskiner og utstyr for neeringsmiddelindustrien.
+
+Selskapet er lokalisert i Alesund Kommune.
+
+Regnskapsprinsipper
+
+Generelt.
+
+Regnskapet er utarbeidet i overenstemmelse med aksjeloven, regnskapsloven og god regnskapsskikk for sma
+foretak. Regnskapet bygger pa historisk kost prinsippet.
+
+Kostnader sammenstilles med og kostnadsfgres samtidig med de inntekter kostnadene kan sammenstilles med.
+Regnskapet er satt opp basert pa fortsatt drift.
+
+Klassifisering.
+
+Fordringer og gjeld klassifiseres som omlgpsmidler/kortsiktig gjeld dersom de forfaller innen ett ar. @vrige
+eiendeler klassifiseres som anleggsmidler, og @vrig gjeld klassifiseres som langsiktig.
+
+Vurderingsregler.
+
+Fordringer er vurdert til palydende, nedskrevet med forventet tap pa fordringer.
+
+Inntektsfgring skjer etter opptjeningsprinsippet som normalt vil veere leveringstidspunktet for varer og tjenester.
+Kostnader medtas etter sammenstillingsprinsippet, dvs. at kostnader medtas i samme periode som tilhgrende
+inntekter inntektsfores.
+
+Varelager er vurdert til anskaffelseskost for innkjgpte varer. Produserte varer er vurdert til tilvirkningskost.
+Varelager er nedskrevet til forventet salgsverdi, safremt denne er lavere enn anskaffelseskost eller
+tilvirkningskost.
+
+@vrige omlgpsmidler vurderes til det laveste av anskaffelseskost og virkelig verdi.
+
+Varige driftsmidler aktiveres og avskrives dersom de har levetid over 3 ar og har en kostpris som overstiger kr
+30.000.
+
+Varige driftsmidler vurderes til historisk kost med fradrag for bedriftse@konomiske avskrivninger.
+
+Avskrivninger baseres pa en vurdering av driftsmidlenes gkonomiske og tekniske levetid.
+
+Selskapet benytter linezere avskrivninger for avskrivning av varige driftsmdiler.
+
+Utsatt skatt/skattefordel i balansen avsettes pa grunnlag av forskjeller mellom regnskapsmessige og
+skattemessige verdier i henhold til norsk regnskapsstandard for skatt. Ved beregning av utsatt skatt gjores det
+fradrag for eventuelle fremfgrbare underskudd.
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reverseres i samme
+periode er utlignet og nettofart.
+
+RID AS
+983 201 725
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 1
+Note 2 - Obligatorisk tjenestepensjon
+Virksomheten er ikke pliktig til € ha ttenestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+Note 3 - Spesifisering av skatt
+Skattekostnad 2025 2024
++/- Endringer i utsatt skatt/utsatt skattefordel -40 463 -9 383
+Skattekostnad -40 463 -9 383
+Skattepliktig inntekt
+Resultat for skatt -183 924 -42 650
+Skattepliktig inntekt -183 924 -42 650
+Note 4 - Midlertidige forskjeller - utsatt skatt/skattefordel
+Utsatt skatt/utsatt skattefordel i balansen avsettes pa grunnlag av forskjeller mellom regnskapsmessige og
+skattemessige verdier i henhold til norsk regnskapsstandard for skatt.
+Midlertidige skatteskende og skattereduserende forskjeller som kan utlignes er nettofart.
+Midlertidige forskjeller knyttet til: 01.01.2025 31.12.2025 Endring
+Fremferbart underskudd -110 455 -294 379 183 924
+Netto forskjeller -110 455 -294 379 183 924
+Sum midlertidige forskjeller som inngar i grunnlag for -110 455 -294 379 183 924
+utsatt skatt/skattefordel
+Utsatt skattefordel 31.12.2025 basert pa 22 % -24 300 -64 763 40 463
+Note 5 - Egenkapital
+Opptjent
+Aksjekapital egenkapital Sum
+Egenkapital 31.12.2024 100 000 341 927 441 927
+Arsresultat 0 -143 461 -143 461
+Egenkapital 31.12.2025 100 000 198 466 298 466
+
+RID AS
+983 201 725
+Note 6 - Bankinnskudd
+
+31.12.2025
+| posten for bankinnskudd inngar egen konto for bundne skattetrekksmidler med 18 886
+Skyldig skattetrekk -17 940
+Note 7 - Aksjekapital
+
+Aksjenes
+
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordinzere 1 000 100 100 000
+Aksjonerer Antall aksjer Eierandel % Aksjeklasse
+Ragnar Ingolfsson 1 000 100,00 Ordineere
+Note 8 - Annen kortsiktig gjeld
+Selskapets aksjoneer Ragnar Ingolfsson har ytt ett lan til selskapet pa kr. 200 000. Belgpet blir ikke
+renteberegnet.

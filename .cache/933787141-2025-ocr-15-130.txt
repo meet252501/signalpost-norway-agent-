@@ -1,0 +1,386 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 717478
+Virksomheten
+Organisasjonsnummer : 933 787 141
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: AIOTA AS
+Forretningsadresse: Verkstedveien 1B
+6517 KRISTIANSUND N
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Mikael Thorsgaard
+Dato for fastsettelse av arsregnskapet: 26.07.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 933 787 141
+
+AIOTA AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 658 000 899 500
+
+Annen driftsinntekt 0 23 900
+
+Sum inntekter 658 000 923 400
+
+Kostnader
+
+Varekostnad 469 104 30 000
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 475 583 487 097
+
+Sum kostnader 944 688 517 097
+
+Driftsresultat -286 688 406 303
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 890 0
+
+Annen finansinntekt 4 152 0
+
+Sum finansinntekter 5 042 e)
+
+Annen rentekostnad 183 0
+
+Annen finanskostnad 15 780 200
+
+Sum finanskostnader 15 963 200
+
+Netto finans -10 920 -200
+
+Resultat fer skattekostnad -297 608 406 103
+
+Skattekostnad -17 008 89 343
+
+Arsresultat -280 600 316 760
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -280 600 316 760
+
+Sum overferinger og
+
+disponeringer -280 600 316 760
+Utskriftsdato 28.07.2026 Organisasjonsnr 933 787 141 Side 1 av 3
+
+Organisasjonsnr: 933 787 141
+
+AIOTA AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 17 008
+
+Sum immaterielle eiendeler 17 008
+
+Finansielle anleggsmidler
+
+Lan til foretak i samme
+
+konsern 0) 100 000
+
+Sum finansielle
+
+anleggsmidler 0 100 000
+
+Sum anleggsmidler 17 008 100 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 300 220 300
+
+Sum fordringer 300 220 300
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 67 672 367 038
+
+Sum bankinnskudd,
+
+kontanter og lignende 67 672 367 038
+
+Sum omlepsmidler 67 972 587 338
+
+SUM ELENDELER 84 980 687 338
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 36 160 316 760
+
+Sum opptjent egenkapital 36 160 316 760
+
+Sum egenkapital 66 160 346 760
+
+Kortsiktig gjeld
+
+Leverandergjeld 4 806 257 062
+Utskriftsdato 28.07.2026 Organisasjonsnr 933 787 141 Side 2 av 3
+
+Betalbar skatt -1 847 89 343
+
+Skyldige offentlige
+
+avgifter 15 861 -5 827
+
+Sum kortsiktig gjeld 18 820 340 578
+
+Sum gjeld 18 820 340 578
+
+SUM EGENKAPITAL OG GJELD 84 980 687 338
+Utskriftsdato 28.07.2026 Organisasjonsnr 933 787 141 Side 3 av 3
+
+Organisasjonsnr: 933 787 141
+
+AIOTA AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Aiota AS
+Arsregnskap 2025
+
+Aiota AS Arsregnskap 2025
+org.nr.: 933787141
+1. Resultat og balanse
+2. Noter for innsending
+3. Signering
+&
+Generert av tripletex* 26 07 2026 Side 2 av 6
+
+Aiota AS Arsregnskap 2025
+org.nr.: 933787141
+Resultat Noter 2025 2024
+Driftsinntekter og driftskostnader
+Salgsinntekter 658 000 899 500
+Annen driftsinntekt 0 23 900
+Sum driftsinntekter 658 000 923 400
+Varekostnad 469 104 30 000
+Lennskostnad 1 0 0
+Annen driftskostnad 475 583 487 097
+Sum driftskostnader 944 688 517 097
+Driftsresultat -286 688 406 303
+Finansinntekter og finanskostnader
+Annen renteinntekt 890 0
+Annen finansinntekt 4152 0
+Sum finansinntekter 5 042 0
+Annen rentekostnad 183 0
+Annen finanskostnad 15 780 200
+Sum finanskostnader 15 963 200
+Netto finans -10 920 -200
+Ordinzert resultat for skattekostnad -297 608 406 103
+Skattekostnader
+Skattekostnad pa ordinzert resultat -17 008 89 343
+Arsresultat -280 600 316 760
+Overfgringer og disponeringer
+Overfgringer til/fra annen egenkapital -280 600 316 760
+Sum overfgringer og disponeringer -280 600 316 760
+Generert av Iripletex™" 26 07 2026 Side 3 av 6
+
+Aiota AS Arsregnskap 2025
+org.nr.: 933787141
+Balanse Noter 2025 2024
+EIENDELER
+Anleggsmidler
+Utsatt skattefordel 17 008 0
+Sum immaterielle eiendeler 17 008 0
+Lan til foretak i samme konsern 0 100 000
+Sum finansielle anleggsmidler 0 100 000
+Sum anleggsmidler 17 008 100 000
+Omligpsmidler
+Kundefordringer 300 220 300
+Sum fordringer 300 220 300
+Bankinnskudd, kontanter og lignende 67 672 367 038
+Sum bankinnskudd, kontanter og lignende 67 672 367 038
+Sum omlgpsmidier 67 972 587 338
+Sum eiendeler 84 980 687 338
+Generert av Iripletex™" 26 07 2026 Side 4 av 6
+
+Aiota AS Arsregnskap 2025
+org.nr.: 933787141
+EGENKAPITAL OG GJELD
+Egenkapital
+Selskapskapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Annen Egenkapital 36 160 316 760
+Sum opptjent egenkapital 36 160 316 760
+Sum egenkapital 66 160 346 760
+Gjeld
+Leverandgrgjeld 4 806 257 062
+Betalbar skatt -1 847 89 343
+Skyldige offentlige avgifter 15 861 -5 827
+Sum kortsiktig gjeld 18 820 340 578
+Sum gjeld 18 820 340 578
+Sum egenkapital og gjeld 84 980 687 338
+Generert av Iripletex™" 26 07 2026 Side 5av 6
+
+Aiota AS Arsregnskap 2025
+org.nr.: 933787141
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+** Klassifisering **
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer med forfall mer enn ett ar etter balansedagen er medtatt som anleggsmidler. Gjeld
+som forfaller senere enn ett ar etter balansedagen er oppfart som langsiktig gjeld.
+** Varige driftsmidler **
+Varige driftsmidler er vurdert til anskaffelseskost etter fradrag for bedriftsa@konomiske avskrivninger som er
+beregnet pa grunnlag av kostpris og antatt levetid.
+** Aksjer **
+Omlgpsaksjer er vurdert til markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til kostpris. | de
+tilfeller der den virkelige verdien er lavere enn kostprisen og dette ikke er forbigaende, er det foretatt
+nedskrivning.
+** Fordringer **
+Kundefordringer og andre fordringer er oppfart til palydende etter fradrag for konstaterte og forventede tap.
+** Skatter **
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbar skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet pa grunnlag av midlertidige forskjeller mellom regnskapsmessige og skattemessige verdier,
+samt eventuelt ligningsmessig underskudd til fremfgring ved utgangen av regnskapsaret. Utsatt skatt er avsatt
+som langsiktig gjeld i balansen. | den grad utsatt skattefordel overstiger utsatt skatt, er utsatt skattefordel tatt
+med i balansen iht. god regnskapsskikk.
+** Driftsinntekter og kostnader **
+Inntektsfgring falger opptjeningsprinsippet, som normalt vil falge leveringstidspunktet for varer og tjenester.
+Kostnader er tatt med etter sammenstillingsprinsippet, det vil si at kostnadene er tatt med i samme periode
+som tilhgrende inntekter.
+#1 Antall arsverk
+Antall arsverk i regnskapsaret: 0
+Generert av Iripletex™" 26 07 2026 Side 6av 6

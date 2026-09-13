@@ -1,0 +1,455 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 505798
+Virksomheten
+Organisasjonsnummer : 928 238 407
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: JOTT AS
+Forretningsadresse: Berumsveien 196
+1357 BEKKESTUA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Jon Terje Thoresen
+Dato for fastsettelse av arsregnskapet: 31.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 928 238 407
+
+JOTT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 2 834 2 312
+
+Sum kostnader 2 834 2 313
+
+Driftsresultat -2 834 -2 313
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Annen finanskostnad 440 410 0
+
+Sum finanskostnader 440 410 0
+
+Netto finans -440 410 fe)
+
+Resultat fer skattekostnad -443 244 -2 313
+
+Arsresultat -443 244 -2 313
+
+Arsresultat etter
+
+minoritetsinteresser -443 244 -2 313
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -443 244 -2 313
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -510 462 -2 312
+
+Overferinger til/fra
+
+annen egenkapital 67 218 0
+
+Sum overferinger og
+
+disponeringer -443 244 -2 313
+Utskriftsdato 02.06.2026 Organisasjonsnr 928 238 407 Side 1 av 3
+
+Organisasjonsnr: 928 238 407
+
+JOTT AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 720 774 1 213 203
+
+Sum finansielle
+
+anleggsmidler 720 774 1 213 203
+
+Sum anleggsmidler 720 774 1 213 203
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 67 218 0
+
+Sum fordringer 67 218 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 418 0
+
+Sum bankinnskudd,
+
+kontanter og lignende 418 0
+
+Sum omlepsmidler 67 636 0
+
+SUM ELENDELER 788 410 1 213 203
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+Utskriftsdato 02.06.2026 Organisasjonsnr 928 238 407 Side 2 av 3
+
+Opptjent egenkapital
+
+@reavrunding 1
+
+Udekket tap 456 957 13 712
+
+Sum opptjent egenkapital -456 957 -13 712
+
+Sum egenkapital -426 957 16 288
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 19 756 2 236
+
+Sum annen langsiktig gjeld 19 756 2 236
+
+Sum langsiktig gjeld 19 756 2 236
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 1 195 610 1 194 679
+
+Sum kortsiktig gjeld 1195 611 1 194 679
+
+Sum gjeld 1 215 367 1 196 915
+
+SUM EGENKAPITAL OG GJELD 788 410 1 213 203
+Utskriftsdato 02.06.2026 Organisasjonsnr 928 238 407 Side 3 av 3
+
+Organisasjonsnr: 928 238 407
+
+JOTT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Bekkestua
+
+Virksomhetens art
+
+Investere i selskaper og eiendom og alt
+
+annet som naturlig faller sammen med dette, herunder 4 delta i andre
+
+selskaper med lignende virksomhet, kja@p og salg av aksjer, eller pa annen
+mate gj@re seg interessert i andre foretagende.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Eierne vil sikre tilfersel av kapital for a sikre likviditet til a betale
+gjeld og andre forpliktelser.
+
+Pa bakgrunn av dette avlegges arsregnskapet
+
+under forutsetning om fortsatt drift.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Jott AS
+(928 238 407)
+Jott AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 2 834 2 312
+Sum driftskostnader 2 834 2 313
+Driftsresultat -2 834 -2 313
+Finanskostnader
+
+Annen finanskostnad 440 410 @)
+Sum finanskostnader 440 410 0
+Netto finans -440 410 0
+Resultat for skatt -443 244 -2 313
+Arsresultat -443244 -2313
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 67 218 0
+
+Udekket tap -510 462 -2 312
+Sum overferinger og disponeringer -443 244 -2 313
+
+Jott AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anieggsmidler
+
+Investeringer i aksjer og andeler 720 774 1 213 203
+Sum finansielle anleggsmidler 720774 1213203
+Sum anleggsmidler 720774 1213203
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 67 218 0
+Sum fordringer 67 218 0
+Bankinnskudd, kontanter o.l. 418 0
+Sum omlepsmidler 67 636 0
+Sum eiendeler 788 410 1213203
+
+Jott AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Annen egenkapital 0 1
+
+Udekket tap -456 957 -13 712
+Sum opptjent egenkapital -456 957 -13 712
+Sum egenkapital -426 957 16 288
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 19 756 2 236
+Sum annen langsiktig gjeld 19 756 2 236
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 1195 610 1194679
+Sum kortsiktig gjeld 1195611 1194679
+Sum gjeld 1215367 1196915
+Sum egenkapital og gjeld 788 410 1213203
+
+Jott AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Bekkestua
+Virksomhetens art
+Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder
+4 delta i andre selskaper med lignende virksomhet, kjap og salg av aksjer, eller pa annen mate
+gj@re seg interessert i andre foretagende.
+Note 2: Usikkerhet rundt fortsatt drift
+Eierne vil sikre tilforsel av kapital for a sikre likviditet til 4 betale gjeld og andre forpliktelser. Pa
+bakgrunn av dette avlegges arsregnskapet under forutsetning om fortsatt drift.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Jott AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Galleri DC-9 AS <dc-9@dc-9.no>
+Elektronisk signering
+JON TERJE THORESEN
+24.09.1960 - Daglig leder, Styreleder
+Y) Signert
+31.05.2026 06:01
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 31.05.2026 05:57:52

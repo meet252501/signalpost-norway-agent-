@@ -1,0 +1,404 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 485228
+Virksomheten
+Organisasjonsnummer : 932 369 214
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: TELEHUSET F@RDE AS
+Forretningsadresse: Langelandsvegen 35
+6010 ALESUND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Bente Gorseth
+Dato for fastsettelse av arsregnskapet: 24.02.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 932 369 214
+TELEHUSET FORDE AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Inntekter
+Annen driftsinntekt 740 340 688 885
+Sum inntekter 740 340 688 885
+Kostnader
+Endring i beholdning av
+varer under tilvirkning
+og ferdig tilvirkede varer -8 186 340
+Varekostnad 8 186 340
+Annen driftskostnad 1 114 277 100 990
+Sum kostnader 114 277 100 990
+Driftsresultat 626 063 587 895
+Finansinntekter og
+finanskostnader
+Renteinntekt fra foretak
+i samme konsern 2 102
+Annen renteinntekt 5 351
+Annen finansinntekt 1 481
+Sum finansinntekter 1 583 5 351
+Annen rentekostnad 233 039 265 779
+Sum finanskostnader 233 039 265 779
+Netto finans -231 456 -260 428
+Resultat fer skattekostnad 394 607 327 467
+Skattekostnad pa resultat 3 86 814 72 043
+Arsresultat 307 793 255 424
+Arsresultat etter
+minoritetsinteresser 307 793 255 424
+Totalresultat 307 793 255 424
+Overferinger og
+disponeringer
+Overfert fra fond for
+vurderingsforskjeller 4
+Konsernbidrag 4
+Avgitt konsernbidrag 4 307 793
+Udekket tap -1 481
+Avsatt til annen
+egenkapital 256 905
+Overfert fra annen
+egenkapital 4
+
+Utskriftsdato 28.05.2026 Organisasjonsnr 932 369 214 Side 1 av 4
+
+Sum overferinger og
+disponeringer 307 793 255 424
+Utskriftsdato 28.05.2026 Organisasjonsnr 932 369 214 Side 2 av 4
+
+Organisasjonsnr: 932 369 214
+
+TELEHUSET FORDE AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 5 8 186 340 8 186 340
+
+Maskiner og anlegg 5
+
+Skip og flytende
+
+installasjoner 5
+
+Driftslesere, inventar o.
+
+a. utstyr 5
+
+Sum varige driftsmidler 8 186 340 8 186 340
+
+Sum anleggsmidler 8 186 340 8 186 340
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 36 139 27 353
+
+Sum fordringer 36 139 27 353
+
+Sum omlepsmidler 36 139 27 353
+
+SUM ELENDELER 8 222 479 8 213 693
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4, 6 2 000 000 2 000 000
+
+Beholdning av egne aksjer 4
+
+Overkurs 4 2 000 000 2 000 000
+
+Annen innskutt egenkapital 4
+
+Sum innskutt egenkapital 4 000 000 4 000 000
+
+Opptjent egenkapital
+
+Fond for
+
+vurderingsforskjeller 4
+
+Annen egenkapital 4 255 424 255 424
+
+Udekket tap 4
+
+Sum opptjent egenkapital 255 424 255 424
+
+Sum egenkapital 4 255 424 4 255 424
+Utskriftsdato 28.05.2026 Organisasjonsnr 932 369 214 Side 3 av 4
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 3 454 743 3 886 226
+
+Betalbar skatt 3 72 043
+
+Kortsiktig konserngjeld 2 512 312
+
+Sum kortsiktig gjeld 3 967 O55 3 958 269
+
+Sum gjeld 3 967 O55 3 958 269
+
+SUM EGENKAPITAL OG GJELD 8 222 479 8 213 693
+Utskriftsdato 28.05.2026 Organisasjonsnr 932 369 214 Side 4 av 4
+
+Organisasjonsnr: 932 369 214
+
+TELEHUSET F@RDE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Telehuset Férde AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 932 369 214
+
+Resultatregnskap
+Telehuset Fgrde AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftsinntekt 740 340 688 885
+Sum driftsinntekter 740 340 688 885
+Varekostnad 0 8 186 340
+End. beh. varer u.tilv. og ferdigvarer 0 -8 186 340
+Annen driftskostnad 1 114 277 100 990
+Sum driftskostnader 114 277 100 990
+Driftsresultat 626 063 587 895
+Finansinntekter og finanskostnader
+
+Renteinntekt fra foretak i samme konsern 2 102 0
+Annen renteinntekt 0 5 351
+Annen finansinntekt 1481 0
+Annen rentekostnad 233 039 265 779
+Resultat av finansposter -231 456 -260 428
+Resultat for skattekostnad 394 607 327 467
+Skattekostnad pa resultat 3 86 814 72 043
+Arsresultat 307 793 255 424
+Overfgringer
+
+Avsatt konsernbidrag 4 307 793 0
+Avsatt til annen egenkapital 0 256 905
+Overfgrt til udekket tap 0 1 481
+Sum overf¢ringer 307 793 255 424
+Telehuset Forde AS Side 2
+
+Balanse
+
+Telehuset Fgrde AS
+Eiendeler Note 31.12.2025 31.12.2024
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger o.a. fast eiendom 5 8 186 340 8 186 340
+Sum varige driftsmidler 8 186 340 8 186 340
+Sum anleggsmidler 8 186 340 8 186 340
+Oml¢@psmidler
+Fordringer
+Andre kortsiktige fordringer 36 139 27 353
+Sum fordringer 36 139 27 353
+Sum omlgpsmidler 36 139 27 353
+Sum eiendeler 8 222 479 8 213 693
+Telehuset Forde AS Side 3
+
+Balanse
+Telehuset Fgrde AS
+Egenkapital og gjeld Note 31.12.2025 31.12.2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4,6 2 000 000 2 000 000
+Overkurs 4 2 000 000 2 000 000
+Sum innskutt egenkapital 4 000 000 4 000 000
+Opptjent egenkapital
+Annen egenkapital 4 255 424 255 424
+Sum opptjent egenkapital 255 424 255 424
+Sum egenkapital 4255 424 4 255 424
+Gjeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner 3 454 743 3 886 226
+Betalbar skatt 3 0 72 043
+Konserngjeld 2 512 312 0
+Sum kortsiktig gjeld 3 967 055 3 958 269
+Sum gjeld 3 967 055 3 958 269
+Sum egenkapital og gijeld 8 222 479 8 213 693
+Férde, 24.02.2026
+Styret i Telehuset Forde AS
+. aide < ;
+Lars Ove Breivik John Ole Bergem rild S@rlien
+styreleder styremedilem styremedlem
+Telehuset Forde AS Side 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt. Oppfgring av utsatt skattefordel pa netto
+skattereduserende forskjeller som ikke er utlignet og underskudd til fremfgring, er begrunnet med antatt
+fremtidig inntjening. Utsatt skatt og skattefordel som kan balansefgres er oppf@rt netto i balansen.
+
+Skatt pa avgitt konsernbidrag som er fgrt som gkt kostpris pa aksjer i andre selskaper, og skatt pa mottatt
+konsernbidrag som er fgrt direkte mot egenkapitalen, er f@rt direkte mot skatt i balansen (fgringen skjer
+mot betalbar skatt hvis konsernbidraget har hatt virkning pa betalbar skatt og mot utsatt skatt hvis
+konsernbidraget har hatt virkning pa utsatt skatt}.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Eiendeler som er knyttet til
+varekretslgpet er klassifisert som omlgpsmidler. Fordringer klassifiseres som oml@psmidler hvis de skal
+tilbakebetales i Igpet av ett ar. For gjeld er analoge kriterier lagt til grunn. Forste ars avdrag pa langsiktige
+fordringer og langsiktig gjeld klassifiseres likevel ikke som oml@psmiddel og kortsiktig gjeld. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes a veere forbigaende.
+
+Varige driftsmidler
+
+Tomter avskrives ikke. Varige driftsmidler balansefgres og avskrives linezert over driftsmidlenes forventede
+levetid dersom de har antatt levetid over 3 ar og har en kostpris som overstiger kr 30 000. Vedlikehold av
+driftsmidler kostnadsfgres Igpende. Pakostninger eller forbedringer tillegges driftsmidlets kostpris og
+avskrives i takt med driftsmidlet. Skillet mellom vedlikehold og pakostning/forbedring regnes i forhold til
+driftsmidlets stand ved kjgp av driftsmidlet. Utgifter til leie av driftsmidler kostnadsfgres.
+Forskuddsbetalinger balansefgres som forskuddsbetalt kostnad, og fordeles over leieperioden.
+Fordringer
+
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene
+
+Note 1 Lgnnskostnader, antall ansatte, godtgjgrelser.
+
+Det er ingen ansatte i selskapet. Derav ingen krav til a ha tjenestepensjonsordning etter lov om
+obligatorisk tjenestepensjon.
+
+Det utbetales ikke honorar til styret.
+
+Note 2 Mellomvezrende med selskap i samme konsern m.v.
+
+Selskapet inngar i konsernkontoordning i Nordea med Coop Nordvest SA. De inngar ogsa i en
+konsernkontoordning for alle heleide datterselskap av Coop Nordvest SA og Com Eiendom AS. Selskapene i
+ordningen er solidarisk ansvarlig for et hvert mellomveerende.
+
+Note 3 Skatt
+
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav tilutsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller:
+
+Beregning av utsatt skatt 2025 2024 Endring
+Utsatt skatt (22 %) 0 0 0
+Arets skattekostnad 2025 2024
+
+Skattepliktig inntekt:
+
+Ordinzert resultat for skatt 394 607 327 467
+
+Permanente forskjeller 0 0
+
+Avgitt konsernbidrag -394 607 0
+
+Anvendelse av fremfgrbart underskudd 0 -6 731
+
+Skattepliktig inntekt 0 320 736
+
+Resultatfgrt skatt pa ordinzert resultat:
+
+Betalbar skatt 86 814 72 043
+
+Endring i utsatt skattefordel 9) 0
+
+Skattekostnad ordinzert resultat 86 814 72 043
+
+Betalbar skatt i balansen:
+
+Betalbar skatt pa arets resultat 86 814 72 043
+
+Betalbar skatt pa avgitt konsernbidrag -86 814 0
+
+Sum betalbar skatt i balansen 0 72 043
+
+Note 4 Egenkapital
+Annen Sum
+Aksjekapital Overkurs egenkapital egenkapital
+Egenkapital 01.01.2025 2000000 2000000 255 424 4 255 424
+Arets resultat 0 0 307 793 307 793
+Avgitt konsernbidrag 9) 0 -307 793 -307 793
+Egenkapital 31.12.2025 2000000 2000000 255 424 4255 424
+Note 5 Varige driftsmidler
+Forretnings- Tekniske
+eiendom installasjoner Tomter Totalt
+Anskaffelseskost 01.01.2025 0 0 8 186 340 8 186 340
+Tilgang 0 0 0 0
+Avgang 0 0 0 0
+Anskaffelseskost 31.12.2025 0 0 8 186 340 8 186 340
+Akkumulerte avskrivninger 0 0 0 0
+Bokfgrt verdi 31.12.2025 0 0 8 186 340 8 186 340
+Arets avskrivninger 0 0 0 0
+Forventet gkonomisk levetid 50 ar 15 ar
+Avskrivningsplan Linezer Linezer Ingen avskr.
+Note 6 Aksjekapital og aksjonzrinformasjon
+Aksjekapitalen pa kr. 2 000 000 bestar av 2 000 aksjer a kr. 1 000. Alle aksjer har like rettigheter.
+Selskapet er eid 100 % av Com Eiendom AS.
+Telehuset Férde AS konsolideres inn i konsernregnskapet til Coop Nordvest Sa. Forretningsadresse til
+morselskapet er Sandenveien 5,7300 ORKANGER. Konsernregnskapet fas utlevert der.

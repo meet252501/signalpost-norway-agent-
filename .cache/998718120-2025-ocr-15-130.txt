@@ -1,0 +1,756 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 457890
+Virksomheten
+Organisasjonsnummer : 998 718 120
+Organisasjonsform: Verdipapirfond
+Foretaksnawn: VERDIPAPIRFONDET STOREBRAND GLOBAL
+SOLUTIONS
+Forretningsadresse: c/o Storebrand Asset Management AS
+Professor Kohts vei 9
+1366 LYSAKER
+Regnskapsar
+Arsregnskapets periocde: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Nei
+Benyttet ved utarbeidelsen av
+arsregnskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Anne Grete Brautaset
+Dato for fastsettelse av arsregnskapet: 24.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 998 718 120
+
+VERDIPAPIRFONDET STOREBRAND GLOBAL
+
+SOLUTIONS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 69 090 206 73 379 433
+
+Sum kostnader 69 090 206 73 °=#379 433
+
+Driftsresultat -69 090 206 -73 379 433
+
+Annen finansinntekt 1 429 234 521 1 811 269 824
+
+Verdiendr. finansielle
+
+instrumenter, virkelig
+
+verdi 6 143 906 964 297 O73 627
+
+Annen finanskostnad 606 089 968 558 888 526
+
+Netto finans 967 051 517 1 549 454 925
+
+Arsresultat 877 264 474 1 451 042 198
+
+Overferinger og
+
+disponeringer
+
+Overforinger annen
+
+egenkapital 877 264 474 1 451 042 198
+
+Sum overferinger og
+
+disponeringer 877 264 474 1 451 042 198
+Utskriftsdato 20.06.2026 Organisasjonsnr 998 718 120 Side 1 av 3
+
+Organisasjonsnr: 998 718 120
+
+VERDIPAPIRFONDET STOREBRAND GLOBAL
+
+SOLUTIONS
+
+BALANSE
+
+Belop i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum anleggsmidler
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre fordringer 31 022 428 31 318 066
+
+Sum fordringer 31 022 428 31 318 066
+
+Investeringer
+
+Markedsbaserte aksjer 10 868 823 403 10 107 426 605
+
+Sum investeringer 10 868 823 403 10 107 426 605
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Sum bankinnskudd,
+
+kontanter og lignende 39 184 619 28 361 894
+
+Sum omlepsmidler 10 939 030 450 10 167 106 565
+
+SUM ELENDELER 10 939 030 450 10 167 106 565
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 3.133 548 242 3 278 669 265
+
+Overkurs 602 661 148 567 560 853
+
+Sum innskutt egenkapital 3 736 209 390 3 846 230 118
+
+Opptjent egenkapital
+
+Annen egenkapital 7 185 531 598 6 308 267 124
+
+Sum opptjent egenkapital 7 185 531 598 6 308 267 124
+
+Sum egenkapital 3 10 921 740 988 10 154 497 242
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 17 289 462 12 609 323
+
+Sum kortsiktig gjeld 17 289 462 12 609 323
+
+Sum gjeld 17 289 462 12 609 323
+Utskriftsdato 20.06.2026 Organisasjonsnr 998 718 120 Side 2 av 3
+
+SUM EGENKAPITAL OG GJELD 10 939 030 450 10 167 106 565
+Utskriftsdato 20.06.2026 Organisasjonsnr 998 718 120 Side 3 av 3
+
+Organisasjonsnr: 998 718 120
+
+VERDIPAPIRFONDET STOREBRAND GLOBAL
+
+SOLUTIONS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note 12 Informasjon vedr verdipapirutlan
+
+Delphi Kombinasjon
+
+Lepetidsprofilen for utlante verdipapirer fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned -
+1-3 maneder -
+
+3 maneder - 1 4r -
+>14r -
+Ubestemt lgpetid 2.971
+Sum lgpetid utlante verdipapirer 2.971
+Motpart
+
+UBS 1.999
+JP MORGAN 677
+HSBC 295
+Sum motparter 2.971
+Sikkerhetens lgpetidsprofil fordelt pa falgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned 6
+1-3 maneder 0
+3 maneder - 1 4r 60
+>14r 775
+Ubestemt lgpetid 2.421
+Sum lgpetid sikkerhet 3.261
+De 10 sterste typer av sikkerhet
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 2.421
+U.S T-Notes AAA, USD 428
+U.S T-Bonds AAA, USD 215
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 134
+U.S T-Bills AAA, USD 53
+FRENCH REPUBLIC BOND AA2, EUR 11
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 0
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 0
+KINGDOM OF BELGIUM BOND AA3, EUR -
+Sum sikkerhet 10 sterste utstedere 3.261
+Sikkerhet fordelt pa utsteder
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 2.421
+U.S T-Notes AAA, USD 428
+U.S T-Bonds AAA, USD 215
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 134
+U.S T-Bills AAA, USD 53
+FRENCH REPUBLIC BOND AA2, EUR 11
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 0
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 0
+KINGDOM OF BELGIUM BOND AA3, EUR -
+Sum sikkerhet fordelt pa utstedere 3.261
+
+Delphi Norden
+
+Lepetidsprofilen for utlante verdipapirer fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+1-3 maneder -
+
+3 maneder - 1 4r -
+>14r -
+Ubestemt lepetid 32.740
+Sum lgpetid utlante verdipapirer 32.740
+Motpart
+
+UBS 20.681
+JP MORGAN 12.059
+Sum motparter 32.740
+Sikkerhetens lgpetidsprofil fordelt pa falgende lgpetidsintervall
+
+< en dag -
+1-7 dager -
+1-3 maneder 6
+3 maneder - 1 4r 579
+>14r 8.855
+Ubestemt lepetid 26.489
+Sum lgpetid sikkerhet 35.928
+De 10 sterste typer av sikkerhet
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 26.489
+U.S T-Notes AAA, USD 5.311
+U.S T-Bonds AAA, USD 3.370
+U.ST-Bills AAA, USD 352
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 283
+FRENCH REPUBLIC BOND AA2, EUR 124
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 0
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 0
+KINGDOM OF BELGIUM BOND AA3, EUR -
+Sum sikkerhet 10 sterste utstedere 35.928
+Sikkerhet fordelt pa utsteder
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 26.489
+U.S T-Notes AAA, USD 5.311
+U.S T-Bonds AAA, USD 3.370
+U.S T-Bills AAA, USD 352
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 283
+FRENCH REPUBLIC BOND AA2, EUR 124
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 0
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 0
+KINGDOM OF BELGIUM BOND AA3, EUR -
+Sum sikkerhet fordelt pa utstedere 35.928
+
+Delphi Norge
+
+Lepetidsprofilen for utlante verdipapirer fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned -
+1-3 maneder -
+
+3 maneder - 1 4r -
+>14r -
+Ubestemt lgpetid 97.738
+Sum lgpetid utlante verdipapirer 97.738
+Motpart
+
+CITIGROUP 30.976
+GOLDMAN SACHS 30.223
+JP MORGAN 23.603
+MERRILL LYNCH 6.906
+UBS 6.012
+SOCIETE GENERALE 18
+Sum motparter 97.738
+Sikkerhetens lgpetidsprofil fordelt pa falgende lgpetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned -
+1-3 maneder 2.033
+3 maneder - 1 4r 4.118
+>14r 85.435
+Ubestemt lgpetid 13.370
+Sum lgpetid sikkerhet 104.956
+De 10 sterste typer av sikkerhet
+
+U.S T-Notes AAA, USD 21.877
+FRENCH REPUBLIC BOND AA2, EUR 20.771
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 20.278
+U.S T-Bonds AAA, USD 18.870
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 13.370
+KINGDOM OF BELGIUM BOND AA3, EUR 6.297
+REPUBLIC OF AUSTRIA BOND AA1, EUR 2.704
+U.S T-Bills AAA, USD 690
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 83
+REPUBLIC OF FINLAND BOND AA1, EUR 9
+Sum sikkerhet 10 sterste utstedere 104.949
+Sikkerhet fordelt pa utsteder
+
+U.S T-Notes AAA, USD 21.877
+FRENCH REPUBLIC BOND AA2, EUR 20.771
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 20.278
+U.S T-Bonds AAA, USD 18.870
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 13.370
+KINGDOM OF BELGIUM BOND AA3, EUR 6.297
+REPUBLIC OF AUSTRIA BOND AA1, EUR 2.704
+U.S T-Bills AAA, USD 690
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 83
+REPUBLIC OF FINLAND BOND AA1, EUR 9
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 7
+Sum sikkerhet fordelt pa utstedere 104.956
+
+Delphi Global
+
+Lepetidsprofilen for utlante verdipapirer fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+1-3 maneder -
+
+3 maneder - 1 4r -
+>14r -
+Ubestemt lepetid 224.874
+Sum lgpetid utlante verdipapirer 224.874
+Motpart
+
+UBS 151.505
+MORGAN STANLEY 26.574
+HSBC 21.053
+MERRILL LYNCH 13.288
+GOLDMAN SACHS 9.001
+JP MORGAN 3.454
+Sum motparter 224.874
+Sikkerhetens lgpetidsprofil fordelt pa folgende lspetidsintervall
+
+< en dag -
+1-7 dager -
+1-3 maneder 2
+3 maneder - 1 4r 309
+>14r 61.398
+Ubestemt lgpetid 186.830
+Sum lgpetid sikkerhet 248.539
+De 10 sterste typer av sikkerhet
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 186.830
+U.S T-Bonds AAA, USD 23.240
+U.S T-Notes AAA, USD 19.272
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 19.060
+U.S T-Bills AAA, USD 101
+FRENCH REPUBLIC BOND AA2, EUR 36
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 0
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 0
+KINGDOM OF BELGIUM BOND AA3, EUR -
+Sum sikkerhet 10 sterste utstedere 248.539
+Sikkerhet fordelt pa utsteder
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 186.830
+U.S T-Bonds AAA, USD 23.240
+U.S T-Notes AAA, USD 19.272
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 19.060
+U.S T-Bills AAA, USD 101
+FRENCH REPUBLIC BOND AA2, EUR 36
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 0
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 0
+KINGDOM OF BELGIUM BOND AA3, EUR -
+Sum sikkerhet fordelt pa utstedere 248.539
+
+Storebrand Equal Opportunities
+
+Lepetidsprofilen for utlante verdipapirer fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned -
+1-3 maneder -
+
+3 maneder - 1 4r -
+>14r -
+Ubestemt lgpetid 2.033
+Sum lgpetid utlante verdipapirer 2.033
+Motpart
+
+BNP PARIBAS 759
+MERRILL LYNCH 732
+BANK OF NOVA SCOTIA 350
+HSBC 192
+Sum motparter 2.033
+Sikkerhetens lgpetidsprofil fordelt pa falgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned 10
+1-3 maneder 2
+3 maneder - 1 4r 20
+>14r 1.751
+Ubestemt lgpetid 389
+Sum lgpetid sikkerhet 2.172
+De 10 sterste typer av sikkerhet
+
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 897
+U.S T-Notes AAA, USD 556
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 389
+U.S T-Bonds AAA, USD 327
+FRENCH REPUBLIC BOND AA2, EUR 3
+Sum sikkerhet 10 sterste utstedere 2.172
+Sikkerhet fordelt pa utsteder
+
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 897
+U.S T-Notes AAA, USD 556
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 389
+U.S T-Bonds AAA, USD 327
+FRENCH REPUBLIC BOND AA2, EUR 3
+Sum sikkerhet fordelt pa utstedere 2.172
+
+Storebrand Renewable Energy
+
+Lepetidsprofilen for utlante verdipapirer fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned -
+1-3 maneder -
+
+3 maneder - 1 4r -
+>14r -
+Ubestemt lgpetid 155.295
+Sum lgpetid utlante verdipapirer 155.295
+Motpart
+
+BARCLAYS 124.481
+UBS 18.402
+JP MORGAN 8.105
+MERRILL LYNCH 2.605
+CITIGROUP 1.326
+HSBC 375
+Sum motparter 155.295
+Sikkerhetens lgpetidsprofil fordelt pa falgende lgpetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned 9
+1-3 maneder 146
+3 maneder - 1 4r 6.972
+>14r 130.881
+Ubestemt lgpetid 23.626
+Sum lgpetid sikkerhet 161.634
+De 10 sterste typer av sikkerhet
+
+U.S T-Notes AAA, USD 111.076
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 23.547
+FRENCH REPUBLIC BOND AA2, EUR 11.895
+U.S T-Bonds AAA, USD 9.574
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 3.730
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 927
+KINGDOM OF BELGIUM BOND AA3, EUR 284
+U.S T-Bills AAA, USD 277
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 209
+REPUBLIC OF AUSTRIA BOND AA1, EUR 116
+Sum sikkerhet 10 sterste utstedere 161.634
+Sikkerhet fordelt pa utsteder
+
+U.S T-Notes AAA, USD 111.075
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 23.547
+FRENCH REPUBLIC BOND AA2, EUR 11.895
+U.S T-Bonds AAA, USD 9.574
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 3.730
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 927
+KINGDOM OF BELGIUM BOND AA3, EUR 284
+U.S T-Bills AAA, USD 277
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 209
+REPUBLIC OF AUSTRIA BOND AA1, EUR 116
+REPUBLIC OF FINLAND BOND AA1, EUR 0
+Sum sikkerhet fordelt pa utstedere 161.634
+
+Storebrand Indeks Alle Markeder
+
+Lepetidsprofilen for utlante verdipapirer fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned -
+1-3 maneder -
+
+3 maneder - 1 4r -
+>14r -
+Ubestemt lgpetid 485.649
+Sum lgpetid utlante verdipapirer 485.649
+Motpart
+
+JP MORGAN 167.230
+UBS 113.477
+MERRILL LYNCH 75.580
+GOLDMAN SACHS 69.404
+CITIGROUP 28.777
+MORGAN STANLEY 28.015
+HSBC 3.166
+Sum motparter 485.649
+Sikkerhetens lepetidsprofil fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned 39
+1-3 maneder 3.827
+3 maneder - 1 4r 11.838
+>1ar 361.378
+Ubestemt lepetid 147.521
+Sum lgpetid sikkerhet 524.604
+De 10 sterste typer av sikkerhet
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 147.303
+U.S T-Notes AAA, USD 124.157
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 108.775
+U.S T-Bonds AAA, USD 90.843
+FRENCH REPUBLIC BOND AA2, EUR 26.439
+KINGDOM OF BELGIUM BOND AA3, EUR 9.619
+U.S T-Bills AAA, USD 6.726
+REPUBLIC OF AUSTRIA BOND AA1, EUR 6.122
+REPUBLIC OF FINLAND BOND AA1, EUR 2.283
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 1.962
+Sum sikkerhet 10 sterste utstedere 524.229
+Sikkerhet fordelt pa utsteder
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 147.303
+U.S T-Notes AAA, USD 124.157
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 108.775
+U.S T-Bonds AAA, USD 90.843
+FRENCH REPUBLIC BOND AA2, EUR 26.439
+KINGDOM OF BELGIUM BOND AA3, EUR 9.619
+U.S T-Bills AAA, USD 6.726
+REPUBLIC OF AUSTRIA BOND AA1, EUR 6.122
+REPUBLIC OF FINLAND BOND AA1, EUR 2.283
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 1.962
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 374
+Sum sikkerhet fordelt pa utstedere 524.604
+
+Storebrand Global Value
+
+Lepetidsprofilen for utlante verdipapirer fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+1-3 maneder -
+
+3 maneder - 1 4r -
+>14r -
+Ubestemt lgpetid 57.717
+Sum lgpetid utlante verdipapirer 57.717
+Motpart
+
+UBS 30.755
+MERRILL LYNCH 26.696
+JP MORGAN 266
+Sum motparter 57.717
+Sikkerhetens lgpetidsprofil fordelt pa falgende lgpetidsintervall
+
+< en dag -
+1-7 dager -
+1-3 maneder 0
+3 maneder - 1 4r 13
+>14r 28.937
+Ubestemt lepetid 34.345
+Sum lgpetid sikkerhet 63.295
+De 10 sterste typer av sikkerhet
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 34.345
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 28.748
+U.S T-Notes AAA, USD 117
+U.S T-Bonds AAA, USD 74
+U.ST-Bills AAA, USD 8
+FRENCH REPUBLIC BOND AA2, EUR 3
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 0
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR -
+KINGDOM OF BELGIUM BOND AA3, EUR -
+Sum sikkerhet 10 sterste utstedere 63.295
+Sikkerhet fordelt pa utsteder
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 34.345
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 28.748
+U.S T-Notes AAA, USD 117
+U.S T-Bonds AAA, USD 74
+U.S T-Bills AAA, USD 8
+FRENCH REPUBLIC BOND AA2, EUR 3
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 0
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR -
+KINGDOM OF BELGIUM BOND AA3, EUR -
+Sum sikkerhet fordelt pa utstedere 63.295
+
+Storebrand Indeks Nye Markeder
+
+Lepetidsprofilen for utlante verdipapirer fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned -
+1-3 maneder -
+
+3 maneder - 1 4r -
+>14r -
+Ubestemt lgpetid 181.561
+Sum lgpetid utlante verdipapirer 181.561
+Motpart
+
+UBS 68.109
+JP MORGAN 34.075
+MORGAN STANLEY 29.285
+GOLDMAN SACHS 28.983
+CITIGROUP 19.532
+HSBC 1.578
+Sum motparter 181.561
+Sikkerhetens lgpetidsprofil fordelt pa falgende lgpetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned 7
+1-3 maneder 1.524
+3 maneder - 1 4r 3.738
+>14r 116.120
+Ubestemt lgpetid 76.133
+Sum lgpetid sikkerhet 197.522
+De 10 sterste typer av sikkerhet
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 76.083
+U.S T-Bonds AAA, USD 39.355
+U.S T-Notes AAA, USD 38.606
+FRENCH REPUBLIC BOND AA2, EUR 14.560
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 13.920
+KINGDOM OF BELGIUM BOND AA3, EUR 7.054
+REPUBLIC OF AUSTRIA BOND AA1, EUR 4.540
+REPUBLIC OF FINLAND BOND AA1, EUR 1.721
+U.S T-Bills AAA, USD 1.003
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 617
+Sum sikkerhet 10 sterste utstedere 197.459
+Sikkerhet fordelt pa utsteder
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 76.083
+U.S T-Bonds AAA, USD 39.355
+U.S T-Notes AAA, USD 38.606
+FRENCH REPUBLIC BOND AA2, EUR 14.560
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 13.920
+KINGDOM OF BELGIUM BOND AA3, EUR 7.054
+REPUBLIC OF AUSTRIA BOND AA1, EUR 4.540
+REPUBLIC OF FINLAND BOND AA1, EUR 1.721
+U.S T-Bills AAA, USD 1.003
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 617
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 63
+Sum sikkerhet fordelt pa utstedere 197.522
+
+Storebrand Global Optimised
+
+Lepetidsprofilen for utlante verdipapirer fordelt pa folgende lopetidsintervall
+
+< en dag -
+1-7 dager -
+
+7 dager- 1 maned -
+1-3 maneder -
+
+3 maneder - 1 4r -
+>14r -
+Ubestemt lgpetid 451.758
+Sum lgpetid utlante verdipapirer 451.758
+Motpart
+
+JP MORGAN 164.065
+BNP PARIBAS 97.102
+BANK OF NOVA SCOTIA 84.661
+UBS 67.327
+MERRILL LYNCH 35.541
+GOLDMAN SACHS 1.549
+CITIGROUP 838
+HSBC 675
+Sum motparter 451.758
+Sikkerhetens lepetidsprofil fordelt pa folgende lopetidsintervall
+
+<en dag -
+1-7 dager -
+
+7 dager- 1 maned 108
+1-3 maneder 756
+3 maneder - 1 ar 9.275
+>1ar 184.162
+Ubestemt lgpetid 298.901
+Sum lgpetid sikkerhet 493.202
+De 10 sterste typer av sikkerhet
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 298.030
+U.S T-Notes AAA, USD 74.911
+U.S T-Bonds AAA, USD 46.066
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 40.679
+FRENCH REPUBLIC BOND AA2, EUR 16.971
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 6.535
+U.S T-Bills AAA, USD 5.327
+KINGDOM OF BELGIUM BOND AA3, EUR 2.527
+REPUBLIC OF AUSTRIA BOND AA1, EUR 1.394
+REPUBLIC OF FINLAND BOND AA1, EUR 634
+Sum sikkerhet 10 sterste utstedere 493.073
+Sikkerhet fordelt pa utsteder
+
+Aksjer GBP, USD, CAD, EUR, SEK, CHF, DKK, JPY, BMD, HKD, AUD, SGD, NZD 298.030
+U.S T-Notes AAA, USD 74.911
+U.S T-Bonds AAA, USD 46.066
+UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND BOND AA2, GBP BOND AA2, GBP 40.679
+FRENCH REPUBLIC BOND AA2, EUR 16.971
+FEDERAL REPUBLIC OF GERMANY BOND AAA, EUR 6.535
+U.S T-Bills AAA, USD 5.327
+KINGDOM OF BELGIUM BOND AA3, EUR 2.527
+REPUBLIC OF AUSTRIA BOND AA1, EUR 1.394
+REPUBLIC OF FINLAND BOND AA1, EUR 634
+KINGDOM OF THE NETHERLANDS BOND AAA, EUR 129
+Sum sikkerhet fordelt pa utstedere 493.202

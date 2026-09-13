@@ -1,0 +1,382 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 544867
+Virksomheten
+Organisasjonsnummer : 921 373 554
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MTF EIENDOM AS
+Forretningsadresse: c/o Aveny Holding AS
+Nordeidevegen 51B
+5251 SOREIDGREND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Eigil Steinar Henriksen
+Dato for fastsettelse av Aarsregnskapet: 04.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 921 373 554
+
+MTF EIENDOM AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Varekostnad 0 275
+
+Annen driftskostnad 2 4 759
+
+Sum kostnader 2 5 034
+
+Driftsresultat -2 -5 034
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter e) e)
+
+Sum finanskostnader 0 0
+
+Netto finans e) fe)
+
+Resultat fer skattekostnad -2 -5 034
+
+Arsresultat -2 -5 034
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -2 -5 034
+Utskriftsdato 15.06.2026 Organisasjonsnr 921 373 554 Side 1 av 3
+
+Organisasjonsnr: 921 373 554
+
+MTF EIENDOM AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 1 356 135 356 135
+
+Sum varige driftsmidler 356 135 356 135
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 356 135 356 135
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 160 987 160 987
+
+Andre kortsiktige
+
+fordringer 84 109 84 109
+
+Sum fordringer 245 095 245 095
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 14 166 14 168
+
+Sum bankinnskudd,
+
+kontanter og lignende 14 166 14 168
+
+Sum omlepsmidler 259 261 259 263
+
+SUM ELENDELER 615 396 615 398
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Annen innskutt egenkapital 310 000 310 000
+
+Sum innskutt egenkapital 340 000 340 000
+Utskriftsdato 15.06.2026 Organisasjonsnr 921 373 554 Side 2 av 3
+
+Opptjent egenkapital
+
+Udekket tap 204 175 204 173
+
+Sum opptjent egenkapital -204 175 -204 173
+
+Sum egenkapital 135 825 135 827
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 479 571 479 571
+
+Sum kortsiktig gjeld 479 571 479 571
+
+Sum gjeld 479 571 479 571
+
+SUM EGENKAPITAL OG GJELD 615 396 615 398
+Utskriftsdato 15.06.2026 Organisasjonsnr 921 373 554 Side 3 av 3
+
+Organisasjonsnr: 921 373 554
+
+MTF EIENDOM AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Eiendeler som er knyttet til varekretslopet er klassifisert som
+omlepsmidler. Fordringer klassifiseres som omlg@psmidler hvis de forfaller
+til betaling innen ett Ar etter transaksjonsdagen.
+
+Omlepsmidler vurderes
+
+til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belgep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+
+2025.
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+1
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap for
+MTF EIENDOM AS
+921373554
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+MTF EIENDOM AS
+921 373 554
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Varekosinad 0 -275
+Annen driftskostnad -2 -4 759
+Sum driftskostnader -2 -5 034
+Driftsresultat -2 -5 034
+Arsresultat -2 -5 034
+Overforinger
+Udekket tap -2 -5 034
+Sum overferinger -2 -5 034
+
+MTF EIENDOM AS
+921 373 554
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger og annen fast eiendom 1 356 135 356 135
+Sum varige driftsmidler 356 135 356 135
+Sum anleggsmidler 356 135 356 135
+Omlgpsmidler
+Fordringer
+Kundefordringer 160 987 160 987
+Andre kortsiktige fordringer 84 109 84 109
+Sum fordringer 245 095 245 095
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 14 166 14 168
+Sum bankinnskudd, kontanter og lignende 14 166 14 168
+Sum omlgpsmidler 259 261 259 263
+SUM EIENDELER 615 396 615 398
+
+MTF EIENDOM AS
+921 373 554
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Annen innskutt egenkapital 310 000 310 000
+Sum innskutt egenkapital 340 000 340 000
+Opptjent egenkapital
+Udekket tap -204 175 -204 173
+Sum opptjent egenkapital -204 175 -204 173
+Sum egenkapital 135 825 135 827
+Gjeld
+Kortsiktig gjeld
+Annen kortsiktig gjeld 479 571 479 571
+Sum kortsiktig gjeld 479 571 479 571
+Sum gjeld 479 571 479 571
+SUM EGENKAPITAL OG GJELD 615 396 615 398
+S@REIDGREND, 04.06.2026
+Eigil Steinar Henriksen Rafal Karas
+styrets leder styremediem
+
+MTF EIENDOM AS
+
+921 373 554
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Varige driftsmidler og immaterielle eiendeler
+
+Antall arsverk
+
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.

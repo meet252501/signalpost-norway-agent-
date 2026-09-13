@@ -1,0 +1,501 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 584621
+Virksomheten
+Organisasjonsnummer : 991 303 715
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: BERGEN NARINGSBYGG AS
+Forretningsadresse: Inger Bang Lunds vei 12
+5059 BERGEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Trond Drager
+Dato for fastsettelse av arsregnskapet: 20.06.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 991 303 715
+
+BERGEN NERINGSBYGG AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 63 000
+
+Sum inntekter 63 000
+
+Kostnader
+
+Annen driftskostnad 2 501 804 620 973
+
+Sum kostnader 501 804 620 973
+
+Driftsresultat -438 804 -620 973
+
+Inntekt pa andre
+
+investeringer 393 618 33 929 167
+
+Annen finansinntekt 100 200
+
+Rentekostnad til foretak
+
+i samme konsern 72 588
+
+Annen finanskostnad 102 255 8 758 684
+
+Netto finans 218 875 25 170 683
+
+Resultat fer skattekostnad -219 929 24 549 710
+
+Arsresultat -219 929 24 549 710
+
+Overferinger og
+
+disponeringer
+
+Overferinger annen
+
+egenkapital 3 -219 929 24 549 710
+
+Sum overferinger og
+
+disponeringer -219 929 24 549 710
+Utskriftsdato 15.07.2026 Organisasjonsnr 991 303 715 Side 1 av 3
+
+Organisasjonsnr: 991 303 715
+
+BERGEN NERINGSBYGG AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 4 12 866 190
+
+Sum varige driftsmidler 12 866 190 0
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 5 12 000 12 000
+
+Sum finansielle
+
+anleggsmidler 12 000 12 000
+
+Sum anleggsmidler 12 878 190 12 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre fordringer 6 695 979 21 220 042
+
+Sum fordringer 695 979 21 220 042
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Sum bankinnskudd,
+
+kontanter og lignende 346 726 655 224
+
+Sum omlepsmidler 1 042 705 21 875 266
+
+SUM ELENDELER 13 920 895 21 887 266
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 3, 7 80 176 8 017 629
+
+Beholdning av egne aksjer 3 -3 543 291
+
+Sum innskutt egenkapital 80 176 4 474 338
+
+Opptjent egenkapital
+
+Annen egenkapital 3 152 581 17 124 898
+
+Sum opptjent egenkapital 152 581 17 124 898
+
+Sum egenkapital 232 757 21 599 236
+Utskriftsdato 15.07.2026 Organisasjonsnr 991 303 715 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 8 6 425 000
+
+@vrig langsiktig gjeld 6 7 208 778
+
+Sum annen langsiktig gjeld 13 633 778
+
+Kortsiktig gjeld
+
+Leverandergjeld 6 12 073 17 063
+
+Annen kortsiktig gjeld 6 42 288 270 968
+
+Sum kortsiktig gjeld 54 361 288 031
+
+Sum gjeld 13 688 139 288 031
+
+SUM EGENKAPITAL OG GJELD 13 920 896 21 887 267
+Utskriftsdato 15.07.2026 Organisasjonsnr 991 303 715 Side 3 av 3
+
+Organisasjonsnr: 991 303 715
+
+BERGEN NERINGSBYGG AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Bergen Nzringsbygg AS
+o
+Arsrapport for 2025
+Arsregnskap
+- Resultatregnskap
+- Balanse
+- Noter
+Revisjonsberetning
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/36b1 aac3-Odc9-4 1ff-8 1 db-3af09f1 be 1bd www. vismasign.com
+
+Bergen Nzringsbygg AS
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Annen driftsinntekt 63 000 0
+Sum driftsinntekter 63 000 0
+Driftskostnader
+Annen driftskostnad 2 501 804 620 973
+Sum driftskostnader 501 804 620 973
+Driftsresultat -438 804 -620 973
+Finansinntekter og finanskostnader
+Inntekt pa andre investeringer 393 618 33 929 167
+Annen finansinntekt 100 200
+Rentekostnad til foretak i samme konsern 72 588 0
+Annen finanskostnad 102 255 8 758 684
+Netto finansposter 218 875 25 170 683
+Ordinzert resultat for skattekostnad -219 929 24 549 710
+Arsresultat -219 929 24 549 710
+Overfgringer og disponeringer
+Overfgringer annen egenkapital 3 -219 929 24 549 710
+
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/36b1 aac3-Odc9-4 1ff-8 1 db-3af09f1 be 1bd www. vismasign.com
+
+Bergen Nzringsbygg AS
+Balanse pr. 31. desember
+Note 2025 2024
+
+Anleggsmidler
+
+Varige driftsmidler
+
+Tomter, bygninger og annen fast eiendom 4 12 866 190 0
+
+Sum varige driftsmidler 12 866 190 0
+
+Finansielle anleggsmidler
+
+Investeringer i tilknyttet selskap 5 12 000 12 000
+
+Sum finansielle anleggsmidler 12 000 12 000
+
+Sum anleggsmidler 12 878 190 12 000
+
+Omlgpsmidler
+
+Fordringer
+
+Andre fordringer 6 695 979 21 220 042
+
+Bankinnskudd, kontanter og lignende 346 726 655 224
+
+Sum oml¢psmidler 1 042 705 21 875 266
+
+Sum eiendeler 13 920 895 21 887 266
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/36b1 aac3-Odc9-4 1ff-8 1 db-3af09f1 be 1bd www. vismasign.com
+
+Bergen Nzringsbygg AS
+Balanse pr. 31. desember
+Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 3,7 80 176 8 017 629
+Egne aksjer 3 0 -3 543 291
+Sum innskutt egenkapital 80 176 4 474 338
+Opptjent egenkapital
+Annen egenkapital 3 152 581 17 124 898
+Sum opptjent egenkapital 152 581 17 124 898
+Sum egenkapital 232 757 21 599 236
+Gjeld
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 8 6 425 000 0
+Pvrig langsiktig gjeld 6 7 208 778 0)
+Sum annen langsiktig gjeld 13 633 778 0
+Kortsiktig gjeld
+Leverandgrgijeld 12 073 17 063
+Annen kortsiktig gjeld 42 288 270 968
+Sum kortsiktig gjeld 54 361 288 031
+Sum gjeld 13 688 139 288 031
+Sum egenkapital og gjeld 13 920 896 21 887 267
+31. desember 2025
+Bergen, 12. mai 2026
+Trond Drager Marte Drager
+Styrets leder Styremedlem
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/36b1 aac3-Odc9-4 1ff-8 1 db-3af09f1 be 1bd www. vismasign.com
+
+Bergen Nzringsbygg AS
+Noter til regnskapet for 2025
+Note 1 - Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+Datterselskap/tilknyttet selskap
+Datterselskapet og tilknyttede selskaper vurderes etter kostmetoden i selskapsregnskapet. Investeringen er
+vurdert til anskaffelseskost for aksjene med mindre nedskrivning har vzert nédvendig. Det er foretatt
+nedskrivning til virkelig verdi nar verdifall skyldes arsaker som ikke kan antas a veere forbigaende og det ma
+anses nédvendig etter god regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke
+lenger er til stede.
+Utbytte og andre utdelinger er inntektsfg@rt samme ar som det er avsatt i datterselskapet. Overstiger utbytte
+andel av tilbakeholdt resultat etter kjgpet, representerer den overskytende del tilbakebetaling av investert
+kapital, og utdelingene er fratrukket investeringens verdi i balansen.
+Klassifisering og vurdering av balanseposter
+Omlgpsmidler og kortsiktig gjeld omfatter poster som forfaller til betaling innen ett ar etter balansedagen,
+samt poster som knytter seg til varekretsld@pet. @vrige poster er klassifisert som anleggsmiddel/langsiktig
+gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til
+nominelt belgp pa etableringstidspunktet.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi ved verdifall som ikke forventes
+a vere forbigaende. Anleggsmidler med begrenset gkonomisk levetid avskrives planmessig. Langsiktig gjeld
+balansef¢res til nominelt belgp pa etableringstidspunktet.
+Varige driftsmidler
+Varige driftsmidler balansefgres og avskrives linezert over driftsmidlets forventede levetid. Vesentlige
+driftsmidler som bestar av betydelige komponenter med ulik levetid er dekomponert med ulik
+avskrivningstid for de ulike komponentene. Direkte vedlikehold av driftsmidler kostnadsfgres Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet. Dersom gjenvinnbart belgp av driftsmiddelet er lavere enn balansefgrt verdi foretas
+nedskrivning til gjenvinnbart belgp. Gjenvinnbart belgp er det hgyeste av netto salgsverdi og verdi i bruk.
+Verdi i bruk er naverdien av de fremtidige kontantstr@mmene som eiendelen forventes a generere.
+Skatter
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er utlignet og nettofgrt. Netto utsatt skattefordel balansefgres i den grad det er
+sannsynlig at denne kan bli nyttiggjort.
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/36b1 aac3-Odc9-4 1ff-8 1 db-3af09f1 be 1bd www. vismasign.com
+
+Bergen Nzringsbygg AS
+Noter til regnskapet for 2025
+Note 2 - Lgnnskostnader, antall ansatte, lan til ansatte og godtgjgrelse til revisor
+Selskapet har i regnskapsaret sysselsatt totalt O arsverk.
+Ytelser til ledende personer
+Selskapet er ikke pliktig til a ha tjenestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+Godtgjgrelse til revisor er fordelt pa folgende: 2025 2024
+Revisjon 308 750 220 000
+Andre tjenester 46 250 80 000
+Merverdiavgift er inkludert i revisjonshonoraret.
+Note 3 - Egenkapital
+Aksjekapital Egne aksjer Annen Sum
+egenkapital
+Egenkapital 01.01.2025 8 017 629 -3 543 291 17 124 898 21599 236
+Arsresultat 0 0 -219 929 -219 929
+Tilleggsutbytte i lgpet av aret 0 0 -16 560 534 -16 560 534
+Ekstraordinzert utbytte i lgpet av 0 0 -4 586 016 -4 586 016
+aret
+Nedsettelse av aksjekapital -7 937 453 3543 291 4 394 162 0
+Egenkapital 31.12.2025 80 176 0 152 581 232 757
+Note 4 - Varige driftsmidler
+Boliger Sum
+Tilgang kjgpte driftsmidler 12 866 190 12 866 190
+Anskaffelseskost 31.12. 12 866 190 12 866 190
+Balansefgrt pr. 31.12. 12 866 190 12 866 190
+Note 5 - Datterselskap, tilknyttet selskap m v
+Eier- Stemme- Bokfgrt verdi
+Selskap Ervervet Kontor andel andel pr. 31.12
+Insolia Eiendomsdrift AS Bergen 40% 40 % 12 000
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/36b1 aac3-Odc9-4 1ff-8 1 db-3af09f1 be 1bd www. vismasign.com
+
+Bergen Nzringsbygg AS
+Noter til regnskapet for 2025
+Note 6 - Mellomvzerende med selskap i samme konsern og tilknyttet selskap
+Fordringer 2025 2024
+Lan til foretak i samme konsern 21 146 550
+Gjeld 2025 2024
+Gjeld til Regard AS -7 208 778 0
+Note 7 - Aksjekapital og aksjonzrinformasjon
+Aksjekapitalen bestar av:
+Antall Palydende Balansefort
+Ordinzere aksjer 80 176 1 80 176
+Oversikt over aksjonzerene i selskapet pr. 31.12:
+Ordinzere Eier- Stemme-
+aksjer andel andel
+Regard AS 80 176 100 % 100 %
+Note 8 - Pantesikret gjeld
+Gjeld som er sikret ved pant 2025 2024
+Lan Nordea -6 425 000 0
+Balansefgrt verdi av eiendeler stilt som sikkerhet 2025 2024
+Boliger 12 866 190 0
+Note 9 - Skatt
+Beregning av arets skattegrunnlag: 2025 2024
+Ordinzert resultat fr skattekostnad -219 929 24 549 710
+Ikke fradragsberettigede kostnader 0 8 750
+Regnskapsmessig tap realisasjon av aksjer og andre finansielle
+instrumenter 206 381 22 270 833
+3% av skattefrie inntekter etter fritaksmetoden 18 000 1 686 000
+Tilbakefgring av inntektsfgrt utbytte -600 000 -56 200 000
+Arets skattegrunnlag -595 548 -7 684 707
+Oversikt over midlertidige forskjeller 2025 2024
+Akkumulert fremfgrbart underskudd fgr konsernbidrag -32 151 907 -31 556 359
+Netto midlertidige forskjeller pr 31.12 -32 151 907 -31 556 359
+Forskjeller som ikke inngar i utsatt skatt/-skattefordel -32 151 907 -31 556 359
+Sum 0 0
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/36b1 aac3-Odc9-4 1ff-8 1 db-3af09f1 be 1bd www. vismasign.com
+
+SIGNATURES ALLEKIRJOITUKSET UNDERSKRIFTER SIGNATURER UNDERSKRIFTER
+This document contains 7 pages before this page Tama asiakirja sisaltaa 7 sivua ennen tata sivua Detta dokument innehaller 7 sidor fore denna sida
+Dokumentet inneholder 7 sider far denne siden Dette dokument indeholder 7 sider far denne side
+
+Trond Drager
+
+c00c42ec-bfe8-4593-baa/-95d57177582c - 2026-05-12 15:41:15 UTC +03:00
+
+BankID - c9be0f0c-1839-4b 1 f-80d7-0e3aebc832d8 - NO
+
+Marte Drager
+
+65b81298-6a6d-4953-aed4-71f15a07eab56 - 2026-05-12 18:58:36 UTC +03:00
+
+BankID - 3d391610-1897-4d27-a421 -59a7ac4cd65a - NO
+authority to sign asemavaltuutus stallningsfullmakt autoritet til a signere myndighed til at underskrive
+representative nimenkirjoituscikeus firmateckningsratt representant repraesentant
+custodial huoltaja/edunvalvaja férvaltare foresatte/verge frinedsberovende
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/36b1 aac3-Odc9-4 1 ff-8 1 db-3af09f1be1bd www. vismasign.com
+
+Solstrand @konomi AS, revisjon og bistand S O lo k
+Til generalforsamlingen i Bergen Nzeringsbygg AS
+Uavhengig revisors beretning for 2025
+Konklusjon
+Vi har revidert Bergen Nzeringsbygg AS sitt arsregnskap som viser et underskudd pa kr 219 929.
+Arsregnskapet bestar av bestar av balanse per 31. desember 2025, resultatregnskap for
+regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av
+viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e = gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025
+og av dets resultat for regnskapsaret avsluttet per denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfgrt revisjonen i samsvar med de internasjonale revisjonsstandardene International
+Standards on Auditing (ISA-ene}. Vare oppgaver og plikter i henhold til disse standardene er
+beskrevet nedenfor under Revisors oppgaver og plikter ved revisjonen av arsregnskapet. Vi er
+uavhengige av selskapet slik det kreves i lov, forskrift og International Code of Ethics for Professional
+Accountants (inkludert internasjonale uavhengighetsstandarder) utstedt av the International Ethics
+Standards Board for Accountants (IESBA-reglene}, og vi har overholdt vare gvrige etiske forpliktelser i
+samsvar med disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og
+hensiktsmessig som grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen} er ansvarlig for a utarbeide arsregnskapet og for at det gir et
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er
+ogsa ansvarlig for slik intern kontroll som den finner nédvendig for a kunne utarbeide et arsregnskap
+som ikke inneholder vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli awiklet.
+Solstrand O@konomi AS, revisjon- og bistand, org.nr. 931 512 242
+Solstrandvegen 87A, 5200 Os
+Telefon: +47 984 20 121
+Side 1 av 2
+
+Solstrand @konomi AS, revisjon og bistand S O lo k
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en hgy grad av sikkerhet, men ingen garanti
+for at en revisjon utfgrt i samsvar med |SA-ene, alltid vil avdekke vesentlig feilinformasjon som
+eksisterer. Feilinformasjon kan oppsta som fglge av misligheter eller utilsiktede feil. Feilinformasjon
+blir vurdert som vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke
+gékonomiske beslutninger som brukerne foretar basert pa arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+https://revisorforeningen.no/revisjonsberetninger
+Os, 12.05.2026
+Solstrand konomi AS
+Anne Mette Lyssand
+statsautorisert revisor
+Solstrand O@konomi AS, revisjon- og bistand, org.nr. 931 512 242
+Solstrandvegen 87A, 5200 Os
+Telefon: +47 984 20 121
+Side 2 av 2

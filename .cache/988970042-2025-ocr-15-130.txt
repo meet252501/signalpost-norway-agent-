@@ -1,0 +1,526 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 642481
+Virksomheten
+Organisasjonsnummer : 988 970 042
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: TBG HOLDING AS
+Forretningsadresse: Guribyveien 9
+3530 ROYSE
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Thor Bard Gundersen
+Dato for fastsettelse av Aarsregnskapet: 28.05.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 988 970 042
+
+TBG HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 3
+
+Annen driftskostnad 333 858 69 200
+
+Sum kostnader 333 858 69 200
+
+Driftsresultat -333 858 -69 200
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap 5 844 156 3 883 901
+
+Annen renteinntekt 21 32
+
+Annen finansinntekt 4 150 701 75 837
+
+Verdigkning
+
+markedsbaserte omlepsmidler 80 000
+
+Sum finansinntekter 5 994 878 4 039 770
+
+Verdireduksjon
+
+markedsbaserte omlepsmidler 100 000
+
+Annen rentekostnad 48 671 32 245
+
+Annen finanskostnad 4 139 287 73 046
+
+Sum finanskostnader 287 958 105 291
+
+Netto finans 5 706 920 3 934 480
+
+Resultat fer skattekostnad 5 373 063 3 865 279
+
+Skattekostnad pa resultat 5 1 201 603 829 802
+
+Arsresultat 6 4 171 460 3 035 477
+
+Arsresultat etter
+
+minoritetsinteresser 4 171 460 3 035 477
+
+Totalresultat 4 171 460 3 035 477
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 2 100 000
+
+Avsatt til annen
+
+egenkapital 2 071 460 3 035 477
+
+Sum overferinger og
+
+disponeringer 4 171 460 3 035 477
+Utskriftsdato 27.07.2026 Organisasjonsnr 988 970 042 Side 1 av 3
+
+Organisasjonsnr: 988 970 042
+
+TBG HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 5 55 000
+
+Sum immaterielle eiendeler 55 000
+
+Finansielle anleggsmidler
+
+Investering 1 datterselskap 7 7 409 340 6 788 698
+
+Investering i annet
+
+foretak i samme konsern 7
+
+Lan til foretak i samme
+
+konsern 8 2 458 047 1 712 712
+
+Investeringer 1
+
+tilknyttet selskap 7 100 000 200 000
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 8 1 036 750 885 250
+
+Sum finansielle
+
+anleggsmidler 11 004 137 9 586 660
+
+Sum anleggsmidler 11 059 137 9 586 660
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 8
+
+Andre kortsiktige
+
+fordringer 8 5 844 153 3 883 901
+
+Sum fordringer 5 844 153 3 883 901
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 7
+
+Markedsbaserte aksjer 744 018 957 302
+
+Sum investeringer 744 018 957 302
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 51 919 47 710
+
+Sum bankinnskudd,
+
+kontanter og lignende 51 919 47 710
+
+Sum omlepsmidler 6 640 090 4 888 913
+
+SUM ELENDELER 17 699 226 14 475 573
+Utskriftsdato 27.07.2026 Organisasjonsnr 988 970 042 Side 2 av 3
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 100 aksjer a
+
+1 000 6 100 000 100 000
+
+Sum innskutt egenkapital 100 000 100 000
+
+Opptjent egenkapital
+
+Annen egenkapital 6 13 933 662 11 862 202
+
+Sum opptjent egenkapital 13 933 662 11 862 202
+
+Sum egenkapital 14 033 662 11 962 202
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 5
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 1 166 073
+
+@vrig langsiktig gjeld 8
+
+Sum annen langsiktig gjeld 1 166 073
+
+Sum langsiktig gjeld 1 166 073
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 44 906 252 575
+
+Leverandergjeld 1 022
+
+Betalbar skatt 5 1 256 603 693 411
+
+Utbytte 900 000
+
+Annen kortsiktig gjeld 296 960 1 567 385
+
+Sum kortsiktig gjeld 2 499 492 2 513 371
+
+Sum gjeld 3 665 565 2 513 371
+
+SUM EGENKAPITAL OG GJELD 17 699 226 14 475 573
+Utskriftsdato 27.07.2026 Organisasjonsnr 988 970 042 Side 3 av 3
+
+Organisasjonsnr: 988 970 042
+
+TBG HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+BankiD Qualified Signing
+Clausen, Bente Berresen
+2026-05-28
+Til generalforsamlingen i
+Tbg Holding AS =
+haa
+HYVERVEN
+
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet for Tbg Holding AS som viser et overskudd pa kr 4 171 460,-.
+Arsregnskapet bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret
+avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige
+regnskapsprinsipper.
+Etter var mening
+
+e oppfyller arsregnskapet gjeldende lovkrav, og
+
+e = gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025
+
+og av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge.
+
+Grunnlag for konklusjonen
+Vi har gjennomf¢rt revisjonen i samsvar med den internasjonale revisjonsstandarden for revisjon av
+regnskap til mindre komplekse enheter (ISA for MKE}. Vare oppgaver og plikter i henhold til ISA for
+MKE er beskrevet nedenfor under Revisors oppgaver og plikter ved revisjonen av arsregnskapet. Vi er
+uavhengige av selskapet i samsvar med kravene i relevante lover og forskrifter i Norge og
+International Code of Ethics for Professional Accountants (inkludert internasjonale
+uavhengighetsstandarder) utstedt av International Ethics Standards Board for Accountants (IESBA-
+reglene}, og vi har overholdt vare @vrige etiske forpliktelser i samsvar med disse kravene. Innhentet
+revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen} er ansvarlig for a utarbeide arsregnskapet og for at det gir et
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er
+ogsa ansvarlig for slik internkontroll som den finner n¢dvendig for a kunne utarbeide et arsregnskap
+som ikke inneholder vesentlig feilinformasjon, verken som fglge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning
+HVERVEN REVISION
+“larsaute ise “e revisarcr NO 979 290 861 MVA MEBLEM G3 Seb WSS fen, Sek Us MIKE, \
+Karryerksycic as | 45 Hesetoss | FAQ | ogg ASO SATA | beccvenrestajac a: f* a
+
+som inneholder var konklusjon. Betryggende sikkerhet er en h@y grad av sikkerhet, men ingen garanti
+for at en revisjon utfgrt i samsvar med ISA for MKE, alltid vil avdekke vesentlig feilinformasjon.
+Feilinformasjon kan oppsta som fglge av misligheter eller utilsiktede feil. Feilinformasjon er a anse
+som vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke de
+gkonomiske beslutningene som brukerne foretar, pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til
+https://revisorforeningen.no/revisjonsberetninger.
+Hgnefoss 28. mai 2026
+Hverven Revisjon AS
+(elektronisk signert)
+Bente B Clausen
+statsautorisert revisor
+i HYERVEN REVISJON
+Slatsaubo cise e reviso-cr NO 979 290 861 MVA MEMLERM AY GkI SS 2 feed, leer le Mit. \
+Karryerksycic as | 45 Hesetoss | FAQ | ogg ASO SATA | beccvenrestajac a: f* a x
+
+2026-05-28
+Arsregnskap 2025
+Tbg Holding AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 988 970 042
+
+Resultatregnskap
+Tbg Holding AS
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftskostnad 333 858 69 200
+Driftsresultat -333 858 -69 200
+Finansinntekter og finanskostnader
+Inntekt pa investering 1 datterselskap 5 844 156 3 883 901
+Annen renteinntekt 21 32
+Annen finansinntekt 4 150 701 75 837
+Verdiokning markedsbaserte omlapsmidler 0 80 000
+Verdireduksjon markedsbaserte omlepsmidler -100 000 0
+Rentekostnader -48 671 -32 245
+Annen finanskostnad 4 -139 287 -73 046
+5 706 920 3 934 480
+Resultat fer skattekostnad 5 373 063 3 865 279
+Skattekostnad pa resultat 5 1 201 603 829 802
+Resultat 4 171 460 3 035 477
+ARSRESULTAT 6 4171 460 3 035 477
+Overferinger
+Avsatt til utbytte 2 100 000 0
+Avsatt til annen egenkapital 2 071 460 3 035 477
+4 171 460 3 035 477
+
+Balanse
+Tbg Holding AS
+
+EIENDELER Note 2025 2024
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 5 55 000 0
+Finansielle driftsmidler
+Investeringer 1 datterselskap 7 7 409 340 6 788 698
+Lan til foretak 1 samme konsern 8 2 458 047 1 712 712
+Investeringer 1 tilknyttet selskap 7 100 000 200 000
+Lan til tilknyttet selskap og felles kontrollert virksomhet 8 1 036 750 885 250
+
+11 004 137 9 586 660
+Sum anleggsmidler 11 059 137 9 386 660
+Omlepsmidler
+Fordringer
+Andre kortsiktige fordringer 8 5 844 153 3 883 901
+Investeringer
+Markedsbaserte aksjer 744 018 957 302
+Bankinnskudd, kontanter o.1. 51919 47 710
+Sum omlgpsmidler 6 640 090 4 888 913
+SUM EIENDELER 17 699 226 14 475 573
+
+Balanse
+Tbg Holding AS
+
+EGENKAPITAL OG GJELD Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 100 aksjer a 1 000 6 100 000 100 000
+Opptjent egenkapital
+Annen egenkapital 6 13 933 662 11 862 202
+Sum egenkapital 14 033 662 11 962 202
+Gjeld
+Gjeld til kredittinstitusjoner 1 166 073 0
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner 44 906 252 575
+Leverandergjeld 1 022 0
+Betalbar skatt 5 1 256 603 693 411
+Utbytte 900 000 0
+Annen kortsiktig gjeld 296 960 1 567 385
+
+2 499 492 2 513 371
+Sum gjeld 3 665 565 2 $13 371
+SUM EGENKAPITAL OG GJELD 17 699 226 14 475 573
+
+Reyse, 28.05.2026
+Styret 1 Tbg Holding AS
+Thor Bard Gundersen
+styreleder/daglig leder
+
+e 8]
+Noter til arsregnskapet 2025
+Tbg Holding AS
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Valuta
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapsarets slutt.
+Skatt
+Skattekostnaden 1 resultatregnskapet omfatter bade periodens betalbare skatt og endring 1 utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremforing
+ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres 1 samme periode er utlignet og nettofort.
+Klassifisering og vurdering av omlepsmidler
+Omlepsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslopet. Omlepsmidler vurderes til laveste
+verdi av anskaffelseskost og virkelig verdi.
+Aksjer i datterselskap
+Investeringer 1 datterselskap er vurdert etter kostmetoden ettersom konsernet samlet ikke overstiger
+grensen for sma foretak.
+Note 2 Virksomhetens art og lokalisering
+Tbg Holding AS er et holdingselskap. Selskapet er lokalisert i Hole kommune.
+Note 3 Lennskostnader
+Tbg Holding AS har ikke hatt lonns- eller personalkostnader 1 2025 og det foreligger heller ingen
+slike forpliktelser.
+
+e 8]
+Noter til arsregnskapet 2025
+Tbg Holding AS
+
+Note 4 Poster som er slatt sammen i regnskapet
+Annen finansinntekt 2025 2024
+Mottatt utbytte 108 271 75 837
+Gevinst salg aksjer 39 039 0
+Annen finansinntekt (agio) 3 391 0
+Sum 150 701 75 837
+Annen finanskostnad 2025 2024
+Tap salg aksjer 139 287 64 383
+Annen finanskostnad (disagio) 0 8 663
+Sum 139 287 73 046
+Note 5 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzert resultat:
+Betalbar skatt 1 256 603 829 802
+Endring 1 utsatt skattefordel -55 000 0
+Skattekostnad ordinzert resultat 1 201 603 829 802
+Skattepliktig inntekt:
+Resultat for skatt 5 373 063 3 865 279
+Permanente forskjeller 88 771 -93 453
+Endring 1 midlertidige forskjeller 250 000 0
+Avgitt konsernbidrag 0 -619 960
+Skattepliktig inntekt 5 711 833 3 151 866
+Betalbar skatt 1 balansen:
+Betalbar skatt pa arets resultat -29 111 -354 656
+Betalbar skatt pa avgitt konsernbidrag 0 -136 391
+Betalbar skatt pa mottatt konsernbidrag 1 285 714 1 184 458
+Sum betalbar skatt i balansen 1 256 603 693 411
+Note 6 Egenkapital
+
+Aksjekapital Annen Sum
+
+egenkapital egenkapital
+
+Pr. 31.12.2024 100 000 11 862 202 11 962 202
+Arets resultat 4 171 460 4 171 460
+Tilleggsutbytte vedtatt 2025 -1 200 000 -1 200 000
+Avsatt utbytte -900 000 -900 000
+Pr 31.12.2025 100 000 13 933 662 14 033 662
+
+e [e]
+Noter til arsregnskapet 2025
+Tbg Holding AS
+
+Note 7 Datterselskap, TS og FKV
+
+Kontor- Eier- Egenkapital Resultat
+
+kommune andel
+DS/FKV/TS
+Antrekkspartner AS Larvik  50,0% 0 0
+Best Kids AS Ringerike 100,0 % 794 141 38 953
+Bard AS Ringerike 100,0% 1 963 559 1 729 907
+L16 Seksjon 1 AS Hole 100,0 % 28 046 4 546
+Lina Eiendom AS Hole 50,0 % 46 094 -20 058
+Per J Gundersen AS Ringerike _100,0 % 2 803 989 2 265 428
+Sum 5 635 829 4018 776
+Note 8 Mellomvzrende med selskap i samme konsern
+
+2025 2024
+
+Fordringer
+Lan til foretak i samme konsern 2 458 047 1712 712
+Lan til tilknyttet selskap 1 036 750 885 250
+Andre kortsiktige fordringer konsern 5 844 153 3 883 901
+Sum 9 338 950 6 481 863
+Gjeld
+Annen kortsiktig gjeld konsern 0 1 097 046
+Sum 0 1 097 046

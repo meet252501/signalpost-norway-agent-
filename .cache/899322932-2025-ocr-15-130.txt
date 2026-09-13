@@ -1,0 +1,418 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 327151
+Enheten
+Organisasjonsnummer : 899 322 932
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ABC BOLIG & EIENDOM AS
+Forretningsadresse: Teisteveien 4
+4048 HAFRSFJORD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Pal Lendalen
+Dato for fastsettelse av arsregnskapet: 20.02.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 05.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 899 322 932
+
+ABC BOLIG & EIENDOM AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 1 2 821 0
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 5 647 0
+
+Annen driftskostnad 169 145 15 065
+
+Sum kostnader 177 613 15 065
+
+Driftsresultat -177 613 -15 065
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 270 702 0
+
+Annen finansinntekt 2 18 953 204 338 993
+
+Verdigkning av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 244 213 0
+
+Sum finansinntekter 19 468 120 338 993
+
+Sum finanskostnader e) fe)
+
+Netto finans 19 468 120 338 993
+
+Resultat fer skattekostnad 19 290 507 323 928
+
+Arsresultat 19 290 507 323 928
+
+Overferinger og
+
+disponeringer
+
+Tilleggsutbytte 0 2 335 002
+
+Ekstraordinert utbytte 2 500 000 0
+
+Annen egenkapital 16 790 507 -2 011 074
+Utskriftsdato 05.03.2026 Organisasjonsnr 899 322 932 Side 1 av 3
+
+Organisasjonsnr: 899 322 932
+ABC BOLIG & EIENDOM AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 3 5 922 348 0
+Driftslesere, inventar,
+verkt@y, kontormaskiner,
+ol. 3 163 758 0
+Sum varige driftsmidler 6 086 105 0
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 4 244 023 244 023
+Andre langsiktige
+fordringer 5 8 928 0
+Sum finansielle
+anleggsmidler 252 951 244 023
+Sum anleggsmidler 6 339 056 244 023
+Omlepsmidler
+Varer
+Fordringer
+Sum fordringer 0 0
+Investeringer
+Markedsbaserte aksjer 1 242 998 0
+Sum investeringer 1 242 998 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 9 569 717 117 123
+Sum bankinnskudd,
+kontanter og lignende 9 569 717 117 123
+Sum omlepsmidler 10 812 714 117 123
+SUM ELENDELER 17 151 770 361 145
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 05.03.2026 Organisasjonsnr 899 322 932 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital 6, 7 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 7 17 114 790 324 283
+
+Sum opptjent egenkapital 17 114 790 324 283
+
+Sum egenkapital 17 144 790 354 283
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 6 981 6 863
+
+Sum kortsiktig gjeld 6 981 6 863
+
+Sum gjeld 6 981 6 863
+
+SUM EGENKAPITAL OG GJELD 17 151 770 361 145
+Utskriftsdato 05.03.2026 Organisasjonsnr 899 322 932 Side 3 av 3
+
+Organisasjonsnr: 899 322 932
+ABC BOLIG & EIENDOM AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+Regnskapsprinsipper
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+Klassifisering og vurdering av
+balanseposter
+Omlepsmidler vurderes til laveste av anskaffelseskost og
+virkelig verdi. Kortsiktig gjeld balansefores til nominelt belep pa
+etableringstidspunktet.
+Forevrig er falgende regnskapsprinsipper
+anvendt :
+FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler, laveste verdis prinsipp for markedsbaserte
+finansielle omle@psmidler.
+Selskapet har ikke endret regnskapsprinsipp fra
+2024 til 2025.
+Note
+Antall Aarsverk i regnskapsaret
+
+0.00
+Note
+
+1
+
+Spesifisering av resultatregnskapet
+Lennkostnader
+
+Andre ytelser Arets Fjorarets
+
+2821.00 0.00
+Sum lennskostnader Arets Fljorarets
+2821.00 0.00
+
+Note
+2
+Ekstraordinzre inntekter og kostnader
+Mer om ekstraordinere inntekter og kostnader
+Annen finansinntekt stammer fra tidligere solgte aksjer
+Note
+3
+Varige driftsmidler og immaterielle eiendeler
+
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+6091752 .00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+6091752.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+5647.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+6086105.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+5647.00 0.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Selskapet har kje@pt en leilighet i Lervigbrygga for utleie og tomt i Reldal
+som langsiktig investering
+Note
+5
+Fordringer
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+8928.00
+Mer om fordringer
+Note
+4
+Virkelig verdi og resultatfert verdiendr. i perioden, finansielle instrumenter
+Mer om finansielle instrumenter
+Aksjer og fond er vurdert til kostpris
+Beskrivelse av finansielle derivater
+
+Arsregnskap for
+ABC BOLIG & EIENDOM AS
+899322932
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+ABC BOLIG & EIENDOM AS
+899 322 932
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Le@nnskostnad 1 -2 821 0
+Avskrivning pa varige driftsmidler og immaterielle -5 647 0
+eiendeler
+Annen driftskostnad -169 145 -15 065
+Sum driftskostnader -177 613 -15 065
+Driftsresultat -177 613 -15 065
+Finansinntekter
+Annen renteinntekt 270 702 0
+Annen finansinntekt 2 18 953 204 338 993
+Verdigkning av finansielle instrumenter vurdert til 244 213 0
+virkelig verdi
+Sum finansinntekter 19 468 120 338 993
+Netto finans 19 468 120 338 993
+Arsresultat 19 290 507 323 928
+Overforinger
+Tilleggsutbytte 0 2 335 002
+Ekstraordinzert utbytte 2 500 000 0
+Annen egenkapital 16 790 507 -2 011 074
+Sum overferinger 19 290 507 323 928
+
+ABC BOLIG & EIENDOM AS
+899 322 932
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger og annen fast eiendom 3 5 922 348 0
+Driftslgs@re, inventar, verktgy, kontormaskiner, ol. 3 163 758 0
+Sum varige driftsmidler 6 086 105 0
+Finansielle anleggsmidler
+Investeringer i aksjer og andeler 4 244 023 244 023
+Andre langsiktige fordringer 5 8 928 0
+Sum finansielle anleggsmidler 252 951 244 023
+Sum anleggsmidler 6 339 056 244 023
+Omlgpsmidler
+Investeringer
+Markedsbaserte aksjer 1 242 998 0
+Sum investeringer 1 242 998 0
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 9 569 717 117 123
+Sum bankinnskudd, kontanter og lignende 9 569 717 117 123
+Sum omlgpsmidler 10 812 714 117 123
+SUM EIENDELER 17 151 770 361 145
+
+ABC BOLIG & EIENDOM AS
+899 322 932
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 6,7 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital tf 17 114 790 324 283
+Sum opptjent egenkapital 17 114 790 324 283
+Sum egenkapital 17 144 790 354 283
+Gjeld
+Kortsiktig gjeld
+Annen kortsiktig gjeld 6 981 6 863
+Sum kortsiktig gjeld 6 981 6 863
+Sum gjeld 6 981 6 863
+SUM EGENKAPITAL OG GJELD 17 151 770 361 145
+HAFRSFJORD, 20.02.2026
+Helge Johansen
+styrets leder / daglig leder
+
+ABC BOLIG & EIENDOM AS
+899 322 932
+Noter
+Arten av virksomhet og hvor virksomheten drives
+Kj@p, salg og utleie av eiendom samt investeringer. Selskapet holder til i Stavanger Kommune
+Antall arsverk
+Selskapet har ikke hatt ansatte i Iopet av regnskapsaret.
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet.
+Forevrig er folgende regnskapsprinsipper anvendt:
+FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler, laveste verdis prinsipp for
+markedsbaserte finansielle oml@psmidler.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+Note 1 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 0 0
+Arbeidsgiveravgift 0 0
+Pensjonskostnader 0 0
+Andre relaterte ytelser 2 821 0
+Sum 2 821 0
+Note 2 - Ekstraordinzre inntekter og kostnader
+Mer om ekstraordinzre inntekter og kostnader
+Annen finansinntekt stammer fra tidligere solgte aksjer
+Note 3 - Varige driftsmidler og immaterielle eiendeler
+Varige
+driftsmidler
+Anskaffelseskost 01.01. 0
+Tilgang i aret 6 091 752
+Avgang i aret 0
+Anskaffelseskost 31.12. 6 091 752
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -5 647
+Balansefart verdi per 31.12. 6 086 105
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 5 647
+
+ABC BOLIG & EIENDOM AS
+899 322 932
+Mer om varige driftsmidler/immaterielle eiendeler
+Selskapet har kjgpt en leilighet i Lervigbrygga for utleie og tomt i Reldal som langsiktig investering
+Note 4 - Virkelig verdi av finansielle instrumenter
+Mer om finansielle instrumenter
+Aksjer og fond er vurdert til kostpris
+Note 5 - Fordringer
+Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt 8 928
+Note 6 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordinzere 3 000 10 30 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+Helge Johansen 3 000 100,00 Ordingere
+Note 7 - Egenkapital
+Opptjent
+Aksjekapital egenkapital sum
+Egenkapital 31.12.2024 30 000 324 283 354 283
+Arsresultat 0 19 290 507 19 290 507
+Ekstraordinezert utbytte i Iopet av 0 -2 500 000 -2 500 000
+aret, basert pa arets regnskap
+Egenkapital 31.12.2025 30 000 17 114 790 17 144 790
+Spesifisering av skatt
+Skattepliktig inntekt 2025 2024
+Resultat for skatt 19 290 507 323 928
+Permanente forskjeller -19 197 417 -338 993
++/- Endring i midlertidige forskjeller -28 234 0
+- Anvendelse av fremfgrbart underskudd -64 855 0
+Skattepliktig inntekt 0 -15 065

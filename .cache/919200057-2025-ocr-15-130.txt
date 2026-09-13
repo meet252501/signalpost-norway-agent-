@@ -1,0 +1,590 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 460006
+Virksomheten
+Organisasjonsnummer : 919 200 057
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: COMMERCOR CONSULT AS
+Forretningsadresse: c/O Tom Even Mortensen
+Jacob Aalls gate 6
+0368 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Tom-Even Mortensen
+Dato for fastsettelse av Aarsregnskapet: 06.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 21.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 919 200 057
+
+COMMERCOR CONSULT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 137 568 139 287
+
+Sum kostnader 137 568 139 287
+
+Driftsresultat -137 568 -139 287
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 10 17 568
+
+Annen finansinntekt 0 7 641
+
+Sum finansinntekter 10 25 209
+
+Annen rentekostnad 0 7 168
+
+Sum finanskostnader e) 7 168
+
+Netto finans 10 18 041
+
+Resultat fer skattekostnad -137 558 -121 246
+
+Skattekostnad 2, 3 0 0
+
+Arsresultat -137 558 -121 246
+
+Annen egenkapital -137 558 -121 246
+Utskriftsdato 21.05.2026 Organisasjonsnr 919 200 057 Side 1 av 3
+
+Organisasjonsnr: 919 200 057
+
+COMMERCOR CONSULT AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 2 0) 0)
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 4 0 0
+
+Investering i annet
+
+foretak i samme konsern 4 0) 0)
+
+Lan til foretak i samme
+
+konsern 4 0) 0)
+
+Investeringer 1
+
+tilknyttet selskap 4 0 0
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 4 0 0
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 1 408 2 034
+
+Konsernfordringer 4 3 996 197 4 112 231
+
+Sum fordringer 3 997 605 4 114 265
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 4 0) 0)
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd 60 616 68 031
+
+Sum bankinnskudd,
+
+kontanter og lignende 60 616 68 031
+
+Sum omlepsmidler 4 058 221 4 182 296
+
+SUM ELENDELER 4 058 221 4 182 296
+Utskriftsdato 21.05.2026 Organisasjonsnr 919 200 057 Side 2 av 3
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 6 30 000 30 000
+
+Beholdning av egne aksjer 5, 6 0 0
+
+Overkurs 6 3 430 3 430
+
+Ikke registrert
+
+kapitalforhayelse 6 0 0
+
+Annen innskutt egenkapital 6 0 0
+
+Sum innskutt egenkapital 33 430 33 430
+
+Opptjent egenkapital
+
+Fond 6 0) 0)
+
+Annen egenkapital 6 3 907 628 4 045 186
+
+Udekket tap 6 0 0
+
+Sum opptjent egenkapital 3 907 628 4 045 186
+
+Sum egenkapital 3 941 058 4 078 616
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2 0) 0)
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 4 0 0
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 40 906 28 181
+
+Betalbar skatt 2, 3 0 0
+
+Kortsiktig konserngjeld 4 0 0
+
+Annen kortsiktig gjeld 7 76 257 75 499
+
+Sum kortsiktig gjeld 117 163 103 680
+
+Sum gjeld 117 163 103 680
+
+SUM EGENKAPITAL OG GJELD 4 058 221 4 182 296
+Utskriftsdato 21.05.2026 Organisasjonsnr 919 200 057 Side 3 av 3
+
+Organisasjonsnr: 919 200 057
+
+COMMERCOR CONSULT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Eiendeler som er knyttet til varekretslepet er klassifisert
+
+som omlepsmidler. Fordringer klassifiseres som oml@psmidler hvis de
+forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og
+
+virkelig verdi. Kortsiktig gjeld balanseferes til nominelt belep pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes 4 vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer
+
+og andre fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning til forventet tap. Avsetning til tap gje@res pa grunnlag av
+individuelle vurderinger av de enkelte fordringene.
+
+Skatt
+
+Skattekostnaden
+
+i resultatregnskapet omfatter bade periodens betalbare skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet med 22% pa grunnlag av de
+midlertidige forskjeller som eksisterer mellom regnskapsmessige og
+skattemessige verdier, samt skattemessig underskudd til fremforing ved
+utgangen av regnskapsaret. Skatteskende og skattereduserende midlertidige
+forskjeller som reverserer eller kan reversere i samme periode er fastsatt
+og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+4
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Konsernregnskap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Nei
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+
+Fordringer
+
+Samlet belep - foretak i samme konsern Arets Fjorarets
+
+0.00 4112231.00
+
+Note
+
+"
+
+Gjeld
+
+Gjeld som forfaller til betaling mer enn fem ar etter regnskapsarets slutt
+
+75499.00
+
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+
+Balansefert verdi av de pantsatte eiendeler
+
+Summen av garantiforpliktelser som ikke er regnskapsfert
+
+Garantiforpliktelser som er sikret ved pant
+
+Mer om gjeld
+
+Gjeld til eier Tom-Even Mortensen er - kr. 75 499,-
+
+Arsregnskap for
+COMMERCOR CONSULT AS
+919200057
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+COMMERCOR CONSULT AS
+919 200 057
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad 137 568 139 287
+Sum driftskostnader 137 568 139 287
+Driftsresultat -137 568 -139 287
+Finansinntekter
+Annen renteinntekt 10 17 568
+Annen finansinntekt 8) 7 641
+Sum finansinntekter 10 25 209
+Finanskostnader
+Annen rentekostnad 0 7 168
+Sum finanskostnader 0 7168
+Netto finans 10 18 041
+Arsresultat -137 558 -121 246
+Overfaringer
+Annen egenkapital -137 558 -121 246
+Sum overferinger -137 558 -121 246
+
+COMMERCOR CONSULT AS
+919 200 057
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Fordringer
+Kortsiktige kKonsernfordringer 4 3 996 197 4112 231
+Andre kortsiktige fordringer 1 408 2 034
+Sum fordringer 3 997 605 4114 265
+Bankinnskudd, kontanter og lignende
+Bankinnskudd 60 616 68 031
+Sum bankinnskudd, kontanter og lignende 60 616 68 031
+Sum omlgpsmidler 4 058 221 4 182 296
+SUM EIENDELER 4058 221 4 182 296
+
+COMMERCOR CONSULT AS
+919 200 057
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5,6 30 000 30 000
+Overkurs 6 3 430 3 430
+Sum innskutt egenkapital 33 430 33 430
+Opptjent egenkapital
+Annen egenkapital 6 3 907 628 4 045 186
+Sum opptjent egenkapital 3 907 628 4 045 186
+Sum egenkapital 3 941 058 4 078 616
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 40 906 28 181
+Annen kortsiktig gjeld 7 16 257 75 499
+Sum kortsiktig gjeld 117 163 103 680
+Sum gjeld 117 163 103 680
+SUM EGENKAPITAL OG GJELD 4058 221 4182 296
+OSLO, 06.05.2026
+Tom-Even Mortensen
+styrets leder / daglig leder
+
+COMMERCOR CONSULT AS
+
+919 200 057
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapet er et aksjeselskap med vedtektsfestet formal a tilby bedriftsradgivning og konsulentbistand, samt
+investeringer i selskaper.
+
+Selskapet driver sin virksomhet fra Oslo kommune.
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet til varekretsigpet er klassifisert som oml@psmidler. Fordringer klassifiseres som
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld
+som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+COMMERCOR CONSULT AS
+919 200 057
+Note 1 - Antall arsverk
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+Note 2 - Spesifisering av skatt
+Skattepliktig inntekt 2025 2024
+Resultat for skatt -137 558 -121 246
+Permanente forskjeller 0 -1 358
+Skattepliktig inntekt -137 558 -122 604
+Note 3 - Midlertidige forskjeller - utsatt skatt/skattefordel
+Midlertidige forskjeller Knyttet til: 01.01.2025 31.12.2025 Endring
+Fremfgrbart underskudd -122 604 -260 162 137 558
+Netto forskjeller -122 604 -260 162 137 558
+Skattereduserende forskjeller som ikke kan utlignes 122 604 260 162 -137 558
+Sum midlertidige forskjeller som inngar i grunnlag for 0 0 0
+utsatt skatt/skattefordel
+Utsatt skatt 31.12.2025 basert pa 22 % 0 0 0
+Note 4 - Konsern, tilknyttet selskap m.v.
+Fordringer
+2025 2024
+Samlet belgp som gjelder foretak i samme konsern 0 4112 231
+
+COMMERCOR CONSULT AS
+919 200 057
+Note 5 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordinzere 300 100 30 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+COMMERCOR AS 300 100,00 Ordineere
+Note 6 - Egenkapital
+Opptjent
+oo CAKjekapital —COverkurs _egenkapital Su
+Egenkapital 31.12.2024 30 000 3 430 4 045 186 4078 616
+Arsresultat 0 0 -137 558 -137 558
+Egenkapital 31.12.2025 30 000 3 430 3 907 628 3 941 058
+Note 7 - Gjeld og garantiforpliktelser
+Belop
+Del av gjelden som forfaller til betaling mer enn fem ar etter regnskapsarets slutt 75 499
+Gjeld som er sikret ved pant eller lignende sikkerhet i eiendeler 0
+Balansefert verdi av pantsatte eiendeler 0
+Summen av garantiforpliktelser som ikke er regnskapsfert 0
+Mer om gjeld
+Gjeld til eier Tom-Even Mortensen er - kr. 75 499,-
+
+Arsregnskap for 2025
+Commercor Consult
+
+Org.nr. 919 200 057
+Innhold :
+Resultatregnskap :
+Balanse
+>
+Noter :
+
+Utarbeidet av:
+STATEMENT
+
+COMMERCOR CONSULT AS
+
+919 200 057
+
+Resultatregnskap
+
+Note 2025 2024
+
+Driftskostnader
+
+Annen driftskostnad 137 568 139 287
+
+Sum driftskostnader 137 568 139 287
+
+Driftsresultat -137 568 -139 287
+
+Finansinntekter
+
+Annen renteinntekt 10 17 568
+
+Annen finansinntekt 0 7 641
+
+Sum finansinntekter 10 25 209
+
+Finanskostnader
+
+Annen rentekostnad 0 7 168
+
+Sum finanskostnader 0 7168
+
+Netto finans 10 18 041
+wy
+
+Arsresultat ~-137 558 -121 246 5
+S
+
+Overforinger =
+
+Annen egenkapital -137 558 -121 246 uy
+
+Sum overferinger -137 558 -121 246 Gg
+S
+8
+&
+S
+oO
+K
+Q
+O
+=
+£
+a
+s
+S
+&
+=
+8
+9
+Q

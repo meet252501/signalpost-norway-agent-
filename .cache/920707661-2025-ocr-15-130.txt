@@ -1,0 +1,423 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 578524
+Virksomheten
+Organisasjonsnummer : 920 707 661
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: FLEXI CAPITAL AS
+Forretningsadresse: E4
+Martin Linges vei 25
+1364 FORNEBU
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: BAUTA REGNSKAP AS
+Dato for fastsettelse av Aarsregnskapet: 18.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 24.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 920 707 661
+
+FLEXI CAPITAL AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 33 750
+
+Sum inntekter 33 750
+
+Kostnader
+
+Varekostnad 5 499 999
+
+Lennskostnad 3 82 099
+
+Annen driftskostnad 10 084 2 435 772
+
+Sum kostnader 5 592 182 2 435 772
+
+Driftsresultat -5 592 182 -2 402 022
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 2 869 355 8 669 826
+
+Sum finansinntekter 2 869 355 8 669 826
+
+Annen finanskostnad 53 096 21 107
+
+Sum finanskostnader 53 096 21 107
+
+Netto finans 2 816 259 8 648 718
+
+Resultat fer skattekostnad -2 775 923 6 246 696
+
+Arsresultat 4 -2 775 923 6 246 696
+
+Arsresultat etter
+
+minoritetsinteresser -2 775 923 6 246 696
+
+Totalresultat -2 775 923 6 246 696
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital -2 775 923 6 246 696
+
+Sum overferinger og
+
+disponeringer -2 775 923 6 246 696
+Utskriftsdato 24.06.2026 Organisasjonsnr 920 707 661 Side 1 av 3
+
+Organisasjonsnr: 920 707 661
+
+FLEXI CAPITAL AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investering i annet
+
+foretak i samme konsern 2
+
+Investeringer i aksjer og
+
+andeler 5 934 802 6 285 448
+
+Andre langsiktige
+
+fordringer 5 950 000 1 000 000
+
+Sum finansielle
+
+anleggsmidler 6 884 804 7 285 448
+
+Sum anleggsmidler 6 884 804 7 285 448
+
+Omlepsmidler
+
+Varer
+
+Sum varer 1
+
+Fordringer
+
+Kundefordringer 16 250
+
+Andre kortsiktige
+
+fordringer 1 450 525 471
+
+Sum fordringer 1 450 541 721
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 1 196 98 148
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 196 98 148
+
+Sum omlepsmidler 2 647 639 869
+
+SUM ELENDELER 6 887 451 7 925 317
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4, 6 30 000 30 000
+
+Annen innskutt egenkapital 4 -15 000 -15 000
+
+Sum innskutt egenkapital 15 000 15 000
+
+Opptijent egenkapital
+
+Annen egenkapital 7 -1 227 955 4 547 968
+Utskriftsdato 24.06.2026 Organisasjonsnr 920 707 661 Side 2 av 3
+
+Sum opptjent egenkapital 4 -1 227 955 4 547 968
+
+Sum egenkapital 4 -1 212 955 4 562 968
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 5 500 000
+
+Sum annen langsiktig gjeld 5 500 000
+
+Sum langsiktig gjeld 5 500 000
+
+Kortsiktig gjeld
+
+Leverandergjeld 17 127 67 400
+
+Annen kortsiktig gjeld 5 2 583 279 3 294 949
+
+Sum kortsiktig gjeld 2 600 406 3 362 349
+
+Sum gjeld 8 100 406 3 362 349
+
+SUM EGENKAPITAL OG GJELD 6 887 451 7 925 317
+Utskriftsdato 24.06.2026 Organisasjonsnr 920 707 661 Side 3 av 3
+
+Organisasjonsnr: 920 707 661
+
+FLEXI CAPITAL AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Flexi Capital AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 920 707 661
+
+Resultatregnskap
+Flexi Capital AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Salgsinntekt 0 33 750
+Sum driftsinntekter 0 33 750
+Varekostnad 5 499 999 0
+Lgnnskostnad 3 82 099 0
+Annen driftskostnad 10 084 2 435 772
+Sum driftskostnader 5 592 182 2 435 772
+Driftsresultat -5 592 182 -2 402 022
+Finansinntekter og finanskostnader
+
+Annen finansinntekt 2 869 355 8 669 826
+Annen finanskostnad 53 096 21 107
+Resultat av finansposter 2 816 259 8 648 718
+Resultat for skattekostnad -2 775 923 6 246 696
+Resultat -2. 775 923 6 246 696
+Arsresultat 4 -2 775 923 6 246 696
+Overforinger
+
+Avsatt til annen egenkapital -2 775 923 6 246 696
+Sum overferinger -2 775 923 6 246 696
+
+Balanse
+
+Flexi Capital AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer 1 annet foretak 1 samme konsern 2 0
+Investeringer 1 aksjer og andeler 5 934 802 6 285 448
+Andre langsiktige fordringer 5 950 000 1 000 000
+Sum finansielle anleggsmidler 6 884 804 7 285 448
+Sum anleggsmidler 6 884 804 7 285 448
+Omlepsmidler
+Lager av varer og annen beholdning 1 0
+Fordringer
+Kundefordringer 0 16 250
+Andre kortsiktige fordringer 1 450 525 471
+Sum fordringer 1 450 541 721
+Bankinnskudd, kontanter o.1. 1 196 98 148
+Sum omlgpsmidler 2 647 639 869
+Sum eiendeler 6 887 451 7 925 317
+
+Balanse
+Flexi Capital AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4,6 30 000 30 000
+Annen innskutt egenkapital 4 -15 000 -15 000
+Sum innskutt egenkapital 15 000 15 000
+Opptjent egenkapital
+Annen egenkapital 7 -1 227 955 4 547 968
+Sum opptjent egenkapital 4 -1 227 955 4 347 968
+Sum egenkapital 4 -1 212 955 4 362 968
+Gjeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 5 500 000 0
+Sum annen langsiktig gjeld 5 500 000 0
+Kortsiktig gjeld
+Leverandergjeld 17 127 67 400
+Annen kortsiktig gjeld 5 2 583 279 3 294 949
+Sum kortsiktig gjeld 2 600 406 3 362 349
+Sum gjeld 8 100 406 3 362 349
+Sum egenkapital og gjeld 6 887 451 7 925 317
+Oslo, 18.05.2026
+Styret 1 Flexi Capital AS
+Rune Nilsson
+styreleder
+
+Flexi Capital AS 920 707 661
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring 1 utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremforing
+ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres 1 samme periode er utlignet og nettofgrt.
+Klassifisering og vurdering av finansielle anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost.
+Klassifisering og vurdering av omlepsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslopet. Omlepsmidler vurderes til laveste
+verdi av anskaffelseskost og virkelig verdi.
+Aksjer i datterselskap
+Datterselskap vurderes etter kostmetoden 1 selskapsregnskapet. Investeringen er vurdert til
+anskaffelseskost for aksjene med mindre nedskrivning har vert nedvendig. Det er foretatt
+nedskrivning til virkelig verdi nar verdifall skyldes arsaker som ikke kan forventes a vere
+forbigaende og det ma anses nedvendig etter god regnskapsskikk. Nedskrivninger er reversert nar
+grunnlaget for nedskrivning ikke lenger er til stede.
+Utbytte, konsernbidrag og andre utdelinger fra datterselskap er inntektsfort samme ar som det er
+avsatt 1 givers regnskap. Overstiger utbytte / konsernbidraget andelen av opptjent resultat etter
+anskaffelsestidspunktet, representerer den overskytende del tilbakebetaling av investert kapital, og
+utdelingene er fratrukket investeringens verdi i balansen til morselskapet.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+Fordringer
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Side 5
+
+Flexi Capital AS 920 707 661
+Note 1 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzrt resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -2 775 923 6 246 696
+Permanente forskjeller -2 617 581 -8 669 826
+Endring 1 midlertidige forskjeller 5 148 384 2 081 064
+Skattepliktig inntekt -245 120 -342 065
+Betalbar skatt 1 balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfering som har gitt opphav til utsatt
+skatt og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Varebeholdning -5 499 999 0 5 499 999
+Fordringer -1 729 449 -2 081 064 -351 615
+Sum -7 229 448 -2 081 064 5 148 384
+Akkumulert fremforbart underskudd -2 300 914 -2 055 793 245 120
+Inngar ikke 1 beregningen av utsatt skatt 9 530 362 4 136 858 -5 393 504
+Utsatt skattefordel (22 %) 0 0 0
+I henhold til God regnskapsskikk for sma foretak balansefores ikke utsatt skattefordel.
+Note 2 Virksomhetens art og lokalisering
+Flexi Capital AS er et selskap der virksomheten omfatter investeringer i eiendom og selskaper.
+Selskapet er lokalisert 1 Berum kommune.
+
+Side 6
+
+Flexi Capital AS 920 707 661
+Note 3 Lennskostnader og antall arsverk
+Lennskostnader
+2025 2024
+Lenninger 72 274 0
+Arbeidsgiveraveift 10 191 0
+Andre ytelser -366 0
+Sum 82 099 0
+Selskapet har 1 2025 sysselsatt 0 arsverk.
+Note 4 Egenkapital
+Aksjekapital Annen Annen Sum
+Innskutt egenkapital egenkapital
+egenkapital
+Pr. 31.12.2024 30 000 -15 000 4 547 968 4 562 968
+Pr 01.01.2025 30 000 -15 000 4 547 968 4 562 968
+Arets resultat -2 775 923 -2 775 923
+Utbytte 0 -3 000 000 -3 000 000
+Pr 31.12.2025 30 000 -15 000 -1 227 955 -1 212 955
+Note 3 - Fordring Aksjonzer
+Aksjoneer har et lan pa kr. 950 000. Lanet er ulovlig og er rapportert som utbytte 12025.
+Note 6 Aksjonzrer
+Aksjekapitalen i Flexi Capital AS pr. 31.12 bestar av:
+Antall Palydende Bokfert
+Ordinere aksjer 30 000 1,0 30 000
+Sum 30 000 30 000
+Eierstruktur
+Aksjonerer 1 % pr. 31.12:
+Ordinzre Eierandel Stemmeandel
+Rune Wahl Nilsson 30 000 100,0 100,0
+Side 7
+
+Flexi Capital AS 920 707 661
+Note 7 Fortsatt drift
+Resultatet for 2025 viser et resultat pa kr. -2 775 923, mot kr. 6 246 696 1 2024.
+Selskapets styret bekrefter at fortsatt drift er tilstede.
+Selskapets egenkapital er tapt. Det er merverdier 1 investeringer 1 aksjer slik at styret mener at reell
+egenkapital er positiv.
+
+Side 8

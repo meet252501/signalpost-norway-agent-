@@ -1,0 +1,225 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 474736
+Virksomheten
+Organisasjonsnummer : 988 879 428
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: VASSNES KAI OG ANLEGG AS
+5394 KOLBEINSVIK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Paul Vassnes
+Dato for fastsettelse av Aarsregnskapet: 25.05.2026
+Revisjon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 988 879 428
+
+VASSNES KAI OG ANLEGG AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 1 0 535
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 1 0
+
+Annen driftskostnad 6 237 27 062
+
+Sum kostnader 6 238 27 597
+
+Driftsresultat -6 238 -27 597
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 0 20
+
+Sum finansinntekter 0 20
+
+Netto finans 0 20
+
+Resultat fer skattekostnad -6 238 -27 577
+
+Arsresultat -6 238 -27 577
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -6 238 -27 577
+
+Sum overferinger og
+
+disponeringer -6 238 -27 577
+Utskriftsdato 27.05.2026 Organisasjonsnr 988 879 428 Side 1 av 3
+
+Organisasjonsnr: 988 879 428
+VASSNES KAI OG ANLEGG AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 75 001 75 OO1
+Maskiner og anlegg 11 11
+Driftslesere, inventar,
+verktay, kontormaskiner
+og lignende 2 4
+Sum varige driftsmidler 75 014 75 016
+Sum anleggsmidler 75 014 75 016
+Omlepsmidler
+Varer
+Fordringer
+Andre fordringer 1 500 1 500
+Sum fordringer 1 500 1 500
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 11 206 13 553
+Sum bankinnskudd,
+kontanter og lignende 11 206 13 553
+Sum omlepsmidler 12 706 15 053
+SUM EIENDELER 87 720 90 069
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+Udekket tap 242 831 236 593
+Sum opptjent egenkapital -242 831 -236 593
+Sum egenkapital -142 831 -136 593
+Gjeld
+
+Utskriftsdato 27.05.2026 Organisasjonsnr 988 879 428 Side 2 av 3
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 227 571 222 291
+Sum annen langsiktig gjeld 227 571 222 291
+Sum langsiktig gjeld 227 571 222 291
+Kortsiktig gjeld
+
+Leveranderg)jeld 0 1 392
+Annen kortsiktig gjeld 2 980 2 980
+Sum kortsiktig gjeld 2 980 4 372
+Sum gjeld 230 551 226 663
+SUM EGENKAPITAL OG GJELD 87 720 90 069
+
+Utskriftsdato 27.05.2026 Organisasjonsnr 988 879 428 Side 3 av 3
+
+Organisasjonsnr: 988 879 428
+
+VASSNES KAI OG ANLEGG AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00

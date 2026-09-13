@@ -1,0 +1,387 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 376601
+Virksomheten
+Organisasjonsnummer : 930 016 322
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: JM-HOLDING AS
+Forretningsadresse: Ringvegen 101
+9018 TROMS@
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Je@rgen Merch
+Dato for fastsettelse av arsregnskapet: 13.04.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 14.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 016 322
+
+JM-HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 22 000 0
+
+Sum inntekter 22 000 0
+
+Kostnader
+
+Annen driftskostnad 27 525 20 817
+
+Sum kostnader 27 525 20 817
+
+Driftsresultat -5 525 -20 817
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 5 542 1 197
+
+Sum finansinntekter 5 542 1 197
+
+Annen rentekostnad 1 0
+
+Sum finanskostnader 1 fe)
+
+Netto finans 5 541 1 197
+
+Resultat fer skattekostnad 16 -19 620
+
+Arsresultat 16 -19 620
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 16 -19 620
+Utskriftsdato 14.04.2026 Organisasjonsnr 930 016 322 Side 1 av 3
+
+Organisasjonsnr: 930 016 322
+
+JM-HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 50 000 0
+
+Sum finansielle
+
+anleggsmidler 50 000 0
+
+Sum anleggsmidler 50 000 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Konsernfordringer 22 000 0
+
+Sum fordringer 22 000 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 170 739 140 636
+
+Sum bankinnskudd,
+
+kontanter og lignende 170 739 140 636
+
+Sum omlepsmidler 192 739 140 636
+
+SUM ELENDELER 242 739 140 636
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Udekket tap 26 918 26 934
+
+Sum opptjent egenkapital -26 918 -26 934
+Utskriftsdato 14.04.2026 Organisasjonsnr 930 016 322 Side 2 av 3
+
+Sum egenkapital 3 082 3 066
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 87 0
+
+Kortsiktig konserngjeld 1 189 000 132 000
+
+Annen kortsiktig gjeld 50 570 5 570
+
+Sum kortsiktig gjeld 239 657 137 570
+
+Sum gjeld 239 657 137 570
+
+SUM EGENKAPITAL OG GJELD 242 739 140 636
+Utskriftsdato 14.04.2026 Organisasjonsnr 930 016 322 Side 3 av 3
+
+Organisasjonsnr: 930 016 322
+
+JM-HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Eiendeler som er knyttet til varekretslopet er klassifisert som
+omlepsmidler. Fordringer klassifiseres som omlg@psmidler hvis de forfaller
+til betaling innen ett Ar etter transaksjonsdagen.
+
+Omlepsmidler vurderes
+
+til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belgep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024
+
+til 2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+1
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregnskap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Nei
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+
+Arsregnskap for
+JM-HOLDING AS
+930016322
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+JM-HOLDING AS
+930 016 322
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Annen driftsinntekt 22 000 0
+Sum driftsinntekter 22 000 0
+Driftskostnader
+Annen driftskostnad -27 525 -20 817
+Sum driftskostnader -27 525 -20 817
+Driftsresultat -5 525 -20 817
+Finansinntekter
+Annen renteinntekt 5 542 1197
+Sum finansinntekter 5 542 1197
+Finanskostnader
+Annen rentekostnad -1 0
+Sum finanskostnader -1 0
+Netto finans 5 541 1197
+Arsresultat 16 -19 620
+Overforinger
+Udekket tap 16 -19 620
+Sum overferinger 16 -19 620
+
+JM-HOLDING AS
+930 016 322
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer i tilknyttet selskap 50 000 0
+Sum finansielle anleggsmidler 50 000 0
+Sum anleggsmidler 50 000 0
+Omlgpsmidler
+Fordringer
+Kortsiktige kKonsernfordringer 22 000 0
+Sum fordringer 22 000 0
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 170 739 140 636
+Sum bankinnskudd, kontanter og lignende 170 739 140 636
+Sum omlgpsmidler 192 739 140 636
+SUM EIENDELER 242 739 140 636
+
+JM-HOLDING AS
+930 016 322
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Udekket tap -26 918 -26 934
+Sum opptjent egenkapital -26 918 -26 934
+Sum egenkapital 3 082 3 066
+Gjeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner 87 0
+Kortsiktig konserngjeld 1 189 000 132 000
+Annen kortsiktig gjeld 50 570 5 570
+Sum kortsiktig gjeld 239 657 137 570
+Sum gjeld 239 657 137 570
+SUM EGENKAPITAL OG GJELD 242 739 140 636
+TROMS@, 13.04.2026
+J@rgen Merch
+styrets leder
+
+JM-HOLDING AS
+
+930 016 322
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Konsern, tilknyttet selskap m.v.
+
+Antall arsverk
+
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.

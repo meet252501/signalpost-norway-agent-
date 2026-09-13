@@ -1,0 +1,561 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 333682
+Enheten
+Organisasjonsnummer : 912 174 050
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: JH MONTASJE & SERVICE AS
+Forretningsadresse: Gamleveien 246
+1474 L@ORENSKOG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Jonny Hansen
+Dato for fastsettelse av arsregnskapet: 10.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 11.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 912 174 050
+
+JH MONTASJE & SERVICE AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 124 415 1 327 694
+
+Annen driftsinntekt -35 35
+
+Sum inntekter 1 124 380 1 327 729
+
+Kostnader
+
+Varekostnad 56 979 86 048
+
+Lennskostnad 1, 2 812 366 496 929
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 36 273 53 534
+
+Nedskrivning av varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 0 0
+
+Annen driftskostnad 193 808 444 884
+
+Sum kostnader 1 099 426 1 081 395
+
+Driftsresultat 24 954 246 334
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt -9 344 11 165
+
+Annen finansinntekt 0 7
+
+Sum finansinntekter -9 344 11 172
+
+Annen rentekostnad 3 457 8 252
+
+Sum finanskostnader 3 457 8 252
+
+Netto finans -12 801 2 921
+
+Resultat fer skattekostnad 12 153 249 254
+
+Skattekostnad 0 60 514
+
+Arsresultat 12 153 188 740
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 100 000 150 000
+
+Annen egenkapital -87 847 38 740
+Utskriftsdato 11.03.2026 Organisasjonsnr 912 174 050 Side 1 av 3
+
+Organisasjonsnr: 912 174 050
+
+JH MONTASJE & SERVICE AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utvikling 3 0 0
+
+Konsesjoner, patenter,
+
+lisenser, varemerker ol. 3 0 0
+
+Goodwill 3 0 0
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 3 0 0
+
+Maskiner og anlegg 3 0 0
+
+Skip, rigger, fly og
+
+lignende 3 0 0
+
+Driftslesere, inventar,
+
+verktey, kontormaskiner,
+
+ol. 3, 4 15 113 51 386
+
+Sum varige driftsmidler 15 113 51 386
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 15 113 51 386
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 166 873 56 868
+
+Andre kortsiktige
+
+fordringer 5 26 679 42 825
+
+Sum fordringer 193 552 99 693
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 551 685 741 923
+
+Sum bankinnskudd,
+
+kontanter og lignende 551 685 741 923
+
+Sum omlepsmidler 745 236 841 616
+
+SUM ELENDELER 760 349 893 002
+Utskriftsdato 11.03.2026 Organisasjonsnr 912 174 050 Side 2 av 3
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 382 843 470 691
+
+Sum opptjent egenkapital 382 843 470 691
+
+Sum egenkapital 412 843 500 691
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 4 14 059 40 502
+
+Sum annen langsiktig gjeld 14 059 40 502
+
+Kortsiktig gjeld
+
+Leverandergjeld 20 315 21 338
+
+Betalbar skatt 0) 60 514
+
+Skyldige offentlige
+
+avgifter 115 915 61 325
+
+Utbytte 100 000 150 000
+
+Annen kortsiktig gjeld 97 217 58 633
+
+Sum kortsiktig gjeld 333 447 351 809
+
+Sum gjeld 347 506 392 311
+
+SUM EGENKAPITAL OG GJELD 760 349 893 002
+Utskriftsdato 11.03.2026 Organisasjonsnr 912 174 050 Side 3 av 3
+
+Organisasjonsnr: 912 174 050
+
+JH MONTASJE & SERVICE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+er eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett ar. Langsiktig gjeld er gjeld som
+forfaller senere enn ett ar etter transaksjonsdagen. Forste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som
+omlepsmiddel og kortsiktig gjeld.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belep pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes a vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+Leieavtaler er ikke balansefort.
+
+Selskapet har ikke endret
+
+regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+1
+
+Antall Arsverk i regnskapsaret
+
+1.00
+
+Note
+
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+681038.00 408629.00
+Folketryqdavgift Arets Fjorarets
+99149.00 60736.00
+Pensjonskostnader Arets Fjorarets
+17758.00 17730.00
+Andre ytelser Arets Fjorarets
+14421.00 9834.00
+Sum loennskostnader Arets Fjorarets
+812366.00 496929.00
+Note
+3
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+357960.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+357960.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+342847.00 0.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+15113 .00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+36273 .00 0.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Note
+4
+Gjeld
+Gjeld som forfaller til betaling mer enn fem ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+
+14059.00
+Balansefert verdi av de pantsatte eiendeler
+15113.00
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+Mer om gjeld
+Note
+5
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+Samlet lan Styret Andre organ
+9378.00 0.00
+Mer om lan og sikkerhetsstillelse
+
+Arsregnskap for
+JH MONTASJE & SERVICE AS
+912174050
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+JH MONTASJE & SERVICE AS
+912 174 050
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1 124 415 1 327 694
+Annen driftsinntekt -35 35
+Sum driftsinntekter 1 124 380 1327 729
+Driftskostnader
+Varekostnad -56 979 -86 048
+Lg@nnskostnad 1,2 -812 366 -496 929
+Avskrivning pa varige driftsmidler og immaterielle 3 -36 273 -53 534
+eiendeler
+Annen driftskostnad -193 808 -444 884
+Sum driftskostnader -1 099 426 -1 081 395
+Driftsresultat 24 954 246 334
+Finansinntekter
+Annen renteinntekt -9 344 11165
+Annen finansinntekt 0 7
+Sum finansinntekter -9 344 11172
+Finanskostnader
+Annen rentekostnad -3 457 -8 252
+Sum finanskostnader -3 457 -8 252
+Netto finans -12 801 2 921
+Resultat for skattekostnad 12 153 249 254
+Skattekostnad 0 -60 514
+Arsresultat 12 153 188 740
+Overforinger
+Ordinzert utbytte 100 000 150 000
+Annen egenkapital -87 847 38 740
+Sum overferinger 12 153 188 740
+
+JH MONTASJE & SERVICE AS
+912 174 050
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Driftslgs@re, inventar, verktoy, kontormaskiner, ol. 3,4 15113 51 386
+Sum varige driftsmidler 15113 51 386
+Sum anleggsmidler 15113 51 386
+Omlgpsmidler
+Fordringer
+Kundefordringer 166 873 56 868
+Andre kortsiktige fordringer 5 26 679 42 825
+Sum fordringer 193 552 99 693
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 551 685 741 923
+Sum bankinnskudd, kontanter og lignende 551 685 741 923
+Sum omlgpsmidler 745 236 841 616
+SUM EIENDELER 760 349 893 002
+
+JH MONTASJE & SERVICE AS
+912 174 050
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 382 843 470 691
+Sum opptjent egenkapital 382 843 470 691
+Sum egenkapital 412 843 500 691
+Gjeld
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 4 14 059 40 502
+Sum annen langsiktig gjeld 14059 40 502
+Kortsiktig gjeld
+Leverandgrgjeld 20 315 21 338
+Betalbar skatt 0 60 514
+Skyldige offentlige avgifter 115 915 61 325
+Utbytte 100 000 150 000
+Annen kortsiktig gjeld 97 217 58 633
+Sum kortsiktig gjeld 333 447 351 809
+Sum gjeld 347 506 392 311
+SUM EGENKAPITAL OG GJELD 760 349 893 002
+LORENSKOG, 10.03.2026
+Jonny Hansen
+styrets leder / daglig leder
+
+JH MONTASJE & SERVICE AS
+
+912 174 050
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets! @pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlg@psmiddel og kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefert.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+JH MONTASJE & SERVICE AS
+912 174 050
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 1
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 681 038 408 629
+Arbeidsgiveravgift 99 149 60 736
+Pensjonskostnader 17 758 17 730
+Andre relaterte ytelser 14 421 9 834
+Sum 812 366 496 929
+Note 3 - Varige driftsmidler og immaterielle eiendeler
+Varige
+driftsmidler
+Anskaffelseskost 01.01. 357 960
+Tilgang i aret 0
+Avgang i aret 0
+Anskaffelseskost 31.12. 357 960
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -342 847
+Balansefort verdi per 31.12. 15113
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 36 273
+Note 4 - Gjeld og garantiforpliktelser
+Belop
+Del av gjelden som forfaller til betaling mer enn fem ar etter regnskapsarets slutt 0
+Gjeld som er sikret ved pant eller lignende sikkerhet i eiendeler 14 059
+Balansefort verdi av pantsatte eiendeler 15 113
+Summen av garantiforpliktelser som ikke er regnskapsfert 0
+Note 5 - Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Styremedilemmer
+Samlet lan 9 378

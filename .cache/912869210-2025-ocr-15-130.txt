@@ -1,0 +1,445 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 592408
+Virksomheten
+Organisasjonsnummer : 912 869 210
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SHABRA AS
+Forretningsadresse: c/o Kay Arne Svendsen
+Lyngasvegen 12
+5545 VORMEDAL
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kay Arne Svendsen
+Dato for fastsettelse av arsregnskapet: 05.06.2026
+Revisjon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsforer har i
+lg@pet av regnskapsaret bistatt ved den
+lg@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 912 869 210
+
+SHABRA AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 1 0 5 075
+
+Annen driftskostnad 8 251 12 662
+
+Sum kostnader 8 251 17 737
+
+Driftsresultat -8 251 -17 737
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 0 800 000
+
+Sum finansinntekter 0 800 000
+
+Annen rentekostnad 10 40
+
+Sum finanskostnader 10 40
+
+Netto finans -10 799 960
+
+Resultat fer skattekostnad -8 261 782 223
+
+Skattekostnad 2 0 0
+
+Arsresultat -8 261 782 223
+
+Annen egenkapital -8 261 782 223
+Utskriftsdato 27.06.2026 Organisasjonsnr 912 869 210 Side 1 av 3
+
+Organisasjonsnr: 912 869 210
+
+SHABRA AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 3 4 231 239 4 231 239
+
+Investeringer 1
+
+tilknyttet selskap 3 525 600 525 600
+
+Sum finansielle
+
+anleggsmidler 4 756 839 4 756 839
+
+Sum anleggsmidler 4 756 839 4 756 839
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 4 1 400 000 1 400 000
+
+Konsernfordringer 3 0 0
+
+Sum fordringer 1 400 000 1 400 000
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 127 060 186 095
+
+Sum bankinnskudd,
+
+kontanter og lignende 127 060 186 095
+
+Sum omlepsmidler 1 527 060 1 586 095
+
+SUM ELENDELER 6 283 899 6 342 934
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5 75 600 75 600
+
+Sum innskutt egenkapital 75 600 75 600
+Utskriftsdato 27.06.2026 Organisasjonsnr 912 869 210 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 5 2 864 601 2 872 861
+
+Sum opptjent egenkapital 2 864 601 2 872 861
+
+Sum egenkapital 2 940 201 2 948 461
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 6 0) 0)
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 3 3 343 699 3 393 699
+
+Sum annen langsiktig gjeld 3 343 699 3 393 699
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 0 774
+
+Betalbar skatt 2 0) 0)
+
+Sum kortsiktig gjeld 0 774
+
+Sum gjeld 3 343 699 3 394 473
+
+SUM EGENKAPITAL OG GJELD 6 283 899 6 342 934
+Utskriftsdato 27.06.2026 Organisasjonsnr 912 869 210 Side 3 av 3
+
+Organisasjonsnr: 912 869 210
+
+SHABRA AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp og utarbeidet i samsvar med regnskapsloven og god
+
+regnskapsskikk forsma foretak.
+
+Eiendeler som ikke er bestemt til varig bruk
+
+er klassifisert som oml@psmidler. Andre eiendeler erklassifisert som
+
+anleggsmidler.
+
+Gjeld er klassifisert som kortsiktig dersom den forfaller
+
+innen ett ar etter regnskapsarets utgang.For @vrig vises det til
+
+spesifiserte noteopplysninger nedenfor.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+1
+
+Spesifisering av resultatregnskapet
+
+Lennkostnader
+
+Andre ytelser Arets Fjorarets
+0.00 5075.00
+
+Sum lennskostnader Arets Fljorarets
+0.00 5075.00
+
+Arsregnskap for
+SHABRA AS
+912869210
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+SHABRA AS
+912 869 210
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+L@nnskostnad 1 0 -5 075
+Annen driftskostnad -8 251 -12 662
+Sum driftskostnader -8 251 -17 737
+Driftsresultat -8 251 -17 737
+Finansinntekter
+Inntekt pa investering i datterselskap og tilknyttet 0 800 000
+selskap
+Sum finansinntekter 0 800 000
+Finanskostnader
+Annen rentekostnad -10 -40
+Sum finanskostnader -10 -40
+Netto finans -10 799 960
+Arsresultat -8 261 782 223
+Overforinger
+Annen egenkapital -8 261 182 223
+Sum overferinger -8 261 782 223
+
+SHABRA AS
+912 869 210
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investering i datterselskap 3 4 231 239 4 231 239
+Investeringer i tilknyttet selskap 3 525 600 525 600
+Sum finansielle anleggsmidler 4756 839 4756 839
+Sum anleggsmidler 4756 839 4756 839
+Omlgpsmidler
+Fordringer
+Andre kortsiktige fordringer 4 1 400 000 1 400 000
+Sum fordringer 1 400 000 1 400 000
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 127 060 186 095
+Sum bankinnskudd, kontanter og lignende 127 060 186 095
+Sum omlgpsmidler 1 527 060 1 586 095
+SUM EIENDELER 6 283 899 6 342 934
+
+SHABRA AS
+912 869 210
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5 75 600 75 600
+Sum innskutt egenkapital 75 600 75 600
+Opptjent egenkapital
+Annen egenkapital 5 2 864 601 2 872 861
+Sum opptjent egenkapital 2 864 601 2 872 861
+Sum egenkapital 2 940 201 2 948 461
+Gjeld
+Annen langsiktig gjeld
+Langsiktig konserngjeld 3 3 343 699 3 393 699
+Sum annen langsiktig gjeld 3 343 699 3 393 699
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner 0 774
+Sum kortsiktig gjeld 0 774
+Sum gjeld 3 343 699 3 394 473
+SUM EGENKAPITAL OG GJELD 6 283 899 6 342 934
+VORMEDAL, 05.06.2026
+
+ay Svendsen
+
+Stypets leder
+
+SHABRA AS
+
+912 869 210
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapet er investeringsselskap lokalisert i Karm@y kommune.
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp og utarbeidet i samsvar med regnskapsloven og god regnskapsskikk for
+
+sma foretak.
+
+Eiendeler som ikke er bestemt til varig bruk er klassifisert som oml@psmidler. Andre eiendeler er
+
+klassifisert som anleggsmidler.
+
+Gjeld er klassifisert som kortsiktig dersom den forfaller innen ett ar etter regnskapsarets utgang.
+
+For @vrig vises det til spesifiserte noteopplysninger nedenfor.
+
+Note 1 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 0 0
+Arbeidsgiveravgift 0 0
+Pensjonskostnader 0 0
+Andre relaterte ytelser 0 5075
+Sum 0 5075
+Note 2 - Spesifisering av skatt
+Skattepliktig inntekt 2025 2024
+Resultat fer skatt -8 261 182 223
+Permanente forskjeller 0 -776 000
+- Anvendelse av fremferbart underskudd 0 -6 223
+Skattepliktig inntekt -8 261 0
+Note 3 - Investering i aksjer
+
+Selskapet eier aksjer | datterselskap og tilknyttet selskap.
+
+Anskaffelse- Forretnings- Ejierandel/ Kostpris Selskapets Selskapets
+
+Selskapets navn: tidspunkt: kontor stemmerett aksjer EK resultat
+FraCom Eiendom AS 10.03.2005 Karmey 100 % 4 231 239 367 730 218 701
+
+Vhg Innredninger AS 30.04.2009 Karmey 50 % 525600 1 424 384 -354 320
+
+4 756 839
+
+Aksjene er fart opp til kostpris.
+
+Selskapet har langsiktig gjeld til datterselskap kr 3.443.698,57. Lanet er ikke renteberegnet.
+
+Note 4 - Fordringer
+
+Er vurdert til palydende og bestar i likviditetslan ytet til tilknyttet selskap.
+
+SHABRA AS
+
+912 869 210
+
+Note 5 - Egenkapital
+
+Opptjent
+Aksjekapital egenkapital sum
+
+Egenkapital 31.12.2024 75 600 2 872 861 2 948 461
+Arsresultat 0 -8 261 -8 261
+Egenkapital 31.12.2025 75 600 2 864 601 2 940 201
+
+Mer om egenkapital
+
+Selskapets aksjekapital er kr 75.600 (756 aksjer a kr 100).
+
+Selskapets stemmerettsregler falger de alminnelige bestemmelser i aksjeloven.
+
+Selskapet er eid av: Kay Arne Svendsen 100% Styrets leder / daglig leder
+
+Note 6 - Midlertidige forskjeller - utsatt skatt/skattefordel
+
+Utsatt skatt/utsatt skattefordel i balansen avsettes pa grunnlag av forskjeller mellom regnskapsmessige og
+
+skattemessige verdier i henhold til norsk regnskapsstandard for skatt.
+
+Midlertidige skatteskende og skattereduserende forskjeller som kan utlignes er nettofert.
+Midlertidige forskjeller knyttet til: 01.01.2025 31.12.2025 Endring
+Fremferbart underskudd -228 431 -236 692 8 261
+Netto forskjeller -228 431 -236 692 8 261
+Skattereduserende forskjeller som ikke kan utlignes 228 431 236 692 -8 261
+Sum midlertidige forskjeller som inngar i grunnlag for 0 0 0
+utsatt skatt/skattefordel
+Utsatt skatt 31.12.2025 basert pa 22 % 0 0 0
+
+Ut fra forsiktighetshensyn balanseferes ikke utsatt skattefordel.
+
+Antall arsverk
+
+Selskapet har ikke hatt ansatte i Igpet av regnskapsaret.

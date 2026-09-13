@@ -1,0 +1,515 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 681091
+Virksomheten
+Organisasjonsnummer : 980 440 451
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: FREEBIT HOLDING AS
+Forretningsadresse: Universitetsgata 2
+0164 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Asle K. Berger
+Dato for fastsettelse av Aarsregnskapet: 10.04.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 04.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 980 440 451
+
+FREEBIT HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 1 5 250
+
+Annen driftskostnad 80 546 222 622
+
+Sum kostnader 80 546 227 873
+
+Driftsresultat -80 546 -227 873
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 114 52 120
+
+Annen finansinntekt 1 633
+
+Sum finansinntekter 114 53 753
+
+Nedskrivning av
+
+finansielle eiendeler 1 280 937 14 371 983
+
+Annen finanskostnad 6 562
+
+Sum finanskostnader 1 280 937 14 378 545
+
+Netto finans -1 280 823 -14 324 792
+
+Resultat fer skattekostnad -1 361 370 -14 552 664
+
+Skattekostnad pa resultat 2
+
+Arsresultat 3 -1 361 370 -14 552 664
+
+Arsresultat etter
+
+minoritetsinteresser -1 361 370 -14 552 664
+
+Totalresultat -1 361 370 -14 552 664
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -1 361 370 -14 552 664
+
+Sum overferinger og
+
+disponeringer -1 361 370 -14 552 664
+Utskriftsdato 04.08.2026 Organisasjonsnr 980 440 451 Side 1 av 3
+
+Organisasjonsnr: 980 440 451
+
+FREEBIT HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 2
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 4 0 2
+
+Investering i annet
+
+foretak i samme konsern 4
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 5
+
+Sum finansielle
+
+anleggsmidler 2
+
+Sum anleggsmidler 2
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 6
+
+Andre kortsiktige
+
+fordringer 5 98 878 149 800
+
+Sum fordringer 98 878 149 800
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 4
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 7 75 083 150 997
+
+Sum bankinnskudd,
+
+kontanter og lignende 75 083 150 997
+
+Sum omlepsmidler 173 961 300 797
+
+SUM ELENDELER 173 961 300 799
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 8 250 041 12 502 033
+
+Overkurs 17 222 304 17 222 304
+Utskriftsdato 04.08.2026 Organisasjonsnr 980 440 451 Side 2 av 3
+
+Ikke registrert
+
+kapitalforhayelse 1 207 600
+
+Sum innskutt egenkapital 18 679 944 29 724 337
+
+Opptjent egenkapital
+
+Annen egenkapital 9
+
+Udekket tap 18 705 219 29 595 841
+
+Sum opptjent egenkapital -18 705 219 -29 595 841
+
+Sum egenkapital 3 -25 275 128 495
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 165 985 144 543
+
+Betalbar skatt 2
+
+Annen kortsiktig gjeld 10 33 251 27 761
+
+Sum kortsiktig gjeld 199 236 172 304
+
+Sum gjeld 199 236 172 304
+
+SUM EGENKAPITAL OG GJELD 173 961 300 799
+Utskriftsdato 04.08.2026 Organisasjonsnr 980 440 451 Side 3 av 3
+
+Organisasjonsnr: 980 440 451
+
+FREEBIT HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+3.00
+
+Arsregnskap 2025
+Freebit Holding AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 980 440 451
+
+Resultatregnskap
+Freebit Holding AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Lennskostnad 1 0 5 250
+Annen driftskostnad 80 546 222 622
+Sum driftskostnader 80 546 227 873
+Driftsresultat -80 546 -227 873
+Finansinntekter og finanskostnader
+Annen renteinntekt 114 52 120
+Annen finansinntekt 0 1 633
+Nedskrivning av finansielle eiendeler 1 280 937 14 371 983
+Annen finanskostnad 0 6 562
+Resultat av finansposter -1 280 823 -14 324 792
+Resultat for skattekostnad -1 361 370 -14 552 664
+Resultat -1 361 370 -14 552 664
+Ekstraordinere inntekter og kostnader
+Arsresultat 3 -1 361 370 -14 552 664
+Overforinger
+Overfert til udekket tap 1 361 370 14 552 664
+Sum overfoeringer -1 361 370 -14 552 664
+Freebit Holding AS Side 2
+
+Balanse
+
+Freebit Holding AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Immaterielle eiendeler
+Varige driftsmidler
+Finansielle driftsmidler
+Investeringer i datterselskap 4 0 2
+Sum finansielle anleggsmidler 0 2
+Sum anleggsmidler 0 2
+Omlgpsmidler
+Fordringer
+Andre kortsiktige fordringer 5 98 878 149 800
+Sum fordringer 98 878 149 800
+Investeringer
+Bankinnskudd, kontanter o.. rf 75 083 150 997
+Sum oml@psmidler 173 961 300 797
+Sum eiendeler 173 961 300 799
+Freebit Holding AS Side 3
+
+Balanse
+Freebit Holding AS
+Egenkapital og gjeld Note 2025 2024
+Innskutt egenkapital
+Aksjekapital 8 250 041 12 502 033
+Innbetalt, ikke registrert kapitalforngyelse 1 207 600 0
+Overkurs 17 222 304 17 222 304
+Sum innskutt egenkapital 18 679 944 29 724 337
+Opptjent egenkapital
+Udekket tap -18 705 219 -29 595 841
+Sum opptjent egenkapital -18 705 219 -29 595 841
+Sum egenkapital 3 -25 275 128 495
+Gjeld
+Avsetning for forpliktelser
+Annen langsiktig gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 165 985 144 543
+Annen kortsiktig gjeld 10 33 251 27 761
+Sum kortsiktig gjeld 199 236 172 304
+Sum gjeld 199 236 172 304
+Sum egenkapital og gjeld 173 961 300 799
+Oslo, 10.04.2026
+Styret i Freebit Holding AS
+Arve Johansen Espen Nordas Reestad
+styreleder styremediem
+Christian Thorsrud Vidar Bengt Sandanger
+styremediem daglig leder
+Freebit Holding AS Side 4
+
+Noter til regnskap 2025
+Freebit Holding AS
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skatteskende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofart.
+Klassifisering og vurdering av omlgpsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Omlgpsmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Fordringer
+Kundefordringer og andre fordringer oppfgres til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Lonnskostnader og ytelser, godtgjorelser til daglig leder, styret og revisor
+Lonnskostnader 2025 2024
+Andre ytelser 0 5 250
+Sum 0 5 250
+Selskapet har i 2025 sysselsatt 0 arsverk.
+Freebit Holding AS, org nr 980 440 451 Side 5
+
+Noter til regnskap 2025
+Freebit Holding AS
+Note 2 Skatt
+Arets skattekostnad 2025 2024
+Resultatfert skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzrt resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -1 361 370 -14 552 664
+Permanente forskjeller 1 280 938 14 371 983
+Endring i midlertidige forskjeller -391 761 -1 332 621
+Skattepliktig inntekt -472 193 -1 513 302
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt og
+utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Gevinst — og tapskonto -1 567 044 -1 958 805 -391 761
+Sum -1 567 044 -1 958 805 -391 761
+Akkumulert fremfgrbart underskudd -21 715 044 -21 242 851 472 193
+Inngar ikke i beregningen av utsatt skatt 23 282 088 23 201 656 -80 432
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 3 Egenkapital
+Aksjekapital Overkurs Annen innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 12 502 033 17 222 304 0 -29 595 841 128 495
+Pr 01.01.2025 12 502 033 17 222 304 0 -29 595 841 128 495
+Arets resultat -1 361 370 -1 361 370
+Kapital nedsettelse -12 251 992 12 251 992 0
+Innbetalt, ikke 1 207 600 0 1 207 600
+registrert
+kapitalforhgyelse
+Provd22o25 14S GAT 7222304 AOS AIS 27S
+Freebit Holding AS, org nr 980 440 451 Side 6
+
+Noter til regnskap 2025
+Freebit Holding AS
+Note 4 Datterselskap, TS og FKV
+Kontor- Eier- Egenkapital Resultat
+kommune  andel
+DS/FKV/TS
+Freebit AS Oslo 100,0% -8 229948 -9 585 264
+Sum -§ 229948 -9 585 264
+Sum verdipapirer -§ 229948 -9 585 264
+Note 5 Andre kortsiktige fordringer
+2025 2024
+Forskuddsbetalte kostnader 0 3727
+Til gode mva 98 878 146 073
+Sum andre fordringer 98 878 149 800
+Note 6 Kundefordringer
+2025 2024
+Balansefort verdi av kundefordringer 31.12 0 0
+Realiserte tap 0 49 065
+Sum resultatforte tap pa krav 0 49 065
+Note 7 Bankinnskudd
+Innestaende midler pa skattetrekkskonto (bundne midler) er pa kr. 260.
+Note 8 Aksjonzrer
+Aksjekapitalen i Freebit Holding AS pr. 31.12.2025 bestar av:
+Antall Palydende Bokfort
+Ordingere aksjer 25 004 065 0,01 250 041
+Sum 25 004 065 250 041
+Eierstruktur
+Freebit Holding AS, org nr 980 440 451 Side 7
+
+Noter til regnskap 2025
+Freebit Holding AS
+
+Name Ordinzre Eierandel Stemmeandel
+SMALLMEDIA AS *) 4 100 000 16,40 16,40
+RAESTADHORNET AS *) 2 833 718 11,33 11,33
+TICON AS 2 648 659 10,59 10,59
+ISA INVEST AS 1 554 422 6,22 6,22
+CAPTA INVEST AS 1 325 173 5,30 5,30
+SKATTEBOE AS *) 1 000 000 4,00 4,00
+SN@ AS 844 000 3,38 3,38
+VIA GLORIA AS *) 801 795 3,21 3,21
+FALCKENBORG AS 800 000 3,20 3,20
+WIGGEN CONSULT AS 450 895 1,80 1,80
+O@VRIGE AKSJONAERER 8 645 403 35 35
+SUM 25 004 065 100 100
+
+*) Aksjer eiet indirekte av styremediem eller daglig leder.
+
+Note 9 Fortsatt drift
+Selskapets egenkapital er marginalt negativ. Det foreligger imidlertid aksjonzerlan etter balansedagen pa kr
+200.000 som kan konverteres til egenkapital, og egenkapitalen anses derfor ikke som tapt.
+
+Det er knyttet usikkerhet til utviklingen i datterselskapet Freebit AS, herunder finansiering og videre drift.
+Styret vurderer likevel at det foreligger grunnlag for fortsatt drift i morselskapet, og arsregnskapet er avlagt
+under denne forutsetning.
+
+Note 10 Gjeld og pantsittelser
+2025 2024
+
+Palgpt revisjonshonorar -25 000 -25 000
+Annen kortsiktig gjeld, kreditnota -6 922 0
+Sum annen kortsiktig gjeld -31 922 -25 000
+Selskapets kundefordringer er stilt som sikkerhet for avtale om valutaterminhandel med Nordea Bank.
+
+Pr 31.12.2025 er ingen valutaterminhandler inngatt.
+Freebit Holding AS, org nr 980 440 451 Side 8
+
+Uavhengig revisors beretning
+Til generalforsamlingen i Freebit Holding AS.
+Konklusjon
+Vi har revidert arsregnskapet for Freebit Holding AS som viser et underskudd pd kr 1 361 370.
+Arsregnskapet bestdar av balanse per 31. desember 2025, resultatregnskap for
+regnskapsdret avsluttet per denne datoen og noter til Grsregnskapet, herunder et
+sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller drsregnskapets gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31.
+desember 2025 og av dets resultater for regnskapsdret avsluttet per denne datoen |
+samsvar med regnskapslovens regler og god regnskapsskikk i Norge.
+
+Grunniag for konklusjonen
+Vi har gjennomfert revisjonen i samsvar med den internasjonale revisjonsstandarden for
+revisjon av regnskap til mindre komplekse enheter (ISA for MKE). Vare oppgaver og plikter i
+henhold til ISA for MKE er beskrevet nedenfor under Revisors oppgaver og plikter ved
+revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional
+Accountanis {inkludert internasjonale vavhengighetsstandarder) utstect av International
+Ethics Standards Board for Accountants (IESBA-reglene}, og vi har overholdt vare avrige
+etiske forpliktelser i samsvar med disse kravene. innhentet revisjonsbevis er etter var
+vurdering tilstrekkelig og hensiktsmessig som grunniag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+
+Styret og daglig leder (ledelsen) er ansvarlig for Gd utarbeide drsregnskapet og for at det gir
+et rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge.
+Ledelsen er ogsdé ansvarlig for slik intern kontroll som den finner nadvendig for 4 kunne
+utarbeide et drsregnskap som ikke inneholder vesentlig feilinformasjon, verken som falge av
+misligheter eller utilsiktede feil.
+
+Ved utarbeidelsen av arsregnskapet mda ledelsen ta standpunkt til selskapets evne til
+fortsatt drift og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt
+drift skal legges til grunn for Grsregnskapet sq lenge det ikke er sannsyniig at virksomheten vil
+bli avviklet.
+
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+
+Vart mal er Gd oppnd betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder
+vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og G avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hay grad av
+
+BLOM & FOSSAN AS statsautoriserte revisorer | Organisasjonsnummer 936 072 550 | Medlemmer av Den norske Revisorforening
+
+Frydenlunasgata 2B, 2010 Strammen | Tif +47 67 92 11 00 | firmapost@blomfossan.no | www.blomfossan.no
+
+statsautoriserte revisorer
+
+sikkerhet, men ingen garanti for at en revisjon utfert i samsvar med ISA for MKE, alltid vil
+avdekke vesentlig feilinformasjon. Feilinformasjon kan oppstd som falge av misligheter eller
+Utilsiktede feil. Feilinformasjon er G anse som vesentlig dersom den enkeltvis eller samlet
+med rimelighet kan forventes 4 pavirke de skonomiske beslutningene som brukerne
+foretar, pd grunniag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til
+https://revisorforeningen.no/revisjonsberetninger
+
+— Strgmmian, 10.04.2026
+Blom & Fossan A
+Gunnarfoss
+statsavtorisert revisor
+BLOM & FOSSAN AS stensqulorserie revisorar | Crgariscsionsnunnner 9a6 072 S501 Mecilerrmer av Den norsks Revisarioreiing

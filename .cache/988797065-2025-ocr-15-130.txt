@@ -1,0 +1,562 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 586894
+Virksomheten
+Organisasjonsnummer : 988 797 065
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: JOH HOLDING AS
+Forretningsadresse: Karenslyst allé 2
+0278 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Arve Garberg
+Dato for fastsettelse av arsregnskapet: 24.06.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 988 797 065
+
+JOH HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 1 203 016 73 622
+
+Sum kostnader 203 016 73 622
+
+Driftsresultat -203 016 -73 622
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 2 3 608 072 981 670
+
+Annen finansinntekt 11 163 213 6 574 256
+
+Sum finansinntekter 14 771 285 7 555 926
+
+Annen finanskostnad 1 710
+
+Sum finanskostnader 1 710
+
+Netto finans 14 769 575 7 555 926
+
+Resultat fer skattekostnad 14 566 560 7 482 304
+
+Skattekostnad pa resultat 3 749 113 199 702
+
+Arsresultat 13 817 447 7 282 602
+
+Arsresultat etter
+
+minoritetsinteresser 13 817 447 7 282 602
+
+Totalresultat 13 817 447 7 282 602
+
+Overfoeringer og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 13 817 447 7 282 602
+
+Sum overferinger og
+
+disponeringer 4 13 817 447 7 282 602
+Utskriftsdato 15.07.2026 Organisasjonsnr 988 797 065 Side 1 av 3
+
+Organisasjonsnr: 988 797 065
+
+JOH HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Finansielle anleggsmidler
+
+Investering i annet
+
+foretak i samme konsern 5
+
+Lan til foretak i samme
+
+konsern 2
+
+Investeringer 1
+
+tilknyttet selskap 5
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 2
+
+Investeringer i aksjer og
+
+andeler 5 384 910 773 344 911 536
+
+Sum finansielle
+
+anleggsmidler 384 910 773 344 911 536
+
+Sum anleggsmidler 384 910 773 344 911 536
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 2 58 701 842 85 748 595
+
+Konsernfordringer 2
+
+Sum fordringer 58 701 842 85 748 595
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 16 643 752 15 229 378
+
+Sum bankinnskudd,
+
+kontanter og lignende 16 643 752 15 229 378
+
+Sum omlepsmidler 75 345 594 100 977 973
+
+SUM ELENDELER 460 256 367 445 889 509
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4, 6 57 200 57 200
+Utskriftsdato 15.07.2026 Organisasjonsnr 988 797 065 Side 2 av 3
+
+Beholdning av egne aksjer 4
+
+Overkurs 4 62 137 62 137
+
+Annen innskutt egenkapital 4
+
+Sum innskutt egenkapital 119 337 119 337
+
+Opptjent egenkapital
+
+Annen egenkapital 4 459 387 917 445 570 470
+
+Udekket tap 4
+
+Sum opptjent egenkapital 459 387 917 445 570 470
+
+Sum egenkapital 459 507 254 445 689 807
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 2
+
+Kortsiktig gjeld
+
+Betalbar skatt 3 749 113 199 702
+
+Kortsiktig konserngjeld 2
+
+Sum kortsiktig gjeld 749 113 199 702
+
+Sum gjeld 749 113 199 702
+
+SUM EGENKAPITAL OG GJELD 460 256 367 445 889 509
+Utskriftsdato 15.07.2026 Organisasjonsnr 988 797 065 Side 3 av 3
+
+Organisasjonsnr: 988 797 065
+
+JOH HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+BDO AS
+Kobbes gate 2
+—— Postboks 1786 Sentrum
+7416 Trondheim
+Til generalforsamlingen i Joh Holding AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet til Joh Holding AS.
+Arsregnskapet bestar av: Etter var mening:
+e Balanse per 31. desember e Oppfyller arsregnskapet gjeldende lovkrav, og
+2025 e Gir arsregnskapet et rettvisende bilde av
+e Resultatregnskap for 2025 selskapets finansielle stilling per 31. desember
+e Noter til arsregnskapet, 2025 og av dets resultater for regnskapsaret
+herunder et sammendrag av avsluttet per denne datoen i samsvar med
+viktige regnskapsprinsipper. regnskapslovens regler og god regnskapsskikk i
+Norge. _
+o
+2
+&
+Grunnlag for konklusjonen 3
+=
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare 5
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver 3
+og plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i 8
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants S
+{inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board °
+for Accountants (IESBA-reglene), og vi har overholdt vare ovrige etiske forpliktelser i samsvar med S
+disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som =
+grunnlag for var konklusjon. x
+§
+bag
+Ledelsens ansvar for arsregnskapet &
+eee cee eee eee 3
+Styret (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir et rettvisende bilde i 8
+samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for
+slik intern kontroll som den finner nadvendig for a kunne utarbeide et arsregnskap som ikke <
+inneholder vesentlig feilinformasjon, verken som folge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift
+og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder
+vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og a avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hay grad av
+sikkerhet, men ingen garanti for at en revisjon utfort i samsvar med ISA-ene, alltid vil avdekke
+vesentlig feilinformasjon. Feilinformasjon kan oppsta som falge av misligheter eller utilsiktede feil.
+Feilinformasjon er a anse som vesentlig dersom den enkeltvis eller samlet med rimelighet kan
+forventes a pavirke de akonomiske beslutningene som brukerne foretar pa grunnlag av
+arsregnskapet.
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 1 av 2
+
+|BDO
+
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+
+https: //revisorforeningen. no/revisjonsberetninger
+
+BDO AS
+
+Arve Garberg
+
+statsautorisert revisor
+
+(elektronisk signert)
+NS}
+Ss
+~
+ay
+4
+=
+ss
+S
+Oo
+ON
+5
+1
+‘9
+8
+=
+°
+§
+&
+%
+=
+a
+Fs
+°c
+uv
+S
+a
+x
+9S
+Q
+So
+Lv
+bag
+=
+DL
+QQ
+
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 2 av 2
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Arve Garberg
+Partner
+Pavegne av: BDOAS QES
+Serienummer: bankid.no no_bankid:95 78-5 997-4-3 7045
+IP: 188.95.XXX.XXX
+2026-06-23 18:53:03 UTC
+==pankin &%
+S
+S
+~
+~%
+2
+=
+ay
+jos)
+=
+is)
+nN
+3
+8
+°
+g
+=
+9
+S
+s
+gy
+&
+Ss)
+£
+=
+v
+&
+3
+x
+S)
+Q
+Ss)
+vu
+<=
+S
+AF
+a
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.
+
+Arsregnskap 2025
+Joh Holding AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 988 797 065
+
+Resultatregnskap
+Joh Holding AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftskostnad 1 203 016 73 622
+Sum driftskostnader 203 016 73 622
+Driftsresultat -203 016 -73 622
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 2 3 608 072 981 670
+Annen finansinntekt 11 163 213 6 574 256
+Annen finanskostnad 1710 0
+Resultat av finansposter 14 769 575 7 555 926
+Resultat for skattekostnad 14 566 560 7 482 304
+Skattekostnad pa resultat 3 749 113 199 702
+Arsresultat 13 817 447 7 282 602
+Overferinger
+
+Avsatt til annen egenkapital 13 817 447 7 282 602
+Sum overforinger 4 13 817 447 7 282 602
+Joh Holding AS Side 2
+
+Balanse
+
+Joh Holding AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Finansielle anleggsmidiler
+lnvesteringer i aksjer og andeler 5 384 910 773 344 911 536
+Sum finansielle anteggsmidler 384 910 773 344 911 536
+Sum anleggsmidler 384 910 773 344 911 536
+Omlapsmidler
+Andre kortsiktige fordringer 2 58 701 842 85 748 595
+Sum fordringer 58 701 842 85 748 595
+Bankinnskudd, kontanter o.!
+Bankinnskudd, kontanter o.l. 16 643 752 15 229 378
+Sum bankinnskudd, kontanter o.| 16 643 752 15 229 378
+Sum omlepsmidiler 75 345 594 100 977 973
+Sum eiendeler 460 256 367 445 889 509
+Joh Holding AS Side 3
+
+Balanse
+Joh Holding AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4,6 57 200 57 200
+Overkurs 4 62 137 62 137
+Sum innskutt egenkapital 119 337 119 337
+Opptjent egenkapital
+Annen egenkapital 4 459 387 917 445 570 470
+Sum opptjent egenkapital 459 387917 445570470
+Sum egenkapital 459 507 254 445 689 807
+Gjeld
+Kortsiktig gjeld
+Betalbar skatt 3 749 113 199 702
+Sum kortsiktig gjeld 749 113 199 702
+Sum gjeld 749 113 199 702
+Sum egenkapital og gjeld 460 256 367 445 889509
+Oslo , 23/1 - LL
+; |
+Styret i Joh Holding AS
+Johan Johannson
+\ Styrets leder
+Joh Holding AS Side 4
+
+Noter til regnskapet 2025
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Forutsetningen om fortsatt drift er lagt til grunn ved utarbeidetsen.
+Virksomhetens art og hvor den drives
+Joh Holding AS er et aksjeselskap som investerer i verdipapirer. Virksomheten drives i Oslo
+Omlapsmidler/kortsiktig gjeld
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Omlopsmidler vurderes til laveste verdi av
+anskaffelseskost og antatt virkelig verdi.
+Aksjer
+Omlepsaksjer er vurdert til det lavest av kostpris og virkelig verdi. Andre aksjer som er oppfort i
+regnskapet er fort til kostpris. | de tilfetler der den virkelige verdien er lavere enn kostprisen og dette ikke
+er forbigaende, er det foretatt nedskrivning.
+Fordringer
+Kundefordringer og andre fordringer oppfares til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjores pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt beregnes med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt eventuelt ligningsmessig underskudd tit fremfaring ved
+utgangen av regnskapsaret. Skatteokende og skattereduserende midlertidige forskjetler som reverserer
+eller kan reversere i samme periode er utlignet og nettofart.
+Oppfering av utsatt skattefordel pa netto skattereduserende forskjeller som ikke er utlignet og underskudd
+til fremforing, er begrunnet med antatt fremtidig inntjening. Utsatt skattefordel som kan balansefores og
+utsatt skatt er oppfort netto i balansen.
+Joh Holding AS Side 5
+
+Noter til regnskapet 2025
+
+Note 1 Lannskostnader, ingen ansatte
+Det er ikke utbetalt ytelser til styret eller ledende personer i 2025.
+Det er ikke gitt lan/sikkerhetsstillelse til daglig leder, styrets leder eller andre nzrstaende parter.
+OTP
+Selskapet har ingen ansatte og er falgelig ikke pliktet a til a ha tjenestepensjonsordning etter lov om
+obligatorisk tjenestepensjon.
+Note 2 Mellomvzrende med selskap i samme konsern
+Fordringer 2025 2024
+Fordring pa Joh. Johannson Invest AS 58 701 842 85 748 595
+Sum fordringer 58 701 842 85 748 595
+Fordringene er renteberegnet i 2025.
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfart skatt pa ordinzert resultat:
+Betalbar skatt 749 113 199 702
+Endring i utsatt skattefordel 0 8)
+Skattekostnad ordinzrt resultat 749 113 199 702
+Skattepliktig inntekt:
+Resultat for skatt 14 566 560 7 482 304
+Permanente forskjeller -11 161 503 -6 574 569
+Skattepliktig inntekt 3 405 057 907 735
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 749 113 199 702
+Sum betalbar skatt i balansen 749 113 199 702
+Note 4 Egenkapital
+
+Aksjekapital Overkurs Annen Sum egenkapital
+
+egenkapital
+
+Pr. 01.01 57 200 62 137 445 570 470 445 689 807
+Arets resultat 13 817 447 13 817 447
+Pr 31.12 57 200 62 137 459 387 917 459 507 254
+JohHoldingAS = ”s=~=CS~s‘“CSO~OCOOO”TTCOC“CsC“‘“‘“C CS Se
+
+Noter til regnskapet 2025
+Note 5 Investering i datterselskap, tilknyttet selskap og felleskontrollert virksomhet
+Investeringene i datterselskap, tilknyttet selskap og felleskontrollert virksomhet regnskapsfores etter
+kostmetoden.
+Selskap Forretningskontor Eierandel
+Joh Johannson AS Oslo 99,999 %
+Joh Johannson Invest AS Oslo 1,380 %
+Joh Holding AS har kun 43% av stemmene i Joh Johannson AS og selskapet er derfor ikke datterselskap.
+Note 6 Antall aksjer, aksjeeiere m
+Selskapets aksjekapital bestar av 20 000 aksjer palydende kr 2,87, j alt kr 57 200.
+Aksjene er fordelt pa 2 stk A-aksjer og 19 998 stk B-aksjer.
+A-aksjene har 10 000 stemmer pa generalforsamlingen, mens B-aksjene har 1 stemme per aksje.
+Aksjekapitalen eies av folgende aksjonzrer:
+Aksjonzrer: A-aksjer B-aksjer Sum aksjer Eierandel Stemme-
+
+andel
+
+Johan Johannson Styrets leder 2 11 098 11 100 55,50 % 77,75 %
+Jojoha Invest AS 0 8 900 8 900 44,50 % 24,25 %
+Sum 2 19998 20000 100,00%  100,00%
+Joh Holding AS Side 7

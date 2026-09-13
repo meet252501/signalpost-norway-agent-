@@ -1,0 +1,290 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 705124
+Virksomheten
+Organisasjonsnummer : 927 969 106
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: TRONDHEIMSVEIEN 43 I AS
+Forretningsadresse: c/o Lermo AS
+Bekkedalsveien 16B
+3770 KRAGERG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Berre Lervik Brekka/Styrets leder
+Dato for fastsettelse av Aarsregnskapet: 25.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 22.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 927 969 106
+
+TRONDHEIMSVEIEN 43 I AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 400 -9 743
+
+Annen driftsinntekt 354 021 366 330
+
+Sum inntekter 354 421 356 587
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 2 9 372 10 226
+
+Annen driftskostnad 407 615 411 069
+
+Sum kostnader 416 987 421 295
+
+Driftsresultat -62 566 -64 707
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+i samme konsern 504 0
+
+Annen renteinntekt 130 0
+
+Sum finansinntekter 634 e)
+
+Rentekostnad til foretak
+
+i samme konsern 509 7 125
+
+Annen rentekostnad 1 276 1 496
+
+Sum finanskostnader 1 785 8 621
+
+Netto finans -1 151 -8 621
+
+Resultat fer skattekostnad -63 717 -73 328
+
+Skattekostnad 39 763 -16 132
+
+Arsresultat -103 480 -57 196
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 67 345 0
+
+Overferinger til/fra
+
+annen egenkapital -170 824 -57 196
+
+Sum overferinger og
+
+disponeringer -103 480 -57 196
+Utskriftsdato 22.07.2026 Organisasjonsnr 927 969 106 Side 1 av 3
+
+Organisasjonsnr: 927 969 106
+TRONDHEIMSVEIEN 43 I AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 0) 39 763
+Sum immaterielle eiendeler 0 39 763
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 2 235 473 244 845
+Maskiner og anlegg 2 0 0
+Skip, rigger, fly og
+lignende 2 0 0
+Driftslesere, inventar,
+verktay, kontormaskiner
+og lignende 2 0 0
+Sum varige driftsmidler 235 473 244 845
+Finansielle anleggsmidler
+Lan til foretak i samme
+konsern -55 085 -2 964
+Sum finansielle
+anleggsmidler -55 085 -2 964
+Sum anleggsmidler 180 388 281 644
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 451 16 900
+Konsernfordringer 0 70 694
+Sum fordringer 451 87 594
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 8 668 4 427
+Sum bankinnskudd,
+kontanter og lignende 8 668 4 427
+Sum omlepsmidler 9 119 92 021
+SUM ELENDELER 189 507 373 665
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 22.07.2026 Organisasjonsnr 927 969 106 Side 2 av 3
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+Overkurs 273 007 273 007
+Sum innskutt egenkapital 303 007 303 007
+Opptjent egenkapital
+
+Annen egenkapital 0 170 824
+Udekket tap 147 214 214 558
+Sum opptjent egenkapital -147 214 -43 734
+Sum egenkapital 155 793 259 273
+Kortsiktig gjeld
+
+Leverandergjeld 2 028 34 289
+Skyldige offentlige
+
+avgifter 11 536 54 763
+Annen kortsiktig gjeld 20 150 25 340
+Sum kortsiktig gjeld 33 714 114 392
+Sum gjeld 33 714 114 392
+SUM EGENKAPITAL OG GJELD 189 507 373 665
+
+Utskriftsdato 22.07.2026 Organisasjonsnr 927 969 106 Side 3 av 3
+
+Organisasjonsnr: 927 969 106
+
+TRONDHEIMSVEIEN 43 I AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+511278.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+511278.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+266433.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+244845.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+10226.00
+@®konomisk levetid Immaterielle eiend.
+50 ar
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler

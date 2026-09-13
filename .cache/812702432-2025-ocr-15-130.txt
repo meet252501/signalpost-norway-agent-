@@ -1,0 +1,669 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 665616
+Virksomheten
+Organisasjonsnummer : 812 702 432
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: RASTAVEGEN 1 AS
+Forretningsadresse: Rastavegen 1
+2211 KONGSVINGER
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ronny Sandbekk
+Dato for fastsettelse av arsregnskapet: 03.06.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 812 702 432
+
+RASTAVEGEN 1 AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 1 876 275 1 776 460
+
+Sum inntekter 1 876 275 1 776 460
+
+Kostnader
+
+Lennskostnad 2
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 1 303 500 267 200
+
+Annen driftskostnad 2 646 507 1 162 857
+
+Sum kostnader 950 007 1 430 057
+
+Driftsresultat 926 268 346 403
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 4 275 328
+
+Annen finansinntekt 6 463 6 664
+
+Sum finansinntekter 10 738 6 992
+
+Rentekostnad til foretak
+
+1 samme konsern 197 000 167 850
+
+Annen rentekostnad 186 666 223 267
+
+Sum finanskostnader 383 666 391 117
+
+Netto finans -372 928 -384 125
+
+Resultat fer skattekostnad 553 340 -37 722
+
+Skattekostnad pa resultat 3 139 374
+
+Arsresultat 413 966 -37 722
+
+Arsresultat etter
+
+minoritetsinteresser 413 966 -37 722
+
+Totalresultat 413 966 -37 722
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 600 000 600 000
+
+Overfert fra annen
+
+egenkapital -186 034 -637 722
+
+Sum overferinger og
+
+disponeringer 413 966 -37 722
+Utskriftsdato 01.08.2026 Organisasjonsnr 812 702 432 Side 1 av 3
+
+Organisasjonsnr: 812 702 432
+
+RASTAVEGEN 1 AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 1 8 006 276 8 309 776
+
+Maskiner og anlegg 1, 5
+
+Skip og flytende
+
+installasjoner 1, 5
+
+Driftslesere, inventar o.
+
+a. utstyr 1, 5
+
+Sum varige driftsmidler 8 006 276 8 309 776
+
+Sum anleggsmidler 8 006 276 8 309 776
+
+Omlepsmidler
+
+Varer
+
+Lager av varer og annen
+
+beholdning 5
+
+Fordringer
+
+Kundefordringer 123 528 20 000
+
+Andre kortsiktige
+
+fordringer 50 000 44 500
+
+Sum fordringer 173 528 64 500
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 650 022 324 145
+
+Sum bankinnskudd,
+
+kontanter og lignende 650 022 324 145
+
+Sum omlepsmidler 823 550 388 645
+
+SUM ELENDELER 8 829 826 8 698 421
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 100 000 100 000
+
+Annen innskutt egenkapital 4 028 4 028
+
+Sum innskutt egenkapital 104 028 104 028
+Utskriftsdato 01.08.2026 Organisasjonsnr 812 702 432 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 1 279 517 1 465 552
+
+Sum opptjent egenkapital 1 279 517 1 465 552
+
+Sum egenkapital 4 1 383 545 1 569 580
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 5 2 315 488 2 623 740
+
+@vrig langsiktig gjeld 5 4 334 850 3 837 850
+
+Sum annen langsiktig gjeld 6 650 338 6 461 590
+
+Sum langsiktig gjeld 6 650 338 6 461 590
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 5
+
+Leverandergjeld 1 839 4 681
+
+Betalbar skatt 3 139 374
+
+Skyldig offentlige avgifter 37 351 46 816
+
+Utbytte 600 000 600 000
+
+Annen kortsiktig gjeld 17 379 15 754
+
+Sum kortsiktig gjeld 795 943 667 251
+
+Sum gjeld 7 446 281 7 128 841
+
+SUM EGENKAPITAL OG GJELD 8 829 826 8 698 421
+Utskriftsdato 01.08.2026 Organisasjonsnr 812 702 432 Side 3 av 3
+
+Organisasjonsnr: 812 702 432
+
+RASTAVEGEN 1 AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Resultatregnskap
+Rastavegen 1 AS
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftsinntekt 1 876 275 1 776 460
+Sum driftsinntekter 1876 275 1 776 460
+Avskrivning av driftsmidler og immaterielle eiendeler 1 303 500 267 200
+Annen driftskostnad 2 646 507 1 162 857
+Sum driftskostnader 950 007 1 430 057
+Driftsresultat 926 268 346 403
+Finansinntekter og finanskostnader
+Annen renteinntekt 4275 328
+Annen finansinntekt 6 463 6 664
+Rentekostnad til foretak i samme konsern 197 000 167 850 =
+Annen rentekostnad 186 666 223 267 a
+Resultat av finansposter -372 928 -384 125 g
+St
+——__ ee =
+Resultat for skattekostnad 553 340 -37 722 N
+a
+Skattekostnad pa resultat 3 139 374 0 =
+=
+a Q
+Arsresultat 413 966 -37 722 =
+8
+Q
+<
+Overforinger =
+Avsatt til utbytte 600 000 600 000
+Overfort fra annen egenkapital 186 034 637 722 8
+Sum overforinger 413 966 -37 722 g
+Ss
+Rastavegen 1 AS Side 1
+
+Balanse
+Rastavegen 1 AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Varige driftsmidier
+Tomter, bygninger o.a. fast eiendom 1 8 006 276 8 309 776
+Sum varige driftsmidler 8 006 276 8 309 776
+Sum anleggsmidler 8 006 276 8 309 776
+Omlopsmidler
+Fordringer .
+Kundefordringer 123 528 20 000 =
+Andre kortsiktige fordringer 50 000 44 500 &
+Sum fordringer 173 528 64 500 S
+=
+Bankinnskudd, kontanter o.! N
+Bankinnskudd, kontanter o.l. 650 022 324 145 4
+Sum bankinnskudd, kontanter o.| 650 022 324 145 S
+_eeEeereé eee 2
+Q
+Sum omlepsmidler 823 550 388 645 =)
+Sees 3
+Sum eiendeler 8 829 826 8 698 421 :
+RS
+iss]
+§
+©
+E
+2
+9S
+$
+g
+Rastavegen 1 AS Side 1
+
+Balanse
+Rastavegen 1 AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 100 000 100 000
+Annen innskutt egenkapital 4028 4028
+Sum innskutt egenkapital 104 028 104 028
+Opptjent egenkapital
+Annen egenkapital 1279 517 1 465 552
+Sum opptjent egenkapital 1279 517 1 465 552
+Sum egenkapital 4 1383545 1569580
+eee eee ~
+Sy
+. wal
+Gjeld S
+t
+=
+Annen langsiktig gjeld N
+Gjeld til kredittinstitusjoner 5 2 315 488 2 623 740 4
+@vrig langsiktig gjeld 5 4 334 850 3 837 850 S
+Sum annen langsiktig gjeld 6 650 338 6 461 590 =
+3
+Kortsiktig gjeld 8
+Leverandorgjeld 1 839 4 681 =
+Betalbar skatt 3 139 374 0 x
+Skyldig offentlige avgifter 37 351 46 816 =
+Utbytte 600 000 600 000 S
+Annen kortsiktig gjeld 17 379 15 754 8
+Sum kortsiktig gjeld 795 943 667 251 g
+bag
+a &
+Sum gjeld 7 446 281 7 128 841
+Sum egenkapital og gjeld 8 829 826 8 698 421
+Kongsvinger, 28.05.2026
+Styret i Rastavegen 1 AS
+Ronny Sandbekk Tove Sandbekk
+Enestyre Daglig leder
+Rastavegen 1 AS Side 2
+
+Rastavegen 1 AS
+NOTER TIL REGNSKAPET FOR 2025
+GENERELL INFORMASJON
+Selskapet eier og leier ut eiendom i Kongsvinger Kommune.
+REGNSKAPSPRINSIPPER
+I arsregnskapet er alle poster verdsatt og periodisert i overensstemmelse med regnskapslovens bestemmelser og reglene som folger av
+god regnskapsskikk for sma foretak.
+Klassifisering
+Eiendeler bestemt til varig eie eller bruk, samt fordinger med forfall mer enn ett ar etter balansedagen, er medtatt som anleggsmidler.
+Ovrige eiendeler er klassifisert som omlopsmidler. Gjeld som forfaller senere enn ett ar etter regnskapsperiodens utlop er
+oppfort som langsiktig gjeld.
+Driftsinntekter .
+Inntektsforing skjer etter opptjeningsprinsippet. For leieinntekter vil dette vere utleietidspunktet. =
+Wy
+oy
+Varige driftsmidler og avskrivninger 0
+Varige driftsmidler er vurdert til historisk kost etter fradrag for bedriftsokonomiske avskrivninger beregnet =
+pa grunnlag av kostpris og antatt akonomisk levetid. RS
+&
+Utsatt skatt 3
+Utsatt skatt i resultatregnskapet er skatt beregnet pa endringer i midlertidige forskjeller mellom skattemessige og regnskapsmessige S
+verdier og inngar som en del av selskapets totale skattekostnader. Utsatt skatt avsettes som langsiktig gjeld i balansen. I den grad utsatt =
+skattefordel overstiger utsatt skatt, er det iht god regnskapsskikk anledning til 4 ikke aktivere utsatt skattefordel. =
+R
+8
+g
+Note 1 - Varige driftsmidler 3
+S
+Forretnings- Tomt og regu-
+eiendom Boligeiendom leringsarbeider Totalt 8
+Opprinnelig anskaffelseskost 10 686 126 1 504 972 1 852 076 14 043 174 2
+Akkumulerte avskrivninger 01.01 4 864 726 45 972 0 4910 698 S
+Bokfert verdi 01.01.2024 5 821 400 1 459 000 1 852 076 9 132 476 *
+Arets tilgang 0 0 0 0
+Akkumulerte avskrivninger 31.12 5 945 926 90 972 0 6 036 898
+Bokfert verdi pr. 31.12.2024 4 740 200 1 414 000 1 852 076 8 006 276
+Arets avskrivning 288 500 15 000 0 303 500
+Lineer avskrivningsplan: 1%
+Forr.bygg: 30 ar / 3,33 %
+Pakostning 2024 10 ar / 10%
+Note 2 — Lenn og ansatte
+Selskapet har ingen lonnede ansatte, 0 arsverk
+Side 1
+
+Rastavegen 1 AS
+NOTER TIL REGNSKAPET FOR 2025
+Note 3 - Skatter
+Utsatt skatt 31.12.25 31.12.24 Endring
+Netto grunnlag -2 306 625 -2 223 290 -83 335
+Utsatt skattefordel (ikke aktivert) 507 458 489 124 18 334
+2025 2024
+Betalbar skatt 139 374 -
+Skatteandel av mottatt konsernbidrag - -
+Endring utsatt skatt - -
+Skattekostnad 139 374 -
+Note 4 - Egenkapital
+Bokfort egenkapital pr. 01.01.2025 1 569 579 =
++ arets overskudd 413 966 ‘A
+- avsatt utbytte -600 000 3
+Bokfort egenkapital pr. 31.12.2025 1 383 545 =
+5
+a
+Note 5 — Langsiktig gjeld og pantstillelser Mal
+=
+=
+I forbindelse med finansieringen av eiendomkyjgp, er det tatt pant 1 eiendommene spesifisert i note 1 for folgende belop: =
+Restgjeld pr 31.12: Forventet rest- g
+gjeld etter 5 ar: >
+Banklan: 2 315 488 775 000 s
+Q
+I tillegg har selskapet langsiktig gjeld til morselskapet pa kr 4 334 850 pr. 31.12.2025. s
+Det er ikke avtalt nedbetalingplan, men lanet renteberegnes til markedsvilkar og rentene legges til hovedstol. £
+E
+z
+&
+io]
+v
+bag
+&
+Side 2
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Tove Sandbekk Ronny Ole Sandbekk
+Daglig leder Styreleder
+Serienummer: bankid.no no_bankid:95 78-5999-4-4 174709 QES Serienummer: bankid.no no_bankid:9578-5999-4-3829966 QES
+IP: 84.202.XXX.XXX IP: 84.202. XXX.XXX
+2026-06-03 07:23:23 UTC 2026-06-03 07:24:53 UTC
+==pankin &% =pankin &
+>
+=
+wy
+vay
+a
+UO
+=
++t
+<
+N
+ne
+=
+=
+°
+=
+$
+>
++
+S
+Q
+=
+co
+X
+S)
+£
+=
+v
+&
+3
+x
+S)
+Q
+Ss)
+v
+<=
+<
+&
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.
+
+BDO AS
+Brugata 10
+es 2212 Kongsvinger
+Til generalforsamlingen i Rastavegen 1 AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet til Rastavegen 1 AS.
+Arsregnskapet bestar av: Etter var mening:
+e Balanse per 31. desember e Oppfyller arsregnskapet gjeldende lovkrav, og
+2025 e Gir arsregnskapet et rettvisende bilde av
+e Resultatregnskap for 2025 selskapets finansielle stilling per 31. desember
+e Noter til arsregnskapet, 2025 og av dets resultater for regnskapsaret
+herunder et sammendrag av avsluttet per denne datoen i samsvar med
+viktige regnskapsprinsipper. regnskapslovens regler og god regnskapsskikk i
+Norge. ©
+ie)
+iy
+2
+“
+Grunnlag for konklusjonen zx
+a nN
+Vi har gjennomfart revisjonen i samsvar med Intemational Standards on Auditing (ISA-ene). Vare i
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver 9
+og plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i &
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants <
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board e
+for Accountants (IESBA-reglene), og vi har overholdt vare ovrige etiske forpliktelser i samsvar med -
+disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som S
+° . lea)
+grunnlag for var konklusjon. =
+=
+x
+a
+Ledelsens ansvar for arsregnskapet =
+i S
+Styret og daglig leder (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir et E
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er 8
+ogsa ansvarlig for slik intern kontroll som den finner nadvendig for a kunne utarbeide et arsregnskap S
+som ikke inneholder vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil. &
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift
+og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli awviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder
+vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og a avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hay grad av
+sikkerhet, men ingen garanti for at en revisjon utfort i samsvar med ISA-ene, alltid vil avdekke
+vesentlig feilinformasjon. Feilinformasjon kan oppsta som falge av misligheter eller utilsiktede feil.
+Feilinformasjon er a anse som vesentlig dersom den enkeltvis eller samlet med rimelighet kan
+forventes a pavirke de akonomiske beslutningene som brukerne foretar pa grunnlag av
+arsregnskapet.
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 1 av 2
+
+|BDO
+
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+
+https: //revisorforeningen.no/revisjonsberetninger
+
+BDO AS
+
+Rolf Udnes Glesne
+
+statsautorisert revisor
+
+(elektronisk signert)
+§
+W)
+2°
+S
+5
+9
+a
+9g
+9
+=
+g
++
+a
+S
+‘
+©
+S
+s
+eG
+XS
+a
+£
+=
+Gv
+&
+a
+8
+Q
+2]
+ov
+<
+c
+Q
+
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 2 av 2
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Rolf Udnes Glesne
+Partner
+Pavegne av: BDOAS QES
+Serienummer: bankid.no no_bankid:95 78-5 999-4- 1349704
+IP: 188.95.XXX.XXX
+2026-06-03 11:12:10 UTC
+==pankin &%
+iS)
+8
+°
+S
+x
+7
+Q
+ra
+g
+9
+Ke
+&
+vay
++
+Q
+ec
+S
+an
+S
+=
+S
+g
+x
+Ss)
+£
+=
+v
+&
+3
+4
+S)
+Q
+Ss)
+uv
+S
+&
+wv
+a
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.

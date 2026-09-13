@@ -1,0 +1,458 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 479128
+Virksomheten
+Organisasjonsnummer : 992 458 062
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: UGLE AS
+Forretningsadresse: Peder Clausensgate 5
+4515 MANDAL
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Vidar Michaelsen
+Dato for fastsettelse av Aarsregnskapet: 20.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 24.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 992 458 062
+UGLE AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Kostnader
+Annen driftskostnad 2 10 967 10 567
+Sum kostnader 10 967 10 567
+Driftsresultat -10 967 -10 567
+Finansinntekter og
+finanskostnader
+Inntekt pa investering i
+datterselskap 10 967 10 567
+Sum finansinntekter 10 967 10 567
+Netto finans 10 967 10 567
+Resultat fer skattekostnad 1
+Arsresultat 1 i¢)
+Arsresultat etter
+minoritetsinteresser 1
+Totalresultat 1
+Overferinger og
+disponeringer
+Avsatt til annen
+egenkapital 1
+Overfert fra annen
+egenkapital
+Sum overferinger og
+disponeringer 5 1
+Utskriftsdato 24.06.2026 Organisasjonsnr 992 458 062 Side 1 av 3
+
+Organisasjonsnr: 992 458 062
+UGLE AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Finansielle anleggsmidler
+Investering i datterselskap 8 917 500 917 500
+Investeringer 1
+tilknyttet selskap 8
+Sum finansielle
+anleggsmidler 917 500 917 500
+Sum anleggsmidler 917 500 917 500
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 538 319 618 752
+Konsernfordringer 7 10 967 10 567
+Sum fordringer 549 286 629 319
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 6 2 812 154
+Sum bankinnskudd,
+kontanter og lignende 2 812 154
+Sum omlepsmidler 552 099 629 473
+SUM ELENDELER 1 469 599 1 546 973
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 3, 5 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 1 414 383 1 492 382
+Sum opptjent egenkapital 1 414 383 1 492 382
+Sum egenkapital 5 1 444 383 1 522 382
+Gjeld
+
+Utskriftsdato 24.06.2026 Organisasjonsnr 992 458 062 Side 2 av 3
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 10
+
+Kortsiktig gjeld
+
+Leverandergjeld 10 000 9 375
+
+Kortsiktig konserngjeld 7
+
+Annen kortsiktig gjeld 15 216 15 216
+
+Sum kortsiktig gjeld 25 216 24 591
+
+Sum gjeld 25 216 24 591
+
+SUM EGENKAPITAL OG GJELD 1 469 599 1 546 973
+Utskriftsdato 24.06.2026 Organisasjonsnr 992 458 062 Side 3 av 3
+
+Organisasjonsnr: 992 458 062
+
+UGLE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+oy) BankID Qualified Signing
+«) Michaelsen, Vidar
+2026-04-22
+BankID Qualified Signing
+
+Ugle AS Sok ohog een
+
+Noter til arsregnskapet 2025
+
+Note 1 Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+
+Hovedregel for vurdering av klassifisering av eiendeler og gjeld
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassi-
+
+fisert som omlepsmidler. Fordringer som skal tilbakebetales innen et ar er uansett klassifisert som
+
+omlgpsmidler. Ved klassifisering av kortsiktig og langsiktig gjeld er analoge kriterier lagt til grunn.
+
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet forventes
+
+ikke 4 vere forbigaende. Anleggsmidler med begrenset ekonomisk levetid avskrives planmessig.
+
+Langsiktig gjeld balanse- fores til nominelt mottatt belop pa etableringstidspunktet. Langsiktig gjeld
+
+oppskrives ikke til virkelig verdi som felge av renteendring.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres
+
+til nominelt mottatt belep pa etableringstidspunktet. Kortsiktig gjeld oppskrives ikke til virkelig verdi
+
+som felge av renteendring.
+
+Enkelte poster er vurdert etter andre regler, og redegjgres for nedenfor.
+
+Pensjoner
+
+Obligatorisk tjenestepensjon er det selskapet benytter.
+
+Lgpende avsetning og innbetaling til egen pensjonsordning for den enkelte i kollektiv ordning avsettes
+
+lgpende hver mnd.
+
+Omlepsmidler
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores
+
+til nominelt mottatt belep pa etableringstidspunktet. Kortsiktig gjeld oppskrives ikke til virkelig verdi
+
+som felge av renteendring.
+
+Varer
+
+Varer er vurdert til det laveste av gjennomsnittlig anskaffelseskost og netto salgsverdi. For ravarer og
+
+varer i arbeid beregnes netto salgsverdi til salgsverdien av ferdig tilvirkede varer redusert for gjen-
+
+verende tilvirkningskostnader og salgskostnader.
+
+Anleggskontrakter
+
+Arbeid under utferelse knyttet til fastpriskontrakter med lang tilvirkningstid vurderes etter lopende
+
+avregnings metode. Fullferelsesgraden beregnes som palepte kostnader i prosent av forventet
+
+totalkostnad. Totalkostnaden revurderes lopende. For prosjekter som antas a gi tap, kostnadsferes
+
+hele det beregnede tapet umiddelbart.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til forventet tap.
+
+Avsetning til tap gjeres pa grunnlag av en individuell vurdering av de enkelte fordringene. [ tillegg
+
+gjores det for evrige kunde- fordringer en uspesifisert avsetning for a dekke antatt tap.
+
+Immaterielle eiendeler
+
+Utgitter til immaterielle eiendeler, herunder utgitter til torskning og utvikling, er balansetert 1 den
+
+utstrekning kriteriene for balansefering er oppfylt.
+
+Varige driftsmidler
+
+Varige driftsmidler avskrives over forventet ekonomisk levetid. Avskrivningene er som hovedregel
+
+fordelt linezert over antatt ekonomisk levetid.
+
+Aksjer i andre selskaper (omlepsaksjer)
+
+Aksjer som inngar i en handelsportefelje vurderes til virkelig verdi pa balansedagen.
+
+Andre omlgpsaksjer vurderes til det laveste av gjennomsnittlig anskaffelseskost og virkelig verdi pa
+
+Ugle AS
+Noter til arsregnskapet 2025
+balansedagen.
+Garantier, servicearbeid og reklamasjoner
+Ikke opptjent inntekt som er knyttet til garanti- og servicearbeid for avsluttede prosjekter/salg
+vurderes til antatt kostnad for slikt arbeid. Estimatet beregnes med utgangspunkt 1 historiske tall for
+servicearbeid og garanti- reparasjoner. Belgpet balanseferes som utsatt inntekt og inntektsferes
+linezert over garanti- og serviceperioden.
+Skatter
+Skatter kostnadsferes nar de paleper, det vil si at skattekostnaden er knyttet til det regnskaps-
+messige resultat fer skatt. Ved bruk av egenkapitalmetoden som vurderingsprinsipp for eierandeler 1
+selskaper som er egne skatte- subjekter, er resultatandelen allerede fratrukket skatt. Skatt knyttet til
+egenkapitaltransaksjoner, for eksempel konsernbidrag, feres mot egenkapitalen.
+Skattekostnaden bestar av betalbar skatt (skatt pa arets skattepliktige inntekt) og endring 1 netto
+utsatt skatt. Skattekostnaden fordeles pa ordinzrt resultat og resultat av ekstraordinzre poster 1
+henhold til skattegrunnlaget. Utsatt skatt og utsatt skattefordel er presentert netto 1 balansen.
+Note 2 Ansatte, godtgjerelser, lan til ansatte m.v.
+Lennskostnader bestar av felgende poster: 2025 2024
+Lenninger 0 0
+Arbeidsgiveravegift 0 0
+Pensjonskostnader 0 0
+Andre lennskostnader 0 0
+Sum lennskostnader 0 0
+Gjennomsnittlig antall ansatte: 0 0
+Note 3 Antall aksjer, aksjeeiere m.v.
+
+Stilling i
+Selskapets aksjonzrer er: Fierandel selskapet Antall aksjer Aksjeklasse PaAlydende
+Espen Michaelsen 50,00% Eid av SM 90 3 =Ordinzr 166,66667
+Vidar Michaelsen 50,00% Eid av SL 90) §=©Ordiner 166 ,66667
+Sum 100,00% 90
+Note 4 Skattekostnad
+Arets skattekostnad bestar av: 0
+Betalbar skatt 0
+Endring utsatt skatt 0
+Netto skattekostnad 0
+Utsatt skatt: 31.12.2024 31.12.2025 Endring
+Netto grunnlag 0 0 0
+Utsatt skatt, 22 % 0 0 0
+Utsatt skattefordel, 22 % 0 0 0
+Alle midlertidige forskjeller kan utlignes, og dette er gjennomfert 1 beregningen av utsatt skatt.
+Utsatt skattefordel er ikke aktivert i balansen
+
+Ugle AS
+Noter til arsregnskapet 2025
+Note 5 Egenkapital
+
+Aksje- Annen Udekket Sum
+
+kapital egenkapital tap
+Egenkapital pr 01.01 30 000 1 492 382 0 1 522 382
+Arsresultat 1 0 1
+Tilleggsutbytte 0 0 0
+Avsatt konsernbidrag 0 0 0
+Egenkapital pr 31.12 30 000 1 492 383 0 1 $22 383
+Note 6 Bundne bankinnskudd
+I posten inngar bundne bankinnskudd med kr. 0. hvor skyldig skattetrekk utgjer kr. 0.
+Note 7 Mellomvzrende selskaper i konsern
+Selskap
+
+Fordring Gjeld
+Intersport Mandal AS 549 286 0
+Note 8 Datterselskap
+Selskapets navn Eierandel Stemmeandel Resultat Egenkapital Kommune
+Intersport Mandal AS 100 % 100 % 9931 3 337 154 Mandal
+Investering i datterselskap vurderes etter kostmetoden
+Note 9 Fortsatt drift
+Forutsetningen vedrerende fortsatt drift er tilstede og arsregnskapet for aret er satt opp under denne forutsetningen.
+Note 10 Gjeld til kreditinstitusjoner
+2025
+
+Gjeld 0
+Bokfert verdi sikkerhetsstillelse 0
+Videre har aksjonzer stilet kausjon for belep oppad til kr 0 ved pant i fast eiendom
+Pant sikret i bokfert eiendom i selskapsregnskapet er tinglyst med kr 0.
+Gjeld som forfaller innen | ar utgjer kr 0 i avdarg.
+Gjeld som forfaller etter 5 ar utgjor kr 0.
+
+S felle Revisj AS
+I
+Velle Revisjon
+Til generalforsamlingen i Ugle AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert Ugle AS sitt arsregnskap som bestar av balanse per 31. desember 2025,
+resultatregnskap for regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder
+et sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025
+og av dets resultat for regnskapsaret avsluttet per denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfg¢rt revisjonen i samsvar med de internasjonale revisjonsstandardene International
+Standards on Auditing (ISA-ene}. Vare oppgaver og plikter i henhold til disse standardene er
+beskrevet nedenfor under Revisors oppgaver og plikter ved revisjonen av arsregnskapet. Vi er
+uavhengige av selskapet slik det kreves i lov, forskrift og International Code of Ethics for Professional
+Accountants (inkludert internasjonale uavhengighetsstandarder) utstedt av the International Ethics
+Standards Board for Accountants (IESBA-reglene}, og vi har overholdt vare @vrige etiske forpliktelser i
+samsvar med disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og
+hensiktsmessig som grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Ledelsen er ansvarlig for a utarbeide arsregnskapet og for at det gir et rettvisende bilde i samsvar
+med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik intern
+kontroll som den finner ngdvendig for a kunne utarbeide et arsregnskap som ikke inneholder
+vesentlig feilinformasjon, verken som fglge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli awiklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en h@y grad av sikkerhet, men ingen garanti
+for at en revisjon utfgrt i samsvar med |SA-ene, alltid vil avdekke vesentlig feilinformasjon som
+eksisterer. Feilinformasjon kan oppsta som fglge av misligheter eller utilsiktede feil. Feilinformasjon
+blir vurdert som vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke
+gkonomiske beslutninger som brukerne foretar basert pa arsregnskapet.
+Besgksadresse: Postadresse: Org.nr: 992 985 135 MVA
+Nedre Skgyen Vei 16, 0276 OSLO Leirvikodden 11 TH:40 299 299
+Leirvikodden 11, 4513 MANDAL 4513 MANDAL Epost:post@vellerevisjon.no
+Medlem av Den Norske Revisorforening
+
+VV | l R 1S]
+) isjon AS
+i
+SY elle Revisj
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+www.vellerevisjon.no
+Mandal, 26. april 2026
+Velle Revisjon AS org.nr 992 985 135
+Sindre Velle
+Statsautorisert revisor
+Besgksadresse: Postadresse: Org.nr: 992 985 135 MVA
+Nedre Skgyen Vei 16, 0276 OSLO Leirvikodden 11 THEAO 299 299
+Leirvikodden 11, 4513 MANDAL 4513 MANDAL Epost:post@vellerevisjon.no
+Mediem av Den Norske Revisorforening
+
+ay BankID Qualified Signing
+Michaelsen, Vidar
+2026-04-22
+Cy) BankID Qualified Signing
+Michaelsen, Espen
+2026-04-26
+°
+Arsregnskap 2025
+Ugle AS
+Resultatregnskap
+Balanse
+A Org.nr.: 992 458 062
+
+RESULTATREGNSKAP |
+UGLE AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 2 10 967 10 567
+Sum driftskostnader 10 967 10 567
+Driftsresultat -10 967 -10 567
+FINANSINNTEKTER OG FINANSKOSTNADER
+Inntekt pa investering i datterselskap 10 967 10 567
+Resultat av finansposter 10 967 10 567
+Resultat fr skattekostnad 1 0
+Resultat 1 0
+EKSTRAORDINAERE INNTEKTER OG KOSTNADER
+Arsresultat Ee)
+OVERF@RINGER
+Avsatt til annen egenkapital 1 0
+Sum overfgringer 5 1 0
+UGLE AS SIDE 2
+
+BALANSE |
+UGLE AS
+
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i datterselskap 8 917 500 917 500
+Sum finansielle anleggsmidler 917 500 917 500
+Sum anleggsmidler 917 500 917 500
+OML@PSMIDLER
+FORDRINGER
+Andre kortsiktige fordringer 538 319 618 752
+Konsernfordringer 7 10 967 10 567
+Sum fordringer 549 286 629 319
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 6 2 812 154
+Sum omlgpsmidler 552 099 629 473
+Sum eiendeler 1 469 599 1 546 973
+UGLE AS SIDE 3
+
+BALANSE |
+UGLE AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 3,5 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 1 414 383 1 492 382
+Sum opptjent egenkapital 1 414 383 1 492 382
+Sum egenkapital 5 1 444 383 1 522 382
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+KORTSIKTIG GJELD
+Leverandgrgjeld 10 000 9 375
+Annen kortsiktig gjeld 15 216 15 216
+Sum kortsiktig gjeld 25 216 24591
+Sum gjeld 25 216 24591
+Sum egenkapital og gjeld 1 469 599 1 546 973
+Mandal, 20.04.2026
+Styret i Ugle AS
+Vidar Michaelsen Espen Michaelsen
+styreleder styremedlem
+UGLE AS SIDE 4

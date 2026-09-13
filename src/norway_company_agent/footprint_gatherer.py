@@ -59,8 +59,14 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
         website_ev = p.get("evidence", {}).get("website", {})
         social_links = website_ev.get("value", {}).get("social_links", []) if isinstance(website_ev.get("value"), dict) else []
         for link in social_links:
-            if isinstance(link, str) and "linkedin.com/company/" in link:
-                handles.append({"organisation_number": org, "linkedin_url": link, "platform": "linkedin"})
+            link_url = ""
+            if isinstance(link, dict):
+                link_url = link.get("url", "")
+            elif isinstance(link, str):
+                link_url = link
+            
+            if "linkedin.com/company/" in link_url:
+                handles.append({"organisation_number": org, "url": link_url, "platform": "linkedin"})
                 break
     linkedin_handles_file.write_text(
         "\n".join(json.dumps(h) for h in handles) if handles else "",
@@ -69,7 +75,25 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
 
     # Prepare YouTube handles file
     youtube_handles_file = cache_dir / "tmp_youtube_handles.jsonl"
-    youtube_handles_file.write_text("", encoding="utf-8")
+    yt_handles = []
+    for p in profiles:
+        org = str(p["organisation_number"])
+        website_ev = p.get("evidence", {}).get("website", {})
+        social_links = website_ev.get("value", {}).get("social_links", []) if isinstance(website_ev.get("value"), dict) else []
+        for link in social_links:
+            link_url = ""
+            if isinstance(link, dict):
+                link_url = link.get("url", "")
+            elif isinstance(link, str):
+                link_url = link
+            
+            if "youtube.com/" in link_url or "youtu.be/" in link_url:
+                yt_handles.append({"organisation_number": org, "url": link_url, "platform": "youtube"})
+                break
+    youtube_handles_file.write_text(
+        "\n".join(json.dumps(h) for h in yt_handles) if yt_handles else "",
+        encoding="utf-8"
+    )
 
     # Define all connectors with their commands and output files
     connectors = {
@@ -93,6 +117,7 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
                 "--organisations", str(orgs_file),
                 "--output", str(cache_dir / "news_observations.jsonl"),
                 "--report", str(cache_dir / "news_report.json"),
+                "--workers", "32",
             ],
             "output": cache_dir / "news_observations.jsonl",
             "timeout": 900,
@@ -109,6 +134,18 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
             "output": cache_dir / "youtube_observations.jsonl",
             "timeout": 300,
         },
+        "trustpilot_search": {
+            "cmd": [
+                "uv", "run", "python", "scripts/run_trustpilot_search_connector.py",
+                "--profiles", str(profiles_file),
+                "--organisations", str(orgs_file),
+                "--output", str(cache_dir / "trustpilot_search_observations.jsonl"),
+                "--report", str(cache_dir / "trustpilot_search_report.json"),
+                "--cache-dir", str(cache_dir / "trustpilot_cache"),
+            ],
+            "output": cache_dir / "trustpilot_search_observations.jsonl",
+            "timeout": 900,
+        },
         "fagfolkguiden_reviews": {
             "cmd": [
                 "uv", "run", "python", "scripts/run_fagfolkguiden_reviews_connector.py",
@@ -122,18 +159,20 @@ def gather_footprints(profiles: list[dict], cache_dir: Path) -> dict[str, list[d
             "output": cache_dir / "fagfolk_observations.jsonl",
             "timeout": 120,
         },
-        "annual_report_ocr": {
-            "cmd": [
-                "uv", "run", "python", "scripts/run_annual_report_workforce_connector.py",
-                "--profiles", str(profiles_file),
-                "--organisations", str(orgs_file),
-                "--output", str(cache_dir / "ocr_observations.jsonl"),
-                "--cache", str(cache_dir / "ocr_cache"),
-                "--report", str(cache_dir / "ocr_report.json"),
-            ],
-            "output": cache_dir / "ocr_observations.jsonl",
-            "timeout": 300,
-        },
+        # "annual_report_ocr": {
+        #     "cmd": [
+        #         "uv", "run", "python", "scripts/run_annual_report_workforce_connector.py",
+        #         "--profiles", str(profiles_file),
+        #         "--organisations", str(orgs_file),
+        #         "--output", str(cache_dir / "ocr_observations.jsonl"),
+        #         "--cache", str(cache_dir / "ocr_cache"),
+        #         "--report", str(cache_dir / "ocr_report.json"),
+        #         "--ocr-pages", "5",
+        #         "--workers", "4",
+        #     ],
+        #     "output": cache_dir / "ocr_observations.jsonl",
+        #     "timeout": 300,
+        # },
         "website_social": {
             "cmd": [
                 "uv", "run", "python", "scripts/run_website_social_connector.py",

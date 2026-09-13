@@ -1,0 +1,322 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 393815
+Virksomheten
+Organisasjonsnummer : 970 395 822
+Organisasjonsform: Enkeltpersonforetak
+Foretaksnavn: KNUTSRUD SIGMUND
+Forretningsadresse: Fuluvegen 32
+2212 KONGSVINGER
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Admin Placeholder
+Dato for fastsettelse av arsregnskapet: 21.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 13.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 970 395 822
+
+KNUTSRUD SIGMUND
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 233 635 313 077
+
+Annen driftsinntekt -2 508 655
+
+Sum inntekter 231 128 313 732
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 201 568 209 777
+
+Sum kostnader 201 568 209 777
+
+Driftsresultat 29 560 103 954
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 3 4
+
+Annen finansinntekt 0 209
+
+Sum finansinntekter 3 213
+
+Netto finans 3 213
+
+Resultat fer skattekostnad 29 563 104 167
+
+Arsresultat 29 563 104 167
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 29 563 104 167
+
+Sum overferinger og
+
+disponeringer 29 563 104 167
+Utskriftsdato 13.05.2026 Organisasjonsnr 970 395 822 Side 1 av 2
+
+Organisasjonsnr: 970 395 822
+
+KNUTSRUD SIGMUND
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum anleggsmidler
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 17 218 33 655
+
+Andre fordringer 2 475 919
+
+Sum fordringer 19 693 34 574
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 3 184 2 616
+
+Sum bankinnskudd,
+
+kontanter og lignende 3 184 2 616
+
+Sum omlepsmidler 22 877 37 190
+
+SUM ELENDELER 22 877 37 190
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Opptjent egenkapital
+
+Annen egenkapital 19 874 -36 404
+
+Sum opptjent egenkapital 19 874 -36 404
+
+Sum egenkapital 19 874 -36 404
+
+Kortsiktig gjeld
+
+Leverandergjeld 7 123 87 238
+
+Skyldige offentlige
+
+avgifter -4 120 -13 644
+
+Sum kortsiktig gjeld 3 003 73 594
+
+Sum gjeld 3 003 73 594
+
+SUM EGENKAPITAL OG GJELD 22 877 37 190
+Utskriftsdato 13.05.2026 Organisasjonsnr 970 395 822 Side 2 av 2
+
+Organisasjonsnr: 970 395 822
+
+KNUTSRUD SIGMUND
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+1.00
+
+Til innehaver i Knutsrud Sigmund.
+Narvesen Revisjon 4S
+Storgata 4, 2212 Kongsvinger
+Org.nr.: 912 663 930 MVA
+www.narvesenrevision.no
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert Knutsrud Sigmund sitt arsregnskap som bestar av balanse per 31. desember 2025, resultatregnskap
+for regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige
+regnskapsprinsipper.
+Etter var mening
+¢ oppfyller arsregnskapet gjeldende lovkrav, og
+¢ gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025 og av dets
+resultat og kontantstr@mmer for regnskapsaret avsluttet per denne datoen i samsvar med regnskapslovens
+regler og god regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfg¢rt revisjonen i samsvar med de internasjonale revisjonsstandardene International Standards on
+Auditing (ISA-ene). Vare oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors
+oppgaver og plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet slik det kreves i lov, forskrift og
+International Code of Ethics for Professional! Accountants (inkludert internasjonale uavhengighetsstandarder)
+utstedt av the International Ethics Standards Board for Accountants (IESBA-reglene}, og vi har overholdt vare gvrige
+etiske forpliktelser i samsvar med disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og
+hensiktsmessig som grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Ledelsen er ansvarlig for 4 utarbeide arsregnskapet og for at det gir et rettvisende bilde i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik intern kontroll som den
+finner nddvendig for 4 kunne utarbeide et arsregnskap som ikke inneholder vesentlig feilinformasjon, verken som
+folge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og opplyse om
+forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for arsregnskapet sa
+lenge det ikke er sannsynlig at virksomheten vil bli awiklet.
+Medlem av revisorforeningen
+Verified by
+This document is signed with the PAdES-format (PDF Advanced Electronic Signatures) by Signicat. This protects the document and iis attachments from changes after signature. SIGNIGAT
+
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+
+Vart mal er & oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+
+feilinformasjon, verken som fg¢lge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning som
+
+inneholder var konklusjon. Betryggende sikkerhet er en h@y grad av sikkerhet, men ingen garanti for at en revisjon
+
+utfgrt i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon som eksisterer. Feilinformasjon kan oppsta
+
+som felge av misligheter eller utilsiktede feil. Feilinformasjon blir vurdert som vesentlig dersom den enkeltvis eller
+
+samlet med rimelighet kan forventes 4 pavirke ¢gkonomiske beslutninger som brukerne foretar basert pa
+
+arsregnskapet.
+
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+
+hitps://revisorforeningen.no/om-revision/revisjonsberetning-revisors-oppgaver-og-plikter/
+
+Narvesen Revisjon AS
+
+Henrik Narvesen
+
+Statsautorisert revisor
+
+({elektronisk signert)
+
+Side 2
+Varia oy
+
+This dacument is signed with the PAdES-format (PDF Advanced Electronic Signatures) by Signicat. This protects the document and its attachments from changes after signature. SIGNICAT
+
+Signed by Date and time (UTC+01:00) Central European Time (Bertin) (DD.MM.YYVY HHAAM-SS}
+Narvesen. Henrik 21.04.2026 08:52:13
+Signature method
+-_- b an k | D Norwegian BankiD
+This document is signed electronically.
+The electronic signature is legally binding. This page is added to provide basic information about the electronic signature(s), and the
+signed document can be read on the following page(s). Attached is also a PDF with more detailed information about the electronic
+signature{s}, and also an XML file with the contents of the signature(s). The attachments can be used to verify the electronic
+signature(s) if needed.

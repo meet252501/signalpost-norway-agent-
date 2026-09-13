@@ -1,0 +1,435 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 376343
+Virksomheten
+Organisasjonsnummer : 913 917 871
+Organisasjonsform: Norskreg. utenlandsk foretak
+Foretaksnavn: SKOGRAN JSC NUF
+Forretningsadresse: Miskiniu street 6B-1
+LT-04132 VILNIUS
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Lukas Sederevicius
+Dato for fastsettelse av arsregnskapet: 19.03.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 06.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 913 917 871
+
+SKOGRAN JSC NUF
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 0 0
+
+Sum inntekter 0 0
+
+Kostnader
+
+Lennskostnad 2 0 0
+
+Annen driftskostnad 76 449 123 141
+
+Sum kostnader 76 449 123 141
+
+Driftsresultat -76 449 -123 141
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 94 1 419
+
+Sum finansinntekter 94 1 419
+
+Annen rentekostnad 2 0
+
+Sum finanskostnader 2 e)
+
+Netto finans 92 1 419
+
+Resultat fer skattekostnad -76 356 -121 722
+
+Skattekostnad 3 0 0
+
+Arsresultat -76 356 -121 722
+
+Annen egenkapital 4 -76 356 -121 722
+Utskriftsdato 06.05.2026 Organisasjonsnr 913 917 871 Side 1 av 3
+
+Organisasjonsnr: 913 917 871
+
+SKOGRAN JSC NUF
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 175 184
+
+Konsernfordringer 247 406 322 666
+
+Sum fordringer 247 581 322 850
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 3 450 2 293
+
+Sum bankinnskudd,
+
+kontanter og lignende 3 450 2 293
+
+Sum omlepsmidler 251 O31 325 144
+
+SUM ELENDELER 251 031 325 144
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Sum innskutt egenkapital 0 0
+
+Opptjent egenkapital
+
+Annen egenkapital 4 245 523 321 879
+
+Sum opptjent egenkapital 245 523 321 879
+Utskriftsdato 06.05.2026 Organisasjonsnr 913 917 871 Side 2 av 3
+
+Sum egenkapital 245 523 321 879
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 fe]
+
+Kortsiktig gjeld
+
+Leverandergjeld 5 509 3 265
+
+Sum kortsiktig gjeld 5 509 3 265
+
+Sum gjeld 5 509 3 265
+
+SUM EGENKAPITAL OG GJELD 251 031 325 144
+Utskriftsdato 06.05.2026 Organisasjonsnr 913 917 871 Side 3 av 3
+
+Organisasjonsnr: 913 917 871
+
+SKOGRAN JSC NUF
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Eiendeler som er knyttet til varekretslepet er klassifisert
+
+som omlepsmidler. Fordringer klassifiseres som oml@psmidler hvis de
+forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og
+
+virkelig verdi. Kortsiktig gjeld balanseferes til nominelt belep pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes 4 vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer
+
+og andre fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning til forventet tap. Avsetning til tap gje@res pa grunnlag av
+individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er falgende
+
+regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefort.
+
+Selskapet
+
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+2
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap for
+SKOGRAN JSC
+913917871
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+SKOGRAN JSC
+913 917 871
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -76 449 -123 141
+Sum driftskostnader -76 449 -123 141
+Driftsresultat -76 449 -123 141
+Finansinntekter
+Annen renteinntekt 94 1419
+Sum finansinntekter 94 1 419
+Finanskostnader
+Annen rentekostnad -2 0
+Sum finanskostnader -2 0
+Netto finans 92 1419
+Resultat for skattekostnad -76 356 -121 722
+Skattekostnad 3 0 0
+Arsresultat -76 356 -121 722
+Overfaringer
+Annen egenkapital 4 -76 356 -121 722
+Sum overferinger -76 356 -121 722
+
+SKOGRAN JSC
+913 917 871
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Fordringer
+Kortsiktige kKonsernfordringer 247 406 322 666
+Andre kortsiktige fordringer 175 184
+Sum fordringer 247 581 322 850
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 3 450 2 293
+Sum bankinnskudd, kontanter og lignende 3 450 2 293
+Sum omlgpsmidler 251 031 325 144
+SUM EIENDELER 251 031 325 144
+
+SKOGRAN JSC
+913 917 871
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Opptjent egenkapital
+Annen egenkapital 4 245 523 321 879
+Sum opptjent egenkapital 245 523 321 879
+Sum egenkapital 245 523 321 879
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 5 509 3 265
+Sum kortsiktig gjeld 5 509 3 265
+Sum gjeld 5 509 3 265
+SUM EGENKAPITAL OG GJELD 251 031 325 144
+LT-04132 VILNIUS, 19.03.2026
+Lukas Sederevicius
+Kontaktperson
+
+SKOGRAN JSC
+
+913 917 871
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet til varekretslgpet er klassifisert som omlg@psmidler. Fordringer klassifiseres som
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld
+som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Forovrig er folgende regnskapsprinsipper anvenct:
+
+Leieavtaler er ikke balansefgrt.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+SKOGRAN JSC
+913 917 871
+Note 1 - Salgsinntekter
+SKOGRAN JSC er norskregistrerte utenlandske selskaper (NUF) som driver sin virksomhet i Norge. Foretaket
+ble registrert 29 desember 2010 i Litauen, org.nummer 3001104144. Foretaket ble registrert i Norge i juli 2014
+og har siden oppstarten tatt pa seg enkeltoppdrag innen planting av hager og parker.
+Adacc International AS, organisasjonsnummer 988 713 957, er norsk representant for SKOGRAN JSC.
+Note 2 - Antall arsverk
+Selskapet har ikke hatt ansatte i Iopet av regnskapsaret.
+Note 3 - Skatt pa ordinzrt overskudd
+Skogran JSC er fritatt for skatteplikt pa grunniag av en skatteavtale inngatt mellom Norges regjering og
+Republikken Litauens regjering (proposisjon til Stortinget 91, 1992 -1993).
+Note 4 - Egenkapital
+Opptjent
+egenkapital sum
+Egenkapital 31.12.2024 321 879 321 879
+Arsresultat -76 356 -76 356
+Egenkapital 31.12.2025 245 523 245 523
+
+Arsregnskap for
+SKOGRAN JSC
+913917871
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+SKOGRAN JSC
+913 917 871
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -76 449 -123 141
+Sum driftskostnader -76 449 -123 141
+Driftsresultat -76 449 -123 141
+Finansinntekter
+Annen renteinntekt 94 1419
+Sum finansinntekter 94 1 419
+Finanskostnader
+Annen rentekostnad -2 0
+Sum finanskostnader -2 0
+Netto finans 92 1419
+Resultat for skattekostnad -76 356 -121 722
+Skattekostnad 3 0 0
+Arsresultat -76 356 -121 722
+Overfaringer
+Annen egenkapital 4 -76 356 -121 722
+Sum overferinger -76 356 -121 722
+
+SKOGRAN JSC
+913 917 871
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Fordringer
+Kortsiktige kKonsernfordringer 247 406 322 666
+Andre kortsiktige fordringer 175 184
+Sum fordringer 247 581 322 850
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 3 450 2 293
+Sum bankinnskudd, kontanter og lignende 3 450 2 293
+Sum omlgpsmidler 251 031 325 144
+SUM EIENDELER 251 031 325 144
+
+SKOGRAN JSC
+913 917 871
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Opptjent egenkapital
+Annen egenkapital 4 245 523 321 879
+Sum opptjent egenkapital 245 523 321 879
+Sum egenkapital 245 523 321 879
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 5 509 3 265
+Sum kortsiktig gjeld 5 509 3 265
+Sum gjeld 5 509 3 265
+SUM EGENKAPITAL OG GJELD 251 031 325 144
+LT-04132 VILNIUS, 19.03.2026
+
+Ml)
+
+Lukas Sederevicius
+Kontaktperson

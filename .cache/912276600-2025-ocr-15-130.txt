@@ -1,0 +1,549 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 385703
+Virksomheten
+Organisasjonsnummer : 912 276 600
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: KJERSTIS FESTBORD AS
+Forretningsadresse: Frognerstrandvegen 103
+2166 OPPAKER
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kjersti Marit Asak Pedersen
+Dato for fastsettelse av arsregnskapet: 17.04.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 912 276 600
+
+KJERSTIS FESTBORD AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 33 195 85 858
+
+Sum inntekter 33 195 85 858
+
+Kostnader
+
+Varekostnad 19 537 58 149
+
+Avskrivning pa varige
+
+driftsmidler 3 10 324 10 324
+
+Annen driftskostnad 14 784 13 836
+
+Sum kostnader 44 645 82 309
+
+Driftsresultat -11 450 3 549
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 0 1
+
+Sum finansinntekter e) 1
+
+Annen rentekostnad 2 2
+
+Sum finanskostnader 2 2
+
+Netto finans -2 -1
+
+Resultat fer skattekostnad -11 452 3 548
+
+Skattekostnad 3 390 -2 128
+
+Arsresultat -14 842 5 676
+
+Arsresultat etter
+
+minoritetsinteresser -14 842 5 676
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -14 842 5 676
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -14 842 0
+
+Overferinger til/fra
+
+annen egenkapital 0 5 676
+
+Sum overferinger og
+
+disponeringer -14 842 5 676
+Utskriftsdato 20.04.2026 Organisasjonsnr 912 276 600 Side 1 av 3
+
+Organisasjonsnr: 912 276 600
+
+KJERSTIS FESTBORD AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner 3 16 540 26 864
+
+Sum varige driftsmidler 16 540 26 864
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 16 540 26 864
+
+Omlepsmidler
+
+Varer
+
+Varelager 17 000 17 000
+
+Sum varer 17 000 17 000
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 1 919 2 603
+
+Sum fordringer 1 919 2 603
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 3 718 21
+
+Sum bankinnskudd,
+
+kontanter og lignende 3 718 21
+
+Sum omlepsmidler 22 637 19 624
+
+SUM EIENDELER 39 177 46 488
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 50 000 50 000
+
+Sum innskutt egenkapital 50 000 50 000
+Utskriftsdato 20.04.2026 Organisasjonsnr 912 276 600 Side 2 av 3
+
+Opptjent egenkapital
+
+@reavrunding -2 -2
+
+Udekket tap 58 982 44 140
+
+Sum opptjent egenkapital -58 983 -44 141
+
+Sum egenkapital -8 983 5 859
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3 390 0
+
+Sum avsetninger for
+
+forpliktelser 3 390 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 29 855 28 585
+
+Sum annen langsiktig gjeld 29 855 28 585
+
+Sum langsiktig gjeld 33 245 28 585
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 0 250
+
+Leverandergjeld 11 535 7 986
+
+Skyldig offentlige avgifter 7 7
+
+Annen kortsiktig gjeld 3 373 3 800
+
+Sum kortsiktig gjeld 14 915 12 044
+
+Sum gjeld 48 160 40 629
+
+SUM EGENKAPITAL OG GJELD 39 177 46 488
+Utskriftsdato 20.04.2026 Organisasjonsnr 912 276 600 Side 3 av 3
+
+Organisasjonsnr: 912 276 600
+
+KJERSTIS FESTBORD AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oppaker
+
+Virksomhetens art
+
+Tilby kvalitetsmat med tydelig lokal
+
+profil, og annet som naturlig faller sammen med dette, herunder 4 delta i
+
+andre selskaper med lignende virksomhet, kj@p og salg av aksjer, eller pa
+
+annen mate gj@re seg interessert i andre foretagender.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Det er usikkert om selskapet kan fortsette som for. Arsregnskapet er derfor
+
+laget uten a legge til grunn
+
+fortsatt drift. Styret vil likevel gjere det
+
+de kan for a drive videre, hvis det lar seg gjore.
+
+Note
+
+4
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+3
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+51620.00
+
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+51620.00
+
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+35080.00
+
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+16540.00
+
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+10324.00
+
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap 2025
+Kjerstis Festoord AS
+(912 276 600)
+Kjerstis Festbord AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 33 195 85 858
+Sum driftsinntekter 33 195 85 858
+Driftskostnader
+
+Varekostnad 19 537 58 149
+
+Avskrivning pa varige driftsmidler 3 10 324 10 324
+
+Annen driftskostnad 14 784 13 836
+Sum driftskostnader 44645 82 309
+Driftsresultat -11 450 3 549
+Finansinntekter
+
+Annen renteinntekt (@) 1
+Sum finansinntekter 0 1
+Finanskostnader
+
+Annen rentekostnad 2 2
+Sum finanskostnader 2 2
+Netto finans -2 -1
+Resultat for skatt -11 452 3 548
+Skattekostnad 3 390 -2 128
+Arsresultat -14842 5676
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital (@) 5676
+
+Udekket tap -14 842 @)
+Sum overferinger og disponeringer -14 842 5 676
+
+Kjerstis Festbord AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Driftslos@re, inventar, verktay, kontormaskiner 3 16 540 26 864
+Sum varige driftsmidler 16540 26864
+Sum anleggsmidler 16540 26864
+Omlepsmidler
+Varelager 17000 17000
+Fordringer
+
+Andre kortsiktige fordringer 1919 2 603
+Sum fordringer 1919 2 603
+Bankinnskudd, kontanter o.l. 3718 21
+Sum omlepsmidler 22637 19624
+Sum eiendeler 39177 46488
+
+Kjerstis Festbord AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 50 000 50 000
+Sum innskutt egenkapital 50000 50000
+Opptjent egenkapital
+
+Annen egenkapital -2 -2
+
+Udekket tap -68982 -44140
+Sum opptjent egenkapital -58983 -44141
+Sum egenkapital -8 983 5 859
+Gijeld
+Avsetning for forpliktelser
+
+Utsatt skatteforpliktelse 3 390 (@)
+Sum avsetning for forpliktelser 3 390 0
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 29 855 28 585
+Sum annen langsiktig gjeld 29855 28585
+Kortsiktig gjeld
+
+Gjeld til kredittinstitusjoner, kortsiktig ie) 250
+
+Leverandergjeld 11 535 7 986
+
+Skyldig offentlige avgifter 7 7
+
+Annen kortsiktig gjeld 3373 3 800
+Sum kortsiktig gjeld 14915 12044
+Sum gjeld 48160 40629
+Sum egenkapital og gjeld 39177 46488
+
+Kjerstis Festbord AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oppaker
+Virksomhetens art
+Tilby kvalitetsmat med tydelig lokal profil, og annet som naturlig faller sammen med dette,
+herunder a delta i andre selskaper med lignende virksomhet, kjap og salg av aksjer, eller pa
+annen mate gjore seg interessert i andre foretagender.
+Note 2: Usikkerhet rundt fortsatt drift
+Det er usikkert om selskapet kan fortsette som for. Arsregnskapet er derfor laget uten 4 legge
+til grunn fortsatt drift. Styret vil likevel gjore det de kan for 4 drive videre, hvis det lar seg gjore.
+
+Kjerstis Festbord AS Arsregnskap Side 5 av 6
+
+Note 3: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 51 620
++ Kjap og annen tilgang i ar (@)
+- Salg og annen avgang i ar (@)
+= Anskaffelseskost 31. desember 51 620
+- Sum avskrivninger og nedskrivninger 35 O80
+= Balansefort verdi per 31.12. 16 540
+Arets avskrivninger og nedskrivninger 10 324
+Note 4: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Kjerstis Festbord AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+
+Opprettet av Kai-Tore Ronold <kroenold@online.no>
+
+Elektronisk signering
+KAI TORE RONOLD KJERSTI MARIT ASAK PEDERSEN
+24.10.1965 - Styremediem 17.09.1954 - Daglig leder, Styreleder
+© Signert ® Signert
+17.04.2026 15:47 === bankID 17.04.2026 15:50 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 17.04.2026 15:50:23

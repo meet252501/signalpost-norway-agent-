@@ -174,6 +174,7 @@ def main() -> None:
                     "signal_type": "profile_handle",
                     "source_url": channel_url,
                     "profile_url": channel_url,
+                    "evidence_span": f"Verified YouTube channel handle: {channel_url}",
                     "strategy": "verified_handle_extraction",
                 }
             )
@@ -185,9 +186,9 @@ def main() -> None:
                 ):
                     continue
                 metrics = {
-                    key: item.get(key)
-                    for key in ("view_count", "like_count", "comment_count")
-                    if item.get(key) is not None
+                    key: item.get(f"{key}_count")
+                    for key in ("views", "likes", "comments")
+                    if item.get(f"{key}_count") is not None
                 }
                 if item.get("view_count") is not None:
                     views.append(int(item["view_count"]))
@@ -214,6 +215,7 @@ def main() -> None:
                         "id": f"youtube-search-metrics-{org}-{digest[:16]}",
                         "signal_type": "profile_metrics",
                         "source_url": channel_url,
+                        "evidence_span": f"YouTube channel metrics for {channel_url}",
                         "metrics": {
                             "matched_recent_posts": len(matched),
                             "recent_views_total": sum(views),

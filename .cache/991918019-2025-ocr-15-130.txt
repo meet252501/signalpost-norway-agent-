@@ -1,0 +1,497 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 336823
+Virksomheten
+Organisasjonsnummer : 991 918 019
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SAGO AS
+Forretningsadresse: Myrerskogveien 60
+0495 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Marianne Holen
+Dato for fastsettelse av arsregnskapet: 12.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 14.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 991 918 019
+
+SAGO AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 368 988 437 081
+
+Sum inntekter 368 988 437 O81
+
+Kostnader
+
+Varekostnad 8 917 1 786
+
+Lennskostnad 1, 2 273 258 306 387
+
+Annen driftskostnad 88 121 132 083
+
+Sum kostnader 370 297 440 257
+
+Driftsresultat -1 308 -3 176
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 0
+
+Sum finanskostnader e) fe)
+
+Netto finans fe) e)
+
+Resultat fer skattekostnad -1 308 -3 176
+
+Arsresultat -1 308 -3 176
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -1 308 -3 176
+Utskriftsdato 14.03.2026 Organisasjonsnr 991 918 019 Side 1 av 3
+
+Organisasjonsnr: 991 918 019
+
+SAGO AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 78 419 83 180
+
+Andre kortsiktige
+
+fordringer 1 159 1 439
+
+Sum fordringer 79 578 84 619
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 77 678 131 118
+
+Sum bankinnskudd,
+
+kontanter og lignende 77 678 131 118
+
+Sum omlepsmidler 157 256 215 736
+
+SUM ELENDELER 157 256 215 736
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 3 100 000 100 000
+
+Sum innskutt egenkapital 100 000 100 000
+
+Opptjent egenkapital
+
+Udekket tap 3 14 189 12 881
+
+Sum opptjent egenkapital -14 189 -12 881
+Utskriftsdato 14.03.2026 Organisasjonsnr 991 918 019 Side 2 av 3
+
+Sum egenkapital 85 811 87 119
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 9 O11 40 684
+
+Skyldige offentlige
+
+avgifter 35 039 34 259
+
+Annen kortsiktig gjeld 27 395 53 674
+
+Sum kortsiktig gjeld 71 445 128 617
+
+Sum gjeld 71 445 128 617
+
+SUM EGENKAPITAL OG GJELD 157 256 215 736
+Utskriftsdato 14.03.2026 Organisasjonsnr 991 918 019 Side 3 av 3
+
+Organisasjonsnr: 991 918 019
+SAGO AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+Regnskapsprinsipper
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+Salgsinntekter
+Inntektsfg@ring ved salg av
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+Klassifisering og vurdering av balanseposter
+Eiendeler som
+er knyttet til varekretslepet er klassifisert som omle@psmidler. Fordringer
+klassifiseres som omlepsmidler hvis de forfaller til betaling innen ett ar
+etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig
+hvis gjelden forfaller til betaling innen ett 4ar.
+Omlepsmidler vurderes
+til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+Forevrig er falgende regnskapsprinsipper
+anvendt :
+Leieavtaler er ikke balansefort.
+Selskapet har ikke endret
+regnskapsprinsipp fra 2024 til 2025.
+Note
+1
+Antall Aarsverk i regnskapsaret
+1.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+224086.00 252646.00
+Folketrygqdavgift Arets Fjorarets
+
+33768.00 37862.00
+Andre ytelser Arets Fjorarets
+
+15404.00 15879.00
+Sum lennskostnader Arets Fljorarets
+
+273258.00 306387.00
+
+Arsregnskap for
+SAGO AS
+991918019
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+SAGO AS
+991 918 019
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 368 988 437 081
+Sum driftsinntekter 368 988 437 081
+Driftskostnader
+Varekostnad -8 917 -1 786
+L@nnskostnad 1,2 -273 258 -306 387
+Annen driftskostnad -88 121 -132 083
+Sum driftskostnader -370 297 -440 257
+Driftsresultat -1 308 -3 176
+Arsresultat -1 308 -3 176
+Overforinger
+Udekket tap -1 308 -3 176
+Sum overferinger -1 308 -3 176
+
+SAGO AS
+991 918 019
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Fordringer
+Kundefordringer 78419 83 180
+Andre kortsiktige fordringer 1 159 1 439
+Sum fordringer 79 578 84 619
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 77678 131118
+Sum bankinnskudd, kontanter og lignende 77 678 131 118
+Sum omlgpsmidler 157 256 215 736
+SUM EIENDELER 157 256 215 736
+
+SAGO AS
+991 918 019
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 3 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+Udekket tap 3 -14 189 -12 881
+Sum opptjent egenkapital -14 189 -12 881
+Sum egenkapital 85 811 87 119
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 9011 40 684
+Skyldige offentlige avgifter 35 039 34 259
+Annen kortsiktig gjeld 27 395 53 674
+Sum kortsiktig gjeld 71 445 128 617
+Sum gjeld 71 445 128 617
+SUM EGENKAPITAL OG GJELD 157 256 215 736
+OSLO, 12.03.2026
+Marianne Holen
+styrets leder / daglig leder
+
+SAGO AS
+
+991 918 019
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet til varekretslgpet er klassifisert som oml@psmidler. Fordringer klassifiseres som
+
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld
+
+som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belap pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefort.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Antall arsverk
+
+Antall arsverk sysselsatt i regnskapsaret: 1
+
+Note 2 - Lonnskostnader
+
+_Spesifikasjon av lonnskostnmader 0 202H2024
+Lenn 224 086 252 646
+Arbeidsgiveravgift 33 768 37 862
+Pensjonskostnader 0 0
+Andre relaterte ytelser 15 404 15 879
+Sum 273 258 306 387
+Note 3 - Egenkapital
+
+Aksjekapital Udekket tap sum
+
+Egenkapital 31.12.2024 100 000 -12 881 87 119
+Arsresultat 0 -1 308 -1 308
+Egenkapital 31.12.2025 100 000 -14 189 85 811
+
+Arsregnskap for
+991918019
+Regnskapsar
+01.01.2025 - 31.12.2025
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/document-check/7aec05a9-0c0e-4824-8a7d-002f1 ad4c6eda www. vismasign.com
+
+SAGO AS
+
+991 918 019
+
+Resultatregnskap
+
+Note 2025 2024
+
+Driftsinntekter
+
+Salgsinntekt 368 988 437 081
+
+Sum driftsinntekter 368 988 437 081
+
+Driftskostnader
+
+Varekostnad -8 917 -1 786
+
+Lg@nnskostnad 1,2 -273 258 -306 387
+
+Annen driftskostnad -88 121 -132 083
+
+Sum driftskostnader -370 297 -440 257
+
+Driftsresultat -1 308 -3 176
+
+Arsresultat -1 308 -3 176
+
+Overforinger
+
+Udekket tap -1 308 -3 176
+
+Sum overferinger -1 308 -3 176
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/document-check/7aec05a9-0c0e-4824-8a7d-002f1 ad4c6eda www. vismasign.com
+
+SAGO AS
+
+991 918 019
+
+Balanse
+
+Note 31.12.2025 31.12.2024
+
+EIENDELER
+
+Omlgpsmidler
+
+Fordringer
+
+Kundefordringer 78419 83 180
+
+Andre kortsiktige fordringer 1 159 1 439
+
+Sum fordringer 79 578 84 619
+
+Bankinnskudd, kontanter og lignende
+
+Bankinnskudd, kontanter og lignende 77678 131118
+
+Sum bankinnskudd, kontanter og lignende 77 678 131 118
+
+Sum omlgpsmidler 157 256 215 736
+
+SUM EIENDELER 157 256 215 736
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/document-check/7aec05a9-0c0e-4824-8a7d-002f1 ad4c6eda www. vismasign.com
+
+SAGO AS
+991 918 019
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 3 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+Udekket tap 3 -14 189 -12 881
+Sum opptjent egenkapital -14 189 -12 881
+Sum egenkapital 85 811 87 119
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 9011 40 684
+Skyldige offentlige avgifter 35 039 34 259
+Annen kortsiktig gjeld 27 395 53 674
+Sum kortsiktig gjeld 71 445 128 617
+Sum gjeld 71 445 128 617
+SUM EGENKAPITAL OG GJELD 157 256 215 736
+Marianne Holen
+styrets leder / daglig leder
+
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/document-check/7aec05a9-0c0e-4824-8a7d-002f1 ad4c6eda www. vismasign.com

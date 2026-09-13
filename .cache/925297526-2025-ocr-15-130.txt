@@ -1,0 +1,440 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 625759
+Virksomheten
+Organisasjonsnummer : 925 297 526
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: LUMEN DECOY AS
+Forretningsadresse: c/o Arkitektkollegiet v/Mikkelsen
+Munkegata 17
+7013 TRONDHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Elisabeth Lilleby
+Dato for fastsettelse av Aarsregnskapet: 29.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 925 297 526
+
+LUMEN DECOY AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 5 039 6 909
+
+Sum kostnader 5 039 6 909
+
+Driftsresultat -5 039 -6 909
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 0 0
+
+Resultat fer skattekostnad -5 039 -6 909
+
+Arsresultat -5 039 -6 909
+
+Arsresultat etter
+
+minoritetsinteresser -5 039 -6 909
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -5 039 -6 909
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -5 039 -6 909
+
+Sum overferinger og
+
+disponeringer -5 039 -6 909
+Utskriftsdato 02.07.2026 Organisasjonsnr 925 297 526 Side 1 av 3
+
+Organisasjonsnr: 925 297 526
+
+LUMEN DECOY AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 274 23
+
+Sum bankinnskudd,
+
+kontanter og lignende 274 23
+
+Sum omlepsmidler 274 23
+
+SUM ELENDELER 274 23
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital -5 570 -5 570
+
+Sum innskutt egenkapital 24 430 24 430
+
+Opptjent egenkapital
+
+Udekket tap 54 656 49 617
+
+Sum opptjent egenkapital -54 656 -49 617
+Utskriftsdato 02.07.2026 Organisasjonsnr 925 297 526 Side 2 av 3
+
+Sum egenkapital -30 226 -25 187
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 fe]
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 30 500 25 210
+
+Sum kortsiktig gjeld 30 500 25 210
+
+Sum gjeld 30 500 25 210
+
+SUM EGENKAPITAL OG GJELD 274 23
+Utskriftsdato 02.07.2026 Organisasjonsnr 925 297 526 Side 3 av 3
+
+Organisasjonsnr: 925 297 526
+
+LUMEN DECOY AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Trondheim
+
+Virksomhetens art
+
+Utvikling og salg av utstyr til
+
+oppdrettsneringen.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Styret vurderer det som riktig a avlegge arsregnskapet under forutsetning om
+fortsatt drift, da det er
+
+planlagt tiltak for 4a styrke selskapets ekonomi.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+4
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregns kap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Ja
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger A
+fealge unntaksregelen i regnskapslovens § 3-2 (3).
+
+Arsregnskap 2025
+Lumen Decoy AS
+(925 297 526)
+Lumen Decoy AS Arsregnskap Side 1 av5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 5 039 6 909
+Sum driftskostnader 5 039 6 909
+Driftsresultat -5039 -6909
+Resultat for skatt -5039 -6909
+Arsresultat -5039 -6909
+Overforinger og disponeringer
+
+Udekket tap -5 039 -6 909
+Sum overferinger og disponeringer -5 039 -6 909
+
+Lumen Decoy AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 274 23
+Sum omlepsmidier 274 23
+Sum eiendeler 274 23
+Lumen Decoy AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital -5 570 -§ 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+
+Udekket tap -54656 -49617
+Sum opptjent egenkapital -54656 -49617
+Sum egenkapital -30226 -25187
+Gijeld
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 30 500 25 210
+Sum kortsiktig gjeld 30 500 25 210
+Sum gjeld 30500 25210
+Sum egenkapital og gjeld 274 23
+
+Lumen Decoy AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Trondheim
+Virksomhetens art
+Utvikling og salg av utstyr til oppdrettsnzeringen.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er planlagt tiltak for a styrke selskapets okonomi.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Note 4: Konsern
+Virksomheten er et datterselskap. Virksomheten utarbeider ikke konsernregnskap, herunder
+konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a falge
+unntaksregelen i regnskapslovens § 3-2 (3).
+
+Lumen Decoy AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Bard Magnus Mikkelsen <borre@lumendecoy.com>
+Elektronisk signering
+BARD MAGNUS MIKKELSEN ELISABETH LILLEBY
+20.04.1980 - Styremediem 12.12.1978 - Styreleder
+Y) Signert Y) Signert
+30.06.2026 16:03 === bankID 30.06.2026 16:24 === bankID
+DAG VONGRAVEN
+25.11.1959 - Daglig leder
+Y) Signert
+30.06.2026 16:09 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 30.06.2026 16:02:03

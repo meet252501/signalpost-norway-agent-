@@ -1,0 +1,477 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 643555
+Virksomheten
+Organisasjonsnummer : 989 134 914
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: USH AS
+Forretningsadresse: John Colletts allé 81G
+0854 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ulrikke Trydal
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 06.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 134 914
+
+USH AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREKNESKAP
+
+Inntekter
+
+Annen driftsinntekt 2, 3 37 500
+
+Annen finansinntekt 2 3 052 400 3 070 000
+
+Gevinst ved salg av aksjer 3 1110 063 139 592
+
+Verdiregulering andre
+
+finansielle omlepsmidler 3 -528 904 572 653
+
+Sum inntekter 3 671 059 3 782 245
+
+Kostnader
+
+Nedskrivning av
+
+finansielle omlepmidler 3
+
+Annen driftskostnad 4 71 684 95 386
+
+Sum kostnader 71 684 95 386
+
+Driftsresultat 3 599 375 3 686 860
+
+Finansinntekter og
+
+finanskostnader
+
+Mottatt utbytte 2
+
+Anna renteinntekt 52 680 101 621
+
+Annen finansinntekt 7 498 10 113
+
+Gevinst/tap ved salg av
+
+finansielle omlepsmidler 3
+
+Inntekt pa andre
+
+investeringer 3
+
+Sum finansinntekter 60 179 111 734
+
+Verdiregulering andre
+
+finansielle omlepsmidler 3
+
+Annen finanskostnad 3 44 908 122 909
+
+Sum finanskostnader 44 908 122 909
+
+Netto finans 15 270 -11 175
+
+Resultat for skattekostnad 3 614 645 3 675 685
+
+Skattekostnad pa resultat 5
+
+Arsresultat 3 614 645 3 675 685
+
+Arsresultat etter
+
+minoritetsinteresser 3 614 645 3 675 685
+
+Totalresultat 3 614 645 3 675 685
+
+Overferingar og
+
+disponeringar
+
+Ordinert utbytte 1 000 000 1 000 000
+
+Konsernbidrag 2 614 645 2 675 685
+Utskriftsdato 06.07.2026 Organisasjonsnr 989 134 914 Side 1 av 4
+
+Sum overferingar og
+disponeringar 6 3 614 645 3 675 685
+Utskriftsdato 06.07.2026 Organisasjonsnr 989 134 914 Side 2 av 4
+
+Organisasjonsnr: 989 134 914
+
+USH AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIGEDELAR
+
+Anleggsmiddel
+
+Imnaterielle eigedelar
+
+Utsett skattefordel 5
+
+Varige driftsmiddel
+
+Tomter, bygninger og
+
+annen fast eiendom 7 4 000 000 1 050 000
+
+Sum varige driftsmiddel 4 000 000 1 050 000
+
+Finansielle anleggsmiddel
+
+Investeringar i tilknytt
+
+selskap 2 1 631 359 1 631 359
+
+Investering i aksjer og
+
+andeler 601 448 601 448
+
+Andre langsiktige
+
+fordringer 100 000 100 000
+
+Sum finansielle
+
+anleggsmiddel 2 332 807 2 332 807
+
+Sum anleggsmiddel 6 332 807 3 382 807
+
+Omlepsmiddel
+
+Varer
+
+Krav
+
+Andre kortsiktige
+
+fordringer 4 575 956 654 152
+
+Sum krav 575 956 654 152
+
+Investeringar
+
+Aksjar og partar i
+
+foretak i same konsern 3
+
+Marknadsbaserte aksjar 3
+
+Andre markedsbaserte
+
+finansielle instrumenter 3 2 874 728 3 617 814
+
+Sum investeringar 2 874 728 3 617 814
+
+Bankinnskot, kontantar og
+
+liknande
+
+Bankinnskudd, kontanter o.
+
+1. 899 011 747 O15
+
+Sum bankinnskot,
+
+kontantar og liknande 899 011 747 O15
+
+Sum omlepsmiddel 4 349 695 5 018 981
+
+SUM EIGEDELAR 10 682 502 8 401 788
+Utskriftsdato 06.07.2026 Organisasjonsnr 989 134 914 Side 3 av 4
+
+BALANSE - EIGENKAPITAL OG
+
+GJELD
+
+Eigenkapital
+
+Innskoten eigenkapital
+
+Selskapskapital 8 150 000 150 000
+
+Overkurs 479 859 479 859
+
+Sum innskoten eigenkapital 629 859 629 859
+
+Opptent eigenkapital
+
+Annen egenkapital 9 036 018 6 766 373
+
+Sum opptent eigenkapital 9 036 018 6 766 373
+
+Sum eigenkapital 6 9 665 877 7 396 232
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsett skatt 5
+
+Anna langsiktig gjeld
+
+Kortsiktig gjeld
+
+Betalbar skatt 5
+
+Foreslatt utbytte 6 1 000 000 1 000 000
+
+Annen kortsiktig gjeld 16 625 5 556
+
+Sum kortsiktig gjeld 1 016 625 1 005 556
+
+Sum gjeld 1 016 625 1 005 556
+
+SUM EIGENKAPITAL OG GJELD 10 682 502 8 401 788
+Utskriftsdato 06.07.2026 Organisasjonsnr 989 134 914 Side 4 av 4
+
+Organisasjonsnr: 989 134 914
+
+USH AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Tal pa Aarsverk i rekneskapsaret
+
+0.00
+
+Arsoppgjer for
+USH AS
+Org.nr. 989 134 914
+2025
+
+Ush AS
+Resultatregnskap
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER NOTER 2025 2024
+Annen driftsinntekt 2,3 37 500 0
+Annen finansinntekt 2 3 052 400 3 070 000
+Gevinst ved salg av aksjer 3 1 110 063 139 592
+Verdiregulering andre finansielle omlgpsmidler 3 -528 904 572 653
+Sum driftsinntekter 3 671 059 3 782 245
+Annen driftskostnad 4 71 684 95 386
+Sum driftskostnader 71 684 95 386
+Driftsresultat 3 599 375 3 686 860
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 52 680 101 621
+Annen finansinntekt 7 498 10 113
+Annen finanskostnad 3 -44 908 -122 909
+Netto finansresultat 15 270 -11 175
+Ordinzrt resultat for skattekostnad 3 614 645 3 675 685
+Skattekostnad pa resultat 5 0 0
+Resultat 3 614 645 3 675 685
+ARSRESULTAT 3 614 645 3 675 685
+OVERFORINGER
+
+Avsatt til annen egenkapital 2 614 645 2 675 685
+Foreslatt utbytte 1 000 000 1 000 000
+Sum overferinger 6 3 614 645 3 675 685
+
+Ush AS
+Balanse pr. 31.desember
+
+NOTER 2025 2024
+Anleggsmidler
+Tomter, bygninger og annen fast eiendom 7 4 000 000 1 050 000
+Sum varige driftsmidler 4 000 000 1 050 000
+Finansielle anleggsmidler
+Investeringer i tilknyttet selskap 2 1 631 359 1 631 359
+Investering i aksjer og andeler 601 448 601 448
+Andre langsiktige fordringer 100 000 100 000
+Sum finansielle anleggsmidler 2 332 807 2 332 807
+Sum anleggsmidler 6 332 807 3 382 807
+Omilepsmidler
+Fordringer
+Andre kortsiktige fordringer 4 575 956 654 152
+Sum fordringer 575 956 654 152
+Andre markedsbaserte finansielle instrumenter 3 2 874 728 3 617 814
+Sum investeringer 2 874 728 3 617 814
+Bankinnskudd, kontanter o.I. 899 011 747 015
+Sum omlepsmidier 4349 695 5 018 981
+SUM EIENDELER 10 682 502 8 401 788
+GJELD OG EGENKAPITAL
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 8 150 000 150 000
+Overkurs 479 859 479 859
+Sum innskutt egenkapital 629 859 629 859
+Opptjent egenkapital
+Annen egenkapital 9 036 018 6 766 373
+Sum opptjent egenkapital 9 036 018 6 766 373
+Sum egenkapital 6 9 665 877 7 396 232
+Gjeld
+Annen langsiktig gjeld
+Kortsiktig gjeld
+Foreslatt utbytte 6 1 000 000 1 000 000
+Annen kortsiktig gjeld 16 625 5 556
+Sum kortsiktig gjeld 1 016 625 1 005 556
+Sum gjeld 1 016 625 1 005 556
+SUM GJELD OG EGENKAPITAL 10 682 502 8 401 788
+
+Oslo, 30.06.2026
+Styret i Ush AS
+Mass Anders Hus
+styreleder
+
+Ush AS
+Noter til regnskapet 2025
+
+Note 1 Regnskapsprinsipper
+Arsregnskapet er utarbeidet i samsvar med regnskapsloven av 1998 og god regnskapsskikk for sma foretak i Norge.
+Selskapet driver med Investeringer i aksjer og fast eiendom samt radgivning og er lokalisert i Oslo.
+Inntekter
+Inntekt regnskapsferes nar den er opptjent, altsa nar krav pa vederlag oppstar. Dette skjer nar tjenesten ytes, i takt med
+at arbeidet utfares. Inntektene regnskapsferes med verdien av vederlaget pa transaksjonstidspunktet.
+Kostnader
+Kostnader regnskapsfgres som hovedregel i samme periode som tilhgrende inntekt. | de tilfeller det ikke er en klar
+sammenheng mellom utgifter og inntekter fastsettes fordelingen etter skjannsmessige kriterier. @vrige unntak fra
+sammenstillingsprinsippet er angitt der det er aktuelt.
+Skatter
+Skattekostnaden sammenstilles med regnskapsmessig resultat for skatt. Skatt knyttet til egenkapitaltransaksjoner, for
+eksempel konsernbidrag, fares mot egenkapitalen.
+Skattekostnaden bestar av betalbar skatt (skatt pa arets direkte skattepliktige inntekt} og endring i netto utsatt skatt.
+Skattekostnaden fordeles pa ordinzert resultat og virkning av prinsippendring og korrigering av feil i henhold til
+skattegrunnlaget. Utsatt skatt og utsatt skattefordel er presentert netto i balansen.
+Hovedregel for vurdering og klassifisering av eiendeler og gjeld
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer som skal tilbakebetales innen et ar er klassifisert som omlapsmidler. Ved klassifisering av
+kortsiktig og langsiktig gjeld er tilsvarende kriterier lagt til grunn.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til gjenvinnbart belap dersom dette er lavere enn bokfart
+verdi, og verdifallet forventes ikke a vzere forbigaende. Anleggsmidler med begrenset gkonomisk levetid avskrives
+planmessig.
+Aksjer og andeler i tilknyttet selskap og datterselskap
+Investeringer i datterselskaper vurderes etter kostmetoden. Investeringene blir nedskrevet til virkelig verdi dersom
+verdifallet ikke er forbigaende og det ma anses nadvendig etter god regnskapsskikk. Mottatt utbytte og konsembidrag fra
+datterselskapene er inntektsfart som annen finansinntekt. Tilsvarende gjelder for investeringer i tilknyttede selskaper og
+andre andeler i aksjeselskap.
+Fordringer
+Kundefordringer og andre fordringer er oppfart til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjares pa grunnlag av en individuell vurdering av de enkelte fordringer.
+Bankinnskudd, Kontanter og lignende
+Bankinnskudd, kontanter ol. inkluderer kontanter, bankinnskudd og andre betalingsmidler med
+forfallsdato som er kortere enn tre maneder fra anskaffelse.
+Note 2 Datterselskap, tilknyttet selskap m.v.
+Selskap Forretnings- Eierandel Egenkapital Resultat 2025 Mottatt
+
+konto 31.12.2025 aksjeutbytte
+Mass Hus AS Kinsarvik 44 % 30 252 334 7 818 305 1 800 000
+Mass Hus Eigedom AS Kinsarvik 50 % 1573 489 1 748 471 1 050 000
+Sum 31 825 823 9 566 776 2 850 000
+
+Ush AS
+Noter til regnskapet 2025
+Note 3 Investering i markedsbaserte finansielle instrumenter
+Periodens
+Anskaffelses- Virkelig resultatforte Arets Arets
+kost verdi verdiendring realiserte realiserte
+gevinst tap
+Omlepsmidler
+Verdipapirer via Soaderberg & Partners 0 0 -711 306 837 894 22 575
+Verdier via Pensum Asset Management 2 000 000 2 058 237 58 237 266 287 0
+Verdipapirer via Nordnet 775 855 816 492 124 166 5 882 10 467
+Sum 2 775 855 2 874 728 -528 903 1 110 063 33 042
+Det er motatt kr 1 189 utbytte fra markedsbaserte verdipapirer i 2025.
+Note 4 Lonnskostnader og ytelser, godtgjorelser til daglig leder og styret
+Selskapet har i 2025 ingen ansatte og har ikke utbetalt lonn eller andre ytelser til selskapets styre.
+Pensjonsforpliktelser
+Selskapet har ingen ansatte og er ikke pliktig til a ha tjenestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+Note 5 Skatt
+Arets skattekostnad fordeler seg pa: 2025 2024
+Betalbar skatt 0 0
+Sum skattekostnad 0 0
+Beregning av arets skattegrunnlag: 2025 2024
+Resultat for skattekostnad 3 614 645 3 675 685
+Permanente forskjeller -3 460 291 -3 557 179
+Anvendelse av fremfgrbart underskudd -154 354 -118 506
+Arets skattegrunnlag 0 0
+Note 6 Egenkapital
+Annen Sum
+Aksjekapital Overkurs egenkapital egenkapital
+Pr 01.01.2025 150 000 479 859 6 766 373 7 396 232
+Arets resultat 0 0 3 614 645 3 614 645
+Tilleggsutbytte 0 0 -345 000 -345 000
+Avsatt utbytte 0 0 -1 000 000 -1 000 000
+Pr 31.12.2025 150 000 479 859 9 036 018 9 665 877
+
+Ush AS
+Noter til regnskapet 2025
+Note 7 Varige driftsmidler
+Tomter, bygninger
+o.a. fast eiendom Totalt
+Anskaffelseskost 01.01.2025 1 050 000 1 050 000
+Avgang 15% av leilighet ved Laren Park -1050000 -1050000
+Tilgang 70% av Knipenveien 42 4000000 4000000
+Anskaffelseskost 31.12.2025 4000000 4000000
+Bokfort verdi 31.12.2025 4000000 4000000
+Avskrivningssatser 0%
+Selskapets driftsmidler er boliger som ikke avskrives
+Note 8 Aksjonzrer
+Aksjekapitalen i Ush AS pr. 31.12.2025 bestar av:
+Antall Palydende Bokfert
+
+Ordineere aksjer 100 1 500 150 000
+Sum 100 1 500 150 000
+Eierstruktur:
+
+Verv Antall Eierandel Stemmeandel
+Mass Anders Hus styreleder 100 100% 100%
+Totalt antall aksjer 100 100% 100%
+Navn Verv Ordinere
+Mass Anders Hus styreleder 100
+Totalt antall aksjer 100
+
+€ Securely signed with Brevio
+This document is electronically signed and sealed with Brevio under elDAS,
+valid in all EU states. Signatures comply with eIDAS and PAdES standards.
+The identities of the signers are listed below:
+2026-07-02 18:45:26 UTC+02:00
+Mass Anders Hus
+=== bankID
+NO BankiD - 9578-5997-4-1668712
+UV This document package contains: OQ. Electronic signatures are not
+. Closing page (this page) visible but digitally integrated.

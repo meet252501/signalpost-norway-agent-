@@ -1,0 +1,402 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 640989
+Virksomheten
+Organisasjonsnummer : 917 474 583
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: @ST1 EIENDOM AS
+Forretningsadresse: Sarpsborgveien 684
+1894 RAKKESTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kristian Heen Degnes
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 04.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 917 474 583
+
+@ST1 EIENDOM AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 31 000
+
+Annen driftsinntekt 655 250 492 700
+
+Sum inntekter 686 250 492 700
+
+Kostnader
+
+Lennskostnad 2
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 3
+
+Annen driftskostnad 143 545 269 786
+
+Sum kostnader 143 545 269 786
+
+Driftsresultat 542 705 222 914
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 10 743 13 127
+
+Sum finansinntekter 10 743 13 127
+
+Annen rentekostnad 276 376 299 496
+
+Sum finanskostnader 276 376 299 496
+
+Netto finans -265 633 -286 369
+
+Resultat fer skattekostnad 277 O72 -63 455
+
+Skattekostnad pa resultat 4 60 860 -14 095
+
+Arsresultat 216 212 -49 360
+
+Arsresultat etter
+
+minoritetsinteresser 216 212 -49 360
+
+Totalresultat 216 212 -49 360
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 216 212
+
+Overfert fra annen
+
+egenkapital -49 360
+
+Sum overferinger og
+
+disponeringer 216 212 -49 360
+Utskriftsdato 04.07.2026 Organisasjonsnr 917 474 583 Side 1 av 3
+
+Organisasjonsnr: 917 474 583
+
+@ST1 EIENDOM AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 3 5 725 360 5 725 360
+
+Maskiner og anlegg 3
+
+Skip og flytende
+
+installasjoner 3
+
+Driftslesere, inventar o.
+
+a. utstyr 3
+
+Sum varige driftsmidler 3 5 725 360 5 725 360
+
+Sum anleggsmidler 5 725 360 5 725 360
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 2 651
+
+Sum fordringer 2 651
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 91 585 441 601
+
+Sum bankinnskudd,
+
+kontanter og lignende 91 585 441 601
+
+Sum omlepsmidler 91 585 444 251
+
+SUM ELENDELER 5 816 945 6 169 612
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5 30 000 30 000
+
+Beholdning av egne aksjer 5
+
+Annen innskutt egenkapital 490 000 490 000
+
+Sum innskutt egenkapital 520 000 520 000
+
+Opptijent egenkapital
+
+Annen egenkapital 395 936 179 725
+Utskriftsdato 04.07.2026 Organisasjonsnr 917 474 583 Side 2 av 3
+
+Sum opptjent egenkapital 395 936 179 725
+
+Sum egenkapital 915 936 699 725
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 3 815 672 4 048 383
+
+Sum annen langsiktig gjeld 3 815 672 4 048 383
+
+Sum langsiktig gjeld 3 815 672 4 048 383
+
+Kortsiktig gjeld
+
+Betalbar skatt 4 60 860 801
+
+Kortsiktig konserngjeld 1 023 757 1 419 707
+
+Annen kortsiktig gjeld 719 995
+
+Sum kortsiktig gjeld 1 085 336 1 421 503
+
+Sum gjeld 4 901 009 5 469 887
+
+SUM EGENKAPITAL OG GJELD 5 816 945 6 169 612
+Utskriftsdato 04.07.2026 Organisasjonsnr 917 474 583 Side 3 av 3
+
+Organisasjonsnr: 917 474 583
+
+@ST1 EIENDOM AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+RESULTATREGNSKAP |
+@ST1 EIENDOM AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 31 000 0
+Annen driftsinntekt 655 250 492 700
+Sum driftsinntekter 686 250 492 700
+Annen driftskostnad 143 545 269 786
+Sum driftskostnader 143 545 269 786
+Driftsresultat 542 705 222 914
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 10 743 13 127
+Annen rentekostnad 276 376 299 496
+Resultat av finansposter -265 633 -286 369
+Resultat for skattekostnad 277 072 -63 455
+Skattekostnad pa resultat 4 60 860 -14 095
+Arsresultat | 216 212| -49 360
+OVERF@RINGER
+
+Avsatt til annen egenkapital 216 212 0
+Overfgrt fra annen egenkapital 0 49 360
+Sum overfgringer 216 212 -49 360
+@ST1 EIENDOM AS SIDE 1
+
+BALANSE |
+
+@ST1 EIENDOM AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+Tomter, bygninger o.a. fast eiendom 3 5 725 360 5 725 360
+Sum varige driftsmidler 3 5 725 360 5 725 360
+FINANSIELLE ANLEGGSMIDLER
+Sum anleggsmidler 5 725 360 5 725 360
+OML@PSMIDLER
+FORDRINGER
+Andre kortsiktige fordringer 0 2651
+Sum fordringer 0 2651
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 91 585 441 601
+Sum omlgpsmidler 91 585 444 251
+Sum eiendeler 5 816 945 6 169 612
+@ST1 EIENDOM AS SIDE 2
+
+BALANSE |
+
+@ST1 EIENDOM AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 5 30 000 30 000
+Annen innskutt egenkapital 490 000 490 000
+Sum innskutt egenkapital 520 000 520 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 395 936 179 725
+Sum opptjent egenkapital 395 936 179 725
+Sum egenkapital 915 936 699 725
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Gjeld til kredittinstitusjoner 3 815 672 4 048 383
+Sum annen langsiktig gjeld 3 815 672 4 048 383
+KORTSIKTIG GJELD
+Betalbar skatt 4 60 860 801
+Konserngjeld 1023 757 1 419 707
+Annen kortsiktig gjeld 719 995
+Sum kortsiktig gjeld 1 085 336 1 421 503
+Sum gijeld 4901 009 5 469 887
+Sum egenkapital og gjeld 5 816 945 6 169 612
+
+Rakkestad, 30.06.2026
+
+Styret i st1 Eiendom AS
+
+Kristian Heen Degnes
+
+styreleder/daglig leder
+@ST1 EIENDOM AS SIDE 3
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets @konomiske levetid.
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart beldp ved
+verdifall som forventes ikke a vzere forbigaende. Gjenvinnbart belgp er det hayeste av netto salgsverdi og
+verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstra@mmer knyttet til eiendelen. Nedskrivingen
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Note 1 Virksomhetens art og lokalisering
+@st1 Eiendom AS er et selskap der virksomheten omfatter Utleie av egen eller leid fast eiendom. Selskapet
+er lokalisert i Rakkestad kommune.
+Note 2 Lonnskostnader
+Q@st1 Eiendom AS har ikke hatt lgnns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Note 3 Anleggsmidler
+Bygninger Maskiner Sum
+og tomter og anlegg
+
+Anskaffelseskost pr. 01.01.25 5 725 360 5 725 360
+= Anskaffelseskost 31.12.25 5 725 360 5 725 360
+= Bokfgrt verdi 31.12.25 5 725 360 5 725 360
+
+PDkonomisk levetid 5 ar
+
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 60 860 801
+Endring i utsatt skattefordel 0 -14 896
+Skattekostnad ordinzert resultat 60 860 -14 095
+Skattepliktig inntekt:
+Resultat for skatt 277072 -63 455
+Permanente forskjeller -434 -611
+Endring i midlertidige forskjeller ) 67 707
+Skattepliktig inntekt 276 638 3641
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 60 860 801
+Sum betalbar skatt i balansen 60 860 801
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte skattefordeler,
+spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Utsatt skatt (22 %) 0 0 0
+Note 5 Aksjonzrer
+AKSJEKAPITALEN | @ST1 EIENDOM AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+Ordinzere aksjer 300 100,0 30 000
+Sum 300 30 000
+EIERSTRUKTUR
+Aksjonzerer i % pr. 31.12:
+Ordinzre Eierandel Stemmeandel
+Kame Invest AS 300 100,0 100,0

@@ -1,0 +1,390 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 432427
+Virksomheten
+Organisasjonsnummer : 935 263 956
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ANCALIMA AS
+Forretningsadresse: His alle 31
+4817 HIS
+Regnskapsar
+Arsregnskapets periode: 13.02.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Marius Mgrner Staurset
+Dato for fastsettelse av arsregnskapet: 08.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 11.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 935 263 956
+
+ANCALIMA AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 1 024 0
+
+Sum kostnader 1 024 0
+
+Driftsresultat -1 024 0
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+deltakerlignede selskap 1 692 830 0
+
+Annen renteinntekt 458 0
+
+Annen finansinntekt 400 000 0
+
+Sum finansinntekter 2 093 288 0
+
+Sum finanskostnader e) e)
+
+Netto finans 2 093 288 e)
+
+Resultat fer skattekostnad 2 092 264 0
+
+Skattekostnad 1 373 508 0
+
+Arsresultat 1 718 756 0)
+
+Annen egenkapital 2 1 718 756 0
+Utskriftsdato 11.05.2026 Organisasjonsnr 935 263 956 Side 1 av 3
+
+Organisasjonsnr: 935 263 956
+ANCALIMA AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 3 1 692 830 0)
+Sum finansielle
+anleggsmidler 1 692 830 0
+Sum anleggsmidler 1 692 830 0
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 500 000 0
+Sum fordringer 500 000 0
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 922 934 0
+Sum bankinnskudd,
+kontanter og lignende 922 934 0
+Sum omlepsmidler 1 422 934 0
+SUM EILENDELER 3.115 764 0
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 2, 4 30 000 0
+Annen innskutt egenkapital 2 0 0
+Sum innskutt egenkapital 30 000 0
+Opptjent egenkapital
+
+Utskriftsdato 11.05.2026 Organisasjonsnr 935 263 956 Side 2 av 3
+
+Annen egenkapital 2 1 712 256 0
+
+Udekket tap 2 0 0
+
+Sum opptjent egenkapital 1 712 256 0
+
+Sum egenkapital 1 742 256 0
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 5 1 000 000 0
+
+Sum annen langsiktig gjeld 1 000 000 0
+
+Kortsiktig gjeld
+
+Betalbar skatt 1 373 508 0)
+
+Sum kortsiktig gjeld 373 508 0
+
+Sum gjeld 1 373 508 0
+
+SUM EGENKAPITAL OG GJELD 3 115 764 0
+Utskriftsdato 11.05.2026 Organisasjonsnr 935 263 956 Side 3 av 3
+
+Organisasjonsnr: 935 263 956
+
+ANCALIMA AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Eiendeler som er knyttet til varekretslepet er klassifisert
+
+som omlepsmidler. Fordringer klassifiseres som oml@psmidler hvis de
+forfaller til betaling innen ett ar etter transaksjonsdagen.
+
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig
+gjeld balansefores til nominelt belgp pa etableringstidspunktet.
+Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig
+verdi ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld
+med unntak av andre avsetninger balanseferes til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024
+
+til 2025.
+
+Virksomhetens art og tilholdssted
+
+Selskapet driver med
+
+investering 1 aksjer og verdipapirer i Arendal.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+5
+
+Gjeld
+
+Gjeld som forfaller til betaling mer enn fem ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+
+Balansefert verdi av de pantsatte eiendeler
+
+Summen av garantiforpliktelser som ikke er regnskapsfort
+Garantiforpliktelser som er sikret ved pant
+
+Mer om gjeld
+
+Selskapet har gjeld til aksjoner pa kr 1 000 000.
+Gjelden er ikke
+
+renteberegnet.
+
+Arsregnskap for
+ANCALIMA AS
+935263956
+Regnskapsar
+13.02.2025 - 31.12.2025
+
+BankiD Qualified Signing
+
+ANCALIMA AS Sona ae oes Baust
+935 263 956
+Resultatregnskap
+
+Note 13.02 - 31.12.2025
+Driftskostnader
+Annen driftskostnad -1 024
+Sum driftskostnader -1 024
+Driftsresultat -1 024
+Finansinntekter
+Inntekt pa investering i deltakerlignede selskap 1 692 830
+Annen renteinntekt 458
+Annen finansinntekt 400 000
+Sum finansinntekter 2 093 288
+Netto finans 2 093 288
+Resultat for skattekostnad 2 092 264
+Skattekostnad 1 -373 508
+Arsresultat 1718 756
+Overforinger
+Annen egenkapital 2 1718 756
+Sum overferinger 1718 756
+
+BankiD Qualified Signing
+
+ANCALIMA AS 5006 0508
+935 263 956
+Balanse
+
+Note 31.12.2025
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer i aksjer og andeler 3 1 692 830
+Sum finansielle anleggsmidler 1 692 830
+Sum anleggsmidler 1 692 830
+Omlgpsmidler
+Fordringer
+Andre kortsiktige fordringer 500 000
+Sum fordringer 500 000
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 922 934
+Sum bankinnskudd, kontanter og lignende 922 934
+Sum omlgpsmidler 1 422 934
+SUM EIENDELER 3115 764
+
+BankiD Qualified Signing
+
+ANCALIMA AS 5006 0508
+935 263 956
+Balanse
+
+Note 31.12.2025
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 2,4 30 000
+Sum innskutt egenkapital 30 000
+Opptjent egenkapital
+Annen egenkapital 2 1 712 256
+Sum opptjent egenkapital 1712 256
+Sum egenkapital 1 742 256
+Gjeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 5 1 000 000
+Sum annen langsiktig gjeld 1 000 000
+Kortsiktig gjeld
+Betalbar skatt 1 373 508
+Sum kortsiktig gjeld 373 508
+Sum gjeld 1 373 508
+SUM EGENKAPITAL OG GJELD 3115 764
+HIS, 08.05.2026
+Marius Mgrner Staurset
+styrets leder
+
+BankiD Qualified Signing
+ANCALIMA AS 5006 0508
+935 263 956
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+Eiendeler som er knyttet til varekretslgpet er klassifisert som omlg@psmidler. Fordringer klassifiseres som
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Virksomhetens art og tilholdssted
+Selskapet driver med investering i aksjer og verdipapirer i Arendal.
+Antall arsverk
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+
+BankiD Qualified Signing
+ANCALIMA AS 5006 0508
+935 263 956
+Note 1 - Spesifisering av skatt
+13.02 -
+Skattekostnad 31.12.2025
+Betalbar skatt pa alminnelig inntekt 373 508 0
+Skattekostnad 373 508 0
+Skattepliktig inntekt
+Resultat for skatt 2 092 264 0
+Permanente forskjeller -394 500 0
+Skattepliktig inntekt 1 697 764 0
+Betalbar skatt i balansen
+Betalbar skatt pa arets resultat 373 508 0
+Betalbar skatt i balansen 373 508 0
+Note 2 - Egenkapital
+Opptjent
+Aksjekapital egenkapital sum
+Arsresultat 0 1718 756 1 718 756
+Kontantinnskudd/ tingsinnskudd 30 000 0 30 000
+Andre endringer 0 -6 500 -6 500
+Egenkapital 31.12.2025 30 000 1712 256 1 742 256
+Note 3 - Andel i deltakerlignet selskap
+Selskapet eier andel i Arendaladvokatene DA.
+Deltakers andel av arets inntekt fra selskapet utgj@r kr 1 692 830 i 2025 og er inntektsfart i regnskapet.
+Note 4 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordinzere 30 1 000 30 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+Marius Merner Staurset 30 100,00 Ordineere
+Note 5 - Gjeld og garantiforpliktelser
+Mer om gjeld
+Selskapet har gjeld til aksjonger pa kr 1 000 000.
+Gjelden er ikke renteberegnet.

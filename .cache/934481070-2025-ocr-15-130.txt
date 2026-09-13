@@ -1,0 +1,542 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 322435
+Enheten
+Organisasjonsnummer : 934 481 070
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: VESTLAND REGNSKAP AS
+Forretningsadresse: Furehogen 65
+6847 VASSENDEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Kenneth Jakobsen
+Dato for fastsettelse av arsregnskapet: 06.02.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 02.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 934 481 070
+
+VESTLAND REGNSKAP AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 933 750 0
+
+Sum inntekter 933 750 0
+
+Kostnader
+
+Varekostnad 365 000 0
+
+Lennskostnad 2, 3 142 619 5 000
+
+Annen driftskostnad 58 332 1 502
+
+Sum kostnader 565 951 6 502
+
+Driftsresultat 367 799 -6 502
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 1 180 71
+
+Sum finansinntekter 1 180 71
+
+Sum finanskostnader e) e)
+
+Netto finans 1 180 71
+
+Resultat fer skattekostnad 368 979 -6 432
+
+Skattekostnad 78 487 0
+
+Arsresultat 290 492 -6 432
+
+Arsresultat etter
+
+minoritetsinteresser 290 492 -6 432
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 290 492 -6 432
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 275 000 0
+
+Udekket tap 0 -6 432
+
+Overferinger til/fra
+
+annen egenkapital 15 492 0
+
+Sum overferinger og
+
+disponeringer 290 492 -6 432
+Utskriftsdato 02.03.2026 Organisasjonsnr 934 481 070 Side 1 av 3
+
+Organisasjonsnr: 934 481 070
+
+VESTLAND REGNSKAP AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Kundefordringer 68 750 0
+
+Andre kortsiktige
+
+fordringer 8 804 0
+
+Konsernfordringer 1 000 0
+
+Sum fordringer 78 554 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 421 857 17 784
+
+Sum bankinnskudd,
+
+kontanter og lignende 421 857 17 784
+
+Sum omlepsmidler 500 411 17 784
+
+SUM ELENDELER 500 411 17 784
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital 0 -5 784
+
+Sum innskutt egenkapital 30 000 24 216
+Utskriftsdato 02.03.2026 Organisasjonsnr 934 481 070 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 3 277 0
+
+Udekket tap 0 6 432
+
+Sum opptjent egenkapital 3 277 -6 432
+
+Sum egenkapital 33 277 17 784
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 18 316 0
+
+Betalbar skatt 78 487 0)
+
+Skyldig offentlige avgifter 81 395 0
+
+Utbytte 275 000 0
+
+Annen kortsiktig gjeld 13 936 0
+
+Sum kortsiktig gjeld 467 134 0
+
+Sum gjeld 467 134 0
+
+SUM EGENKAPITAL OG GJELD 500 411 17 784
+Utskriftsdato 02.03.2026 Organisasjonsnr 934 481 070 Side 3 av 3
+
+Organisasjonsnr: 934 481 070
+
+VESTLAND REGNSKAP AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Selskapet har
+
+ingen beholdning av egne aksjer pr 31.12.
+
+Virksomhetens sted:
+
+Vassenden
+
+Virksomhetens art
+
+Selge varer og tjenester innen
+regnskapsfering og annet som naturlig sammenfaller med dette samt
+deltakelse i andre selskaper, investeringer og nerliggende virksomhet.
+Note
+2
+Antall Aarsverk i regnskapsaret
+0.50
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+117600.00 0.00
+Folketrygqdavgift Arets Fjorarets
+13092.00
+Pensjonskostnader Arets Fjorarets
+4692.00
+Andre ytelser Arets Fljorarets
+7235.00 5000.00
+Sum_ lennskostnader Arets Fjorarets
+142619.00 5000.00
+Mer om arsverk og lenn
+Selskapet har ikke gitt lan eller sikkerhetsstillelser til ledende personer,
+aksjeeiere og lignende
+Note
+Ekstraordinezre inntekter og kostnader
+Sum Belgp
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+Note
+4
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Konsernregnskap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Ja
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger 4
+falge unntaksregelen i regnskapslovens § 3-2 (3).
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belep - foretak i samme konserm Arets Fjorarets
+1000.00
+Samlet belgep - tilknyttet selskap Arets Fjorarets
+Samlet belep - foretak i samme konsern Arets Fjorarets
+Kortsiktig gjeld
+Samlet belap - foretak i samme konsern Arets Fjorarets
+Samlet belep - felles kontrollert virksomhet Arets Fjorarets
+Pantstillelse Belgop
+Note
+Fordringer
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+Mer om fordringer
+Note
+Virkelig verdi og resultatfert verdiendr. i perioden, finansielle instrumenter
+Mer om finansielle instrumenter
+Beskrivelse av finansielle derivater
+Note
+
+Beholdning av_egne aksjer Antall Palydende Andel av _aksjek.
+Erverv
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Avhendelse
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Samvirkeforetak
+Vedtektsbestemmelser/arsmoetevedtak/forslag til vedtak om medlemskapskonti
+Mer om aksjer
+
+Arsregnskap 2025
+Vestland Regnskap AS
+(934 481 070)
+Vestland Regnskap AS Arsregnskap Side 1 av6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 933 750 0
+Sum driftsinntekter 933 750 0
+Driftskostnader
+
+Varekostnad 365 000 @)
+
+Lennskostnad 2,3 142 619 5 000
+
+Annen driftskostnad 58 332 1 502
+Sum driftskostnader 565 951 6 502
+Driftsresultat 367 799 -6 502
+Finansinntekter
+
+Annen renteinntekt 1180 71
+Sum finansinntekter 1180 71
+Netto finans 1180 71
+Resultat for skatt 368 979 -6 431
+Skattekostnad 78 487 0
+Arsresultat 290 492 -6 431
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 15 492 @)
+
+Ordingert utbytte 275 000 @)
+
+Udekket tap @) -6 432
+Sum overferinger og disponeringer 290 492 -6 432
+
+Vestland Regnskap AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Fordringer
+Andre kortsiktige fordringer 8 804 fe)
+Kundefordringer 68 750 @)
+Konsernfordringer, kortsiktig 1 000 0
+Sum fordringer 78 554 0
+Bankinnskudd, kontanter o.l. 421 857 17 784
+Sum omlepsmidier 500 411 17784
+Sum eiendeler 500 411 17784
+Vestland Regnskap AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 30 000 30 000
+Annen innskutt egenkapital @) -5 784
+Sum innskutt egenkapital 30 000 24 216
+Opptjent egenkapital
+Annen egenkapital 3277 0
+Udekket tap 0 -6 432
+Sum opptjent egenkapital 3277 -6 432
+Sum egenkapital 33277 17784
+Gijeld
+Kortsiktig gjeld
+Leverandergjeld 18 316 (@)
+Betalbar skatt 78 487 fe)
+Skyldig offentlige avgifter 81 395 @)
+Annen kortsiktig gjeld 13 936 0
+Avsatt utbytte 275 000 0
+Sum kortsiktig gjeld 467 134 0
+Sum gjeld 467 134 0
+Sum egenkapital og gjeld 500 411 17784
+Vestland Regnskap AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Selskapet har ingen beholdning av egne aksjer pr 31.12.
+Virksomhetens sted
+Vassenden
+Virksomhetens art
+Selge varer og tjenester innen regnskapsfering og annet som naturlig sammenfaller med dette
+samt deltakelse i andre selskaper, investeringer og nzerliggende virksomhet.
+Note 2: Arsverk
+Antall arsverk er 0,5.
+Note 3: Lonnskostnader
+
+2025 2024
+Lenn 117 600 @)
+Arbeidsgiveravgift 13 092 0
+Pensjon 4692 @)
+Andre ytelser 7 235 5 000
+Sum lonnskostnader 142 619 5 000
+Selskapet har ikke gitt lan eller sikkerhetsstillelser til ledende personer, aksjeeiere og lignende
+Vestland Regnskap AS Arsregnskap Side 5 av 6
+
+Note 4: Konsern
+
+Virksomheten er et datterselskap. Virksomheten utarbeider ikke konsernregnskap, herunder
+
+konsolidering av datter.
+
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a folge
+
+unntaksregelen i regnskapslovens § 3-2 (3).
+
+Fordringer og gjeld
+
+Mot foretak i samme konsern 2025 2024
+
+Fordringer 1 000 @)
+
+Kortsiktig gjeld @) @)
+
+Langsiktig gjeld O 0
+Vestland Regnskap AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Kenneth Jakobsen <kennethjakobsen@enivest.net>
+Elektronisk signering
+KENNETH JAKOBSEN (Daglig leder, Styreleder)
+05.05.1991
+© Signert
+23.02.2026 08:31 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 23.02.2026 08:31:14

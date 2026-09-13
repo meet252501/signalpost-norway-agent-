@@ -1,0 +1,576 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 395609
+Virksomheten
+Organisasjonsnummer : 927 237 539
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SIFR KAPITAL AS
+Forretningsadresse: c/o Fredrik Siebke
+Fjordgata 16B
+7010 TRONDHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Fredrik Siebke
+Dato for fastsettelse av arsregnskapet: 17.04.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 19.05.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 927 237 539
+
+SIFR KAPITAL AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 93 465 135 594
+
+Sum kostnader 93 465 135 594
+
+Driftsresultat -93 465 -135 594
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 9 159 1 780
+
+Annen finansinntekt 983 637 1 556 O81
+
+Verdigkning av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 24 138 309 2 997 838
+
+Sum finansinntekter 25 131 105 4 555 699
+
+Annen rentekostnad 4 145 0
+
+Annen finanskostnad 228 258 098
+
+Sum finanskostnader 4 373 258 098
+
+Netto finans 25 126 732 4 297 602
+
+Resultat fer skattekostnad 25 033 267 4 162 008
+
+Skattekostnad 2, 3 5 508 500 196 884
+
+Arsresultat 19 524 766 3 965 124
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 4 000 000 0
+
+Udekket tap 0 1 868 990
+
+Annen egenkapital 15 524 766 2 096 135
+Utskriftsdato 19.05.2026 Organisasjonsnr 927 237 539 Side 1 av 3
+
+Organisasjonsnr: 927 237 539
+SIFR KAPITAL AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investering i datterselskap 4 8 268 599 8 190 496
+Sum finansielle
+anleggsmidler 8 268 599 8 190 496
+Sum anleggsmidler 8 268 599 8 190 496
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 100 000 100 000
+Sum fordringer 100 000 100 000
+Investeringer
+Markedsbaserte aksjer 5 70 299 094 46 613 169
+Sum investeringer 70 299 9094 46 613 169
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 38 935 4 815
+Sum bankinnskudd,
+kontanter og lignende 38 935 4 815
+Sum omlepsmidler 70 438 029 46 717 985
+SUM ELENDELER 78 706 628 54 908 481
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 6, 7 51 500 000 51 500 000
+Annen innskutt egenkapital 7 -5 570 -5 570
+Sum innskutt egenkapital 51 494 430 51 494 430
+Opptjent egenkapital
+
+Utskriftsdato 19.05.2026 Organisasjonsnr 927 237 539 Side 2 av 3
+
+Annen egenkapital 7 17 620 901 2 096 135
+Udekket tap 7 0 0
+Sum opptjent egenkapital 7 17 620 901 2 096 135
+Sum egenkapital 69 115 331 53 590 565
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 5 283 279 0
+Sum avsetninger for
+forpliktelser 5 283 279 fe]
+Annen langsiktig gjeld
+Langsiktig konserngjeld 4 0 1 115 118
+Sum annen langsiktig gjeld 0 1115 118
+Kortsiktig gjeld
+Leverandergjeld 4 694 5 915
+Betalbar skatt 203 192 196 884
+Utbytte 4 000 000 0
+Kortsiktig konserngjeld 100 132 0
+Sum kortsiktig gjeld 4 308 018 202 799
+Sum gjeld 9 591 297 1 317 916
+SUM EGENKAPITAL OG GJELD 78 706 628 54 908 481
+Utskriftsdato 19.05.2026 Organisasjonsnr 927 237 539 Side 3 av 3
+
+Organisasjonsnr: 927 237 539
+
+SIFR KAPITAL AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Selskapet driver med forvaltning av verdipapirer og har sitt
+
+kontor 1 Trondheim.
+
+Eiendeler som er knyttet til varekretslepet er
+
+klassifisert som omlepsmidler. Fordringer klassifiseres som omlepsmidler
+hvis de forfaller til betaling innen ett ar etter transaksjonsdagen.
+Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til
+betaling innen ett ar.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belgep pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gje@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+Markedsbaserte finansielle omlepsmidler er vurdert til virkelig
+
+verdi pa balansedagen, med verdiendringer resultatfort. Leieavtaler er ikke
+balansefert. Fordringer og gjeld i utenlandsk valuta er verdsatt til kursen
+ved regnskapsarets slutt. Kursgevinster og kursstap i utenlandsk valuta
+feres som finansinntekt og finanskostnad. Kostmetoden er benyttet for
+investeringer i datterselskap/tilknyttet selskap. Utbytte er inntektsfort
+samme ar som det er avsatt i datterselskap/tilknyttet selskap, dersom det
+er sannsynlig at belepet vil mottas. Ved utbytte som overstiger andel av
+tilbakeholdt resultat etter kj@pet representerer den overskytende del
+tilbakebetaling av investert kapital, og er fratrukket investeringens verdi
+i balansen.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt skattemessig
+underskudd til fremfering ved utgangen av regnskapsaret. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er fastsatt og skattevirkningen er beregnet pa
+nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+
+2025.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+4
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregnskap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Nei
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+
+Annen langsiktig gjeld
+Samlet belep - foretak i samme konserm Arets Fjorarets
+
+0.00 1115118.00
+
+Note
+
+5
+
+Virkelig verdi og resultatfoert verdiendr. i perioden, finansielle instrumenter
+Eiendel Virk. verdi  Verdiendring
+Markedsbaserte aksjer 70299094.00 24136309.00
+Sum Virk. Verdi Verdiendring
+
+70299094.00 24136309.00
+
+Mer om finansielle instrumenter
+
+Markedsbaserte aksjer er vurdert til virkelig verdi
+
+Beskrivelse av finansielle derivater
+
+Nordnorsk Revisjon AS
+Statsautoriserte revisorer
+NORDNORSK REVISJON AS
+E-post: firmapost@nordnorskrevisjon.no
+Til general forsamlingen i Revisomummen 930.929 443
+| Sifr Kapital AS Godkjent regnskapsselskap
+| Svolvar
+Pastboks 3, 8301 Svolvaer
+| Telefon 76 06 89 60
+Leknes
+Bode
+Postboks 3, 8301 Svolvaer
+Telefon 91 73 45 59
+Bodg, 23.04.2026
+UAVHENGIG REVISORS BERETNING FOR 2025
+Konklusjon
+Vi har revidert arsregnskapet for Sifr Kapital AS som viser et overskudd pa kr 19.524.766.
+Arsregnskapet bestir av balanse per 31. desember 2025, resultatregnskap for regnskapsaret
+avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige
+regnskapsprinsipper.
+Etter var mening
+¢ oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember
+2025 og av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfort revisjonen i samsvar med den internasjonale revisjonsstandarden for
+revisjon av regnskap til mindre komplekse enheter (ISA for MKE). Vare oppgaver og plikter i
+henhold til ISA for MKE er beskrevet nedenfor under Revisors oppgaver og plikter ved
+revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i relevante
+lover og forskrifter i Norge og International Code of Ethics for Professional Accountants
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards
+Board for Accountants (IESBA-reglene), og vi har overholdt vare avrige etiske forpliktelser i
+samsvar med disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og
+hensiktsmessig som grunnlag for var konklusjon.
+Ledelsens ansvyar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlig for 4 utarbeide arsregnskapet og for at det gir et
+| rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge.
+Ledelsen er ogsa ansvarlig for slik intern kontroll som den finner nedvendig for 4 kunne
+utarbeide et arsregnskap som ikke inneholder vesentlig feilinformasjon, verken som felge av
+| misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet mé ledelsen ta standpunkt til selskapets evne til fortsatt
+drift og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift
+skal legges til grunn for arsregnskapet s lenge det ikke er sannsynlig at virksomheten vil bli
+avviklet.
+MEDLEMMER AV Den norske Revisorforening
+STATSAUTORISERTE REVISORER MED OPPDRAGSANSVAR
+JAN ERLING DIDRIKSEN — REMI BOLS@Y LYNGMO - FRANK E, JAKOBSEN ~ NANCY BAKKELUND — ATALIE N PEDERSEN
+
+Nordnorsk Revisjon AS
+Statsautoriserte revisorer
+
+Revisors oppgaver og plikter ved revisjonen av 4rsregnskapet (1)
+
+Vart mal er 4 oppna betryggende sikkerhet for at arsregnskapet for Sifr Kapital AS som helhet
+
+ikke inncholder vesentlig feilinformasjon, verken som felge av misligheter eller utilsiktede
+| feil, og 4 avgi en revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er
+| en hgy grad av sikkerhet, men ingen garanti for at en revisjon utfert i samsvar med ISA for
+| MKE, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon kan oppstd som felge av
+
+misligheter eller utilsiktede feil. Feilinformasjon er 4 anse som vesentlig dersom den enkeltvis
+
+eller samlet med rimelighet kan forventes 4 pavirke de ekonomiske beslutningene som
+
+brukerne foretar, pa grunnlag av arsregnskapet.
+
+Nordnorsk Revisjon AS
+
+bs aca Len
+Jan Erling Diirikse \_
+statsautoriser{ revisor
+(1) For videre beskrivelse av revisors oppgaver og plikter vises det til https://revisorforeningen no/tevisjonsberetninger
+MEDLEMMER AV Den norske Revisorforening
+STATSAUTORISERTE REVISORER MED OPPDRAGSANSVAR
+JAN ERLING DIDRIKSEN — REM! BOLS@Y LYNGMO — FRANK E JAKOBSEN - NANCY BAKKELUND ~ ATALIE N. PEDERSEN
+
+Arsregnskap for
+SIFR KAPITAL AS
+927237539
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+BanklD Qualified Signing
+
+SIFR KAPITAL AS Shoe cate
+927 237 539
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -93 465 -135 594
+Sum driftskostnader -93 465 -135 594
+Driftsresultat -93 465 -135 594
+Finansinntekter
+Annen renteinntekt 9 159 1 780
+Annen finansinntekt 983 637 1 556 081
+Verdigkning av finansielle instrumenter vurdert til 24 138 309 2 997 838
+virkelig verdi
+Sum finansinntekter 25 131 105 4 555 699
+Finanskostnader
+Annen rentekostnad -4 145 0
+Annen finanskostnad -228 -258 098
+Sum finanskostnader -4 373 -258 098
+Netto finans 25 126 732 4 297 602
+Resultat for skattekostnad 25 033 267 4 162 008
+Skattekosinad 2,3 -5 508 500 -196 884
+Arsresultat 19 524 766 3 965 124
+Overforinger
+Ordinzert utbytte 4 000 000 0
+Annen egenkapital 15 524 766 2 096 135
+Udekket tap 0 1 868 990
+Sum overferinger 19 524 766 3 965 124
+
+BanklD Qualified Signing
+
+SIFR KAPITAL AS 5008 ty
+927 237 539
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investering i datterselskap 4 8 268 599 8 190 496
+Sum finansielle anleggsmidler 8 268 599 8 190 496
+Sum anleggsmidler 8 268 599 8 190 496
+Omlgpsmidler
+Fordringer
+Andre kortsiktige fordringer 100 000 100 000
+Sum fordringer 100 000 100 000
+Investeringer
+Markedsbaserte aksjer 5 70 299 094 46 613 169
+Sum investeringer 70 299 094 46 613 169
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 38 935 4815
+Sum bankinnskudd, kontanter og lignende 38 935 4815
+Sum omlgpsmidler 70 438 029 46 717 985
+SUM EIENDELER 78 706 628 54 908 481
+
+BanklD Qualified Signing
+
+SIFR KAPITAL AS 5008 ty
+927 237 539
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 6,7 51 500 000 51 500 000
+Annen innskutt egenkapital 7 -5 570 -5 570
+Sum innskutt egenkapital 51 494 430 51 494 430
+Opptjent egenkapital
+Annen egenkapital 7 17 620 901 2 096 135
+Sum opptjent egenkapital 7 17 620 901 2 096 135
+Sum egenkapital 69 115 331 53 590 565
+Gjeld
+Avsetning og forpliktelser
+Utsatt skatt 5 283 279 0
+Sum avsetning for forpliktelser 5 283 279 0
+Annen langsiktig gjeld
+Langsiktig konserngjeld 4 0 1115 118
+Sum annen langsiktig gjeld 0 1115118
+Kortsiktig gjeld
+Leverandergjeld 4 694 5915
+Betalbar skatt 203 192 196 884
+Utbytte 4 000 000 0
+Kortsiktig konserngjeld 100 132 0
+Sum kortsiktig gjeld 4308 018 202 799
+Sum gjeld 9 591 297 1317 916
+SUM EGENKAPITAL OG GJELD 78 706 628 54 908 481
+Fredrik Siebke
+styrets leder / daglig leder
+
+BanklD Qualified Signing
+SIFR KAPITAL AS Shoe cate
+927 237 539
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+Selskapet driver med forvaltning av verdipapirer og har sitt kontor i Trondheim.
+Eiendeler som er knyttet til varekretsigpet er klassifisert som oml@psmidler. Fordringer klassifiseres som
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld
+som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Forevrig er folgende regnskapsprinsipper anvendt:
+Markedsbaserte finansielle omlgpsmidler er vurdert til virkelig verdi pa balansedagen, med verdiendringer
+resultatfort. Leieavtaler er ikke balansefert. Fordringer og gjeld i utenlandsk valuta er verdsatt til kursen ved
+regnskapsérets slutt. Kursgevinster og kursstap i utenlandsk valuta fores som finansinntekt og finanskostnad.
+Kostmetoden er benyttet for investeringer i datterselskap/tilknyttet selskap. Utbytte er inntektsfort samme ar
+som det er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at belgpet vil mottas. Ved utbytte
+som overstiger andel av tilbakeholdt resultat etter kjopet representerer den overskytende del tilbakebetaling av
+investert kapital, og er fratrukket investeringens verdi i balansen.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfgring ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+BanklD Qualified Signing
+SIFR KAPITAL AS Shoe cate
+927 237 539
+Note 1 - Antall arsverk
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+Note 2 - Spesifisering av skatt
+Skattekostnad 2025 2024
+Betalbar skatt pa alminnelig inntekt 225 221 196 884
++/- Endringer i utsatt skatt/utsatt skattefordel 5 283 279 0
+Skattekostnad 5 508 500 196 884
+Skattepliktig inntekt
+Resultat for skatt 25 033 267 4 162 008
+Permanente forskjeller -24 009 533 -3 117 294
+- Anvendelse av fremferbart underskudd 0 -149 785
++/- Mottatt/avgitt konsernbidrag -100 132 0
+Skattepliktig inntekt 923 602 894 930
+Betalbar skatt i balansen
+Betalbar skatt pa arets resultat 225 221 196 884
+Betalbar skatt pa konsernbidrag -22 029 0
+Betalbar skatt i balansen 203 192 196 884
+Note 3 - Midlertidige forskjeller - utsatt skatt/skattefordel
+Utsatt skatt/utsatt skattefordel i balansen avsettes pa grunnlag av forskjeller mellom regnskapsmessige og
+skattemessige verdier i henhold til norsk regnskapsstandard for skatt.
+Midlertidige skatteskende og skattereduserende forskjeller som kan utlignes er nettofert.
+Midlertidige forskjeller Knyttet til: 01.01.2025 31.12.2025 Endring
+Anleggsmidler 0 24 014 906 -24 014 906
+Netto forskjeller 0 24 014 906 -24 014 906
+Sum midlertidige forskjeller som inngar i grunnlag for 0 24 014 906 -24 014 906
+utsatt skatt/skattefordel
+Utsatt skatt 31.12.2025 basert pa 22 % 0 5 283 279 -5 283 279
+Note 4 - Konsern, tilknyttet selskap m.v.
+Annen langsiktig gjeld
+2025 2024
+Samlet belgp som gjelder foretak i samme konsern 0 1115 118
+Note 5 - Virkelig verdi av finansielle instrumenter
+Periodens
+resultatforte
+Eiendel Virkelig verdi verdiendringer
+Markedsbaserte aksjer 70 299 094 24 136 309
+Mer om finansielle instrumenter
+Markedsbaserte aksjer er vurdert til virkelig verdi
+
+BanklD Qualified Signing
+
+SIFR KAPITAL AS Shoe cate
+927 237 539
+
+Note 6 - Aksjekapital
+
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordinzere 6 500 000 7,923077 51 500 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+Fredrik Siebke 6 500 000 100,00 Ordineere
+Note 7 - Egenkapital
+Opptjent
+
+CA KSjekapital Anneninnsk. EK egenkapital Ss Su
+Egenkapital 31.12.2024 51 500 000 -5 570 2 096 135 53 590 565
+Arsresultat 0 0 19 524 766 19 524 766
+Avsatt utbytte 0 0 -4 000 000 -4 000 000
+Egenkapital 31.12.2025 51 500 000 -5 570 17 620 901 69 115 331

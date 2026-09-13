@@ -1,0 +1,440 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 748397
+Virksomheten
+Organisasjonsnummer : 924 695 013
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: GILLMYR AS
+Forretningsadresse: c/o Berit Gillebo
+Salthaugveien 65
+4516 MANDAL
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Svein Gillebo
+Dato for fastsettelse av Aarsregnskapet: 04.08.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 05.08.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 924 695 013
+
+GILLMYR AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 0 7 962
+
+Sum inntekter 0 7 962
+
+Kostnader
+
+Varekostnad 4 000 6 899
+
+Annen driftskostnad 7 902 7 098
+
+Sum kostnader 11 902 13 997
+
+Driftsresultat -11 902 -6 035
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 0
+
+Sum finanskostnader 0 0
+
+Netto finans e) e)
+
+Resultat fer skattekostnad -11 902 -6 035
+
+Arsresultat -11 902 -6 035
+
+Arsresultat etter
+
+minoritetsinteresser -11 902 -6 035
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -11 902 -6 035
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -11 902 -5 919
+
+Overferinger til/fra
+
+annen egenkapital 0 -116
+
+Sum overferinger og
+
+disponeringer -11 902 -6 035
+Utskrifttsdato 05.08.2026 Organisasjonsnr 924 695 013 Side 1 av 3
+
+Organisasjonsnr: 924 695 013
+
+GILLMYR AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 6 179 18 081
+
+Sum bankinnskudd,
+
+kontanter og lignende 6 179 18 081
+
+Sum omlepsmidler 6 179 18 O81
+
+SUM EITENDELER 6 179 18 081
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Udekket tap 25 373 13 471
+
+Sum opptjent egenkapital -25 373 -13 471
+Utskriftsdato 05.08.2026 Organisasjonsnr 924 695 013 Side 2 av 3
+
+Sum egenkapital 4 627 16 529
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 fe]
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 0 1 552
+
+Betalbar skatt 1 552 0)
+
+Sum kortsiktig gjeld 1 552 1 552
+
+Sum gjeld 1 552 1 552
+
+SUM EGENKAPITAL OG GJELD 6 179 18 081
+Utskriftsdato 05.08.2026 Organisasjonsnr 924 695 013 Side 3 av 3
+
+Organisasjonsnr: 924 695 013
+
+GILLMYR AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Moen
+
+Virksomhetens art
+
+Salg og produksjon av varer og tjenester
+
+knyttet til kunst, handverk og reiseliv.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Det er usikkert om selskapet kan fortsette som for. Pga av helseproblemer
+har ikke inntektsgrunnlaget vert som planglagt. Det neste aret kan medfore
+en forbedring da det har dukket opp nye muligheter til Aa skaffe inntekt.
+Hvis ikke situasjonen endrer seg, vil vi starte prosess mot avvikling
+1.1.2027.
+
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Gillmyr AS
+(924 695 013)
+Gillmyr AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 0 7 962
+Sum driftsinntekter 0 7 962
+Driftskostnader
+
+Varekostnad 4 000 6 899
+
+Annen driftskostnad 7 902 7 098
+Sum driftskostnader 11 902 13 997
+Driftsresultat -11902 -6035
+Resultat for skatt -11902 -6035
+Arsresultat -11902 -6035
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital @] -116
+
+Udekket tap -11 902 -5919
+Sum overferinger og disponeringer -11 902 -6 035
+
+Gillmyr AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 6179 18 081
+Sum omlepsmidier 6179 18081
+Sum eiendeler 6179 18081
+Gillmyr AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Udekket tap -26373 -13471
+Sum opptjent egenkapital -25373 -13471
+Sum egenkapital 4627 16529
+Gijeld
+Kortsiktig gjeld
+
+Leverandergjeld @) 1552
+
+Betalbar skatt 1 552 @)
+Sum kortsiktig gjeld 1 552 1 552
+Sum gjeld 1 552 1 552
+Sum egenkapital og gjeld 6179 18081
+
+Gillmyr AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Moen
+Virksomhetens art
+Salg og produksjon av varer og tjenester knyttet til kunst, handverk og reiseliv.
+Note 2: Usikkerhet rundt fortsatt drift
+Det er usikkert om selskapet kan fortsette som for. Pga av helseproblemer har ikke
+inntektsgrunnlaget veert som planglagt. Det neste aret kan medfore en forbedring da det har
+dukket opp nye muligheter til 4 skaffe inntekt. Hvis ikke situasjonen endrer seg, vil vi starte
+prosess mot awikling 1.1.2027.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Gillmyr AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Gillmyr AS <berit.gillebo@gmail.com>
+Elektronisk signering
+SVEIN GILLEBO PETTER LIED GILLEBO
+27.09.1963 - Styreleder 12.03.1991 - Styremedlem
+Y) Signert Y) Signert
+02.08.2026 19:56 === bankID 04.08.2026 11:14 === bankID
+TORD MYRSLETT TRULS MYRSLETT
+21.01.1997 - Styremedlem 21.01.1997 - Styremedlem
+Y) Signert Y) Signert
+02.08.2026 22:40 1D-porten 02.08.2026 20:08 === bankID
+IDA GILLEBO MORTEN GILLEBO
+03.06.1998 - Styremedlem 30.11.1993 - Styremedlem
+Y) Signert Y) Signert
+02.08.2026 19:53 === bankID 02.08.2026 20:22 === bankID
+SIMEN MYRSLETT BERIT GILLEBO
+06.07.1995 - Styremedlem 28.12.1968 - Daglig leder, Styremedlem
+Y) Signert Y) Signert
+04.08.2026 05:07 === bankID 02.08.2026 19:53 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 02.08.2026 19:51:21

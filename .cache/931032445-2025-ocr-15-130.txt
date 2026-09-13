@@ -1,0 +1,483 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 432731
+Virksomheten
+Organisasjonsnummer : 931 032 445
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: VASSGARD CONSULTING AS
+Forretningsadresse: Vasskorvegen 231
+6490 EIDE
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Lillian Nicolaisen
+Dato for fastsettelse av arsregnskapet: 06.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 11.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 931 032 445
+
+VASSGARD CONSULTING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 2 324 967 2 304 473
+
+Sum inntekter 2 324 967 2 304 473
+
+Kostnader
+
+Varekostnad 9 172 0
+
+Lennskostnad 1, 2 1 403 548 1 209 117
+
+Avskrivning pa varige
+
+driftsmidler 3 34 740 17 320
+
+Annen driftskostnad 794 787 654 487
+
+Sum kostnader 2 242 247 1 880 924
+
+Driftsresultat 82 720 423 549
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 4 0
+
+Verdigkning av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 3 838 7 261
+
+Sum finansinntekter 3 842 7 261
+
+Annen rentekostnad 6 269 425
+
+Sum finanskostnader 6 269 425
+
+Netto finans -2 427 6 836
+
+Resultat fer skattekostnad 80 293 430 385
+
+Skattekostnad 16 933 93 130
+
+Arsresultat 63 360 337 255
+
+Annen egenkapital 63 360 337 255
+Utskriftsdato 11.05.2026 Organisasjonsnr 931 032 445 Side 1 av 3
+
+Organisasjonsnr: 931 032 445
+VASSGARD CONSULTING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Maskiner og anlegg 3 96 600 39 300
+Driftslesere, inventar,
+verkt@y, kontormaskiner,
+ol. 3 73 380 80 500
+Sum varige driftsmidler 169 980 119 800
+Finansielle anleggsmidler
+Andre langsiktige
+fordringer 4 52 083 77 083
+Sum finansielle
+anleggsmidler 52 083 77 O83
+Sum anleggsmidler 222 063 196 883
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 240 343 251 979
+Andre kortsiktige
+fordringer 20 519 13 905
+Sum fordringer 260 862 265 884
+Investeringer
+Markedsbaserte aksjer 60 962 57 261
+Sum investeringer 60 962 57 261
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 613 529 465 411
+Sum bankinnskudd,
+kontanter og lignende 613 529 465 411
+Sum omlepsmidler 935 353 788 556
+SUM ELENDELER 1157 416 985 439
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 11.05.2026 Organisasjonsnr 931 032 445 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Annen innskutt egenkapital -5 570 -5 570
+
+Sum innskutt egenkapital 24 430 24 430
+
+Opptjent egenkapital
+
+Annen egenkapital 646 430 583 070
+
+Sum opptjent egenkapital 646 430 583 070
+
+Sum egenkapital 670 860 607 500
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 1 157 3 532
+
+Sum avsetninger for
+
+forpliktelser 1 157 3 532
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 94 275 32 026
+
+Betalbar skatt 19 309 91 234
+
+Skyldige offentlige
+
+avgifter 236 792 136 661
+
+Annen kortsiktig gjeld 135 024 114 486
+
+Sum kortsiktig gjeld 485 400 374 407
+
+Sum gjeld 486 556 377 939
+
+SUM EGENKAPITAL OG GJELD 1157 416 985 439
+Utskriftsdato 11.05.2026 Organisasjonsnr 931 032 445 Side 3 av 3
+
+Organisasjonsnr: 931 032 445
+
+VASSGARD CONSULTING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Selskapet driver ingenigr- og
+
+prosjektledertjenester innen byggeprosjekter. Reparasjon av maskiner til
+landbruk/skogbruk, bygg- og anlegg og industri ellers.
+
+hovedkontoret ligger
+
+i Hustadvika Kommune.
+
+Salgsinntekter
+
+Inntektsfering ved salg av varer skjer
+
+pa leveringstidspunktet. Tjenester inntektsferes etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er
+
+eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretslepet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett ar.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er fastsatt og skattevirkningen er beregnet pa
+nettogrunnlaget.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+1.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+1139831.00 971831.00
+Folketrygqdavqift Arets Fjorarets
+171150.00 147478.00
+Andre ytelser Arets Fjorarets
+92567.00 89808.00
+Sum loennskostnader Arets Fjorarets
+1403548.00 1209117.00
+Note
+3
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+139600.00 0.00
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+117160.00 0.00
+Avgang i aret Varige driftsmidler Immaterielle eiend.
+49600.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+207160.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+37180.00 0.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+169980.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+34740.00 0.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Note
+4
+
+Fordringer
+
+Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt
+52083.00
+
+Mer om fordringer
+
+Arsregnskap for
+VASSGARD CONSULTING AS
+931032445
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+VASSGARD CONSULTING AS
+931 032 445
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 2 324 967 2 304 473
+Sum driftsinntekter 2 324 967 2 304 473
+Driftskostnader
+Varekostnad -9 172 0
+L@nnskostnad 1,2 -1 403 548 -1 209 117
+Avskrivning pa varige driftsmidler 3 -34 740 -17 320
+Annen driftskostnad -194 787 -654 487
+Sum driftskostnader -2 242 247 -1 880 924
+Driftsresultat 82 720 423 549
+Finansinntekter
+Annen finansinntekt 4 0
+Verdigkning av finansielle instrumenter vurdert til 3 838 7 261
+virkelig verdi
+Sum finansinntekter 3 842 7 261
+Finanskostnader
+Annen rentekostnad -6 269 425
+Sum finanskostnader -6 269 -425
+Netto finans -2 427 6 836
+Resultat for skattekostnad 80 293 430 385
+Skattekosinad -16 933 -93 130
+Arsresultat 63 360 337 255
+Overforinger
+Annen egenkapital 63 360 337 255
+Sum overferinger 63 360 337 255
+
+VASSGARD CONSULTING AS
+931 032 445
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Maskiner og anlegg 3 96 600 39 300
+Driftslgs@re, inventar, verktgy, kontormaskiner, ol. 3 73 380 80 500
+Sum varige driftsmidler 169 980 119 800
+Finansielle anleggsmidler
+Andre langsiktige fordringer 4 52 083 77 083
+Sum finansielle anleggsmidler 52 083 77 083
+Sum anleggsmidler 222 063 196 883
+Omlgpsmidler
+Fordringer
+Kundefordringer 240 343 251 979
+Andre kortsiktige fordringer 20 519 13 905
+Sum fordringer 260 862 265 884
+Investeringer
+Markedsbaserte aksjer 60 962 57 261
+Sum investeringer 60 962 57 261
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 613 529 465 411
+Sum bankinnskudd, kontanter og lignende 613 529 465 411
+Sum omlgpsmidler 935 353 788 556
+SUM EIENDELER 1157 416 985 439
+
+VASSGARD CONSULTING AS
+931 032 445
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Annen innskutt egenkapital -5 570 -5 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+Annen egenkapital 646 430 583 070
+Sum opptjent egenkapital 646 430 583 070
+Sum egenkapital 670 860 607 500
+Gjeld
+Avsetning og forpliktelser
+Utsatt skatt 1 157 3 532
+Sum avsetning for forpliktelser 1 157 3 532
+Kortsiktig gjeld
+Leverandgrgjeld 94 275 32 026
+Betalbar skatt 19 309 91 234
+Skyldige offentlige avgifter 236 792 136 661
+Annen kortsiktig gjeld 135 024 114 486
+Sum kortsiktig gjeld 485 400 374 407
+Sum gjeld 486 556 377 939
+SUM EGENKAPITAL OG GJELD 1157 416 985 439
+EIDE, 06.05.2026
+Ken Ove Vassgard
+styrets leder / daglig leder
+
+VASSGARD CONSULTING AS
+931 032 445
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Selskapet driver ingenigr- og prosjektledertjenester innen byggeprosjekter. Reparasjon av maskiner til
+landbruk/skogbruk, bygg- og anlegg og industri ellers.
+hovedkontoret ligger i Hustadvika Kommune.
+Salgsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+Klassifisering og vurdering av balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekretsla@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Varige driftsmidler
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 1
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 1 139 831 971 831
+Arbeidsgiveravgift 171 150 147 478
+Pensjonskostnader 0 0
+Andre relaterte ytelser 92 567 89 808
+Sum 1 403 548 1 209 117
+
+VASSGARD CONSULTING AS
+931 032 445
+Note 3 - Varige driftsmidler og immaterielle eiendeler
+Varige
+driftsmidler
+Anskaffelseskost 01.01. 139 600
+Tilgang i aret 117 160
+Avgang i aret -49 600
+Anskaffelseskost 31.12. 207 160
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -37 180
+Balansefort verdi per 31.12. 169 980
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 34 740
+Note 4 - Fordringer
+Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt 52 083

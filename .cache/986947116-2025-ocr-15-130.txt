@@ -1,0 +1,405 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 517258
+Virksomheten
+Organisasjonsnummer : 986 947 116
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: NORWEGIAN ENERGY EXPERTS AS
+Forretningsadresse: HO508
+Bestumveien 99
+0283 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Reidar Kierulf
+Dato for fastsettelse av Aarsregnskapet: 01.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 03.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 986 947 116
+
+NORWEGIAN ENERGY EXPERTS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 6 806 12 581
+
+Sum kostnader 6 806 12 581
+
+Driftsresultat -6 806 -12 581
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 82 821 78 334
+
+Sum finansinntekter 82 821 78 334
+
+Annen finanskostnad 29
+
+Sum finanskostnader 29
+
+Netto finans 82 792 78 334
+
+Resultat fer skattekostnad 75 987 65 754
+
+Arsresultat 75 987 65 754
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 75 987 65 754
+Utskriftsdato 03.06.2026 Organisasjonsnr 986 947 116 Side 1 av 3
+
+Organisasjonsnr: 986 947 116
+NORWEGIAN ENERGY EXPERTS AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum anleggsmidler
+Omlepsmidler
+Varer
+Investeringer
+Aksjer og andeler i
+foretak i samme konsern 0) 0)
+Markedsbaserte aksjer 0 0
+Markedsbaserte obligasjoner 0 0
+Andre markedsbaserte
+finansielle instrumenter 0 0
+Andre finansielle
+instrumenter 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 2 179 649 2 104 173
+Sum bankinnskudd,
+kontanter og lignende 2 179 649 2 104 173
+Sum omlepsmidler 2 179 649 2 104 173
+SUM ELENDELER 2 179 649 2 104 173
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 2 366 000 2 366 000
+Beholdning av egne aksjer 520 000 520 000
+Annen innskutt egenkapital 746 010 746 010
+Sum innskutt egenkapital 3 632 010 3 632 010
+Opptjent egenkapital
+Annen egenkapital -411 836 -543 343
+Udekket tap 1 042 717 987 196
+Sum opptjent egenkapital -1 454 553 -1 530 539
+Sum egenkapital 2177 457 2 101 471
+Kortsiktig gjeld
+
+Utskriftsdato 03.06.2026 Organisasjonsnr 986 947 116 Side 2 av 3
+
+Leverandergjeld 2 192 2 702
+Sum kortsiktig gjeld 2 192 2 702
+Sum gjeld 2 192 2 702
+SUM EGENKAPITAL OG GJELD 2 179 649 2 104 173
+Utskriftsdato 03.06.2026 Organisasjonsnr 986 947 116 Side 3 av 3
+
+Organisasjonsnr: 986 947 116
+
+NORWEGIAN ENERGY EXPERTS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+=== Note 1: Regnskapsprinsipper [[note-1]]
+
+Arsregnskapet er satt opp 1
+
+samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+
+==== Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa
+
+leveringstidspunktet.
+
+Tjenester inntektsfoeres etter hvert som de
+
+leveres.
+
+==== Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt.
+
+Utsatt skatt er
+
+beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier,
+
+samt ligningsmessig
+
+underskudd til fremfering ved utgangen av regnskapsaret.
+Skatteskende og
+
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofert.
+
+==== Klassifisering
+
+og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til
+
+varig elie og bruk.
+
+Anleggsmidler er vurdert til anskaffelseskost.
+
+Varige
+
+driftsmidler balanseferes og avskrives over driftsmidlets skonomiske
+levetid.
+
+Avskrivingsperioden for fast eiendom anskaffet etter 2009 er
+dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner.
+
+Varige driftsmidler nedskrives til gjenvinnbart
+
+belep ved verdifall som forventes ikke 4 vere forbigaende.
+Gjenvinnbart
+
+belep er det heyeste av netto salgsverdi og verdi i bruk.
+
+Verdi i bruk er
+
+naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivingen
+
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlepsmidler
+
+Omlepsmidler og kortsiktig
+
+gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen,
+
+samt poster som knytter seg til varekretslapet.
+
+Omlepsmidler
+
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi.
+Varer
+
+Varer er vurdert til det laveste av anskaffelseskost og netto
+salgsverdi.
+
+==== Fordringer
+
+Kundefordringer og andre fordringer
+
+oppfordres til palydende etter fradrag for avsetning til forventet
+tap.
+
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene.
+
+Note
+
+2
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap for 2025
+Norwegian Energy Experts
+AS
+Orgnr: 986947116
+conta
+
+INNHOLDSLISTE
+Resultat 2... eee B
+Driftsresultater.. 2 ee B
+Finansinntekter og kostnader............ 0.000002 ee eee B
+Arsresultat. 0 eee 8
+Overfgringer. 2... eee B
+Balanse. 2. 2 1. ee ee A
+Anleggsmidler... 2... 0.0.0.0... 00.00 2 ee A
+Omlgpsmidler. 2... ee LA
+Fiendeler.. 2... 2. ee ee A
+Egenkapital .. 2. 2 2. eee A
+Gjeld 2. ee A
+Egenkapitaloggjeld..... 2... 0.0.00... 000 0 ee ee ee SG
+Styret. eee ee ee eS
+Noter. 2. 2 ee eee eee 6
+Note 1: Regnskapsprinsipper ... 2... 0... ee ee ee ee  G
+Note 2:Arsverk 200 eee eT
+
+RESULTAT
+
+Driftsresultater
+
+Note 2024 2025
+Driftsinntekter 0 0
+Lonnskostnad 2 0 0
+Annen driftskostnad 12 581 6 806
+Driftskostnader 12 581 6 806
+Driftsresultat -12 581 -6 806
+Finansinntekter og kostnader
+
+Note 2024 2025
+Annen finansinntekt 78 334 82 821
+Finansinntekter 78 334 82 821
+Annen finanskostnad 0 29
+Finanskostnader 0 29
+Finansinntekter og kostnader 78 334 82792
+Arsresultat
+
+Note 2024 2025
+Driftsresultat -12 581 -6 806
+Finansinntekter og kostnader 78 334 82 792
+Resultat for skattekostnad 65 754 75 987
+Skattekostnad 0 0
+Arsresultat 65 754 75 987
+Overforinger
+
+2024 2025
+Avsatt til dekning av tidligere udekket tap 65 754 75 987
+Sum overf¢ringer 65 754 75 987
+Conta Arsoppgjar, Norwegian Energy Experts AS
+-3-
+
+BALANSE
+
+Anleggsmidler
+
+Note 2024 2025
+Immaterielle eiendeler 0 0
+Varige driftsmidler 0 0
+Finansielle anleggsmidler 0 0
+Anleggsmidler 0 0
+Omlgpsmidler
+
+Note 2024 2025
+Fordringer 0 0
+Investeringer 0 0
+Bankinnskudd, kontanter og lignende 2104173 2179 649
+Omlgpsmidler 2 104 173 2 179 649
+Eiendeler
+
+Note 2024 2025
+Anleggsmidler 0 0
+Omlgpsmidler 2 104 173 2 179 649
+Eiendeler 2 104 173 2 179 649
+Egenkapital
+
+Note 2024 2025
+Selskapskapital 2 366 000 2 366 000
+Egne aksjer 520 000 520 000
+Annen innskutt egenkapital 746 010 746 010
+Innskutt egenkapital 3 632 010 3 632 010
+Udekket tap -987 196 -1 042 717
+Annen egenkapital -543 343 -411 836
+Opptjent egenkapital -1 530 539 -1 454 553
+Egenkapital 2 101 471 2177 457
+
+Conta Arsoppgjar, Norwegian Energy Experts AS
+-4-
+
+Gjeld
+Note 2024 2025
+Avsetning for forpliktelser 0 0
+Annen langsiktig gjeld 0 0
+Leverandgrgjeld 2 702 2192
+Kortsiktig gjeld 2702 2192
+Gjeld 2702 2192
+Egenkapital og gjeld
+Note 2024 2025
+Egenkapital 2101 471 2177 457
+Gjeld 2702 2192
+Egenkapital og gjeld 2 104 173 2 179 649
+Oslo, 01.06.2026
+Styret i Norwegian Energy Experts AS
+Reidar Kierulf
+Styreleder
+Trygve Kierulf
+Varamediem
+Conta Arsoppgjar, Norwegian Energy Experts AS
+-5-
+
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Driftsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som
+de leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring
+ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres i samme periode er utlignet og nettofgrt.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets ¢konomiske
+levetid. Avskrivingsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som
+gjelder rabygget og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til
+gjenvinnbart belgp ved verdifall som forventes ikke a veere forbigaende.
+Gjenvinnbart belgp er det hayeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av
+fremtidige kontantstra@mmer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for
+nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlopsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi
+av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+Conta Arsoppgjar, Norwegian Energy Experts AS
+
+-6-
+
+Fordringer
+Kundefordringer og andre fordringer oppfordres til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+o
+Note 2: Arsverk
+Selskapet har sysselsatt 0 arsverk i 2025.
+Conta Arsoppgjar, Norwegian Energy Experts AS
+-7-

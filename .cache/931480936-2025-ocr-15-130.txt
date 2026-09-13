@@ -1,0 +1,665 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 551580
+Virksomheten
+Organisasjonsnummer : 931 480 936
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: OBSERVE MEDICAL AS
+Forretningsadresse: Dronning Eufemias gate 16
+0191 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Terje Bakken
+Dato for fastsettelse av arsregnskapet: 10.06.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 08.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 931 480 936
+
+OBSERVE MEDICAL AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 953 323
+
+Sum inntekter 953 323
+
+Kostnader
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 2 308 526 2 665 973
+
+Annen driftskostnad 1 435 525 137 272
+
+Sum kostnader 2 744 O51 2 803 245
+
+Driftsresultat -1 790 728 -2 803 245
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 20 413 134 9
+
+Annen finansinntekt 1 855 430 38
+
+Sum finansinntekter 22 268 564 48
+
+Rentekostnad til foretak
+
+i samme konsern 1 026 865 664 370
+
+Annen rentekostnad 6 111 461
+
+Annen finanskostnad -809 233 6 526 726
+
+Sum finanskostnader 217 639 7 302 558
+
+Netto finans 22 050 926 -7 302 510
+
+Resultat fer skattekostnad 20 260 197 -10 105 755
+
+Skattekostnad pa resultat 2
+
+Arsresultat 20 260 197 -10 105 755
+
+Arsresultat etter
+
+minoritetsinteresser 20 260 197 -10 105 755
+
+Totalresultat 20 260 197 -10 105 755
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 3 17 445 115 -10 105 755
+
+Avsatt til annen
+
+egenkapital 2 815 083
+
+Sum overferinger og
+
+disponeringer 20 260 197 -10 105 755
+Utskriftsdato 08.07.2026 Organisasjonsnr 931 480 936 Side 1 av 3
+
+Organisasjonsnr: 931 480 936
+
+OBSERVE MEDICAL AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utvikling 4 431 11 480
+
+Konsesjoner, patenter o.l. 4 31 978 790 33 925 326
+
+Utsatt skattefordel 2
+
+Sum immaterielle eiendeler 31 983 221 33 936 807
+
+Varige driftsmidler
+
+Driftslesere, inventar o.
+
+a. utstyr 4 1 419 762 1 774 703
+
+Sum varige driftsmidler 1 419 762 1 774 703
+
+Sum anleggsmidler 33 402 983 35 711 510
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Konsernfordringer 941 406
+
+Sum fordringer 941 406
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 8 640 710
+
+Sum bankinnskudd,
+
+kontanter og lignende 8 640 710
+
+Sum omlepsmidler 950 046 710
+
+SUM ELENDELER 34 353 029 35 712 219
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 3, 5, 6 30 000 30 000
+
+Beholdning av egne aksjer 5
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 3 2 815 083
+
+Udekket tap 3, 6 17 445 115
+
+Sum opptjent egenkapital 2 815 083 -17 445 115
+
+Sum egenkapital 2 845 083 -17 415 115
+Utskriftsdato 08.07.2026 Organisasjonsnr 931 480 936 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 7 20 928 370 9 458 139
+
+@vrig langsiktig gjeld 7 4 024 913 24 839 996
+
+Sum annen langsiktig gjeld 24 953 283 34 298 135
+
+Sum langsiktig gjeld 24 953 283 34 298 135
+
+Kortsiktig gjeld
+
+Leverandergjeld 59 855 24 396
+
+Betalbar skatt 2
+
+Kortsiktig konserngjeld 1 886 906 1 774 703
+
+Annen kortsiktig gjeld 7 4 607 902 17 030 100
+
+Sum kortsiktig gjeld 6 554 663 18 829 199
+
+Sum gjeld 31 507 946 53 127 334
+
+SUM EGENKAPITAL OG GJELD 34 353 029 35 712 219
+Utskriftsdato 08.07.2026 Organisasjonsnr 931 480 936 Side 3 av 3
+
+Organisasjonsnr: 931 480 936
+
+OBSERVE MEDICAL AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+
+for Observe Medical AS
+= Resultatregnskap
+
+= Balanse
+
+= Noter til regnskapet
+
+ecit
+
+Resultatregnskap
+Observe Medical AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+
+Annen ariftsinntekt 953 323 0
+
+Sum driftsinntekter 953 323 0
+
+Avskrivning av ariftsmidier og immaterielle eiendeler 2 308 526 2 665 973
+
+Annen ariftskostnad 1 435 525 137 272
+
+Sum driftskostnader 2 744 051 2 803 245
+
+Driftsresultat -1 790 728 -2 803 245
+
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 20 413 134 9
+
+Annen finansinntekt 1 855 430 38 3
+
+Rentekostnad fil foretak i samme konsern 1 026 865 664 370 8
+
+Annen rentekostnad 6 111 461 5
+
+Annen finanskostnad -809 233 6 526 726 a
+
+Resultat av finansposter 22 050 926 -7 302 510 o
+2}
+‘t
+
+Resultat for skattekostnad 20 260197 =-10 105 755 2
+
+Resultat 20 260197 -10 105 755
+S
+g
+
+Arsresultat 20260197 -10 105 755 3
+
+Overforinger
+
+Avsatt til annen egenkapital 2 815 083 0
+
+Overfart til udekket tap 3 -17 445115 10 105 755
+
+Sum overferinger 20 260197 -10 105 755
+
+Observe Medical AS Side 2
+
+Balanse
+Observe Medical AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Immaterielle eiendeler
+Utvikling 4 43] 11 480
+Konsesjoner, patenter o.|. 4 31 978 790 33 925 326
+Sum immaterielle eiendeler 31 983 221 33 936 807
+Varige driftsmidler
+Driftslos@re, inventar o.a. utstyr 4 1 419 762 1 774 703
+Sum varige driftsmidler 1419 762 1 774 703
+Sum anleggsmidler 33 402 983 35 711 510
+8
+Omlapsmidler a
+Fordringer $
+Konsernforaring 941 406 0 2
+Sum fordringer 941 406 0 =
+Bankinnskudd, kontanter o.I. 8 640 710 s
+o
+SS S
+Sum omlepsmidler 950 046 710 3
+Sum eiendeler 34 353 029 35 712 219
+Observe Medical AS Side 3
+
+Balanse
+Observe Medical AS
+
+Egenkapital og gjeld Note 2025 2024
+
+Innskutt egenkapital
+
+Aksjekapital 3, 5,6 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 3 2 815 083 0
+
+Udekket tap 3,6 QO -17 445115
+
+Sum opptjent egenkapital 2815083 -17 445115
+
+Sum egenkapital 2845083 -17415115
+
+Gjeld
+
+Annen langsiktig gjeld
+
+Konserngjela 7 20 928 370 9 458 139 >
+
+@vrig langsiktig gjeld 7 4024 913 24 839 996 8
+
+Sum annen langsiktig gjeld 24 953 283 34 298 135 5
+Q
+
+Kortsiktig gjeld s
+
+Leverandargijeld 59 855 24 396 g
+
+Leverandergjeld IC 1 886 906 1 774 703 wy
+=)
+
+Annen kortsiktig gjeld 7 4607902 17030 100
+
+Sum kortsiktig gjeld 6 554 663 18 829 199 2
+
+Sum gjeld 31 507 946 53 127 334 g
+©
+
+Sum egenkapital og gjeld 34 353 029 35 712 219 :
+Q
+
+10.06.2026
+Styret i Observe Medical AS
+Terje Bakken Jergen Mann Nielsen
+styreleder daglig leder
+Observe Medical AS Side 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk
+
+for smd foretak.
+
+Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pd leveringstidspunktet. Tienester inntektsfores etter
+
+hvert som de leveres.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring
+
+i utsatt skatt. Utsatt skatt er beregnet med 22 % pd grunniag av de midlertidige forskjeller
+
+som eksisterer mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig
+
+underskudd til fremfering ved utgangen av regnskapsaret. Skatteakende og
+
+skattereduserende midlertidige forskjeller som reverserer eller kan reverseres | samme
+
+periode er utlignet og nettofert.
+
+Klassifisering og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+
+anskaffelseskost. Varige driftsmidier balansef@res og avskrives over driftsmidlets
+
+@konomiske levetid. Avskrivningsperioden for fast eiendom anskaffet etter 2009 er =
+
+dekomponert i en del som gjelder rabygget og en del som gjelder faste tekniske a
+
+installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belep ved verdifall som 8
+
+forventes ikke G vcere forbigdende. Gjenvinnbart belap er det hayeste av netto salgsverdi ©
+
+og verdi i bruk. Verdi i bruk er nadverdi av fremtidige kontantstrammer knyttet til eiendelen. s
+
+Nedskrivingen reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede. 2
+S
+Ni
+
+Klassifisering og vurdering av omlapsmidler $
+
+Omlepsmidlier og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett %
+
+ar etter balansedagen, samt poster som knytter seg til varekretslopet. Omlapsmidler 2
+
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi. a
+fs
+
+Note 1 Lannskostnader 3
+Q
+
+Observe Medical AS har ikke hatt lonns- eller personalkostnader | 2025 og det foreligger
+
+heller ingen slike forpliktelser.
+
+Note 2 Skatt
+Arets skattekostnad 2025 2024
+Resultatfert skatt pd ordincert resultat:
+Betalbar skatt @) 0
+Endring i utsatt skattefordel 0 e)
+Skattekostnad ordinceri resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt 20 260 197 -10 105 755
+Permanente forskjeller -20 425 051 )
+Skattepliktig inntekt - 164 853 -10 105 755
+Betalbar skatt i balansen:
+Betalbar skatt pd drets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte
+skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring 8
+Akkumulert fremfe@rboart underskudd 0 -10 576 154 -10 576 154 3
+Inngar ikke i beregningen av vtsatt skatt 0 10 576 154 10 576 154 0
+Utsatt skatt / skattefordel (22 %) 0 0 0 +
+Q
+Si
+| henhold til God regnskapsskikk for smd foretak balansef@res ikke Utsatt skattefordel. 8
+Q
+fs
+Note 3 Egenkapital 2
+8
+Aksjekapital Annen sum °
+egenkapital egenkapital
+Pr. 01.01.2025 30 000 -17445115  -17415115
+Arets resultat 20 260 197 20 260 197
+Pr 31.12.2025 30 000 2 815 083 2 845 083
+
+Note 4 Anleggsmidler
+Lisensavtale Varemerke Utvikling Teknisk
+(Trademark) UnoMeter dokument
+asjon
+Anskaffelseskost pr. 01.01.25 4273114 27975525 1774703 4433 154
++ Tilgang kj@pte driftsmidler 0 0 0 0
+= Anskaffelseskost 31.12.25 4273114 27975525 1774703 4433 154
+Akkumulerte avskrivninger 31.12.25 4 273 114 O 354941 1034403
+= Bokfort verdi 31.12.25 Q 27975525 1419762 3398751
+Arets ordincere avskrivninger | 424 371 0 35494] 443 315
+@konomisk levetid 2 ar 5 ar 10 ar
+Historisk UnoMeter sum
+Salg/Marked 500
+/Drist.
+Anskaffelseskost pr. 01.01.25 788 496 21 148 39 266 140
++ Tilgang kjopte ariftsmidler 0 0 0 >
+= Anskaffelseskost 31.12.25 788 496 21 148 39 266 140 3
+Akkumulerte avskrivninger 31.12.25 183 983 16717 5 863 158 8
+= Bokfort verdi 31.12.25 604 513 4 431 33 402 982 8
+Arets ordinaere avskrivninger 78 850 7 049 2 308 526 a
+2
+@konomisk levetid 10 ar 3 ar a
+3
+Q
+Note 5 Aksjoncerer ©
+3
+Aksjekapitalen i Observe Medical AS pr. 31.12 bestar av: a
+Antall Palydende Bokfart
+Ordincere aksjer 3 000 10,0 30 000
+Sum 3 000 30 000
+Eierstruktur
+De storste aksjoncerene i % pr. 31.12 var:
+Ordincere Eierandel
+Observe Medical ASA 3 000 100,0
+
+Note 6 Fortsatt drift
+
+Selskapet har utarbeidet Grsregnskapet for 2025 under forutsetning om fortsatt drift. | lopet
+
+av 2025 styrket konsernet sin finansielle stilling betydelig gjennom resirukturering av gjeld
+
+og emisjoner, og dette ble ytterligere stattet tidlig i 2026 ved formell signering og opptak
+
+av et ln pd 15 MNOK fra Innovasjon Norge.
+
+Konsernets ledelse har utarbeidet kontantstramprognoser som dekker minst tolvy maneder
+
+fra rapporteringsdatoen. Disse prognosene er basert pd fortsatt omsetningsvekst og
+
+forutsetter at konsernet oppnar positiv kontantstrem fra driften i fierde kvartal 2026, noe
+
+som er n@dvendig for 4 sikre konsernets likviditet Utover denne perioden. Evnen til 4
+
+oppnd denne utviklingen er avhengig av fortsatt vekst i salg og ordremottak samt
+
+gjeldende markedsforhold.
+
+Selv om konsernets ledelse anser sine forutsetninger som rimelige og pdpeker at konsernet
+
+har en viss fleksibilitet til G justere kostnadsbasen, vil manglende oppndelse av den
+
+forventede omsetningsveksten og kontantstrem fra driften kreve at konsernet skaffer
+
+ytterligere finansiering eller iverksetter andre tiltak for 4 oppfylle sine forpliktelser etter hvert
+
+som de forfaller. Det er en risiko for at konsernets oppndelse av positiv kontantstram fra
+
+driften vil bli forsinket. Falgelig foreligger det vesentlig usikkerhet knyttet til forutsetningen
+
+om fortsatt drift dersom konsernet ikke skulle klare 4 oppnd sine forventede .
+
+kontantstrammer og ikke lykkes med 4G skaffe finansiering fra andre kilder. 8
+
+Note 7 Svrig gjeld :
+2025 2024 3
+
+Konserngjeld til Observe Medical ASA 20 928 370 9 458 139
+
+Konsernintern leverandergjeld 1 886 906 1 774 703 2
+
+Langsiktig gjeld til Convatec 4024913 24 839 996 x
+
+Kortsiktig gjeld til Unomedical A/S 100 000 17 030 100 s
+
+Kortsiktig gjeld til Convatec 4 507 902 0 ©
+
+sum 31 448 091 53 102 938 3
+
+Q
+
+Kortsiktig gjeld til Unomedical A/S (Convatec} er relatert til avtiale om
+
+virksomhetsoverdragelse datert 7. september 2023, endret ved tilleggsavtale datert 8. april
+
+2025. | etterkant av den avtalte restruktureringen av gjelden ble den totale gjelden
+
+redusert til USD 2 000 000. USD 1 000 000 ble betalt i 2025 av Observe Medical ASA i
+
+forbindelse med den avtalte kapitalforhayelsen. Det gienvaerende belepet pd USD
+
+1 000 000 forfaller i to avdrag pa USD 500 000 innen henholdsvis 31. desember 2026 og 31.
+
+desember 2027.
+
+Forpliktelsen mdles til amortisert kort ved bruk av effektiv rente, med en diskonteringsrente
+
+pda 12%.
+
+This document has been digitally signed and sealed using ECIT Sign in accordance with the EU regulation
+
+eIDAS. The signatures within this original file carry legal validity in all EU states.
+
+Important: Please refrain from making any changes to this file as it may impact its integrity.
+%
+x
+§
+g
+3
+=
+3
+a
+
+SEALED
+
+All the original signatures incorporated in this document file strictly adhere to the provisions set forth by the
+
+European eIDAS regulation. They have been constructed in accordance with the PAGES (PDF Advanced
+
+Electronic Signatures) standard, as stipulated by the technical regulations specified in ETSI 319 142 (European
+
+Telecommunications Standards Institute). The signatures have been securely encoded within this document file,
+
+and the subsequent page(s) provide a visual representation of the encoded signatures.
+
+These signatures hold legal weight in all EU states as regulated by eIDAS.
+
+2026-06-09 10:30:38 UTC+00:00 2026-06-11 18:09:00 UTC+00:00
+
+Terje Bakken Jorgen Mann Nielsen
+
+- = e
+
+2-2 bankID Mit 2D
+
+NO BankiD - 9578-5998-4-792633 DK MitiD - e2d397f3-f7e5-4d5b-b687-27a499bfa622
+3
+wr
+o
+oS
+a
+&
+bo)
+%
+2
+N
+~
+N
+?
+a
+Dp
+ws
+Y
+N
+Q
+Na
+%
+ce)
+S
+2
+iD
+N
+BM
+Q
+<
+o
+iS
+3
+Qo
+o
+Q

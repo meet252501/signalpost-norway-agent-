@@ -1,0 +1,469 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 624797
+Virksomheten
+Organisasjonsnummer : 934 998 898
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: H.F. SANDBERG AS
+Forretningsadresse: Canninggata 4
+7800 NAMSOS
+Regnskapsar
+Arsregnskapets periode: 26.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Hans Frederik Sandberg
+Dato for fastsettelse av arsregnskapet: 31.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 934 998 898
+
+H.F. SANDBERG AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 444 285
+
+Sum inntekter 1 444 285
+
+Kostnader
+
+Lennskostnad 2, 3 832 566
+
+Annen driftskostnad 337 578
+
+Sum kostnader 1170 144
+
+Driftsresultat 274 141
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 123
+
+Sum finansinntekter 123
+
+Annen rentekostnad 108
+
+Sum finanskostnader 108
+
+Netto finans 15
+
+Resultat fer skattekostnad 274 156
+
+Skattekostnad 58 884
+
+Arsresultat 215 272 0)
+
+Arsresultat etter
+
+minoritetsinteresser 215 272
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0
+
+Totalresultat 215 272
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 215 272
+
+Sum overferinger og
+
+disponeringer 215 272
+Utskriftsdato 27.07.2026 Organisasjonsnr 934 998 898 Side 1 av 3
+
+Organisasjonsnr: 934 998 898
+
+H.F. SANDBERG AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 150 000
+
+Sum finansielle
+
+anleggsmidler 150 000
+
+Sum anleggsmidler 150 000
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 34 432
+
+Sum fordringer 34 432
+
+Investeringer
+
+Sum investeringer 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 294 982
+
+Sum bankinnskudd,
+
+kontanter og lignende 294 982
+
+Sum omlepsmidler 329 414
+
+SUM EILENDELER 479 414
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000
+
+Annen innskutt egenkapital -6 500
+
+Sum innskutt egenkapital 23 500
+Utskriftsdato 27.07.2026 Organisasjonsnr 934 998 898 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 215 272
+
+Sum opptjent egenkapital 215 272
+
+Sum egenkapital 238 772
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0
+
+Sum langsiktig gjeld 0
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 22 047
+
+Betalbar skatt 58 884
+
+Skyldig offentlige avgifter 59 843
+
+Annen kortsiktig gjeld 99 868
+
+Sum kortsiktig gjeld 240 642
+
+Sum gjeld 240 642
+
+SUM EGENKAPITAL OG GJELD 479 414
+Utskriftsdato 27.07.2026 Organisasjonsnr 934 998 898 Side 3 av 3
+
+Organisasjonsnr: 934 998 898
+
+H.F. SANDBERG AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Namsos
+
+Virksomhetens art
+
+Kiropraktorvirksomhet og annen virksomhet
+
+som star i naturlig forbindelse til dette. Selskapet kan ogsa eie aksjer i
+
+andre selskap.
+Note
+2
+Antall Aarsverk i regnskapsaret
+1.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+720965.00
+Folketrygqdavqift Arets Fjorarets
+39516.00
+Pensjonskostnader Arets Fjorarets
+53848.00
+Andre ytelser Arets Fjorarets
+18237.00
+Sum lennskostnader Arets Fjorarets
+832566.00
+
+Arsregnskap 2025
+H.F. Sandberg AS
+(934 998 898)
+H.F. Sandberg AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025
+Driftsinntekter
+
+Salgsinntekt 1 444 285
+Sum driftsinntekter 1 444 285
+Driftskostnader
+
+L@nnskostnad 2,3 832 566
+
+Annen driftskostnad 337 578
+Sum driftskostnader 1170144
+Driftsresultat 274141
+Finansinntekter
+
+Annen renteinntekt 123
+Sum finansinntekter 123
+Finanskostnader
+
+Annen rentekostnad 108
+Sum finanskostnader 108
+Netto finans 15
+Resultat for skatt 274156
+Skattekostnad 58 884
+Arsresultat 215 272
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 215 272
+Sum overferinger og disponeringer 215 272
+
+H.F. Sandberg AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025
+Anleggsmidler
+Finansielle anieggsmidler
+
+Investeringer i aksjer og andeler 150 000
+Sum finansielle anleggsmidler 150 000
+Sum anleggsmidler 150 000
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 34 432
+Sum fordringer 34 432
+Bankinnskudd, kontanter o.l. 294 982
+Sum omlepsmidler 329 414
+Sum eiendeler 479 414
+
+H.F. Sandberg AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 30 000
+Annen innskutt egenkapital -6 500
+Sum innskutt egenkapital 23 500
+Opptjent egenkapital
+Annen egenkapital 215 272
+Sum opptjent egenkapital 215 272
+Sum egenkapital 238 772
+Gijeld
+Kortsiktig gjeld
+Leverandergjeld 22 047
+Betalbar skatt 58 884
+Skyldig offentlige avgifter 59 843
+Annen kortsiktig gjeld 99 868
+Sum kortsiktig gjeld 240 642
+Sum gjeld 240 642
+Sum egenkapital og gjeld 479 414
+H.F. Sandberg AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Namsos
+Virksomhetens art
+Kiropraktorvirksomhet og annen virksomhet som star i naturlig forbindelse til dette. Selskapet
+kan ogsa eie aksjer i andre selskap.
+Note 2: Arsverk
+Antall arsverk er 1.
+Note 3: Lonnskostnader
+
+2025
+Lenn 720 965
+Arbeidsgiveravgift 39 516
+Pensjon 53 848
+Andre ytelser 18 237
+Sum lonnskostnader 832 566
+H.F. Sandberg AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+
+Opprettet av Hans Frederik Sandberg <hans@robryggahelse.no>
+
+Elektronisk signering
+ERIKA ROLFSEN BJO@RNA HANS FREDERIK SANDBERG
+23.02.1996 - Styremediem 28.07.1994 - Daglig leder, Styreleder
+Y) Signert Y) Signert
+30.06.2026 10:40 © buypass" 30.06.2026 19:26 © buypass”
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 30.06.2026 10:37:42

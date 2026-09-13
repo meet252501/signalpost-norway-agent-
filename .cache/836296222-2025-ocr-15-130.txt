@@ -1,0 +1,314 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 343843
+Virksomheten
+Organisasjonsnummer : 836 296 222
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: GRE HOLDING AS
+Forretningsadresse: Godheimveien 84
+3440 ROYKEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Formue Accounting v/ Kadir Keklik
+Dato for fastsettelse av arsregnskapet: 09.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 19.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 836 296 222
+GRE HOLDING AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Kostnader
+Annen driftskostnad 3 82 248
+Sum kostnader 82 248
+Driftsresultat -82 248
+Finansinntekter og
+finanskostnader
+Annen renteinntekt 45 467
+Sum finansinntekter 45 467
+Netto finans 45 467
+Resultat fer skattekostnad -36 781
+Skattekostnad pa resultat 4
+Arsresultat -36 781 i¢)
+Arsresultat etter
+minoritetsinteresser -36 781
+Totalresultat -36 781
+Overferinger og
+disponeringer
+Overfert fra overkurs -36 781
+Sum overferinger og
+disponeringer 5 -36 781
+Utskriftsdato 19.03.2026 Organisasjonsnr 836 296 222 Side 1 av 3
+
+Organisasjonsnr: 836 296 222
+GRE HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 4
+Sum anleggsmidler
+Omlepsmidler
+Varer
+Investeringer
+Omlepsaksjer og -aksjefond 6 6 893 572
+Andeler i deltakerligende
+selskaper 6
+Obligasjoner og
+pengemarkedsfond 6 14 382 437
+Andre finansielle
+instrumenter 6
+Sum investeringer 21 276 008
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 260 162
+Sum bankinnskudd,
+kontanter og lignende 260 162
+Sum omlepsmidler 21 536 170
+SUM EILENDELER 21 536 170 0
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5 30 000
+Overkurs 5 21 426 719
+Sum innskutt egenkapital 21 456 719
+Annen egenkapital 5
+Sum egenkapital 21 456 719
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 4
+Annen langsiktig gjeld
+Utskriftsdato 19.03.2026 Organisasjonsnr 836 296 222 Side 2 av 3
+
+Kortsiktig gjeld
+
+Leverandergjeld 20 250
+
+Betalbar skatt 4
+
+Annen kortsiktig gjeld 59 201
+
+Sum kortsiktig gjeld 79 451
+
+Sum gjeld 79 451
+
+SUM EGENKAPITAL OG GJELD 21 536 170 0
+Utskriftsdato 19.03.2026 Organisasjonsnr 836 296 222 Side 3 av 3
+
+Organisasjonsnr: 836 296 222
+
+GRE HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025 - GRE Holding AS
+Arsregnskap 2025 - GRE Holding AS
+Signers:
+Name Method Date
+Geir Roger Eriksen BankID OIDC High 2026-03-17 14:18
+Aleksander L Eriksen BankID OIDC High 2026-03-12 22:49
+This document package contains:
+- Front page (this page) This file is sealed with a digital signature,
+- The original document(s) The seal is a guarantee for the authenticity
+- The electronic signatures. These are not visible in the of the document.
+document, but are electronically integrated.
+THE SIGNED DOCUMENT FOLLOWS ON THE NEXT PAGE >
+
+Arsregnskap 2025
+Gre Holding AS
+org. nr. 836 296 222
+a
+. —
+Utarbeidet av Formue Accounting AS
+
+Gre Holding AS
+RESULTATREGNSKAP 12.09. - 31.12.
+
+Note 2025
+DRIFTSKOSTNADER
+Annen driftskostnad 3 (82 248)
+SUM DRIFTSKOSTNAD (82 248)
+DRIFTSRESULTAT (82 248)
+FINANSPOSTER
+Annen renteinntekt 45 467
+SUM FINANSPOSTER 45 467
+ORDINART RESULTAT F@R SKATTEKOSTNAD (36 781)
+Skattekostnad pa resultat 4 0
+ARSRESULTAT (36 781)
+DISPONERING (DEKNING) AV ARSRESULTATET
+Overfg@rt fra overkurs (36 781)
+SUM DISPONERT (DEKKET) 5 (36 781)
+
+Gre Holding AS
+BALANSE PR. 31.12.
+Note 2025
+
+EIENDELER
+OML@PSMIDLER
+Finansielle oml@psmidler
+Oml@psaksjer og -aksjefond 6 6 893 572
+Obligasjoner og pengemarkedsfond 6 14 382 437
+Sum finansielle oml¢@psmidler 21 276 008
+Bankinnskudd, kontanter o.1. 260 162
+SUM OML@PSMIDLER 21 536 170
+SUM EIENDELER 21 536 170
+
+Gre Holding AS
+BALANSE PR. 31.12.
+
+Note 2025
+EGENKAPITAL OG GJELD
+EGENKAPITAL
+Innskutt egenkapital
+Aksjekapital 5 30 000
+Overkurs 5 21 426 719
+Sum innskutt egenkapital 21 456 719
+SUM EGENKAPITAL 21 456 719
+GJELD
+Kortsiktig gjeld
+Leverandgrgjeld 20 250
+Annen kortsiktig gjeld 59 201
+Sum kortsiktig gjeld 79 451
+SUM GJELD 79 451
+SUM EGENKAPITAL OG GJELD 21 536 170
+
+09.03.2026
+Geir Roger Eriksen Aleksander Lillelien Eriksen
+styreleder/daglig leder styremedlem
+
+Gre Holding AS
+
+NOTER TIL ARSREGNSKAPET 2025
+REGNSKAPSPRINSIPPER
+Selskapet ble stiftet 12.09.2025
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer som skal tilbakebetales innen ett ar, er uansett
+klassifisert som oml¢@psmidler. Ved klassifisering av kortsiktig og langsiktig gjeld er tilsvarende
+kriterier lagt til grunn.
+Oml¢@psmidler
+Oml¢psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansef¢gres til nominelt mottatt beldép pa etableringstidspunktet.
+Investeringer i aksjer, andeler og andre finansielle instrumenter
+Kortsiktige plasseringer (aksjer, andeler mv. vurdert som oml@psmidler) vurderes til laveste av
+anskaffelseskost og virkelig verdi pa balansedagen. For verdipapirer som er en del av en
+veldiversifisert portefalje med innslag av ulike aktivaklasser der portefgljen forvaltes samlet med
+hensyn pa risiko og avkastning, benyttes laveste verdis prinsipp samlet for portefgljen.
+Inntektsfgring av avkastning pa investeringer
+Avkastning pa investering i aksjer, andeler og andre finansielle instrumenter, samt mottatt utbytte
+og andre utdelinger, inngar i avkastning pa finansinvesteringer under driftsinntekter. Avkastning
+inkluderer bade realiserte og urealiserte resultatfgrte belgp, renter pa obligasjoner og
+pengemarkedsfond og valutaendringer knyttet til investeringer. Negativ avkastning (resultatfgrte
+tap og nedskriving) kommer til fradrag. Netto negativ avkastning inngar i negativ avkastning pa
+finansinvesteringer under driftskostnader.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt/skattefordel er beregnet med 22% pa grunnlag av de midlertidige forskjeller
+som eksisterer mellom regnskapsmessige og skattemessige verdier. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode er
+utlignet. Utsatt skattefordel er i samsvar med god regnskapsskikk for sma foretak unnlatt
+balansef@rt.
+
+Gre Holding AS
+
+NOTER TIL ARSREGNSKAPET 2025
+NOTE 1 SAMMENSLATTE POSTER
+Positiv / Negativ avkastning finansinvesteringer 2025
+Sum 0
+NOTE 2 VIRKSOMHETEN
+Selskapets virksomhet er investering i verdipapirer, andre selskap og hva som naturlig faller inn
+under dette. Selskapets hovedkontor er i RBYKEN.
+NOTE 3 LONNSKOSTNADER, GODTGJ@RELSER MM
+Lénnskostnader 2025
+Sum 0
+Selskapet har i 2025 sysselsatt O arsverk.
+
+Gre Holding AS
+NOTER TIL ARSREGNSKAPET 2025
+NOTE 4 SKATT
+Arets skattekostnad 2025
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0
+Endring i utsatt skattefordel 0
+Skattekostnad ordinzert resultat 0
+Skattepliktig inntekt:
+Resultat for skatt -36 781
+Permanente forskjeller -6 500
+Skattepliktig inntekt -43 281
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0
+Sum betalbar skatt i balansen 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremf@ring som har gitt opphav til
+utsatt skatt og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025
+
+Akkumulert fremfgrbart underskudd -43 281
+Inngar ikke i beregningen av utsatt skatt 43 282
+Utsatt skattefordel / skatt (22 %) 0
+| henhold til God regnskapsskikk for sma foretak balansef@res ikke utsatt skattefordel.
+NOTE 5 EGENKAPITAL
+
+Annen Sum
+Egenkapital Aksjekapital Overkurs egenkapital/ egenkapital
+
+Udekket tap
+
+Stiftelse 12.09.2025 30 000 21 470 000 0 21 500 000
+Stiftelseskostnader 0 -6 500 0 -6 500
+Arets resultat 0 0 -36 781 -36 781
+Ompostering 0 -36 781 36 781 0
+31.12.2025 30 000 21 426 719 0 21 456 719
+
+Gre Holding AS
+NOTER TIL ARSREGNSKAPET 2025
+NOTE 6 INVESTERINGER I AKSJER, ANDELER OG ANDRE FINANSIELLE INSTRUMENTER
+Balansefort Virkelig
+
+Anskaffelses verdi verdi Uinnkalt
+Investeringer kost 31.12.2025 31.12.2025 —ansvar*)
+Oml@psaksjer og -aksjefond 6 893 572 6 893 572 7 131 783 0
+Obligasjoner og pengemarkedsfond 14 382 437 14382437 14523 182 0
+Sum 21276008 $ 21276008 21654965 0
+*) Uinnkalt ansvar er pa tidspunktet for avleggelse av regnskapet.

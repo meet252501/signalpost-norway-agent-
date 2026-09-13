@@ -1,0 +1,478 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 359863
+Virksomheten
+Organisasjonsnummer : 918 267 166
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: LOUMOR AS
+Forretningsadresse: Eilins vei 3
+1358 JAR
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Tina Louise Ree Eines
+Dato for fastsettelse av arsregnskapet: 23.02.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 918 267 166
+
+LOUMOR AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Avskrivning pa varige
+
+driftsmidler 2 12 817 5 340
+
+Annen driftskostnad 34 709 64 017
+
+Sum kostnader 47 526 69 357
+
+Driftsresultat -47 526 -69 357
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 15 184 028 9 639 563
+
+Annen renteinntekt 167 317 301
+
+Annen finansinntekt 330 000 165 000
+
+Sum finansinntekter 15 681 345 9 804 864
+
+Annen rentekostnad 664 0
+
+Annen finanskostnad 0 776
+
+Sum finanskostnader 664 776
+
+Netto finans 15 680 681 9 804 088
+
+Resultat fer skattekostnad 15 633 155 9 734 731
+
+Skattekostnad 129 697 46 460
+
+Arsresultat 15 503 458 9 688 271
+
+Arsresultat etter
+
+minoritetsinteresser 15 503 458 9 688 271
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 15 503 458 9 688 271
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 8 200 000 10 130 000
+
+Overferinger til/fra
+
+annen egenkapital 7 303 458 -441 729
+
+Sum overferinger og
+
+disponeringer 15 503 458 9 688 271
+Utskriftsdato 30.03.2026 Organisasjonsnr 918 267 166 Side 1 av 3
+
+Organisasjonsnr: 918 267 166
+LOUMOR AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Driftslesere, inventar,
+verktay, kontormaskiner 2 20 293 33 110
+Sum varige driftsmidler 20 293 33 110
+Finansielle anleggsmidler
+Investeringer 1
+tilknyttet selskap 6 350 371 6 350 371
+Lan til tilknyttet
+selskap og felles
+kontrollert virksomhet 150 000 0
+Investeringer 1 aksjer og
+andeler 7 293 500 11 000
+Sum finansielle
+anleggsmidler 13 793 871 6 361 371
+Sum anleggsmidler 13 814 164 6 394 481
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Sum fordringer 0 0
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 214 246 246 117
+Sum bankinnskudd,
+kontanter og lignende 214 246 246 117
+Sum omlepsmidler 214 246 246 117
+SUM ELENDELER 14 028 410 6 640 598
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 30.03.2026 Organisasjonsnr 918 267 166 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital
+
+{(selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital 5 555 694 5 555 694
+
+Sum innskutt egenkapital 5 585 694 5 585 694
+
+Opptjent egenkapital
+
+Annen egenkapital 8 299 166 995 709
+
+Sum opptjent egenkapital 8 299 166 995 709
+
+Sum egenkapital 13 884 860 6 581 403
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 0) 516
+
+Sum avsetninger for
+
+forpliktelser 0 516
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 516
+
+Kortsiktig gjeld
+
+Leverandergjeld 13 338 12 735
+
+Betalbar skatt 130 212 45 944
+
+Sum kortsiktig gjeld 143 550 58 679
+
+Sum gjeld 143 550 59 195
+
+SUM EGENKAPITAL OG GJELD 14 028 410 6 640 598
+Utskriftsdato 30.03.2026 Organisasjonsnr 918 267 166 Side 3 av 3
+
+Organisasjonsnr: 918 267 166
+
+LOUMOR AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Jar
+
+Virksomhetens art
+
+Selskap- og eiendomsinvestering og annet som
+
+naturlig faller sammen med dette.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+38450.00
+
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+38450.00
+
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+18157.00
+
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+20293 .00
+
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+12817.00
+
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap 2025
+Loumor AS
+(918 267 166)
+SPL oumor AS
+Loumor AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Avskrivning pa varige driftsmidler 2 12 817 5 340
+
+Annen driftskostnad 34 709 64 017
+Sum driftskostnader 47 526 69 357
+Driftsresultat -47 526 -69 357
+Finansinntekter
+
+Inntekt pa investering i datterselskap og tilknyttet selskap 15 184 028 9 639 563
+
+Annen renteinntekt 167 317 301
+
+Annen finansinntekt 330 000 165 000
+Sum finansinntekter 15 681 345 9 804 864
+Finanskostnader
+
+Annen rentekostnad 664 @)
+
+Annen finanskostnad (@) 776
+Sum finanskostnader 664 776
+Netto finans 15 680 681 9 804 088
+Resultat for skatt 15 633 155 9 734731
+Skattekostnad 129 697 46 460
+Arsresultat 15503 458 9688271
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 7 303 458 -441 729
+
+Ordinzert utbytte 8 200 000 10 130 000
+Sum overferinger og disponeringer 15 503 458 9 688 271
+
+Loumor AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+Driftslos@re, inventar, verktay, kontormaskiner 2 20 293 33 110
+Sum varige driftsmidler 20 293 33 110
+Finansielle anieggsmidler
+Investeringer i tilknyttet selskap 6 350 371 6 350 371
+Lan til tilknyttet selskap og felles kontrollert virksomhet 150 000 0
+Investeringer i aksjer og andeler 7 293 500 11 000
+Sum finansielle anleggsmidler 13 793 871 6 361 371
+Sum anleggsmidler 13 814164 6 394 481
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 214 246 246 117
+Sum omlepsmidler 214 246 246 117
+Sum eiendeler 14028 410 6 640 598
+Loumor AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital 5 555 694 5 555 694
+Sum innskutt egenkapital 5 585 694 5 585 694
+Opptjent egenkapital
+
+Annen egenkapital 8 299 166 995 709
+Sum opptjent egenkapital 8 299 166 995 709
+Sum egenkapital 13 884 860 6 581 403
+Gijeld
+Avsetning for forpliktelser
+
+Utsatt skatteforpliktelse (@) 516
+Sum avsetning for forpliktelser 0 516
+Kortsiktig gjeld
+
+Leverandergjeld 13 338 12 735
+
+Betalbar skatt 130 212 45 944
+Sum kortsiktig gjeld 143 550 58 679
+Sum gjeld 143 550 59 195
+Sum egenkapital og gjeld 14028 410 6 640 598
+
+Loumor AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Jar
+Virksomhetens art
+Selskap- og eiendomsinvestering og annet som naturlig faller sammen med dette.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Note 2: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 38 450
++ Kjop og annen tilgang i ar @)
+- Salg og annen avgang i ar 0
+= Anskaffelseskost 31. desember 38 450
+- Sum avskrivninger og nedskrivninger 18157
+= Balansefort verdi per 31.12. 20 293
+Arets avskrivninger og nedskrivninger 12 817
+Loumor AS Arsregnskap Side 5 av 6
+
+Loumor AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+
+Opprettet av Tina Eines <tina@loumor.no>
+
+Elektronisk signering
+MORTEN EINES REE (Styremedlem) TINA LOUISE REE EINES (Styreleder)
+21.12.1968 30.05.1970
+© Signert © Signert
+18.03.2026 17:43 === bankID 18.03.2026 12:47 === bankiID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 18.03.2026 17:43:19

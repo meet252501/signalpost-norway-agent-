@@ -1,0 +1,572 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 430348
+Virksomheten
+Organisasjonsnummer : 983 977 979
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: VATRANS AS
+Forretningsadresse: Marieroveien 5
+1390 VOLLEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: @ivind Nilsson
+Dato for fastsettelse av arsregnskapet: 06.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 18.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 983 977 979
+
+VATRANS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 743 758 2 624 327
+
+Sum inntekter 3 743 758 2 624 327
+
+Kostnader
+
+Varekostnad 1 239 306 874 148
+
+Lennskostnad 2 885 052 907 472
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 3 261 307 279 810
+
+Annen driftskostnad 581 892 708 695
+
+Sum kostnader 2 967 556 2 770 125
+
+Driftsresultat 776 202 -145 798
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 7 270 6 598
+
+Sum finansinntekter 7 270 6 598
+
+Annen rentekostnad 16 412 21 250
+
+Annen finanskostnad 13 938 2 000
+
+Sum finanskostnader 30 351 23 250
+
+Netto finans -23 080 -16 652
+
+Resultat fer skattekostnad 753 122 -162 450
+
+Skattekostnad pa resultat 4 256 936
+
+Arsresultat 753 122 -419 386
+
+Arsresultat etter
+
+minoritetsinteresser 753 122 -419 386
+
+Totalresultat 753 122 -419 386
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 753 122 -419 386
+
+Sum overferinger og
+
+disponeringer 753 122 -419 386
+Utskriftsdato 18.05.2026 Organisasjonsnr 983 977 979 Side 1 av 3
+
+Organisasjonsnr: 983 977 979
+
+VATRANS AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Driftslesere, inventar o.
+
+a. utstyr 3 1 001 765 322 072
+
+Sum varige driftsmidler 1 001 765 322 072
+
+Finansielle anleggsmidler
+
+Andre langsiktige
+
+fordringer 1 350 1 350
+
+Sum finansielle
+
+anleggsmidler 1 350 1 350
+
+Sum anleggsmidler 1 003 115 323 422
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 931 410 175 730
+
+Andre kortsiktige
+
+fordringer 174 981 38 024
+
+Sum fordringer 1 106 391 213 754
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 410 993 633 643
+
+Sum bankinnskudd,
+
+kontanter og lignende 410 993 633 643
+
+Sum omlepsmidler 1 517 384 847 397
+
+SUM ELENDELER 2 520 499 1 170 819
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 6 300 000 300 000
+
+Overkurs 5 1 283 603 1 283 603
+
+Sum innskutt egenkapital 1 583 603 1 583 603
+
+Opptijent egenkapital
+
+Udekket tap 5 292 874 1 045 996
+Utskriftsdato 18.05.2026 Organisasjonsnr 983 977 979 Side 2 av 3
+
+Sum opptjent egenkapital -292 874 -1 045 996
+
+Sum egenkapital 1 290 729 537 607
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 3 384 491 180 576
+
+@vrig langsiktig gjeld 136 924
+
+Sum annen langsiktig gjeld 384 491 317 500
+
+Sum langsiktig gjeld 384 491 317 500
+
+Kortsiktig gjeld
+
+Leverandergjeld 409 994 35 920
+
+Betalbar skatt 4
+
+Skyldig offentlige avgifter 344 859 182 685
+
+Annen kortsiktig gjeld 90 426 97 106
+
+Sum kortsiktig gjeld 845 279 315 712
+
+Sum gjeld 1 229 770 633 212
+
+SUM EGENKAPITAL OG GJELD 2 520 499 1 170 819
+Utskriftsdato 18.05.2026 Organisasjonsnr 983 977 979 Side 3 av 3
+
+Organisasjonsnr: 983 977 979
+
+VATRANS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+1.00
+
+VATRANS AS
+
+Note 1
+REGNSKAPSPRINSIPPER
+Selskapet er ifelge loven definert som sma foretak. Arsregnskapet er satt opp i samsvar med
+regnskapsloven. Det er utarbeidet etter norske regnskapsstandarder og anbefalinger til god
+regnskapsskikk. Inntekter bokfores ved levering. Selskapet tilbyr anleggstjenester fra kontor 1
+Vollen, Asker.
+DRIFTSINNTEKTER OG -KOSTNADER
+Inntektsforing skjer etter opptjeningsprinsippet som normalt vil vere leveringstidspunktet for
+varer og tjenester. Kostnader medtas etter sammenstillingsprinsippet, dvs. alle kostnader
+medtas 1 samme periode som tilhgrende inntekt inntektsfores.
+OMLOPSMIDLER/KORTSIKTIG GJELD
+Omlepsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar
+etter balansedagen, samt poster som knytter seg til varekretslopet. Omlopsmidler vurderes til
+laveste verdi av anskaffelseskost og virkelig verdi.
+VARIGE DRIFTSMIDLER OG AVSKRIVNINGER
+Varige driftsmidler er vurdert til historisk kost etter fradrag for bedriftsekonomiske
+avskrivninger som er beregnet pa grunnlag av kostpris og antatt @konomisk levetid. Varige
+driftsmidler nedskrives til gjenvinnbart belop ved verdifall som forventes ikke 4 vere
+forbigaende. Gjenvinnbart belgp er det hayeste av netto salgsverdi og verdi i bruk. Verdii
+bruk er naverdi av fremtidige kontantstrammer knyttet til eiendelen. Nedskrivningen
+reverseres nar grunnlaget for nedskrivningen ikke lenger er tilstede.
+VAREBEHOLDNING
+Varebeholdningen er vurdert til den laveste av kostpris og virkelig verdi. Virkelig verdi er
+netto salgsverdi pa fremtidig salgstidspunkt. Kostpris for tilvirkede varer er variabel
+tilvirkningskost.
+FORDRINGER
+Kundefordringer og andre fordringer oppfores til palydende etter fradrag for avsetning til
+forventede tap. Avsetning til tap gjores pa grunnlag av individuell vurdering av de enkelte
+fordringene. I tillegg gjores det for kundefordringer en uspesifisert avsetning for 4 dekke
+generell tapsrisiko.
+PENSJONSKOSTNADER OG PENSJONSFORPLIKTELSER
+Pensjonsordninger finansiert via sikrede ordninger er ikke balansefort. Pensjonspremien
+anses 1 disse tilfeller som pensjonskostnad og klassifiseres sammen med lennskostnader.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring 1
+utsatt skatt. Utsatt skatt 1 resultatregnskapet er skatt beregnet pa endringer i midlertidige
+forskjeller mellom skattemessige og regnskapsmessige verdier og inngar som en del av
+selskapets totale skattekostnader. Utsatt skatt avsettes som langsiktig gjeld i balansen. I den
+grad utsatt skattefordel overstiger utsatt skatt, medtas utsatt skattefordel ikke i balansen ihht
+god regnskapsskikk.
+
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures) av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering. SIGNICAT
+
+Note 2 Lennskostnader, antall ansatte, godtgjerelser, lan til ansatte mm.
+Lennskostnader 2025 2024
+Lgnninger kr. 723.450 kr. 766.142
+Folketrygdavgift kr. 108.841 = kr. 112.677
+Pensjonskostnader kr. 28.653 kr. 28.653
+Andre ytelser kr. 8.645 kr.
+Sum kr. 885.052 = kr. 907.472
+Gjennomsnittlig antall arsverk 1
+Note 3 Driftsmidler
+Driftslgsere, inventar,
+Verktoy med mer
+Anskaffelseskost 01.01. 12.169.118
+Tilgang kjopte driftsmidler 941.000
+Tilgang egentilvirkede
+driftsmidler
+Avgang
+Anskaffelseskost 31.12. 13.110.118
+Oppskrevet fer 01.01.99
+Akkumulerte avskrivninger 12.108.353
+Akkumulerte nedskrivninger
+Reverserte nedskrivninger
+Bokfert verdi 31.12. 1.001.765
+Arets avskrivninger 261.307
+Arets nedskrivninger
+Bokfert verdi av eiendeler stillet som sikkerhet for pant: kr. 608.000
+Pantesikret gjeld: kr. 384.491
+Selskapets totale garantiansvar pr. 31.12.25 er kr. 163.000 og gjelder Akershus
+Fylkeskommune.
+Note 4 Skatter
+Skatter kostnadsfores nar de palgper, det vil si at skattekostnaden er knyttet til det
+regnskapsmessige resultat for skatt. Skattekostnaden bestar av betalbar skatt (skatt pa arets
+skattepliktige inntekt) og endring 1 netto utsatt skatt. Skattekostnaden fordeles pa ordinzert
+resultat og resultat av ekstraordinzre poster 1 henhold til skattegrunnlaget.
+Arets skattekostnad fremkommer slik:
+Betalbar selskapsskatt kr. 0
+For lite avsatt tidligere ar kr.
+Bruttoendring utsatt skatt 1 balansen kr.
+Utsatt skatt pa prinsippendringer
+tatt mot egenkapitalen kr. 0
+Arets totale skattekostnad kr. 0
+Herav henfert til ekstraordinzert resultat kr. 0
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures) av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering. SIGNICAT
+
+Spesifikasjon av grunnlag for utsatt skatt:
+2025 2024
+Forskjeller som utlignes
+Anleggsmidler kr. kr.
+Omlepsmidler kr. kr.
+Gyeld kr. kr.
+Underskudd til fremfering
+(utloper ) kr. kr. 0
+Sum kr. 0 kr. 0
+Forskjeller som ikke utlignes
+Anleggsmidler kr. 549.364- kr. 707.827-
+Omlgpsmidler kr. 0 kr. 94.600-
+Gjeld kr. 0 kr. 0
+Underskudd til fremfgring kr. 27.337 kr. 527.916
+Sum kr. 576.701- kr. 1.330.340-
+Utsatt skattefordel — balansefores ikke kr. 126.874 kr. 292.675
+Utsatt skatt kr. 0 kr. 0
+Note 5 Egenkapital
+Aksje- Overkurs- Udekket
+kapital fond tap
+
+Egenkapital 01.01. 300.000 1.283.603 1.045.996
+Arets resultat 753.122
+Avsatt til utbytte
+Egenkapital 31.12. 300.000 1.283.603 292.874
+Prinsippendringer som er fort direkte mot egenkapitalen er omhandlet 1 noter foran.
+Note 6 Aksjekapital og aksjonzrinformasjon
+Eierstruktur
+Aksjonzren i VATRANS AS pr. 31.12.25 var:
+
+Antall Eler Stemme
+
+aksjer andel andel
+@ivind Nilsson 300 100% 100%
+Totalt antall aksjer 300 100% 100%
+Aksjer og opsjoner eiet av medlemmer i styret og daglig leder:
+Navn Verv A-aksjer
+@ivind Nilsson Styrets leder/daglig leder 300
+
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures) av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering. SIGNICAT
+
+Elektronisk signatur
+Signert av Dato og tid (UTC+01:00) Central European Time (Berlin) (DD. MM.YYYY HA: MM:SS)
+(identitet bekreftet med BankiD (NO) BankiD (N O )
+=== bankID
+
+bf MOORE Moore AS
+Tullins gate 2
+
+N-0166 Oslo
+
+T +47 22 98 15 40
+
+E info@moore-norway.no
+
+Org.nr. NO 823 389 272 MVA
+Til generalforsamlingen i VATRANS AS www.moore-norway.no
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet for VATRANS AS som viser et overskudd pa NOK 753.122. Arsregnskapet
+bestar av balanse per 31. desember 2025, resultatregnskap og oppstilling over endringer i egenkapital
+for regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av
+viktige regnskapsprinsipper.
+Etter var mening
+
+e oppfyller arsregnskapet gjeldende lovkrav, og
+
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025,
+og av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge.
+
+Grunniag for konklusjonen
+
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for
+Accountants (IESBA-reglene), og vi har overholdt vare @vrige etiske forpliktelser i samsvar med disse
+kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag
+for var konklusjon.
+
+Styrets ansvar for arsregnskapet
+
+Styret (ledelsen) er ansvarlig for 4 utarbeide arsregnskapet og for at det gir et rettvisende bilde i samsvar
+med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik
+internkontroll som den finner ngdvendig for 4 kunne utarbeide et regnskap som ikke inneholder vesentlig
+feilinformasjon, verken som felge av misligheter eller utilsiktede feil.
+
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn
+for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og 4 avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en hgy grad av sikkerhet, men ingen garanti
+for at en revisjon utfert i samsvar medISA-ene, alltid vil avdekke vesentlig feilinformasjon.
+Feilinformasjon kan oppsta som fglge av misligheter eller utilsiktede feil. Feilinformasjon er 4 anse som
+vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes 4 pavirke de gkonomiske
+beslutningene som brukerne foretar pa grunnlag av arsregnskapet.
+
+Som del av en revisjon i samsvar med ISA-ene, utover vi profesjonelt skjann og utviser profesjonell
+skepsis gjennom hele revisjonen. | tillegg:
+
+e identifiserer og vurderer vi risikoen for vesentlig feilinformasjon i regnskapet, enten det skyldes
+misligheter eller utilsiktede feil. Vi utformer og gjennomfgrer revisjonshandlinger for a handtere
+slike risikoer, og innhenter revisjonsbevis som er tilstrekkelig og hensiktsmessig som grunnlag
+for var konklusjon. Risikoen for at vesentlig feilinformasjon som fglge av misligheter ikke blir
+
+. Medlemmer av Den norske Revisorforening.
+Side 1 av 2 Registrert i Foretaksregisteret.
+An independent member firm of Moore Global Network Limited.
+Member firms in principal cities throughout the work.
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures) av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering. SIGNICAT
+
+avdekket, er hayere enn for feilinformasjon som skyldes utilsiktede feil, siden misligheter kan
+innebeere samarbeid, forfalskning, bevisste utelatelser, uriktige fremstillinger eller overstyring
+av internkontroll.
+
+e opparbeider vi oss en forstaelse av intern kontroll som er relevant for revisjonen, for a utforme
+revisjonshandlinger som er hensiktsmessige etter omstendighetene, men ikke for a gi uttrykk
+for en mening om effektiviteten av selskapets interne kontroll.
+
+e evaluerer vi om de anvendte regnskapsprinsippene er hensiktsmessige og om
+regnskapsestimatene og tilhgrende noteopplysninger utarbeidet av ledelsen er rimelige.
+
+e konkluderer vi pa om ledelsens bruk av fortsatt drift-forutsetningen er hensiktsmessig, og,
+basert pa innhentede revisjonsbevis, hvorvidt det foreligger vesentlig usikkerhet knyttet til
+hendelser eller forhold som kan skape tvil av betydning om selskapets evne til fortsatt drift.
+Dersom vi konkluderer med at det eksisterer vesentlig usikkerhet, kreves det at vi i
+revisjonsberetningen henleder oppmerksomheten pa tilleggsopplysningene i arsregnskapet,
+eller, dersom slike tilleggsopplysninger ikke er tilstrekkelige, at vi modifiserer var konklusjon.
+Vare konklusjoner er basert pa revisjonsbevis innhentet frem til datoen for
+revisjonsberetningen. Etterfelgende hendelser eller forhold kan imidlertid medfore at selskapet
+ikke kan fortsette driften.
+
+e evaluerer vi den samlede presentasjonen, strukturen og innholdet i arsregnskapet, inkludert
+tilleggsopplysningene, og hvorvidt arsregnskapet gir uttrykk for de underliggende
+transaksjonene og hendelsene pa en mate som gir et rettvisende bilde.
+
+Vi kommuniserer med styret blant annet om det planlagte innholdet i og tidspunkt for revisjonsarbeidet
+og eventuelle vesentlige funn i revisjonen, herunder vesentlige svakheter i intern kontroll som vi
+avdekker gjennom revisjonen.
+Oslo, 7. april 2026
+MOORE AS
+Jens Petter Hilsen
+Statsautorisert revisor
+(elektronisk signert}
+VATRANS AS
+Revisjonsberetning for 2025 Side 2 av 2
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures) av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering. SIGNICAT
+
+Elektronisk signatur
+Signert av Dato og tid (UTC+01:00) Central European Time (Berlin) (DD. MM.YYYY HA: MM:SS)
+ignoturmetode
+(identitet bekreftet med BankiD (NO) Bon k ID (N O )
+=== bankID
+
+RESULTATREGNSKAP |
+VATRANS AS
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 3 743 758 2 624 327
+Sum driftsinntekter 3 743 758 2 624 327
+Varekostnad 1 239 306 874 148
+Lénnskostnad 2 885 052 907 472
+Avskrivning av driftsmidler og immaterielle eiendeler 3 261 307 279 810
+Annen driftskostnad 581 892 708 695
+Sum driftskostnader 2 967 556 2770125
+Driftsresultat 776 202 -145 798
+FINANSINNTEKTER OG FINANSKOSTNADER
+Annen renteinntekt 7270 6 598
+Annen rentekostnad 16 412 21 250
+Annen finanskostnad 13 938 2 000
+Resultat av finansposter -23 080 -16 652
+Resultat for skattekostnad 753 122 -162 450
+Skattekostnad pa resultat 4 0 256 936
+Resultat 753 122 -419 386
+EKSTRAORDINARRE INNTEKTER OG KOSTNADER
+Arsresultat 753 122 -419 386
+OVERF@RINGER
+Avsatt til dekning av tidligere udekket tap 753 122 0
+Overfgrt til udekket tap 0 419 386
+Sum overfgringer 753 122 -419 386
+VATRANS AS SIDE 1
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures} av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering SIGNICAT
+
+BALANSE |
+VATRANS AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+Driftslgsgre, inventar o.a. utstyr 3 1001 765 322 072
+Sum varige driftsmidler 1001 765 322 072
+FINANSIELLE ANLEGGSMIDLER
+Andre langsiktige fordringer 1350 1 350
+Sum finansielle anleggsmidler 1350 1 350
+Sum anleggsmidler 1003 115 323 422
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 931 410 175 730
+Andre kortsiktige fordringer 174 981 38 024
+Sum fordringer 1 106 391 213 754
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 410 993 633 643
+Sum omlgpsmidler 1517 384 847 397
+Sum eiendeler 2 520 499 1170 819
+VATRANS AS SIDE 2
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures} av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering SIGNICAT
+
+BALANSE |
+VATRANS AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 5,6 300 000 300 000
+Overkurs 5 1 283 603 1 283 603
+Sum innskutt egenkapital 1 583 603 1 583 603
+OPPTJENT EGENKAPITAL
+Udekket tap 5 -292 874 -1 045 996
+Sum opptjent egenkapital -292 874 -1 045 996
+Sum egenkapital 1 290 729 537 607
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Gjeld til kredittinstitusjoner 3 384 491 180 576
+Pvrig langsiktig gjeld 0 136 924
+Sum annen langsiktig gjeld 384 491 317 500
+KORTSIKTIG GJELD
+Leverandgrgjeld 409 994 35 920
+Skyldig offentlige avgifter 344 859 182 685
+Annen kortsiktig gjeld 90 426 97 106
+Sum kortsiktig gjeld 845 279 315 712
+Sum gjeld 1 229 770 633 212
+Sum egenkapital og gjeld 2 520 499 1170 819
+Vollen , 06.04.2026
+Styret i Vatrans AS
+Zivind Nilsson
+styreleder/daglig leder
+VATRANS AS SIDE 3
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures} av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering SIGNICAT

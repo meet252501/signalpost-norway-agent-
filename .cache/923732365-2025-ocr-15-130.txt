@@ -1,0 +1,371 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 739461
+Virksomheten
+Organisasjonsnummer : 923 732 365
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: FRK HOLDING AS
+Forretningsadresse: c/o Frode Kjensrud
+Sigurds gate 22
+2004 LILLESTROM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Verena Krienke
+Dato for fastsettelse av Aarsregnskapet: 31.07.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 03.08.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 923 732 365
+
+FRK HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 2 854 3 244
+
+Sum kostnader 2 854 3 244
+
+Driftsresultat -2 854 -3 244
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 348 667 639 000
+
+Sum finansinntekter 348 667 639 000
+
+Annen rentekostnad 57 9
+
+Sum finanskostnader 57 9
+
+Netto finans 348 610 638 991
+
+Resultat fer skattekostnad 345 756 635 746
+
+Skattekostnad 2 930 2 778
+
+Arsresultat 342 826 632 968
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 195 000 539 000
+
+Tilleggsutbytte 150 000 100 000
+
+Overferinger til/fra
+
+annen egenkapital -2 174 -6 032
+
+Sum overferinger og
+
+disponeringer 342 826 632 968
+Utskriftsdato 03.08.2026 Organisasjonsnr 923 732 365 Side 1 av 3
+
+Organisasjonsnr: 923 732 365
+
+FRK HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 17 659 17 659
+
+Sum finansielle
+
+anleggsmidler 17 659 17 659
+
+Sum anleggsmidler 17 659 17 659
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre fordringer 348 667 612 109
+
+Sum fordringer 348 667 612 109
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 52 177 57 866
+
+Sum bankinnskudd,
+
+kontanter og lignende 52 177 57 866
+
+Sum omlepsmidler 400 843 669 975
+
+SUM ELENDELER 418 502 687 634
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Overkurs 5 570 5 570
+
+Sum innskutt egenkapital 35 570 35 570
+
+Opptjent egenkapital
+
+Annen egenkapital 108 111 110 286
+
+Sum opptjent egenkapital 108 111 110 286
+
+Sum egenkapital 143 681 145 856
+
+Kortsiktig gjeld
+
+Betalbar skatt 2 930 2 778
+
+Utbytte 271 891 539 000
+Utskriftsdato 03.08.2026 Organisasjonsnr 923 732 365 Side 2 av 3
+
+Sum kortsiktig gjeld 274 821 541 778
+
+Sum gjeld 274 821 541 778
+
+SUM EGENKAPITAL OG GJELD 418 502 687 634
+Utskriftsdato 03.08.2026 Organisasjonsnr 923 732 365 Side 3 av 3
+
+Organisasjonsnr: 923 732 365
+
+FRK HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Frk Holding AS
+Arsregnskap 2025
+
+Frk Holding AS Arsregnskap 2025
+org.nr.: 923732365
+1. Resultat og balanse
+2. Noter for innsending
+3. Signering
+&
+Generert av tripletex* 3107 2026 Side 2 av 6
+
+Frk Holding AS Arsregnskap 2025
+org.nr.: 923732365
+Resultat Noter 2025 2024
+Driftsinntekter og driftskostnader
+Lgannskostnad 1 0 0
+Annen driftskostnad 2 854 3244
+Sum driftskostnader 2 854 3244
+Driftsresultat -2 854 -3 244
+Finansinntekter og finanskostnader
+Annen finansinntekt 348 667 639 000
+Sum finansinntekter 348 667 639 000
+Annen rentekostnad 57 9
+Sum finanskostnader 57 9
+Netto finans 348 610 638 991
+Ordinzert resultat for skattekostnad 345 756 635 746
+Skattekostnader
+Skattekostnad pa ordinzert resultat 2930 2778
+Arsresultat 342 826 632 968
+Overferinger og disponeringer
+Utbytte 195 000 539 000
+Overfgringer til/fra annen egenkapital -2 174 -6 032
+Tilleggsutbytte 150 000 100 000
+Sum overfgringer og disponeringer 342 826 632 968
+Generert av Iripletex™" 3107 2026 Side 3 av 6
+
+Frk Holding AS Arsregnskap 2025
+org.nr.: 923732365
+Balanse Noter 2025 2024
+EIENDELER
+Anleggsmidler
+Investeringer i tilknyttet selskap 17 659 17 659
+Sum finansielle anleggsmidler 17 659 17 659
+Sum anleggsmidler 17 659 17 659
+Omlgpsmidler
+Andre fordringer 348 667 612 109
+Sum fordringer 348 667 612 109
+Bankinnskudd, kontanter og lignende 52 177 57 866
+Sum bankinnskudd, kontanter og lignende 52 177 57 866
+Sum omlgpsmidier 400 843 669 975
+Sum eiendeler 418 502 687 634
+EGENKAPITAL OG GJELD
+Egenkapital
+Selskapskapital 30 000 30 000
+Overkurs 5 570 5 570
+Sum innskutt egenkapital 35 570 35 570
+Annen Egenkapital 108 111 110 286
+Sum opptjent egenkapital 108 111 110 286
+Sum egenkapital 143 681 145 856
+Gjeld
+Betalbar skatt 2930 2778
+Utbytte 271 891 539 000
+Sum kortsiktig gjeld 274 821 541778
+Sum gjeld 274 821 541778
+Sum egenkapital og gjeld 418 502 687 634
+Generert av Iripletex™" 3107 2026 Side 4 av 6
+
+Frk Holding AS Arsregnskap 2025
+org.nr.: 923732365
+
+&
+Generert av tripletex* 3107 2026 Side 5av 6
+
+Frk Holding AS Arsregnskap 2025
+org.nr.: 923732365
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+** Klassifisering **
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer med forfall mer enn ett ar etter balansedagen er medtatt som anleggsmidler. Gjeld
+som forfaller senere enn ett ar etter balansedagen er oppfart som langsiktig gjeld.
+** Varige driftsmidler **
+Varige driftsmidler er vurdert til anskaffelseskost etter fradrag for bedriftsa@konomiske avskrivninger som er
+beregnet pa grunnlag av kostpris og antatt levetid.
+** Aksjer **
+Omlgpsaksjer er vurdert til markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til kostpris. | de
+tilfeller der den virkelige verdien er lavere enn kostprisen og dette ikke er forbigaende, er det foretatt
+nedskrivning.
+** Fordringer **
+Kundefordringer og andre fordringer er oppfart til palydende etter fradrag for konstaterte og forventede tap.
+** Skatter **
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbar skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet pa grunnlag av midlertidige forskjeller mellom regnskapsmessige og skattemessige verdier,
+samt eventuelt ligningsmessig underskudd til fremfgring ved utgangen av regnskapsaret. Utsatt skatt er avsatt
+som langsiktig gjeld i balansen. | den grad utsatt skattefordel overstiger utsatt skatt, er utsatt skattefordel tatt
+med i balansen iht. god regnskapsskikk.
+** Driftsinntekter og kostnader **
+Inntektsfgring falger opptjeningsprinsippet, som normalt vil falge leveringstidspunktet for varer og tjenester.
+Kostnader er tatt med etter sammenstillingsprinsippet, det vil si at kostnadene er tatt med i samme periode
+som tilhgrende inntekter.
+#1 Antall arsverk
+Antall arsverk i regnskapsaret: 0
+Generert av Iripletex™" 3107 2026 Side 6av 6

@@ -1,0 +1,488 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 589088
+Virksomheten
+Organisasjonsnummer : 995 354 314
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: EIENDOMSTILSYNET AS
+Forretningsadresse: c/o Nyhuus
+Taulegs 1A
+1684 VESTERGY
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Rolf Atle Nyhuus
+Dato for fastsettelse av Aarsregnskapet: 25.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 995 354 314
+
+ELENDOMSTILSYNET AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 404 167 314 212
+
+Sum inntekter 1 404 167 314 212
+
+Kostnader
+
+Lennskostnad 2, 3 0 164 740
+
+Annen driftskostnad 26 101 3 675
+
+Sum kostnader 26 101 168 415
+
+Driftsresultat 1 378 066 145 797
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 14 961 32 580
+
+Annen finansinntekt 212 946 0
+
+Sum finansinntekter 227 907 32 580
+
+Annen rentekostnad 436 262
+
+Annen finanskostnad 799 799
+
+Sum finanskostnader 1 235 1 061
+
+Netto finans 226 672 31 519
+
+Resultat fer skattekostnad 1 604 738 177 316
+
+Skattekostnad 306 290 39 066
+
+Arsresultat 1 298 448 138 250
+
+Arsresultat etter
+
+minoritetsinteresser 1 298 448 138 250
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 1 298 448 138 250
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 1 298 448 138 250
+
+Sum overferinger og
+
+disponeringer 1 298 448 138 250
+Utskriftsdato 27.06.2026 Organisasjonsnr 995 354 314 Side 1 av 3
+
+Organisasjonsnr: 995 354 314
+
+ELENDOMSTILSYNET AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Varelager 75 000 0
+
+Sum varer 75 000 0
+
+Fordringer
+
+Kundefordringer 0 125 000
+
+Andre kortsiktige
+
+fordringer 50 000 0
+
+Sum fordringer 50 000 125 000
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 2 937 011 1179 915
+
+Sum bankinnskudd,
+
+kontanter og lignende 2 937 011 1179 915
+
+Sum omlepsmidler 3 062 011 1 304 915
+
+SUM ELENDELER 3 062 011 1 304 915
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 100 000 100 000
+
+Sum innskutt egenkapital 100 000 100 000
+Utskriftsdato 27.06.2026 Organisasjonsnr 995 354 314 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 2 327 605 1 029 157
+
+Sum opptjent egenkapital 2 327 605 1 029 157
+
+Sum egenkapital 2 427 605 1129 157
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Betalbar skatt 306 290 39 067
+
+Skyldig offentlige avgifter 327 616 119 076
+
+Annen kortsiktig gjeld 500 17 615
+
+Sum kortsiktig gjeld 634 406 175 758
+
+Sum gjeld 634 406 175 758
+
+SUM EGENKAPITAL OG GJELD 3 062 011 1 304 915
+Utskriftsdato 27.06.2026 Organisasjonsnr 995 354 314 Side 3 av 3
+
+Organisasjonsnr: 995 354 314
+
+ELENDOMSTILSYNET AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Vesteray
+
+Virksomhetens art
+
+A drive med plan- og reguleringsarbeid,
+
+ansvarlig seker og prosjektering i byggesaker. Uavhengig kontroll av
+
+byggeprosjekter og radgivende konsulentvirksomhet, eiendoms-forvaltning og
+annen forretningsmessig virksomhet som anses fremmende for selskapet og hva
+dermed star i forbindelse, herunder deltagelse i andre virksomheter.
+Note
+2
+Antall Aarsverk i regnskapsaret
+0.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+140000.00
+Folketryqdavgift Arets Fjorarets
+19740.00
+Andre ytelser Arets Fjorarets
+5000.00
+Sum lennskostnader Arets Fjorarets
+164740.00
+Note
+4
+Virkelig verdi og resultatfert verdiendr. i perioden, finansielle instrumenter
+Eiendel Virk. verdi  Verdiendring
+Bersnoterte aksjer 0.00 212946.00
+Sum Virk. Verdi  Verdiendring
+0.00 212946.00
+Mer om finansielle instrumenter
+Beskrivelse av finansielle derivater
+
+Arsregnskap 2025
+Eiendomstilsynet AS
+(995 354 314)
+Eiendomstilsynet AS Arsregnskap Side 1 av6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 1 404 167 314 212
+Sum driftsinntekter 1 404 167 314 212
+Driftskostnader
+
+L@nnskostnad 2,3 (@) 164 740
+
+Annen driftskostnad 26 101 3675
+Sum driftskostnader 26 101 168 415
+Driftsresultat 1 378 066 145 797
+Finansinntekter
+
+Annen renteinntekt 14 961 32 580
+
+Annen finansinntekt 212 946 @)
+Sum finansinntekter 227 907 32 580
+Finanskostnader
+
+Annen rentekostnad 436 262
+
+Annen finanskostnad 799 799
+Sum finanskostnader 1 235 1061
+Netto finans 226 672 31 519
+Resultat for skatt 1 604 738 177 316
+Skattekostnad 306 290 39 066
+Arsresultat 1298 448 138 250
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital 1 298 448 138 250
+Sum overferinger og disponeringer 1 298 448 138 250
+
+Eiendomstilsynet AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Varelager 75 000 0
+Fordringer
+Andre kortsiktige fordringer 50 000 @)
+Kundefordringer @) 125 000
+Sum fordringer 50 000 125 000
+Bankinnskudd, kontanter o.l. 2 937 011 1179915
+Sum omlepsmidler 3062011 1304915
+Sum eiendeler 3062011 1304915
+Eiendomstilsynet AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+
+Annen egenkapital 2 327 605 1 029 157
+Sum opptjent egenkapital 2 327 605 1 029 157
+Sum egenkapital 2427605 1129157
+Gijeld
+Kortsiktig gjeld
+
+Betalbar skatt 306 290 39 067
+
+Skyldig offentlige avgifter 327 616 119 076
+
+Annen kortsiktig gjeld 500 17 615
+Sum kortsiktig gjeld 634 406 175 758
+Sum gjeld 634 406 175 758
+Sum egenkapital og gjeld 3062011 1304915
+
+Eiendomstilsynet AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Vesteray
+Virksomhetens art
+A drive med plan- og reguleringsarbeid, ansvarlig soker og prosjektering i byggesaker.
+Uavhengig kontroll av byggeprosjekter og radgivende konsulentvirksomhet, eiendoms-
+forvaltning og annen forretningsmessig virksomhet som anses fremmende for selskapet og hva
+dermed star i forbindelse, herunder deltagelse i andre virksomheter.
+Note 2: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Note 3: Lonnskostnader
+
+2025 2024
+L@nn @) 140 000
+Arbeidsgiveravgift ) 19 740
+Pensjon @) 0
+Andre ytelser fe) 5 000
+Sum lonnskostnader 0 164 740
+Eiendomstilsynet AS Arsregnskap Side 5 av 6
+
+Note 4: Finansielle instrumenter vurdert til virkelig verdi
+Periodens
+Virkelig resultatforte
+verdi verdiendring
+Bersnoterte aksjer 0 212 946
+= Sum 0 212 946
+Eiendomstilsynet AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Rolf A. Nyhuus <forvaltning@stenbergholding.no>
+Elektronisk signering
+ROLF ATLE NYHUUS
+24.10.1968 - Daglig leder, Styreleder
+Y) Signert
+25.06.2026 09:45 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 25.06.2026 09:42:28

@@ -1,0 +1,518 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 671484
+Virksomheten
+Organisasjonsnummer : 917 554 579
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: 5ARNS DATA AS
+Forretningsadresse: Geilen 1A
+2690 SKJAK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Omar Lien
+Dato for fastsettelse av arsregnskapet: 29.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 13.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 917 554 579
+
+SARNS DATA AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 4 106 175 2 024 350
+
+Annen driftsinntekt 713 0
+
+Sum inntekter 4 106 888 2 024 350
+
+Kostnader
+
+Varekostnad 2 658 537 1 242 050
+
+Lennskostnad 3, 4 631 576 515 293
+
+Annen driftskostnad 939 539 353 816
+
+Sum kostnader 4 229 652 2 111 159
+
+Driftsresultat -122 764 -86 809
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 157 110
+
+Annen finansinntekt 2 001 1 392
+
+Sum finansinntekter 2 158 1 502
+
+Annen rentekostnad 7 511 9 298
+
+Annen finanskostnad 1 380 120
+
+Sum finanskostnader 8 891 9 418
+
+Netto finans -6 733 -7 916
+
+Resultat fer skattekostnad -129 497 -94 725
+
+Arsresultat -129 497 -94 725
+
+Arsresultat etter
+
+minoritetsinteresser -129 497 -94 725
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -129 497 -94 725
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -129 513 -94 725
+
+Overferinger til/fra
+
+annen egenkapital 16 0
+
+Sum overferinger og
+
+disponeringer -129 497 -94 725
+Utskriftsdato 13.07.2026 Organisasjonsnr 917 554 579 Side 1 av 3
+
+Organisasjonsnr: 917 554 579
+
+5ARNS DATA AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Andre langsiktige
+
+fordringer 434 434
+
+Sum finansielle
+
+anleggsmidler 434 434
+
+Sum anleggsmidler 434 434
+
+Omlepsmidler
+
+Varer
+
+Varelager 258 357 110 807
+
+Sum varer 258 357 110 807
+
+Fordringer
+
+Kundefordringer 66 682 126 035
+
+Andre kortsiktige
+
+fordringer 1 078 1 078
+
+Sum fordringer 67 760 127 113
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 144 072 37 829
+
+Sum bankinnskudd,
+
+kontanter og lignende 144 072 37 829
+
+Sum omlepsmidler 470 189 275 749
+
+SUM ELENDELER 470 623 276 183
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 150 000 50 000
+Utskriftsdato 13.07.2026 Organisasjonsnr 917 554 579 Side 2 av 3
+
+Sum innskutt egenkapital 150 000 50 000
+
+Opptijent egenkapital
+
+@reavrunding 1
+
+Udekket tap 267 301 137 804
+
+Sum opptjent egenkapital -267 301 -137 803
+
+Sum egenkapital -117 301 -87 803
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 77 #749 130 414
+
+Leverandergjeld 237 247 12 736
+
+Betalbar skatt 401 401
+
+Skyldig offentlige avgifter 143 635 136 195
+
+Annen kortsiktig gjeld 128 892 84 240
+
+Sum kortsiktig gjeld 587 924 363 986
+
+Sum gjeld 587 924 363 986
+
+SUM EGENKAPITAL OG GJELD 470 623 276 183
+Utskriftsdato 13.07.2026 Organisasjonsnr 917 554 579 Side 3 av 3
+
+Organisasjonsnr: 917 554 579
+
+5ARNS DATA AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oppdal
+
+Virksomhetens art
+
+Selskapet skal drive data firma og
+
+virksomhet forbundet med dette, samt ved aksjetegning eller pa annen mate
+
+gj@re seg interessert i andre virksomheter.
+Note
+2
+Er det usikkerhet om fortsatt drift?: Nei
+Eierne vil sikre tilfersel av kapital for a sikre likviditet til 4 betale
+gjeld og andre forpliktelser.
+Pa bakgrunn av dette avlegges arsregnskapet
+under forutsetning om fortsatt drift.
+Note
+3
+Antall Arsverk i regnskapsaret
+1.20
+Note
+4
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+560468.00 457779.00
+Folketryqdavgift Arets Fjorarets
+38951.00 31010.00
+Pensjonskostnader Arets Fjorarets
+28156.00 25690.00
+Andre ytelser Arets Fijorarets
+4000.00 814.00
+Sum lennskostnader Arets Fjorarets
+631576.00 515293.00
+
+Arsregnskap 2025
+S5arns Data AS
+(917 554 579)
+5arns Data AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 4106175 2024 350
+
+Annen driftsinntekt 713 (@)
+Sum driftsinntekter 4106 888 2024350
+Driftskostnader
+
+Varekostnad 2658 537 1242050
+
+Lennskostnad 3,4 631 576 515 293
+
+Annen driftskostnad 939 539 353 816
+Sum driftskostnader 4229652 2111159
+Driftsresultat -122 764 -86 809
+Finansinntekter
+
+Annen renteinntekt 157 110
+
+Annen finansinntekt 2 OO1 1 392
+Sum finansinntekter 2 158 1 502
+Finanskostnader
+
+Annen rentekostnad 7 511 9 298
+
+Annen finanskostnad 1 380 120
+Sum finanskostnader 8 891 9 418
+Netto finans -6 733 -7 916
+Resultat for skatt -129 497 -94 725
+Arsresultat -129497 -94725
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 16 @)
+
+Udekket tap -129 513 -94 725
+Sum overferinger og disponeringer -129 497 -94 725
+
+5arns Data AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anieggsmidler
+
+Andre langsiktige fordringer 434 434
+Sum finansielle anleggsmidler 434 434
+Sum anleggsmidler 434 434
+Omlepsmidler
+Varelager 258 357 110 807
+Fordringer
+
+Andre kortsiktige fordringer 1 078 1078
+
+Kundefordringer 66 682 126 035
+Sum fordringer 67 760 127 113
+Bankinnskudd, kontanter o.l. 144 072 37 829
+Sum omlepsmidler 470189 275749
+Sum eiendeler 470623 276183
+
+5arns Data AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 150 000 50 000
+Sum innskutt egenkapital 150 000 50 000
+Opptjent egenkapital
+Annen egenkapital 0 1
+Udekket tap -267 301 -137 804
+Sum opptjent egenkapital -267 301 -137 803
+Sum egenkapital -117301 -87 803
+Gijeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner, kortsiktig 77 749 130 414
+Leverandergjeld 237 247 12 736
+Betalbar skatt 401 401
+Skyldig offentlige avgifter 143 635 136 195
+Annen kortsiktig gjeld 128 892 84 240
+Sum kortsiktig gjeld 587 924 363 986
+Sum gjeld 587 924 363 986
+Sum egenkapital og gjeld 470623 276183
+5arns Data AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oppdal
+Virksomhetens art
+Selskapet skal drive data firma og virksomhet forbundet med dette, samt ved aksjetegning eller
+pa annen mate gj@re seg interessert i andre virksomheter.
+Note 2: Usikkerhet rundt fortsatt drift
+Eierne vil sikre tilforsel av kapital for  sikre likviditet til 4 betale gjeld og andre forpliktelser. Pa
+bakgrunn av dette aviegges arsregnskapet under forutsetning om fortsatt drift.
+Note 3: Arsverk
+Antall arsverk er 1,2.
+
+5arns Data AS Arsregnskap Side 5 av 6
+
+Note 4: Lonnskostnader
+2025 2024
+Lenn 560 468 457 779
+Arbeidsgiveravgift 38 951 31 010
+Pensjon 28 156 25 690
+Andre ytelser 4 000 814
+Sum lonnskostnader 631 576 515 293
+5arns Data AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Omar Lien <femmarn@gmail.com>
+Elektronisk signering
+TOM HENRY LIEN LARS INGE BERGER HERMANSEN
+07.08.1984 - Styremedlem 08.05.1988 - Styremedlem
+Y) Signert Y) Signert
+29.05.2026 13:53 10.07.2026 11:27 === bankID
+OMAR LIEN
+17.09.1988 - Daglig leder, Styreleder
+Y) Signert
+17.06.2026 09:57 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 29.05.2026 11:25:45

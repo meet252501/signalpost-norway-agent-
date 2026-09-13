@@ -1,0 +1,422 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 533783
+Virksomheten
+Organisasjonsnummer : 923 847 049
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: YNGLINGEVEIEN EIENDOM AS
+Forretningsadresse: c/o Varde-Eiendom AS
+Hevikveien 2A
+1363 H@OVIK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Helge Festay Hellebust
+Dato for fastsettelse av arsregnskapet: 08.06.2026
+Revisjon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 10.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 923 847 049
+
+YNGLINGEVEIEN EIENDOM AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 59 026 60 521
+
+Sum kostnader 59 026 60 521
+
+Driftsresultat -59 026 -60 521
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+1 samme konsern 3 502 468 455 475
+
+Sum finansinntekter 502 468 455 475
+
+Rentekostnad til foretak
+
+i samme konsern 3 114 439 32 926
+
+Annen rentekostnad 1 493 397 1 493 784
+
+Sum finanskostnader 1 607 836 1 526 710
+
+Netto finans -1 105 368 -1 O71 235
+
+Resultat fer skattekostnad -1 164 394 -1 131 756
+
+Skattekostnad pa resultat 4
+
+Arsresultat 5 -1 164 394 -1 131 756
+
+Arsresultat etter
+
+minoritetsinteresser -1 164 394 -1 131 756
+
+Totalresultat -1 164 394 -1 131 756
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -1 164 394 -1 131 756
+
+Sum overferinger og
+
+disponeringer -1 164 394 -1 131 756
+Utskriftsdato 10.06.2026 Organisasjonsnr 923 847 049 Side 1 av 3
+
+Organisasjonsnr: 923 847 049
+
+YNGLINGEVEIEN EIENDOM AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 3 9 854 832 9 854 832
+
+Lan til foretak i samme
+
+konsern 3 10 352 254 9 781 786
+
+Investeringer i aksjer og
+
+andeler 155 000 155 000
+
+Sum finansielle
+
+anleggsmidler 20 362 086 19 791 618
+
+Sum anleggsmidler 20 362 086 19 791 618
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Konsernfordringer 3
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 246 246 739
+
+Sum bankinnskudd,
+
+kontanter og lignende 246 246 739
+
+Sum omlepsmidler 246 246 739
+
+SUM ELENDELER 20 362 332 20 038 357
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6 100 000 100 000
+
+Beholdning av egne aksjer 6
+
+Annen innskutt egenkapital -5 770 -5 770
+
+Sum innskutt egenkapital 94 230 94 230
+
+Opptjent egenkapital
+
+Annen egenkapital 5 770 5 770
+
+Udekket tap 7 3 545 231 2 380 837
+
+Sum opptjent egenkapital -3 539 461 -2 375 067
+Utskriftsdato 10.06.2026 Organisasjonsnr 923 847 049 Side 2 av 3
+
+Sum egenkapital 5 -3 445 231 -2 280 837
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 8 20 000 000 20 000 000
+
+Langsiktig konserngjeld 3, 8 2 920 357 1 665 918
+
+@vrig langsiktig gjeld 670 138 414 580
+
+Sum annen langsiktig gjeld 8 23 590 495 22 080 498
+
+Sum langsiktig gjeld 23 590 495 22 080 498
+
+Kortsiktig gjeld
+
+Leverandergjeld 6 647
+
+Betalbar skatt 4
+
+Annen kortsiktig gjeld 217 068 232 049
+
+Sum kortsiktig gjeld 217 068 238 696
+
+Sum gjeld 23 807 563 22 319 194
+
+SUM EGENKAPITAL OG GJELD 20 362 332 20 038 357
+Utskriftsdato 10.06.2026 Organisasjonsnr 923 847 049 Side 3 av 3
+
+Organisasjonsnr: 923 847 049
+
+YNGLINGEVEIEN EIENDOM AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Ynglingeveien Eiendom AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 923 847 049
+
+RESULTATREGNSKAP |
+YNGLINGEVEIEN EIENDOM AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 59 026 60 521
+Sum driftskostnader 59 026 60 521
+Driftsresultat -59 026 -60 521
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Renteinntekt fra foretak i samme konsern 3 502 468 455 475
+Rentekostnad til foretak i samme konsern 3 114 439 32 926
+Annen rentekostnad 1 493 397 1 493 784
+Resultat av finansposter -1 105 368 -1 071 235
+Resultat for skattekostnad -1 164 394 -1 131 756
+Resultat -1 164 394 -1 131 756
+Arsresultat 5 -1 164 394 -1 131 756
+OVERF@RINGER
+
+Overfart til udekket tap 1 164 394 1 131 756
+Sum overfgringer -1 164 394 -1 131 756
+YNGLINGEVEIEN EIENDOM AS SIDE 2
+
+BALANSE |
+YNGLINGEVEIEN EIENDOM AS
+
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+
+FINANSIELLE ANLEGGSMIDLER
+
+Investeringer i datterselskap 3 9 854 832 9 854 832
+Lan til foretak i samme konsern 3 10 352 254 9 781 786
+Investeringer i aksjer og andeler 155 000 155 000
+Sum finansielle anleggsmidler 20 362 086 19 791 618
+Sum anleggsmidler 20 362 086 19 791 618
+OML@PSMIDLER
+
+Bankinnskudd, kontanter o.|. 246 246 739
+Sum omlgpsmidler 246 246 739
+Sum eiendeler | 20 362332, 20 038 357
+YNGLINGEVEIEN EIENDOM AS SIDE 3
+
+BALANSE |
+YNGLINGEVEIEN EIENDOM AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 6 100 000 100 000
+Annen innskutt egenkapital -5770 -5 770
+Sum innskutt egenkapital 94 230 94 230
+OPPTJENT EGENKAPITAL
+Annen egenkapital 5770 5770
+Udekket tap 7 -3 545 231 -2 380 837
+Sum opptjent egenkapital -3 539 461 -2 375 067
+Sum egenkapital 5 -3 445 231 -2 280 837
+GJELD
+ANNEN LANGSIKTIG GJELD
+Gjeld til kredittinstitusjoner 8 20 000 000 20 000 000
+Langsiktig konserngjeld 3,8 2 920 357 1 665 918
+Ovrig langsiktig gjeld 670 138 414 580
+Sum annen langsiktig gjeld 8 23 590 495 22 080 498
+KORTSIKTIG GJELD
+Leverand@rgjeld 0 6 647
+Annen kortsiktig gjeld 217 068 232 049
+Sum kortsiktig gjeld 217 068 238 696
+Sum gjeld 23 807 563 22 319 194
+Sum egenkapital og gjeld | 20 362 332| 20 038 357
+08.06.2026
+Styret i Ynglingeveien Eiendom AS
+Bj argulf Gjessvag Helge Festay Hellebust
+styremediem styreleder
+YNGLINGEVEIEN EIENDOM AS SIDE 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Oml¢psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+AKSJER | DATTERSELSKAP
+
+Datterselskap vurderes etter kostmetoden i selskapsregnskapet. Investeringen er vurdert til
+anskaffelseskost for aksjene med mindre nedskrivning har veert nédvendig. Det er foretatt nedskrivning til
+virkelig verdi nar verdifall skyldes arsaker som ikke kan forventes a veere forbigaende og det ma anses
+ngdvendig etter god regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke
+lenger er til stede.
+
+Utbytte, konsernbidrag og andre utdelinger fra datterselskap er inntektsfgrt samme ar som det er avsatt i
+givers regnskap. Overstiger utbytte / konsernbidraget andelen av opptjent resultat etter
+anskaffelsestidspunktet, representerer den overskytende del tilbakebetaling av investert kapital, og
+utdelingene er fratrukket investeringens verdi i balansen til morselskapet.
+
+Note 1 Virksomhetens art og lokalisering
+
+Ynglingeveien Eiendom AS er et selskap der virksomheten omfatter Utvikling og salg av byggeprosjekter.
+Selskapet er lokalisert i Baerum kommune.
+
+Note 2 Lénnskostnader
+
+Ynglingeveien Eiendom AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen
+slike forpliktelser.
+
+Note 3 Datterselskap, samt transaksjoner med konsernselskap
+Kontor- Eier-ogstemme-  Anskaffelses Balansefgrt Andel Andel
+kommune andel i % kost verdi egenkapital _resultat
+DS
+Ynglingeveien 42A AS OSLO 100 9 854832 9854 832 527792 -362 550
+Sum 9854832 9854832 527792 -362550
+Investering i datterselskap vurderes etter kostmetoden i selskapsregnskapet.
+Transaksjoner med Konsernselskaper
+2025 2024
+Langsiktig gjeld til Varde Eiendom AS 2 920 357 1 665 918
+Langsiktig fordring Ynglingeveien 42A AS 10 352 254 9 781 786
+Fordring og gjeld er renteberegnet med 5% rente i 2025.
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -1 164 394 -1 131 756
+Permanente forskjeller 0 0
+Skattepliktig inntekt -1 164 394 -1 131 756
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -3 545 231 -2 380 837 1164 394
+Inngar ikke i beregningen av utsatt skatt 3545 231 2 380 837 -1 164 394
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+
+Note 5 Egenkapital
+Aksjekapital Annen Innskutt Annen_ Udekket tap Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 100 000 5770 -5 770 -2 380 837 -2 280 837
+Arets resultat -1 164 394 -1 164 394
+Pr 31.12.2025 100 000 5770 -5 770 -3 545 231 -3 445 231
+Note 6 Aksjonzrer
+AKSJEKAPITALEN | YNGLINGEVEIEN EIENDOM AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfgrt
+Ordinzere aksjer 1 000 100,0 100 000
+Sum 1000 100 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+Ordinzre Eierandel Stemmeandel
+Varde Eiendom AS 800 80,0 80,0
+Storgata Eiendom AS 200 20,0 20,0
+Totalt antall aksjer 1000 100,0 100,0
+Styret er indirekte eier
+Note 7 Fortsatt drift
+Underliggende eiendom i datterselskap vurderes a ha merverdier, og det forventes at selskapet vil kunne
+generere overskudd nar prosjektet er ferdigutviklet. Pa denne bakgrunn er arsregnskapet avlagt under
+forutsetning om fortsatt drift.
+Note 8 Gjeld / Pantstillelser
+All langsiktig gjeld forfaller for fem ar etter regnskapsarets slutt
+2025 2024
+Gjeld til kredittinstitusjoner 20 000 000 20 000 000
+Langsiktig gjeld til konsernselskaper 2 920 357 1 665 918
+Annen langsiktig gjeld 670 138 414 580
+Sum 23 590 495 22 080 498
+Annen langsiktig gjeld bestar av gjeld til aksjonzer, Storgata Eiendom AS.
+DNB Bank har pantsatt eiendom i datterselskapet, Ynglingeveien 42a AS, med kr 120 000 000.

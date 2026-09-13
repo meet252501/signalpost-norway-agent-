@@ -1,0 +1,403 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 675366
+Virksomheten
+Organisasjonsnummer : 991 724 044
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: KNEKTFOLK PROSJEKTER AS
+Forretningsadresse: c/o Gerhard Anthun
+Sondrevegen 2L
+0378 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Gerhard Anthun
+Dato for fastsettelse av Aarsregnskapet: 30.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 14.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 991 724 044
+
+KNEKTFOLK PROSJERTER AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 26 100 90 900
+
+Sum inntekter 26 100 90 900
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 46 175 40 705
+
+Sum kostnader 46 175 40 705
+
+Driftsresultat -20 075 50 195
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 3 157 2 209
+
+Annen finansinntekt 3 15 564 14 545
+
+Verdigkning
+
+markedsbaserte omlepsmidler 81 345 36 487
+
+Sum finansinntekter 97 066 53 241
+
+Verdireduksjon
+
+markedsbaserte omlepsmidler 22 340
+
+Annen finanskostnad 20 400
+
+Sum finanskostnader 20 400 22 340
+
+Netto finans 76 666 30 901
+
+Resultat fer skattekostnad 56 592 81 096
+
+Skattekostnad pa resultat 4
+
+Arsresultat 5 56 592 81 096
+
+Arsresultat etter
+
+minoritetsinteresser 56 592 81 096
+
+Totalresultat 56 592 81 096
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 56 592 81 096
+
+Sum overferinger og
+
+disponeringer 56 592 81 096
+Utskriftsdato 14.07.2026 Organisasjonsnr 991 724 044 Side 1 av 3
+
+Organisasjonsnr: 991 724 044
+
+KNEKTFOLK PROSJEKTER AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4
+
+Sum anleggsmidler
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 40 500
+
+Andre kortsiktige
+
+fordringer 1
+
+Sum fordringer 40 501
+
+Investeringer
+
+Markedsbaserte aksjer 3 443 461 383 186
+
+Markedsbaserte obligasjoner 3
+
+Andre markedsbaserte
+
+finansielle instrumenter 3
+
+Sum investeringer 443 461 383 186
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 218 182 192 514
+
+Sum bankinnskudd,
+
+kontanter og lignende 218 182 192 514
+
+Sum omlepsmidler 661 644 616 200
+
+SUM ELENDELER 661 644 616 200
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6 100 000 100 000
+
+Beholdning av egne aksjer 6
+
+Sum innskutt egenkapital 100 000 100 000
+
+Opptjent egenkapital
+
+Annen egenkapital 7 553 409 496 817
+
+Sum opptjent egenkapital 553 409 496 817
+
+Sum egenkapital 5 653 409 596 817
+Utskriftsdato 14.07.2026 Organisasjonsnr 991 724 044 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Betalbar skatt 4
+
+Skyldig offentlige avgifter -915 6 534
+
+Annen kortsiktig gjeld 9 150 12 849
+
+Sum kortsiktig gjeld 8 235 19 383
+
+Sum gjeld 8 235 19 383
+
+SUM EGENKAPITAL OG GJELD 661 644 616 200
+Utskriftsdato 14.07.2026 Organisasjonsnr 991 724 044 Side 3 av 3
+
+Organisasjonsnr: 991 724 044
+
+KNEKTFOLK PROSJEKTER AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Knektfolk Prosjekter AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 991 724 044
+
+RESULTATREGNSKAP |
+KNEKTFOLK PROSJEKTER AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 26 100 90 900
+Sum driftsinntekter 26 100 90 900
+Annen driftskostnad 46175 40 705
+Sum driftskostnader 46175 40 705
+Driftsresultat -20 075 50 195
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 3 157 2 209
+Annen finansinntekt 3 15 564 14 545
+Verdigkning markedsbaserte omlgpsmidler 81 345 36 487
+Verdireduksjon markedsbaserte omlgpsmidler 0 22 340
+Annen finanskostnad 20 400 0
+Resultat av finansposter 76 666 30 901
+Resultat for skattekostnad 56 592 81 096
+Arsresultat 5 | 56 592 81 096
+OVERF@RINGER
+
+Avsatt til annen egenkapital 56 592 81 096
+Sum overfgringer 56 592 81 096
+KNEKTFOLK PROSJEKTER AS SIDE 2
+
+BALANSE |
+
+KNEKTFOLK PROSJEKTER AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 0 40 500
+Andre kortsiktige fordringer 0 1
+Sum fordringer 0 40 501
+INVESTERINGER
+Markedsbaserte aksjer 3 443 461 383 186
+Sum investeringer 443 461 383 186
+Bankinnskudd, kontanter o.|. 218 182 192 514
+Sum omlgpsmidler 661 644 616 200
+Sum eiendeler 661 644 616 200
+KNEKTFOLK PROSIJEKTER AS SIDE 3
+
+BALANSE |
+KNEKTFOLK PROSJEKTER AS
+
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 6 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 7 553 409 496 817
+Sum opptjent egenkapital 553 409 496 817
+Sum egenkapital 5 653 409 596 817
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+KORTSIKTIG GJELD
+Skyldig offentlige avgifter -915 6 534
+Annen kortsiktig gjeld 9150 12 849
+Sum kortsiktig gjeld 8 235 19 383
+Sum gjeld 8 235 19 383
+Sum egenkapital og gjeld 661 644 616 200
+
+Oslo, 30.06.2026
+
+Styret i Knektfolk Prosjekter AS
+Gerhard Anthun
+styreleder/daglig leder
+
+KNEKTFOLK PROSJEKTER AS SIDE 4
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Oml¢psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Note 1 Virksomhetens art og lokalisering
+Knektfolk Prosjekter AS er et selskap der virksomheten omfatter Bedriftsradgivning og annen administrativ
+radgivning. Selskapet er lokalisert i Oslo kommune.
+Note 2 Lénnskostnader og antall arsverk
+L@NNSKOSTNADER
+2025 2024
+Sum 0 0
+Selskapet har i 2025 sysselsatt O arsverk.
+Note 3 Markedsbaserte verdipapirer
+Markeds- Balansefort
+verdi verdi
+Markedsbaserte aksjer
+Aksjeportefglje 443 461 443 461
+Sum markedsbaserte aksjer 443 461 443 461
+Sum 443 461 443 461
+Markedsbaserte verdipapirer er verdsatt til virkelig verdi. Virkelig verdi er fastsatt i henhold til verdien som
+er observerbar i markedet pa balansedagen.
+
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt 56 592 81 096
+Permanente forskjeller -60 946 -28 256
+Anvendelse av fremfgrbart underskudd 0 -52 840
+Skattepliktig inntekt -4 354 0
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -196 923 -192 569 4 354
+Inngar ikke i beregningen av utsatt skatt 196 923 192 569 -4 354
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 5 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 100 000 0 0 496 817 596 817
+Arets resultat 56 592 56 592
+Pr 31.12.2025 100 000 0 0 553 409 653 409
+Note 6 Aksjonzerer
+AKSJEKAPITALEN | KNEKTFOLK PROSJEKTER AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+Ordinzere aksjer 100 1 000,0 100 000
+Sum 100 100 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+Ordinzere Eierandel Stemmeandel
+Gerhard Anthun 100 100,0 100,0
+
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+
+Navn Verv Ordinzere
+Gerhard Anthun styreleder/daglig leder 100
+Totalt antall aksjer 100
+Note 7 Fortsatt drift
+
+Resultatet for 2025 viser et overskudd pa kr. 56 592 etter skatt, mot kr. 81 096 i 2024.
+
+Soliditeten og likviditeten er fortsatt god og det er ikke noe som indikerer at driften ikke kan fortsette.
+Styret vurderer at forutsetningene for fortsatt drift er til stede og legger det til grunn for sin virksomhet.

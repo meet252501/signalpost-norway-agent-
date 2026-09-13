@@ -1,0 +1,490 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 436448
+Virksomheten
+Organisasjonsnummer : 920 125 980
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: KOA SOLUTIONS AS
+Forretningsadresse: Manglerudveien 73
+0678 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Karsten Helmsgard-Rennes
+Dato for fastsettelse av arsregnskapet: 11.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 12.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 920 125 980
+
+KOA SOLUTIONS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 2 373 571 2 257 570
+
+Sum inntekter 2 373 571 2 257 570
+
+Kostnader
+
+Lennskostnad 2, 3 1 808 452 1 605 692
+
+Avskrivning pa varige
+
+driftsmidler 4 10 405 10 405
+
+Annen driftskostnad 86 683 29 002
+
+Sum kostnader 1 905 540 1 645 099
+
+Driftsresultat 468 031 612 471
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 3 652 3 872
+
+Annen finansinntekt 198 502 18 868
+
+Sum finansinntekter 202 154 22 740
+
+Annen finanskostnad 36 964 1 580
+
+Sum finanskostnader 36 964 1 580
+
+Netto finans 165 190 21 160
+
+Resultat fer skattekostnad 633 221 633 631
+
+Skattekostnad 103 760 135 326
+
+Arsresultat 529 461 498 305
+
+Arsresultat etter
+
+minoritetsinteresser 529 461 498 305
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 529 461 498 305
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 529 461 498 305
+
+Sum overferinger og
+
+disponeringer 529 461 498 305
+Utskriftsdato 12.05.2026 Organisasjonsnr 920 125 980 Side 1 av 3
+
+Organisasjonsnr: 920 125 980
+KOA SOLUTIONS AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Driftslesere, inventar,
+verktay, kontormaskiner 4 29 482 39 888
+Sum varige driftsmidler 29 482 39 888
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 580 747 580 747
+Sum finansielle
+anleggsmidler 580 747 580 747
+Sum anleggsmidler 610 229 620 635
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Kundefordringer 300 300 270 270
+Andre kortsiktige
+fordringer 12 389 0
+Sum fordringer 312 689 270 270
+Investeringer
+Markedsbaserte aksjer 2 145 247 1 687 103
+Sum investeringer 2 145 247 1 687 103
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 133 138 95 246
+Sum bankinnskudd,
+kontanter og lignende 133 138 95 246
+Sum omlepsmidler 2 591 074 2 052 619
+SUM ELENDELER 3 201 303 2 673 254
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 12.05.2026 Organisasjonsnr 920 125 980 Side 2 av 3
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 2 664 393 2 134 932
+
+Sum opptjent egenkapital 2 664 393 2 134 932
+
+Sum egenkapital 2 694 393 2 164 932
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 625 1 449
+
+Sum avsetninger for
+
+forpliktelser 625 1 449
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 625 1 449
+
+Kortsiktig gjeld
+
+Betalbar skatt 104 584 135 783
+
+Skyldig offentlige avgifter 234 707 225 627
+
+Annen kortsiktig gjeld 166 994 145 463
+
+Sum kortsiktig gjeld 506 285 506 873
+
+Sum gjeld 506 910 508 322
+
+SUM EGENKAPITAL OG GJELD 3 201 303 2 673 254
+Utskriftsdato 12.05.2026 Organisasjonsnr 920 125 980 Side 3 av 3
+
+Organisasjonsnr: 920 125 980
+
+KOA SOLUTIONS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Utvikling av hardware og software i system
+
+som logger og analyserer data. Basert pa kalkulerte modeller fremstiller
+
+selskapet oversikt over gjentagende menstre og presenterer anbefalte
+aksjonssteg.
+Note
+2
+Antall Arsverk i regnskapsaret
+1.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+1581370.00 1377500.00
+Folketryqdavgift Arets Fjorarets
+223592.00 221130.00
+Andre ytelser Arets Fjorarets
+3490.00 7062.00
+Sum l@e@nnskostnader Arets Fjorarets
+1808452.00 1605692 .00
+Note
+4
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+52027.00
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+52027.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+22545.00
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+29482 .00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+10405.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap 2025
+Koa Solutions AS
+(920 125 980)
+Koa Solutions AS Arsregnskap Side 1 av6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 2 373 571 2 257 570
+Sum driftsinntekter 2 373 571 2 257 570
+Driftskostnader
+
+Lo@nnskostnad 2,3 1 808 452 1 605 692
+
+Avskrivning pa varige driftsmidler 4 10 405 10 405
+
+Annen driftskostnad 86 683 29 002
+Sum driftskostnader 1 905 540 1 645 099
+Driftsresultat 468 031 612 471
+Finansinntekter
+
+Annen renteinntekt 3 652 3 872
+
+Annen finansinntekt 198 502 18 868
+Sum finansinntekter 202 154 22 740
+Finanskostnader
+
+Annen finanskostnad 36 964 1 580
+Sum finanskostnader 36 964 1 580
+Netto finans 165 190 21 160
+Resultat for skatt 633 221 633 631
+Skattekostnad 103 760 135 326
+Arsresultat 529 461 498 305
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital 529 461 498 305
+Sum overferinger og disponeringer 529 461 498 305
+
+Koa Solutions AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Driftslos@re, inventar, verktay, kontormaskiner 4 29 482 39 888
+Sum varige driftsmidler 29 482 39 888
+Finansielle anieggsmidler
+
+Investeringer i aksjer og andeler 580 747 580 747
+Sum finansielle anleggsmidler 580 747 580 747
+Sum anleggsmidler 610 229 620 635
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 12 389 @)
+
+Kundefordringer 300 300 270 270
+Sum fordringer 312 689 270 270
+Investeringer
+
+Markedsbaserte aksjer 2145 247 1 687 103
+Sum investeringer 2 145 247 1 687 103
+Bankinnskudd, kontanter o.l. 133 138 95 246
+Sum omlepsmidler 2591074 2052619
+Sum eiendeler 3201303 2673254
+
+Koa Solutions AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Annen egenkapital 2 664 393 2134 932
+Sum opptjent egenkapital 2 664 393 2 134 932
+Sum egenkapital 2694393 2164932
+Gijeld
+Avsetning for forpliktelser
+
+Utsatt skatteforpliktelse 625 1 449
+Sum avsetning for forpliktelser 625 1 449
+Kortsiktig gjeld
+
+Betalbar skatt 104 584 135 783
+
+Skyldig offentlige avgifter 234 707 225 627
+
+Annen kortsiktig gjeld 166 994 145 463
+Sum kortsiktig gjeld 506 285 506 873
+Sum gjeld 506 910 508 322
+Sum egenkapital og gjeld 3201303 2673254
+
+Koa Solutions AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Utvikling av hardware og software i system som logger og analyserer data. Basert pa kalkulerte
+modeller fremstiller selskapet oversikt over gjentagende monstre og presenterer anbefalte
+aksjonssteg.
+Note 2: Arsverk
+Antall arsverk er 1.
+Note 3: Lonnskostnader
+
+2025 2024
+Lonn 1 581 370 1 377 500
+Arbeidsgiveravgift 223 592 221 130
+Pensjon @) @]
+Andre ytelser 3 490 7 062
+Sum lonnskostnader 1 808 452 1 605 692
+Koa Solutions AS Arsregnskap Side 5 av 6
+
+Note 4: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 52 027
++ Kjap og annen tilgang i ar (@)
+- Salg og annen avgang i ar (@)
+= Anskaffelseskost 31. desember 52 027
+- Sum avskrivninger og nedskrivninger 22 545
+= Balansefort verdi per 31.12. 29 482
+Arets avskrivninger og nedskrivninger 10 405
+Koa Solutions AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Karsten Helmsgard-Rennes <karsten.rennaes@gmail.com>
+Elektronisk signering
+KARSTEN HELMSGARD-RENNES
+14.08.1984 - Styreleder
+Y) Signert
+11.05.2026 11:20
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 11.05.2026 11:19:18

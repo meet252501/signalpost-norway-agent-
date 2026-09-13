@@ -1,0 +1,432 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 417377
+Virksomheten
+Organisasjonsnummer : 934 385 888
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: SMARTBIGBAG SOLUTIONS AS
+Forretningsadresse: Idrettsveien 48B
+9603 HAMMERFEST
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ole Martin Olsen
+Dato for fastsettelse av arsregnskapet: 02.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 05.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 934 385 888
+
+SMARTBIGBAG SOLUTIONS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 84 102 81 574
+
+Sum kostnader 84 102 81 574
+
+Driftsresultat -84 102 -81 574
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 0 0
+
+Resultat fer skattekostnad -84 102 -81 574
+
+Arsresultat -84 102 -81 574
+
+Arsresultat etter
+
+minoritetsinteresser -84 102 -81 574
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -84 102 -81 574
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -84 102 -81 574
+
+Sum overferinger og
+
+disponeringer -84 102 -81 574
+Utskriftsdato 05.05.2026 Organisasjonsnr 934 385 888 Side 1 av 3
+
+Organisasjonsnr: 934 385 888
+SMARTBIGBAG SOLUTIONS AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Konsesjoner, patenter,
+lisenser o.1. 3 10 000 10 000
+Sum immaterielle eiendeler 10 000 10 000
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Sum finansielle
+anleggsmidler 0 0
+Sum anleggsmidler 10 000 10 9000
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Sum fordringer 0 0
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 9 324 93 426
+Sum bankinnskudd,
+kontanter og lignende 9 324 93 426
+Sum omlepsmidler 9 324 93 426
+SUM ELENDELER 19 324 103 426
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital
+(selskapskapital) 30 000 30 000
+Overkurs 152 500 152 500
+Sum innskutt egenkapital 182 500 182 500
+Opptjent egenkapital
+
+Utskriftsdato 05.05.2026 Organisasjonsnr 934 385 888 Side 2 av 3
+
+Udekket tap 165 676 81 574
+
+Sum opptjent egenkapital -165 676 -81 574
+
+Sum egenkapital 16 824 100 926
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 fe]
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 2 500 2 500
+
+Sum kortsiktig gjeld 2 500 2 500
+
+Sum gjeld 2 500 2 500
+
+SUM EGENKAPITAL OG GJELD 19 324 103 426
+Utskriftsdato 05.05.2026 Organisasjonsnr 934 385 888 Side 3 av 3
+
+Organisasjonsnr: 934 385 888
+
+SMARTBIGBAG SOLUTIONS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Hammerfest
+
+Virksomhetens art
+
+Utvikle, selge og lisensiere patenter
+
+og andre innovasjoner innen berekraftige lesninger med fokus pa longlife og
+
+ombruk. Selskapet kan fremme milj@vennlig teknologi og l@sninger, primert
+
+innen sektorer som bygg, landbruk og logistikk, samt drive med annen
+
+virksomhet som star naturlig i forbindelse med dette.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Eierne vil sikre tilfgrsel av kapital for a sikre likviditet til Aa betale
+
+gjeld og andre forpliktelser.
+
+Pa bakgrunn av dette avlegges arsregnskapet
+
+under forutsetning om fortsatt drift.
+
+Note
+
+4
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+3
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+10000.00
+
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+10000.00
+
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+10000.00
+
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap 2025
+smartbigbag Solutions AS
+(934 385 888)
+Smartbigbag Solutions AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 84 102 81574
+Sum driftskostnader 84 102 81574
+Driftsresultat -84102 -81574
+Resultat fer skatt -84102 -81574
+Arsresultat -84102 -81574
+Overforinger og disponeringer
+
+Udekket tap -84 102 -81 574
+Sum overferinger og disponeringer -84 102 -81 574
+
+Smartbigbag Solutions AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Immaterielle eiendeler
+
+Konsesjoner, patenter, lisenser o.1. 3 10 000 10 000
+Sum immaterielle eiendeler 10 000 10 000
+Sum anleggsmidler 10 000 10 000
+Omlepsmidler
+Bankinnskudd, kontanter ol. 9 324 93 426
+Sum omlepsmidler 9 324 93 426
+Sum eiendeler 19 324 103 426
+
+Smartbigbag Solutions AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Overkurs 152 500 152 500
+Sum innskutt egenkapital 182 500 182 500
+Opptjent egenkapital
+
+Udekket tap -165 676 -81 574
+Sum opptjent egenkapital -165 676 -81 574
+Sum egenkapital 16824 100926
+Gijeld
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 2 500 2 500
+Sum kortsiktig gjeld 2 500 2 500
+Sum gjeld 2 500 2 500
+Sum egenkapital og gjeld 19324 103426
+
+Smartbigbag Solutions AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Hammerfest
+Virksomhetens art
+Utvikle, selge og lisensiere patenter og andre innovasjoner innen beerekraftige lasninger med
+fokus pa longlife og ombruk. Selskapet kan fremme miljovennlig teknologi og lasninger, primeert
+innen sektorer som bygg, landbruk og logistikk, samt drive med annen virksomhet som star
+naturlig i forbindelse med dette.
+Note 2: Usikkerhet rundt fortsatt drift
+Eierne vil sikre tilforsel av kapital for 4 sikre likviditet til 4 betale gjeld og andre forpliktelser. Pa
+bakgrunn av dette avlegges arsregnskapet under forutsetning om fortsatt drift.
+
+Smartbigbag Solutions AS Arsregnskap Side 5 av 6
+
+Note 3: Anleggsmidler
+Immaterielle
+Varige driftsmidler eiendeler
+Anskaffelseskost 01.01 fe) 10 000
++ Kjap og annen tilgang i ar @) 0
+- Salg og annen avgang i ar fe) @)
+= Anskaffelseskost 31. desember 0 10 000
+- Sum avskrivninger og nedskrivninger ) 0
+= Balansefort verdi per 31.12. ¢) 10 000
+Arets avskrivninger og nedskrivninger ¢) @)
+@konomisk levetid pa immaterielle eiendeler
+Avskrivningsplan pa immaterielle eiendeler
+Note 4: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Smartbigbag Solutions AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Smartbigbag solutions as <olsenogwulff@hotmail.com>
+Elektronisk signering
+OLE MARTIN OLSEN EVA WULFF
+13.01.1968 - Styreleder 29.10.1965 - Styremediem
+Y) Signert Y Signert
+02.05.2026 17:48 02.05.2026 17:48
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 02.05.2026 17:46:03

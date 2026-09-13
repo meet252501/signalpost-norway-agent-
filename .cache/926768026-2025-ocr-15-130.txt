@@ -1,0 +1,405 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 601272
+Virksomheten
+Organisasjonsnummer : 926 768 026
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: THREE SOULS AS
+Forretningsadresse: Akebergveien 18B
+0650 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Sem Gebregziabher Petros
+Dato for fastsettelse av arsregnskapet: 31.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 926 768 026
+
+THREE SOULS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 125 708 110 463
+
+Annen driftsinntekt 16 207 20 000
+
+Sum inntekter 141 915 130 463
+
+Kostnader
+
+Varekostnad 136 532 85 250
+
+Annen driftskostnad 54 764 17 563
+
+Sum kostnader 191 297 102 813
+
+Driftsresultat -49 382 27 650
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 0
+
+Sum finanskostnader e) fe)
+
+Netto finans fe) e)
+
+Resultat fer skattekostnad -49 382 27 650
+
+Arsresultat -49 382 27 650
+
+Arsresultat etter
+
+minoritetsinteresser -49 382 27 650
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -49 382 27 650
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -66 021 0
+
+Overferinger til/fra
+
+annen egenkapital 16 638 27 650
+
+Sum overferinger og
+
+disponeringer -49 382 27 650
+Utskriftsdato 30.06.2026 Organisasjonsnr 926 768 026 Side 1 av 3
+
+Organisasjonsnr: 926 768 026
+THREE SOULS AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Sum finansielle
+anleggsmidler 0 0
+Sum anleggsmidler 0 0
+Omlepsmidler
+Varer
+Varelager 16 638 0
+Sum varer 16 639 0
+Fordringer
+Kundefordringer 0 20 000
+Sum fordringer 0 20 000
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 0 6 576
+Sum bankinnskudd,
+kontanter og lignende 0 6 576
+Sum omlepsmidler 16 639 26 576
+SUM EIENDELER 16 639 26 576
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital
+(selskapskapital) 32 000 32 000
+Sum innskutt egenkapital 32 000 32 000
+Opptijent egenkapital
+@reavrunding 1
+
+Utskriftsdato 30.06.2026 Organisasjonsnr 926 768 026 Side 2 av 3
+
+Udekket tap 113 057 63 674
+
+Sum opptjent egenkapital -113 056 -63 674
+
+Sum egenkapital -81 056 -31 674
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 fe]
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 91 695 0
+
+Leverandergjeld 0 52 250
+
+Annen kortsiktig gjeld 6 000 6 000
+
+Sum kortsiktig gjeld 97 695 58 250
+
+Sum gjeld 97 695 58 250
+
+SUM EGENKAPITAL OG GJELD 16 639 26 576
+Utskriftsdato 30.06.2026 Organisasjonsnr 926 768 026 Side 3 av 3
+
+Organisasjonsnr: 926 768 026
+
+THREE SOULS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Drift av bandet "Three Souls" og annet som
+
+faller naturlig ved dette.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Det er trolig at selskapet vil legges ned som falge av at bandet som er
+knyttet til bedriften trolig vil stoppe sin virksomhet ila. aret. Det er
+dog forel@pig ingenting som er besluttet.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Three Souls AS
+(926 768 026)
+THREE
+SOULS
+Three Souls AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 125 708 110 463
+
+Annen driftsinntekt 16 207 20 000
+Sum driftsinntekter 141915 130463
+Driftskostnader
+
+Varekostnad 136 532 85 250
+
+Annen driftskostnad 54 764 17 563
+Sum driftskostnader 191 297 102 813
+Driftsresultat -49 382 27 650
+Resultat for skatt -49382 27650
+Arsresultat -49 382 27650
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 16 638 27 650
+
+Udekket tap -66 021 0
+Sum overferinger og disponeringer -49 382 27 650
+
+Three Souls AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Varelager 16 638 0
+Fordringer
+Kundefordringer @) 20 000
+Sum fordringer 0 20 000
+Bankinnskudd, kontanter o.l. 0 6 576
+Sum omlepsmidier 16 639 26 576
+Sum eiendeler 16639 26576
+Three Souls AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 32 000 32 000
+Sum innskutt egenkapital 32 000 32 000
+Opptjent egenkapital
+Annen egenkapital 1 0
+Udekket tap -113 057 -63 674
+Sum opptjent egenkapital -113 056 -63 674
+Sum egenkapital -81056 -31674
+Gijeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner, kortsiktig 91 695 @)
+Leverandergjeld @) 52 250
+Annen kortsiktig gjeld 6 000 6 000
+Sum kortsiktig gjeld 97 695 58 250
+Sum gjeld 97 695 58 250
+Sum egenkapital og gjeld 16639 26576
+Three Souls AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Drift av bandet "Three Souls" og annet som faller naturlig ved dette.
+Note 2: Usikkerhet rundt fortsatt drift
+Det er trolig at selskapet vil legges ned som folge av at bandet som er knyttet til bedriften trolig
+vil stoppe sin virksomhet ila. ret. Det er dog forelopig ingenting som er besluttet.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Three Souls AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Sem Petros <threesoulsband@gmail.com>
+Elektronisk signering
+SEM GEBREGZIABHER PETROS
+15.07.1997 - Styreleder
+Y) Signert
+28.06.2026 12:53 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 28.06.2026 12:52:20

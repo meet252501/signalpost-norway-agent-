@@ -1,0 +1,369 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 302564
+Enheten
+Organisasjonsnummer : 912 030 938
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SHABAN & @VLAND AS
+Forretningsadresse: Kornmagasingata 5
+3160 STOKKE
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Jan Martin @vland
+Dato for fastsettelse av arsregnskapet: 23.01.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 26.01.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 912 030 938
+
+SHABAN & @VLAND AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 49 625 49 875
+
+Sum inntekter 49 625 49 875
+
+Kostnader
+
+Lennskostnad 5 000 5 000
+
+Annen driftskostnad 2 30 018 24 000
+
+Sum kostnader 35 018 29 000
+
+Driftsresultat 14 607 20 875
+
+Netto finans
+
+Resultat fer skattekostnad 14 607 20 875
+
+Skattekostnad pa resultat 3 3 214 -1 949
+
+Arsresultat 4 11 393 22 824
+
+Arsresultat etter
+
+minoritetsinteresser 11 393 22 824
+
+Totalresultat 11 393 22 824
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 6 863 22 824
+
+Avsatt til annen
+
+egenkapital 4 530
+
+Sum overferinger og
+
+disponeringer 11 393 22 824
+Utskriftsdato 26.01.2026 Organisasjonsnr 912 030 938 Side 1 av 3
+
+Organisasjonsnr: 912 030 938
+
+SHABAN & @VLAND AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3 1 949
+
+Sum immaterielle eiendeler 1 949
+
+Sum anleggsmidler 0 1 949
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 44 625 49 875
+
+Sum fordringer 44 625 49 875
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 5 785 786
+
+Sum bankinnskudd,
+
+kontanter og lignende 785 786
+
+Sum omlepsmidler 45 410 50 661
+
+SUM EITENDELER 45 410 52 610
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 4 4 530
+
+Udekket tap 4 6 863
+
+Sum opptjent egenkapital 4 530 -6 863
+
+Sum egenkapital 4 34 530 23 137
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Betalbar skatt 1 265
+
+Annen kortsiktig gjeld 2 9 614 29 473
+
+Sum kortsiktig gjeld 10 879 29 473
+Utskriftsdato 26.01.2026 Organisasjonsnr 912 030 938 Side 2 av 3
+
+Sum gjeld 10 879 29 473
+SUM EGENKAPITAL OG GJELD 45 410 52 610
+Utskriftsdato 26.01.2026 Organisasjonsnr 912 030 938 Side 3 av 3
+
+Organisasjonsnr: 912 030 938
+
+SHABAN & OVLAND AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+Sum Belgap
+
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+
+Kons ernregns kap
+
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Samlet bel@p - tilknyttet selskap Arets Fjorarets
+Samlet belep - foretak i samme konserm Arets Fjorarets
+Samlet belap - foretak i samme konsern Arets Fjorarets
+Samlet belep - felles kontrollert virksomhet Arets Fjorarets
+Pantstillelse Belap
+Beholdning av _egne aksjer Antall Palydende Andel av aksjek.
+
+Shaban & Ovland AS
+Arsoppgjer 2025
+
+* Resultatregnskap
+
+* Balanse
+
+* Noter til regnskapet
+
+Resultatregnskap
+Shaban & @viand AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Salgsinntekt 49 625 49 875
+Sum driftsinntekter 49 625 49 875
+Lennskostnad 5 000 5 000
+Annen driftskostnad 2 30 018 24 000
+Sum driftskostnader 35 018 29 000
+Driftsresultat 14 607 20 875
+Finansinntekter og finanskostnader
+Resultat for skattekostnad 14 607 20 875
+Skattekostnad pa resultat 3 3214 -1 949
+Resultat 11 393 22 824
+Ekstraordinzre inntekter og kostnader
+Arsresultat 4 11 393 22 824
+Overferinger
+Avsatt til dekning av tidligere udekket tap 6 863 22 824
+Avsatt til annen egenkapital 4 530 0
+Sum overferinger 11 393 22 824
+
+Balanse
+
+Shaban & Oviand AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Utsatt skattefordel 3 0 1 949
+Sum immaterielle eiendeler 0 1 949
+Sum anleggsmidler 0 1949
+Omlepsmidler
+Kundefordringer 44 625 49 875
+Sum fordringer 44 625 49 875
+Bankinnskudd, kontanter o.1. 5 785 786
+Sum omlspsmidler 45 410 50 661
+Sum eiendeler 45 410 52 610
+Egenkapital og gjeld
+Innskutt egenkapital
+Aksjekapital 4 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 4 4 530 0
+Udekket tap 4 0 -6 863
+Sum opptjent egenkapital 4 530 -6 863
+Sum egenkapital 4 34 530 23 137
+Kortsiktig gjeld
+Betalbar skatt 1 265 0
+Annen kortsiktig gjeld 2 9614 29 473
+Sum kortsiktig gjeld 10 879 29 473
+Sum gjeld 10 879 29 473
+Sum egenkapital og gjeld 45 410 52 610
+
+Balanse
+Shaban & O@vland AS
+Stokke, 16.01.2026
+Styret i Shaban & O@vland AS
+Jan Martin @vland
+styreleder
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven. Det er utarbeidet etter norske regnskapsstandarder.
+Driftsinntekter og kostnader
+
+Inntektsforing skjer etter opptjeningsprinsippet som normalt vil vere leveringstidspunktet for varer og
+tjenester. Kostnader medtas etter sammenstillingsprinsippet, dvs. at kostnader medtas 1 samme periode som
+tilhgrende inntekter inntektsfores.
+
+Hovedregel for vurdering og klassifisering av eiendeler og gjeld
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert
+som omlgpsmidler. Fordringer som skal tilbakebetales innen et ar er uansett klassifisert som omlopsmidler.
+Ved klassifisering av kortsiktig og langsiktig gjeld er analoge kriterier lagt til grunn.
+
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet forventes ikke a
+vere forbigaende. Anleggsmidler med begrenset gkonomisk levetid avskrives planmessig. Langsiktig gjeld
+balansefores til nominelt mottatt belep pa etableringstidspunktet.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til
+nominelt mottatt belop pa etableringstidspunktet.
+
+Enkelte poster er vurdert etter andre regler. Postene det gjelder vil vere blant de postene som omhandles
+nedenfor.
+
+Varige driftsmidler
+
+Varige driftsmidler avskrives over forventet akonomisk levetid. Avskrivningene er som hovedregel fordelt
+linezert over antatt g@konomisk levetid.
+
+Varer
+
+Varer er vurdert til det laveste av gjennomsnittlig anskaffelseskost og netto salgsverdi. For ravarer og varer 1
+arbeid beregnes netto salgsverdi til salgsverdien av ferdig tilvirkede varer redusert for igjenvzerende
+tilvirkningskostnader og salgskostnader.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppfores til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjores pa grunnlag av en individuell vurdering av de enkelte fordringene. I tillegg gjores
+det for avrige kundefordringer en uspesifisert avsetning for a dekke antatt tap.
+
+Skatt
+
+Skattekostnaden 1 resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremforing ved utgangen av
+regnskapsaret . Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere
+i samme periode er utlignet og nettofort. Utsatt skatt pa merverdier 1 forbindelse med oppkjap av
+datterselskap blir ikke utlignet.
+
+Note 2 Mellomvzrende med eier
+
+Virksomheten har pr. balansedag en gjeld til eier pa kr. 9.614. Lanet er ikke renteberegnet.
+
+Selskapet leier kontorlokaler av eier til under markedsmessige vilkar.
+
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzert resultat:
+Betalbar skatt 1 265 0
+Endring 1 utsatt skattefordel 1 949 -1 949
+Skattekostnad ordinzrt resultat 3214 -1 949
+Skattepliktig inntekt:
+Resultat fer skatt 14 607 20 875
+Permanente forskjeller 0 0
+Anvendelse av fremforbart underskudd -8 859 -20 875
+Skattepliktig inntekt 5 748 0
+Betalbar skatt 1 balansen:
+Betalbar skatt pa arets resultat 1 265 0
+Sum betalbar skatt i balansen 1 265 0
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte
+skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Akkumulert fremferbart underskudd 0 -8 859 -8 859
+Grunnilag for utsatt skattefordel 0 -8 859 -8 859
+Utsatt skattefordel (22 %) 0 -1 949 -1 949
+Note 4 Aksjonzrer og egenkapital
+Aksjekapitalen i SHABAN & @VLAND AS pr. 31.12 bestar av:
+
+Antall Palydende Bokfoert
+Ordinzre aksjer 100 300,00 30 000
+Eierstruktur
+Abdulbasir Aref Shaban 50 300
+Jan Martin Ovland 50 300
+Aksjekapital Annen EK Sum
+
+31.12.2024 30 000 - 6 863 23 137
+Arets resultat 11 393
+Pr 31.12.2025 30 000 4 530 34 530
+
+Note 5 Bundene midler
+Selskapet har ikke bundene skattetrekksmidler pr. balansedag. Skyldig forskuddsskatt er kr. 0.

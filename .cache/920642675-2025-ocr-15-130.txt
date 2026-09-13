@@ -1,0 +1,531 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 423195
+Virksomheten
+Organisasjonsnummer : 920 642 675
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: HOLISTISK UTVIKLING AS
+Forretningsadresse: Leitehagen 25
+4322 SANDNES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Jonas Hovland
+Dato for fastsettelse av arsregnskapet: 05.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 06.05.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 920 642 675
+
+HOLISTISK UTVIKLING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 834 934 1 650 676
+
+Sum inntekter 1 834 934 1 650 676
+
+Kostnader
+
+Varekostnad 118 746 61 899
+
+Lennskostnad 1 1 201 396 1 395 913
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 2 2 300 0
+
+Annen driftskostnad 263 031 143 980
+
+Sum kostnader 1 585 474 1 601 793
+
+Driftsresultat 249 461 48 884
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 15 732 7 495
+
+Annen finansinntekt 1 903 1178
+
+Sum finansinntekter 17 635 8 673
+
+Annen rentekostnad 0 414
+
+Annen finanskostnad 906 197
+
+Sum finanskostnader 906 611
+
+Netto finans 16 729 8 062
+
+Resultat fer skattekostnad 266 190 56 945
+
+Skattekostnad 58 541 12 619
+
+Arsresultat 207 648 44 326
+
+Annen egenkapital 207 648 44 326
+Utskrifttsdato 06.05.2026 Organisasjonsnr 920 642 675 Side 1 av 3
+
+Organisasjonsnr: 920 642 675
+
+HOLISTISK UTVIKLING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verkt@y, kontormaskiner,
+
+ol. 2 39 100 0
+
+Sum varige driftsmidler 39 100 0
+
+Finansielle anleggsmidler
+
+Andre langsiktige
+
+fordringer 32 704 39 128
+
+Sum finansielle
+
+anleggsmidler 32 704 39 128
+
+Sum anleggsmidler 71 804 39 128
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 73 280 111 343
+
+Andre kortsiktige
+
+fordringer 8 261 1 082
+
+Sum fordringer 81 541 112 425
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 818 502 572 335
+
+Sum bankinnskudd,
+
+kontanter og lignende 818 502 572 335
+
+Sum omlepsmidler 900 043 684 759
+
+SUM ELENDELER 971 847 723 888
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 3, 4 30 000 30 000
+Utskriftsdato 06.05.2026 Organisasjonsnr 920 642 675 Side 2 av 3
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptijent egenkapital
+
+Annen egenkapital 4 395 530 187 881
+
+Sum opptjent egenkapital 395 530 187 881
+
+Sum egenkapital 425 530 217 881
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2 226 0
+
+Sum avsetninger for
+
+forpliktelser 2 226 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 1 854 37 792
+
+Betalbar skatt 56 315 12 650
+
+Skyldige offentlige
+
+avgifter 81 854 153 199
+
+Annen kortsiktig gjeld 404 068 302 365
+
+Sum kortsiktig gjeld 544 091 506 006
+
+Sum gjeld 546 318 506 006
+
+SUM EGENKAPITAL OG GJELD 971 847 723 888
+Utskriftsdato 06.05.2026 Organisasjonsnr 920 642 675 Side 3 av 3
+
+Organisasjonsnr: 920 642 675
+
+HOLISTISK UTVIKLING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+er eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett 4r.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er falgende regnskapsprinsipper anvendt:
+
+Fordringer
+
+og gjeld i utenlandsk valuta er verdsatt til kursen ved regnskapsarets
+slutt. Kursgevinster og kursstap i utenlandsk valuta fores som
+finansinntekt og finanskostnad.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet
+
+omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som
+eksisterer mellom regnskapsmessige og skattemessige verdier, samt
+skattemessig underskudd til fremforing ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reversere i samme periode er fastsatt og skattevirkningen er
+beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp
+
+fra 2024 til 2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+1.00
+Note
+1
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+1006191.00 1200733.00
+Folketrygqdavqift Arets Fjorarets
+146104.00 173427.00
+Andre ytelser Arets Fjorarets
+49101.00 21753 .00
+Sum lennskostnader Arets Fjorarets
+1201396.00 1395913.00
+Note
+2
+Varige driftsmidler og immaterielle eiendeler
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+41400.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+41400.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+2300.00 0.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+39100.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+2300.00 0.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap for
+HOLISTISK UTVIKLING AS
+920642675
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+HOLISTISK UTVIKLING AS
+920 642 675
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1 834 934 1 650 676
+Sum driftsinntekter 1 834 934 1 650 676
+Driftskostnader
+Varekostnad -118 746 -61 899
+L@nnskostnad 1 -1 201 396 -1 395 913
+Avskrivning pa varige driftsmidler og immaterielle 2 -2 300 0
+eiendeler
+Annen driftskostnad -263 031 -143 980
+Sum driftskostnader -1 585 474 -1 601 793
+Driftsresultat 249 461 48 884
+Finansinntekter
+Annen renteinntekt 15 732 7 495
+Annen finansinntekt 1 903 1178
+Sum finansinntekter 17 635 8 673
+Finanskostnader
+Annen rentekostnad 0 -414
+Annen finanskostnad -906 -197
+Sum finanskostnader -906 -611
+Netto finans 16 729 8 062
+Resultat for skattekostnad 266 190 56 945
+Skattekostnad -58 541 -12 619
+Arsresultat 207 648 44 326
+Overforinger
+Annen egenkapital 207 648 44 326
+Sum overferinger 207 648 44 326
+
+HOLISTISK UTVIKLING AS
+920 642 675
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Driftslgs@re, inventar, verktoy, kontormaskiner, ol. 2 39 100 0
+Sum varige driftsmidler 39 100 0
+Finansielle anleggsmidler
+Andre langsiktige fordringer 32 704 39 128
+Sum finansielle anleggsmidler 32 704 39 128
+Sum anleggsmidler 71 804 39 128
+Omlgpsmidler
+Fordringer
+Kundefordringer 73 280 111 343
+Andre kortsiktige fordringer 8 261 1 082
+Sum fordringer 81 541 112 425
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 818 502 572 335
+Sum bankinnskudd, kontanter og lignende 818 502 572 335
+Sum omlgpsmidler 900 043 684 759
+SUM EIENDELER 971 847 723 888
+
+HOLISTISK UTVIKLING AS
+920 642 675
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 3,4 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 4 395 530 187 881
+Sum opptjent egenkapital 395 530 187 881
+Sum egenkapital 425 530 217 881
+Gjeld
+Avsetning og forpliktelser
+Utsatt skatt 2 226 0
+Sum avsetning for forpliktelser 2 226 0
+Kortsiktig gjeld
+Leverandgrgjeld 1 854 37 792
+Betalbar skatt 56 315 12 650
+Skyldige offentlige avgifter 81 854 153 199
+Annen kortsiktig gjeld 404 068 302 365
+Sum kortsiktig gjeld 544 091 506 006
+Sum gjeld 546 318 506 006
+SUM EGENKAPITAL OG GJELD 971 847 723 888
+Jonas Hovland
+styrets leder
+
+HOLISTISK UTVIKLING AS
+
+920 642 675
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapet driver med helserelaterte tienester, herunder terapi, radgivning, undervisning og kurs innen personlig
+utvikling og helse. Virksomheten drives fra Sandnes kommune, Norge.
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekretsla@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Fordringer og gjeld i utenlandsk valuta er verdsatt til kursen ved regnskapsarets slutt. Kursgevinster og kursstap
+i utenlandsk valuta feres som finansinntekt og finanskostnad.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Antall arsverk
+
+Antall arsverk sysselsatt i regnskapsaret: 1
+
+HOLISTISK UTVIKLING AS
+920 642 675
+Note 1 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 1 006 191 1 200 733
+Arbeidsgiveravgift 146 104 173 427
+Pensjonskostnader 0 0
+Andre relaterte ytelser 49 101 21 753
+sum 1 201 396 1 395 913
+Note 2 - Varige driftsmidler og immaterielle eiendeler
+Varige
+driftsmidler
+Anskaffelseskost 01.01. 0
+Tilgang i aret 41 400
+Avgang i aret 0
+Anskaffelseskost 31.12. 41 400
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -2 300
+Balansefort verdi per 31.12. 39 100
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 2 300
+Note 3 - Aksjekapital
+Aksjenes
+Aksjeklasse Cnt aksjer palydende__ Bokfort verdi
+Ordinzere 1 000 30 30 000
+Aksjonzrer Antall aksjer Eierandel % Aksjeklasse
+HOVLAND JONAS 1 000 100,00 Ordineere
+Note 4 - Egenkapital
+Opptjent
+CA Kjekapital —egenkapital Sum
+Egenkapital 31.12.2024 30 000 187 881 217 881
+Arsresultat 0 207 648 207 648
+Egenkapital 31.12.2025 30 000 395 530 425 530
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.

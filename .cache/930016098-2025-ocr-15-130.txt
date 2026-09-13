@@ -1,0 +1,564 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 476966
+Virksomheten
+Organisasjonsnummer : 930 016 098
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: WG WINES AS
+Forretningsadresse: Fjordvegen 43
+2312 OTTESTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Andreas Wiik
+Dato for fastsettelse av arsregnskapet: 26.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 016 098
+
+WG WINES AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 61 970 387 230
+
+Annen driftsinntekt -8 508 -40 965
+
+Sum inntekter 53 462 346 265
+
+Kostnader
+
+Varekostnad 39 837 269 589
+
+Avskrivning pa varige
+
+driftsmidler 3 12 712 8 474
+
+Annen driftskostnad 39 049 17 584
+
+Sum kostnader 91 598 295 647
+
+Driftsresultat -38 136 50 618
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter e) fe)
+
+Annen finanskostnad 0 5 432
+
+Sum finanskostnader e) 5 432
+
+Netto finans 0 -5 432
+
+Resultat fer skattekostnad -38 136 45 186
+
+Skattekostnad -932 9 940
+
+Arsresultat -37 204 35 246
+
+Arsresultat etter
+
+minoritetsinteresser -37 204 35 246
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -37 204 35 246
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -37 204 0
+
+Overferinger til/fra
+
+annen egenkapital 0 35 246
+
+Sum overferinger og
+
+disponeringer -37 204 35 246
+Utskriftsdato 27.05.2026 Organisasjonsnr 930 016 098 Side 1 av 3
+
+Organisasjonsnr: 930 016 098
+
+WG WINES AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner 3 42 372 55 084
+
+Sum varige driftsmidler 42 372 55 084
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 42 372 55 084
+
+Omlepsmidler
+
+Varer
+
+Varelager 158 806 198 643
+
+Sum varer 158 806 198 643
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 683 0
+
+Sum fordringer 683 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 1 037 1 688
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 037 1 688
+
+Sum omlepsmidler 160 526 200 331
+
+SUM ELENDELER 202 898 255 415
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+Utskriftsdato 27.05.2026 Organisasjonsnr 930 016 098 Side 2 av 3
+
+Opptjent egenkapital
+
+Udekket tap 43 449 6 245
+
+Sum opptjent egenkapital -43 449 -6 245
+
+Sum egenkapital -13 449 23 755
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 0) 932
+
+Sum avsetninger for
+
+forpliktelser 0 932
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 33 000 41 500
+
+Sum annen langsiktig gjeld 33 000 41 500
+
+Sum langsiktig gjeld 33 000 42 432
+
+Kortsiktig gjeld
+
+Leverandergjeld 12 500 1 862
+
+Betalbar skatt 9 008 9 008
+
+Skyldig offentlige avgifter 0 6 876
+
+Kortsiktig konserngjeld 4 140 000 140 000
+
+Annen kortsiktig gjeld 21 839 31 481
+
+Sum kortsiktig gjeld 183 347 189 228
+
+Sum gjeld 216 347 231 660
+
+SUM EGENKAPITAL OG GJELD 202 898 255 415
+Utskriftsdato 27.05.2026 Organisasjonsnr 930 016 098 Side 3 av 3
+
+Organisasjonsnr: 930 016 098
+
+WG WINES AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Ottestad
+
+Virksomhetens art
+
+Vinimporter.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om
+
+fortsatt drift, da det er
+
+iverksatt tiltak for 4 styrke selskapets ekonomi.
+
+Note
+
+5
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+3
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+63558.00
+
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+63558.00
+
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+21186.00
+
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+42372.00
+
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+12712.00
+
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Note
+
+4
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregns kap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Ja
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a4
+falge unntaksregelen i regnskapslovens § 3-2 (3).
+Kortsiktig gjeld
+Samlet belep - foretak i samme konserm Arets Fjorarets
+140000.00 140000.00
+
+Arsregnskap 2025
+Wg Wines AS
+(930 016 098)
+{.
+W|G WINES
+Wg Wines AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 61970 387 230
+
+Annen driftsinntekt -8 508 -40 965
+Sum driftsinntekter 53 462 346 265
+Driftskostnader
+
+Varekostnad 39 837 269 589
+
+Avskrivning pa varige driftsmidler 3 12 712 8474
+
+Annen driftskostnad 39 049 17 584
+Sum driftskostnader 91 598 295 647
+Driftsresultat -38 136 50 618
+Finanskostnader
+
+Annen finanskostnad @) 5 432
+Sum finanskostnader 0 5 432
+Netto finans 0 -5 432
+Resultat for skatt -38 136 45 186
+Skattekostnad -932 9940
+Arsresultat -37 204 35246
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital e) 35 246
+
+Udekket tap -37 204 0
+Sum overferinger og disponeringer -37 204 35 246
+
+Wg Wines AS Arsregnskap Side 2 av6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Driftslos@re, inventar, verktay, kontormaskiner 3 42 372 55 084
+Sum varige driftsmidler 42 372 55 084
+Sum anleggsmidler 42372 55084
+Omlepsmidler
+Varelager 158 806 198643
+Fordringer
+
+Andre kortsiktige fordringer 683 @)
+Sum fordringer 683 0
+Bankinnskudd, kontanter o.l. 1 037 1688
+Sum omlepsmidler 160526 200331
+Sum eiendeler 202898 255 415
+
+Wg Wines AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Udekket tap -43 449 -6 245
+Sum opptjent egenkapital -43 449 -6 245
+Sum egenkapital -13 449 23755
+Gijeld
+Avsetning for forpliktelser
+
+Utsatt skatteforpliktelse @) 932
+Sum avsetning for forpliktelser 0 932
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 33 000 41 500
+Sum annen langsiktig gjeld 33 000 41 500
+Kortsiktig gjeld
+
+Leverandergjeld 12 500 1 862
+
+Konserngjeld, kortsiktig 4 140000 140000
+
+Betalbar skatt 9 008 9 008
+
+Skyldig offentlige avgifter e) 6 876
+
+Annen kortsiktig gjeld 21 839 31 481
+Sum kortsiktig gjeld 183347 189228
+Sum gjeld 216 347 231660
+Sum egenkapital og gjeld 202 898 255 415
+
+Wg Wines AS Arsregnskap Side 4 av6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Ottestad
+Virksomhetens art
+Vinimporter.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er iverksatt tiltak for a styrke selskapets okonomi.
+Note 3: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 63 558
++ Kjop og annen tilgang i ar @)
+- Salg og annen avgang i ar @)
+= Anskaffelseskost 31. desember 63 558
+- Sum avskrivninger og nedskrivninger 21 186
+= Balansefort verdi per 31.12. 42 372
+Arets avskrivninger og nedskrivninger 12712
+Wg Wines AS Arsregnskap Side 5 av 6
+
+Note 4: Konsern
+Virksomheten er et datterselskap. Virksomheten utarbeider ikke konsernregnskap, herunder
+konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a folge
+unntaksregelen i regnskapslovens § 3-2 (3).
+Fordringer og gjeld
+Mot foretak i samme konsern 2025 2024
+Fordringer 0 @)
+Kortsiktig gjeld 140 000 140 000
+Langsiktig gjeld 0 0
+Note 5: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Wg Wines AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Andreas Wiik <andreas@virvelvind.as>
+Elektronisk signering
+ANDREAS WIIK
+05.08.1984 - Daglig leder, Styreleder
+Y) Signert
+26.05.2026 09:24
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 26.05.2026 09:22:45

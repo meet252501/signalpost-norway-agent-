@@ -1,0 +1,301 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 681573
+Virksomheten
+Organisasjonsnummer : 934 931 084
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: ALVSTAD BYGGSERVICE AS
+Forretningsadresse: Resetgutua 4
+2320 FURNES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: BALANSE REGNSKAP OG RADGIVING AS
+Dato for fastsettelse av arsregnskapet: 26.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 934 931 084
+ALVSTAD BYGGSERVICE AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Inntekter
+Salgsinntekt 1 629 864
+Sum inntekter 1 629 864
+Kostnader
+Varekostnad 382 977
+Lennskostnad 1 846 992
+Annen driftskostnad 454 522
+Sum kostnader 1 684 491
+Driftsresultat -54 627
+Finansinntekter og
+finanskostnader
+Annen renteinntekt 15
+Sum finansinntekter 15
+Netto finans 15
+Resultat fer skattekostnad -54 612
+Arsresultat 2 -54 612 )
+Arsresultat etter
+minoritetsinteresser -54 612
+Totalresultat -54 612
+Overferinger og
+disponeringer
+Udekket tap -54 612
+Sum overferinger og
+disponeringer -54 612
+Utskriftsdato 15.07.2026 Organisasjonsnr 934 931 084 Side 1 av 3
+
+Organisasjonsnr: 934 931 084
+ALVSTAD BYGGSERVICE AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Finansielle anleggsmidler
+Lan til foretak i samme
+konsern 38 758
+Sum finansielle
+anleggsmidler 38 758
+Sum anleggsmidler 38 758
+Omlepsmidler
+Varer
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 3 186 033
+Sum bankinnskudd,
+kontanter og lignende 186 033
+Sum omlepsmidler 186 033
+SUM EITENDELER 224 791 0
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4 30 000
+Beholdning av egne aksjer 4
+Annen innskutt egenkapital -8 000
+Sum innskutt egenkapital 22 000
+Opptjent egenkapital
+Annen egenkapital 5
+Udekket tap 54 612
+Sum opptjent egenkapital -54 612
+Sum egenkapital 2 -32 612
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 6
+Annen langsiktig gjeld
+
+Utskriftsdato 15.07.2026 Organisasjonsnr 934 931 084 Side 2 av 3
+
+Kortsiktig gjeld
+
+Leverandergjeld 74 762
+
+Betalbar skatt 6
+
+Skyldig offentlige avgifter 88 012
+
+Annen kortsiktig gjeld 94 629
+
+Sum kortsiktig gjeld 257 403
+
+Sum gjeld 257 403
+
+SUM EGENKAPITAL OG GJELD 224 791 0
+Utskriftsdato 15.07.2026 Organisasjonsnr 934 931 084 Side 3 av 3
+
+Organisasjonsnr: 934 931 084
+
+ALVSTAD BYGGSERVICE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.80
+
+ay BankID Qualified Signing
+Alvstad, Line Tiller
+2026-05-26
+Cy) BankID Qualified Signing
+Alvstad, Morten
+2026-05-26
+°
+Arsregnskap 2025
+Alvstad Byggservice AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 934 931 084
+
+RESULTATREGNSKAP |
+
+ALVSTAD BYGGSERVICE AS
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 1 629 864 0
+Sum driftsinntekter 1 629 864 0
+Varekostnad 382 977 8)
+Lénnskostnad 1 846 992 8)
+Annen driftskostnad 454 522 0
+Sum driftskostnader 1 684 491 0
+Driftsresultat -54 627 0
+FINANSINNTEKTER OG FINANSKOSTNADER
+Annen renteinntekt 15 0
+Resultat av finansposter 15 0
+Resultat for skattekostnad -54 612 0
+Arsresultat 2 eT) Ee)
+OVERF@RINGER
+Overfgrt til udekket tap 54 612 0
+Sum overfgringer -54 612 0
+ALVSTAD BYGGSERVICE AS SIDE 2
+
+ANSE
+ALVSTAD BYGGSERVICE AS
+
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Lan til foretak i samme konsern 38 758 0
+Sum finansielle anleggsmidler 38 758 0
+Sum anleggsmidler 38 758 0
+OML@PSMIDLER
+FORDRINGER
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 3 186 033 0
+Sum omlgpsmidler 186 033 0
+Sum eiendeler aT)
+ALVSTAD BYGGSERVICE AS SIDE 3
+
+BALANSE |
+ALVSTAD BYGGSERVICE AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 4 30 000 0)
+Annen innskutt egenkapital -8 000 0
+Sum innskutt egenkapital 22 000 0
+OPPTJENT EGENKAPITAL
+Udekket tap -54 612 0
+Sum opptjent egenkapital -54 612 0
+Sum egenkapital 2 -32 612 0
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+KORTSIKTIG GJELD
+Leverand@rgjeld 74 762 0
+Skyldig offentlige avgifter 88 012 0
+Annen kortsiktig gjeld 94 629 0
+Sum kortsiktig gjeld 257 403 0
+Sum gjeld 257 403 0
+Sum egenkapital og gjeld 224 791 |
+Styret i Alvstad Byggservice AS
+Morten Alvstad Line Tiller Alvstad
+styreleder/daglig leder styremediem
+ALVSTAD BYGGSERVICE AS SIDE 4
+
+Regnskapsprinsipper
+Selskapet leverer tomrertjenester i Ringsaker kommune.
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+VALUTA
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapsarets slutt.
+DRIFTSINNTEKTER
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Note 1 Loénnskostnader og ytelser, godtgjorelser til daglig leder, styret og revisor
+L@NNSKOSTNADER
+
+2025 2024
+Lénninger 702 562 0
+Arbeidsgiveravgift 99 061 0
+Andre ytelser 45 369 0
+Sum 846 992 0
+Selskapet har i 2025 sysselsatt 0,8 arsverk.
+PENSJONSFORPLIKTELSER
+Selskapet er pliktig til a ha tjenestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+Selskapets pensjonsordninger tilfredsstiller kravene i denne lov.
+Sum 0 0
+
+Note 2 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 06.01.2025 30 000 0 -8000 0 22 000
+Arets resultat -54 612 -54 612
+Pr 31.12.2025 30 000 0 -8 000 -54 612 -32 612
+Note 3 Bankinnskudd
+Innestaende midler pa skattetrekkskonto (bundne midler) er pa kr. 17 724.
+Note 4 Aksjonzrer
+AKSJEKAPITALEN | ALVSTAD BYGGSERVICE AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+Ordinzere aksjer 100 300,0 30 000
+Sum 100 30 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+Ordinzere Eierandel Stemmeandel
+Morten Alvstad 100 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Verv Ordinzere
+Morten Alvstad styreleder/daglig leder 100
+Totalt antall aksjer 100
+Note 5 Fortsatt drift
+Selskapet er i en oppstartsfase og har hatt ekstra kostnader med dette. Det er forventet at dette vil snu i
+Igpet av 2026, og det er derfor ikke fare for fortsatt drift.
+Note 6 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -54 612 0
+Permanente forskjeller -5 000 0
+
+Skattepliktig inntekt -59 612 0
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -59 612 0 59 612
+Inngar ikke i beregningen av utsatt skatt 59 612 0 -59 612
+Utsatt skattefordel / skatt (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.

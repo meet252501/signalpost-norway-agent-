@@ -1,0 +1,353 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 736620
+Virksomheten
+Organisasjonsnummer : 889 232 552
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: EGO HOLDING AS
+Forretningsadresse: Jondalsveien 442
+3614 KONGSBERG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Odd Aril Midtgard
+Dato for fastsettelse av arsregnskapet: 26.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 03.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 889 232 552
+
+EGO HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 5 281 7 788
+
+Sum kostnader 5 281 7 788
+
+Driftsresultat -5 281 -7 788
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 176 104
+
+Sum finansinntekter 176 104
+
+Nedskrivning av
+
+finansielle eiendeler -45 355 65 462
+
+Annen finanskostnad 30 000 0
+
+Sum finanskostnader -15 355 65 462
+
+Netto finans 15 531 -65 358
+
+Resultat for skattekostnad 10 250 -73 146
+
+Arsresultat 10 250 -73 146
+
+Annen egenkapital 10 250 -73 146
+Utskriftsdato 03.08.2026 Organisasjonsnr 889 232 552 Side 1 av 3
+
+Organisasjonsnr: 889 232 552
+EGO HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investeringer 1
+tilknyttet selskap 174 000 174 000
+Lan til tilknyttet
+selskap og felles
+kontrollert virksomhet 3 105 000 3 165 000
+Investeringer i aksjer og
+andeler -14 645 -30 000
+Andre langsiktige
+fordringer 1 2 357 646 2 357 646
+Sum finansielle
+anleggsmidler 5 622 001 5 666 646
+Sum anleggsmidler 5 622 001 5 666 646
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 1 0 0
+Sum fordringer 0 0
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 708 10 170
+Sum bankinnskudd,
+kontanter og lignende 708 10 170
+Sum omlepsmidler 708 10 170
+SUM ELENDELER 5 622 709 5 676 816
+BALANSE - EGENKAPITAL OG
+GJELD
+
+Utskriftsdato 03.08.2026 Organisasjonsnr 889 232 552 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 675 250 675 250
+
+Sum innskutt egenkapital 675 250 675 250
+
+Opptjent egenkapital
+
+Annen egenkapital 4 223 386 4 213 136
+
+Sum opptjent egenkapital 4 223 386 4 213 136
+
+Sum egenkapital 4 898 636 4 888 386
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 724 073 788 430
+
+Sum annen langsiktig gjeld 724 073 788 430
+
+Kortsiktig gjeld
+
+Sum kortsiktig gjeld 0 0
+
+Sum gjeld 724 073 788 430
+
+SUM EGENKAPITAL OG GJELD 5 622 709 5 676 816
+Utskriftsdato 03.08.2026 Organisasjonsnr 889 232 552 Side 3 av 3
+
+Organisasjonsnr: 889 232 552
+
+EGO HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Eiendeler som er knyttet til varekretslopet er klassifisert som
+omlepsmidler. Fordringer klassifiseres som omlg@psmidler hvis de forfaller
+til betaling innen ett Ar etter transaksjonsdagen. Langsiktig gjeld er
+gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Feorste ars
+avdrag pa langsiktige fordringer og langsiktig gjeld klassifiseres likevel
+ikke som omlepsmiddel og kortsiktig gjeld.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gje@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+Leieavtaler er ikke balansefort.
+
+Selskapet har ikke endret
+
+regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+1
+
+Lan og sikkerhetsstillelse til medlemmer
+
+Opplysninger om: Medlemmer av:
+
+Mer om lan og sikkerhetsstillelse
+
+Arsregnskap for
+EGO HOLDING AS
+889232552
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+EGO HOLDING AS
+889 232 552
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -5 281 -7 788
+Sum driftskostnader -5 281 -7 788
+Driftsresultat -5 281 -7 788
+Finansinntekter
+Annen renteinntekt 176 104
+Sum finansinntekter 176 104
+Finanskostnader
+Nedskrivning av finansielle eiendeler 45 355 -65 462
+Annen finanskostnad -30 000 0
+Sum finanskostnader 15 355 -65 462
+Netto finans 15 531 -65 358
+Arsresultat 10 250 -73 146
+Overfaringer
+Annen egenkapital 10 250 -73 146
+Sum overferinger 10 250 -73 146
+
+EGO HOLDING AS
+889 232 552
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer i tilknyttet selskap 174 000 174 000
+Lan til tilknyttet selskap og felles kontrollert virksomhet 3 105 000 3 165 000
+Investeringer i aksjer og andeler -14 645 -30 000
+Andre langsiktige fordringer 1 2 357 646 2 357 646
+Sum finansielle anleggsmidler 5 622 001 5 666 646
+Sum anleggsmidler 5 622 001 5 666 646
+Omlgpsmidler
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 708 10 170
+Sum bankinnskudd, kontanter og lignende 708 10170
+Sum omlgpsmidler 708 10170
+SUM EIENDELER 5 622 709 5 676 816
+
+EGO HOLDING AS
+889 232 552
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 675 250 675 250
+Sum innskutt egenkapital 675 250 675 250
+Opptjent egenkapital
+Annen egenkapital 4 223 386 4 213 136
+Sum opptjent egenkapital 4 223 386 4 213 136
+Sum egenkapital 4 898 636 4 888 386
+Gjeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 724 073 788 430
+Sum annen langsiktig gjeld 724 073 788 430
+Sum gjeld 724 073 788 430
+SUM EGENKAPITAL OG GJELD 5 622 709 5 676 816
+KONGSBERG, 26.06.2026
+Odd Aril Midtgard
+styrets leder
+
+EGO HOLDING AS
+
+889 232 552
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen.
+Ferste ars avdrag pa langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlgpsmiddel og
+kortsiktig gjeld.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefart.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+
+Antall arsverk
+
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.

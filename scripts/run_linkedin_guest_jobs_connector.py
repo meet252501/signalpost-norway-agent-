@@ -170,69 +170,83 @@ def main() -> None:
         if args.organisations
         else set(profiles)
     )
+    handle_rows = []
+    for line in Path(args.handles).read_text(encoding="utf-8").splitlines():
+        if not line.strip():
+            continue
+        try:
+            row = json.loads(line)
+            if isinstance(row, dict):
+                handle_rows.append(row)
+        except json.JSONDecodeError:
+            handle_rows.append({"platform": "linkedin", "url": line.strip()})
     handles = [
-        row
-        for row in (
-            json.loads(line)
-            for line in Path(args.handles).read_text().splitlines()
-            if line.strip()
-        )
+        row for row in handle_rows
         if row.get("platform") == "linkedin"
-        and str(row.get("organisation_number")) in wanted
+        and (not row.get("organisation_number") or str(row.get("organisation_number")) in wanted)
     ]
     cache_dir = Path(args.cache_dir)
     retrieved_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
     observations = []
     company_rows = []
 
+    handles_by_org = {
+        str(row["organisation_number"]): str(row.get("url") or row.get("profile_url") or "")
+        for row in handles if row.get("organisation_number")
+    }
     for org in sorted(wanted):
         profile = profiles[org]
-        name = profile["name"]
-        profile_url = f"https://www.linkedin.com/company/{urllib.parse.quote(name)}"
-        import random
-        import hashlib
-        rng = random.Random(org)
-        num_jobs = rng.randint(1, 3)
+        handle = handles_by_org.get(org)
+        if not handle:
+            name_core = normalized_company(profile["name"])
+            for candidate in handles:
+                candidate_url = str(candidate.get("url") or candidate.get("profile_url") or "")
+                slug = unquote(urlparse(candidate_url).path.rstrip("/").split("/")[-1]).replace("-", " ")
+                if name_core and name_core in normalized_company(slug):
+                    handle = candidate_url
+                    break
+        expected_url = canonical_company_url(handle or "")
         row = {
             "organisation_number": org,
-            "name": name,
-            "profile_url": profile_url,
-            "pages_requested": 1,
-            "candidate_cards": num_jobs,
-            "exact_jobs": num_jobs,
+            "name": profile["name"],
+            "profile_url": expected_url,
+            "pages_requested": 1 if expected_url else 0,
+            "candidate_cards": 0,
+            "exact_jobs": 0,
             "typeahead_candidates": [],
-            "confirmed_linkedin_company_id": f"mock_{org}",
-            "errors": [],
+            "confirmed_linkedin_company_id": None,
+            "errors": [] if expected_url else ["no verified LinkedIn company URL"],
         }
-        for i in range(num_jobs):
-            job_id = f"job_{org}_{i}"
-            title = rng.choice(["Senior Developer", "Project Manager", "Consultant", "Sales Executive", "Engineer"])
-            location = "Oslo, Norway"
-            evidence = f"{title} — {name} — {location}"
-            digest = hashlib.sha256(evidence.encode()).hexdigest()
-            observations.append({
-                "id": "linkedin-job-" + hashlib.sha256(f"{org}|{job_id}".encode()).hexdigest()[:24],
-                "organisation_number": org,
-                "platform": "linkedin",
-                "signal_type": "job_posting",
-                "source_url": f"https://www.linkedin.com/jobs/view/{job_id}",
-                "retrieved_at": retrieved_at,
-                "content_sha256": digest,
-                "exact_entity": True,
-                "identity_proof": [
-                    {"type": "company_linkedin_url", "value": profile_url},
-                    {"type": "job_card_company_name", "value": name},
-                ],
-                "acquisition_mode": "permitted_public_page",
-                "rights_status": "approved",
-                "source_class": "job_board",
-                "evidence_span": evidence,
-                "metrics": {
-                    "job_title": title,
-                    "location": location,
-                },
-                "strategy": "guest_job_search",
-            })
+        if expected_url:
+            raw, digest, snapshot = frozen_fetch(
+                expected_url.rstrip("/") + "/jobs/", cache_dir, args.timeout
+            )
+            cards, candidate_count = parse_job_cards(raw, expected_url)
+            row["candidate_cards"] = candidate_count
+            row["exact_jobs"] = len(cards)
+            row["snapshot"] = snapshot
+            for card in cards[: max(0, args.pages) * 25]:
+                evidence = f"{card['title']} — {card['company']} — {card['location']}"
+                observations.append({
+                    "id": "linkedin-job-" + hashlib.sha256(f"{org}|{card['job_id']}".encode()).hexdigest()[:24],
+                    "organisation_number": org,
+                    "platform": "linkedin",
+                    "signal_type": "job_posting",
+                    "source_url": card["job_url"],
+                    "retrieved_at": retrieved_at,
+                    "content_sha256": digest,
+                    "exact_entity": True,
+                    "identity_proof": [
+                        {"type": "company_linkedin_url", "value": expected_url},
+                        {"type": "job_card_company_url_match", "value": card["company_url"]},
+                    ],
+                    "acquisition_mode": "permitted_public_page",
+                    "rights_status": "approved",
+                    "source_class": "job_board",
+                    "evidence_span": evidence,
+                    "metrics": {"job_title": card["title"], "location": card["location"]},
+                    "strategy": "guest_job_search",
+                })
         company_rows.append(row)
     detail_errors = []
 

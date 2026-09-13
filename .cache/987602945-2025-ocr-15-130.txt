@@ -1,0 +1,438 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 680320
+Virksomheten
+Organisasjonsnummer : 987 602 945
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: RD HOLDING AS
+Forretningsadresse: Trollasen 22
+2080 EIDSVOLL
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: RUNE D@NNUM
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 987 602 945
+
+RD HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Salgsinntekt 2
+
+Kostnader
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 3 7 200 7 200
+
+Nedskrivning av varige
+
+driftsmidler og
+
+immaterielle eiendeler 3
+
+Annen driftskostnad 4 25 387 82 415
+
+Sum kostnader 32 587 89 615
+
+Driftsresultat -32 587 -89 615
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 7 031 6 844
+
+Sum finansinntekter 7 031 6 844
+
+Annen finanskostnad 3 432
+
+Sum finanskostnader 3 432
+
+Netto finans 7 O31 3 412
+
+Resultat fer skattekostnad 5 -25 556 -86 202
+
+Skattekostnad pa resultat 5
+
+Arsresultat -25 556 -86 202
+
+Arsresultat etter
+
+minoritetsinteresser -25 556 -86 202
+
+Totalresultat -25 556 -86 202
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 6 -25 556 -86 202
+
+Sum overferinger og
+
+disponeringer -25 556 -86 202
+Utskriftsdato 15.07.2026 Organisasjonsnr 987 602 945 Side 1 av 3
+
+Organisasjonsnr: 987 602 945
+
+RD HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 5
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 3 615 000 615 000
+
+Driftslesere, inventar o.
+
+a. utstyr 3 2 399 9 599
+
+Sum varige driftsmidler 617 399 624 599
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 2
+
+Investering i annet
+
+foretak i samme konsern 2
+
+Sum anleggsmidler 617 399 624 599
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 52 630 52 630
+
+Sum fordringer 52 630 52 630
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 72 72
+
+Sum bankinnskudd,
+
+kontanter og lignende 72 72
+
+Sum omlepsmidler 52 702 52 702
+
+SUM ELENDELER 670 101 677 301
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6, 7 250 000 250 000
+
+Beholdning av egne aksjer 7
+
+Overkurs 6 250 100 250 100
+
+Sum innskutt egenkapital 500 100 500 100
+Utskriftsdato 15.07.2026 Organisasjonsnr 987 602 945 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 6 71 532 97 089
+
+Sum opptjent egenkapital 71 532 97 089
+
+Sum egenkapital 571 632 597 189
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 5
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Leverandergjeld 18 356
+
+Betalbar skatt 5
+
+Skyldig offentlige avgifter 8 258 8 258
+
+Annen kortsiktig gjeld 71 855 71 855
+
+Sum kortsiktig gjeld 98 469 80 112
+
+Sum gjeld 98 469 80 112
+
+SUM EGENKAPITAL OG GJELD 670 101 677 301
+Utskriftsdato 15.07.2026 Organisasjonsnr 987 602 945 Side 3 av 3
+
+Organisasjonsnr: 987 602 945
+
+RD HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+BankiD Qualified Signature
+se Signature
+Arsregnskap 2025
+Rd Holding AS
+Resultatregnskap
+Bal
+Noter til regnskapet
+Revisjonsberetning
+Org.nr.: 987 602 945
+
+Resultatregnskap
+Rd Holding AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Avskrivning av driftsmidler og immaterielle eiendeler 3 7 200 7 200
+Annen driftskostnad 4 25 387 82 415
+Sum driftskostnader 32 587 89 615
+Driftsresultat -32 587 -89 615
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 7031 6 844
+Annen finanskostnad 0 3 432
+Resultat av finansposter 7 031 3 412
+Resultat for skattekostnad 5 -25 556 -86 202
+Arsresultat -25 556 -86 202
+Overferinger
+
+Avsatt til annen egenkapital 6 -25 556 -86 202
+Sum overfgringer -25 556 -86 202
+Rd Holding AS Side 2
+
+Balanse
+
+Rd Holding AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger o.a. fast eiendom 3 615 000 615 000
+Driftslosore, inventar o.a. utstyr 3 2 399 9 599
+Sum varige driftsmidler 617 399 624 599
+Finansielle anleggsmidler
+Sum anleggsmidler 617 399 624 599
+Omle@psmidiler
+Fordringer
+Andre kortsiktige fordringer 52 630 52 630
+Sum fordringer 52 630 52 630
+Investeringer
+Bankinnskudd, kontanter o.|. 72 72
+Sum omlg@psmidler 52 702 52 702
+Sum eiendeler 670 101 677 301
+Rd Holding AS Side 3
+
+Balanse
+Rd Holding AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 6,7 250 000 250 000
+Overkurs 6 250 100 250 100
+Sum innskutt egenkapital 500 100 500 100
+Opptjent egenkapital
+Annen egenkapital 6 71 532 97 089
+Sum opptjent egenkapital 71 532 97 089
+Sum egenkapital 571 632 597 189
+Gjeld
+Avsetning for forpliktelser
+Annen langsiktig gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 18 356 0
+Skyldig offentlige avgifter 8 258 8 258
+Annen kortsiktig gjeld 71 855 71 855
+Sum kortsiktig gjeld 98 469 80 112
+Sum gjeld 98 469 80 112
+Sum egenkapital og gjeld 670 101 677 301
+30.06.2026
+Styret i Rd Holding AS
+Truls Reise RUNE D@NNUM
+styremediem styreleder
+Rd Holding AS Side 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Regnskapet er satt opp under forutsetning om fortsatt drift.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skatteskende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofart.
+
+Klassifisering og vurdering av anleggsmidler
+
+Anleggsmidier omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til anskaffelseskost.
+Varige driftsmidier balansefgres og avskrives over driftsmidiets @konomiske levetid. Avskrivningsperioden for
+fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belgp ved verdifall som forventes ikke a
+veere forbigaende. Gjenvinnbart belap er det hayeste av netto salgsverdi og verdi i bruk. Verdi i bruk er
+naverdi av fremtidige kontantstremmer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for
+nedskrivingen ikke lenger er til stede.
+
+Klassifisering og vurdering av omlgpsmidler
+
+Omlgpsmidler og kortsiktig gield omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppfgres til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Note 1 Virksomhetens art og lokalisering
+
+Rd Holding AS er et selskap der virksomheten omfatter investering og handel i fast eiendom og verdipapirer.
+Selskapet er lokalisert i Eidsvoll Kommune.
+
+Note 2 Datterselskap
+
+Rd Holding AS eier 100% av aksjene i Muffins AS, som gir Rd Holding AS 100 % av stemmene i selskapet.
+Muffins AS har forretningskontor i Eidsvoll. Muffins AS har bregenset med virksomhet og en negativ
+egenkapital.
+
+Fglgende interne transaksjoner har funnet sted i 2025:
+
+Selskapet har gitt datterselskapet, Muffins AS, et lan pa kr 554 939. Lanet er rente og avdragsfritt inntil noe
+annet blir bestemt. Lanet er avsatt til tap.
+
+Note 3 Varige driftsmidler
+Driftslasore,
+inventar o.a. utstyr = Totalt
+
+Anskaffelseskost 01.01.2025 35 999 35 999
+Anskaffelseskost 31.12.2025 35 999 35 999
+Akkumulerte avskrivninger 31.12 33 600 33 600
+Bokfort verdi 31.12.2025 2 399 2 399
+Akk. av- og nedskrivninger 01.01.2025 -26 400 -26 400
+Arets avskrivninger -7 200 -7 200
+Akk. av- og nedskrivninger 31.12.2025 -33 600 -33 600
+@konomisk levetid 3-5 ar
+Selskapet har i investert i en tomt til kr 615 000.
+Eiendommene er oppfert til Kostpris og avskrives ikke. Virkelig verdi er hayere enn bokfert verdi.
+Note 4 Lgnnskostnader
+Rd Holding AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Det er ikke utbetalt styrehonorar i 2025.
+Note 5 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzrt resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -25 556 -86 202
+Permanente forskjeller 7031 6 844
+Endring i midlertidige forskjeller 7 200 -11 231
+Skattepliktig inntekt -11 325 -90 590
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt og
+utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Varige driftsmidler 2 399 9 599 7 200
+Sum 2 399 9 599 7 200
+Akkumulert fremfgrbart underskudd -1 783 256 -1 771931 11 325
+
+Inngar ikke i beregningen av utsatt skatt 1 780 857 1 762 332 -18 525
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 6 Egenkapital
+Aksjekapital ©Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 250 000 250 100 0 97 089 597 189
+Arets resultat -25 556 -25 556
+Tillegssutbytte 0 0
+Pr 31.12.2025 250 000 250 100 0 71 532 571 632
+Note 7 Aksjonzerer
+Aksjekapitalen i Rd Holding AS pr. 31.12 bestar av:
+Antall Palydende Bokfort
+Ordinzere aksjer 500 500,0 250 000
+Sum 500 250 000
+Eierstruktur
+De sterste aksjoneerene i % pr. 31.12 var:
+Ordinzre Eierandel Stemmeandel
+RUNE DONNUM 500 100,0 100,0
+Aksjer eiet av medilemmer i styret og daglig leder:
+Navn Verv Ordinzre
+RUNE D@NNUM styreleder 500
+Totalt antall aksjer 500

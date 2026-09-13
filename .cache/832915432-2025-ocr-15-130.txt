@@ -1,0 +1,491 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 600981
+Virksomheten
+Organisasjonsnummer : 832 915 432
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: 12 VOLT AS
+Forretningsadresse: Borreveien 11
+3186 HORTEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Arne Volleng
+Dato for fastsettelse av arsregnskapet: 28.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 832 915 432
+
+12 VOLT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 507 957 762 446
+
+Sum inntekter 1 507 957 762 446
+
+Kostnader
+
+Varekostnad 1 033 368 522 631
+
+Lennskostnad 2, 3 0 284
+
+Avskrivning pa varige
+
+driftsmidler 4 8 122 0
+
+Annen driftskostnad 414 599 231 783
+
+Sum kostnader 1 456 090 754 698
+
+Driftsresultat 51 867 7 748
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 215 72
+
+Annen finansinntekt 4 291 3 837
+
+Sum finansinntekter 4 506 3 909
+
+Annen rentekostnad 43 072 0
+
+Annen finanskostnad 6 496 4 634
+
+Sum finanskostnader 49 568 4 634
+
+Netto finans -45 062 -725
+
+Resultat fer skattekostnad 6 805 7 023
+
+Skattekostnad 1 2 817
+
+Arsresultat 6 804 4 206
+
+Arsresultat etter
+
+minoritetsinteresser 6 804 4 206
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 6 804 4 206
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 6 804 4 206
+
+Sum overferinger og
+
+disponeringer 6 804 4 206
+Utskriftsdato 30.06.2026 Organisasjonsnr 832 915 432 Side 1 av 3
+
+Organisasjonsnr: 832 915 432
+12 VOLT AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 4 24 368 0
+Sum varige driftsmidler 24 368 0
+Finansielle anleggsmidler
+Andre langsiktige
+fordringer 45 000 45 000
+Sum finansielle
+anleggsmidler 45 000 45 000
+Sum anleggsmidler 69 368 45 000
+Omlepsmidler
+Varer
+Varelager 722 594 426 307
+Sum varer 722 594 426 307
+Fordringer
+Kundefordringer 150 644 23 129
+Andre kortsiktige
+fordringer 0 6 180
+Sum fordringer 150 644 29 309
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 265 930 98 367
+Sum bankinnskudd,
+kontanter og lignende 265 930 98 367
+Sum omlepsmidler 1139 168 553 983
+SUM ELENDELER 1 208 536 598 983
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 30.06.2026 Organisasjonsnr 832 915 432 Side 2 av 3
+
+Aksjekapital
+
+(selskapskapital) 100 000 100 000
+
+Sum innskutt egenkapital 100 000 100 000
+
+Opptjent egenkapital
+
+Annen egenkapital 11 011 4 205
+
+Sum opptjent egenkapital 11 011 4 205
+
+Sum egenkapital 111 011 104 205
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 1 063 633 475 000
+
+Sum annen langsiktig gjeld 1 063 633 475 000
+
+Sum langsiktig gjeld 1 063 633 475 000
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 1 418 0
+
+Leverandergjeld 839 0
+
+Betalbar skatt 0) 2 817
+
+Skyldig offentlige avgifter 31 556 16 882
+
+Annen kortsiktig gjeld 79 79
+
+Sum kortsiktig gjeld 33 892 19 778
+
+Sum gjeld 1 097 525 494 778
+
+SUM EGENKAPITAL OG GJELD 1 208 536 598 983
+Utskriftsdato 30.06.2026 Organisasjonsnr 832 915 432 Side 3 av 3
+
+Organisasjonsnr: 832 915 432
+
+12 VOLT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Horten
+
+Virksomhetens art
+
+Import, salg, montasje og utvikling av
+
+legsninger for strem og varme i bil, bat og hytte.
+
+Note
+2
+Antall Aarsverk i regnskapsaret
+0.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+0.00
+Andre ytelser Arets Fjorarets
+284.00
+Sum lonnskostnader Arets Fjorarets
+284.00
+Note
+4
+Varige driftsmidler og immaterielle eiendeler
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+32490.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+32490.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+8122.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+24368.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+8122.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap 2025
+12 Volt AS
+(832 915 432)
+12 Volt AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 1 507 957 762 446
+Sum driftsinntekter 1 507 957 762 446
+Driftskostnader
+
+Varekostnad 1033 368 522 631
+
+Lennskostnad 2,3 @) 284
+
+Avskrivning pa varige driftsmidler 4 8122 @)
+
+Annen driftskostnad 414 599 231 783
+Sum driftskostnader 1 456 090 754 698
+Driftsresultat 51 867 7 748
+Finansinntekter
+
+Annen renteinntekt 215 72
+
+Annen finansinntekt 4291 3 837
+Sum finansinntekter 4 506 3909
+Finanskostnader
+
+Annen rentekostnad 43 072 (@)
+
+Annen finanskostnad 6 496 4634
+Sum finanskostnader 49 568 4634
+Netto finans -45 062 -725
+Resultat for skatt 6 805 7 023
+Skattekostnad 1 2817
+Arsresultat 6804 4206
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital 6 804 4 206
+Sum overferinger og disponeringer 6 804 4206
+
+12 Volt AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Tomter, bygninger og annen fast eiendom 4 24 368 (@)
+Sum varige driftsmidler 24 368 0
+Finansielle anieggsmidler
+
+Andre langsiktige fordringer 45 000 45 000
+Sum finansielle anleggsmidler 45 000 45 000
+Sum anleggsmidler 69368 45000
+Omlepsmidler
+Varelager 722594 426307
+Fordringer
+
+Andre kortsiktige fordringer @) 6 180
+
+Kundefordringer 150 644 23129
+Sum fordringer 150 644 29 309
+Bankinnskudd, kontanter o.l. 265 930 98 367
+Sum omlepsmidler 1139168 553983
+Sum eiendeler 1208536 598983
+
+12 Volt AS Arsregnskap Side 3 av6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 100 000 100 000
+Sum innskutt egenkapital 100000 100000
+Opptjent egenkapital
+Annen egenkapital 11 011 4 205
+Sum opptjent egenkapital 11 011 4205
+Sum egenkapital 111011 104205
+Gijeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 1063633 475000
+Sum annen langsiktig gjeld 1063633 475000
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner, kortsiktig 1 418 @)
+Leverande@rgjeld 839 0
+Betalbar skatt fe) 2 817
+Skyldig offentlige avgifter 31 556 16 882
+Annen kortsiktig gjeld 79 79
+Sum kortsiktig gjeld 33 892 19 778
+Sum gjeld 1097525 494778
+Sum egenkapital og gjeld 1208536 598983
+12 Volt AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Horten
+Virksomhetens art
+Import, salg, montasje og utvikling av losninger for strom og varme i bil, bat og hytte.
+Note 2: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Note 3: Lonnskostnader
+
+2025 2024
+Lenn @) 0
+Arbeidsgiveravgift @) @)
+Pensjon @] 0
+Andre ytelser @) 284
+Sum lonnskostnader 0 284
+12 Volt AS Arsregnskap Side 5 av 6
+
+Note 4: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 fe)
++ Kjap og annen tilgang i ar 32 490
+- Salg og annen avgang i ar (@)
+= Anskaffelseskost 31. desember 32 490
+- Sum avskrivninger og nedskrivninger 8123
+= Balansefort verdi per 31.12. 24 368
+Arets avskrivninger og nedskrivninger 8123
+12 Volt AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Arne Volleng <a@12volt.no>
+Elektronisk signering
+ARNE VOLLENG
+29.10.1970 - Styreleder
+Y) Signert
+28.06.2026 10:28 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 28.06.2026 10:27:39

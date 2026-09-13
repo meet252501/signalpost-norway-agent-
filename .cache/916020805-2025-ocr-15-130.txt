@@ -1,0 +1,247 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 563452
+Virksomheten
+Organisasjonsnummer : 916 020 805
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: PROXPECT DRONES AS
+Forretningsadresse: Teglverksveien 9A
+3413 LIER
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: MemoAccounting AS
+Dato for fastsettelse av arsregnskapet: 26.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.06.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 916 020 805
+
+PROXPECT DRONES AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 2 050 241 3 022 192
+
+Sum inntekter 2 050 241 3 022 192
+
+Kostnader
+
+Varekostnad 814 497 799 474
+
+Lennskostnad 2 1 691 435 1 589 255
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 87 372 113 360
+
+Annen driftskostnad 601 613 443 820
+
+Sum kostnader 3 194 917 2 945 909
+
+Driftsresultat -1 144 676 76 283
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 7 157 7 938
+
+Sum finansinntekter 7 157 7 938
+
+Annen rentekostnad 0 144
+
+Sum finanskostnader 0 144
+
+Netto finans 7 157 7 794
+
+Resultat fer skattekostnad -1 137 519 84 O77
+
+Arsresultat -1 137 519 84 077
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -1 137 519 84 O77
+
+Sum overferinger og
+
+disponeringer -1 137 519 84 077
+Utskriftsdato 20.06.2026 Organisasjonsnr 916 020 805 Side 1 av 3
+
+Organisasjonsnr: 916 020 805
+PROXPECT DRONES AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Varige driftsmidler
+Driftslesere, inventar,
+verktay, kontormaskiner
+og lignende 249 007 181 180
+Sum varige driftsmidler 249 007 181 180
+Sum anleggsmidler 249 007 181 180
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 32 606 493 253
+Andre fordringer 211 458 318 203
+Sum fordringer 244 064 811 456
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 713 807 1 473 204
+Sum bankinnskudd,
+kontanter og lignende 713 807 1 473 204
+Sum omlepsmidler 957 871 2 284 660
+SUM ELENDELER 1 206 879 2 465 839
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 36 755 36 755
+Overkurs 5 701 982 5 701 982
+Sum innskutt egenkapital 5 738 737 5 738 737
+Opptjent egenkapital
+Udekket tap 5 074 589 3 937 070
+Sum opptjent egenkapital -5 074 589 -3 937 070
+Sum egenkapital 664 148 1 801 667
+Gjeld
+Langsiktig gjeld
+
+Utskriftsdato 20.06.2026 Organisasjonsnr 916 020 805 Side 2 av 3
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 204 923 204 923
+
+Sum annen langsiktig gjeld 204 923 204 923
+
+Sum langsiktig gjeld 204 923 204 923
+
+Kortsiktig gjeld
+
+Leverandergjeld 44 022 63 664
+
+Skyldige offentlige
+
+avgifter 149 074 217 579
+
+Annen kortsiktig gjeld 144 711 178 005
+
+Sum kortsiktig gjeld 337 807 459 249
+
+Sum gjeld 542 730 664 172
+
+SUM EGENKAPITAL OG GJELD 1 206 879 2 465 839
+Utskriftsdato 20.06.2026 Organisasjonsnr 916 020 805 Side 3 av 3
+
+Organisasjonsnr: 916 020 805
+
+PROXPECT DRONES AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel ikke tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+2
+
+Antall Arsverk i regnskapsaret
+
+1.00

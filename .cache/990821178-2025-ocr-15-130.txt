@@ -1,0 +1,428 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 515412
+Virksomheten
+Organisasjonsnummer : 990 821 178
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: BORO EIENDOM AS
+Forretningsadresse: c/o Axer Eiendom AS
+Bolette brygge 1
+0252 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Gaganprit Plaha
+Dato for fastsettelse av Aarsregnskapet: 07.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 03.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 990 821 178
+BORO EIENDOM AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Inntekter
+Salgsinntekt 1
+Annen driftsinntekt 277 981 290 021
+Sum inntekter 277 981 290 O21
+Kostnader
+Varekostnad 1 -907 134 -468 941
+Annen driftskostnad 123 779 126 465
+Sum kostnader -783 355 -342 476
+Driftsresultat 1 061 337 632 497
+Finansinntekter og
+finanskostnader
+Inntekt pa investering i
+datterselskap 2
+Renteinntekt fra foretak
+i samme konsern 2 462 015 337 385
+Annen renteinntekt 220 1 102
+Sum finansinntekter 462 235 338 487
+Rentekostnad til foretak
+1 samme konsern 2
+Annen rentekostnad 79
+Sum finanskostnader 79
+Netto finans 462 156 338 487
+Resultat fer skattekostnad 1 523 492 970 985
+Skattekostnad pa resultat 3
+Arsresultat 1 523 492 970 985
+Arsresultat etter
+minoritetsinteresser 1 523 492 970 985
+Totalresultat 1 523 492 970 985
+Overferinger og
+disponeringer
+Overfert fra fond for
+vurderingsforskjeller 4
+Ordinert utbytte 4
+Avgitt konsernbidrag 4
+Udekket tap 4, 4 1 523 492 970 985
+Avsatt til annen
+egenkapital 4
+Overfert fra annen
+egenkapital 4
+
+Utskriftsdato 03.06.2026 Organisasjonsnr 990 821 178 Side 1 av 4
+
+Sum overferinger og
+disponeringer 1 523 492 970 985
+Utskriftsdato 03.06.2026 Organisasjonsnr 990 821 178 Side 2 av 4
+
+Organisasjonsnr: 990 821 178
+
+BORO EIENDOM AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Finansielle anleggsmidler
+
+Lan til foretak i samme
+
+konsern 2
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 2
+
+Sum anleggsmidler
+
+Omlepsmidler
+
+Varer
+
+Sum varer 1, 1
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 277 981 284 021
+
+Krav pa innbetaling av
+
+selskapskapital 2 11 036 504 10 380 820
+
+Sum fordringer 11 314 486 10 664 841
+
+Sum omlepsmidler 11 314 486 10 664 841
+
+SUM ELENDELER 11 314 486 10 664 841
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4 150 000 150 000
+
+Beholdning av egne aksjer 4
+
+Overkurs 4
+
+Annen innskutt egenkapital 5 760 590 5 760 590
+
+Sum innskutt egenkapital 5 910 590 5 910 590
+
+Opptjent egenkapital
+
+Annen egenkapital 4
+
+Udisponert resultat 4
+
+Udekket tap 4 9 497 166 11 020 658
+
+Sum opptjent egenkapital -9 497 166 -11 020 658
+
+Sum egenkapital -3 586 576 -5 110 068
+Utskriftsdato 03.06.2026 Organisasjonsnr 990 821 178 Side 3 av 4
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 2 14 441 612 14 441 612
+
+Langsiktig gjeld
+
+nerstaende selskap 2
+
+Sum annen langsiktig gjeld 14 441 612 14 441 612
+
+Sum langsiktig gjeld 14 441 612 14 441 612
+
+Kortsiktig gjeld
+
+Leverandergjeld 2 51 938 16 250
+
+Betalbar skatt 3
+
+Annen kortsiktig gjeld 1 407 512 1 317 048
+
+Sum kortsiktig gjeld 459 450 1 333 298
+
+Sum gjeld 14 901 062 15 774 910
+
+SUM EGENKAPITAL OG GJELD 11 314 486 10 664 841
+Utskriftsdato 03.06.2026 Organisasjonsnr 990 821 178 Side 4 av 4
+
+Organisasjonsnr: 990 821 178
+
+BORO EIENDOM AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+BORO EIENDOM AS
+Signering Arsregnskap - BORO EIENDOM AS
+Dokumentet er signert av:
+@ Christer Mehlum
+Signert med BankID autentisering (Norge), den 7. mai 2026, 10:55:22.
+Referanse: a2bd7bc1-70c7-44cf-b 1e6-f430b08875eb
+e Borger Borgenhaug
+Signert med BankID autentisering (Norge), den 7. mai 2026, 12:20:21.
+Referanse: 9151965f-c750-4eb4-95d6-0084f1 b62dcb
+Dokumentet er forseglet ay (Company AS. Signeringen er gjort ined digital signering levert avy dCompany AS.
+Seal ID: 266791 1e-65b3-4192-Shaf-b9 8383 74fe Sf
+d company
+
+Arsregnskap 2025
+Boro Eiendom AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 990 821 178
+Seal ID: 26b791le-65b3-4192-8baf-b9838374fe5f
+
+Resultatregnskap
+Boro Eiendom AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftsinntekt 277 981 290 021
+Sum driftsinntekter 277 981 290 021
+Varekostnad 1 -907 134 -468 941
+Annen driftskostnad 123 779 126 465
+Sum driftskostnader -783 355 -342 476
+Driftsresultat 1 061 337 632 497
+Finansinntekter og finanskostnader
+
+Renteinntekt fra foretak i samme konsern 2 462 015 337 385
+Annen renteinntekt 220 1 102
+Annen rentekostnad 79 0
+Sum netto finansposter 462 156 338 487
+Resultat for skattekostnad 1 523 492 970 985
+Skattekostnad pa resultat 3 0 0
+Resultat 1 523 492 970 985
+Arsresultat 1 523 492 970 985
+Overferinger og disponeringer
+
+Avsatt til dekning av tidligere udekket tap 4 0 970 985
+Overfart til udekket tap 4 1 523 492 0
+Sum overforinger og disponeringer 1 523 492 970 985
+Boro Eiendom AS Side 2
+
+Seal ID: 26b791le-65b3-4192-8baf-b9838374fe5f
+
+Balanse
+Boro Eiendom AS
+
+Eiendeler Note 2025 2024
+Omle@psmidier
+
+Andre kortsiktige fordringer 277 981 284 021
+Fordringer pa konsernselskap 2 11 036 504 10 380 820
+Sum fordringer 11 314 486 10 664 841
+Sum omlgpsmidler 11 314 486 10 664 841
+Sum eiendeler 11 314 486 10 664 841
+Boro Eiendom AS Side 3
+
+Seal ID: 26b791le-65b3-4192-8baf-b9838374fe5f
+
+Balanse
+Boro Eiendom AS
+Egenkapital og gjeld Note 2025 2024
+Innskutt egenkapital
+Aksjekapital 4 150 000 150 000
+Annen innskutt egenkapital 5 760 590 5 760 590
+Sum innskutt egenkapital 5 910 590 5 910 590
+Opptjent egenkapital
+Udekket tap 4 -9 497 166 -11 020 658
+Sum opptjent egenkapital -9 497 166 -11 020 658
+Sum egenkapital -3 586 576 -5 110 068
+Gjeld
+Langsiktig konserngjeld 2 14 441 612 14 441 612
+Sum annen langsiktig gjeld 14 441 612 14 441 612
+Kortsiktig gjeld
+Leverandgrgjeld 2 51 938 16 250
+Annen kortsiktig gjeld 1 407 512 1317 048
+Sum kortsiktig gjeld 459 450 1 333 298
+Sum gjeld 14 901 062 15 774 910
+Sum egenkapital og gjeld 11 314 486 10 664 841
+Oslo, 07.05.2026
+Styret i Boro Eiendom AS
+Borger Borgenhaug Christer Meehlum
+Styreleder Styremediem
+Boro Eiendom AS Side 4
+Seal ID: 26b7911le-65b3-4192-8baf-b9838374fe5f
+
+Noter til arsregnskapet 2025
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Forutsetningen om fortsatt drift er lagt til grunn ved utarbeidelsen.
+Regnskapsperioden for 2025 omfatter perioden 01.01.2025 til 31.12.2025
+Selskapet inngar i konsern med Axer Eiendom - org nr. 987 579 129, som er ansvarlig for utarbeidelse av
+konsernregnskapet. Konsernspissens forretningsadresse er Bolette Brygge 1, 0252 Oslo.
+Antall arsverk i selskapet er 0.
+Selskapets virksomhet har bestatt av utvikling og salg av boligprosjekt i Akershus. Prosjektet er ferdigstilt, og
+selskapet opprettholdes i reklamasjonsperioden etter gjennomfert utbygging.
+Bruk av estimater
+Utarbeidelse av regnskap i samsvar med regnskapsloven krever bruk av estimater. Videre krever anvendelse
+av selskapets regnskapsprinsipper at ledelsen ma utgve skjgnn.
+Inntekter og kostnader
+Inntekter ved salg av varer og tjenester vurderes til virkelig verdi av vederlaget, netto etter fradrag for
+merverdiavgift, returer, rabatter og andre avslag.
+Klassifisering og vurdering av balanseposter
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Anleggsmidler er vurdert til
+anskaffelseskost. Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett
+ar etter balansedagen, samt poster som knytter seg til varekretsigpet. Oml@psmidler vurderes til laveste verdi
+av anskaffelseskost og antatt virkelig verdi.
+Fordringer klassifiseres som omlgpsmidler hvis de skal tilbakebetales i lgpet av ett ar. For gjeld er analoge
+kriterier lagt til grunn. Fgrste ars avdrag pa langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke
+som omlgpsmiddel og kortsiktig gjeld.
+Enkelte poster er vurdert etter andre regler. Postene det gjelder vil veere blant de postene som omhandles
+nedenfor.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning for tap gj@res pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+| tillegg gj@res det for @vrige kundefordringer en uspesifisert avsetning for a dekke antatt tap.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt beregnes med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt eventuelt ligningsmessig underskudd til fremfering ved
+utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller
+kan reversere i samme periode er utlignet og nettofgrt. Utsatt skatt pa merverdier i forbindelse med oppkjgp
+av datterselskap blir ikke utlignet.
+Oppfering av utsatt skattefordel pa netto skattereduserende forskjeller som ikke er utlignet og underskudd til
+fremfgering, er begrunnet med antatt fremtidig inntjening. Utsatt skattefordel som kan balansefgres og utsatt
+skatt er oppfert netto i balansen.
+Boro Eiendom AS Side 5
+
+Seal ID: 26b791le-65b3-4192-8baf-b9838374fe5f
+
+Noter til arsregnskapet 2025
+
+Note 1 Byggeprosjekt
+
+2025 2024
+Bokfert beholdning prosjekt 31.12 0 0
+Prosjektet har en fullfgringsgrad pa 100%, og salgsgrad pa 100% per 31.12.2025.
+| 2025 ble det reversert prosjektavsetninger for total kr 907 134. Prosjektavsetning er pr 31.12.2025 pa
+407 512.
+Note 2 Mellomvzrende med selskap i samme konsern og nzrstaende parter
+Fordringer 2025 2024
+Konsernfordring 11 036 504 10 380 820
+Sum fordringer 11 036 504 10 380 820
+Gjeld 2025 2024
+Langsiktig gjeld 14 441 612 14 441 612
+Leverandgergijeld 51 938 16 250
+Sum gjeld 14 493 550 14 457 862
+Renter pa mellomveerende med konsernselskaper og neerstaende parter beregnes hvert kvartal iht gjeldende
+avtale mellom partene. Renten som benyttes er 3 mnd NIBOR + 2%.
+Ordineere kundefordringer og leverandergjeld renteberegnes ikke.
+Selskapet inngar i en konsernkontoordning med morselskapet Axer Eiendom AS.
+Pr 31.12.2025 er saldo kr 11 036 504.
+Rente pa mellomveerende renteberegnes ikke pa grunn av manglende betalingsevne i selskapet. Se forg@vrig
+note 4 for mer informasjon.
+Boro Eiendom AS Side 6
+
+Seal ID: 26b7911le-65b3-4192-8baf-b9838374fe5f
+
+Noter til arsregnskapet 2025
+
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfert skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzrt resultat 0 0
+Skattepliktig inntekt:
+Resultat fer skatt 1 523 492 970 985
+Permanente forskjeller 0 0
+Endring i midlertidige forskjeller -2 990 784 -3 092 877
+Skattepliktig inntekt -1 467 292 -2 121 892
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbarskattibalansen ||| TTL
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt og
+utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Fordringer -41 586 -41 586 0
+Gevinst — og tapskonto -8 324 994 -10 406 243 -2 081 249
+Avsetninger mv -407 512 -1 317 048 -909 536
+Sum -8 774 092 -11 764 876 -2 990 784
+Akkumulert fremfgrbart underskudd -4 699 184 -3 231 892 1 467 292
+Inngar ikke i beregningen av utsatt skatt 13 473 276 14 996 768 1 523 492
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Boro Eiendom AS Side 7
+
+Seal ID: 26b791le-65b3-4192-8baf-b9838374fe5f
+
+Noter til arsregnskapet 2025
+Note 4 Egenkapital
+Aksjekapital Innskutt Udekkettap Sum egenkapital
+egenkapital
+Pr. 01.01 150000 5760590 -11 020 658 -5 110 068
+Arets resultat 0 )
+Pr 31.12 150000 5760590 -11 020 658 -5 110 068
+Selskapets kapital er tapt. Styret mener fortsatt drift er forsvarlig pa bakgrunn av at selskapet er del av et
+likvid konsern, og far tilfgrsel fra morselskap ved behov. Boro Eiendom AS har pr 31.12.2025 langsiktig gjeld
+pa NOK 14 441 612 til Axer Eiendom AS som kan konverteres til egenkapital ved behov. Styret foreslar at
+driften viderefgres pa dette grunnlag.
+Boro Eiendom AS Side 8
+Seal ID: 26b791le-65b3-4192-8baf-b9838374fe5f

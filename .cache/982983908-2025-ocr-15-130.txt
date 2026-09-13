@@ -1,0 +1,494 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 667042
+Virksomheten
+Organisasjonsnummer : 982 983 908
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: LARSENBRYGGA AS
+Forretningsadresse: Misverveien 32
+8312 HENNINGSVER
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Erik Berg
+Dato for fastsettelse av arsregnskapet: 23.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 982 983 908
+
+LARSENBRYGGA AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Leieinntekter 1 15 344 997 5 199 999
+
+Sum inntekter 15 344 997 5 199 999
+
+Kostnader
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 2 4 396 135 1 113 050
+
+Annen driftskostnad 738 571 370 106
+
+Sum kostnader 5 134 706 1 483 156
+
+Driftsresultat 10 210 291 3 716 843
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+1 samme konsern 3 240 356 7 713
+
+Annen finansinntekt 8 624
+
+Sum finansinntekter 248 980 7 713
+
+Rentekostnad til foretak
+
+1 samme konsern 1 11 417 619 2 669 962
+
+Annen rentekostnad 204 2 810
+
+Sum finanskostnader 11 417 823 2 672 772
+
+Netto finans -11 168 843 -2 665 059
+
+Resultat fer skattekostnad -958 551 1 051 784
+
+Skattekostnad pa resultat 4 -210 837 -84 233
+
+Arsresultat -747 714 1 136 017
+
+Arsresultat etter
+
+minoritetsinteresser -747 714 1136 017
+
+Totalresultat -747 714 1 136 017
+
+Overferinger og
+
+disponeringer
+
+Overfert fra overkurs 5
+
+Avsatt til annen
+
+egenkapital 5 1 136 O17
+
+Overfert fra annen
+
+egenkapital -747 714
+
+Sum overferinger og
+
+disponeringer -747 714 1 136 017
+Utskriftsdato 01.08.2026 Organisasjonsnr 982 983 908 Side 1 av 3
+
+Organisasjonsnr: 982 983 908
+LARSENBRYGGA AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 4
+Varige driftsmidler
+Tomter, bygninger o.a.
+fast eiendom 2, 3 164 591 068 166 255 268
+Maskiner og anlegg 2, 3
+Skip og flytende
+installasjoner 2
+Driftslesere, inventar o.
+a. utstyr 2, 3 15 441 994 17 206 694
+Sum varige driftsmidler 180 033 062 183 461 962
+Sum anleggsmidler 180 033 062 183 461 962
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 1 1 598 438 2 126 536
+Andre kortsiktige
+fordringer 44 811 1 693 881
+Konsernfordringer 1 25 322 264 6 158 128
+Sum fordringer 26 965 512 9 978 546
+Sum omlepsmidler 26 965 512 9 978 546
+SUM ELENDELER 206 998 574 193 440 508
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5 200 000 200 000
+Overkurs 5 3 328 718 3 328 718
+Annen innskutt egenkapital 5 29 803 340 4 803 340
+Sum innskutt egenkapital 33 332 058 8 332 058
+Opptjent egenkapital
+Annen egenkapital 5 388 303 1 136 017
+Sum opptjent egenkapital 388 303 1 136 017
+Sum egenkapital 33 720 361 9 468 076
+Gjeld
+
+Utskriftsdato 01.08.2026 Organisasjonsnr 982 983 908 Side 2 av 3
+
+Langsiktig gjeld
+
+Utsatt skatt 4 1 059 718 1 270 555
+
+Sum avsetninger for
+
+forpliktelser 1 059 718 1 270 555
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 3
+
+Langsiktig konserngjeld 1 162 930 114 170 670 624
+
+@vrig langsiktig gjeld 4 000 000 6 000 000
+
+Sum annen langsiktig gjeld 166 930 114 176 670 624
+
+Sum langsiktig gjeld 167 989 832 177 941 179
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 4 675 400 5 245 319
+
+Betalbar skatt 4
+
+Skyldig offentlige avgifter 612 981
+
+Kortsiktig konserngjeld 1, 3 785 934
+
+Sum kortsiktig gjeld 5 288 381 6 031 253
+
+Sum gjeld 173 278 213 183 972 432
+
+SUM EGENKAPITAL OG GJELD 206 998 574 193 440 508
+Utskriftsdato 01.08.2026 Organisasjonsnr 982 983 908 Side 3 av 3
+
+Organisasjonsnr: 982 983 908
+
+LARSENBRYGGA AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Larsenbrygga AS
+
+Resultatregnskap
+Larsenbrygga AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Leieinntekter 1 15 344 997 5 199 999
+Sum driftsinntekter 15 344 997 5 199 999
+Avskrivning av driftsmidler og immaterielle eiendeler 2 4 396 135 1 113 050
+Annen driftskostnad 738 571 370 106
+Sum driftskostnader 5 134 706 1 483 156
+Driftsresultat 10 210 291 3 716 843
+Renteinntekt fra foretak i samme konsern 3 240 356 7713
+Annen finansinntekt 8 624 0
+Rentekostnad til foretak i samme konsern 1 11 417 619 2 669 962
+Annen rentekostnad 204 2 810
+Resultat av finansposter -11 168 843 -2 665 059
+Resultat for skattekostnad -958 551 1051 784
+Skattekostnad pa resultat 4 -210 837 -84 233
+Arsresultat -747 714 1 136 017
+Overforinger
+
+Avsatt til annen egenkapital 5 0 1 136 017
+Overfort fra annen egenkapital 747 714 0
+Sum overferinger -747 714 1 136 017
+Larsenbrygga AS Side 2
+
+Balanse
+
+Larsenbrygga AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger o.a. fast eiendom 2,3 164 591 068 166 255 268
+Driftslosore, inventar o.a. utstyr 2,3 15 441 994 17 206 694
+Sum varige driftsmidler 180 033 062 183 461 962
+Sum anleggsmidler 180 033 062 183 461 962
+Omlopsmidler
+Fordringer
+Kundefordringer 1 1 598 438 2 126 536
+Andre kortsiktige fordringer 44 811 1 693 881
+Konsernfordringer 1 25 322 264 6 158 128
+Sum fordringer 26 965 512 9 978 546
+Sum omlgepsmidler 26 965 512 9 978 546
+Sum eiendeler 206 998 574 193 440 508
+Larsenbrygga AS Side 3
+
+Balanse
+Larsenbrygga AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5 200 000 200 000
+Overkurs 5 3 328 718 3 328 718
+Annen innskutt egenkapital 5 29 803 340 4 803 340
+Sum innskutt egenkapital 33 332 058 8 332 058
+Opptjent egenkapital
+Annen egenkapital 5 388 303 1 136 017
+Sum opptjent egenkapital 388 303 1 136 017
+Sum egenkapital 33 720 361 9 468 076
+Gjeld
+Avsetning for forpliktelser
+Utsatt skatt 4 1 059 718 1 270 555
+Sum avsetning for forpliktelser 1059 718 1 270 555
+Annen langsiktig gjeld
+Langsiktig konserngjeld 1 162 930 114 170 670 624
+@vrig langsiktig gjeld 4 000 000 6 000 000
+Sum annen langsiktig gjeld 166 930 114 176 670 624
+Kortsiktig gjeld
+Leverandorgjeld 4 675 400 5 245 319
+Skyldig offentlige avgifter 612 981 0
+Kortsiktig konserngjeld 1,3 0 785 934
+Sum kortsiktig gjeld 5 288 381 6 031 253
+Sum gjeld 173 278 213 183 972 432
+Sum egenkapital og gjeld 206 998 574 193 440 508
+Molde, / - 2026
+Styret i Larsenbrygga AS
+Erik Berg Anikken Berg
+styreleder Styremedlem og daglig leder
+Larsenbrygga AS Side 4
+
+Noter til regnskapet 2025
+Generell informasjon og regnskapsprinsipper
+Selskapet er et eiendomsselskap som leier ut eiendom med driftsmidler til leietaker i konsern og
+eiendommen er lokalisert i Henningsvaer i Vagan kommune.
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Regnskapet er utarbeidet under forutsetning om fortsatt drift.
+Bruk av estimater
+Utarbeidelse av regnskap i samsvar med regnskapsloven krever bruk av estimater. Videre krever
+anvendelse av selskapets regnskapsprinsipper at ledelsen ma utove skjonn.
+Klassifisering og vurdering av balanseposter
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Anleggsmidler er vurdert til
+anskaffelseskost. Omlopsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen
+ett ar etter balansedagen, samt poster som knytter seg til varekretslopet. Omlapsmidler vurderes til
+laveste verdi av anskaffelseskost og antatt virkelig verdi. Fordringer klassifiseres som omlopsmidler hvis de
+skal tilbakebetales i lopet av ett ar. For gjeld er analoge kriterier lagt til grunn. Forste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlopsmiddel og kortsiktig gjeld.
+Enkelte poster er vurdert etter andre regler. Postene det gjelder vil vere blant de postene som omhandles
+nedenfor.
+Varige driftsmidler
+Varige driftsmidler balansefores og avskrives linezert til restverdi over driftsmidlenes forventede
+utnyttbare levetid. Vedlikehold av driftsmidler kostnadsfares lapende. Pakostninger eller forbedringer
+tillegges driftsmidlets kostpris og avskrives i takt med driftsmidlet. Skillet mellom vedlikehold og
+pakostning/forbedring regnes i forhold til driftsmidlets stand ved kjop av driftsmidlet. Tomter avskrives
+ikke.
+Nedskrivning av anleggsmidler
+Ved indikasjon pa at balansefort verdi av et anleggsmiddel er hayere enn virkelig verdi, foretas det test for
+verdifall. Hvis balansefort verdi er hayere enn bade salgsverdi og gjenvinnbart belap, foretas det
+nedskrivning til det hayeste av salgsverdi og gjenvinnbart belop. Gjenvinnbart belop er det hayeste av
+netto salgsverdi og bruksverdi. Bruksverdi er naverdi av fremtidige kontantstrammer knyttet til eiendelen.
+Tidligere nedskrivninger, med unntak for nedskrivning av goodwill, reverseres hvis grunnlaget for
+nedskrivningen ikke lenger er til stede.
+Fordringer
+Kundefordringer og andre fordringer er oppfort i balansen til palydende etter fradrag for avsetning til
+forventet tap. Avsetning for tap gjares pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+| tillegg gjores det for ovrige kundefordringer en uspesifisert avsetning for a dekke antatt tap.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt beregnes med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt eventuelt ligningsmessig underskudd til fremforing ved
+utgangen av regnskapsaret. Skatteakende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reversere i samme periode er utlignet og nettofort. Oppforing av utsatt skattefordel pa netto
+skattereduserende forskjeller som ikke er utlignet og underskudd til fremforing, er begrunnet med antatt
+fremtidig inntjening. Utsatt skattefordel som kan balansefores og utsatt skatt er oppfort netto i balansen.
+Arsverk
+Selskapet har ingen ansatte sysselsatt i lapet av regnskapsaret.
+Konsernregnskap
+Larsenbrygga AS er datterselskap av Classic Norway Eiendom AS som ikke utarbeider konsernregnskap.
+Konsernregnskapet er utarbeidet i selskapets konsernspiss Classic Norway Holding der selskapet inngar i
+konsolideringen. Classic Norway Holding AS har sin forretningsadresse i Molde Kommune.
+Larsenbrygga AS Side 5
+
+Noter til regnskapet 2025
+Note 1 Transaksjoner og mellomvz#rende med selskap i samme konsern
+Fordringer 2025 2024
+Kundefordringer 1 598 438 2 126 536
+Kortsiktig konsernfordring 25 322 264 6 158 128
+Sum gjeld 26 920 701 8 284 664
+Gjeld 2025 2024
+Langsiktig konserngjeld 162 930 114 170 670 624
+Kortsiktig konserngjeld 0 785 934
+Sum gjeld 162 930114 171 456 558
+Det foretas renteberegning av langsiktig konserngjeld. Selskapets leieinntekter kommer fra selskap i
+samme konsern.
+Note 2 Anleggsmidler
+Bygninger Driftslosore, Sum
+og tomter inventar ol.
+
+Anskaffelseskost pr. 01.01.25 166 927 318 17 647 694 184 575 012
++ Tilgang kjopte driftsmidler 967 235 967 235
+= Anskaffelseskost 31.12.25 167 894 553 17 647 694 185 542 247
+
+Akkumulerte avskrivninger 31.12.25 3 303 485 2 205 700 5 509 185
+= Bokfort verdi 31.12.25 164 591 068 15 441 994 180 033 062
+
+Arets ordinaere avskrivninger 2 631 435 1 764 700 4 396 135
+
+SBkonomisk levetid 25-100 ar 10 ar
+Larsenbrygga AS Side 6
+
+Noter til regnskapet 2025
+Note 3 Fordringer, gjeld, pantstillelser og garantier m.v
+Balansefort verdi av pantsatte eiendeler 2025 2024
+Tomter, bygninger o0.a fast eiendom 164 591 068 165 420 000
+Anlegg under utforelse 0 835 268
+Driftslosore, inventar og utstyr 15 441 994 17 206 694
+Sum 180 033 062 183 461 962
+Selskapets eiendom er stilt som sikkerhet for gjeld tatt opp av Classic Norway Eiendom AS.
+Konsernkonto:
+Selskapets kassekredittkonto med en saldo pa kr 322 264 pr 31.12.2025, inngar som en del av en
+konsernkontoavtale. Classic Norway Eiendom AS star som eier av avtalen. Bjorligard Hotell AS, Villa
+Utsikten Eiendom AS, Haholmen Eiendom AS, Molde Fjordstuer Eiendom AS, Havstuene AS, Strand Hotel
+Fevik Eiendom AS, Hjellskjazret Eiendom AS, Nyvagar Rorbuer AS, Larsenbrygga AS, Reine Rorbuer AS,
+Hustadvika Gjestegard AS, Gloppen Hotell Eigedom AS, Grand Hotell Andalsnes AS og Hotell Refsnes Gods
+Eiendom AS er de ovrige deltakerne i avtalen. Selskapene har solidaransvar for rettidig oppfyllelse av alle
+forpliktelser som matte oppsta under konsernavtalen. Avtalen loper i 1 ar og fornyes 1 ar om gangen. Total
+ramme pa kontoen er pr. 31.12.2025 kr. 10 000 000,- og total saldo er pa samme tidspunkt kr. 2 056 396.
+Eiendelene som er listet opp ovenfor er stillet som sikkerhet for kKonsernkontoen. Kontoen er i regnskapet
+klassifisert som kortsiktig konsernmellomveerende. Renter pa denne kontoen er klassifisert som renter
+foretak samme konsern.
+Larsenbrygga AS Side 7
+
+Noter til regnskapet 2025
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinaert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skatt -210 837 -84 233
+Skattekostnad ordinzrt resultat -210 837 -84 233
+Skattepliktig inntekt:
+Resultat for skatt -958 551 1051 784
+Permanente forskjeller 204 0
+Endring i midlertidige forskjeller -5 427 968 -16 247 193
+Mottatt konsernbidrag 0 6 158 128
+Skattepliktig inntekt -6 386 315 -9 037 280
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 -1 354 788
+Betalbar skatt pa mottatt konsernbidrag 0 1 354 788
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremforing som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endrin
+Varige driftsmidler 28 250 575 22 822 607 -5 427 968
+Sum 28 250 575 22 822 607 -5 427 968
+Akkumulert fremforbart underskudd -23 433 673 -17 047 357 6 386 315
+Grunnlag for utsatt skatt 4 816 902 5 775 249 958 347
+Utsatt skatt (22 %) 1059 718 1 270 555 210 836
+Note 5 Egenkapital
+Annen Innskutt Annen
+
+Aksjekapital Overkurs egenkapital egenkapital Sum
+Pr. 31.12.2024 200 000 3 328 718 4 803 340 1 136 017 9 468 076
+Arest resultat -747 714 -747 714
+Mottatt konsernbidrag 25 000 000 0 25 000 000
+Pr. 31.12.2025 200 000 3 328 718 29 803 340 388 303 33 720 361
+Larsenbrygga AS Side 8
+
+BDO AS
+Noisomhed
+a Serviceboks 15
+6405 Molde
+Til generalforsamlingen i Larsenbrygga AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet til Larsenbrygga AS.
+Arsregnskapet bestar av: Etter var mening:
+e Balanse per 31. desember e Oppfyller arsregnskapet gjeldende lovkrav, og
+2025 * Gir arsregnskapet et rettvisende bilde av
+*  Resultatregnskap for 2025 selskapets finansielle stilling per 31. desember
+e Noter til arsregnskapet, 2025 og av dets resultater for regnskapsaret
+herunder et sammendrag av avsluttet per denne datoen i samsvar med
+viktige regnskapsprinsipper. regnskapslovens regler og god regnskapsskikk i
+Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfart revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver
+og plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene j
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants
+{inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board
+for Accountants (IESBA-reglene), og vi har overholdt vare ovrige etiske forpliktelser i samsvar med
+: disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som
+grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir et
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er
+ogsa ansvarlig for slik intern kontroll som den finner nadvendig for 4 kunne utarbeide et arsregnskap
+som ikke inneholder vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift
+og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli awiklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er 4 oppna betryggende sikkerhet for at arsregnskapet som hethet ikke inneholder
+vesentlig feilinformasjon, verken som felge av misligheter eller utilsiktede feil, og 4 avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hey grad av
+sikkerhet, men ingen garanti for at en revisjon utfort j samsvar med |SA-ene, alltid vil avdekke
+vesentlig feilinformasjon. Feilinformasjon kan oppsta som falge av misligheter eller utilsiktede feil.
+Feilinformasjon er a anse som vesentlig dersom den enkeltvis eller samlet med rimelighet kan
+forventes a pavirke de ekonomiske beslutningene som brukerne foretar pa grunniag av
+arsregnskapet.
+BDO AS, et norsk aksjeselskap, er deltaker i BDO international Limited, et engelsk selskap med begrenset ansvar, og er en del av
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 1 av 2
+
+|BDO
+
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+
+https: //revisorforeningen.no/revisjonsberetninger
+
+Molde, 23. april 2026
+
+BDO AS
+
+Henning Redal
+
+statsautorisert revisor
+
+BDO AS, et norsk aksjeselskap, er deltaker 1 BDO International Limited, et engelsk selskap med begrenset ansvar, og er en det av
+
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 2 av Z

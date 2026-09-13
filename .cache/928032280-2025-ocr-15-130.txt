@@ -1,0 +1,557 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 611199
+Virksomheten
+Organisasjonsnummer : 928 032 280
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: STREAMS SERVICES AS
+Forretningsadresse: John Strandruds vei 16
+1360 FORNEBU
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Zpecter @konomi AS
+Dato for fastsettelse av Aarsregnskapet: 28.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 928 032 280
+
+STREAMS SERVICES AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 6 117 981 6 383 126
+
+Sum inntekter 6 117 981 6 383 126
+
+Kostnader
+
+Varekostnad 5 882 674 6 137 621
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 51 633 45 792
+
+Sum kostnader 5 934 307 6 183 413
+
+Driftsresultat 183 674 199 714
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 52 8 663
+
+Annen finansinntekt 16 480 12 655
+
+Sum finansinntekter 16 532 21 318
+
+Annen rentekostnad 118 957 304
+
+Annen finanskostnad 101 689 53 836
+
+Sum finanskostnader 220 646 54 140
+
+Netto finans -204 114 -32 822
+
+Resultat fer skattekostnad -20 440 166 891
+
+Skattekostnad 0 36 783
+
+Arsresultat -20 440 130 108
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 2 -20 440 130 108
+
+Sum overferinger og
+
+disponeringer -20 440 130 108
+Utskriftsdato 01.07.2026 Organisasjonsnr 928 032 280 Side 1 av 3
+
+Organisasjonsnr: 928 032 280
+STREAMS SERVICES AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Finansielle anleggsmidler
+Investering i datterselskap 3 173 058 173 058
+Lan til foretak i samme
+konsern 3 0 250 848
+Sum finansielle
+anleggsmidler 173 058 423 906
+Sum anleggsmidler 173 058 423 906
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 6 117 981 0
+Sum fordringer 6 117 981 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 1 449 588 872
+Sum bankinnskudd,
+kontanter og lignende 1 449 588 872
+Sum omlepsmidler 6 119 430 588 872
+SUM ELENDELER 6 292 488 1 012 778
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 2 30 000 30 000
+Annen innskutt egenkapital -5 570 -5 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+Annen egenkapital 2 385 669 406 109
+Sum opptjent egenkapital 385 669 406 109
+Sum egenkapital 410 099 430 539
+Gjeld
+Langsiktig gjeld
+
+Utskriftsdato 01.07.2026 Organisasjonsnr 928 032 280 Side 2 av 3
+
+Annen langsiktig gjeld
+Langsiktig konserngjeld 3 37 240 32 240
+Sum annen langsiktig gjeld 37 240 32 240
+Sum langsiktig gjeld 37 240 32 240
+Kortsiktig gjeld
+Leverandergjeld 4 601 513 449
+Betalbar skatt 0) 36 783
+Skyldige offentlige
+avgifter 0 -1 006
+Kortsiktig konserngjeld 5 721 591 0
+Annen kortsiktig gjeld 118 957 773
+Sum kortsiktig gjeld 5 845 149 549 999
+Sum gjeld 5 882 389 582 239
+SUM EGENKAPITAL OG GJELD 6 292 488 1 012 778
+Utskriftsdato 01.07.2026 Organisasjonsnr 928 032 280 Side 3 av 3
+
+Organisasjonsnr: 928 032 280
+
+STREAMS SERVICES AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Aksjer
+
+K*
+
+Omlepsaksjer er vurdert til markedsverdi pa balansedagen. Andre aksjer
+
+er oppfert i regnskapet til kostpris. I de tilfeller der den virkelige
+verdien er lavere enn kostprisen og dette ikke er forbigadende, er det
+foretatt nedskrivning.
+
+** Fordringer **
+
+Kundefordringer og andre
+
+fordringer er oppfert til palydende etter fradrag for konstaterte og
+forventede tap.
+
+** Skatter **
+
+Skattekostnaden i resultatregnskapet
+
+omfatter bade periodens betalbar skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet pa grunnlag av midlertidige forskjeller mellom
+regnskapsmessige og skattemessige verdier, samt eventuelt ligningsmessig
+underskudd til fremfgring ved utgangen av regnskapsaret. Utsatt skatt er
+avsatt som langsiktig gjeld i balansen.
+
+** Driftsinntekter og kostnader
+
+*k*
+
+Inntektsfering felger opptjeningsprinsippet, som normalt vil felge
+leveringstidspunktet for varer og tjenester. Kostnader er tatt med etter
+sammenstillingsprinsippet, det vil si at kostnadene er tatt med i samme
+periode som tilh@rende inntekter.
+
+Det er ikke endret regnskapsprinsipp fra
+
+2024 til 2025.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+3
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+Investering Inng.balanse Inntektsf.res Andre endr. Utg. balanse
+Streams 173058.00 0.00 0.00 173058.00
+Development LLC
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belgp - foretak i samme konserm Arets Fjorarets
+250848.00
+Annen langsiktig gjeld
+Samlet bele@p - foretak i samme konserm Arets Fjorarets
+5758831.00 32240.00
+
+S
+
+S
+
+‘
+
+Streams ServicesAS
+
+org.nr.: 928 032 280 :
+
+<
+
+Arsregnskap 2025 _-
+S
+
+01 01 2025 - 3112 2025 3
+
+Streams Services AS Arsregnskap 2025
+org.nr.: 928032280
+<
+iS
+2
+S
+<
+nD
+ia}
+=
+g
+Innhold :
+>
+S
+Q
+a
+1. Resultat og balanse =
++
+S
+>
+2. Noter for innsending z
+3
+£
+. . c
+3. Signering =
+z
+je)
+Q
+i)
+v
+<=
+=
+e
+&
+Generert av tripletex* 28 05 2026 Side 2 av 8
+
+Streams Services AS Arsregnskap 2025
+org.nr.: 928032280
+Resultat Noter 2025 2024
+Driftsinntekter og driftskostnader
+Salgsinntekter 6 117 981 6 383 126
+Sum driftsinntekter 6 117 981 6 383 126
+Varekostnad 5 882 674 6 137 621
+Lannskostnad 1 0 0
+Annen driftskostnad 51633 45 792
+Sum driftskostnader 5 934 307 6 183 413
+Driftsresultat 183 674 199 714
+Finansinntekter og finanskostnader <
+Ee
+g
+Annen renteinntekt 52 8663 =
+Annen finansinntekt 16 480 12 655 <8
+Sum finansinntekter 16 532 21318 S
+Annen rentekostnad 118 957 304 ¢
+Annen finanskostnad 101 689 53 836 S
+Sum finanskostnader 220 646 54 140 é
+Netto finans -204 114 -32822 =
+Ordinzert resultat for skattekostnad -20 440 166 891 s
+:
+Skattekostnader 8
+°
+Skattekostnad pa ordinzert resultat 0 36 783 &
+Arsresultat -20 440 130 108
+Overfgringer og disponeringer
+Overferinger til/fra annen egenkapital 2 -20 440 130 108
+Sum overfgringer og disponeringer -20 440 130 108
+Generert av Iripletex™" 28 05 2026 Side 3 av 8
+
+Streams Services AS Arsregnskap 2025
+org.nr.: 928032280
+Balanse Noter 2025 2024
+EIENDELER
+Anleggsmidler
+Investeringer i datterselskap 3 173 058 173 058
+Lan til foretak i samme konsern 3 0 250 848
+Sum finansielle anileggsmidler 173 058 423 906
+Sum anleggsmidler 173 058 423 906
+Omligpsmidler
+Kundefordringer 6 117 981 0 S
+Sum fordringer 6117981 0 3
+Le
+Bankinnskudd, kontanter og lignende 1449 588 872 3
+g
+Sum bankinnskudd, kontanter og lignende 1449 588 872 2
+Sum omlgpsmidier 6 119 430 588 872 2
+8
+Sum eiendeler 6 292 488 1012778 ==
+NE
+=
+:
+3
+&
+é
+Generert av Iripletex™" 28 05 2026 Side 4 av 8
+
+Streams Services AS Arsregnskap 2025
+org.nr.: 928032280
+EGENKAPITAL OG GJELD
+Egenkapital
+Selskapskapital 2 30 000 30 000
+Annen innskutt egenkapital -5 570 -5 570
+Sum innskutt egenkapital 24 430 24 430
+Annen Egenkapital 2 385 669 406 109
+Sum opptjent egenkapital 385 669 406 109
+Sum egenkapital 410 099 430 539
+Langsiktig gjeld S
+Langsiktig konserngjeld 3 37 240 32 240 =
+Sum annen langsiktig gjeld 37 240 32 240 8
+Na)
+3
+Sum langsiktig gjeld 37 240 32 240 >
+"
+Gjeld 2
+N
+Leverandgrgjeld 4601 513 449 =
+Betalbar skatt 0 36 783 s
+Skyldige offentlige avgifter 0 -1006 :
+Kortsiktig konserngjeld 5 721591 0 8
+9
+Annen kortsiktig gjeld 118 957 773
+Sum kortsiktig gjeld 5 845 149 549999
+Sum gjeld 5 882 389 582 239
+Sum egenkapital og gjeld 6 292 488 1012 778
+Generert av Iripletex™" 28 05 2026 Side 5 av 8
+
+Streams Services AS Arsregnskap 2025
+org.nr.: 928032280
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+** Klassifisering **
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer med forfall mer enn ett ar etter balansedagen er medtatt som anleggsmidler. Gjeld
+som forfaller senere enn ett ar etter balansedagen er oppfart som langsiktig gjeld.
+** Aksjer **
+Omlgpsaksjer er vurdert til markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til kostpris. | de
+tilfeller der den virkelige verdien er lavere enn kostprisen og dette ikke er forbigaende, er det foretatt
+nedskrivning.
+** Fordringer ** S
+Kundefordringer og andre fordringer er oppfart til palydende etter fradrag for konstaterte og forventede tap. 2
+ns
+** Skatter ** <8
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbar skatt og endring i utsatt skatt. Utsatt 3
+skatt er beregnet pa grunnlag av midlertidige forskjeller mellom regnskapsmessige og skattemessige verdier, 2
+samt eventuelt ligningsmessig underskudd til fremfgring ved utgangen av regnskapsaret. Utsatt skatt er avsatt =
+som langsiktig gjeld i balansen. 4
+** Driftsinntekter og kostnader ** :
+Inntektsfgring falger opptjeningsprinsippet, som normalt vil falge leveringstidspunktet for varer og tjenester. =
+Kostnader er tatt med etter sammenstillingsprinsippet, det vil si at kostnadene er tatt med i samme periode x
+som tilhgrende inntekter. =
+E
+a
+Det er ikke endret regnskapsprinsipp fra 2024 til 2025. 8
+9
+#1 Antall arsverk a
+Antall arsverk i regnskapsaret: 0
+Generert av Iripletex™" 28 05 2026 Side 6 av 8
+
+Streams Services AS Arsregnskap 2025
+org.nr.: 928032280
+#2 Egenkapital
+: - : Annen Opptjent
+Aksjekapital —innskuttEK _ egenkapital sum
+Egenkapital 31.12.2024 30 000 -5 570 406 109 430 539
+Arsresultat 0 -20 440 -20 440
+Tilleggsutbytte i lapet av aret, basert 0
+pa siste fastsatte regnskap
+Kapitalforhayelse 0
+Andre endringer 0
+Eaenkapital pr 31.12.2025 30 000 $570 385 669 410 098
+<
+#3 Konsern og tilknyttet selskap 5
+dy
+3
+Inngaende = Inntektsfort Andre Utgaende if
+ny
+Investering balanse resultat endringer balanse FS
+>
+Streams Development LLC 173 058 0 0 173 058 8
+><
+Ly
+>
+Sum merverdier og goodwill og avskrivninger =
+al
+Merverdier 0 S
+Avskrivning av merverdier 0 x
+~
+Goodwill 0 =
+Avskrivning av goodwill 0 3
+Sum anskaffelseskost pa anskaffelsestidspunktet 0 2
+Sum balansefert egenkapital pa anskaffelsestidspunktet 0 3
+=
+&
+Generert av Iripletex™" 28 05 2026 Side 7 av 8
+
+Streams Services AS Arsregnskap 2025
+org.nr.: 928032280
+#3 Konsern og tilknyttet selskap m.v. - fordringer og gjeld
+2025 2024
+Fordringer
+Samlet belgp som gjelder foretak i samme konsern 0 250 848
+Samlet belgp som gjelder tilknyttet selskap 0 0
+Samlet belgp som gjelder felles kontrollert virksomhet 0 0
+Annen langsiktig gjeld
+Samlet belap som gjelder foretak i samme konsern 5 758 831 32 240
+Samlet belgp som gjelder tilknyttet selskap 0 0
+Samlet belgp som gjelder felles kontrollert virksomhet 0 0
+Kortsiktig gjeld
+Samlet belap som gjelder foretak i samme konsern 8) 0 S
+Samlet belgp som gjelder tilknyttet selskap 0 0 2
+Samlet belgp som gjelder felles kontrollert virksomhet 0 0 :
+co
+Q
+Samlet forpliktelse til fordel for foretak isamme konsern S
+Pantstillelse 0 &§
+=
+Annen sikkerhetsstillelse 0 3
+Garantier 8) S
+Arten av virksomhet og hvor virksomheten drives =
+=
+=
+Selskapets virksomhet bestar av utvikling og fremstilling av informasjonsteknologi, herunder forvalte selskaper FS
+og virksomheter samt utgve konsulentvirksomhet. Virksomheten drives i Baerum. E
+9
+5
+Qa
+Generert av Iripletex™" 28 05 2026 Side 8 av 8
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Fredrik Sommerfelt Kvaal
+Styrets leder
+Serienummer: bankid.no no_bankid:9578-5999-4- 1677232 QES
+IP: 178.1 74.XXX.XXX
+2026-05-29 09:06:24 UTC
+==pankin &%
+S
+S
+ny
+3}
+"
+a
+S
+eo)
+9
+:
+¢
+S
+i
+=
+aa
+N
+>
+v
+X
+S)
+£
+=
+vu
+&
+3
+x
+S)
+Q
+Ss)
+v
+<=
+<
+wv
+Q
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.

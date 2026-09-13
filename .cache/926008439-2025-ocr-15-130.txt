@@ -1,0 +1,626 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 726962
+Virksomheten
+Organisasjonsnummer : 926 008 439
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SANDY SHORES AS
+Forretningsadresse: Ropernveien 1B
+1367 SNAR@YA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Uffe Eckardt Hansen
+Dato for fastsettelse av arsregnskapet: 20.05.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.08.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 926 008 439
+
+SANDY SHORES AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Varekostnad 0 8 551
+
+Lennskostnad 1 3 990 0
+
+Annen driftskostnad 205 452 156 503
+
+Sum kostnader 209 442 165 054
+
+Driftsresultat -209 442 -165 054
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 12 917 785 17 106 858
+
+Annen renteinntekt 79 757 75 451
+
+Annen finansinntekt 3 044 270 2 261 352
+
+Verdigkning av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 1 914 OO1 1 314 010
+
+Sum finansinntekter 17 955 813 20 757 671
+
+Nedskrivning av
+
+finansielle eiendeler 4 901 891 1 554 500
+
+Annen rentekostnad 2 060 333
+
+Annen finanskostnad 397 911 49 074
+
+Sum finanskostnader 5 301 862 1 603 908
+
+Netto finans 12 653 952 19 153 764
+
+Resultat fer skattekostnad 12 444 510 18 988 710
+
+Skattekostnad 2 688 198 571 839
+
+Arsresultat 11 756 312 18 416 871
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 10 000 000 0
+
+Tilleggsutbytte 22 156 310 2 000 000
+
+Annen egenkapital -20 399 998 16 416 871
+Utskriftsdato 15.08.2026 Organisasjonsnr 926 008 439 Side 1 av 3
+
+Organisasjonsnr: 926 008 439
+
+SANDY SHORES AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 2 0) 0)
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 0 222 656
+
+Investering i annet
+
+foretak i samme konsern 222 656 0)
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 3 0 2 058 000
+
+Investeringer 1 aksjer og
+
+andeler 4 0) 0)
+
+Andre langsiktige
+
+fordringer 5, 6 0 4 160 000
+
+Sum finansielle
+
+anleggsmidler 222 656 6 440 656
+
+Sum anleggsmidler 222 656 6 440 656
+
+Omlepsmidler
+
+Varer
+
+Varer 472 085 18 364 910
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 6 0 0
+
+Sum fordringer 0 0
+
+Investeringer
+
+Markedsbaserte aksjer 7 63 497 377 48 601 633
+
+Sum investeringer 63 497 377 48 601 633
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 443 032 2 615 795
+
+Sum bankinnskudd,
+
+kontanter og lignende 443 032 2 615 795
+
+Sum omlepsmidler 64 412 494 69 582 337
+
+SUM ELENDELER 64 635 150 76 022 993
+Utskriftsdato 15.08.2026 Organisasjonsnr 926 008 439 Side 2 av 3
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 8, 9 30 000 30 000
+
+Beholdning av egne aksjer 8, 9 0 0
+
+Overkurs 9 0) 0)
+
+Ikke registrert
+
+kapitalforhayelse 9 0 0
+
+Annen innskutt egenkapital 9 0 0
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Fond 9 0) 0)
+
+Annen egenkapital i) 53 781 855 74 181 853
+
+Udekket tap 9 0 0
+
+Sum opptjent egenkapital 53 781 855 74 181 853
+
+Sum egenkapital 53 811 855 74 211 853
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2 0) 0)
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 1 847 2 659
+
+Leverandergjeld 133 250 1 231 642
+
+Betalbar skatt 2 688 198 571 839
+
+Utbytte 10 000 000 0
+
+Annen kortsiktig gjeld 0 5 000
+
+Sum kortsiktig gjeld 10 823 295 1 811 140
+
+Sum gjeld 10 823 295 1 811 140
+
+SUM EGENKAPITAL OG GJELD 64 635 150 76 022 993
+Utskriftsdato 15.08.2026 Organisasjonsnr 926 008 439 Side 3 av 3
+
+Organisasjonsnr: 926 008 439
+
+SANDY SHORES AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Virksomhetens art og lokalisering
+
+Selskapet
+
+har forretningsadresse pa Snar@gya i Berum kommune. Selskapets virksomhet
+bestar i aA eie aksjer og andre eierinteresser, samt a delta i annen
+virksomhet gjennom aksjebesittelse, andeler og pa annen
+
+mate.
+
+Klassifisering og vurdering av balanseposter
+
+Eilendeler som er knyttet
+
+til varekretslepet er klassifisert som omle@psmidler. Fordringer
+klassifiseres som omle@psmidler hvis de forfaller til betaling innen ett ar
+etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig
+hvis gjelden forfaller til betaling innen ett 4ar.
+
+Omlepsmidler vurderes
+
+til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belgep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varebeholdninger
+
+Egentilvirkede ferdigvarer og varer
+
+under tilvirkning er vurdert til variabel tilvirkningskost. Det foretas
+nedskrivning for paregnelig ukurans.
+
+Forevrig er falgende
+
+regnskapsprinsipper anvendt:
+
+FIFO-metoden for tilordning av
+
+anskaffelseskost for ombyttbare finansielle eiendeler, laveste verdis
+prinsipp for markedsbaserte finansielle omlepsmidler. Fordringer og gjeld i
+utenlandsk valuta er verdsatt til kursen ved regnskapsarets slutt.
+Kursgevinster og kursstap 1 utenlandsk valuta fores som finansinntekt og
+finanskostnad. Kostmetoden er benyttet for investeringer i
+datterselskap/tilknyttet selskap. Utbytte er inntektsfert samme Ar som det
+er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at
+belg@pet vil mottas. Ved utbytte som overstiger andel av tilbakeholdt
+resultat etter kj@pet representerer den overskytende del tilbakebetaling av
+investert kapital, og er fratrukket investeringens verdi i balansen.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens
+
+betalbare skatt og endring i utsatt skatt. Utsatt skatt er beregnet med 22%
+pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt skattemessig underskudd til
+fremforing ved utgangen av regnskapsaret. Skatte@kende og skattereduserende
+midlertidige forskjeller som reverserer eller kan reversere i samme periode
+
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+Selskapet
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Note
+Antall Aarsverk i regnskapsaret
+0.00
+Note
+1
+Spesifisering av resultatregnskapet
+Lennkostnader
+Andre ytelser Arets Fjorarets
+3990.00 0.00
+Sum le@nnskostnader Arets Fjorarets
+3990.00 0.00
+Note
+3
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregns kap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belep - tilknyttet selskap Arets Fjorarets
+0.00 2058000.00
+Note
+5
+Fordringer
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+Mer om fordringer
+
+Utestaende fordringer er nedskrevet 100%
+
+Note
+
+6
+
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+Mer om lan og sikkerhetsstillelse
+
+Arsregnskap for
+926008439
+Regnskapsar
+01.01.2025 - 31.12.2025
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/f1 8d64 e6-Ob2d-4 eea-97 8b-3ed/faa /b6bad www. vismasign.com
+
+SANDY SHORES AS
+926 008 439
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Varekostnad ) -8 551
+Lgnnskostnad 1 -3 990 0
+Annen driftskostnad -205 452 -156 503
+Sum driftskostnader -209 442 -165 054
+Driftsresultat -209 442 -165 054
+Finansinntekter
+Inntekt pa investering i datterselskap og tilknyttet 12 917 785 17 106 858
+selskap
+Annen renteinntekt 19 757 75 451
+Annen finansinntekt 3 044 270 2 261 352
+Verdigkning av finansielle instrumenter vurdert til 1914 001 1314 010
+virkelig verdi
+Sum finansinntekter 17 955 813 20 757 671
+Finanskostnader
+Nedskrivning av finansielle eiendeler -4 901 891 -1 554 500
+Annen rentekostnad -2 060 -333
+Annen finanskostnad -397 911 -49 074
+Sum finanskostnader -5 301 862 -1 603 908
+Netto finans 12 653 952 19 153 764
+Resultat for skattekostnad 12 444 510 18 988 710
+Skattekostnad 2 -688 198 -571 839
+Arsresultat 11 756 312 18 416 871
+Overforinger
+Ordinzert utbytte 10 000 000 0
+Tilleggsutbytte 22 156 310 2 000 000
+Annen egenkapital -20 399 998 16 416 871
+Sum overferinger 11 756 312 18 416 871
+
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/f1 8d64 e6-Ob2d-4 eea-97 8b-3ed/faa /b6bad www. vismasign.com
+
+SANDY SHORES AS
+926 008 439
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investering i datterselskap 222 656 222 656
+Lan til tilknyttet selskap og felles kontrollert virksomhet 3 0 2 058 000
+Andre langsiktige fordringer 5,6 0 4 160 000
+Sum finansielle anleggsmidler 222 656 6 440 656
+Sum anleggsmidler 222 656 6 440 656
+Omlgpsmidler
+Varer
+Varer 472 085 18 364 910
+Sum varer 472 085 18 364 910
+Investeringer
+Markedsbaserte aksjer 7 63 497 377 48 601 633
+Sum investeringer 63 497 377 48 601 633
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 443 032 2615 795
+Sum bankinnskudd, kontanter og lignende 443 032 2 615 795
+Sum omlgpsmidler 64 412 494 69 582 337
+SUM EIENDELER 64 635 150 76 022 993
+
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/f1 8d64 e6-Ob2d-4 eea-97 8b-3ed/faa /b6bad www. vismasign.com
+
+SANDY SHORES AS
+926 008 439
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 8,9 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 9 53 781 855 74 181 853
+Sum opptjent egenkapital 53 781 855 74 181 853
+Sum egenkapital 53 811 855 74 211 853
+Gjeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner 1 847 2 659
+Leverandgrgjeld 133 250 1 231 642
+Betalbar skatt 2 688 198 571 839
+Utbytte 10 000 000 0
+Annen kortsiktig gjeld 0 5 000
+Sum kortsiktig gjeld 10 823 295 1811 140
+Sum gjeld 10 823 295 1811 140
+SUM EGENKAPITAL OG GJELD 64 635 150 76 022 993
+SNAR@YA, 20.05.2026
+Uffe Eckardt Hansen
+styrets leder / daglig leder
+
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/f1 8d64 e6-Ob2d-4 eea-97 8b-3ed/faa /b6bad www. vismasign.com
+
+SANDY SHORES AS
+926 008 439
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Virksomhetens art og lokalisering
+Selskapet har forretningsadresse pa Snargya i Beerum kommune. Selskapets virksomhet bestar i a eie aksjer
+og andre eierinteresser, samt a delta i annen virksomhet gjennom aksjebesittelse, andeler og pa annen mate.
+Klassifisering og vurdering av balanseposter
+Eiendeler som er knyttet til varekretslgpet er klassifisert som oml@psmidler. Fordringer klassifiseres som
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld
+som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belap pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Varebeholdninger
+Egentilvirkede ferdigvarer og varer under tilvirkning er vurdert til variabel tilvirkningskost. Det foretas
+nedskrivning for paregnelig ukurans.
+Forevrig er folgende regnskapsprinsipper anvendt:
+FIFOQ-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler, laveste verdis prinsipp for
+markedsbaserte finansielle oml@psmidler. Fordringer og gjeld i utenlandsk valuta er verdsatt til Kursen ved
+regnskapsarets slutt. Kursgevinster og kursstap i utenlandsk valuta fores som finansinntekt og finanskostnad.
+Kostmetoden er benyttet for investeringer i datterselskap/tilknyttet selskap. Utbytte er inntektsfgrt samme ar
+som det er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at belgpet vil mottas. Ved utbytte
+som overstiger andel av tilbakeholdt resultat etter kijapet representerer den overskytende del tilbakebetaling av
+investert kapital, og er fratrukket investeringens verdi i balansen.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfgring ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Antall arsverk
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/f1 8d64 e6-Ob2d-4 eea-97 8b-3ed/faa /b6bad www. vismasign.com
+
+SANDY SHORES AS
+926 008 439
+Note 1 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 0 0
+Arbeidsgiveravgift 0 0
+Pensjonskostnader 0 0
+Andre relaterte ytelser 3 990 0
+sum 3 990 0
+Note 2 - Spesifisering av skatt
+Skattekostnad 2025 2024
+Betalbar skatt pa alminnelig inntekt 688 198 571 839
+Skattekostnad 688 198 571 839
+Skattepliktig inntekt
+Resultat for skatt 12 444 510 18 988 710
+Permanente forskjeller -9 316 338 -16 389 443
+Skattepliktig inntekt 3 128 172 2 599 266
+Betalbar skatt i balansen
+Betalbar skatt pa arets resultat 688 198 571 839
+Betalbar skatt i balansen 688 198 571 839
+Note 3 - Konsern, tilknyttet selskap m.v.
+Fordringer
+2025 2024
+Samlet belap som gjelder tilknyttet selskap 0 2 058 000
+Note 4 - Konsern datterselskap og tilknyttet selskap
+Navn og forretningsadresse Eierandel Stemmeandel Egenkapital Resultat siste
+% % siste arsregnskap
+arsregnskap
+Trikap AS, DK Hellerup 33 33 93 140 963 34 027 042
+Konsernregnskapet inngar ikke i konsolideringen til morselskap.
+Note 5 - Fordringer
+Mer om fordringer
+Utestaende fordringer er nedskrevet 100%
+Note 6 - Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+Note 7 - Aksjer og fonds
+Aksjer og fonds 2025 2024
+Markedsbaserte aksjer og fonds 63 203 670 48 601 633
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/f1 8d64 e6-Ob2d-4 eea-97 8b-3ed/faa /b6bad www. vismasign.com
+
+SANDY SHORES AS
+926 008 439
+Note 8 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfort verdi
+Ordineere 300 100 30 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+Uffe Eckardt Hansen 300 100,00 Ordineere
+Note 9 - Egenkapital
+Opptjent
+Aksjekapital egenkapital sum
+Egenkapital 31.12.2024 30 000 74 181 853 74 211 853
+Arsresultat 0 11 756 312 11 756 312
+Avsatt utbytte 0 -10 000 000 -10 000 000
+Tilleggsutbytte i lspet av aret, 0 -22 156 310 -22 156 310
+basert pa siste fastsatte regnskap
+Egenkapital 31.12.2025 30 000 53 781 855 53 811 855
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net/nb/dacument-check/f1 8d64 e6-Ob2d-4 eea-97 8b-3ed/faa /b6bad www. vismasign.com
+
+SIGNATURES ALLEKIRJOITUKSET UNDERSKRIFTER SIGNATURER UNDERSKRIFTER
+This document contains 7 pages before this page Tama asiakirja sisaltaa 7 sivua ennen tata sivua Detta dokument innehaller 7 sidor fore denna sida
+Dokumentet inneholder 7 sider far denne siden Dette dokument indeholder 7 sider far denne side
+
+Uffe Eckhardt Hansen
+
+33bc5e68-a8be-48ee-b9c4-04d44a60a9 1a - 2026-07-10 16:26:41 UTC +03:00
+
+BankID - d354b622-f06e-442d-b0ce-a62b84dd3153 - NO
+authority to sign asemavaltuutus stallningsfullmakt autoritet til a signere myndighed til at underskrive
+representative nimenkirjoituscikeus firmateckningsratt representant repraesentant
+custodial huoltaja/edunvalvaja férvaltare foresatte/verge frinedsberovende
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/dacument-check/f1 8d64 e6-Ob2d-4 eea-978b-3ed/faa /b6bad www. vismasign.com

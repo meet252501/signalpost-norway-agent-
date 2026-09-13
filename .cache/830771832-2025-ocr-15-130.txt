@@ -1,0 +1,598 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 633755
+Virksomheten
+Organisasjonsnummer : 830 771 832
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NT&D INSTALLASJON AS
+Forretningsadresse: Resslyngvegen 3A
+2150 ARNES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Terje Westby Sommerstedt
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 04.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 830 771 832
+
+NT&D INSTALLASJON AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1195 278 1 105 733
+
+Annen driftsinntekt 0 95
+
+Sum inntekter 1 195 278 1 105 828
+
+Kostnader
+
+Varekostnad 50 814 26 794
+
+Lennskostnad 1, 2 840 182 1 038 596
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 16 806 26 224
+
+Annen driftskostnad 427 022 610 213
+
+Sum kostnader 1 334 824 1 701 828
+
+Driftsresultat -139 546 -596 001
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 724 0
+
+Sum finansinntekter 724 e)
+
+Annen rentekostnad 547 1 445
+
+Annen finanskostnad 0 49
+
+Sum finanskostnader 547 1 494
+
+Netto finans 177 -1 494
+
+Resultat fer skattekostnad -139 369 -597 495
+
+Skattekostnad 145 273 -145 273
+
+Arsresultat -284 642 -452 222
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -284 642 -428 746
+
+Annen egenkapital 0 -23 475
+Utskriftsdato 04.07.2026 Organisasjonsnr 830 771 832 Side 1 av 3
+
+Organisasjonsnr: 830 771 832
+NT&D INSTALLASJON AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 0) 145 273
+Sum immaterielle eiendeler 0 145 273
+Varige driftsmidler
+Maskiner og anlegg 3 5 497 11 494
+Driftslesere, inventar,
+verkt@y, kontormaskiner,
+ol. 3 21 618 32 428
+Sum varige driftsmidler 27 116 43 922
+Finansielle anleggsmidler
+Andre langsiktige
+fordringer 4 22 384 3 000
+Sum finansielle
+anleggsmidler 22 384 3 000
+Sum anleggsmidler 49 499 192 195
+Omlepsmidler
+Varer
+Varer 25 367 25 367
+Fordringer
+Kundefordringer 121 686 158 100
+Andre kortsiktige
+fordringer 29 524 29 524
+Sum fordringer 151 209 187 624
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 4 514 21 334
+Sum bankinnskudd,
+kontanter og lignende 4 514 21 334
+Sum omlepsmidler 181 090 234 325
+SUM ELENDELER 230 590 426 519
+BALANSE - EGENKAPITAL OG
+GJELD
+
+Utskriftsdato 04.07.2026 Organisasjonsnr 830 771 832 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 6 30 000 30 000
+
+Annen innskutt egenkapital 6 -5 570 -5 570
+
+Sum innskutt egenkapital 24 430 24 430
+
+Opptjent egenkapital
+
+Annen egenkapital 6 0 0
+
+Udekket tap 6 713 388 428 746
+
+Sum opptjent egenkapital -713 388 -428 746
+
+Sum egenkapital -688 958 -404 316
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 47 283 130 112
+
+Skyldige offentlige
+
+avgifter 332 974 201 279
+
+Kortsiktig konserngjeld 7 520 292 464 892
+
+Annen kortsiktig gjeld 18 999 34 553
+
+Sum kortsiktig gjeld 919 548 830 835
+
+Sum gjeld 919 548 830 835
+
+SUM EGENKAPITAL OG GJELD 230 590 426 519
+Utskriftsdato 04.07.2026 Organisasjonsnr 830 771 832 Side 3 av 3
+
+Organisasjonsnr: 830 771 832
+
+NT&D INSTALLASJON AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+er eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett 4r.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varebeholdninger
+
+Lager av innkj@pte varer er verdsatt
+
+til laveste verdi av anskaffelseskost etter FIFO- prinsippet og virkelig
+verdi. Det foretas nedskrivning for paregnelig ukurans.
+
+Varige
+
+driftsmidler
+
+Varige driftsmidler balansefores og avskrives over
+
+driftsmidlenes levetid dersom de har antatt levetid over 3 ar og har en
+kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidler
+kostnadsferes lapende under driftskostnader, mens pakostninger eller
+forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+Leieavtaler er ikke balansefort.
+
+Skatt
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbare skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet med 22% pa grunnlag av de
+midlertidige forskjeller som eksisterer mellom regnskapsmessige og
+skattemessige verdier, samt skattemessig underskudd til fremfering ved
+utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige
+forskjeller som reverserer eller kan reversere i samme periode er fastsatt
+og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke
+
+endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+Er det usikkerhet om fortsatt drift?: Ja
+Ledelsen har iverksatt en rekke tiltak med mal om a bedre selskapets
+@konomiske situasjon. Selskapet har gjennomfert en omorganisering av
+virksomheten, hvor daglig leder na er personlig og direkte involvert i den
+daglige driften. Kostnadsreduserende tiltak er gjennomfert, og selskapet
+har for 2026 @kt inntjeningen sammenlignet med foregaende perioder.
+Driftsresultatet for 2025 viser en vesentlig bedring sammenlignet med 2024,
+og arsunderskuddet er betydelig redusert.
+Selskapets egenkapital er per
+31.12.2025 negativ. Styret er kjent med dette forholdet og har vurdert
+egenkapitalsituasjonen serskilt. Det er ledelsens vurdering at de
+iverksatte tiltakene, herunder omorganiseringen og den forbedrede
+inntjeningen i 2026, vil bidra positivt til selskapets likviditet og
+resultat fremover.
+Det er tilfert kapital tidligere, og det foreligger
+vilje og evne til a tilf@re ny kapital ved behov for a sikre fortsatt
+drift.
+Pa dette grunnlaget mener ledelsen at det er realistisk a legge
+forutsetningen om fortsatt drift til grunn ved avleggelse av arsregnskapet.
+Note
+1
+Antall Aarsverk i regnskapsaret
+1.50
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+727629.00 896295.00
+Folketrygdavgift Arets Fjorarets
+102699.00 127410.00
+Andre ytelser Arets Fjorarets
+9855.00 14891.00
+Sum lgnnskostnader Arets Fjorarets
+840182.00 1038596.00
+Note
+3
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+
+85128.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+85128.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+58013 .00 0.00
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+27116.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+16806.00 0.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjeop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Note
+«
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregnskap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belap - foretak i samme konsern Arets Fjorarets
+520292.00 464892 .00
+Annen langsiktig gjeld
+Samlet belep - tilknyttet selskap Arets Fjorarets
+0.00 464892 .00
+Note
+4
+Fordringer
+
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+22384.00
+Mer om fordringer
+
+Arsregnskap for
+NT&D INSTALLASJON AS
+830771832
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+NT&D INSTALLASJON AS
+830 771 832
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1195 278 1 105 733
+Annen driftsinntekt 0 95
+Sum driftsinntekter 1 195 278 1105 828
+Driftskostnader
+Varekostnad -50 814 -26 794
+Lg@nnskostnad 1,2 -840 182 -1 038 596
+Avskrivning pa varige driftsmidler og immaterielle 3 -16 806 -26 224
+eiendeler
+Annen driftskostnad -427 022 -610 213
+Sum driftskostnader -1 334 824 -1 701 828
+Driftsresultat -139 546 -596 001
+Finansinntekter
+Annen renteinntekt 724 0
+Sum finansinntekter 724 0
+Finanskostnader
+Annen rentekostnad -547 -1 445
+Annen finanskostnad 0 -49
+Sum finanskostnader -547 -1 494
+Netto finans 177 -1 494
+Resultat for skattekostnad -139 369 -597 495
+Skattekostnad -145 273 145 273
+Arsresultat -284 642 -452 222
+Overforinger
+Annen egenkapital 0 -23 475
+Udekket tap -284 642 -428 746
+Sum overferinger -284 642 -452 222
+
+NT&D INSTALLASJON AS
+830 771 832
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 0 145 273
+Sum immaterielle eiendeler 0 145 273
+Varige driftsmidler
+Maskiner og anlegg 3 5 497 11 494
+Driftsigsore, inventar, verktgy, kontormaskiner, ol. 3 21618 32 428
+Sum varige driftsmidler 27 116 43 922
+Finansielle anleggsmidler
+Andre langsiktige fordringer 4 22 384 3 000
+Sum finansielle anleggsmidler 22 384 3 000
+Sum anleggsmidler 49 499 192 195
+Omlgpsmidler
+Varer
+Varer 25 367 25 367
+Sum varer 25 367 25 367
+Fordringer
+Kundefordringer 121 686 158 100
+Andre kortsiktige fordringer 29 524 29 524
+Sum fordringer 151 209 187 624
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 4514 21 334
+Sum bankinnskudd, kontanter og lignende 4514 21 334
+Sum omlgpsmidler 181 090 234 325
+SUM EIENDELER 230 590 426 519
+
+NT&D INSTALLASJON AS
+830 771 832
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5,6 30 000 30 000
+Annen innskutt egenkapital 6 -5 570 -5 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+Udekket tap 6 -713 388 -428 746
+Sum opptjent egenkapital -713 388 -428 746
+Sum egenkapital -688 958 -404 316
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 47 283 130 112
+Skyldige offentlige avgifter 332 974 201 279
+Kortsiktig konserngjeld rf 520 292 464 892
+Annen kortsiktig gjeld 18 999 34 553
+Sum kortsiktig gjeld 919 548 830 835
+Sum gjeld 919 548 830 835
+SUM EGENKAPITAL OG GJELD 230 590 426 519
+ARNES, 30.06.2026
+Terje Westby Sommerstedt
+styrets leder / daglig leder
+
+NT&D INSTALLASJON AS
+
+830 771 832
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapets virksomhet er installasjon og service av bredband, fiber, sikkerhetssystemer, mgteromsligsninger og
+kameraovervaknin.
+
+Virksomheten har forretningsadresse i Nes kommune.
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Varebeholdninger
+
+Lager av innkjg@pte varer er verdsatt til laveste verdi av anskaffelseskost etter FIFO- prinsippet og virkelig verdi.
+Det foretas nedskrivning for paregnelig ukurans.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfgres Ig@pende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefart.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfgring ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+NT&D INSTALLASJON AS
+830 771 832
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 1,5
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 727 629 896 295
+Arbeidsgiveravgift 102 699 127 410
+Pensjonskostnader 0 0
+Andre relaterte ytelser 9 855 14 891
+Sum 840 182 1 038 596
+Note 3 - Varige driftsmidler og immaterielle eiendeler
+Varige
+driftsmidler
+Anskaffelseskost 01.01. 85 128
+Tilgang i aret 0
+Avgang i aret 0
+Anskaffelseskost 31.12. 85 128
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -58 013
+Balansefort verdi per 31.12. 27 116
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 16 806
+Note 4 - Fordringer
+Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt 22 384
+Note 5 - Aksjekapital
+Aksjenes
+Aksjeklasse 000 Ctl aksjer _palydende__ Bokfort verdi
+Ordinzere 30 000 1 30 000
+Aksjonezrer Antall aksjer Eierandel % Aksjeklasse
+Elphi Capital AS 30 000 100,00 Ordineere
+Note 6 - Egenkapital
+Aksjekapital Annen innsk. EK Udekket tap sum
+Egenkapital 31.12.2024 30 000 -5 570 -428 746 -404 316
+Arsresultat 0 0 -284 642 -284 642
+Egenkapital 31.12.2025 30 000 -5 570 -713 388 -688 958
+Note 7 - Konsern, tilknyttet selskap m.v.
+Fordringer
+2025 2024
+Samlet belap som gjelder foretak i samme konsern 520 292 464 892
+
+NT&D INSTALLASJON AS
+830 771 832
+Annen langsiktig gjeld
+
+2025 2024
+
+Samlet belgp som gjelder tilknyttet selskap 0 464 892
+Usikkerhet om fortsatt drift
+
+Det er knyttet usikkerhet til fortsatt drift.
+
+Ledelsen har iverksatt en rekke tiltak med mal om a bedre selskapets skonomiske situasjon. Selskapet har
+gjennomfgrt en omorganisering av virksomheten, hvor daglig leder na er personlig og direkte involvert i den
+daglige driften. Kostnadsreduserende tiltak er gjennomfart, og selskapet har for 2026 okt inntjeningen
+sammenlignet med foregaende perioder. Driftsresultatet for 2025 viser en vesentlig bedring sammenlignet med
+2024, og arsunderskuddet er betydelig redusert.
+Selskapets egenkapital er per 31.12.2025 negativ. Styret er kjent med dette forholdet og har vurdert
+egenkapitalsituasjonen szerskilt. Det er ledelsens vurdering at de iverksatte tiltakene, herunder
+omorganiseringen og den forbedrede inntjeningen i 2026, vil bidra positivt til selskapets likviditet og resultat
+fremover.
+
+Det er tilfgrt kapital tidligere, og det foreligger vilje og evne til a tilf@re ny kapital ved behov for a sikre fortsatt
+drift.
+
+Pa dette grunniaget mener ledelsen at det er realistisk a legge forutsetningen om fortsatt drift til grunn ved
+avieggelse av arsregnskapet.

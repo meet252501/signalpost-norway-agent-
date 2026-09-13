@@ -1,0 +1,648 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 689305
+Virksomheten
+Organisasjonsnummer : 925 283 339
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: BYHOLT INVEST AS
+Forretningsadresse: Hauganveien 9C
+3138 SKALLESTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Wenche Hauschild Byholt
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 05.08.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 925 283 339
+
+BYHOLT INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 2 369 937 376 060
+
+Sum kostnader 369 937 376 060
+
+Driftsresultat -369 937 -376 060
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+tilknyttet selskap 150 000
+
+Annen renteinntekt 6 598 125 291
+
+Annen finansinntekt 1 830 660 381 022
+
+Verdigkning
+
+markedsbaserte omlepsmidler 133 371 2 270 757
+
+Sum finansinntekter 2 120 630 2 777 O70
+
+Annen finanskostnad 124 391 16 687
+
+Sum finanskostnader 124 391 16 687
+
+Netto finans 1 996 239 2 760 383
+
+Resultat fer skattekostnad 1 626 302 2 384 324
+
+Skattekostnad pa resultat 3
+
+Arsresultat 4 1 626 302 2 384 324
+
+Arsresultat etter
+
+minoritetsinteresser 1 626 302 2 384 323
+
+Totalresultat 1 626 302 2 384 323
+
+Overferinger og
+
+disponeringer
+
+Tilleggsutbytte 150 000
+
+Avsatt til annen
+
+egenkapital 1 476 302 2 384 324
+
+Sum overferinger og
+
+disponeringer 1 626 302 2 384 324
+Utskriftsdato 05.08.2026 Organisasjonsnr 925 283 339 Side 1 av 3
+
+Organisasjonsnr: 925 283 339
+
+BYHOLT INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Finansielle anleggsmidler
+
+Investering i annet
+
+foretak i samme konsern 5
+
+Investeringer 1
+
+tilknyttet selskap 5 41 802 442 41 802 442
+
+Sum finansielle
+
+anleggsmidler 41 802 442 41 802 442
+
+Sum anleggsmidler 41 802 442 41 802 442
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 6 250 000 250 000
+
+Sum fordringer 250 000 250 000
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 5
+
+Markedsbaserte aksjer 26 992 827 25 545 281
+
+Sum investeringer 26 992 827 25 545 281
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter 104 677 64 324
+
+Sum bankinnskudd,
+
+kontanter og lignende 104 677 64 324
+
+Sum omlepsmidler 27 347 504 25 859 605
+
+SUM ELENDELER 69 149 946 67 662 047
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 7 6 325 200 6 325 200
+
+Beholdning av egne aksjer 7
+
+Overkurs 12 114 302 12 114 302
+
+Sum innskutt egenkapital 18 439 502 18 439 502
+Utskriftsdato 05.08.2026 Organisasjonsnr 925 283 339 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 26 419 171 24 942 870
+
+Sum opptjent egenkapital 26 419 171 24 942 870
+
+Sum egenkapital 4 44 858 673 43 382 372
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 6 24 279 573 24 279 573
+
+Sum annen langsiktig gjeld 24 279 573 24 279 573
+
+Sum langsiktig gjeld 24 279 573 24 279 573
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 11 701 103
+
+Betalbar skatt 3
+
+Sum kortsiktig gjeld 11 701 103
+
+Sum gjeld 24 291 273 24 279 676
+
+SUM EGENKAPITAL OG GJELD 69 149 947 67 662 047
+Utskriftsdato 05.08.2026 Organisasjonsnr 925 283 339 Side 3 av 3
+
+Organisasjonsnr: 925 283 339
+
+BYHOLT INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+BankID Qualified Signature
+Byholt, Pal Henning
+2026-06-22
+
+BankID Qualified Signature
+Byholt, Biam Thomas
+2026-06-25
+
+BankID Qualified Signature
+Byholt, Wenche Hauschiki
+2026-06-26
+
+Resultatregnskap
+Byholt Invest AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftskostnad 2 369 937 376 060
+Sum driftskostnader 369 937 376 060
+Driftsresultat -369 937 -376 060
+Finansinntekter og finanskostnader
+
+Inntekt pa investering i tilknyttet selskap 150 000 0
+Annen renteinntekt 6 598 125 291
+Annen finansinntekt 1 830 660 381 022
+Verdiokning markedsbaserte omlepsmidler 133 371 2 270 757
+Annen finanskostnad 124 391 16 687
+Resultat av finansposter 1 996 239 2 760 383
+Ordinert resultat for skattekostnad 1 626 302 2 384 324
+Skattekostnad pa resultat 3 0 0
+Arsresultat 4 1 626 302 2 384 324
+Overferinger
+
+Tilleggsutbytte 150 000 0
+Avsatt til annen egenkapital 1 476 302 2 384 324
+Sum overforinger 1 626 302 2 384 324
+
+Eiendeler Note 2025 2024
+Anleggsmidler
+
+Finansielle anleggsmidler
+
+Investeringer 1 tilknyttet selskap 5 41 802 442 41 802 442
+Sum anleggsmidler 41 802 442 41 802 442
+Omlepsmidler
+
+Fordringer
+
+Andre kortsiktige fordringer 6 250 000 250 000
+Investeringer
+
+Markedsbaserte aksjer 26 992 827 25 545 281
+Bankinnskudd, kontanter og lignende
+
+Bankinnskudd, kontanter 104 677 64 324
+Sum omlgpsmidler 27 347 504 25 859 605
+Sum eiendeler 69 149 946 67 662 047
+
+Balanse
+Byholt Invest AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 7 6 325 200 6 325 200
+Overkurs 12 114 302 12 114 302
+Sum innskutt egenkapital 18 439 502 18 439 502
+Opptjent egenkapital
+Annen egenkapital 26 419 171 24 942 870
+Sum egenkapital 4 44 858 673 43 382 372
+Gjeld
+Annen langsiktig gjeld
+Ovrig langsiktig gjeld 6 24 279 573 24 279 573
+Kortsiktig gjeld
+Leverandorgjeld 11 701 103
+Sum kortsiktig gjeld 11 701 103
+Sum gjeld 24 291 273 24 279 676
+Sum egenkapital og gjeld 69 149 947 67 662 047
+Skallestad, 22.06.2026
+Wenche Hauschild Byholt Bjorn Thomas Byholt Pal Henning Byholt
+styreleder styremedlem styremedlem
+
+Noter 2025
+
+Byholt Invest AS
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Omlspsmidler/Kortsiktig gjeld
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslopet. Omlepsmidler vurderes til laveste
+verdi av anskaffelseskost og virkelig verdi.
+Aksjer i datterselskap/tilknyttet selskap
+Investeringer 1 tilknyttet selskap er vurdert etter kostmetoden. Langsiktige aksjeplasseringer
+vurderes til laveste av kostpris og virkelig verdi. Det er foretatt nedskriving til virkelig verdi nar
+verdifallet skyldes arsaker som ikke kan antas a vere forbigaende og det ma anses nedvendig etter
+god regnskapsskikk.
+Skatt
+Skattekostnaden 1 resultatregnskapet omfatter bade periodens betalbare skatt og endring 1 utsatt
+skatt. Utsatt skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt skattemessig underskudd til fremforing
+ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres 1 samme periode er utlignet og nettofort. Utsatt skattefordel
+balansefgres ikke.
+Note 1 Virksomhetens art og lokalisering
+Byholt Invest AS er et selskap der virksomheten omfatter investeringer 1 aksjer og andre
+verdipapirer. Selskapet er lokalisert 1 Faerder kommune.
+Note 2 Lonnskostnader og ytelser, godtgjerelser til daglig leder, styret og revisor
+Byholt Invest AS har ikke hatt lonns- eller personalkostnader 1 2025 og det foreligger heller ingen
+slike forpliktelser.
+
+Noter 2025
+Byholt Invest AS
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring 1 utsatt skattefordel 0 0
+Skattekostnad ordinzrt resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt 1 626 302 2 384 324
+Permanente forskjeller -1 942 843 -2 640 559
+Skattepliktig inntekt -316 541 -256 235
+Betalbar skatt 1 balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfering som har gitt opphav til utsatt
+skatt og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+
+Akkumulert fremforbart underskudd -1 633 474 -1 316 933 316 541
+Inngar ikke i beregningen av utsatt skatt 1 633 474 1 316 933 -316 541
+Utsatt skattefordel (22 %) -359 364 -289 725 69 639
+I henhold til God regnskapsskikk for sma foretak balansefores ikke utsatt skattefordel.
+Note 4 Egenkapital
+
+Aksjekapital Overkurs Annen Sum egenkapital
+
+egenkapital
+
+Pr. 31.12.2024 6325200 12114302 24942870 43 382 372
+Arets resultat 1 626 302 1 626 302
+Utbytte -150 000 -150 000
+Pr 31.12.2025 6325200 12114302 26419171 44 858 673
+
+Noter 2025
+Byholt Invest AS
+Note 5 Datterselskap, TS og FKV
+Kontor- Eier- Stemme- Andel Andel
+kommune andel andel egenkapital resultat
+DS/FKV/TS
+Eiendom Oslo Vest AS OSLO 50,0% 50,0% 17195 502 1 852 079
+Sum 17 195 502 1 852 079
+Note 6 Mellomvzerende med selskap i samme konsern og tilknyttet selskap
+Eiendom Oslo
+Vest AS
+Fordringer
+Andre fordringer 250 000
+Sum 250 000
+Gjeld
+Lan til foretak 1 samme konsern 24 279 573
+Sum 24 279 573
+Note 7 Aksjonzrer
+Aksjekapitalen i Byholt Invest AS pr. 31.12 bestar av:
+Antall Palydende Bokfert
+Ordinzere aksjer 630 10 040 6 325 200
+Sum 630 6 325 200
+Eierstruktur
+Aksjonerer 1 % pr. 31.12:
+Ordinzre Eierandel
+Bjorn Thomas Byholt 308 49
+Pal Henning Byholt 308 49
+Wenche Hauschild Byholt 14 2
+Totalt antall aksjer 630 100
+Aksjer eiet av medlemmer i styret og daglig leder:
+Navn Verv Ordinzre
+Wenche Hauschild Byholt styreleder 14
+Bjorn Thomas Byholt styremedlem 308
+Pal Henning Byholt styremedlem 308
+Totalt antall aksjer 630
+
+®
+2
+wo
+“ G G
+x
+a o @
+= —
+— wo Ww
+= aa
+2 3 3
+o E €
+Ao] S o 69
+a cc
+2 2 abe
+2 2 5 5
+S£ooaooa => oO o @ _-_ —
+a s 9 =< S ©
+6 £EE 2 é G G 6 6
+2336 o + EE o 6
+t >> & “ 6 > > ==
+665 5 a % o 8 G G
+ch & tf > ¢ coc an’
+ecogoovoorxyy, 2 <= & o @
+© FPPBRPeeE “ a2 38 & &
+ee EEE S 5 8 DD e¢
+9 6 6 6 O9 De o @ & &
+» fYfuuboudode:A > >
+ao] o.rvl nN Nh wD oO oo oo
+® noomon Nn S co nD
+S 920 MN MA DAN o 9 — a)
+x o.rvvr ere OOR c N WN
+i
+£
+e 2
+2 a.
+5 sg
+o . c
+ao 5 > a ao o
+£Ezvuae [= £ 2 D
+Sse £5 s = = © =
+© G6 2x G co OD 2 9
+ee2ne 2 2c & BE
+SStGEPS SF SF £ &
+a" fn & 5B 8. 8 nw 5S =
+ooO2oFDo y ® o 8 a =
+> 3 @2s 2:3 > oe OD
+EES SESE ES Bs
+6 6 fF @ G6 ® 6 Go @ = >
+- bhuaereue O Ww uw > FE < 2
+3 - N©OnMn DD) DO = i © mn 2 Pe
+on on A Nm mM oO 4 XN ©G a
+& nnn - ODD oOo a ®
+Oo - —~- - CO T- HO - co oo =
+6
+£
+a
+e S8sSER8R EF AR af .
+o tO MO OOD we ou oe:
+Pra) 2 r+ Roa F D co oo
+no oD mM © © o + om
+«oo CY +t Oo © © ~ o ©
++N 4M CG N ns
+N —- OO fF - - wt
+- -
+» B s
+| a
+c a 2 ©
+ro) a 4 =
+~ x 2
+” D a = @
+w “” & £ i = c
+e 3 £ 8, $8 :
+c ao G oo § - oOo ®oe
+Y oO ra QD oF & Ss
+> 4 to) —_ yy + = 9 2 =
+c = Oo co x = ot + +
+& = & oe = 0 = & at
+5 3A - 53828 8 ESE a
+“x <6 2 ec FE @et G2_E 8 3 5
+fo S @ o6oc @ YE OD GF GO OB = 2
+fe) Ee YurrFoOHn e 2a ine)
+x
+w =
+oD fo.) S
+c E 5 3 . 5 FE
+hen c o Da o o QO.
+zo e) es 2 o 5 rd
+t=) 5 eo Fe hh nh Hn mo Zw wo £2 bw w <<
+Mec 2 ea®<ninnnnnan gZQaana = Sn a
+-_ L o 0o©2Pocsecaagcaegcg fo 6 62920 9 i)
+wo o o DENN NN NN AN NN Sc aN N 7
+~~ + 3 ol PFSONNNNNN WN SANA SaN A ®
+oae¢e8s SPE - ee eke et eke ee Ne Zoe =
+Qwru Ore rFmNmMNnnnnnnre mM ~™ oaqnm ~o
+
+N
+@
+2
+wv
+=
+Ss
+2
+x
+wn
+o t
+P 2
+o o
+o =
+6
+£
+a
+[=5
+3
+o
+a
+“i
+Ww
+fo)
+Cs
+fr
+Ww
+x
+S
+=
+w
+=
+>
+G
+c
+c
+2
+fo)
+x
+G
+2
+Era]
+for
+3S
+‘Ss
+S :
+— :
+oO :
+ra :
+® :
+no .
+c :
+— :
+wo :
+2 :
+Ww :
+Oo :
+a :
+wD :
+_ :
+- ® :
+“wi c :
+a Cc :
+o o :
+E 5 :
+_ :
+@ :
+3 5
+fa o
+2 5
+- : ra
+£ <
+@ : £
+x : @
+o ® o : 6
+s 2 @ =
+[= > 1) :
+
+Uttalelse fra selskapet innhentes som et ledd i var revisjon av drsavslutningen. Malsetningen er at denne skal bidra til a
+sikre at alle relevante opplysninger er medtatt i drsregnskapet . Erkleringen bes underskrevet av selskapets daglige
+leder og regnskapsansvarlig.
+
+SLM Revisjon AS
+
+Postboks 273
+
+2000 LILLESTROM
+
+Uttalelse fra ledelsen
+
+Dette brevet sendes 1 forbindelse med deres revisjon av arsregnskapet for Byholt Invest AS for aret
+som ble avsluttet den 31. desember 2025 med det formal a kunne konkludere om hvorvidt
+arsregnskapet 1 det alt vesentlige gir et rettvisende bilde 1 samsvar med det/de rammeverk for
+finansiell rapportering som angis 1 arsregnskapet.
+
+Vi bekrefter etter beste evne og overbevisning at:
+
+Regnskap og bokforing
+
+e Vi har oppfylt vart ansvar for a pase at selskapets regnskap og formuesforvaltning er
+gjenstand for betryggende kontroll, herunder slik intern kontroll som vi finner nedvendig for
+a muliggjgre utarbeidelsen av et regnskap som ikke inneholder vesentlig feilinformasjon,
+verken som fglge av misligheter eller feil. Vi har videre oppfylt vart ansvar for utarbeidelsen
+av arsregnskapet, som fastsatt 1 vilkarene for revisjonsoppdraget, og mener at arsregnskapet
+gir et rettvisende bilde i samsvar med det/de rammeverk for finansiell rapportering som
+angis 1 arsregnsKapet.
+
+e Viktige forutsetninger som er brukt av oss ved utarbeidelsen av regnskapsestimater,
+herunder regnskapsestimater malt til virkelig verdi, er rimelige.
+
+e Det er tatt tilstrekkelig hensyn til og opplyst om forhold til nzrstaende parter og
+transaksjoner med disse 1 overensstemmelse med kravene 1 det/de rammeverk for finansiell
+rapportering som angis 1 arsregnskapet.
+
+e Alle hendelser etter datoen for arsregnskapet og forhold som medferer korrigering eller
+omtale, er korrigert eller omtalt.
+
+e Vi har oppfylt vart ansvar for 4 serge for ordentlig og oversiktlig registrering og
+dokumentasjon av _ selskapets regnskapsopplysninger 1 samsvar med lov og god
+bokferingsskikk 1 Norge, og har gitt revisor all relevant informasjon i denne sammenhengen.
+
+e Vi mener virkningen av ikke-korrigert feilinformasjon er uvesentlig, bade enkeltvis og
+samlet for arsregnskapet sett som helhet.
+
+Ligningspapirer
+
+e Vi har oppfylt/vil oppfylle vart ansvar for 4 kontrollere at opplysningene som er gitt 1
+
+ligningspapirene med vedlegg, er korrekte og fullstendige.

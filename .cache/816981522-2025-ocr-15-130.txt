@@ -1,0 +1,332 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 450066
+Virksomheten
+Organisasjonsnummer : 816 981 522
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: BERATO INVEST AS
+Forretningsadresse: leilighet 401
+Skaarlia 142
+4326 SANDNES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Randi Bugge
+Dato for fastsettelse av Aarsregnskapet: 15.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 19.05.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 816 981 522
+
+BERATO INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 2, 3 10 000 10 000
+
+Annen driftskostnad 33 255 17 247
+
+Sum kostnader 43 255 27 247
+
+Driftsresultat -43 255 -27 247
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 37 546 32 379
+
+Annen finansinntekt 404 872 0
+
+Verdigkning av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 297 401 1 292 933
+
+Sum finansinntekter 739 819 1 325 312
+
+Annen finanskostnad 11 546 11 166
+
+Sum finanskostnader 11 546 11 166
+
+Netto finans 728 273 1 314 146
+
+Resultat fer skattekostnad 685 018 1 286 899
+
+Arsresultat 685 018 1 286 899
+
+Arsresultat etter
+
+minoritetsinteresser 685 018 1 286 899
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 685 018 1 286 899
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 685 018 1 286 899
+
+Sum overferinger og
+
+disponeringer 685 018 1 286 899
+Utskriftsdato 19.05.2026 Organisasjonsnr 816 981 522 Side 1 av 3
+
+Organisasjonsnr: 816 981 522
+
+BERATO INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 1 894 1 894
+
+Sum immaterielle eiendeler 1 894 1 894
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer 1 aksjer og
+
+andeler 0) 5 271 528
+
+Sum finansielle
+
+anleggsmidler 0 5 271 528
+
+Sum anleggsmidler 1 894 5 273 422
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Markedsbaserte aksjer 5 138 632 0
+
+Sum investeringer 5 138 632 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 1 704 478 886 564
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 704 478 886 564
+
+Sum omlepsmidler 6 843 110 886 564
+
+SUM ELENDELER 6 845 004 6 159 986
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 2 498 950 2 498 950
+
+Overkurs 155 519 155 519
+
+Sum innskutt egenkapital 2 654 469 2 654 469
+Utskriftsdato 19.05.2026 Organisasjonsnr 816 981 522 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 4 190 535 3 505 517
+
+Sum opptjent egenkapital 4 190 535 3 505 517
+
+Sum egenkapital 6 845 004 6 159 986
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Sum kortsiktig gjeld 0 0
+
+Sum gjeld 0 0
+
+SUM EGENKAPITAL OG GJELD 6 845 004 6 159 986
+Utskriftsdato 19.05.2026 Organisasjonsnr 816 981 522 Side 3 av 3
+
+Organisasjonsnr: 816 981 522
+
+BERATO INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Sandnes
+
+Virksomhetens art
+
+A foreta investeringer i finansaktiva og
+
+fast eiendom, samt i andre selskaper med forretningsmessig formal.
+
+Note
+2
+Antall Aarsverk i regnskapsaret
+0.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+0.00 0.00
+Andre ytelser Arets Fjorarets
+10000.00 10000.00
+Sum lonnskostnader Arets Fjorarets
+10000.00 10000.00
+Mer om Aarsverk og lenn
+Ytelsene bestar i gaver til styret for 2025

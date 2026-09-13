@@ -1,0 +1,481 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 376438
+Virksomheten
+Organisasjonsnummer : 991 330 259
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: F J L HOLDING AS
+Forretningsadresse: c/o Frank Nordby
+Hermelinveien 35
+3124 TONSBERG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Frank Nordby
+Dato for fastsettelse av Aarsregnskapet: 13.04.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 14.04.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 991 330 259
+
+F J L HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 20 615 30 442
+
+Sum kostnader 20 615 30 442
+
+Driftsresultat -20 615 -30 442
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 4 806 7 730
+
+Annen finansinntekt 3, 4 843 292 52 732
+
+Verdigkning
+
+markedsbaserte omle@psmidler 3, 4 89 840 576 310
+
+Sum finansinntekter 937 938 636 772
+
+Verdireduksjon
+
+markedsbaserte omlepsmidler 3, 4 739 590
+
+Nedskrivning av
+
+finansielle eiendeler 3
+
+Annen finanskostnad 3
+
+Sum finanskostnader 739 590
+
+Netto finans 198 348 636 772
+
+Resultat fer skattekostnad 177 734 606 330
+
+Skattekostnad pa resultat 5
+
+Arsresultat 177 734 606 330
+
+Arsresultat etter
+
+minoritetsinteresser 177 734 606 330
+
+Totalresultat 177 734 606 330
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 6 177 734 606 330
+
+Sum overferinger og
+
+disponeringer 177 734 606 330
+Utskriftsdato 14.04.2026 Organisasjonsnr 991 330 259 Side 1 av 3
+
+Organisasjonsnr: 991 330 259
+
+F J L HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 5
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 4
+
+Investering i annet
+
+foretak i samme konsern 4
+
+Investeringer 1
+
+tilknyttet selskap 4
+
+Investeringer i aksjer og
+
+andeler 4 6 342 256 6 144 755
+
+Obligasjoner 4
+
+Andre langsiktige
+
+fordringer 4
+
+Sum finansielle
+
+anleggsmidler 6 342 256 6 144 755
+
+Sum anleggsmidler 6 342 256 6 144 755
+
+Omlepsmidler
+
+Varer
+
+Investeringer
+
+Markedsbaserte aksjer 3 1 322 622 1 228 578
+
+Markedsbaserte obligasjoner 3
+
+Andre markedsbaserte
+
+finansielle instrumenter 3
+
+Sum investeringer 1 322 622 1 228 578
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 283 862 197 673
+
+Sum bankinnskudd,
+
+kontanter og lignende 283 862 197 673
+
+Sum omlepsmidler 1 606 484 1 426 251
+
+SUM ELENDELER 7 948 740 7 571 006
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6, 7 100 000 100 000
+Utskriftsdato 14.04.2026 Organisasjonsnr 991 330 259 Side 2 av 3
+
+Beholdning av egne aksjer 7
+
+Overkurs 6 6 000 6 000
+
+Sum innskutt egenkapital 106 000 106 000
+
+Opptjent egenkapital
+
+Annen egenkapital 6 5 892 740 5 715 006
+
+Sum opptjent egenkapital 5 892 740 5 715 006
+
+Sum egenkapital 5 998 740 5 821 006
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 5
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 8 1 950 000 1 750 000
+
+Sum annen langsiktig gjeld 1 950 000 1 750 000
+
+Sum langsiktig gjeld 1 950 000 1 750 000
+
+Betalbar skatt 5
+
+Sum gjeld 1 950 000 1 750 000
+
+SUM EGENKAPITAL OG GJELD 7 948 740 7 571 006
+Utskriftsdato 14.04.2026 Organisasjonsnr 991 330 259 Side 3 av 3
+
+Organisasjonsnr: 991 330 259
+
+F J L HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Nay Fan Signing
+Arsregnskap 2025
+F J L Holding AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 991 330 259
+
+BankID Qualified Signing
+Nordby, Frank
+2026-04-13
+RESULTATREGNSKAP |
+F J LHOLDING AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 20 615 30 442
+Sum driftskostnader 20 615 30 442
+Driftsresultat -20 615 -30 442
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 4 806 7 730
+Annen finansinntekt 3,4 843 292 52 732
+Verdigkning markedsbaserte omlgpsmidler 3,4 89 840 576 310
+Verdireduksjon markedsbaserte omlgpsmidler 3,4 739 590 0
+Resultat av finansposter 198 348 636 772
+Resultat for skattekostnad 177 734 606 330
+Resultat 177 734 606 330
+Arsresultat 177 734 606 330
+OVERF@RINGER
+
+Avsatt til annen egenkapital 6 177 734 606 330
+Sum overfgringer 177 734 606 330
+
+F JL HOLDING AS SIDE 2
+
+BankID Qualified Signing
+Nordby, Frank
+2026-04-13
+BALANSE |
+F J LHOLDING AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i aksjer og andeler 4 6 342 256 6 144755
+Sum finansielle anleggsmidler 6 342 256 6 144755
+Sum anleggsmidler 6 342 256 6 144755
+OML@PSMIDLER
+INVESTERINGER
+Markedsbaserte aksjer 3 1 322 622 1 228578
+Sum investeringer 1 322 622 1 228 578
+Bankinnskudd, kontanter o.|. 283 862 197 673
+Sum omlgpsmidler 1 606 484 1 426 251
+Sum eiendeler 7 948 740 7 571 006
+F JLHOLDING AS SIDE 3
+
+BankID Qualified Signing
+Nordby, Frank
+2026-04-13
+BALANSE |
+F JL HOLDING AS
+
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 6,7 100 000 100 000
+Overkurs 6 6 000 6 000
+Sum innskutt egenkapital 106 000 106 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 6 5 892 740 5 715 006
+Sum opptjent egenkapital 5 892 740 5 715 006
+Sum egenkapital 5 998 740 5 821 006
+GJELD
+ANNEN LANGSIKTIG GJELD
+Ovrig langsiktig gjeld 8 1 950 000 1 750 000
+Sum annen langsiktig gjeld 1950 000 1 750 000
+Sum gijeld 1950 000 1 750 000
+Sum egenkapital og gjeld 7 948 740 7 571 006
+
+Tonsberg, 13.04.2026
+
+Styret i F J L Holding AS
+
+Frank Nordby
+
+styreleder/daglig leder
+
+F J LHOLDING AS SIDE 4
+
+BankID Qualified Signing
+Nordby, Frank
+«3 2026-04-13
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+VALUTA
+Transaksjoner i utenlandsk valuta omregnes til kursen pa transaksjonstidspunktet. Pengeposter i
+utenlandsk valuta omregnes til norske kroner ved a benytte balansedagens kurs. Ikke-pengeposter som
+males til historisk kurs uttrykt i utenlandsk valuta, omregnes til norske kroner ved a benytte valutakursen
+pa transaksjonstidspunktet. Ikke-pengeposter som males til virkelig verdi uttrykt i utenlandsk valuta,
+omregnes til valutakursen fastsatt pa maletidspunktet. Valutakursendringer resultatfgres Igpende i
+regnskapsperioden under andre finansposter.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt. Netto utsatt skattefordel balansefgres ikke ihht GRS
+for sma foretak.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt belgp pa
+transaksjonstidspunktet.
+INVESTERINGER | ANDRE SELSKAPER
+Kostmetoden brukes som prinsipp for investeringer i andre selskaper. Investeringen er vurdert til
+anskaffelseskost for aksjene med mindre nedskrivning har vzert nddvendig. Det er foretatt nedskrivning til
+virkelig verdi nar verdifall skyldes arsaker som ikke kan forventes a vzere forbigaende og det ma anses
+ngdvendig etter god regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke
+lenger er til stede..
+Note 1 Virksomhetens art og lokalisering
+F J L Holding AS er et selskap der virksomheten omfatter investering i aksjer, andeler og fast eiendom.
+Selskapet er lokalisert i Tansberg kommune.
+Note 2 Lonnskostnader og antall arsverk
+LONNSKOSTNADER
+2025 2024
+
+Sum 0 0
+Selskapet har i 2025 sysselsatt O arsverk.
+
+BankID Qualified Signing
+Nordby, Frank
+Note 3 Markedsbaserte verdipapirer 2028-08
+Anskaffelses- Markeds- Balansefgrt
+kost verdi verdi
+Markedsbaserte aksjer
+Markedsbaserte aksjer og verdipapirfondsandeler 1011 193 1 322 622 1 322 622
+Sum markedsbaserte aksjer 1011 193 1 322 622 1 322 622
+Sum 1011 193 1 322 622 1 322 622
+Markedsbaserte verdipapirer er verdsatt til virkelig verdi. Virkelig verdi er fastsatt i henhold til verdien som
+er observerbar i markedet pa balansedagen. Realiserte gevinster ved salg av aksjer og andeler inngar i
+annen finansinntekt, og realiserte tap inngar i annen finanskostnad.
+Note 4 Langsiktige verdipapirer
+Anskaffelses Markeds Balansefgrt
+kost verdi verdi
+Langsiktige Investeringer
+EMF PCTC Green 4 ApS 2 731919 2 670 357 2 670 357
+EMF Tankers Suez NB3 ApS 1 335 000 1 207 200 1 207 200
+EMF Tankers Suez NB9 ApS 1 335 000 1 207 200 1 207 200
+EMF Tankers Blue Harmony ApS 1 414 363 1 257 500 1 257 500
+Sum 6 816 281 6 342 257 6 342 257
+Andelene er bokfgrt til anskaffelseskost i USD. Verdiendring er knyttet til kursendring i USD og inngar i
+verdireduksjon markedsbaserte omlgpsmidler. Gevinst ved realiserte andeler inngar i annen finansinntekt.
+
+BankID Qualified Signing
+Nordby, Frank
+Note 5 Skatt 2028-08
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt 177 734 606 330
+Permanente forskjeller -193 393 -629 042
+Skattepliktig inntekt -15 659 -22 712
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -131 348 -115 689 15 659
+Inngar ikke i beregningen av utsatt skatt 131 348 115 689 -15 659
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 6 Egenkapital
+Aksjekapital Overkurs Annen Sum
+egenkapital egenkapital
+Pr. 31.12.2024 100 000 6 000 5 715 006 5 821 006
+Arets resultat 177 734 177 734
+Pr 31.12.2025 100 000 6 000 5 892 740 5 998 740
+
+ay BankID Qualified Signing
+) Nordby, Frank
+Note 7 Aksjonzerer 2028-08
+AKSJEKAPITALEN I F J L HOLDING AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+Ordinzre aksjer 100 000 1,0 100 000
+Sum 100 000 100 000
+EIERSTRUKTUR
+Aksjonzerer i % pr. 31.12:
+Ordinzere Eierandel Stemmeandel
+Frank Nordby 100 000 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Verv Ordinzere
+Frank Nordby styreleder/daglig leder 100 000
+Totalt antall aksjer 100 000
+Note 8 Fordringer og gjeld
+2025 2024
+Langsiktig gjeld
+Gjeld til aksjonzer 1950 000 0
+Sum 1950 000 0
+Gjeld til aksjonzer er ikke renteberegnet i 2025.
+
+Arsregnskap 2025
+F J L Holding AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 991 330 259
+
+RESULTATREGNSKAP |
+F JL HOLDING AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 20 615 30 442
+Sum driftskostnader 20 615 30 442
+Driftsresultat -20 615 -30 442
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 4 806 7 730
+Annen finansinntekt 3,4 843 292 52 732
+Verdigkning markedsbaserte omlgpsmidler 3,4 89 840 576 310
+Verdireduksjon markedsbaserte omlgpsmidler 3,4 739 590 0
+Resultat av finansposter 198 348 636 772
+Resultat for skattekostnad 177 734 606 330
+Resultat 177 734 606 330
+Arsresultat 177 734 606 330
+OVERF@RINGER
+
+Avsatt til annen egenkapital 6 177 734 606 330
+Sum overfgringer 177 734 606 330
+F JL HOLDING AS SIDE 2

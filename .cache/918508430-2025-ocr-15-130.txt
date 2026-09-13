@@ -1,0 +1,503 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 613150
+Virksomheten
+Organisasjonsnummer : 918 508 430
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: BARONEN AS
+Forretningsadresse: Torkjelsvegen 52
+5208 OS
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Bj@rm Stian Bjoarvik
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 918 508 430
+
+BARONEN AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 500 4 000
+
+Annen driftsinntekt -35 35
+
+Sum inntekter 3 465 4 035
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 4 831 2 169
+
+Sum kostnader 4 831 2 169
+
+Driftsresultat -1 366 1 866
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt -42 42
+
+Sum finansinntekter -42 42
+
+Netto finans -42 42
+
+Resultat fer skattekostnad -1 408 1 908
+
+Skattekostnad 2 330 421
+
+Arsresultat -3 738 1 487
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -3 738 1 487
+Utskriftsdato 01.07.2026 Organisasjonsnr 918 508 430 Side 1 av 3
+
+Organisasjonsnr: 918 508 430
+
+BARONEN AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Maskiner og anlegg 3 12 000 12 000
+
+Sum varige driftsmidler 3 12 000 12 000
+
+Sum anleggsmidler 12 000 12 9000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 3 077
+
+Sum fordringer 3 077
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 0) 0)
+
+Markedsbaserte aksjer 0) 0
+
+Markedsbaserte obligasjoner 0 0
+
+Andre markedsbaserte
+
+finansielle instrumenter 0 0
+
+Andre finansielle
+
+instrumenter 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 3 113 1 521
+
+Sum bankinnskudd,
+
+kontanter og lignende 3 113 1 521
+
+Sum omlepsmidler 3 113 4 598
+
+SUM EITENDELER 15 113 16 598
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 40 000 40 000
+
+Sum innskutt egenkapital 40 000 40 000
+
+Opptijent egenkapital
+
+Udekket tap 30 936 27 198
+Utskriftsdato 01.07.2026 Organisasjonsnr 918 508 430 Side 2 av 3
+
+Sum opptjent egenkapital -30 936 -27 198
+
+Sum egenkapital 9 064 12 802
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2 330
+
+Sum avsetninger for
+
+forpliktelser 2 330
+
+Annen langsiktig gjeld
+
+Sum langsiktig gjeld 2 330
+
+Kortsiktig gjeld
+
+Betalbar skatt -877
+
+Annen kortsiktig gjeld 4 597 3 797
+
+Sum kortsiktig gjeld 3 720 3 797
+
+Sum gjeld 6 050 3 797
+
+SUM EGENKAPITAL OG GJELD 15 114 16 598
+Utskriftsdato 01.07.2026 Organisasjonsnr 918 508 430 Side 3 av 3
+
+Organisasjonsnr: 918 508 430
+
+BARONEN AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+=== Note 1: Regnskapsprinsipper [[note-1]]
+
+Arsregnskapet er satt opp 1
+
+samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+
+==== Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa
+
+leveringstidspunktet.
+
+Tjenester inntektsfoeres etter hvert som de
+
+leveres.
+
+==== Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt.
+
+Utsatt skatt er
+
+beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier,
+
+samt ligningsmessig
+
+underskudd til fremfering ved utgangen av regnskapsaret.
+Skatteskende og
+
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofert.
+
+==== Klassifisering
+
+og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til
+
+varig elie og bruk.
+
+Anleggsmidler er vurdert til anskaffelseskost.
+
+Varige
+
+driftsmidler balanseferes og avskrives over driftsmidlets skonomiske
+levetid.
+
+Avskrivingsperioden for fast eiendom anskaffet etter 2009 er
+dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner.
+
+Varige driftsmidler nedskrives til gjenvinnbart
+
+belep ved verdifall som forventes ikke 4 vere forbigaende.
+Gjenvinnbart
+
+belep er det heyeste av netto salgsverdi og verdi i bruk.
+
+Verdi i bruk er
+
+naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivingen
+
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlepsmidler
+
+Omlepsmidler og kortsiktig
+
+gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen,
+samt poster som knytter seg til varekretslapet.
+Omlepsmidler
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto
+salgsverdi.
+==== Fordringer
+Kundefordringer og andre fordringer
+oppfordres til palydende etter fradrag for avsetning til forventet
+tap.
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene.
+Note
+2
+Antall Arsverk i regnskapsaret
+0.00
+Note
+3
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+30000.00
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+0.00
+Avgang i aret Varige driftsmidler Immaterielle eiend.
+0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+30000.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+0.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+30000.00
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjeop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap for 2025
+BARONEN AS
+Orgnr: 918508430
+conta
+
+INNHOLDSLISTE
+Resultat 2... eee B
+Driftsresultater.. 2 ee B
+Finansinntekter og kostnader............ 0.000002 ee eee B
+Arsresultat. 0 eee eee 8
+Overfgringer. 2... eee B
+Balanse. 2. 2 1. ee ee A
+Anleggsmidler... 2... 0.0.0.0... 00.00 2 ee A
+Omlgpsmidler. 2... ee LA
+Fiendeler.. 2... 2. ee ee A
+Egenkapital .. 2. 2 2. eee A
+Gjeld 2. ee A
+Egenkapitaloggjeld..... 2... 0.0.00... 000 0 ee ee ee SG
+Styret. eee ee ee eS
+Noter. 2. 2 ee eee eee 6
+Note 1: Regnskapsprinsipper ... 2... 0... ee ee ee ee  G
+Note 2:Arsverk 20. 0 eee eee 7
+Note 3:Anleggsmidier ..... 2... 0.0.0.0... 0000 0 ee eee ee eT
+
+RESULTAT
+
+Driftsresultater
+
+Note 2024 2025
+Salgsinntekt 4000 3 500
+Annen driftsinntekt 35 -35
+Driftsinntekter 4035 3 465
+Lonnskostnad 2 0 0
+Annen driftskostnad 2 169 4831
+Driftskostnader 2 169 4831
+Driftsresultat 1 866 -1 366
+Finansinntekter og kostnader
+
+Note 2024 2025
+Annen finansinntekt 42 -42
+Finansinntekter 42 -42
+Finanskostnader 0 0
+Finansinntekter og kostnader 42 -42
+Arsresultat
+
+Note 2024 2025
+Driftsresultat 1 866 -1 366
+Finansinntekter og kostnader 42 -42
+Resultat for skattekostnad 1908 -1 408
+Skattekostnad 421 2 330
+Arsresultat 1 487 -3 738
+Overforinger
+
+2024 2025
+Overfort til udekket tap 1 487 -3 738
+Sum overf¢ringer 1 487 -3 738
+Conta Arsoppgjor, BARONEN AS
+-3-
+
+BALANSE
+
+Anleggsmidler
+
+Note 2024 2025
+Immaterielle eiendeler 0 0
+Maskiner og anlegg 3 12 000 12 000
+Varige driftsmidler 3 12000 12000
+Finansielle anleggsmidler 0 0
+Anleggsmidler 12000 12000
+Omlgpsmidler
+
+Note 2024 2025
+Kundefordringer 3077 0
+Fordringer 3077 0
+Investeringer 0 0
+Bankinnskudd, kontanter og lignende 1 521 3113
+Omlgpsmidler 4598 3113
+Eiendeler
+
+Note 2024 2025
+Anleggsmidler 12000 12000
+Omlgpsmidler 4598 3113
+Eiendeler 16 598 15 113
+Egenkapital
+
+Note 2024 2025
+Selskapskapital 40 000 40 000
+Innskutt egenkapital 40000 40 000
+Udekket tap -27 198 -30 936
+Opptjent egenkapital -27 198 -30 936
+Egenkapital 12 802 9064
+
+Conta Arsoppgjor, BARONEN AS
+-4-
+
+Gjeld
+
+Note 2024 2025
+Utsatt skatt 0 2 330
+Avsetning for forpliktelser 0 2 330
+Annen langsiktig gjeld 0 0
+Betalbar skatt 0 -877
+Annen kortsiktig gjeld 3797 4597
+Kortsiktig gjeld 3797 3720
+Gjeld 3797 6050
+Egenkapital og gjeld
+
+Note 2024 2025
+Egenkapital 12 802 9064
+Gjeld 3797 6050
+Egenkapital og gjeld 16598 15114
+
+Os, 30.06.2026
+Styret i BARONEN AS
+Bjgrn Stian Bjoarvik
+Styreleder
+Eirik Mjelle Walle
+Daglig leder
+Conta Arsoppgjor, BARONEN AS
+-5-
+
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Driftsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som
+de leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring
+ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres i samme periode er utlignet og nettofgrt.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets ¢konomiske
+levetid. Avskrivingsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som
+gjelder rabygget og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til
+gjenvinnbart belgp ved verdifall som forventes ikke a veere forbigaende.
+Gjenvinnbart belgp er det hayeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av
+fremtidige kontantstra@mmer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for
+nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlopsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi
+av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+Conta Arsoppgjor, BARONEN AS
+
+-6-
+
+Fordringer
+Kundefordringer og andre fordringer oppfordres til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+o
+Note 2: Arsverk
+Selskapet har sysselsatt 0 arsverk i 2025.
+Note 3: Anleggsmidler
+Varige driftsmidler
+Maskiner og anlegg
+Anskaffelseskost 01.01 30 000
+Tilgang i aret + 0
+Avgang i aret - 0
+Anskaffelseskost 31.12 = 30 000
+Akkumulerte avskrivninger 01.01 30 000
+Arets ordinzere avskrivninger + 0
+Tilbakefort avskrivning ved avgang - 0
+Akkumulerte avskrivninger 31.12 = 30 000
+Bokfort verdi 31.12 0
+@konomisk levetid 5 ar
+Conta Arsoppgjor, BARONEN AS
+-7-

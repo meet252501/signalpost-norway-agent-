@@ -1,0 +1,584 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 314610
+Enheten
+Organisasjonsnummer : 931 699 113
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ROCKSPORT BOOKING AS
+Forretningsadresse: Juveveien 12
+3060 SVELVIK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Jorun Haugan
+Dato for fastsettelse av arsregnskapet: 18.02.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 21.02.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 931 699 113
+
+ROCKSPORT BOOKING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 20 164 205 12 340 350
+
+Sum inntekter 20 164 205 12 340 350
+
+Kostnader
+
+Varekostnad 16 548 737 10 267 513
+
+Lennskostnad 1, 2 1 081 034 957 451
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 52 800 52 298
+
+Annen driftskostnad 999 004 879 910
+
+Sum kostnader 18 681 575 12 157 172
+
+Driftsresultat 1 482 630 183 179
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 2 945 0
+
+Annen finansinntekt 0 3 988
+
+Sum finansinntekter 2 945 3 988
+
+Annen rentekostnad 4 118 17 250
+
+Annen finanskostnad 0 2 408
+
+Sum finanskostnader 4 118 19 658
+
+Netto finans -1 173 -15 670
+
+Resultat fer skattekostnad 1 481 457 167 509
+
+Skattekostnad 4, 5 325 613 36 949
+
+Arsresultat 1155 843 130 559
+
+Annen egenkapital 6 1 155 843 130 559
+Utskriftsdato 21.02.2026 Organisasjonsnr 931 699 113 Side 1 av 3
+
+Organisasjonsnr: 931 699 113
+
+ROCKSPORT BOOKING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4, 5 5 402 0
+
+Sum immaterielle eiendeler 5 402 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verkt@y, kontormaskiner,
+
+ol. 3 90 200 143 000
+
+Sum varige driftsmidler 90 200 143 000
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 95 602 143 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 676 875 622 210
+
+Andre kortsiktige
+
+fordringer 35 934 19 522
+
+Sum fordringer 712 809 641 732
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 2 436 006 1 165 763
+
+Sum bankinnskudd,
+
+kontanter og lignende 2 436 006 1 165 763
+
+Sum omlepsmidler 3 148 815 1 807 495
+
+SUM ELENDELER 3 244 417 1 950 495
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6 100 000 100 000
+
+Sum innskutt egenkapital 100 000 100 000
+Utskriftsdato 21.02.2026 Organisasjonsnr 931 699 113 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 6 1 900 715 744 872
+
+Sum opptjent egenkapital 1 900 715 744 872
+
+Sum egenkapital 2 000 715 844 872
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4, 5 0 0
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 218 239 149 055
+
+Betalbar skatt 4, 5 331 015 37 142
+
+Skyldige offentlige
+
+avgifter 59 401 69 640
+
+Annen kortsiktig gjeld 635 047 849 786
+
+Sum kortsiktig gjeld 1 243 702 1 105 623
+
+Sum gjeld 1 243 702 1 105 623
+
+SUM EGENKAPITAL OG GJELD 3 244 417 1 950 495
+Utskriftsdato 21.02.2026 Organisasjonsnr 931 699 113 Side 3 av 3
+
+Organisasjonsnr: 931 699 113
+
+ROCKSPORT BOOKING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak. Selskapet har ikke endret regnskapsprinsipp
+fra 2024 til 2025.
+
+Salgsinntekter
+
+Tjenester inntektsfoeres etter hvert som
+
+de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er
+
+eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett 4r.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er falgende regnskapsprinsipper anvendt:
+
+Forsikret
+
+pensjonsforpliktelse er ikke balansefert - kostnaden er 1ik premien.
+Leieavtaler er ikke balansefert. Fordringer og gjeld i utenlandsk valuta er
+verdsatt til kursen ved regnskapsarets slutt. Kursgevinster og kurstap i
+utenlandsk valuta fores som finansinntekt og finanskostnad.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens
+
+betalbare skatt og endring i utsatt skatt. Utsatt skatt er beregnet med 22%
+pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt skattemessig underskudd til
+fremfering ved utgangen av regnskapsaret. Skattegkende og skattereduserende
+midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Note
+1
+Antall Aarsverk i regnskapsaret
+1.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+866992.00 739200.00
+Folketryqdavgift Arets Fjorarets
+132108.00 132076.00
+Pensjonskostnader Arets Fjorarets
+67833 .00 67609.00
+Andre ytelser Arets Fjorarets
+14102.00 18566.00
+Sum lennskostnader Arets Fljorarets
+1081034.00 957451.00
+Note
+Ekstraordinere inntekter og kostnader
+Sum BEL IP
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+Konsernregnskap
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Samlet belep - tilknyttet selska Arets Fjiorarets
+Samlet belap - foretak i samme konsern Arets Fjorarets
+
+Samlet belep - foretak i samme konserm Arets Fjorarets
+Samlet belep - felles kontrollert virksomhet Arets Fjorarets
+Pantstillelse Belap
+Beholdning av_egne aksjer Antall Palydende Andel av_aksjek.
+
+Christian L. Wiktorin
+FR RE Statsautorisert revisor
+RF REVISJON & RADGIVNING Henrik Landsverk
+Statsautorisert revisor
+Medlem av
+Den norske Revisorforening
+Autorisert
+Regnskapsforerselskap
+Org. Nummer
+818 091 702 mva
+Til generalforsamlingen i Rocksport Booking AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet for Rocksport Booking AS som viser et overskudd pa NOK 1 155 843.
+Arsregnskapet bestar av balanse per 31. desember 2025, resultatregnskap for regnskapséaret avsluttet
+per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025, og
+av dets resultater for regnskapsdret avsluttet per denne datoen i samsvar med regnskapslovens
+regler og god regnskapsskikk i Norge.
+Grunntag for konklusjonen
+Vi har gjennomf¢rt revisjonen i samsvar med International Standards on Auditing ([SA-ene). Vare
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i relevante
+lover og forskrifter i Norge og International Code of Ethics for Professional Accountants (inkludert
+internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for
+Accountants (IESBA-reglene), og vi har overholdt vare gvrige etiske forpliktelser i samsvar med disse
+kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for
+var konklusjon.
+Styrets og daglig leders ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlige for 4 utarbeide arsregnskapet og for at det gir et
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa
+ansvarlig for slik internkontroll som den finner ngdvendig for a kunne utarbeide et regnskap som ikke
+inneholder vesentlig feilinformasjon, verken som fglge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn
+for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Kontor: Neeringssenteret post@re-revisjon.no Telefon 33 06 49 10 Revisornummer
+Gamleveien 1, 3174 Revetal www.re-revisjon.no Mobil 98 01 15 33 818 097 702
+
+Re Revisjon AS
+Revisors oppgaver og plikter ved revisjonen av drsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en hgy grad av sikkerhet, men ingen garanti
+for at en revisjon utfgrt i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon.
+Feilinformasjon kan oppsta som fglge av misligheter eller utilsiktede feil. Feilinformasjon er 4 anse som
+vesentlig dersom den enkeitvis eller samlet med rimelighet kan forventes a pavirke de gkonomiske
+beslutningene som brukerne foretar pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+https://revisorforeningen.no/revisjonsberetninger
+Revetal, 18. februar 2026
+Re Revisjon AS
+Henrik Landsverk
+Statsautorisert revisor
+
+side 2
+
+Arsregnskap for
+Rocksport Booking AS
+931699113
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+Rocksport Booking AS
+931 699 113
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 20 164 205 12 340 350
+Sum driftsinntekter 20 164 205 12 340 350
+Driftskostnader
+Varekosinad 16 548 737 10 267 513
+L@nnskostnad 1,2 1 081 034 957 451
+Avskrivning pa varige driftsmidler og immaterielle 3 52 800 52 298
+eiendeler
+Annen driftskostnad 999 004 879 910
+Sum driftskostnader 18 681 575 12 157 172
+Driftsresultat 1 482 630 183 179
+Finansinntekter
+Annen renteinntekt 2 945 0
+Annen finansinntekt 0 3 988
+Sum finansinntekter 2 945 3 988
+Finanskostnader
+Annen rentekostnad 4118 17 250
+Annen finanskostnad 0 2 408
+Sum finanskostnader 4118 19 658
+Netto finans -1173 -15 670
+Resultat for skattekostnad 1 481 457 167 509
+Skattekostnad 4,5 325 613 36 949
+Arsresultat 1 155 843 130 559
+Overforinger
+Annen egenkapital 6 1 155 843 130 559
+Sum overferinger 1 155 843 130 559
+
+Rocksport Booking AS
+931 699 113
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 4,5 5 402 0
+Sum immaterielle eiendeler 5 402 0
+Varige driftsmidler
+Driftslgs@re, inventar, verktgy, kontormaskiner, ol. 3 90 200 143 000
+Sum varige driftsmidler 90 200 143 000
+Sum anleggsmidler 95 602 143 000
+Omlgpsmidler
+Fordringer
+Kundefordringer 676 875 622 210
+Andre kortsiktige fordringer 35 934 19 522
+Sum fordringer 712 809 641 732
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 2 436 006 1 165 763
+Sum bankinnskudd, kontanter og lignende 2 436 006 1 165 763
+Sum omlgpsmidler 3 148 815 1 807 495
+SUM EIENDELER 3 244 417 1950 495
+
+Rocksport Booking AS
+931 699 113
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 6 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+Annen egenkapital 6 1 900 715 144 872
+Sum opptjent egenkapital 1900 715 744 872
+Sum egenkapital 2 000 715 844 872
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 218 239 149 055
+Betalbar skatt 4,5 331015 37 142
+Skyldige offentlige avgifter 59 401 69 640
+Annen kortsiktig gjeld 635 047 849 786
+Sum kortsiktig gjeld 1 243 702 1 105 623
+Sum gjeld 1 243 702 1 105 623
+SUM EGENKAPITAL OG GJELD 3 244 417 1950 495
+Svelvik, 18.02.2026
+Reidun Synng@ve Berntsen
+styrets leder / daglig leder
+
+Rocksport Booking AS
+
+931 699 113
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapet driver med formidling av artister og underholdning som tjenester knyttet til administrasjon og
+arrangering av konserter og underholdning. Selskapet drives fra leide lokaler i Svelvik.
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak. Selskapet
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Salgsinntekter
+
+Tjenester inntektsfgres etter hvert som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekretsla@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Forsikret pensjonsforpliktelse er ikke balansefert - kostnaden er lik premien. Leieavtaler er ikke balansefart.
+Fordringer og gjeld i utenlandsk valuta er verdsatt til kursen ved regnskapsarets slutt. Kursgevinster og kurstap i
+utenlandsk valuta fores som finansinntekt og finanskostnad.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfgring ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Rocksport Booking AS
+931 699 113
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 1
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 866 992 739 200
+Arbeidsgiveravgift 132 108 132 076
+Pensjonskostnader 67 833 67 609
+Andre relaterte ytelser 14 102 18 566
+Sum 1 081 034 957 451
+Note 3 - Varige driftsmidler/anleggsmidler
+Driftslesere,
+arige driftsmidier 0000 _ventar 0.
+Anskaffelseskost pr 01.01 248 121
+Tilgang i aret 0
+Avgang i aret 0
+Anskaffelseskost pr 31.12 248 121
+Akkumulert av- og nedskrivninger 01.01 -105 121
+Akkumulert av- og nedskrivninger 31.12 -157 921
+Balansefort verdi pr 31.12 90 200
+Arets av- og nedskrivninger 52 800
+@konomisk levetid 3-5
+Avskrivningsplan Lineeer
+Note 4 - Spesifisering av skatt
+Skattekostnad 2025 2024
+Betalbar skatt pa alminnelig inntekt 331015 37 142
++/- Endringer i utsatt skatt/utsatt skattefordel -5 402 -193
+Skattekostnad 325 613 36 949
+Skattepliktig inntekt
+Resultat for skatt 1 481 457 167 509
+Permanente forskjeller -955 0
++/- Endring i midlertidige forskjeller 24 112 1317
+Skattepliktig inntekt 1 504 613 168 826
+Betalbar skatt i balansen
+Betalbar skatt pa arets resultat 331015 37 142
+Betalbar skatt i balansen 331 015 37 142

@@ -1,0 +1,428 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 322118
+Enheten
+Organisasjonsnummer : 926 757 253
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: OKV8 EIENDOM AS
+Forretningsadresse: /v Rasmus Tallaksen
+Hunsfos Neringspark
+4700 VENNESLA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Rasmus Bandsholm Larsen Tallaksen
+Dato for fastsettelse av Aarsregnskapet: 27.02.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 02.03.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 926 757 253
+
+OKV8 EIENDOM AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 688 186 349 801
+
+Sum inntekter 688 186 349 801
+
+Kostnader
+
+Lennskostnad 1
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 2 149 374 68 137
+
+Annen driftskostnad 345 622 206 311
+
+Sum kostnader 494 996 274 448
+
+Driftsresultat 193 190 75 353
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 42 97
+
+Annen finansinntekt 1 621 1 444
+
+Sum finansinntekter 1 663 1 541
+
+Annen rentekostnad 435 534 195 063
+
+Sum finanskostnader 435 534 195 063
+
+Netto finans -433 871 -193 522
+
+Resultat fer skattekostnad -240 681 -118 169
+
+Skattekostnad pa resultat -52 959 -26 019
+
+Arsresultat -187 722 -92 150
+
+Arsresultat etter
+
+minoritetsinteresser -187 722 -92 150
+
+Totalresultat -187 722 -92 150
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -187 722 -92 150
+
+Sum overferinger og
+
+disponeringer -187 722 -92 150
+Utskriftsdato 02.03.2026 Organisasjonsnr 926 757 253 Side 1 av 3
+
+Organisasjonsnr: 926 757 253
+
+OKV8 EIENDOM AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 60 609 36 991
+
+Sum immaterielle eiendeler 60 609 36 991
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 2 8 074 520 8 088 000
+
+Maskiner og anlegg 2
+
+Skip og flytende
+
+installasjoner 2
+
+Driftslesere, inventar o.
+
+a. utstyr 2 81 770 113 710
+
+Sum varige driftsmidler 2 8 156 290 8 201 710
+
+Finansielle anleggsmidler
+
+Lan til foretak i samme
+
+konsern 2
+
+Sum anleggsmidler 8 216 899 8 238 701
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 7 568 4 795
+
+Konsernfordringer 2 309 111 75 742
+
+Sum fordringer 316 679 80 537
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 89 500 127 815
+
+Sum bankinnskudd,
+
+kontanter og lignende 89 500 127 815
+
+Sum omlepsmidler 406 179 208 352
+
+SUM ELENDELER 8 623 078 8 447 053
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 3 670 000 670 000
+Utskriftsdato 02.03.2026 Organisasjonsnr 926 757 253 Side 2 av 3
+
+Beholdning av egne aksjer 3
+
+Annen innskutt egenkapital 155 037 51 009
+
+Sum innskutt egenkapital 825 037 721 009
+
+Opptjent egenkapital
+
+Udekket tap 337 817 150 095
+
+Sum opptjent egenkapital -337 817 -150 095
+
+Sum egenkapital 487 220 570 914
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 2 5 980 299 6 206 123
+
+Langsiktig konserngjeld 2 2 095 081 1 545 081
+
+Sum annen langsiktig gjeld 8 075 380 7 751 204
+
+Sum langsiktig gjeld 8 075 380 7 751 204
+
+Kortsiktig gjeld
+
+Leverandergjeld 24 307 34 600
+
+Skyldig offentlige avgifter 1 159
+
+Kortsiktig konserngjeld 2 57 915
+
+Annen kortsiktig gjeld 35 O11 32 420
+
+Sum kortsiktig gjeld 60 477 124 935
+
+Sum gjeld 8135 857 7 876 139
+
+SUM EGENKAPITAL OG GJELD 8 623 078 8 447 053
+Utskriftsdato 02.03.2026 Organisasjonsnr 926 757 253 Side 3 av 3
+
+Organisasjonsnr: 926 757 253
+
+OKV8 EIENDOM AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+Sum Belgap
+
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+
+Kons ernregns kap
+
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Samlet bel@p - tilknyttet selskap Arets Fjorarets
+Samlet belep - foretak i samme konserm Arets Fjorarets
+Samlet belap - foretak i samme konsern Arets Fjorarets
+Samlet belep - felles kontrollert virksomhet Arets Fjorarets
+Pantstillelse Belap
+Beholdning av _egne aksjer Antall Palydende Andel av aksjek.
+
+Arsregnskap 2025
+Okv8 Eiendom AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 926 757 253
+
+RESULTATREGNSKAP |
+OKV8 EIENDOM AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftsinntekt 688 186 349 801
+Sum driftsinntekter 688 186 349 801
+Avskrivning av driftsmidler og immaterielle eiendeler 2 149 374 68 137
+Annen driftskostnad 345 622 206 311
+Sum driftskostnader 494 996 274 448
+Driftsresultat 193 190 75 353
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 42 97
+Annen finansinntekt 1621 1 444
+Annen rentekostnad 435 534 195 063
+Resultat av finansposter -433 871 -193 522
+Resultat for skattekostnad -240 681 -118 169
+Skattekostnad pa resultat -52 959 -26 019
+Arsresultat -187 722 | -92. 150]
+OVERF@RINGER
+
+Overfgrt til udekket tap 187 722 92 150
+Sum overfgringer -187 722 -92 150
+OKV8 EIENDOM AS SIDE 2
+
+BALANSE |
+
+OKV8 EIENDOM AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+Utsatt skattefordel 60 609 36 991
+Sum immaterielle eiendeler 60 609 36 991
+VARIGE DRIFTSMIDLER
+Tomter, bygninger o.a. fast eiendom 2 8074520 8 088 000
+Driftslds¢re, inventar o.a. utstyr 2 81770 113 710
+Sum varige driftsmidler 2 8 156 290 8 201 710
+FINANSIELLE ANLEGGSMIDLER
+Sum anleggsmidler 8 216 899 8 238 701
+OML@PSMIDLER
+FORDRINGER
+Andre kortsiktige fordringer 7 568 4795
+Konsernfordringer 2 309 111 75 742
+Sum fordringer 316 679 80 537
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 89 500 127 815
+Sum oml¢psmidler 406 179 208 352
+Sum eiendeler 8 623 078 8 447 053
+OKV8 EIENDOM AS SIDE 3
+
+BALANSE |
+
+OKV8 EIENDOM AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 3 670 000 670 000
+Annen innskutt egenkapital 155 037 51 009
+Sum innskutt egenkapital 825 037 721 009
+OPPTJENT EGENKAPITAL
+Udekket tap -337 817 -150 095
+Sum opptjent egenkapital -337 817 -150 095
+Sum egenkapital 487 220 570 914
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Gjeld til kredittinstitusjoner 2 5 980 299 6 206 123
+Langsiktig konserngjeld 2 2 095 081 1545 081
+Sum annen langsiktig gjeld 8 075 380 7 751 204
+KORTSIKTIG GJELD
+Leverandgrgjeld 24 307 34 600
+Skyldig offentlige avgifter 1159 0
+Konserngjeld 2 0 57915
+Annen kortsiktig gjeld 35 011 32 420
+Sum kortsiktig gjeld 60 477 124 935
+Sum gjeld 8 135 857 7 876 139
+Sum egenkapital og gjeld 8 623 078 8 447 053
+
+Vennesla, 27.02.2026
+
+Styret i Okv8 Eiendom AS
+Rasmus Bandsholm Larsen Tallaksen
+
+styreleder/daglig leder
+
+OKV8 EIENDOM AS SIDE 4
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets dkonomiske levetid.
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belgp ved
+verdifall som forventes ikke a veere forbigaende. Gjenvinnbart belgp er det hgyeste av netto salgsverdi og
+verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstr@mmer knyttet til eiendelen. Nedskrivingen
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Oml¢psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+FORDRINGER
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Lénnskostnader
+Okv8 Eiendom AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Det er ikke gitt lan eller sikkerhetsstillelse til ledende personer
+Note 2 Anleggsmidler
+Bygninger Driftslds@re, Sum
+og tomter inventar ol.
+Anskaffelseskost pr. 01.01.25 8 267 399 160 127 8 427526
++ Tilgang kjgpte driftsmidler 103 954 103 954
+= Anskaffelseskost 31.12.25 8 371 353 160 127 8 531 480
+Akkumulerte avskrivninger 31.12.25 296 833 78357 375 190
+= Bokfgrt verdi 31.12.25 8 074 520 81770 8 156 290
+Arets ordinzere avskrivninger 117 434 31940 149 374
+Dkonomisk levetid 0-50 ar 5 ar
+
+Selskapet har pr 31.12.25 gjeld til Sparebank 1 SR-bank ASA pa kr 5 980 299, og til selskap i samme konsern
+pa kr 2 095 081. Selskapet har til gode kr 309 111 fra selskap i samme konsern.
+Tallaksen Invest AS har gitt et konsernbidrag pa kr 133 369
+Note 3 Aksjonzrer
+AKSJEKAPITALEN | OKV8 EIENDOM AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfgrt
+
+Ordinzre aksjer 1 000 670,0 670 000
+Sum 1 000 670 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+
+Ordinzere Eierandel Stemmeandel
+TALLAKSEN INVEST AS 1 000 100,0 100,0

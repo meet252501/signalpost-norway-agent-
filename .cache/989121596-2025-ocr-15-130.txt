@@ -1,0 +1,419 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 570167
+Virksomheten
+Organisasjonsnummer : 989 121 596
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: MARTIN KALAGER DRIFT AS
+Forretningsadresse: Tryms vei 8
+3089 HOLMES TRAND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Nils Martin Kalager
+Dato for fastsettelse av Aarsregnskapet: 19.06.2026
+Revisjon
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 11.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 121 596
+
+MARTIN KALAGER DRIFT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 0 2 000
+
+Annen driftsinntekt 0 568 513
+
+Sum inntekter 0 570 513
+
+Kostnader
+
+Lennskostnad 0 0
+
+Annen driftskostnad 92 063 73 108
+
+Sum kostnader 92 063 73 108
+
+Driftsresultat -92 063 497 405
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 15 803 18 843
+
+Sum finansinntekter 15 803 18 843
+
+Annen finanskostnad 261
+
+Sum finanskostnader 261
+
+Netto finans 15 542 18 843
+
+Resultat fer skattekostnad -76 521 516 248
+
+Skattekostnad -5 972 103 179
+
+Arsresultat -70 549 413 069
+
+Overfoeringer og
+
+disponeringer
+
+Ordinert utbytte 0 546 054
+
+Overferinger til/fra
+
+annen egenkapital -70 549 -132 985
+
+Sum overferinger og
+
+disponeringer -70 549 413 069
+Utskriftsdato 11.07.2026 Organisasjonsnr 989 121 596 Side 1 av 3
+
+Organisasjonsnr: 989 121 596
+MARTIN KALAGER DRIFT AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Finansielle anleggsmidler
+Investering i datterselskap 5 30 000 30 000
+Lan til foretak i samme
+konsern 50 367 47 991
+Sum finansielle
+anleggsmidler 80 367 77 991
+Sum anleggsmidler 80 367 77 991
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 60 948 106 335
+Sum fordringer 60 948 106 335
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 739 303 1 608 233
+Sum bankinnskudd,
+kontanter og lignende 739 303 1 608 233
+Sum omlepsmidler 800 251 1 714 568
+SUM ELENDELER 880 618 1 792 559
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+980 aksjer a kr. 100 98 000 980 000
+Overkurs 20 000 20 000
+Sum innskutt egenkapital 118 000 1 000 000
+Opptjent egenkapital
+Udekket tap 70 551 2
+Sum opptjent egenkapital -70 551 -2
+Sum egenkapital 47 449 999 998
+Gjeld
+Langsiktig gjeld
+
+Utskriftsdato 11.07.2026 Organisasjonsnr 989 121 596 Side 2 av 3
+
+Utsatt skatt 39 602 56 436
+Sum avsetninger for
+forpliktelser 39 602 56 436
+Annen langsiktig gjeld
+Sum langsiktig gjeld 39 602 56 436
+Kortsiktig gjeld
+Leveranderg)jeld 906 -2 376
+Betalbar skatt 0) 127 477
+Utbytte 0 546 054
+gjeld til nerstaende 792 660 64 969
+Sum kortsiktig gjeld 793 566 736 124
+Sum gjeld 833 168 792 560
+SUM EGENKAPITAL OG GJELD 880 617 1 792 558
+Utskriftsdato 11.07.2026 Organisasjonsnr 989 121 596 Side 3 av 3
+
+Organisasjonsnr: 989 121 596
+MARTIN KALAGER DRIFT AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+1
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven av 1998. Det er
+utarbeidet etter norske regnskapsstandarder. Det er reglene for sma
+foretak som er benyttet.
+Note
+2
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+3
+Antall Arsverk i regnskapsaret
+0.00
+Note
+4
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+0.00 0.00
+Sum lennskostnader Arets Fjorarets
+0.00 0.00
+Note
+5
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregns kap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Ja
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+
+Ingen transaksjoner med datterselskapet.
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+
+Samlet bele@p - foretak i samme konsermn Arets Fjorarets
+
+50367.00 47991.00
+
+Samlet forpliktelse til fordel for foretak i samme konsern
+Mer om tilknyttet selskap/datterselskap
+Selskapet eier alle de 30 aksjene i datterselskapet Happy Cheerbows AS, 3080
+Holmestrand. Stemmeandelen er ogsa 100 %. Kostpris for aksjene er kr.
+30.000,-. Selskapet gar med kr. 151.051 i overskudd og har positiv
+egenkapital pa kr. 782.306,-. Det har en formuesverdi pa kr. 782.567,-.
+Moderselskapet har ytt lan til datter-
+
+selskapet med kr. 50.367,-.
+
+LERVIK REVISJON 4 ate
+S Ben norske Revisortorening
+STATSAUTORISERT REVISOR TRYGVE LERVIK
+UAVHENGIG REVISORS BERETNING
+Til generalforsamlingen i Martin Kalager Drift AS
+Uttalelse om revisjonen av arsregnskapet
+Konklusjoa
+Vi har revidert Martin Kalager Drift AS' arsregnskap som viser et underskudd pa kr. -70.549. Arsregnskapet bestar av
+baianse pr. 31.12.2025, resuitatregnskap for regnskapsaret avsluttet pr. denne datoen og noter til 4rsregnskapet ,
+herunder et sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+. oppfyller arsregnskapet gieldende lovkrav, og
+. gir Arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31.12.2025
+og av dets resultat for regnskaps4ret avsluttet pr denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge.
+Grunnilag for konklusjonen
+Vi har gjennomfort revisjonen i samsvar med de internasjonale revisjonsstandardene International Standards on
+Auditing (ISA-ene). Vare oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors
+oppgaver og plikter ved revisjon av arsregnskapet. Vi er uavhengige av selskapet slik det kreves 1 lov,forskrift og
+International Code of Etichs for Professional Accountants (inkludert internasjonale uavhengighetsstandarder) utstedt av
+the international Ethics Standard Board for Accountants (IESBA-reglene), og vi har overholdt vare avrige etiske
+forpliktelser i samsvar med disse kravene. innhentet revisjonsbevis er etter var vurdering tilstrekkelig og
+hensiktsmessig som grunniag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Ledelsen er ansvarlig for 4 utarbeide arsregnskapet og for at det gir et rettvisende bilde i samsvar med regnskapslovens
+regler og god regnskapsskikk i Norge. Ledelsen er ogs4 ansvarlig for slik intern kontroil som den finner nedvendig for 4
+kunne utarbeide et arsregnskap som ikke inneholder vesentlig feilinformasjon, verken som folge av mistigheter eller
+utilsiktede feil.
+Ved utarbeidelsen av rsregnskapet ma ledelsen ta standpunkt ti] selskapets evne til fortsatt drift og opplyse om forhold
+av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for arsregnskapet sd lenge det ikke
+er sannsynlig at virksomheten vil bli avviklet.
+neers A AT TC
+Trygve Lervik Krakerpyveien 2, Telefon: 69 32 61 00 Bankgiro: 9235.15.43371
+Statsautorisert revisor Glommen Brygge Mobil: 9002 25 77 Revisor/foretaksnr.: 970 902 279 MVA
+Medlem av Den norske Revisorforening 1671 KRAKER@Y E-post: revisjon@online.no
+
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er 4 oppna betryggende sikkerhet for at 4rsregnskapet som hethet ikke inneholder vesentlig feilinformasjon,
+verken som falge av misligheter eller utilsiktede feil, og 4 avgi en revisjonsberetning som inneholder var konklusjon.
+Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti for at en revisjon utfart i samsvar med lov,
+forskrift og god revisjonsskikk i Norge, herunder [SA-~ene, ailtid vil avdekke vesentlig feilinformasjon som eksisterer.
+Feilinformasjon kan oppst4 som falge av misligheter eller utilsiktede feil. Feilinformasjon blir vurdert som vesentlig
+dersom den enkeltvis eller samlet med rimelighet kan forventes 4 pavirke okonomiske beslutninger som brukerne
+foretar basert pa arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til https://revisorforeningen.no/revisjonsberetninger
+Krakeroy 11.06.2026
+LERVIK REVI
+
+___-Fareteksnr. 970902279
+lw ik
+Statsautgrigert revisor
+
+Resultatregnskap
+Martin Kalager Drift AS
+Note 2025 2024
+Salgsinntekter 0 2 000
+Andre driftsinntekter 1 0 §68 513
+Suit driisimtexter 3 516 513
+Annen driftskostnad 3 92 063 73 108
+Sum driftskostnad 92 063 73 108
+Driftsresultat -92 063 497 405
+Annen renteinntekt 15 803 18 843
+Sum finansinntekter 15 803 18 843
+Annen rentekostnad 261 0
+Sum finanskostnader 261 0
+Cenees wndén Benne natn 1& GAD 12 OA
+WALL 440 64 SASS PUTS aw wees aus we aw
+Ordinzrt resultat for skattekostnad -76 521 516 248
+Skattekostnad pa ordinzert resultat 8 10 862 117 362
+Endring i utesatt skatt/skatteforde! -16 834 -14 183
+Ordinzrt resultat -70 549 413 069
+Arsresultat -70 549 413 069
+Overfort annen egenkapital -10 549 -132 985
+Avsatt til utbytte 0 546 054
+Sum disponert -70 549 413 069
+Martin Kalager Drift AS Org. nr. 989121596
+
+.
+/ Balanse
+Martin Kalager Drift AS
+Note 2025 2024
+Egenkapital og gield
+Egenkapital
+lmnskuti egenkapital
+Selskapskapital 2 98 000 980 000
+Overkurs 20 000 20 000
+Sum innskutt egenkapital 118 000 1 000 000
+Opptjent egenkapital
+Annen egeiikapiial -76 531 ~b
+Sum opptjent egenkapital -170 551 -2
+Sum egenkapital 47 449 999 998
+Langsiktig gjeld
+Avsetning for forpiikteiser
+Utsatt skatt 39 602 56 436
+Kortsiktig gjeld
+Leverandergjeld 1 906 -2 316
+Beialbar skaii rs) 0 iaz 477
+Utbytte 0 546 054
+Gjeld til aksjoner 0g neerstaende 5 792 660 64 969
+Sum egenkapital og gjeld 880 617 1 792 557
+Holmestrand, , 15.04.2026
+Styret for Martin Kalager Drift AS
+Martin Kalager '
+Martin Kalager Drift AS Org.nr. 989121596
+
+Noter til arsregnskapet
+Note 1 Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven 1998. Det er utarbeidet etter norske
+regnskapsstandarder. I utgangspunktet er det reglene for regnskapsoppstilling for sma foretak som
+er benyttet.
+Hovedregel for vurdering og klassifisering av eiendeler og gjeld.
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+Klassifisert som omlopsmidler. Fordringer som skal tilbakebetales innen et ar er uansett klassifisert
+som omlopsmidler. Ved klassifiseringen av kortsiktig og langsiktig gjeld er analoge kriterier lagt
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet
+forventes ikke 4 veere forbigaende. Anleggsmidler med begrenset okonomisk levetid avskrives
+planmessig. Langsiktig gjeld balanseferes til nominelt mottatt belop pa etableringstidspunktet.
+Langsiktig gjeld oppskrives ikke til virkelig verdi som folge av renteendring.
+Omlgpsmidier vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt mottatt belop pa etableringstidspunktet. Kortsiktig gjeld oppskrives ikke
+til virkelig verdi som felge av renteendring. Enkelte poster er vurdert etter andre regler, og
+redegjeres for nedenfor.
+Varige driftsmidler
+Varice Aw ftawmicdlaw avelewiesan away Farvantat alsanamials lewatid Bavelesirminenwn an AY emer hovedrece!
+a ay pennant a7 ee we vwasees S/F ALLA, A Stakes 22V ANd A VALE SL Sh wate £0 Vad Sg 4
+fordelt linezert over antatt akonomisk levetid.
+Fordringer
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjores pa grunnlag av en individuell vurdering av de enkelte fordringene. I
+tillaaed cigreas dat far avricre blundefardringer an yvenagificart aucatninea far 5 Aabla antatt tan
+NTF FS EN RR NE OE RS NS fe RRR RN NORE SR SS Neder Seeee Seas yews
+Skatter
+Skatter kostnadsfores nar de paloper, det vil si at skattekostnaden er knyttet til det
+regnskapsmessige resultat for skatt.
+Skattekostnaden bestar av betalbar skatt (skatt pa arets skattepliktige inntekt) og endring i netto
+utsatt skatt. Skattekostnaden fordeles pa ordinsert resultat og resultat av ckstracrdinare poster i
+henhold til skattegrunnlaget. Utsatt skatt og utsatt skattefordel er presentert netto i balansen.
+
+Balanse
+Martin Kalager Drift AS
+| Note 2025 2024
+
+Eiendeler
+
+Anleggsmidler
+
+iminatericiie ciendelerx
+
+Varige driftsmidler
+
+Finansielle anleggsmidler
+
+livesieriiger i Gatieiseiskap 3 36 OGG 36 GOS
+Lan til foretak i samme konsern 50 367 47 991
+Sum finansielle anleggsmidler 80 367 17 991
+Sum anleggsmidler 80 367 77 991
+Omiepsmidler
+
+Fordringer
+
+Kundefordringer 7 60 948 106 335
+Sum fordringer 60 546 106 335
+Investeringer
+Bankinnskudd,kontanter o.1. 739 303 1 608 233
+Sum omlspsmidler 800 251 1 714 567
+Sum eiendeler 880 617 1 792 S58
+
+, Note 2. Aksjekapital og aksjonzrinformasjon
+
+Aksjckapitalen isciskapet pr 21.12 bestar av:
+
+Antall Palydende Balansefort
+Aksjer 980 1 00% 980 00F.
+Martin Kalager, 3080 Holmestrand eier alle
+aksjene. Det er bare en aksjeklasse.
+Note 3. Lann og godtgjerelse
+Selskapet har ingen ansatte. Det er ikke utbetalt godtgjarelse til styret. Tit revisor er utbetalt kr.
+18.125,-. Alt gjelder revisjon. Selskapet har ikke OTP-pensjon, og har ikke plikt til 4 betale slik
+pensjon.
+Note 4. Lan og sikkerhet gitt til ledende personer
+Det er ikke gitt lan eller sikkerhetsstillelse til noen ledende personer 1 selskapet.
+Note 5. Aksjer i datterselskap.
+Seiskapet eier aiie de 30 aksjene i datterseiskapet Happy Cneerbows AS, 3080 Hoimestrand.
+Stemmeandel er ogsé 100 % . Kostpris for aksjene er kr. 30.000,-. Selskapet gar med
+overskudd kr. 151.051 og har positiv egenkapital pa kr. 782.306,-. Det har en formuesverdi pa
+kr. 782.567,-. Moder-selskapet har ytt lan til datterselskapet med kr. 50.367.
+Note 6. Varige driftsmidler.
+Eiendommen bie soigt i 2024. Gevinsten i sin heihet tatt tii inntekt samme ar.
+Note 7. Fordringer og gjeld.
+Alte fordringer forfaller til betaling for ett ar er gatt, all gjeld forfaller for 5 ar er gatt.
+Note 8. Skatter.
+
+2025 2024
+Arets under-/over-skudd far skatt -76.521 516.248
+Inntektsforing av gevinst- og tapskonto 51.576 64.470
+Grunnlag for arets skatt -24.945 580.718
+22% skatt 0 127.757
+Resiskait/faii tiioake +10.862 - 10.396
+-Endring i utsatt skatteforpliktelse -16.834 -14.183
+Skattekostnad 79.972 103.179

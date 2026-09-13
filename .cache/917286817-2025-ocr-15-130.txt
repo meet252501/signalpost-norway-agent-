@@ -1,0 +1,437 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 447323
+Virksomheten
+Organisasjonsnummer : 917 286 817
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SK DEKKSERVICE AS
+Forretningsadresse: Kniplia 17F
+2022 GJERDRUM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Torry Karlsen
+Dato for fastsettelse av arsregnskapet: 22.04.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 18.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 917 286 817
+
+SK DEKKSERVICE AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Endring i beholdning av
+
+varer under tilvirkning
+
+og ferdig tilvirkede varer 16 368 0
+
+Annen driftskostnad 15 367 14 504
+
+Sum kostnader 31 735 14 504
+
+Driftsresultat -31 735 -14 504
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 0
+
+Annen rentekostnad 0 0
+
+Sum finanskostnader e) e)
+
+Netto finans e) e)
+
+Resultat fer skattekostnad -31 735 -14 504
+
+Arsresultat -31 735 -14 504
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -31 735 -14 504
+Utskriftsdato 18.05.2026 Organisasjonsnr 917 286 817 Side 1 av 3
+
+Organisasjonsnr: 917 286 817
+SK DEKKSERVICE AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Andre langsiktige
+fordringer 1 965 965
+Sum finansielle
+anleggsmidler 965 965
+Sum anleggsmidler 965 965
+Omlepsmidler
+Varer
+Varer 0 16 368
+Fordringer
+Andre kortsiktige
+fordringer 0 425
+Sum fordringer 0 425
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 504 754
+Sum bankinnskudd,
+kontanter og lignende 504 754
+Sum omlepsmidler 504 17 547
+SUM EILENDELER 1 469 18 512
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 43 500 43 500
+Sum innskutt egenkapital 43 500 43 500
+Opptjent egenkapital
+
+Utskriftsdato 18.05.2026 Organisasjonsnr 917 286 817 Side 2 av 3
+
+Udekket tap 150 706 118 971
+
+Sum opptjent egenkapital -150 706 -118 971
+
+Sum egenkapital -107 206 -75 471
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 fe]
+
+Kortsiktig gjeld
+
+Gjeld til Torry K (eier) 2 17 377 3 117
+
+Leveranderg)jeld 1 681 1 250
+
+Annen kortsiktig gjeld 89 616 89 616
+
+Sum kortsiktig gjeld 108 675 93 983
+
+Sum gjeld 108 675 93 983
+
+SUM EGENKAPITAL OG GJELD 1 469 18 512
+Utskriftsdato 18.05.2026 Organisasjonsnr 917 286 817 Side 3 av 3
+
+Organisasjonsnr: 917 286 817
+
+SK DEKKSERVICE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Eiendeler som er knyttet til varekretslepet er klassifisert
+
+som omlepsmidler. Fordringer klassifiseres som oml@psmidler hvis de
+forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og
+
+virkelig verdi. Kortsiktig gjeld balanseferes til nominelt belep pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes 4 vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer
+
+og andre fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning til forventet tap. Avsetning til tap gje@res pa grunnlag av
+individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er falgende
+
+regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefort.
+
+Selskapet
+
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+1
+
+Fordringer
+
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+965.00
+
+Mer om fordringer
+
+Note
+
+2
+
+Gjeld
+
+Gjeld som forfaller til betaling mer enn fem Ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+
+Balansefoert verdi av de pantsatte eiendeler
+
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+
+Mer om gjeld
+
+Gjeld er angitt i gjeldsbrev. Eier har gitt lan til loapende
+driftskostnader.
+
+Arsregnskap for
+SK DEKKSERVICE AS
+917286817
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+SK DEKKSERVICE AS
+O17 286 817
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Endring i beholdning av varer under tilvirkning og ferdig -16 368 0
+tilvirkede varer
+Annen driftskostnad cnn wnement® SEF 0-14 504
+Sum driftskostnader -31 735 -14 504
+Driftsresultat -31 735 -14 504
+Finanskostnader
+Annen rentekostnad ee ee 6
+Sum finanskostnader 0 0
+Netto finans 0 0
+Arsresultat Te eT 504
+Overferinger
+Udekket tap ead 735-14 504
+Sum overferinger -31 735 -14 504
+
+a
+
+SK DEKKSERVICE AS
+917 286 817
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Andre langsiktige fordringer ee, < 22
+Sum finansielle anleggsmidler 965 965
+Sum anleggsmidier 965 965
+Omlgpsmidier
+Varer
+Vater connaeimnn enn Oo geen ne 8 368
+Sum varer 0 16 368
+Fordringer
+Andre kortsiktige fordringer ce <2
+Sum fordringer 0 425
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende en A
+Sum bankinnskudd, kontanter og lignende 504 754
+Sum oml@psmidler 504 17 547
+SUM EIENDELER 1 469 18 512
+
+SK DEKKSERVICE AS
+917 286 817
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital ci ert S 5000. 43.500
+Sum innskutt egenkapital 43 500 43 500
+Opptjent egenkapital
+Udekket tap eee tS 0 7060-118 974
+Sum opptjent egenkapital -150 706 ~118 971
+Sum egenkapital ~107 206 -75 471
+Gjeld
+Kortsiktig gjeld
+Gjeld til Torry K (eier) 2 17 377 3117
+Leverandargjeld 1681 1 250
+Annen kortsiktig gjeld Seen 89616 89 616
+Sum kortsiktig gjeld 108 675 93 983
+Sum gjeld 108 675 93 983
+SUM EGENKAPITAL OG GJELD 4 469 18 512
+GJERDRUM, 22.04.2026 y
+
+{ f A — !
+
+Robin Skoog f Tofty Karisen
+styrets leder / daglig leder styremediem
+
+SK DEKKSERVICE AS
+
+917 286 817
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet tii varekretslapet er klassifisert som omlgpsmidler. Fordringer klassifiseres som
+
+omigpsmidier hvis de forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld
+
+som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefares til nominelt
+
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfart i balansen til palydende etter fradrag for avsetning til forventet
+
+tap. Avsetning til tap gj@res pa grunniag av individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Leieavialer er ikke balansefart.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Fordringer
+
+‘Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt 965
+
+Note 2 - Gjeld og garantiforpliktelser
+
+Mer om gjeld
+
+Gjeld er angitt i gijeldsbrev. Eier har gitt lan ti! lopende driftskostnader.
+
+Antall arsverk
+
+Selskapet har ikke hatt ansatte i lopet av regnskapsaret.
+
+Manuell note
+
+Selskapet har ikke hatt aktivitet de senere ar. Styret ansker a fortsette driften av selskapet. Arsregnskapet er
+
+satt opp under forutsetning om fortsatt drift.
+eee
+
+Generalforsamling
+GENERALFORSAMLINGSPROTOKOLL
+for generalforsamling i
+SK Dekkservice AS - 917 286 817
+Generalforsamling i SK Dekkservice AS ble avholdt i Gjerdrum, 22. April 2026.
+Fe@lgende aksjonzrer var til stede:
+Navn: Antall aksjer/stemmer:
+Robin Skoog 500
+Torry Karlsen 950
+Saledes var 100 % av aksjekapitalen representert.
+1. Apning av generalforsamlingen
+Styrets leder Robin Skoog apnet generalforsamlingen.
+2. Godkjennelse av innkalling og dagsorden
+Innkalling og dagsorden ble godkjent.
+3. Valg av mateleder og én person til 4 undertegne protokolien
+Torry Karlsen ble vaigt til mateleder.
+4. Arsoppgijer
+Selskapets regnskap for 2025 ble gjennomgatt, Det fremlagte resultatregnskap og balanse bie bestluttet fastsatt
+som selskapets offisielle regnskap for 2025.
+5. Disponering av arsresultatet
+Generalforsamlingen godkjente at arets underskudd overferes til udekket tap. Det ble besluttet ikke a utdele
+aksjeutbytte for 2025.
+6. Godkjennelse av godtgjarelse til styrets medlemmer
+
+Det ble besluttet 4 ikke gi noen godtgjarelse til styret.
+7. Valg til styret
+Det sittende styret ble gjenvalgt.
+Flere saker forela ikke til behandling og generalforsamlingen bie hevet.
+Gjerdrum, 22/4-2026
+a
+
+ae
+fin Gog _f.l——
+Robin Skoog Torry Karlsen
+Styreleder Meteleder

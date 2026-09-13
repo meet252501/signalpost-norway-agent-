@@ -1,0 +1,274 @@
+oe
+= a .
+== Bronnoysundregistrene
+AVVIKLINGSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 359101
+Virksomheten
+Organisasjonsnummer : 824 367 922
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: TEMIR HOLDING AS
+Forretningsadresse: Langgaten 47
+3080 HOLMES TRAND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Hans Petter Narverud
+Dato for fastsettelse av Aarsregnskapet: 26.03.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 22.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 824 367 922
+
+TEMIR HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 22 136 11 060
+
+Sum kostnader 22 136 11 060
+
+Driftsresultat -22 136 -11 060
+
+Inntekt pa inv. i
+
+datterselskap og
+
+tilknyttet selskap 3 50 000 55 779
+
+Annen finanskostnad 20 230 28 600
+
+Netto finans 29 770 27 179
+
+Arsresultat 5 938 12 574
+
+Overferinger og
+
+disponeringer
+
+Overferinger annen
+
+egenkapital 5 5 938 12 573
+
+Sum overferinger og
+
+disponeringer 5 938 12 573
+Utskriftsdato 22.04.2026 Organisasjonsnr 824 367 922 Side 1 av 3
+
+Organisasjonsnr: 824 367 922
+
+TEMIR HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 2 1 129 000 1 129 000
+
+Sum finansielle
+
+anleggsmidler 1 129 000 1 129 000
+
+Sum anleggsmidler 1 129 000 1 129 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre fordringer 3 50 000 55 779
+
+Sum fordringer 50 000 55 779
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Sum bankinnskudd,
+
+kontanter og lignende 53 847 66 340
+
+Sum omlepsmidler 103 847 122 119
+
+SUM ELENDELER 1 232 847 1 251 119
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 6 30 000 30 000
+
+Overkurs 5 20 000 20 000
+
+Sum innskutt egenkapital 50 000 50 000
+
+Opptjent egenkapital
+
+Annen egenkapital 5 618 510 612 572
+
+Sum opptjent egenkapital 618 510 612 572
+
+Sum egenkapital 668 510 662 572
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 361 157 485 000
+
+Sum annen langsiktig gjeld 361 157 485 000
+Utskriftsdato 22.04.2026 Organisasjonsnr 824 367 922 Side 2 av 3
+
+Kortsiktig gjeld
+
+Leverandergjeld 3 1 484
+
+Betalbar skatt 4 1 696 3 546
+Annen kortsiktig gjeld 3 200 000 100 000
+Sum kortsiktig gjeld 203 180 103 546
+Sum gjeld 564 337 588 546
+SUM EGENKAPITAL OG GJELD 1 232 847 1 251 118
+
+Utskriftsdato 22.04.2026 Organisasjonsnr 824 367 922 Side 3 av 3
+
+Organisasjonsnr: 824 367 922
+
+TEMIR HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Temir Holding AS
+Noter til regnskapet for 2025
+Note 1 - Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+Datterselskap/tilknyttet selskap
+Datterselskapet og tilknyttede selskaper vurderes etter kostmetoden i selskapsregnskapet. Investeringen er
+vurdert til anskaffelseskost for aksjene med mindre nedskrivning har vzert nédvendig. Det er foretatt
+nedskrivning til virkelig verdi nar verdifall skyldes arsaker som ikke kan antas a vzere forbigaende og det ma
+anses ngdvendig etter god regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke
+lenger er til stede.
+Utbytte og andre utdelinger er inntektsfgrt samme ar som det er avsatt i datterselskapet. Overstiger utbytte
+andel av tilbakeholdt resultat etter kjgpet, representerer den overskytende del tilbakebetaling av investert
+kapital, og utdelingene er fratrukket investeringens verdi i balansen.
+Klassifisering og vurdering av balanseposter
+Omlgpsmidler og kortsiktig gjeld omfatter poster som forfaller til betaling innen ett ar etter balansedagen,
+samt poster som knytter seg til varekretslgpet. Ovrige poster er klassifisert som anleggsmiddel/langsiktig
+gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til
+nominelt belgp pa etableringstidspunktet.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi ved verdifall som ikke forventes
+a vere forbigaende. Anleggsmidler med begrenset gkonomisk levetid avskrives planmessig. Langsiktig gjeld
+balansef¢gres til nominelt belgp pa etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfgrt i balansen til palydende etter fradrag for avsetning til
+forventet tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene. |
+tillegg gjigres det for gvrige kundefordringer en uspesifisert avsetning for a dekke antatt tap.
+Skatter
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er utlignet og nettofgrt. Netto utsatt skattefordel balansefgres i den grad det er
+sannsynlig at denne kan bli nyttiggjort.
+
+Temir Holding AS
+Noter til regnskapet for 2025
+Note 2 - Datterselskap, tilknyttet selskap m v
+Navn pa morselskap Forretningskontor
+Langgaten 47 3080 HOLMESTRAND 0702
+Temir Holding AS Holmestrand
+Datterselskap er utelatt fra konsolideringen
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Lite selskap
+Anskaffelses- Eier- Stemme- Resultat Egenkapital Bokf¢rt verdi
+Selskap ar Kontor andel andel 2025 pr. 31.12 pr. 31.12
+Brannstrategi AS 2022 Krokkleiva 100 % 100 % 225 035 655 126 1129 000
+Note 3 - Mellomvzerende med selskap i samme konsern og tilknyttet selskap
+Fordringer 2025 2024
+Andre fordringer 50 000 55 779
+Gjeld 2025 2024
+Annen kortsiktig gjeld 200 000 100 000
+Note 4 - Skatt
+Arets skattekostnad fordeler seg pa: 2025 2024
+Betalbar skatt 1 696 3 546
+Arets totale skattekostnad 1 696 3 546
+Beregning av arets skattegrunnlag: 2025 2024
+Ordinzert resultat for skattekostnad 7 634 16 119
+Permanente forskjeller 73 0
+Resultatfgrt konsernbidrag -50 000 -55 779
+Alminnelig inntekt -42 293 -39 660
+Mottatt konsernbidrag 50 000 55 779
+Arets skattegrunnlag 7707 16 119
+Betalbar skatt (22%) av arets skattegrunnlag 1 696 3 546
+
+Temir Holding AS
+Noter til regnskapet for 2025
+Note 5 - Egenkapital
+Aksjekapital Overkurs Annen Sum
+egenkapital
+Egenkapital 01.01.2025 30 000 20 000 612 573 662 573
+Arsresultat 0 0 5 938 5 938
+Egenkapital 31.12.2025 30 000 20 000 618 511 668 511
+Note 6 - Aksjekapital og aksjonzerinformasjon
+Aksjekapitalen bestar av:
+Antall Palydende Balansefort
+Ordinzre aksjer 100 300 30 000
+Oversikt over aksjonzerene i selskapet pr. 31.12:
+Ordinzre Eier- Stemme-
+aksjer andel andel
+Terje Reginiussen, styreleder og daglig leder 100 100 % 100 %

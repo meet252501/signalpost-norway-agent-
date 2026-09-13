@@ -1,0 +1,316 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 752469
+Virksomheten
+Organisasjonsnummer : 926 578 286
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: STAY OSLO AS
+Forretningsadresse: Egnehjemveien 10
+0196 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Jonatan Tollas Nation
+Dato for fastsettelse av arsregnskapet: 05.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 11.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 926 578 286
+
+STAY OSLO AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 531 226 417 000
+
+Sum inntekter 531 226 417 000
+
+Kostnader
+
+Avskrivning pa varige
+
+drifttsmidler 3 156 359 156 359
+
+Annen driftskostnad 108 064 141 534
+
+Sum kostnader 264 423 297 893
+
+Driftsresultat 266 803 119 107
+
+Annen rentekostnad 421 992 426 031
+
+Sum finanskostnader 421 992 426 O31
+
+Netto finans -421 992 -426 031
+
+Resultat for skattekostnad -155 189 -306 924
+
+Arsresultat -155 189 -306 924
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -155 189 -306 924
+
+Sum overferinger og
+
+disponeringer -155 189 -306 924
+Utskriftsdato 11.08.2026 Organisasjonsnr 926 578 286 Side 1 av 3
+
+Organisasjonsnr: 926 578 286
+
+STAY OSLO AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 3 7 348 877 7 505 236
+
+Sum varige driftsmidler 7 348 877 7 505 236
+
+Sum anleggsmidler 7 348 877 7 505 236
+
+Omlepsmidler
+
+Varer
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 115 185 131 940
+
+Sum bankinnskudd,
+
+kontanter og lignende 115 185 131 940
+
+Sum omlepsmidler 115 185 131 940
+
+SUM ELENDELER 7 464 062 7 637 176
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 1 200 000 1 200 000
+
+Sum innskutt egenkapital 1 200 000 1 200 000
+
+Opptjent egenkapital
+
+@reavrunding 1
+
+Udekket tap 892 337 737 147
+
+Sum opptjent egenkapital -892 336 -737 147
+
+Sum egenkapital 307 664 462 853
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 5 618 316 5 640 680
+
+@vrig langsiktig gjeld 1 500 000 1 500 000
+
+Sum annen langsiktig gjeld 7 118 316 7 140 680
+Utskriftsdato 11.08.2026 Organisasjonsnr 926 578 286 Side 2 av 3
+
+Sum langsiktig gjeld 7 118 316 7 140 680
+Kortsiktig gjeld
+
+Leverandergjeld 24 619 20 180
+Annen kortsiktig gjeld 13 463 13 463
+Sum kortsiktig gjeld 38 082 33 643
+Sum gjeld 7 156 398 7 #174 323
+SUM EGENKAPITAL OG GJELD 7 464 062 7 637 176
+
+Utskriftsdato 11.08.2026 Organisasjonsnr 926 578 286 Side 3 av 3
+
+Organisasjonsnr: 926 578 286
+
+STAY OSLO AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Kjap, salg og utleie av fast eiendom,
+
+investeringer i aksjer og andeler samt hva herved star i forbindelse,
+
+herunder deltakelse i andre selskaper.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Note
+
+4
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+3
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+7817954.00
+
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+7817954.00
+
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+469077.00
+
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+7348877.00
+
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+156359.00
+
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler

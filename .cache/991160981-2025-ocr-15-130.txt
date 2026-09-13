@@ -1,0 +1,348 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 431793
+Virksomheten
+Organisasjonsnummer : 991 160 981
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: DURBAN AS
+Forretningsadresse: Nattlandsveien 89
+5094 BERGEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Per Gunnar Johnsen
+Dato for fastsettelse av arsregnskapet: 08.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 11.05.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 991 160 981
+
+DURBAN AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 212 887 262 204
+
+Sum inntekter 212 887 262 204
+
+Kostnader
+
+Annen driftskostnad 299 589 190 210
+
+Sum kostnader 1,2 299 589 190 210
+
+Driftsresultat -86 702 71 994
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 10 402 12 144
+
+Sum finansinntekter 10 402 12 144
+
+Annen rentekostnad 133 282
+
+Sum finanskostnader 133 282
+
+Netto finans 10 269 11 862
+
+Resultat fer skattekostnad -76 433 83 856
+
+Skattekostnad 18 510
+
+Arsresultat -76 433 65 346
+
+Totalresultat -76 433 65 346
+
+Overfoeringer og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -76 433 65 346
+
+Sum overferinger og
+
+disponeringer -76 433 65 346
+Utskriftsdato 11.05.2026 Organisasjonsnr 991 160 981 Side 1 av 3
+
+Organisasjonsnr: 991 160 981
+
+DURBAN AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 3 150 000 150 000
+
+Sum finansielle
+
+anleggsmidler 150 000 150 000
+
+Sum anleggsmidler 150 000 150 000
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 215 076 367 056
+
+Sum bankinnskudd,
+
+kontanter og lignende 215 076 367 056
+
+Sum omlepsmidler 4 215 076 367 056
+
+SUM ELENDELER 365 076 517 056
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 100 000 100 000
+
+Annen innskutt egenkapital 0 0
+
+Sum innskutt egenkapital 100 000 100 000
+
+Opptijent egenkapital
+
+Annen egenkapital 265 076 341 509
+Utskriftsdato 11.05.2026 Organisasjonsnr 991 160 981 Side 2 av 3
+
+Sum opptjent egenkapital 265 076 341 509
+
+Sum egenkapital 365 076 441 509
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Betalbar skatt 18 510
+
+Annen kortsiktig gjeld 57 037
+
+Sum kortsiktig gjeld 0 75 547
+
+Sum gjeld 0 75 547
+
+SUM EGENKAPITAL OG GJELD 365 076 517 056
+Utskriftsdato 11.05.2026 Organisasjonsnr 991 160 981 Side 3 av 3
+
+Organisasjonsnr: 991 160 981
+
+DURBAN AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven 1998. Det er
+utarbeidet etter norske regnskapsstandarder. I utgangspunktet er det
+reglene for regnskapsoppstilling for sma foretak som er
+
+benyttet.
+
+Hovedregel for vurdering og klassifisering av eiendeler og
+
+gjeld.
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som
+anleggsmidler. Andre eiendeler er klassifisert som omle@psmidler. Fordringer
+som skal tilbakebetales innen et ar er uansett klassifisert som
+omlepsmidler. Ved klassifiseringen av kortsiktig og langsiktig gjeld er
+analoge kriterier lagt til grunn.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet
+forventes ikke a vere forbigaende. Anleggsmidler med begrenset skonomisk
+levetid avskrives planmessig. Langsiktig gjeld balansefores til nominelt
+mottatt belep pa etableringstidspunktet. Langsiktig gjeld oppskrives ikke
+til virkelig verdi som felge av renteendring.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt mottatt belgep pa etableringstidspunktet.
+Kortsiktig gjeld oppskrives ikke til virkelig verdi som falge av
+renteendring. Enkelte poster er vurdert etter andre regler, og redegjores
+for nedenfor.
+
+Varige driftsmidler
+
+Varige driftsmidler avskrives over
+
+forventet @konomisk levetid. Avskrivningene er som hovedregel fordelt
+lineert over antatt skonomisk levetid.
+
+Fordringer
+
+Kundefordringer og andre
+
+fordringer oppferes til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene. I tillegg gj@res det for a@vrige kundefordringer en
+uspesifisert avsetning for a dekke antatt tap.
+
+Skatter
+
+Skatter
+
+kostnadsfores nar de paleper, det vil si at skattekostnaden er knyttet til
+det regnskapsmessige resultat for skatt.
+
+Skattekostnaden bestar av
+
+betalbar skatt (skatt pa arets skattepliktige inntekt) og endring i netto
+utsatt skatt. Skattekostnaden fordeles pa ordinert resultat og resultat av
+ekstraordinere poster i henhold til skattegrunnlaget. Utsatt skatt og
+utsatt skattefordel er presentert netto i balansen. Utsatt skattefordel
+balansefgeres ikke.
+
+Virksomhetens art og hvor den drives
+
+Selskapet leverer
+
+helsetjenester til Forsvaret. Selskapet har sitt hovedkontor i Bergen
+Kommune.
+
+Note
+
+1
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Spesifisering av resultatregnskapet
+
+Lennkostnader
+
+Mer om arsverk og lenn
+
+Selskapet har ikke ansatte.
+
+Note
+
+3
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregnskap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Nei
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Samlet forpliktelse til fordel for foretak i samme konsern
+
+Mer om tilknyttet selskap/datterselskap
+
+Selskapet eier 50% av aksjene i Mitral AS. Selskapet leier lokaler av Mitral
+AS, og har betalt kr 40 000,- for leie av lokaler ila regnskapsaret.
+Note
+
+4
+
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+Mer om lan og sikkerhetsstillelse

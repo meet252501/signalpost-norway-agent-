@@ -1,0 +1,484 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 323688
+Enheten
+Organisasjonsnummer : 935 728 118
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: AR SOLUTIONS AS
+Forretningsadresse: Lagaskarvegen 43A
+5724 STANGHELLE
+Regnskapsar
+Arsregnskapets periode: 11.06.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Anders Jin Risnes
+Dato for fastsettelse av arsregnskapet: 01.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 03.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 935 728 118
+
+AR SOLUTIONS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREKNESKAP
+
+Inntekter
+
+Salgsinntekt 5 865
+
+Annen driftsinntekt 30 000
+
+Sum inntekter 35 865
+
+Kostnader
+
+Varekostnad 1 235
+
+Annen driftskostnad 127 046
+
+Sum kostnader 128 281
+
+Driftsresultat -92 416
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0
+
+Annan rentekostnad 15 237
+
+Sum finanskostnader 15 237
+
+Netto finans -15 237
+
+Resultat fer skattekostnad -107 653
+
+Arsresultat -107 653 )
+
+Arsresultat etter
+
+minoritetsinteresser -107 653
+
+Sum resultatkomponent for
+
+IFRS-foretak 0
+
+Totalresultat -107 653
+
+Overferingar og
+
+disponeringar
+
+Udekt tap -107 654
+
+Sum overferingar og
+
+disponeringar -107 653
+Utskrifttsdato 03.03.2026 Organisasjonsnr 935 728 118 Side 1 av 3
+
+Organisasjonsnr: 935 728 118
+
+AR SOLUTIONS AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIGEDELAR
+
+Anleggsmiddel
+
+Imnaterielle eigedelar
+
+Sum immaterielle eigedelar 0
+
+Varige driftsmiddel
+
+Tomter, bygninger og
+
+annen fast eiendom 3 800 000
+
+Sum varige driftsmiddel g00 000
+
+Finansielle anleggsmiddel
+
+Sum finansielle
+
+anleggsmiddel 0
+
+Sum anleggsmiddel g800 000
+
+Omlepsmiddel
+
+Varer
+
+Sum varer 0
+
+Krav
+
+Andre kortsiktige
+
+fordringer 29
+
+Sum krav 29
+
+Investeringar
+
+Sum investeringar 0
+
+Bankinnskot, kontantar og
+
+liknande
+
+Bankinnskudd, kontanter o.
+
+1. 29 317
+
+Sum bankinnskot,
+
+kontantar og liknande 29 317
+
+Sum omlepsmiddel 29 346
+
+SUM EIGEDELAR 829 346
+
+BALANSE - EIGENKAPITAL OG
+
+GJELD
+
+Eigenkapital
+
+Innskoten eigenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000
+
+Sum innskoten eigenkapital 30 000
+Utskriftsdato 03.03.2026 Organisasjonsnr 935 728 118 Side 2 av 3
+
+Opptent eigenkapital
+
+Udekt tap 107 654
+
+Sum opptent eigenkapital -107 653
+
+Sum eigenkapital -77 653
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetjingar for plikter 0
+
+Anna langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjonar 791 999
+
+@vrig langsiktig gjeld 115 000
+
+Sum anna langsiktig gjeld 906 999
+
+Sum langsiktig gjeld 906 999
+
+Kortsiktig gjeld
+
+Sum kortsiktig gjeld 0
+
+Sum gjeld 906 999
+
+SUM EIGENKAPITAL OG GJELD 829 346
+Utskriftsdato 03.03.2026 Organisasjonsnr 935 728 118 Side 3 av 3
+
+Organisasjonsnr: 935 728 118
+
+AR SOLUTIONS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Rekneskapsprinsipp
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Stanghelle
+
+Virksomhetens art
+
+Kjap, salg og utleie av eiendom.
+
+Forvaltning og vedlikehold av eiendom.
+
+Note
+2
+Er det usikkerheit om vidare drift?: Nei
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre
+drift forutsetter at selskapet
+oppnar planlagt inntektsvekst og/eller
+tilfersel av finansiering. Arsregnskapet er avlagt under forutsetning
+om
+fortsatt drift, men det foreligger usikkerhet knyttet til om
+forutsetningene oppnas.
+Note
+4
+Tal pa Aarsverk i rekneskapsaret
+0.00
+Sum Belgap
+Note
+3
+Varige driftsmiddel og immaterielle eigedelar
+Tilgang i aret Varige driftsmiddel Immaterielle eiged.
+800000.00
+Anskaffingskost 31.12. Varige driftsmiddel  Immaterielle eiged.
+800000.00
+Balansefort verdi 31.12. Varige driftsmiddel Immaterielle eiged.
+800000.00
+Anskaffingskost - balanseferte lanekostnader, eigentilvirka anleggsmiddel
+Goodwill spesifisert for kvar enkelt verksemdkjep
+Avskrivingsplan for goodwill som er lenger enn fem ar - begrunning
+Meir om varige driftsmiddel/immaterielle eigedelar
+Kons ernrekneskap
+Morselskapet sitt namn
+Forretningskontor for morselskapet
+Grunn til at dotterselskap ikkje er tatt med i konsolideringa
+Samla_ belgp - tilknytt selskap Arets Fjorarets
+Samla_ belep - foretak i samme konsern Arets Fjorarets
+
+Samla_ beloap - foretak i samme konsern Arets Fjorarets
+
+Samla_ beloap - felles kontrollert verksemd Arets Fjorarets
+Pantstillingar Belap
+Behaldning av_eigne aksjar Tal pa aksjar Palydande Andel av_aksjek.
+
+Arsregnskap 2025
+Ar Solutions AS
+(935 728 118)
+Ar Solutions AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025
+Driftsinntekter
+
+Salgsinntekt 5 865
+
+Annen driftsinntekt 30 000
+Sum driftsinntekter 35 865
+Driftskostnader
+
+Varekostnad 1235
+
+Annen driftskostnad 127 046
+Sum driftskostnader 128 281
+Driftsresultat -92 416
+Finanskostnader
+
+Annen rentekostnad 15 237
+Sum finanskostnader 15 237
+Netto finans -15 237
+Resultat for skatt -107 653
+Arsresultat -107 653
+Overforinger og disponeringer
+
+Udekket tap -107 654
+Sum overferinger og disponeringer -107 653
+
+Ar Solutions AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025
+Anleggsmidler
+Varige driftsmidler
+
+Tomter, bygninger og annen fast eiendom 3 800 000
+Sum varige driftsmidler 800 000
+Sum anleggsmidler 800 000
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 29
+Sum fordringer 29
+Bankinnskudd, kontanter o.l. 29 317
+Sum omlepsmidler 29 346
+Sum eiendeler 829 346
+
+Ar Solutions AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000
+Sum innskutt egenkapital 30 000
+Opptjent egenkapital
+
+Udekket tap -107 654
+Sum opptjent egenkapital -107 653
+Sum egenkapital -77 653
+Gijeld
+Annen langsiktig gjeld
+
+Gjeld til kredittinstitusjoner, langsiktig 791 999
+
+@vrig langsiktig gjeld 115 000
+Sum annen langsiktig gjeld 906 999
+Sum gjeld 906 999
+Sum egenkapital og gjeld 829 346
+
+Ar Solutions AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Stanghelle
+Virksomhetens art
+Kj@p, salg og utleie av eiendom. Forvaltning og vedlikehold av eiendom.
+Note 2: Usikkerhet rundt fortsatt drift
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre drift forutsetter at
+selskapet oppnar planlagt inntektsvekst og/eller tilforsel av finansiering. Arsregnskapet er
+avlagt under forutsetning om fortsatt drift, men det foreligger usikkerhet knyttet til om
+forutsetningene oppnas.
+Note 4: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Ar Solutions AS Arsregnskap Side 5 av 6
+
+Note 3: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 fe)
++ Kjap og annen tilgang i ar 800 000
+- Salg og annen avgang i ar (@)
+= Anskaffelseskost 31. desember 800 000
+- Sum avskrivninger og nedskrivninger 0
+= Balansefort verdi per 31.12. 800 000
+Arets avskrivninger og nedskrivninger 0
+Ar Solutions AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Anders Jin Risnes <arisnes@online.no>
+Elektronisk signering
+ANDERS JIN RISNES (Daglig leder)
+06.05.1993
+© Signert
+01.03.2026 20:57 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 01.03.2026 20:57:44

@@ -1,0 +1,484 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 395227
+Virksomheten
+Organisasjonsnummer : 932 241 242
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: VEYT INVEST AS
+Forretningsadresse: Fred. Olsens gate 1
+0152 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Espen Zachariassen
+Dato for fastsettelse av arsregnskapet: 24.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 25.04.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 932 241 242
+
+VEYT INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 1 846 1 928
+
+Sum kostnader 846 1 928
+
+Driftsresultat -846 -1 928
+
+Netto finans
+
+Resultat fer skattekostnad -846 -1 928
+
+Skattekostnad pa resultat 6
+
+Arsresultat 2 -846 -1 928
+
+Arsresultat etter
+
+minoritetsinteresser -846 -1 928
+
+Totalresultat -846 -1 928
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -846 -1 928
+
+Sum overferinger og
+
+disponeringer -846 -1 928
+Utskriftsdato 25.04.2026 Organisasjonsnr 932 241 242 Side 1 av 3
+
+Organisasjonsnr: 932 241 242
+
+VEYT INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 6
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 3
+
+Investering i annet
+
+foretak i samme konsern 3 4 230 910 3 518 046
+
+Investeringer 1
+
+tilknyttet selskap 3
+
+Investeringer i aksjer og
+
+andeler 3
+
+Andre langsiktige
+
+fordringer 4
+
+Sum finansielle
+
+anleggsmidler 4 230 910 3 518 046
+
+Sum anleggsmidler 4 230 910 3 518 046
+
+Omlepsmidler
+
+Varer
+
+Andre kortsiktige
+
+fordringer 4
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 3
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 22 287 22 769
+
+Sum bankinnskudd,
+
+kontanter og lignende 22 287 22 769
+
+Sum omlepsmidler 4 22 287 22 769
+
+SUM ELENDELER 4 253 197 3 540 815
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5 39 325 39 325
+
+Beholdning av egne aksjer 5
+
+Overkurs 3.508 721 3 508 721
+Utskriftsdato 25.04.2026 Organisasjonsnr 932 241 242 Side 2 av 3
+
+Sum innskutt egenkapital 3 548 046 3 548 046
+
+Opptijent egenkapital
+
+Udekket tap 8 750 7 904
+
+Sum opptjent egenkapital -8 750 -7 904
+
+Sum egenkapital 2 3 539 296 3 540 142
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 6
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 4
+
+@vrig langsiktig gjeld 4 712 338
+
+Sum annen langsiktig gjeld 712 338
+
+Sum langsiktig gjeld 712 338
+
+Kortsiktig gjeld
+
+Leverandergjeld 1 563 673
+
+Betalbar skatt 6
+
+Sum kortsiktig gjeld 1 563 673
+
+Sum gjeld 713 901 673
+
+SUM EGENKAPITAL OG GJELD 4 253 197 3 540 815
+Utskriftsdato 25.04.2026 Organisasjonsnr 932 241 242 Side 3 av 3
+
+Organisasjonsnr: 932 241 242
+
+VEYT INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Docusign Envelope ID: 287BC868-2689-8C8F-8252-118DBC35A2D8
+°
+Arsregnskap 2025
+Veyt Invest AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 932 241 242
+
+Docusign Envelope ID: 287BC868-2689-8C8F-8252-118DBC35A2D8
+RESULTATREGNSKAP |
+VEYT INVEST AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 1 846 1928
+Sum driftskostnader 846 1 928
+Driftsresultat -846 -1 928
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Resultat for skattekostnad -846 -1 928
+Arsresultat 2 | -1:928 |
+OVERF@RINGER
+
+Overfgrt til udekket tap 846 1928
+Sum overfgringer -846 -1 928
+VEYT INVEST AS SIDE 2
+
+Docusign Envelope ID: 287BC868-2689-8C8F-8252-118DBC35A2D8
+BALANSE |
+VEYT INVEST AS
+
+EIENDELER Note 2025 2024
+FINANSIELLE ANLEGGSMIDLER
+
+Investeringer i annet foretak i samme konsern 3 4 230 910 3 518 046
+Sum finansielle anleggsmidler 4 230 910 3 518 046
+Sum anleggsmidler 4 230 910 3 518 046
+OML@PSMIDLER
+
+Bankinnskudd, kontanter o.|. 22 287 22 769
+Sum omlgpsmidler 4 22 287 22 769
+Sum eiendeler 4253 197 3 540 815
+VEYT INVEST AS SIDE 3
+
+Docusign Envelope ID: 287BC868-2689-8C8F-8252-118DBC35A2D8
+BALANSE |
+VEYT INVEST AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 5 39 325 39 325
+Overkurs 3508 721 3 508 721
+Sum innskutt egenkapital 3 548 046 3 548 046
+OPPTJENT EGENKAPITAL
+Udekket tap -8 750 -7 904
+Sum opptjent egenkapital -8 750 -7 904
+Sum egenkapital 2 3 539 296 3 540 142
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+PDvrig langsiktig gjeld 4 712 338 0
+Sum annen langsiktig gjeld 712 338 0
+KORTSIKTIG GJELD
+Leverandgrgjeld 1563 673
+Sum kortsiktig gjeld 1 563 673
+Sum gijeld 713 901 673
+Sum egenkapital og gjeld 4253 197 3 540 815
+Oslo, 24.03.2026
+Styret i Veyt Invest AS
+DocuSigned by: Signed by:
+[hares Furdinand Ute Stole
+6D180FD676374F4... 42530D3BD7F2432
+Marcus Ferdinand Uta Stoltenberg
+styremediem styreleder
+VEYT INVEST AS SIDE 4
+
+Docusign Envelope ID: 287BC868-2689-8C8F-8252-118DBC35A2D8
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+AKSJER | DATTERSELSKAP
+Datterselskap vurderes etter kostmetoden i selskapsregnskapet. Investeringen er vurdert til
+anskaffelseskost for aksjene med mindre nedskrivning har veert nddvendig. Det er foretatt nedskrivning til
+virkelig verdi nar verdifall skyldes arsaker som ikke kan forventes a veere forbigaende og det ma anses
+ngdvendig etter god regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke
+lenger er til stede.
+Utbytte, konsernbidrag og andre utdelinger fra datterselskap er inntektsfgrt samme ar som det er avsatt i
+givers regnskap. Overstiger utbytte / konsernbidraget andelen av opptjent resultat etter
+anskaffelsestidspunktet, representerer den overskytende del tilbakebetaling av investert kapital, og
+utdelingene er fratrukket investeringens verdi i balansen til morselskapet.
+Note 1 Lonnskostnader og antall arsverk
+Selskapet har i 2025 sysselsatt O arsverk.
+
+Docusign Envelope ID: 287BC868-2689-8C8F-8252-118DBC35A2D8
+Note 2 Egenkapital
+Aksjekapital Overkurs Ikke registrert Udekket tap Sum
+kapitalforhgyelse egenkapital
+Pr. 31.12.2024 39 325 3508 721 0 -7 904 3 540 142
+Kapitalforhgyelse 0 0 0) 0
+Arets resultat -846 -846
+Pr 31.12.2025 39 325 3508 721 0 -8 750 3 539 296
+Note 3 Konsern, tilknyttet selskap mv.
+Eierpost i Veyt AS, 117 988 aksjer bokfgrt til anskaffelseskost.
+Note 4 Lan og sikkerhetsstillelse til ledende personer
+Selskapet har ikke gitt lan eller sikkerhetsstillelse til ledende personer, aksjeeiere med videre.
+Selskapet har mottatt lan fra aksjonzer i forbindelse med kapitalforhgyelse som ikke er registrert i
+Brénngysund pa balansedagen. Dette er f@rt som langsiktig lan til eiere.
+Note 5 Aksjonzrer
+AKSJEKAPITALEN | VEYT INVEST AS PR. 31.12 BESTAR AV F@LGENDE AKSJEKLASSER:
+Antall Palydende Bokfgrt
+A-aksjer 289 293 0,1 28 929
+B-aksjer 103 958 0,1 10 396
+Sum 393 251 39 325
+EIERSTRUKTUR
+Aksjonzerer i % pr. 31.12:
+A-aksjer B-aksjer Sum Eierandel Stemmeandel
+Veyt AS 289 293 3 729 293 022 74,5 74,5
+Marie Thuestad 22 000 22 000 5,6 5,6
+Ferdinand Holding AS 21 000 21 000 53 53
+Hzege Fjellheim 8 900 8 900 2,3 2,3
+Ingvild Sgrhus 8 900 8 900 2,3 2,3
+Francois Pretorius 7 500 7500 1,9 1,9
+Frank Vidar Melum 7 000 7 000 1,8 1,8
+Nfikus AS 7 000 7 000 1,8 1,8
+Knut Cathala Vralstad 6 000 6 000 1,5 1,5
+Florian Beier 3 500 3 500 0,9 0,9
+Min Shi 1 500 1500 0,4 0,4
+Flavio Oliveira 1 250 1 250 0,3 0,3
+Harry Ohman 1 149 1149 0,3 0,3
+Emilie Lucas 1 000 1 000 0,3 0,3
+James Campbell 1 000 1 000 0,3 0,3
+Mattis Jeremi Kleine 1 000 1 000 0,3 0,3
+Anders Nordeng 612 612 0,2 0,2
+Lisa Anna Zafoschnig 612 612 0,2 0,2
+
+Docusign Envelope ID: 287BC868-2689-8C8F-8252-118DBC35A2D8
+
+Marta Wroniszeska 306 306 0,1 0,1
+Totalt antall aksjer 289 293 103 958 393 251 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Ver A-aksjer B-aksjer
+Marcus Ferdinand styremedlem 0 21 000
+Uta Stoltenberg styreleder 0 7 000
+Totalt antall aksjer 0 28 000
+Note 6 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -846 -1 928
+Permanente forskjeller 0 0
+Skattepliktig inntekt -846 -1 928
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -8 750 -7 904 846
+Inngar ikke i beregningen av utsatt skatt 8 750 7904 -846
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+
+Docusign Envelope ID: 287BC868-2689-8C8F-8252-118DBC35A2D8
+VALUE GROUP AS
+Radhusgata 9
+0151 OSLO
+FULLSTENDIGHETSERKLERING/LEDELSESERKLARING
+Bekreftelse til arsregnskapet i Veyt Invest AS:
+Vi bekrefter herved etter beste evne og overbevisning at:
+Selskapets bokfgrte driftsinntekter er fullstendige og uttrykker virkelig verdi av de varer og tjenester
+virksomheten har levert til utenforstaende i Igpet av 2025.
+Bokfgrte driftskostnader tilhgrer selskapet og uttrykker verdien av forbrukte varer og tjenester mottatt fra
+utenforstaende i Igpet av 2025.
+Selskapet har hjemmel til alle eiendeler i balansen, det er ingen pantsettelser av eller heftelser pa
+selskapets eiendeler, med unntak av dem som fremgar av note i arsregnskapet.
+Vi kjenner ikke til gjeld utover hva som er medtatt i balansen. Vi kjenner heller ikke til garantiforpliktelser,
+sikkerhetsstillelser, erstatningss¢ksmal eller pagaende prosesser og lignende utover hva som fremgar av
+arsoppgjgret.
+Det har ikke skjedd viktige hendelser — eksempelvis oppsigelse av lan, kontraktsinngaelse, rettstvister med
+mulig gkonomisk ansvar, leieavtaler av betydning, vesentlige valuta- eller prisendringer, betydelige tap pa
+fordringer etc. — etter 31.12.2025.
+Vi erkjenner vart ansvar for regnskaps- og internkontrollrutiner som er utformet for a forhindre og avdekke
+misligheter og feil.
+Vi bekrefter at det er gitt tilstrekkelige opplysninger i arsregnskapet om eventuelle transaksjoner med
+nzerstaende parter.
+Vi har gjennomgatt det offisielle regnskapet som VALUE GROUP AS har bistatt oss med a sette opp, og
+kjenner ikke til forhold som burde vzert medtatt eller fremstilt pa annen mate.
+Ledelsen er ikke kjent med at det foreligger forhold eller situasjoner som ikke fremgar av
+arsregnskapet/arsberetningen som kan vurderes a true selskapets fortsatte drift eller eksistens.
+24.03.2026
+Med hilsen
+Uta Stoltenberg
+Styrets leder
+
+Docusign Envelope ID: 287BC868-2689-8C8F-8252-118DBC35A2D8
+VEYT INVEST AS
+INNTEKT & SKATT
+Inntekter Kostnader Arsresultat
+Salgsinntekt 0 ' Lennskostnad o: + Midlertidige forskjeller 0
+Annen driftsinntekt 0 Varekostnad 0 + Permanente forskjeller 0
+Finansinntekt 0 Annen driftskostnad 846 + Skatt 0
+' Finanskostnad 0: NARINGSINNTEKT
+‘ Skattekostnad 0: = -846
+BETALBAR SKATT UTSATT SKATT
+NAERINGSINNTEKT -846 NETTO ENDRING MIDL. FORSKJELLER 0
+-  AVGITT KONSERNBIDRAG 0) ENDRING UTSATT SKATT )
++ MOTTATT KONSERNBIDRAG 0
+- FREMF@RT UNDERSKUDD 0 UNDERSKUDD TIL FREMFORING
++  JUSTERT INNTEKT RENTEBEGRENSNING 0
+= NETTO INNTEKT 246 FREMF@RT UNDERSKUDD FRA TIDLIGERE 7 904
+BETALBAR SKATT | BALANSEN 0 ARETS UNDERSKUDD 846
+UNDERSKUDD TIL FREMF@RING 8 750
+Cd
+FORMUE & EGENKAPITAL
+Bruttoformue Gjeld Nettoformue
+EIENDOM INVESTERINGER ANLEGGSMIDLER OVRIGE EIENDELER
+Am “All &
+0 332 136 0 22 287
+AKSJEVERDI EGENKAPITAL
+NETTOFORMUE 0 INNGAENDE EGENKAPITAL 3 540 142
+> ANTALL AKSJER (EKSKL. EGNE) 393 251 +  TILLEGG 712 338
+= VERDI PR. AKSJE 0,000 -  FRADRAG 846
+= UTGAENDE EGENKAPITAL 4251 634
+
+Docusign Envelope ID: 287BC868-2689-8C8F-8252-118DBC35A2D8
+Klient Veyt Invest AS
+Org.nr 932 241 242
+
+Skattemelding 2025
+
+Oppsummering
+Navn Beskrivelse Verdi
+Skattemelding
+Underskudd 846
+Skattemessig underskudd (Samlet underskudd) 846
+Konsernbidrag
+Sum samlet mottatt konsernbidrag/ avgitt 0
+konsembidrag (netto)
+Underskudd til fremforing
+Underskudd til fremfering per 01.01 7 904
+Underskudd til fremfgring per 31.12 8 750
+Neringsspesifikasjon
+Resultat og balanse
+Arsresultat -846
+Eiendeler 4 253 197
+Gjeld og egenkapital 4 253 197
+Beregnet neringsinntekt
+Arsresultat -846
+Skattemessig resultat -846
+Maestro Arsoppgijer Veyt Invest AS Side 1

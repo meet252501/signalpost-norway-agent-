@@ -1,0 +1,555 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 610302
+Virksomheten
+Organisasjonsnummer : 925 878 979
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: GRONTPONICS AS
+Forretningsadresse: Botnafjellsvegen 7
+5353 STRAUME
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Rodin Adam Litak
+Dato for fastsettelse av arsregnskapet: 28.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 925 878 979
+
+GRONTPONICS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 348 085 302 118
+
+Sum inntekter 348 085 302 118
+
+Kostnader
+
+Varekostnad 140 111 77 548
+
+Lennskostnad 3, 4 29 828 216 662
+
+Avskrivning pa varige
+
+driftsmidler 5 49 767 0
+
+Annen driftskostnad 463 716 455 138
+
+Sum kostnader 683 422 749 348
+
+Driftsresultat -335 337 -447 230
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 0 56
+
+Sum finansinntekter e) 56
+
+Annen rentekostnad 1 555 1 601
+
+Annen finanskostnad 15 51
+
+Sum finanskostnader 1 570 1 652
+
+Netto finans -1 570 -1 596
+
+Resultat fer skattekostnad -336 907 -448 826
+
+Arsresultat -336 907 -448 $26
+
+Arsresultat etter
+
+minoritetsinteresser -336 907 -448 826
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -336 907 -448 826
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -390 268 -448 826
+
+Overferinger til/fra
+
+annen egenkapital 53 361 0
+
+Sum overferinger og
+
+disponeringer -336 907 -448 826
+Utskriftsdato 30.06.2026 Organisasjonsnr 925 878 979 Side 1 av 3
+
+Organisasjonsnr: 925 878 979
+
+GRONTPONICS AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Maskiner og anlegg 5 183 623 233 390
+
+Sum varige driftsmidler 183 623 233 390
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 183 623 233 390
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Kundefordringer 8 667 49 669
+
+Andre kortsiktige
+
+fordringer 20 857 16 955
+
+Sum fordringer 29 524 66 624
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 20 075 1 689
+
+Sum bankinnskudd,
+
+kontanter og lignende 20 O75 1 689
+
+Sum omlepsmidler 49 599 68 313
+
+SUM ELENDELER 233 222 301 703
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 100 000 100 000
+
+Annen innskutt egenkapital -10 679 -10 679
+
+Sum innskutt egenkapital 89 321 89 321
+Utskriftsdato 30.06.2026 Organisasjonsnr 925 878 979 Side 2 av 3
+
+Opptjent egenkapital
+
+@reavrunding -1
+
+Udekket tap 819 381 1 O71 444
+
+Sum opptjent egenkapital -819 382 -1 O71 444
+
+Sum egenkapital -730 061 -982 123
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 487 129 472 979
+
+Sum annen langsiktig gjeld 487 129 472 979
+
+Sum langsiktig gjeld 487 129 472 979
+
+Kortsiktig gjeld
+
+Leverandergjeld 19 459 433 905
+
+Betalbar skatt -849 0)
+
+Skyldig offentlige avgifter 22 715 21 992
+
+Annen kortsiktig gjeld 434 829 354 950
+
+Sum kortsiktig gjeld 476 154 810 847
+
+Sum gjeld 963 283 1 283 826
+
+SUM EGENKAPITAL OG GJELD 233 222 301 703
+Utskriftsdato 30.06.2026 Organisasjonsnr 925 878 979 Side 3 av 3
+
+Organisasjonsnr: 925 878 979
+
+GRONTPONICS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Skogsvag
+
+Virksomhetens art
+
+Dyrking av krydder og aromatiske,
+
+medisinske og farmas@ytiske vekster.
+
+Note
+2
+Er det usikkerhet om fortsatt drift?: Nei
+Styret vurderer det som riktig a avlegge arsregnskapet under forutsetning om
+fortsatt drift, da det er
+iverksatt tiltak for 4 styrke selskapets ekonomi.
+Note
+3
+Antall Aarsverk i regnskapsaret
+1.00
+Note
+4
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+14802 .00 170466.00
+Folketrygqdavqift Arets Fjorarets
+3448.00 34908.00
+Andre ytelser Arets Fjorarets
+11578.00 11288.00
+Sum lennskostnader Arets Fjorarets
+29828.00 216662.00
+Note
+5
+Varige driftsmidler og immaterielle eiendeler
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+88476.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+88476.00
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+88476.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjeop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Note
+
+6
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregns kap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Ja
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a
+folge unntaksregelen i regnskapslovens § 3-2 (3).
+
+Arsregnskap 2025
+Grontponics AS
+(925 878 979)
+oles,
+Grentponics AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 348 085 302 118
+Sum driftsinntekter 348 085 302 118
+Driftskostnader
+
+Varekostnad 140111 77 548
+
+Lonnskostnad 3,4 29 828 216 662
+
+Avskrivning pa varige driftsmidler 5 49 767 @)
+
+Annen driftskostnad 463 716 455 138
+Sum driftskostnader 683 422 749 348
+Driftsresultat -335 337 -447 230
+Finansinntekter
+
+Annen finansinntekt 0) 56
+Sum finansinntekter 0 56
+Finanskostnader
+
+Annen rentekostnad 1 555 1601
+
+Annen finanskostnad 15 51
+Sum finanskostnader 1 570 1652
+Netto finans -1 570 -1 596
+Resultat for skatt -336 907 -448 826
+Arsresultat -336 907 -448 826
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 53 361 @)
+
+Udekket tap -390 268 -448 826
+Sum overferinger og disponeringer -336 907 -448 826
+
+Grentponics AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Maskiner og anlegg 5 183 623 233 390
+Sum varige driftsmidler 183 623 233 390
+Sum anleggsmidler 183 623 233 390
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 20 857 16 955
+
+Kundefordringer 8 667 49 669
+Sum fordringer 29 524 66 624
+Bankinnskudd, kontanter o.l. 20 075 1689
+Sum omlepsmidler 49 599 68 313
+Sum eiendeler 233 222 301 703
+
+Grentponics AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 100 000 100 000
+Annen innskutt egenkapital -10 679 -10679
+Sum innskutt egenkapital 89 321 89 321
+Opptjent egenkapital
+Annen egenkapital -1 0
+Udekket tap -819 381 -1071 444
+Sum opptjent egenkapital -819 382 -1071 444
+Sum egenkapital -730 061 -982 123
+Gijeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 487 129 472979
+Sum annen langsiktig gjeld 487 129 472 979
+Kortsiktig gjeld
+Leverande@rgjeld 19 459 433 905
+Betalbar skatt -849 0
+Skyldig offentlige avgifter 22 715 21 992
+Annen kortsiktig gjeld 434 829 354 950
+Sum kortsiktig gjeld 476 154 810 847
+Sum gjeld 963 283 1283 826
+Sum egenkapital og gjeld 233 222 301 703
+Grentponics AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Skogsvag
+Virksomhetens art
+Dyrking av krydder og aromatiske, medisinske og farmas@ytiske vekster.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er iverksatt tiltak for a styrke selskapets okonomi.
+Note 3: Arsverk
+Antall arsverk er 1.
+
+Grentponics AS Arsregnskap Side 5 av 6
+
+Note 4: Lonnskostnader
+2025 2024
+Lenn 14 802 170 466
+Arbeidsgiveravgift 3 448 34 908
+Pensjon (@) 0
+Andre ytelser 11 578 11 288
+Sum lonnskostnader 29 828 216 662
+Note 5: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 fe)
++ Kjop og annen tilgang i ar 88 476
+- Salg og annen avgang i ar 0
+= Anskaffelseskost 31. desember 88 476
+- Sum avskrivninger og nedskrivninger @)
+= Balansefort verdi per 31.12. 88 476
+Arets avskrivninger og nedskrivninger 0
+Note 6: Konsern
+Virksomheten er et morselskap og et datterselskap. Virksomheten utarbeider ikke
+konsernregnskap, herunder konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a falge
+unntaksregelen i regnskapslovens § 3-2 (3).
+Grentponics AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Iman <post@sikkerregnskap.no>
+Elektronisk signering
+NORLISA TRELLEVIK
+14.10.1983 - Styremediem
+Y) Signert
+29.06.2026 18:26 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 28.06.2026 17:26:46

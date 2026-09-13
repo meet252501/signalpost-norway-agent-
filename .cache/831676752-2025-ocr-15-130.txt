@@ -1,0 +1,526 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 486800
+Virksomheten
+Organisasjonsnummer : 831 676 752
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: CODECRAFT AS
+Forretningsadresse: Nordvikveien 61
+4085 HUNDVAG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Martin Davidsen
+Dato for fastsettelse av arsregnskapet: 27.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.05.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 831 676 752
+
+CODECRAFT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 547 800 78 840
+
+Annen driftsinntekt 35 0
+
+Sum inntekter 547 835 78 840
+
+Kostnader
+
+Avskrivning pa varige
+
+driftsmidler 2 13 864 13 864
+
+Annen driftskostnad 58 772 15 765
+
+Sum kostnader 72 636 29 629
+
+Driftsresultat 475 199 49 211
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 7 388 5 396
+
+Sum finansinntekter 7 388 5 396
+
+Annen rentekostnad 0 795
+
+Sum finanskostnader e) 795
+
+Netto finans 7 388 4 601
+
+Resultat fer skattekostnad 482 587 53 812
+
+Skattekostnad -2 571 12 014
+
+Arsresultat 485 158 41 798
+
+Arsresultat etter
+
+minoritetsinteresser 485 158 41 798
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 485 158 41 798
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 485 158 41 798
+
+Sum overferinger og
+
+disponeringer 485 158 41 798
+Utskriftsdato 28.05.2026 Organisasjonsnr 831 676 752 Side 1 av 3
+
+Organisasjonsnr: 831 676 752
+
+CODECRAFT AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner 2 11 553 25 417
+
+Sum varige driftsmidler 11 553 25 417
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 11 553 25 417
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Kundefordringer 172 722 12 000
+
+Andre kortsiktige
+
+fordringer 24 975 1 584
+
+Sum fordringer 197 698 13 584
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 537 089 172 064
+
+Sum bankinnskudd,
+
+kontanter og lignende 537 089 172 064
+
+Sum omlepsmidler 734 787 185 648
+
+SUM ELENDELER 746 340 211 065
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+Utskriftsdato 28.05.2026 Organisasjonsnr 831 676 752 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 652 427 167 268
+
+Sum opptjent egenkapital 652 427 167 268
+
+Sum egenkapital 682 427 197 268
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2 541 5 591
+
+Sum avsetninger for
+
+forpliktelser 2 541 5 591
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 2 541 5 591
+
+Kortsiktig gjeld
+
+Betalbar skatt 925 8 206
+
+Skyldig offentlige avgifter 60 447 0
+
+Sum kortsiktig gjeld 61 372 8 206
+
+Sum gjeld 63 913 13 797
+
+SUM EGENKAPITAL OG GJELD 746 340 211 065
+Utskriftsdato 28.05.2026 Organisasjonsnr 831 676 752 Side 3 av 3
+
+Organisasjonsnr: 831 676 752
+
+CODECRAFT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Hundvag
+
+Virksomhetens art
+
+Spesialister pa a levere forsteklasses
+
+konsulenttjenester innen programvare- og automatiseringsutvikling. Med
+
+fokus pa PLS- programmeringsekspertise, tilbyr selskapet omfattende
+
+lgsninger skreddersydd for a mete de unike behovene til vare kunder. Med en
+
+lidenskap for banebrytende teknologi og en dyp forstaelse av programvare og
+
+automasjonssystemer, er vi stolte av a levere innovative og effektive
+
+lgsninger som driver suksess for bedrifter pa tvers av ulike bransjer. Med
+
+mange ars erfaring og innga&ende kunnskap om PLS-programmering og
+
+programvareutvikling, besitter vi ekspertisen som er nedvendig for 4 takle
+
+komplekse utfordringer og levere eksepsjonelle resultater.
+
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+41592.00
+
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+41592 .00
+
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+30039.00
+
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+11553 .00
+
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+13864.00
+
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap 2025
+Codecraft AS
+(831 676 752)
+Codecraft AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 547 800 78 840
+
+Annen driftsinntekt 35 (@)
+Sum driftsinntekter 547 835 78 840
+Driftskostnader
+
+Avskrivning pa varige driftsmidler 2 13 864 13 864
+
+Annen driftskostnad 58 772 15 765
+Sum driftskostnader 72 636 29 629
+Driftsresultat 475 199 49 211
+Finansinntekter
+
+Annen renteinntekt 7 388 5 396
+Sum finansinntekter 7 388 5 396
+Finanskostnader
+
+Annen rentekostnad @) 795
+Sum finanskostnader 0 795
+Netto finans 7 388 4601
+Resultat for skatt 482 587 53 812
+Skattekostnad -2 571 12 014
+Arsresultat 485158 41798
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 485 158 41 798
+Sum overferinger og disponeringer 485 158 41 798
+
+Codecraft AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Driftslos@re, inventar, verktay, kontormaskiner 2 11 553 25 417
+Sum varige driftsmidler 11 553 25 417
+Sum anleggsmidler 11553 25417
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 24975 1 584
+
+Kundefordringer 172 722 12 000
+Sum fordringer 197 698 13 584
+Bankinnskudd, kontanter o.l. 537089 172064
+Sum omlepsmidler 734787 185648
+Sum eiendeler 746340 211065
+
+Codecraft AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Annen egenkapital 652 427 167 268
+Sum opptjent egenkapital 652 427 167 268
+Sum egenkapital 682 427 197 268
+Gijeld
+Avsetning for forpliktelser
+
+Utsatt skatteforpliktelse 2 541 5 591
+Sum avsetning for forpliktelser 2 541 5 591
+Kortsiktig gjeld
+
+Betalbar skatt 925 8 206
+
+Skyldig offentlige avgifter 60 447 0
+Sum kortsiktig gjeld 61 372 8 206
+Sum gjeld 63913 13797
+Sum egenkapital og gjeld 746340 211065
+
+Codecraft AS Arsregnskap Side 4 av6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Hundvag
+Virksomhetens art
+Spesialister pa a levere forsteklasses konsulenttjenester innen programvare- og
+automatiseringsutvikling. Med fokus pa PLS- programmeringsekspertise, tilbyr selskapet
+omfattende lasninger skreddersydd for 4 mate de unike behovene til vare kunder. Med en
+lidenskap for banebrytende teknologi og en dyp forstaelse av programvare og
+automasjonssystemer, er vi stolte av & levere innovative og effektive losninger som driver
+suksess for bedrifter pa tvers av ulike bransjer. Med mange ars erfaring og inngaende
+kunnskap om PLS-programmering og programvareutvikling, besitter vi ekspertisen som er
+nedvendig for 4 takle komplekse utfordringer og levere eksepsjonelle resultater.
+
+Codecraft AS Arsregnskap Side 5 av 6
+
+Note 2: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 41 592
++ Kjap og annen tilgang i ar (@)
+- Salg og annen avgang i ar (@)
+= Anskaffelseskost 31. desember 41 592
+- Sum avskrivninger og nedskrivninger 30 039
+= Balansefort verdi per 31.12. 11 553
+Arets avskrivninger og nedskrivninger 13 864
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Codecraft AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Martin Davidsen <davidsen908@gmail.com>
+Elektronisk signering
+MARTIN DAVIDSEN
+13.08.1990 - Daglig leder, Styreleder
+Y) Signert
+27.05.2026 14:36
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 27.05.2026 14:32:24

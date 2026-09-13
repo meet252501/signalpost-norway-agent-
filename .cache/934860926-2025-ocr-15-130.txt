@@ -1,0 +1,529 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 316456
+Enheten
+Organisasjonsnummer : 934 860 926
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: RINGVALLSMAJOBBER AS
+Forretningsadresse: Kvalsundvegen 40A
+9019 TROMS@
+Regnskapsar
+Arsregnskapets periode: 06.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Gaute Larsen Ringvall
+Dato for fastsettelse av arsregnskapet: 21.02.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 24.02.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 934 860 926
+
+RINGVALLSMAJOBBER AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 135 369
+
+Sum inntekter 135 369
+
+Kostnader
+
+Varekostnad 55 044
+
+Lennskostnad 3, 4 24 361
+
+Avskrivning pa varige
+
+driftsmidler 5 22 633
+
+Annen driftskostnad 86 678
+
+Sum kostnader 188 716
+
+Driftsresultat -53 347
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter e)
+
+Sum finanskostnader fe)
+
+Netto finans 0
+
+Resultat fer skattekostnad -53 347
+
+Arsresultat -53 347 0
+
+Arsresultat etter
+
+minoritetsinteresser -53 347
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0
+
+Totalresultat -53 347
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -53 347
+
+Sum overferinger og
+
+disponeringer -53 347
+Utskriftsdato 24.02.2026 Organisasjonsnr 934 860 926 Side 1 av 3
+
+Organisasjonsnr: 934 860 926
+
+RINGVALLSMAJOBBER AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner 5 45 267
+
+Sum varige driftsmidler 45 267
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0
+
+Sum anleggsmidler 45 267
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 1 488
+
+Sum fordringer 1 488
+
+Investeringer
+
+Sum investeringer 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 105 577
+
+Sum bankinnskudd,
+
+kontanter og lignende 105 577
+
+Sum omlepsmidler 107 065
+
+SUM EIENDELER 152 332
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000
+
+Sum innskutt egenkapital 30 000
+Utskriftsdato 24.02.2026 Organisasjonsnr 934 860 926 Side 2 av 3
+
+Opptjent egenkapital
+
+Udekket tap 53 347
+
+Sum opptjent egenkapital -53 347
+
+Sum egenkapital -23 347
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0
+
+Sum langsiktig gjeld 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 86 516
+
+Leverandergjeld 806
+
+Annen kortsiktig gjeld 88 357
+
+Sum kortsiktig gjeld 175 679
+
+Sum gjeld 175 679
+
+SUM EGENKAPITAL OG GJELD 152 332
+Utskriftsdato 24.02.2026 Organisasjonsnr 934 860 926 Side 3 av 3
+
+Organisasjonsnr: 934 860 926
+
+RINGVALLSMAJOBBER AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Tromsa
+
+Virksomhetens art
+
+Selge varer og tjenester innen
+
+vaktmesterarbeid og annet som naturlig sammenfaller med dette samt
+
+deltakelse i andre selskaper, investeringer og nerliggende virksomhet.
+Note
+2
+Er det usikkerhet om fortsatt drift?: Ja
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre
+drift forutsetter at selskapet far
+en inntektsvekst og/eller far finansiert
+driften gjennom lan eller kapitalforhgyelse. Usikkerhetene for at man
+far
+tilstrekkelig inntektsvekst og/eller tilfersel av finansiering er sa store
+at arsregnskapet er laget uten
+a legge til grunn fortsatt drift.
+Note
+3
+Antall Aarsverk i regnskapsaret
+0.00
+Note
+4
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+22040.00
+Folketrygqdavgift Arets Fjorarets
+1741.00
+Andre ytelser Arets Fjorarets
+580.00
+Sum lgnnskostnader Arets Fljorarets
+24361.00
+Note
+Ekstraordinzre inntekter og kostnader
+Sum Belgap
+Note
+5
+Varige driftsmidler og immaterielle eiendeler
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+67900.00
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+
+67900.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+22633.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+45267.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+22633.00
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Konsernregnskap
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Samlet bel@p - tilknyttet selskap Arets Fjorarets
+Samlet bele@p - foretak i samme konserm Arets Fjorarets
+Samlet belap - foretak i samme konsern Arets Fjorarets
+Samlet bele@p - felles kontrollert virksomhet Arets Fjorarets
+Pantstillelse Belgp
+Beholdning av egqne aksjer Antall Palydende Andel av _aksjek.
+
+Arsregnskap 2025
+RingvallSmajobber AS
+(934 860 926)
+
+Vg
+vie
+
+RINGVALL
+
+SMAJOBBER
+
+RingvallSmajobber AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025
+Driftsinntekter
+
+Salgsinntekt 135 369
+Sum driftsinntekter 135 369
+Driftskostnader
+
+Varekostnad 55 044
+
+Lonnskostnad 3,4 24 361
+
+Avskrivning pa varige driftsmidler 5 22 633
+
+Annen driftskostnad 86 678
+Sum driftskostnader 188 716
+Driftsresultat -53 347
+Resultat for skatt -53 347
+Arsresultat -53 347
+Overforinger og disponeringer
+
+Udekket tap -63 347
+Sum overferinger og disponeringer -53 347
+
+RingvallSmajobber AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025
+Anleggsmidler
+Varige driftsmidler
+
+Driftslos@re, inventar, verktay, kontormaskiner 5 45 267
+Sum varige driftsmidler 45 267
+Sum anleggsmidler 45 267
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 1 488
+Sum fordringer 1 488
+Bankinnskudd, kontanter o.l. 105 577
+Sum omlepsmidler 107 065
+Sum eiendeler 152 332
+
+RingvallSmajobber AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000
+Sum innskutt egenkapital 30 000
+Opptjent egenkapital
+
+Udekket tap -63 347
+Sum opptjent egenkapital -53 347
+Sum egenkapital -23 347
+Gijeld
+Kortsiktig gjeld
+
+Gjeld til kredittinstitusjoner, kortsiktig 86 516
+
+Leverandergjeld 806
+
+Annen kortsiktig gjeld 88 357
+Sum kortsiktig gjeld 175 679
+Sum gjeld 175 679
+Sum egenkapital og gjeld 152 332
+
+RingvallSmajobber AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Troms@
+Virksomhetens art
+Selge varer og tjenester innen vaktmesterarbeid og annet som naturlig sammenfaller med
+dette samt deltakelse i andre selskaper, investeringer og neerliggende virksomhet.
+Note 2: Usikkerhet rundt fortsatt drift
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre drift forutsetter at
+selskapet far en inntektsvekst og/eller far finansiert driften gjennom lan eller kapitalforhayelse.
+Usikkerhetene for at man far tilstrekkelig inntektsvekst og/eller tilforsel av finansiering er sa
+store at arsregnskapet er laget uten a legge til grunn fortsatt drift.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+RingvallSmajobber AS Arsregnskap Side 5 av 6
+
+Note 4: Lonnskostnader
+2025
+Lenn 22 040
+Arbeidsgiveravgift 1741
+Pensjon 0
+Andre ytelser 580
+Sum lonnskostnader 24 361
+
+Note 5: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 fe)
++ Kjop og annen tilgang i ar 67 900
+- Salg og annen avgang i ar 0
+= Anskaffelseskost 31. desember 67 900
+- Sum avskrivninger og nedskrivninger 22 633
+= Balansefort verdi per 31.12. 45 267
+Arets avskrivninger og nedskrivninger 22 633
+RingvallSmajobber AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Gaute Ringvall <smajobber@ringvall.no>
+Elektronisk signering
+GAUTE LARSEN RINGVALL (Daglig leder,
+Styreleder)
+09.01.1994
+© Signert
+21.02.2026 14:55 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 21.02.2026 14:55:41

@@ -1,0 +1,523 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 415732
+Virksomheten
+Organisasjonsnummer : 948 516 810
+Organisasjonsform: Borettslag
+Foretaksnawn: Nedre Stovner Borettslag
+Forretningsadresse: OBOS
+Hammersborg torg 1
+0179 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: OBOS EIENDOMSFORVALTNING AS
+Dato for fastsettelse av Aarsregnskapet: 09.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 04.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 948 516 810
+
+Nedre Stovner Borettslag
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 10 274 142 9 507 098
+
+Sum inntekter 10 274 142 9 507 098
+
+Kostnader
+
+Lennskostnad 336 595 360 556
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 55 635 54 713
+
+Annen driftskostnad 7 623 573 7 150 781
+
+Sum kostnader 8 015 803 7 566 050
+
+Driftsresultat 2 258 339 1 941 047
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 35 731 34 890
+
+Sum finansinntekter 35 731 34 890
+
+Annen finanskostnad 1 647 566 1 749 798
+
+Sum finanskostnader 1 647 566 1 749 798
+
+Netto finans -1 611 835 -1 714 908
+
+Resultat fer skattekostnad 646 504 226 140
+
+Arsresultat 646 504 226 140
+
+Totalresultat 646 504 226 140
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 646 504 226 140
+
+Sum overferinger og
+
+disponeringer 646 504 226 140
+Utskriftsdato 04.06.2026 Organisasjonsnr 948 516 810 Side 1 av 3
+
+Organisasjonsnr: 948 516 810
+Nedre Stovner Borettslag
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 21 169 274 21 169 274
+Driftslesere, inventar,
+verktay, kontormaskiner
+og lignende 842 697 898 332
+Sum varige driftsmidler 22 011 971 22 067 606
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 90 90
+Andre fordringer 317 839 264 300
+Sum finansielle
+anleggsmidler 317 929 264 390
+Sum anleggsmidler 22 329 900 22 331 996
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Kundefordringer 16 404 11 038
+Andre fordringer 250 832 246 402
+Sum fordringer 267 236 257 440
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 1 609 433 1 756 577
+Sum bankinnskudd,
+kontanter og lignende 1 609 433 1 756 577
+Sum omlepsmidler 1 876 669 2 014 017
+SUM ELENDELER 24 206 570 24 346 013
+BALANSE - EGENKAPITAL OG
+GJELD
+
+Utskriftsdato 04.06.2026 Organisasjonsnr 948 516 810 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Annen innskutt egenkapital 14 600 14 600
+
+Sum innskutt egenkapital 14 600 14 600
+
+Opptjent egenkapital
+
+Udekket tap 12 860 748 13 507 252
+
+Sum opptjent egenkapital -12 860 748 -13 507 252
+
+Sum egenkapital -12 846 148 -13 492 652
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 29 348 035 30 077 514
+
+@vrig langsiktig gjeld 7 584 637 7 538 648
+
+Sum annen langsiktig gjeld 36 932 672 37 616 162
+
+Sum langsiktig gjeld 36 932 672 37 616 162
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 8 346 9 450
+
+Leverandergjeld 100 443 213 054
+
+Skyldige offentlige
+
+avgifter 8 037
+
+Annen kortsiktig gjeld 3 219
+
+Sum kortsiktig gjeld 120 045 222 504
+
+Sum gjeld 37 052 717 37 838 666
+
+SUM EGENKAPITAL OG GJELD 24 206 570 24 346 013
+Utskriftsdato 04.06.2026 Organisasjonsnr 948 516 810 Side 3 av 3
+
+Organisasjonsnr: 948 516 810
+
+Nedre Stovner Borettslag
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Gig OBOS attning
+-@ Ne:
+_ Z
+eis
+ted
+Arsmote 2026
+Innkalling
+
+Velkommen til arsmete i Nedre Stovner Boreitslag
+
+Innkallingen inneholder alle sakene som skal behandles pa arsmetet. Styret haper du leser gjennom og viser
+
+din interesse ved 4 delta pa arsmetet.
+
+Dato for arsmetet:
+
+9. april 2026 kl. 18:00, Stovner velhus.
+
+Hvem kan stemme pa arsmoetet?
+
+Alle eiere har rett til 4 delta i mete med forslags-, tale- og stemmerett.
+
+¢ Eiers ektefelle, samboer eller et annet medlem i husstanden har ogsa rett til 4 veere til stede og til 4 uttale seg.
+
+¢ Enstemme avgis pr. eierandel.
+
+*« Eieren kan ta med seg en radgiver til metet. Radgiveren har bare rett til 4 uttale seg dersom et flertall pa
+arsmatet tillater det.
+
+¢ Eieren kan mete ved fullmektig. Ingen kan vere fullmektig for mer enn én eier, men der flere eier en andel
+sammen kan de ha samme fullmektig. En fullmakt kan trekkes tilbake nar som helst. Styremedlemmer,
+forretningsforer og leier av bolig i borettslaget har ogsa rett til 4 veere til stede i generalforsamlingen og til
+a uttale seg.
+
+Registreringsblanketten leveres i utfylt stand ved inngangen.
+
+Saker til behandling
+
+1. Valg av meteleder
+
+2. Godkjenning av de stemmeberettigede
+
+3. Valg av protokollvitner
+
+4. Godkjenning av meteinnkallingen
+
+5. Arsrapport og arsregnskap
+
+6. Fastsettelse av honorarer til styret
+
+7. Fastsettelse av honorar til omradekomite
+
+8. Innkomne forslag: Vedtektsendring §4.3 (1) og (2)
+
+9. Valg av tillitsvalgte
+
+10. Valg av delegater til OBOS' generalforsamling
+
+Med vennlig hilsen,
+
+Styret i Nedre Stovner Borettslag
+
+Z2av 22
+
+Sak 1
+Valg av meteleder
+Krav til flertall:
+Alminnelig (50%)
+Metelederen serger for at metet blir avviklet etter lovens regler og er ansvarlig for at det feres protokoll. Hvis
+ikke arsmetet velger en meteleder eller den foreslatte metelederen ikke blir valgt, er det styrets leder som etter
+loven er meteleder.
+Forslag til vedtak
+Bjernar Sollie er valgt.
+Sak 2
+Godkjenning av de stemmeberettigede
+Krav til flertall:
+Alminnelig (50%)
+Deltakere i metet er registrert ien frammeteliste etter innleverte registreringsblanketter og fullmakter, og listen
+legges til grunn for opptelling av de stemmeberettigede.
+Forslag til vedtak
+Det ble foreslatt 4 anse de innleverte registreringsblankettene og eventuelt fullmakter som bevis for at
+vedkommende eier er til stede.
+Sak 3
+Valg av protokollvitner
+Krav til flertall:
+Alminnelig (50%)
+Valg av minst én eier til 4 signere protokollen.
+Forslag til vedtak
+Velges i arsmetet
+3 av 22
+
+Sak 4
+Godkjenning av meteinnkallingen
+Krav til flertall:
+Alminnelig (50%)
+Det ble foreslatt 4 gSodkjenne den maten arsmetet er innkalt pa.
+Forslag til vedtak
+Meteinnkallingen godkjennes
+Sak 5
+Arsrapport og arsregnskap
+Krav til flertall:
+Alminnelig (50%)
+a) Godkjenning av arsrapport og arsregnskap
+b) Styret foreslar overforing av arets resultat til egenkapital.
+Forslag til vedtak
+Arsrapport og arsregnskap godkjennes. Arets resultat overfores til egenkapital.
+Vedlegg
+1. Arsregnskap 2025.pdf
+2. 593 Nedre Stovner borettslag.pdf
+Sak 6
+Fastsettelse av honorarer til styret
+Krav til flertall:
+Alminnelig (50%)
+Godtgjerelse for styret foreslas satt til kr 307 OOO.
+Forslag til vedtak
+Styrets godtgjorelse settes til 307 OOO.
+4av 22
+
+Sak 7
+Fastsettelse av honorar til omradekomite
+Krav til flertall:
+Alminnelig (50%)
+Godtgjorelse for omradekomite settes til kroner XX,- per medlem.
+Forslag til vedtak
+Omradekomiteens godtgjorelse settes til XX,- per medlem.
+Sak 8
+Innkomne forslag: Vedtektsendring §4.3 (1) og (2)
+Krav til flertall:
+To tredjedels (67%)
+Vedtektene har ingen bestemmelse om hvilke krav som gjelder for andelseierne nar det gjelder sterre
+oppgraderinger i boligene. Styret mener det er nedvendig aha bestemmelser om at oppgraderinger av boligene
+ma meldes styret. Dette blant annet fordi at konstruksjonen knyttet til rar er spesiell. Med bakgrunn i meldingen
+vil styret informere aktuelle firma som skal utfere arbeidet med et skriv for a sikre at arbeidet blir gjort slik
+at det bl.a. forhindrer rotteproblem. Vi foreslar at oppgradering i boligene kommer inn som nye avsnitt (1) og
+(2) i punkt 4-3 og at gjeldende underpunkter endrer nummerering til (3) og (4). Samtidig foreslar vi A endre
+overskriften i punktet til Bygningsmessige oppgraderinger og endringer.
+Dagens §4.3 er formulert slik:
+4-3 Bygningsmessige endringer
+(1) En andelseier kan med styrets godkjenning gjennomfere tiltak pd eiendommen som er nedvendige pd grunn
+av funksjonshemming hos en bruker av boligen. Godkjenning kan ikke nektes uten saklig grunn.
+(2)Forandringer som skjer i strid med de til enhver tid gjeldende bygningsforskrifter og andre offentlige
+bestemmeliser, er ikke tillatt. Forandringer som bererer bygningens eksterior — herunder oppsetting av
+private radio- og TV/paraboil-antenner, varmeveksier mv. - er ikke tillatt uten styrets forutgadende samtykke.
+Avtrekkskanai fra vifte og terketrommel kan ikke settes ut pd rekkehusets langvegg.
+Forslaget er at den endres til folgende:
+4.3 Oppgraderinger i boligen og bygningsmessige endringer
+(1) Dersom andelseiere skal gjore sterre interne oppgraderinger som medferer strukturelle endringer som for
+eksempel flytting av vegg eller trapp, og ved oppussing eller bygging av nytt bad eller toalett i boligen, skal dette
+meldes styret. Meldingen skal inneholde en beskrivelse av hva endringen gar ut pa, vedlagt tilbud fra firma med
+detaljerte opplysninger om hvilke inngrep som skal utfores. Dersom det skal utferes inngrep som gar spesielt
+i bygningsmassen, skal dette beskrives detaljert.
+(2) Ved inngrep som omhandler el og rer skal det brukes profesjonelle akterer og godkjente byggmestere. Det
+skal foreligge gyldig ansvarsforsikring for firmaene og polisenummer og forsikringsselskap skal inkluderes i
+tilbudet.
+
+5 av 22
+
+(3) En andelseier kan med styrets godkjenning gjennomfere tiltak pa eiendommen som er nedvendige pa grunn
+av funksjonshemming hos en bruker av boligen. Godkjenning kan ikke nektes uten saklig grunn.
+(4)Forandringer som skjer i strid med de til enhver tid gieldende bygningsforskrifter og andre offentlige
+bestemmelser, er ikke tillatt. Forandringer som bererer bygningens eksterior — herunder oppsetting av
+private radio- og TV/parabol-antenner, varmeveksler mv. - er ikke tillatt uten styrets forutgaende samtykke.
+Avtrekkskanal fra vifte og torketrommel kan ikke settes ut pa rekkehusets langvegg.
+Forslag til vedtak
+Vedtektene endres i trad med forslaget
+Sak 9
+Valg av tillitsvalgte
+Valgkomiteen vil komme med en redegjorelse for sin innstilling i det fysiske metet.
+Roller og kandidater
+Valg av 1 styreleder Velges for 2 ar
+Velges i arsmetet
+Valg av 3 styremedliem Velges for 2 ar
+Felgende stiller til valg som styremedlem:
+¢ Espen Blinge
+Valgkomiteens innstilling
+e Per Hjelle
+Valgkomiteens innstilling
+¢ Viggo Stremsnes
+Valgkomiteens innstilling
+Valg av 3 varamedlem Velges for 1 ar
+Felgende stiller til valg som varamedlem:
+¢ Espen Rosenquist
+Valgkomiteens innstilling
+¢ Mats Gunnmarker
+Valgkomiteens innstilling
+¢ Terje Mork
+Valgkomiteens innstilling
+Valg av 2 medilem valgkomite Velges for 1 ar
+Velges i arsmetet
+6 av 22
+
+Sak 10
+Valg av delegater til OBOS' generalforsamling
+Vi skal velge delegater til OBOS sin generalforsamling. Delegatene og varadelegatene sitter i ett ar.
+Roller og kandidater
+Valg av 1 delegat Velges for 1 ar
+Velges i arsmetet
+Valg av 1 varadelegat Velges for 1 ar
+Velges i arsmetet
+Jav 22
+
+Styrets arsrapport
+Styrets beretning
+Det er avholdt 11 styremeter, 1 budsjettmete (OBOS), 1 beboermete (November), samt 1 regnskapsmete (OBOS)
+i perioden. Styret arbeider aktivt med a redusere utgiftene til borettslaget samt 4 bedre beboeres tjenester
+Vi har i denne perioden reforhandlet var TV- avtale med Telia, se VIBBO for mer informasjon. Vi har ogsa
+reasfaltert bakken pa Felt B, rehabilitert og bygd nye trapper, kuttet trzer, greener og busker. Utover dette har
+styret i hovedsak vzert opptatt med kartlegging av fellesstrom, for 4 senke kostnader (se under), diskutert
+forsikringsavtalen vi har med Tryg (se under), og oppfelging av store tunge forsikringssaker i borettslaget,
+deriblant bunnrersinspeksjoner, bestilt spyle/sugebil pga. overvann, flernet kloakklukt, tettet slik at rotter og
+mus ikke kom inn i leiligheten, og etter palegg fra Vann- og aviopsetaten Oslo kommune (VAV) byttet rer mellom
+borettslaget sin kum, og kommunens koblingspunkt. Vi har ogsa giennomfert noe rehabilitering av rekkehusene
+og skiftet paneler og vinduer,
+Gjennomgang av borettslagets fellesstram
+Styret har i perioden giennomfert en grundig gjennomgang av borettslagets fellesaniegg med belysning og
+tilhorende stremavtaler. Bakgrunnen var de heye kostnadene knyttet til fellesstrom.
+Ved oppstart av arbeidet var status for 2024 en samlet stremkostnad pa kr 590.000, tilsvarende et
+gjennomsnitt pa kr 49.200 per maned.
+Gjennom et omfattende kartleggingsarbeid, hvor alle maleranlegg og lysstolper ble giennomgatt, ble det
+avdekket flere avvik. Kartleggingen viste blant annet at anlegget bestod av 42 lysstolper, hvorav 30 var tilknyttet
+umalte anlegg, og totalt 34 malepunkter.
+Videre ble det avdekket 13 anlegg som i praksis ikke eksisterte, men som borettslaget likevel ble fakturert for.
+Disse medferte gebyrer pa kr 11.792,81 per maned.
+Pa bakgrunn av funnene gikk styret i dialog og forhandlinger med bade Elvia (nettselskap) og Fortum
+(stromleverander). Resultatet av dette arbeidet ble blant annet:
+Borettslaget kom ut av rammeavtalen med Fortum, som hadde 12 maneders oppsigelsestid og antall
+malepunkter ble i samarbeid med Elvia redusert fra 33 til 10.
+° Alle tidligere lamper er na samlet under ett malepunkt (S145).
+° Ny stremleverander Fjordkraft ble valgt fra 30.06.2025.
+° 02.10.2025 bestilte borettslaget Norgespris for alle 10 anlegg.
+Tiltakene har allerede gitt betydelige besparelser og kostnadene knyfttet til fellesstrom.
+| tillegg har borettslaget etter gijennomgangen fatt tilbakebetalt belop fra bade Elvia og tidligere
+stremleveranderer for malepunkt og anlegg som ikke eksisterte, men som det har blitt betalt for over flere
+ar.
+Styret forventer at tiltakene vil gi varige og betydelige besparelser i borettslagets felleskostnader fremover.
+Avtale med OBOS om utarbeidelse av vedlikeholdsplan
+Styret har inngatt avtale med OBOS om utarbeidelse av overordnet vedlikeholdsplan for borettslaget med
+oppstart i april 2026. Formalet med vedlikeholdsplanen er a sikre framtidige verdier i boligene giennom
+bzerekraftig og langsiktig planlegging av vedlikehold. Det er borettslaget og styret som star ansvarlig for
+vedlikehold av felles bygningsdeler. Det er derfor vesentlig at vi har oversikt over fremtidig vedlikeholdsbehov
+og har en plan for hvordan dette skal finansieres. Giennom en langsiktig plan for finansiering vil alle eiere
+
+8 av 22
+
+vaere med 4 dele pa kostnadene over tid og det er mulig 4 unnga store u@nskede ekninger av felleskostnader.
+Vedlikeholdsplanen vil vzere et godt hjelpemiddel for a fa oversikt og kunne planlegge samt prioritere fremtidige
+vedlikehold.
+Vedlikeholdsplan OBOS Prosjekt AS utarbeider vedlikeholdsplanen pa grunnlag av en tilstandsanalyse
+av fellesanleggene i borettslaget. Dette innebzerer befaring av bade VVS-, el- og bygningstekniske
+installasjoner. Befaringen gjennomferes av byggeteknisk konsulent. Tilstandsanalysen utferes etter NS 3424 -
+"Tilstandsanalyse av byggverk", pa analyseniva 1 som innebzerer visuell kontroll eventuelt kombinert med enkle
+malinger. Det giennomferes ikke fysiske inngrep i konstruksjoner eller omfattende mAalinger (analyseniva 2 og
+3), men stikkprevemessig inspeksjon av fellesanleggene legges til grunn for vedlikeholdsplanen.
+Arbeidet skal giennomferes i tett samarbeid med styret. | prosjektgruppen vil leder og nestleder i borettslaget
+delta sammen med to representanter fra beboerne.
+Forsikringspremie
+Pa grunn av mange forsikringssaker i borettslaget, ble forsikringspremien for 2025 hevet med 70% i
+tillegg til indeksregulering. Beskjeden kom etter at budsjettet for 2025 var lagt, se resultatregnskapet for
+2025. Naveerende styre har vzert i forhandlinger med forsikringsselskapet for a hindre ytterligere @kning i
+forsikringspremien for 2026. | tillegg arbeider styret med 4 forseke a redusere antall forsikringssaker.
+Fellesarealene
+Styret har foretatt en giennomgang av fellesarealene med hovedvekt pa lekeplassene. Styret har bedt beboerne
+om innspill bade via Vipbbo og pa beboermete 27. november. Styret har prioritet i 2026 en fullstendig
+oppgradering av leikeplassen pa D-feltet. Vi har sokt OBOS om miljomidler pa kr 300 OCO som vi har fatt
+innvilget. Arbeidet vil bli giennomfert i tett samarbeid med beboerne og Omradekomitéene. Styret mener ogsa
+at ma gjores mindre og sterre utbedringer pa de andre leikeplassene. Det vil bli gjort etter hvert som ekonomien
+tillater det.
+
+9 av 22
+
+NEDRE STOVNER BORETTSLAG
+ORG.NR. 948516810, KLIENTNR. 393
+INFORMASJON OM ARSREGNSKAPET
+Regnskapsloven stiller strenge krav til hvordan et regnskap skal fares og presenteres. | tillegg
+krever forskriften om arsregnskap og arsberetning i borettslag at man ma gi mer informasjon.
+Dette innebzerer blant annet at man ma gi informasjon i form av noter, og utarbeide en oversikt
+over de disponible midlene i arsregnskapet. Pa de neste sidene presenteres borettslagets
+resultatregnskap, balanse og tilh@rende noter.
+Boligselskapets resultatregnskap gir imidlertid ikke en fullstendig oversikt over borettslagets
+disponible midler ved arsskiftet. | resultatregnskapet presenteres det en oversikt over
+borettslagets inntekter og kostnader. Det regnskapsmessige overskuddet tar ikke hensyn til en
+del viktige a@konomiske forhold som pavirker borettslagets disponible midler. Dette gjelder for
+eksempel opptak og avdrag pa lan, samt kjap og salg av anleggsmidler. Borettslagets
+disponible midler er de akonomiske midlene som borettslaget har til radighet, og de defineres
+som omlgpsmidler fratrukket kortsiktig gjeld. Starrelsen pa de disponible midlene kan blant
+annet benyttes til a vurdere om det er nadvendig a endre stg@rrelsen pa innkrevde
+felleskostnader som den enkelte beboer betaler, og om det er behov for a ta opp lan eller om
+det er mulighet til a betale ned ekstra pa eksisterende gjeld.
+DISPONIBLE MIDLER
+
+Note 2025 2024
+A. DISP. MIDLER PR. 01.01. 1791514 2195 849
+B. ENDRING | DISP. MIDLER:
+Arets resultat (se res.regnskapet) 646 504 226 140
+Tilbakefgring av avskrivning 13 55 635 54 713
+Fradrag for avdrag pa langs. lan 18 -729 479 -676 680
+Innsk. @remerk. bankkto -7 550 -8 509
+B. ARETS ENDR. | DISP. MIDLER -34 890 -404 336
+C. DISP. MIDLER PR. 31.12. 1756624 #1791 514
+SPESIFIKASJON AV DISPONIBLE MIDLER:
+Omlgpsmidler 1876669 2014017
+Kortsiktig gjeld -120 045 -222 504
+C. DISP. MIDLER PR. 31.12. 1756624 #1791 514
+
+Vedlegg 1 10 av 22 Arsregnskap 2025.pdf

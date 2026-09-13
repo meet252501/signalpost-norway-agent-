@@ -1,0 +1,4 @@
+kredittstatus her">-->
+<!--                            <img class="img-fluid d-block d-md-none float-right" src="--><!--" alt="Sjekk kredittstatus her">-->
+<!--                        </a>-->
+               

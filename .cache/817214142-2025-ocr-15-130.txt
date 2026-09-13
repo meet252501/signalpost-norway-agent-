@@ -1,0 +1,557 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 739062
+Virksomheten
+Organisasjonsnummer : 817 214 142
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ONO CONSULTING AS
+Forretningsadresse: c/o Regus as
+Oalsgata 7
+4307 SANDNES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Oddgeir Nord-Varhaug
+Dato for fastsettelse av arsregnskapet: 06.07.2026
+Revisjon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsforer har i
+lg@pet av regnskapsaret bistatt ved den
+lg@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 03.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 817 214 142
+
+ONO CONSULTING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 653 700 1 502 000
+
+Sum inntekter 1 653 700 1 502 000
+
+Kostnader
+
+Lennskostnad 1, 2, 3 571 786 1 091 128
+
+Annen driftskostnad 864 014 475 933
+
+Sum kostnader 1 435 sol 1 567 062
+
+Driftsresultat 217 899 -65 062
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 0 390 000
+
+Annen renteinntekt 833 0
+
+Annen finansinntekt 475 000 23
+
+Sum finansinntekter 475 833 390 023
+
+Annen rentekostnad 43 476 37 434
+
+Annen finanskostnad 0 104
+
+Sum finanskostnader 43 476 37 538
+
+Netto finans 432 357 352 485
+
+Resultat fer skattekostnad 650 256 287 424
+
+Skattekostnad 38 569 9 078
+
+Arsresultat 611 687 278 346
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 300 000 200 000
+
+Annen egenkapital 311 687 78 346
+Utskriftsdato 03.08.2026 Organisasjonsnr 817 214 142 Side 1 av 3
+
+Organisasjonsnr: 817 214 142
+ONO CONSULTING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investering i datterselskap 4 188 950 188 950
+Investering i annet
+foretak i samme konsern 4 0) 0)
+Lan til foretak i samme
+konsern 4 822 444 621 854
+Investeringer i aksjer og
+andeler 15 000 15 000
+Andre langsiktige
+fordringer 0 15 000
+Sum finansielle
+anleggsmidler 1 026 394 840 804
+Sum anleggsmidler 1 026 394 840 804
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 18 000 126 500
+Andre kortsiktige
+fordringer 603 790 269 221
+Konsernfordringer 4 0 0
+Sum fordringer 621 790 395 721
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 34 205 4 000
+Sum bankinnskudd,
+kontanter og lignende 34 205 4 000
+Sum omlepsmidler 655 994 399 721
+SUM ELENDELER 1 682 389 1 240 525
+BALANSE - EGENKAPITAL OG
+GJELD
+
+Utskriftsdato 03.08.2026 Organisasjonsnr 817 214 142 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 6 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 6 835 854 524 167
+
+Sum opptjent egenkapital 835 854 524 167
+
+Sum egenkapital 865 854 554 167
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 719 1 843
+
+Sum avsetninger for
+
+forpliktelser 719 1 843
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 7 15 650 94 542
+
+Langsiktig konserngjeld 4 276 444 0
+
+@vrig langsiktig gjeld 7 0 118 569
+
+Sum annen langsiktig gjeld 292 094 213 111
+
+Kortsiktig gjeld
+
+Leverandergjeld 56 804 51 067
+
+Betalbar skatt 39 693 7 235
+
+Skyldige offentlige
+
+avgifter 58 514 282 656
+
+Utbytte 300 000 0
+
+Annen kortsiktig gjeld 68 711 130 447
+
+Sum kortsiktig gjeld 523 722 471 404
+
+Sum gjeld 816 534 686 358
+
+SUM EGENKAPITAL OG GJELD 1 682 389 1 240 525
+Utskriftsdato 03.08.2026 Organisasjonsnr 817 214 142 Side 3 av 3
+
+Organisasjonsnr: 817 214 142
+
+ONO CONSULTING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+er eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett ar. Langsiktig gjeld er gjeld som
+forfaller senere enn ett ar etter transaksjonsdagen. Forste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som
+omlepsmiddel og kortsiktig gjeld.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belep pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes a vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+Leieavtaler er ikke balansefert. Kostmetoden er benyttet for
+
+investeringer i datterselskap/tilknyttet selskap. Utbytte er inntektsfert
+samme ar som det er avsatt i datterselskap/tilknyttet selskap, dersom det
+er sannsynlig at belepet vil mottas. Ved utbytte som overstiger andel av
+tilbakeholdt resultat etter kj@pet representerer den overskytende del
+tilbakebetaling av investert kapital, og er fratrukket investeringens verdi
+i balansen.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt skattemessig
+underskudd til fremfering ved utgangen av regnskapsaret. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er fastsatt og skattevirkningen er beregnet pa
+nettogrunnlaget.
+
+Fordringer
+
+Virksomheten driver konsulentvirksomhet og er
+
+Holdingselskap. Selskapet drives fra Sandnes i Norge.
+
+Selskapet har ikke
+
+endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+1
+Antall Aarsverk i regnskapsaret
+0.90
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+480825.00 903929.00
+Folketrygqdavgift Arets Fljorarets
+75773 .00 130560.00
+Andre ytelser Arets Fjorarets
+15189.00 56639.00
+Sum lennskostnader Arets Fjorarets
+571786.00 1091128.00
+Note
+4
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregns kap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Ja
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Sma selskap
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belep - foretak i samme konserm Arets Fjorarets
+822444.00 537854.00
+Samlet bel@p - tilknyttet selskap Arets Fjorarets
+0.00 84000.00
+Annen langsiktig gjeld
+
+Samlet belep - foretak i samme konsern Arets Fjorarets
+276444.00 0.00
+Samlet forpliktelse til fordel for foretak i samme konsern
+Mer om tilknyttet selskap/datterselskap
+LAn til datterselskaper
+Note
+7
+Gjeld
+Gjeld som forfaller til betaling mer enn fem ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+15650.00
+Balansefert verdi av de pantsatte eiendeler
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+Mer om gjeld
+Gjeld til kreditinstitusjon
+
+Arsregnskap for
+ONO CONSULTING AS
+817214142
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+ONO CONSULTING AS
+817 214142
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1 653 700 1 502 000
+Sum driftsinntekter 1 653 700 1 502 000
+Driftskostnader
+Lgnnskostnad 1,2,3 -571 786 -1 091 128
+Annen driftskostnad -864 014 -475 933
+Sum driftskostnader -1 435 801 -1 567 062
+Driftsresultat 217 899 -65 062
+Finansinntekter
+Inntekt pa investering i datterselskap og tilknyttet 0 390 000
+selskap
+Annen renteinntekt 833 0
+Annen finansinntekt 475 000 23
+Sum finansinntekter 475 833 390 023
+Finanskostnader
+Annen rentekostnad -43 476 -37 434
+Annen finanskostnad 0 -104
+Sum finanskostnader -43 476 -37 538
+Netto finans 432 357 352 485
+Resultat for skattekostnad 650 256 287 424
+Skattekosinad -38 569 -9 078
+Arsresultat 611 687 278 346
+Overforinger
+Ordinzert utbytte 300 000 200 000
+Annen egenkapital 311 687 78 346
+Sum overferinger 611 687 278 346
+
+ONO CONSULTING AS
+817 214 142
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investering i datterselskap 4 188 950 188 950
+Lan til foretak i samme konsern 4 822 444 621 854
+Investeringer i aksjer og andeler 15 000 15 000
+Andre langsiktige fordringer 0 15 000
+Sum finansielle anleggsmidler 1 026 394 840 804
+Sum anleggsmidler 1 026 394 840 804
+Omlgpsmidler
+Fordringer
+Kundefordringer 18 000 126 500
+Andre kortsiktige fordringer 603 790 269 221
+Sum fordringer 621 790 395 721
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 34 205 4 000
+Sum bankinnskudd, kontanter og lignende 34 205 4000
+Sum omlgpsmidler 655 994 399 721
+SUM EIENDELER 1 682 389 1 240 525
+
+ONO CONSULTING AS
+817 214 142
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5,6 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 6 835 854 524 167
+Sum opptjent egenkapital 835 854 524 167
+Sum egenkapital 865 854 554 167
+Gjeld
+Avsetning og forpliktelser
+Utsatt skatt 719 1 843
+Sum avsetning for forpliktelser 719 1 843
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 7 15 650 94 542
+Langsiktig konserngjeld 4 276 444 0
+@vrig langsiktig gjeld q 0 118 569
+Sum annen langsiktig gjeld 292 094 213 111
+Kortsiktig gjeld
+Leverandgrgjeld 56 804 51 067
+Betalbar skatt 39 693 7 235
+Skyldige offentlige avgifter 58 514 282 656
+Utbytte 300 000 0
+Annen kortsiktig gjeld 68 711 130 447
+Sum kortsiktig gjeld 523 722 471 404
+Sum gjeld 816 534 686 358
+SUM EGENKAPITAL OG GJELD 1 682 389 1 240 525
+SANDNES, 06.07.2026
+Oddgeir Nord-Varhaug
+styrets leder / daglig leder
+
+ONO CONSULTING AS
+
+817 214 142
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets! @pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlg@psmiddel og kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefert. Kostmetoden er benyttet for investeringer i datterselskap/tilknyttet selskap.
+Utbytte er inntektsfert samme ar som det er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at
+belgpet vil mottas. Ved utbytte som overstiger andel av tilbakeholdt resultat etter kigpet representerer den
+overskytende del tilbakebetaling av investert kapital, og er fratrukket investeringens verdi i balansen.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremforing ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Fordringer
+
+Virksomheten driver konsulentvirksomhet og er Holdingselskap. Selskapet drives fra Sandnes i Norge.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+ONO CONSULTING AS
+817 214 142
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 0,9
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 480 825 903 929
+Arbeidsgiveravgift 15 773 130 560
+Pensjonskostnader 0 0
+Andre relaterte ytelser 15 189 56 639
+Sum 571 786 1091 128
+Note 3 - Ytelser til ledende personer
+Det er ikke gitt lann, annen godtgj@relse mv. til ledende personer.
+Note 4 - Konsern, tilknyttet selskap m.v.
+Konsernregnskap
+Begrunnelse for at datterselskap er utelatt fra kKonsolideringen
+Sma selskap
+Fordringer
+2025 2024
+Samlet belap som gjelder foretak i samme konsern 822 444 537 854
+Samlet belap som gjelder tilknyttet selskap 0 84 000
+Annen langsiktig gjeld
+2025 2024
+Samlet belap som gjelder foretak i samme konsern 276 444 0
+Mer om tilknyttet selskap/datterselskap
+LAn til datterselskaper
+Note 5 - Aksjekapital
+Aksjenes
+Aksjeklasse CCC aksjer___—ipalydende__ Bokfort verdi
+A-aksjer 30 1 000 30 000
+Aksjoneerer Antall aksjer Eierandel % Aksjeklasse
+ODDGEIR NORDVARHAUG 30 100,00 A-aksjer
+
+ONO CONSULTING AS
+817 214 142
+Note 6 - Egenkapital
+Opptjent
+Aksjekapital egenkapital sum
+Egenkapital 31.12.2024 30 000 524 167 554 167
+Arsresultat 0 611 687 611 687
+Avsatt utbytte 0 -300 000 -300 000
+Egenkapital 31.12.2025 30 000 835 854 865 854
+Note 7 - Gjeld og garantiforpliktelser
+Belop
+Del av gjelden som forfaller til betaling mer enn fem ar etter regnskapsarets slutt 0
+Gjeld som er sikret ved pant eller lignende sikkerhet i eiendeler 15 650
+Balansefert verdi av pantsatte eiendeler 0
+Summen av garantiforpliktelser som ikke er regnskapsfert 0
+Mer om gjeld
+Gjeld til kreditinstitusjon

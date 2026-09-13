@@ -1,0 +1,480 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 491036
+Virksomheten
+Organisasjonsnummer : 948 543 303
+Organisasjonsform: Borettslag
+Foretaksnawn: BORETTSLAGET SVERDRUPSGATE 7
+Forretningsadresse: Arbeidersamfunnets plass 1
+0181 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Marianne Bisset Sperre
+Dato for fastsettelse av arsregnskapet: 26.05.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 25.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 948 543 303
+
+BORETTSLAGET SVERDRUPSGATE 7
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 1 1 104 328 1 104 576
+
+Sum inntekter 1 104 328 1 104 576
+
+Kostnader
+
+Lennskostnad 2 59 013 88 762
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 30 082 30 082
+
+Annen driftskostnad 4,5,6,7,8 771 531 705 279
+
+Sum kostnader 860 625 824 122
+
+Driftsresultat 243 703 280 454
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 18 666 19 261
+
+Annen rentekostnad 156 776 167 630
+
+Netto finans 138 110 148 369
+
+Arsresultat 105 593 132 085
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 105 593 132 085
+
+Sum overferinger og
+
+disponeringer 105 593 132 085
+Utskriftsdato 25.06.2026 Organisasjonsnr 948 543 303 Side 1 av 3
+
+Organisasjonsnr: 948 543 303
+
+BORETTSLAGET SVERDRUPSGATE 7
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Tomter, bygninger og
+
+annen fast eiendom 3 7 723 535 7 723 535
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner
+
+og lignende 3 19 430 49 512
+
+Sum anleggsmidler 7 742 965 7 773 046
+
+Omlepsmidler
+
+Varer
+
+Kundefordringer 3 744 3.775
+
+Andre fordringer 198 078 156 947
+
+Bankinnskudd, kontanter
+
+og lignende 149 371 201 867
+
+Sum omlepsmidler 351 192 362 590
+
+SUM ELENDELER 8 094 157 8 135 636
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Sum innskutt egenkapital 2 000 2 000
+
+Opptjent egenkapital
+
+Annen egenkapital 2 107 907 2 002 314
+
+Sum opptjent egenkapital 2 105 907 2 000 314
+
+Sum egenkapital 10 2 107 907 2 002 314
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 11 3 010 469 3 170 495
+
+@vrig langsiktig gjeld 2 900 000 2 900 000
+
+Sum langsiktig gjeld 5 910 469 6 070 495
+
+Kortsiktig gjeld
+
+Leverandergjeld 48 976 41 860
+
+Skyldige offentlige
+
+avgifter -32 3 388
+Utskriftsdato 25.06.2026 Organisasjonsnr 948 543 303 Side 2 av 3
+
+Annen kortsiktig gjeld 26 838 17 579
+
+Sum kortsiktig gjeld 75 781 62 827
+
+Sum gjeld 5 986 250 6 133 322
+
+SUM EGENKAPITAL OG GJELD 8 094 157 8 135 636
+
+POSTER UTENOM BALANSEN
+
+Pantstillelser 12 5 910 469 6 070 495
+Utskriftsdato 25.06.2026 Organisasjonsnr 948 543 303 Side 3 av 3
+
+Organisasjonsnr: 948 543 303
+
+BORETTSLAGET SVERDRUPSGATE 7
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+2
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025 Borettslaget Sverdrupsgate 7
+
+Disponible midler
+
+Regnskap Regnskap
+
+2025 2024
+A. Disponible midler fra foregaende arsregnskap 299 763 289 899
+B. Endring i disponible midler
+Resultat hittil 105 593 132 085
+Tilbakefgring av avskrivning 30 082 30 082
+Opptak/avdrag langsiktig gjeld -160 026 -152 303
+B. Arets endring disponible midler -24 351 9 864
+C. Disponible midler 275 411 299 763
+Spesifikasjon av disponible midler:
+Omlg@psmidler 351 192 362 590
+Kortsiktig gjeld -75 781 -62 827
+C. Disponible midler 275 411 299 763
+Borettslagets disponible midler er de g@konomiske midlene som borettslaget har til radighet.
+De defineres som oml@psmidler fratrukket kortsiktig gjeld.
+733 Borettslaget Sverdrupsgate 7 Org. nr 948543303
+
+Resultatregnskap 2025 Borettslaget Sverdrupsgate 7
+Note Regnskap Regnskap Budsjett Budsjett
+2025 2024 2025 2026
+INNTEKT
+Leieinntekt
+Innkrevd felleskostnad 4 1 104 328 1 104 576 1 105 143 1101 083
+Sum leieinntekt 1 104 328 1104 576 1105 143 1101 083
+Annen inntekt
+Sum inntekt 1 104 328 1104 576 1105 143 1101 083
+KOSTNAD
+Lonnskostnad
+Lennskostnad 2 7013 36 762 8 400 7 332
+Styrehonorar 2 52 000 52 000 52 000 52 000
+Av- og nedskrivning
+Avskrivning 3 30 082 30 082 0 0
+Driftskostnad
+Energikostnad 57 982 53 328 70 000 58 000
+Kosinad eiendom/lokale 4 5 567 5911 14 000 9 000
+Kommunale avgifter/renovasjon 222 662 207 680 235 000 245 000
+Lisens HMS, vedlikehold og andre lisenser 5 581 0 0 0
+Verktey, inventar og driftsmateriell 6 1410 0 1 000 1 000
+Reparasjon og vedlikehold 7 91 456 65 315 34 000 134 000
+Revisjonshonorar 5 954 5 310 5 000 5 000
+Forretningsfgrerhonorar 90 291 86 901 90 000 95 000
+Andre honorar 8 34 544 42 654 0 0
+TV/bredband 131 427 123 276 126 000 155 000
+Kontingent og gaver 6 505 6 000 6 000 7 000
+Forsikring 117 580 102 812 119 000 130 000
+Andre kostnader 9 5572 6 092 4 000 4000
+Sum kostnad 860 625 824 122 764 400 902 332
+Driftsresultat 243 703 280 454 340 743 198 751
+FINANSPOSTER
+Renteinntekt 18 666 19 261 0 0
+Rentekostnad 156 776 167 630 161 227 147 636
+Netto finansposter 138 110 148 369 161 227 147 636
+Arsresultat 105 593 132 085 179 516 51 115
+Overtfert til/fra annen egenkapital 105 593 132 085 0 0
+SUM OVERFORINGER 105 593 132 085 0 0
+733 Borettslaget Sverdrupsgate 7 Org. nr 948543303
+
+Balanse 2025 Borettslaget Sverdrupsgate 7
+Note 2025 2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Bygninger 3 7 723535 7 723 535
+Andre driftsmidler 3 19 430 49512
+Sum anleggsmidler 7 742 965 7 773 046
+Omlopsmidler
+Restanse felleskostnader 3 744 3775
+Andre kortsiktige fordringer 7 468 0
+Forskuddsbetalte kostnader 190 610 156 947
+Innestaende konsernkonto og bank 149 371 201 867
+Sum omlgpsmidler 351 192 362 590
+SUM EIENDELER 8 094 157 8 135 636
+733 Borettslaget Sverdrupsgate 7 Org. nr 948543303
+
+Balanse 2025 Borettslaget Sverdrupsgate 7
+
+Note 2025 2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Andelskapital 2 000 2 000
+Sum innskutt egenkapital 2000 2 000
+Opptjent egenkapital
+Annen egenkapital 2 105 907 2000 314
+Sum opptjent egenkapital 2 105 907 2000 314
+Sum egenkapital 10 2 107 907 2002 314
+Gjeld
+Langsiktig gjeld
+Pantegjeld 11 3 010 469 3170495
+Borettsinnskudd 2 900 000 2 900 000
+Sum langsiktig gjeld 5 910 469 6 070 495
+Kortsiktig gjeld
+Forskuddsbetalt felleskostnad 11 212 0
+Leverandgrgjeld 48 976 41 860
+Skyldig off. myndigheter -32 3 388
+Palgpne renter 7 283 8 040
+Annen kortsiktig gjeld 8 343 9 539
+Sum kortsiktig gjeld 75 781 62 827
+Sum gjeld 5 986 250 6 133 322
+SUM EGENKAPITAL OG GJELD 8 094 157 8 135 636
+Pantstillelser 12 5 910 469 6070 495
+Sted: Dato:
+
+Marianne Bisset Sperre Hakon Opsund Janne Regine Rugtvedt
+Styreleder Styremediem Styremediem
+733 Borettslaget Sverdrupsgate 7 Org. nr 948543303
+
+Noter arsregnskap 2025 Borettslaget Sverdrupsgate 7
+Note 0 - Regnskapsprinsipper
+Arsregnskapet er utarbeidet i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Nummereringen av noter er basert pa en forhandsdefinert struktur, og enkelte numre utgar dersom de ikke er relevante.
+Klassifisering og vurdering av balanseposter
+Omlgpsmidler og kortsiktig gjeld omfatter poster som forfaller til betaling innen ett ar. @vrige poster er klassifisert som anleggsmiddel/langsiktig gjeld.
+Omlepsmidler vurderes til laveste av anskaffelseskost og virkelig verdi.For a sikre de beste betingelsene for drifts- og sparekontoer, er disse tilknyttet USBL sin
+konsemkontoavtale i henhold til kundeavtalen. Kortsiktig gjeld balanseferes til nominelt belgp pa etableringstidspunktet.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet ikke forventes a4 vaere forbigaende.
+Langsiktig gjeld balansefgres til nominelt belep pa etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Varige driftsmidler
+Varige driftsmidler balanseferes og avskrives over driftsmidlets levetid dersom de har levetid over 3 ar og har en kostpris
+som overstiger kr 50.000,-. Avskrivningssats for bygninger er satt til null i henhold til forskrift om arsregnskap og arsberetning for borettslag.
+Direkte vedlikehold av driftsmidler kostnadsfg@res I@pende under driftskostnader,
+mens pakostninger eller forbedringer tillegges driftsmidler og avskrives ihht driftsmidlets levetid.
+Driftsinntekter
+Felleskostnader bokfgres og inntektsfgres i takt med opptjening.
+Inntektsfgring ved salg av varer/tjenester skjer pa leveringstidspunktet.
+Tjenester inntektsfgres etter hvert som de opptjenes.
+Skattetrekk
+Ved Ignnskjgring overfgres skattetrekk til en felles skattetrekkskonto i Usbl.
+
+733 Borettslaget Sverdrupsgate 7 Org. nr. 948543303
+
+Noter arsregnskap 2025 Borettslaget Sverdrupsgate 7
+Note 1 - Innkrevde felleskostnader
+2025 2024
+3600 Innkrevde felleskostn. drift 784 332 784 332
+3609 Leie parkering 1 584 0
+3650 Innkrevde felleskostn. renter 155 732 165 752
+3660 Innkrevde felleskostn. avdrag 162 680 154 492
+Sum 1 104 328 1104 576
+Note 2 - Lonnskostnader og styrehonorar
+2025 2024
+5100 Fast lgnn til ansatte fra lonnssystemet 0 24 000
+5150 Palgpne feriepenger 0 2 880
+5400 Arbeidsgiveravgift 7 312 10 563
+5405 Arb.giv.avg.feriepenger - fra lonnssystemet 0 406
+5800 Refusjon sykepenger fra lannssystemet -141 -1 087
+5801 Aga grl sykelann (db) - fra lonnssystemet -158 0
+5330 Honorar tillitsvalgte fra lannssystemet 52 000 52 000
+Sum 59 013 88 762
+Personalkostnader omfatter lgnns- og personalkostnader, samt arbeidsgiveravgift. Antall arsverk sysselsatt: 0,00
+Note 3 - Varige driftsmidler
+Brannvarslingsanlegg Boligeiendommer Bakgard
+(inkl.tomt)
+Anskaffelseskost pr.01.01 : 98 750 7 723 535 234 983
+Arets tilgang : ff) ff) ff)
+Arets avgang : 0 ff) )
+Anskaffelseskost pr.31.12: 98 750 7 723 535 234 983
+Akkumulerte avskrivninger pr.31.12: 91 069 0 223 234
+Akkumulerte nedskrivninger pr.31.12: 0 0 0
+Bokfert verdi pr.31.12: 7 681 7 723 535 11 749
+Arets avskrivninger : 6 583 0 23 498
+Anskaffelsesar : 2012 1980 2016
+Antatt levetid i ar : 15 10
+Borettslaget bestar av 20 andeler. Eiendommer er oppfert pa g.nr 228, b.nr 434 i Oslo kommune. Eiertomt pa 410 kvm og utgjer kr. 1 390 236,- av byggets
+verdi..
+Borettslagets eiendommer er forsikret gjennom Gjensidige polise nr. SP90984777.
+733 Borettslaget Sverdrupsgate 7 Org. nr. 948543303
+
+Noter arsregnskap 2025 Borettslaget Sverdrupsgate 7
+Note 4 - Kostnad eiendom/ lokaler
+2025 2024
+6362 Skadedyrutryddelse 5 567 5 292
+6393 Blomster/jord, Klipping av gress/hekk 0 619
+Sum 5 567 5911
+Note 5 - Lisens HMS, vedlikehold og andre lisenser
+2025 2024
+6420 Lisenser 581 0
+Sum 581 0
+Note 6 - Verktoy, inventar og driftsmateriell
+2025 2024
+6551 Nokler, laser, navnskilt, postkasser o.1. 1410 0
+Sum 1410 0
+Note 7 - Reparasjoner og vedlikehold
+2025 2024
+6603 Vedlikehold elektro 19 074 26 250
+6617 Vedlikehold brannvemutstyr 1943 1 704
+6644 Fasade/balkonger 8 000 8972
+6646 Mur, betong og grunnarbeid 51 438 0
+6648 Vedlikehold dgrer og porter 0 17913
+6663 Vedlikehold ventilasjon 11 001 10476
+Sum 91 456 65 315
+Konto 6646 gjelder smajobber i forbindelse med skader.
+Styret mener at det gjennomferte vedlikeholdet er tilstrekkelig for 4 oppveie verdiforringelse av bygning.
+Note 8 - Andre honorar
+2025 2024
+6714 Tilleggstjenester forretningsfgrer 1 025 6 325
+6730 Teknisk honorar 33 519 36 329
+Sum 34 544 42 654
+Konto 6714 gjelder adm. av l@nnsavtale.
+Konto 6730 gjelder byggfaglig spesialisert radgivning.
+Note 9 - Andre kostnader
+2025 2024
+7718 Fellesarrangement 0 2 202
+7770 Betalingskostnader 1103 959
+7772 Omkostninger inkasso 0 830
+7773 Omkostninger innkreving 2970 2100
+7790 Andre kostnader 1 500 0
+Sum 5572 6 092
+733 Borettslaget Sverdrupsgate 7 Org. nr. 948543303
+
+Noter arsregnskap 2025 Borettslaget Sverdrupsgate 7
+Note 9 - Andre kostnader
+
+Noter arsregnskap 2025 Borettslaget Sverdrupsgate 7
+
+Note 10 - Egenkapital
+
+Egenkapital Endringer Egenkapital
+
+per 01.01 per 31.12
+Egenkapital
+Innskutt egenkapital
+Andelskapital 2 000 0 2 000
+Sum innskutt egenkapital 2000 0 2 000
+Opptjent egenkapital
+Arets resultat 2 000 314 105 593 2 105 907
+Sum opptjent egenkapital 2 000 314 105 593 2 105 907
+Sum egenkapital 2 002 314 105 593 2107 907
+733 Borettslaget Sverdrupsgate 7 Org. nr. 948543303
+
+Noter arsregnskap 2025 Borettslaget Sverdrupsgate 7
+Note 11 - Langsiktig gjeld
+Kreditor: DNB Boligkreditt AS Den Norske Stats
+v/DNB Bank ASA Husbank
+Formal: Fasaderehabilitering
+og alminnelig
+vedlikehold
+Lanenummer: 12132170833 114375074
+Lanetype: Annuitet Annuitet
+Opptaksar: 2016 2004
+Rentesats: 5.30 % 2.682 %
+Betingelser: Fastrente t.o.m
+01.11.2032
+Beregnet innfridd: 30.12.2040 01.02.2034
+Opprinnelig lanebelgp: 3 500 000 1 396 500
+Lanesaldo 01.01: 2 524 713 645 782
+Avdrag i perioden: 99 468 60 558
+Lanesaldo 31.12: 2 425 245 585 224
+Saldo 5 ar frem i tid: 1 817 906 257 144
+Langsiktig gjeld
+Ant. andeler Andel gjeld 31.12 Sum fellesgjeld
+Antall andeler, andel gjeld og sum av fellesgjeld lan 114375074 8 73 153 585 224
+Antall andeler, andel gjeld og sum av fellesgjeld lan 12132170833 1 145 893 145 893
+4 141 524 566 096
+4 132 843 531 372
+4 124 598 498 392
+4 120 776 120 776
+4 106 799 106 799
+4 94 732 378 928
+4 76 987 76 987
+Note 12 - Pantstillelser
+Bokfert verdi pr. 31.12.2025
+Bokfortlangsiktiggjeld ts—(‘i‘“—<“‘“‘i‘(<i‘(‘(‘ sé 8010469
+Innskuddskapital 2 900 000
+Boligselskapets pantesikrede gjeld 5910 469
+Bokfart verdi av pantsatt eiendom 7 723 535
+Borettslagets bokfgrte gjeld er sikret ved pant. Borettsinnskuddet er en del av borettslagets pantsikrede gjeld.
+Borettslagets eiendom er stillet som pantesikkerhet.
+733 Borettslaget Sverdrupsgate 7 Org. nr. 948543303

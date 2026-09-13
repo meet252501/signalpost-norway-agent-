@@ -1,0 +1,604 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 658044
+Virksomheten
+Organisasjonsnummer : 922 393 265
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: INFRASTRUCTURE NORDICS 4 AS
+Forretningsadresse: c/o STACK Infrastructure Norway AS
+Ulvenveien 82E
+0581 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Nei
+Benyttet ved utarbeidelsen av
+arsregnskapet: Forenklet IFRS
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Trym Simensen
+Dato for fastsettelse av arsregnskapet: 03.07.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 922 393 265
+
+INFRASTRUCTURE NORDICS 4 AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Revenue from services sold 3, 9 16 022 000 7 581 000
+
+Sum inntekter 16 022 000 7 581 000
+
+Kostnader
+
+Cost of services sold 15 132 000 7 560 000
+
+Depreciation and
+
+amortisation expenses 5 77 000 92 000
+
+Other expenses 4 -9 261 000 11 053 000
+
+Sum kostnader 5 947 000 18 705 000
+
+Driftsresultat 10 075 000 -11 124 000
+
+Finansinntekter og
+
+finanskostnader
+
+Income from subsidiaries 332 305 000
+
+Renteinntekt fra foretak
+
+i samme konsern 9 458 716 000 479 340 000
+
+Annen renteinntekt 212 000 344 000
+
+Other financial income 121 275 000 52 922 000
+
+Sum finansinntekter 912 507 000 532 606 000
+
+Rentekostnad til foretak
+
+i samme konsern 9 456 811 000 504 398 000
+
+Annen rentekostnad 39 000 2 920 000
+
+Other financial expenses 38 320 000 23 810 000
+
+Sum finanskostnader 495 169 000 531 127 000
+
+Netto finans 417 338 000 1 479 000
+
+Resultat fer skattekostnad 427 413 000 -9 645 000
+
+Income tax expense 7 54 137 000 -2 122 000
+
+Arsresultat 373 276 000 -7 523 000
+
+Arsresultat etter
+
+minoritetsinteresser 373 276 000 -7 523 000
+
+Totalresultat 373 276 000 -7 523 000
+
+Overferinger og
+
+disponeringer
+
+Other equity 373 276 000 -7 523 000
+
+Sum overferinger og
+
+disponeringer 373 276 000 -7 523 000
+Utskriftsdato 30.07.2026 Organisasjonsnr 922 393 265 Side 1 av 3
+
+Organisasjonsnr: 922 393 265
+
+INFRASTRUCTURE NORDICS 4 AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 7 17 000 25 964 000
+
+Sum immaterielle eiendeler 17 000 25 964 000
+
+Varige driftsmidler
+
+Property, plant and
+
+equipment 5 376 000 453 000
+
+Sum varige driftsmidler 376 000 453 000
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 8 3 219 870 000 4 062 210 000
+
+Lan til foretak i samme
+
+konsern 6, 9 4 079 571 000 7 843 986 000
+
+Other long-term receivables 9 38 290 000
+
+Sum finansielle
+
+anleggsmidler 7 299 441 000 11 944 486 000
+
+Sum anleggsmidler 7 299 835 000 11 970 902 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Trade and other receivables 6 1 057 000 14 568 000
+
+Public tax receivables 3 404 000
+
+Konsernfordringer 6, 9 590 573 000 224 897 000
+
+Sum fordringer 591 630 000 242 869 000
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Cash and cash equivalents 10 68 396 000 1 991 000
+
+Sum bankinnskudd,
+
+kontanter og lignende 68 396 000 1 991 000
+
+Sum omlepsmidler 660 026 000 244 860 000
+
+SUM ELENDELER 7 959 860 000 12 215 762 000
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Share capital 11 555 000 555 000
+
+Beholdning av egne aksjer 575 613 000
+
+Overkurs 2 645 167 000 3 682 002 000
+Utskriftsdato 30.07.2026 Organisasjonsnr 922 393 265 Side 2 av 3
+
+Sum innskutt egenkapital 3 221 336 000 3 682 557 000
+
+Opptijent egenkapital
+
+Retained earnings 379 574 000 -113 143 000
+
+Sum opptjent egenkapital 379 574 000 -113 143 000
+
+Sum egenkapital 3 600 910 000 3 569 415 000
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 6, 9 4 136 636 000 8 368 483 000
+
+Sum annen langsiktig gjeld 4 136 636 000 8 368 483 000
+
+Sum langsiktig gjeld 4 136 636 000 8 368 483 000
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 6 937 000 13 527 000
+
+Public tax liabilities 6 23 695 000
+
+Kortsiktig konserngjeld 6, 9 197 683 000 264 338 000
+
+Sum kortsiktig gjeld 222 314 000 277 865 000
+
+Sum gjeld 4 358 950 000 8 646 348 000
+
+SUM EGENKAPITAL OG GJELD 7 959 860 000 12 215 762 000
+Utskriftsdato 30.07.2026 Organisasjonsnr 922 393 265 Side 3 av 3
+
+Var dato Din/Deres dato Saksbehandler
+05.06.2019 07.05.2019 Henning Stokke
+800 80 000 Din/Deres referanse Telefon
+Skatteetaten Skatteetaten.no Alexandra Wallestad 800 80 000
+Org.nr Var referanse Postadresse
+974761076 2019/5921625 Postboks 9200 Granland
+0134 OSLO
+DigiPlex Norway AS
+Ulvenveien 82E
+0581 OSLO
+Tillatelse til 4 utarbeide arsberetning og arsregnskap pa engelsk sprak
+—_ Vi viser til deres brev av 7. mai 2019 der det sekes om dispensasjon fra kravet til 4 utarbeide arsregnskap
+og arsberetning pa norsk sprak for felgende selskaper:
+DigiPlex Norway Holding 1 AS org.nr. 922 393 265
+DigiPlex Norway Holding 2 AS org.nr. 922 393 257
+Skattedirektoratet gir pa bakgrunn av en konkret helhetsvurdering selskapene nevnt ovenfor dispensasjon
+fra kravet til a utarbeide arsregnskap og arsberetning pa norsk sprak, jf. regnskapsloven § 3-4 tredje ledd.
+Dispensasjonen gjelder sa lenge opplysningene som vedtaket baserer seg pa ikke endres vesentlig.
+Kopi av dette brevet ma sendes Regnskapsregisteret i Branngysund sammen med arsregnskapet. Det
+paligger den regnskapspliktige 4 dokumentere ved dette brev at tillatelsen er gitt.
+Bakgrunn
+Fra soknaden gjengis:
+Begge selskaper er hoidingselskaper med formal om a konsolidere de underliggende
+driftsselskapene.
+DigiPlex Norway Holding 2 AS (DNH2), som er heleid av DigiPlex Norway Holding 1 AS, inngar
+DigiPlex Norway AS, DigiPlex Rosenholm AS og DigiPlex Fet AS. For samtlige av disse
+selskapene utarbeides det arsregnskap og arsberetning pa engelsk allerede.
+DigiPlex Norway Holding 1 AS (DNH1) er holding for DigiPlex Holding 2 AS, DigiPlex Fet 2 AS
+og DigiPlex Holtskogen AS som er under efablering i disse dager. Selskapet er heleid av de
+amerikanske selskapene DigiPlex Norway LLC, DigiPlex Rosenhoim LLC og DigiPlex Fet LLC.
+Selskapenes styreleder og styremediemmer er engelskspraklige og selskapene opererer i en
+internasjonal bransje med engelsk som arbeidssprak. Regnskapsinformasjon internt i selskapet
+ufarbeides ogsa pa engelsk.
+Det vises til at det er allerede gitt dispensasjon til selskapene DigiPlex Fet AS, DigiPlex
+Rosenholm AS, DigiPlex Norway AS og DigiPlex Fet 2 AS.
+Side 1/2
+
+Skattedirektoratets vurdering
+Etter regnskapsloven § 3-4 tredje ledd skal "arsregnskapet og arsberetningen ... veere pa norsk.
+Departementet kan ved ... enkeltvedfak bestemme at arsregnskapet og/eller arsberetningen kan
+veere pa et annet sprak.”
+| Ot. prp. nr. 42 (1997-1998) Om lov om arsregnskap m.v., er det uttalt falgende om
+regnskapslovens formal, jf. pkt. 1.1:
+"Regjeringen har som siktemal at regnskapsioven skal bidra til informative regnskaper for ulike
+grupper av regnskapsbrukere. Regnskapsbrukerme er dels investorer og krediforer som tilforer
+kapital til foretakene, og dels andre grupper som har interesse av a vite hvordan foretaket drives,
+f.eks. de ansatte og lokaisamfunnet. Informasjonen til kapifalmarkedet skal gi grunniag for nktig
+prising av finansielle objekter. Riktig prisdanneise pa aksjer er en forutsetning for at ressursbruken |
+samfunnsgkonomien skal bli best mulig. Gode regnskaper vil ogsa gjare det vanskeligere for
+markedsdeltakere a fa uf spekulasjonsgevinster med basis i skjevt fordeit informasjon.”
+Det fremgar saledes at et av hovedformalene med regnskapsloven er a bidra til “informative
+regnskaper for ulike grupper av regnskapsbrukere”. Regnskapsbrukere vil omfatte, jf. uttalelsen i
+proposisjonen, blant andre investorer, kreditorer, ansatte og lokalsamfunnet.
+Det er etter Skattedirektoratets vurdering derfor avgj@rende ved vurdering av om dispensasjon fra
+kravet til 4 utarbeide arsregnskap og/eller arsberetning pa norsk kan gis, at det ikke foreligger mulige
+brukere av regnskapsinformasjon som blir vesentlig bergrt negativt ved en eventuell dispensasjon.
+Som nevnt ovenfor er det er seerlig hensynet til brukerne av regnskapsinformasjon som skal vurderes ved
+en dispensasjonssgknad. | denne vurderingen har Skattedirektoratet lagt vekt pa at selskapene er del av et
+utenlansk konsern. Eierkretsen er begrenset. | tillegg opererer selskapene i en internasjonal bransje, og
+arbeidsspraket er engelsk. Videre er det vektlagt at alle sentrale aktgrer og samarbeidspartnere innen
+denne bransjen behersker og benytter engelsk.
+Vennligst oppgi var referanse ved henvendelser i saken.
+Med hilsen
+Torstein Kinden Helleland
+seniorradgiver
+Juridisk avdeling, neering
+Skattedirektoratet
+Henning Stokke
+Dokumentet er elektronisk godkjent og har derfor ikke handskrevne signaturer.
+Side 2/2
+
+Docusign Envelope ID: C599B299-4600-8F78-83EC-09182F0C4285
+Board of Directors’ report 2025
+
+We are pleased to present the 2025 annual financial report for Infrastructure Nordics 4 AS.
+BACKGROUND
+The Company is a subsidiary of a group of companies operating under the name Stack
+Infrastructure Nordics (the “Group” or “STACK”}, headed up by Infrastructure Nordics Holdings
+|, S.a rl.
+The Group was established on 17 August 2021, when the previously called DigiPlex Group of
+companies were acquired by affiliates of IPI Partners, LLC, a global investment platform focused
+exclusively on data centers and other technology and connectivity-related real assets (“IPI”).
+In January 2025, Blue Owl Capital Inc. (“Blue Owl”}, a leading alternative asset manager,
+completed the acquisition of IPI. The completion of the acquisition of further enhances Blue
+Owl's digital infrastructure strategy as part of the firm’s Real Estate platform.
+Infrastructure Nordics 4 AS was founded in April 2019. The purpose of the company is to own
+and finance the subsidiaries in the Nordics and is located in Oslo.
+REGULATORY DEVELOPMENTS
+As at the date of this report, the Board is not aware of any current, or potential,
+regulatory/political changes that may cause any risk to the operations of the Company.
+GOING CONCERN
+In accordance with the Norwegian Accounting Act section 3-3, the Board confirms that the
+conditions for continued operations as a going concern are present for the Company and that
+the annual financial statements have been prepared under this presumption.
+INCOME STATEMENT AND STATEMENT OF FINANCIAL POSITION
+Operating revenues totalled NOK 16.0 million (2024: NOK 7.6 million}.
+Operating expenses totalled NOK 5.9 million (2024: NOK 18.7 million}.
+Operating profit totalled NOK 10.1 million (2024: operating loss of NOK 11.1 million).
+Net financial items were NOK 417.3 million (2024: NOK 1.5 million} mainly related to repayment
+of share premium from Infrastructure Norway | AS.
+The profit before income tax was NOK 427.4 million (2024: loss of NOK 9.6 million}. The tax
+expense came in at NOK 54.1 million (2024: tax income of NOK 2.1 million}, resulting in a profit
+for the year of NOK 373.3 million (2024: loss of NOK 7.5 million}. The profit was allocated to
+other equity.
+Cash flow from operating activities ended at NOK -69.5 million (2024: NOK 134.1 million}.
+Cash flow from investing activities ended at NOK -15,3 million (2024: NOK -1,094.1 million}.
+
+Docusign Envelope ID: C599B299-4600-8F78-83EC-09182F0C4285
+Cash flow from financing activities ended at NOK 151,2 million (2024: NOK 956.7 million} and are
+related to shareholder loans.
+Cash and cash equivalents are NOK 68.4 million. The equity ratio was 45.2 %.
+Total assets were NOK 7,959.9 million (2024: NOK 12,215.8 million).
+DIRECTORS’ AND OFFICERS’ LIABILITIES INSURANCE
+The Company has established D&O insurance through Ryan Specialty Group Sweden AB (RSG).
+HEALTH, SAFETY AND WORK ENVIRONMENT
+There are no employees in the Company.
+EXTERNAL ENVIRONMENT
+The Company is a financing company and therefore does not directly impact the environment.
+CORPORATE SOCIAL RESPONSIBILITY
+The Company is a financing company and therefore has no direct social responsibility.
+RESEARCH AND DEVELOPMENT
+The Company is a financing company and has no research and development.
+OUTLOOK AND SUBSEQUENT EVENTS
+The Board is not aware of any additional risk factors facing the Company other than those
+outlined in this report.
+TRANSPARENCY AND COMPLIANCE
+Norway's Transparency Act aims to encourage companies to uphold fundamental human rights
+and decent working conditions while ensuring public access to information. This legislation
+imposes obligations on enterprises to disclose information and conduct due diligence. The
+company assesses their work and results related to the Transparency Act as satisfactory.
+Furthermore, reference is made to the Transparency Act Report on the group's website.
+
+Oslo, 30 June 2026
+
+Age Hellem :
+Chairman of the board
+
+Docusign Envelope ID: BF061E80-99AD-82F 7-83B5-112D07F56771
+nd
+To the General Meeting of Infrastructure Nordics 4 AS
+Independent Auditor’s Report
+Opinion
+We have audited the financial statements of Infrastructure Nordics 4 AS (the Company), which comprise the balance
+sheet as at 31 December 2025, the profit and loss statement, statement of comprehensive income/s{loss), statement of
+changes in equity and statement of cash flow for the year then ended, and notes to the financial statements, including a
+summary of significant accounting policies.
+In our opinion the financial statements comply with applicable statutory requirements, and the financial statements give a
+true and fair view of the financial position of the Company as at 31 December 2025, and its financial performance and its
+cash flows for the year then ended in accordance with simplified application of international accounting standards
+according to section 3-9 of the Norwegian Accounting Act.
+Basis for Opinion
+We conducted our audit in accordance with International Standards on Auditing (ISAs). Our responsibilities under those
+standards are further described in the Auditor’s Responsibilities for the Audit of the Financial Statements section of our
+report. We are independent of the Company as required by relevant laws and regulations in Norway and the International
+Ethics Standards Board for Accountants’ Intemational Code of Ethics for Professional Accountants {including
+International Independence Standards) {IESBA Code), and we have fulfilled our other ethical responsibilities in
+accordance with these requirements. We believe that the audit evidence we have obtained is sufficient and appropriate to
+provide a basis for our opinion.
+Other Information
+The Board of Directors {management) is responsible for the information in the Board of Directors’ report. The other
+information comprises information in the annual report, but does not include the financial statements and our auditor's
+report thereon. Our opinion on the financial statements does not cover the information in the Board of Directors’ report.
+In connection with our audit of the financial statements, our responsibility is to read the Board of Directors’ report. The
+purpose is to consider if there is material inconsistency between the Board of Directors’ report and the financial
+statements or our Knowledge obtained in the audit, or whether the Board of Directors’ report otherwise appears to be
+materially misstated. We are required to report if there is a material misstatement in the Board of Directors’ report. We
+have nothing to report in this regard.
+Based on our knowledge obtained in the audit, it is our opinion that the Board of Directors’ report
+e is consistent with the financial statements and
+e contains the information required by applicable statutory requirements.
+Responsibilities of Management for the Financial Statements
+Management is responsible for the preparation of financial statements that give a true and fair view in accordance with
+simplified application of International Accounting Standards according to the Norwegian Accounting Act section 3-9,
+and for such internal control as management determines is necessary to enable the preparation of financial statements
+that are free from material misstatement, whether due to fraud or error.
+In preparing the financial statements, management is responsible for assessing the Company's ability to continue as a
+going concem, disclosing, as applicable, matters related to going concern and using the going concern basis of
+accounting unless management either intends to liquidate the Company or to cease operations, or has no realistic
+alternative but to do so.
+Auditor’s Responsibilities for the Audit of the Financial Statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from
+material misstatement, whether due to fraud or error, and to issue an auditor’s report that includes our opinion.
+Reasonable assurance is a high level of assurance, but is not a guarantee that an audit conducted in accordance with
+ISAs will always detect a material misstatement when it exists. Misstatements can arise from fraud or error and are
+considered material if, individually or in aggregate, they could reasonably be expected to influence the economic
+PricewaterhouseCoopers AS, org.no.: 987 009 713 MVA, Statsautoriserte revisorer og medlemmer av Den norske Revisorforening
+Dronning Eufemias gate 71, Postboks 748 Sentrum, NO-0106 Oslo, T: 02316 (+47 952 60 000) www.pwc.no
+
+Docusign Envelope ID: BF061E80-99AD-82F7-83B5-112D07F56771
+decisions of users taken on the basis of these financial statements. For further description of Auditors Responsibilities for
+the Audit of the Financial Statements reference is made to: https://revisorforeningen.no/revisjonsberetninger.
+Oslo, 6 July 2026
+PricewaterhouseCoopers AS
+Signed by:
+[Cla Kauard Jakobsen
+8EC743828CB7442...
+Chris Havard Jakobsen
+State Authonsed Public Accountant
+{electronically signed)
+2/2
+
+Docusign Envelope ID: AASF37F6-C7E3-84D9-80FA-88773A34C0E0
+Profit and Loss Statement
+Infrastructure Nordics 4 AS
+Operating income and operating expenses Note 2025 2024
+Amounts in NOK ‘000.
+Revenue from services sold 3,9 16 022 7 581
+Total revenue 16 022 7 581
+Cost of services sold 15 132 7 560
+Other expenses 4 -9 261 11 053
+Depreciation and amortisation expenses 5 U7 92
+Total operating expenses 5 947 18 705
+Operating profit/{loss) 10 075 -11 124
+Financial income and expenses
+Income from subsidiaries 332 305 -
+Interest income from group companies 9 458 716 479 340
+Other interest income 212 344
+Other financial income 121 275 52 922
+Interest expense to group companies 9 456 811 504 398
+Other interest expenses 39 2 920
+Other financial expenses 38 320 23 810
+Net financial items 417 338 1479
+Profit/(loss) before tax 427 413 -9 645
+Income tax expense 7 54 137 -2 122
+Annual net profit/(loss) 373 276 -7 523
+Statement of comprehensive income/(loss)
+Total comprehensive income/(loss) for the year 373 276 -7 523
+Brought forward
+Other equity 373 276 -7 523
+Net brought forward 373 276 -7 523
+Infrastructure Nordics 4 AS Page 1
+
+Docusign Envelope ID: AA9F37F6-C7E3-84D9-80FA-88773A34COE0
+Balance sheet
+Infrastructure Nordics 4 AS
+Assets Note 2025 2024
+Non-current assets
+Intangible assets
+Deferred tax assets 7 17 25 964
+Total intangible assets 17 25 964
+Property, plant and equipment
+Property, plant and equipment 5 3/76 453
+Total property, plant and equipment 376 453
+Non-current financial assets
+Investments in subsidiaries 8 3 219 870 4 062 210
+Loan to group companies 6,9 4079 571 7 843 986
+Other long-term receivables 9 - 38 290
+Total non-current financial assets 7 299 441 11 944 486
+Total non-current assets 7 299 835 11 970 902
+Current assets
+Trade and other receivables 6 1 057 14 568
+Public tax receivables - 3 404
+Receivables from group companies 6,9 590 573 224 897
+Cash and cash equivalents 10 68 396 1991
+Total current assets 660 026 244 860
+Total assets 7 959 860 12 215 762
+Infrastructure Nordics 4 AS Page 2
+
+Docusign Envelope ID: AASF37F6-C7E3-84D9-80FA-88773A34C0E0
+Balance sheet
+Infrastructure Nordics 4 AS
+Equity and liabilities Note 2025 2024
+Equity
+Paid-in capital
+Share capital 11 555 555
+Unregistered share captial 575 613 -
+Share premium reserve 2 645 167 3 682 002
+Total paid-up equity 3 221 336 3 682 557
+Retained earnings
+Retained earnings 379 574 -113 143
+Total retained earnings 379 574 -113 143
+Total equity 3 600 910 3 569 415
+Liabilities
+Other non-current liabilities
+Share holder loan 6, 9 4 136 636 8 368 483
+Total non-current liabilities 4136 636 8 368 483
+Current liabilities
+Trade and other liabilities 6 937 13 527
+Public tax liabilities 6 23 695 -
+Liabilities to group companies 6,9 197 683 264 338
+Total current liabilities 222 314 277 865
+Total liabilities 4 358 950 8 646 348
+Total equity and liabilities 7 959 860 12 215 762
+Oslo, 30.06.2026
+The board of Infrastructure Nordics 4 AS
+DocuSigned by:
+| = atten
+ge Hellem
+Chairman of the board
+Infrastructure Nordics 4 AS Page 3
+
+Docusign Envelope ID: AASF37F6-C7E3-84D9-80FA-887 73A34COE0O
+Statement of cash flow
+Amounts in NOK '000 Note 2025 2024
+Cash flows from operating activities
+Profit/loss before income tax 427 413 -9 645
+Adjusted for:
+Income from investments - 332 305
+Depreciation and amortisation 0 92
+Financial activities - 85 033 -1 479
+Change in trade and other receivables 11 037 -58 925
+Change in trade and other payables - 90 620 204 056
+Net cash from operating activities - 69 508 134 099
+Cash flows from investing activities
+Interest received 214
+Purchase of property, plant and equipment - 86
+Financial expence - 51 -
+Issue of loan to related party -15 449 -1 626 605
+Proceeds from sale of other investments 0 532 606
+Net cash from investing activities - 15 286 - 1094 085
+Cash flows from financing activities
+Issue of loan and share capital 37 500 -
+EQ distrubution to IN3 0 -
+Uregistered share capital 0 1 420 937
+Repayment of loan from sub 113 699 -
+Loan to group companies 0 66 860
+Downpayment of shareholder loan 0 -531 128
+Net cash from financing activities 151 199 956 669
+Net change in cash and cash equivalents 66 405 -3:317
+Change cash from mergers - -
+Carried forward cash and cash equivalents 1991 5 309
+Cash and cash equivalents on closing date 68 396 1991
+Of which restricted cash and cash equivalents 10 - -
+Page 1 of 11
+
+Docusign Envelope ID: AASF37F6-C7E3-84D9-80FA-887 73A34COE0O
+Statement of changes in equity
+. ' . Unregistered Share premium . .
+Amounts in NOK '000. Note Share capital : Other equity Total equity
+share capital reserve
+
+Balance at 1 January 2025 11 555 0 3 682 002 - 113 143 3 569 414,703
+
+Debt conversion 2025 575 613 575 613
+
+Profit/(loss) for the period - - - 373 276 373 276
+
+Group contribution 2023 Tax 18 858 18 858
+
+Group contribution 2024 - - - 100 583 100 583
+
+Total comprehensive income for the period 0 575 613 0 492 717 1 068 330
+
+Transactions with owners in their capacity as owners:
+
+Dividends payed - 1 036 835 - 1 036 835
+
+Group contribution 0
+
+Balance at 31 December 2025 555 575 613 2 645 167 379 574 3 600 910
+
+Balance at 1 January 2024 11 555 3 682 002 - 172 479 3 510 079
+
+Profit/(loss) for the period - - -7 523 -7 523
+
+Other comprehensive income - - 66 860 66 860
+
+Balance at 31 December 2024 555 3 682 002 - 113 143 3 569 415
+Page 2 of 11

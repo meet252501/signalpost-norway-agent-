@@ -1,0 +1,424 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 511680
+Virksomheten
+Organisasjonsnummer : 821 666 422
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: GREAKERGRUPPEN AS
+Forretningsadresse: Sareptaveien 56
+1622 GRESSVIK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Jon Andre Karlsen
+Dato for fastsettelse av arsregnskapet: 28.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 821 666 422
+
+GREAKERGRUPPEN AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 426 370 428 608
+
+Sum inntekter 426 370 428 608
+
+Kostnader
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 2
+
+Annen driftskostnad 205 503 242 451
+
+Sum kostnader 205 503 242 451
+
+Driftsresultat 220 867 186 157
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 1 028
+
+Sum finansinntekter 1 028
+
+Annen rentekostnad 197 384 159 716
+
+Annen finanskostnad 8 045
+
+Sum finanskostnader 205 429 159 716
+
+Netto finans -204 401 -159 716
+
+Resultat fer skattekostnad 16 466 26 441
+
+Skattekostnad pa resultat 3 1 822
+
+Arsresultat 4 14 644 26 441
+
+Arsresultat etter
+
+minoritetsinteresser 14 644 26 441
+
+Totalresultat 14 644 26 441
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 14 644 26 441
+
+Sum overferinger og
+
+disponeringer 4 14 644 26 441
+Utskriftsdato 02.06.2026 Organisasjonsnr 821 666 422 Side 1 av 3
+
+Organisasjonsnr: 821 666 422
+GREAKERGRUPPEN AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3
+Varige driftsmidler
+Tomter, bygninger o.a.
+fast eiendom 2 2 694 148 2 694 148
+Maskiner og anlegg 2
+Driftslesere, inventar o.
+a. utstyr 2
+Sum varige driftsmidler 2 2 694 148 2 694 148
+Finansielle anleggsmidler
+Lan til foretak i samme
+konsern 5 1 183 750 25 000
+Andre langsiktige
+fordringer
+Sum finansielle
+anleggsmidler 1183 751 25 001
+Sum anleggsmidler 3 877 899 2 719 149
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 126 480 163 125
+Andre kortsiktige
+fordringer 1 426
+Sum fordringer 127 906 163 125
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 6 18 300 17 994
+Sum bankinnskudd,
+kontanter og lignende 18 300 17 994
+Sum omlepsmidler 146 206 181 119
+SUM ELENDELER 4 024 105 2 900 268
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Utskriftsdato 02.06.2026 Organisasjonsnr 821 666 422 Side 2 av 3
+
+Aksjekapital 4, 7 750 000 750 000
+
+Sum innskutt egenkapital 750 000 750 000
+
+Opptjent egenkapital
+
+Annen egenkapital 4 53 864 39 220
+
+Udekket tap 4
+
+Sum opptjent egenkapital 53 864 39 220
+
+Sum egenkapital 803 864 789 220
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 8 3 033 928 1 740 640
+
+Sum annen langsiktig gjeld 3 033 928 1 740 640
+
+Sum langsiktig gjeld 3 033 928 1 740 640
+
+Kortsiktig gjeld
+
+Leverandergjeld 184 490 189 167
+
+Betalbar skatt 3 1 822
+
+Skyldig offentlige avgifter 21 000
+
+Kortsiktig konserngjeld 5 80 000
+
+Annen kortsiktig gjeld 80 241
+
+Sum kortsiktig gjeld 186 312 370 408
+
+Sum gjeld 3 220 241 2 111 048
+
+SUM EGENKAPITAL OG GJELD 4 024 105 2 900 268
+Utskriftsdato 02.06.2026 Organisasjonsnr 821 666 422 Side 3 av 3
+
+Organisasjonsnr: 821 666 422
+
+GREAKERGRUPPEN AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Karon arco
+Arsregnskap 2025
+Greakergruppen AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 821 666 422
+
+Resultatregnskap
+Greakergruppen AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftsinntekt 426 370 428 608
+Sum driftsinntekter 426 370 428 608
+Annen driftskostnad 205 503 242 451
+Sum driftskostnader 205 503 242 451
+Driftsresultat 220 867 186 157
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 1 028 0
+Annen rentekostnad 197 384 159 716
+Annen finanskostnad 8 045 0
+Resultat av finansposter -204 401 -159 716
+Resultat for skattekostnad 16 466 26 441
+Skattekostnad pa resultat 3 1 822 0
+Arsresultat 4 14 644 26 441
+Overforinger
+
+Avsatt til annen egenkapital 14 644 26 441
+Sum overferinger 4 14 644 26 441
+Greakergruppen AS Side 2
+
+Balanse
+
+Greakergruppen AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger o.a. fast eiendom 2 2 694 148 2 694 148
+Sum varige driftsmidler 2 2 694 148 2 694 148
+Finansielle anleggsmidler
+Lan til foretak i samme konsern 5 1 183 750 25 000
+Sum finansielle anleggsmidler 1183 751 25 001
+Sum anleggsmidler 3 877 899 2 719 149
+Omlepsmidler
+Fordringer
+Kundefordringer 126 480 163 125
+Andre kortsiktige fordringer 1 426 0
+Sum fordringer 127 906 163 125
+Bankinnskudd, kontanter o.|. 6 18 300 17 994
+Sum omlepsmidler 146 206 181 119
+Sum eiendeler 4024 105 2 900 268
+Greakergruppen AS Side 3
+
+Balanse
+Greakergruppen AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4,7 750 000 750 000
+Sum innskutt egenkapital 750 000 750 000
+Opptjent egenkapital
+Annen egenkapital 4 53 864 39 220
+Sum opptjent egenkapital 53 864 39 220
+Sum egenkapital 803 864 789 220
+Gjeld
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 8 3 033 928 1 740 640
+Sum annen langsiktig gjeld 3 033 928 1 740 640
+Kortsiktig gjeld
+Leverandorgjeld 184 490 189 167
+Betalbar skatt 3 1 822 0
+Skyldig offentlige avgifter 0 21 000
+Konserngjeld 5 0 80 000
+Annen kortsiktig gjeld 0 80 241
+Sum kortsiktig gjeld 186 312 370 408
+Sum gjeld 3 220 241 2 111 048
+Sum egenkapital og gjeld 4024 105 2 900 268
+28.05.2026
+Styret i Greakergruppen AS
+Jon Andre Karlsen
+styreleder/daglig leder
+Greakergruppen AS Side 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+
+Bruk av estimater
+
+Utarbeidelse av regnskap i samsvar med regnskapsloven krever bruk av estimater. Videre krever
+anvendelse av selskapets regnskapsprinsipper at ledelsen ma utove skjonn.
+
+Driftsinntekter og kostnader
+
+Inntektsforing skjer etter opptjeningsprinsippet som normalt vil vere leveringstidspunktet for varer og
+tjenester. Kostnader medtas etter sammenstillingsprinsippet, dvs. at kostnader medtas i samme periode
+som tilhgrende inntekter inntektsfores.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Anleggsmidler er vurdert til
+anskaffelseskost. Omlopsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen
+ett ar etter balansedagen, samt poster som knytter seg til varekretslapet. Omlopsmidler vurderes til
+laveste verdi av anskaffelseskost og antatt virkelig verdi.
+
+Fordringer klassifiseres som omlopsmidler hvis de skal tilbakebetales i lopet av ett ar. For gjeld er analoge
+kriterier lagt til grunn. Forste ars avdrag pa langsiktige fordringer og langsiktig gjeld klassifiseres likevel
+ikke som omlopsmiddel og kortsiktig gjeld.
+
+Enkelte poster er vurdert etter andre regler. Postene det gjelder vil vaere blant de postene som omhandles
+nedenfor.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores og avskrives lineaert til restverdi over driftsmidlenes forventede
+utnyttbare levetid. Ved endring i avskrivningsplan fordeles virkningen over gjenvezerende avskrivningstid
+("knekkpunktmetoden”). Vedlikehold av driftsmidler kostnadsfores lapende. Pakostninger eller forbedringer
+tillegges driftsmidlets kostpris og avskrives i takt med driftsmidlet. Skillet mellom vedlikehold og
+pakostning/forbedring regnes i forhold til driftsmidlets stand ved kjap av driftsmidlet. Tomter avskrives
+ikke.
+
+Utgifter til leie av driftsmidler kostnadsfores. Forskuddsbetalinger balansefores som forskuddsbetalt
+kostnad, og fordeles over leieperioden.
+
+Investeringer i andre selskaper
+
+Kostmetoden brukes som prinsipp for investeringer i andre selskaper. Kostprisen okes nar midler tilfores
+ved kapitalutvidelse, eller nar det gis konsernbidrag til datterselskap. Mottatte utdelinger resultatfores i
+utgangspunktet som inntekt. Utbytte/konsernbidrag fra datterselskap regnskapsfares det samme aret som
+datterselskapet avsetter belapet. Utbytte fra andre selskaper regnskapsferes som finansinntekt nar
+utbyttet er vedtatt. Investeringene blir nedskrevet til virkelig verdi dersom verdifallet ikke er forbigaende.
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til
+forventet tap. Avsetning for tap gjores pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt beregnes med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt eventuelt ligningsmessig underskudd til fremforing ved
+utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reversere i samme periode er utlignet og nettofort.
+
+Greakergruppen AS Side 5
+
+Note 1 Lonnskostnader
+Greakergruppen AS har ikke hatt lonns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Note 2 Anleggsmidler
+Bygninger Sum
+og tomter
+Anskaffelseskost pr. 01.01.25 2 694 148 2 694 148
+= Anskaffelseskost 31.12.25 2 694 148 2 694 148
+= Bokfort verdi 31.12.25 2 694 148 2 694 148
+Ikke avskrivbar
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordineert resultat:
+Betalbar skatt 1 822 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzrt resultat 1 822 0
+Skattepliktig inntekt:
+Resultat for skatt 16 466 26 441
+Permanente forskjeller 0 0
+Anvendelse av fremforbart underskudd -8 184 -26 441
+Skattepliktig inntekt 8 283 0
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 1 822 0
+Sum betalbar skatt i balansen 1 822 0
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte skattefordeler,
+spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremforbart underskudd 0 -8 184 -8 184
+Inngar ikke i beregningen av utsatt skatt 0 8 183 8 183
+Utsatt skatt / skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefores ikke utsatt skattefordel.
+Greakergruppen AS Side 6
+
+Note 4 Egenkapital
+Aksjekapital Annen EK Sum egenkapital
+Pr. 01.01 750 000 39 220 789 220
+Arets resultat 14 644 14 644
+Pr 31.12 750 000 53 864 803 864
+Note 5 Mellomvzrende med selskap i samme konsern
+2025 2024
+Fordringer
+Lan til foretak i samme konsern 1 183 750 25 000
+Sum 1 183 750 25 000
+Gjeld
+Annen kortsiktig gjeld konsern 0 -80 000
+Sum 0 -80 000
+Note 6 Bankinnskudd
+Bankinnskudd bestar av kun frie midler.
+Note 7 Aksjonzrer
+Aksjekapitalen i Greakergruppen AS pr. 31.12 bestar av:
+Antall Palydende Bokfert
+Ordinaere aksjer 750 1 000,0 750 000
+Sum 750 750 000
+Ejierstruktur
+De storste aksjonzrene i % pr. 31.12 var:
+Ordinz#re Eierandel Stemmeandel
+Jmk Invest AS 750 100,0 100,0
+Note 8 Langsiktig gjeld
+2025
+Langsiktig gjeld med forfall >5 ar 2 110 063
+Gjeld som er sikret ved pant utgjer kr. 3 033 928. Balansefert verdi av de pantsatte eiendelene utgjar kr.
+2 694 148.
+Greakergruppen AS Side 7

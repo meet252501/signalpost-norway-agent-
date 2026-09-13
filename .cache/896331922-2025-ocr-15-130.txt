@@ -1,0 +1,367 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 655218
+Virksomheten
+Organisasjonsnummer : 896 331 922
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ANGEL HOLDING AS
+Forretningsadresse: Angeltveitvegen 3
+5363 AGOTNES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Einar Angeltveit
+Dato for fastsettelse av Aarsregnskapet: 30.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 08.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 896 331 922
+
+ANGEL HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 11 033 10 938
+
+Sum kostnader 11 033 10 938
+
+Driftsresultat -11 033 -10 938
+
+Netto finans
+
+Resultat fer skattekostnad -11 033 -10 938
+
+Skattekostnad pa resultat 2
+
+Arsresultat 4 -11 033 -10 938
+
+Arsresultat etter
+
+minoritetsinteresser -11 033 -10 938
+
+Totalresultat -11 033 -10 938
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital -10 938
+
+Sum overferinger og
+
+disponeringer -10 938
+Utskriftsdato 08.07.2026 Organisasjonsnr 896 331 922 Side 1 av 3
+
+Organisasjonsnr: 896 331 922
+
+ANGEL HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 2
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 3 30 000 30 000
+
+Investering i annet
+
+foretak i samme konsern 3
+
+Sum finansielle
+
+anleggsmidler 30 000 30 000
+
+Sum anleggsmidler 30 000 30 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Konsernfordringer 23 096 23 096
+
+Sum fordringer 23 096 23 096
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 34 72
+
+Sum bankinnskudd,
+
+kontanter og lignende 34 72
+
+Sum omlepsmidler 23 130 23 168
+
+SUM EITENDELER 53 130 53 168
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5 100 000 100 000
+
+Beholdning av egne aksjer 5
+
+Sum innskutt egenkapital 100 000 100 000
+
+Opptjent egenkapital
+
+Udisponert resultat -11 033
+
+Udekket tap 82 501 82 501
+
+Sum opptjent egenkapital -93 534 -82 501
+
+Sum egenkapital 4 6 467 17 499
+Utskriftsdato 08.07.2026 Organisasjonsnr 896 331 922 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Betalbar skatt 2
+
+Annen kortsiktig gjeld 46 663 35 669
+
+Sum kortsiktig gjeld 46 663 35 669
+
+Sum gjeld 46 663 35 669
+
+SUM EGENKAPITAL OG GJELD 53 130 53 168
+Utskriftsdato 08.07.2026 Organisasjonsnr 896 331 922 Side 3 av 3
+
+Organisasjonsnr: 896 331 922
+
+ANGEL HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+hegelvet Err Signature
+Arsregnskap 2025
+Angel Holding AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 896 331 922
+
+BankiD Qualified Signature
+Angeltveit, Einar
+2026-07-06
+RESULTATREGNSKAP |
+ANGEL HOLDING AS
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 11 033 10 938
+Sum driftskostnader 11 033 10 938
+Driftsresultat -11 033 -10 938
+FINANSINNTEKTER OG FINANSKOSTNADER
+Resultat for skattekostnad -11 033 -10 938
+Resultat -11 033 -10 938
+EKSTRAORDINAERE INNTEKTER OG KOSTNADER
+Arsresultat 4 | -11. 033) -10 938
+OVERF@RINGER
+Avsatt til annen egenkapital 0 -10 938
+Sum overfgringer 0 -10 938
+ANGEL HOLDING AS SIDE 2
+
+BankiD Qualified Signature
+Angeltveit, Einar
+2026-07-06
+BALANSE |
+ANGEL HOLDING AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i datterselskap 3 30 000 30 000
+Sum finansielle anleggsmidler 30 000 30 000
+Sum anleggsmidler 30 000 30 000
+OML@PSMIDLER
+FORDRINGER
+Konsernfordringer 23 096 23 096
+Sum fordringer 23 096 23 096
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 34 72
+Sum omlgpsmidler 23 130 23 168
+Sum eiendeler | 53130053: 168|
+ANGEL HOLDING AS SIDE 3
+
+BankiD Qualified Signature
+Angeltveit, Einar
+2026-07-06
+BALANSE |
+ANGEL HOLDING AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 5 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+OPPTJENT EGENKAPITAL
+Udekket tap -82 501 -82 501
+Udisponert resultat -11 033 0
+Sum opptjent egenkapital -93 534 -82 501
+Sum egenkapital 4 6 467 17 499
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+KORTSIKTIG GJELD
+Annen kortsiktig gjeld 46 663 35 669
+Sum kortsiktig gjeld 46 663 35 669
+Sum gijeld 46 663 35 669
+Sum egenkapital og gjeld | 53130 53.168]
+30.06.2026
+Styret i Angel Holding AS
+Einar Angeltveit
+styreleder
+ANGEL HOLDING AS SIDE 4
+
+ay BankiD Qualified Signature
+) Angeltveit, Einar
+ANGEL HOLDING AS O70 921 322
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Omlgpsmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+AKSJER | DATTERSELSKAP
+Datterselskap vurderes etter kostmetoden i selskapsregnskapet. Investeringen er vurdert til
+anskaffelseskost for aksjene med mindre nedskrivning har veert nédvendig. Det er foretatt nedskrivning til
+virkelig verdi nar verdifall skyldes arsaker som ikke kan forventes a veere forbigaende og det ma anses
+ngdvendig etter god regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke
+lenger er til stede.
+Utbytte, konsernbidrag og andre utdelinger fra datterselskap er inntektsfgrt samme ar som det er avsatt i
+givers regnskap. Overstiger utbytte / konsernbidraget andelen av opptjent resultat etter
+anskaffelsestidspunktet, representerer den overskytende del tilbakebetaling av investert kapital, og
+utdelingene er fratrukket investeringens verdi i balansen til morselskapet.
+Note 1 Virksomhetens art og lokalisering
+Angel Holding AS er et selskap der virksomheten omfatter investering i aksjer og eiendom. Selskapet er
+lokalisert i Bygarden kommune.
+Note 2 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -11 033 -10 938
+Permanente forskjeller 0 0
+Skattepliktig inntekt -11 033 -10 938
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Side 5
+
+ay BankiD Qualified Signature
+) Angeltveit, Einar
+ANGEL HOLDING AS O70 921 322
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -102 827 -91 794 11 033
+Inngar ikke i beregningen av utsatt skatt 102 827 91 794 -11 033
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 3 Datterselskap
+Selskapet kommer inn under reglene om sma selskaper, definert i regnskapslovens §1-6, og har med
+hjemmel i regnskapslovens §3-2, 3. ledd unnlatt a utarbeide konsernregnskap.
+Datterselskap er bokfgrt i regnskapet etter kostmetoden.
+Selskapet har fglgende datterselskaper:
+Balansefgrt
+Datterselskap: Eierandel % Stemmerett % Arsresultat EK 31.12.
+Angel Bolig AS 100% 100% -94.746 465.626
+Konsernfordringer og -gjeld:
+Gruppe i balansen: Pr 31.12. Pr 01.01.
+Kortsiktige fordringer 23 096 23 096
+Note 4 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 100 000 0 0 -10 938 89 062
+Arets resultat -11 033 -11 033
+Pr 31.12.2025 100 000 0 0 -21971 78 030
+Side 6
+
+ANGEL HOLDING AS O70 994 LZ
+Note 5 Aksjonzrer
+AKSJEKAPITALEN | ANGEL HOLDING AS PR. 31.12 BESTAR AV F@LGENDE AKSJEKLASSER:
+Antall Palydende Bokfort
+A-aksjer 40 1 000,0 40 000
+B-aksjer 60 1 000,0 60 000
+Sum 100 100 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+A-aksjer B-aksjer Sum Eierandel
+Einar Angeltveit 40 40 40,0
+Bjorn Angeltveit 15 15 15,0
+Geir Stale Angeltveit 15 15 15,0
+Linda Angeltveit Hovden 15 15 15,0
+Thomas Angeltveit 15 15 15,0
+Totalt antall aksjer 40 60 100 100,0
+Side 7

@@ -1,0 +1,393 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 704296
+Virksomheten
+Organisasjonsnummer : 930 052 531
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: QONNECTECH AS
+Forretningsadresse: Nordre Hagavei 20
+3271 LARVIK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Jon August Reynisson
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 22.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 052 531
+
+QONNECTECH AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 369 272 258 350
+
+Sum inntekter 1 369 272 258 350
+
+Kostnader
+
+Varekostnad 769 622 20 143
+
+Lennskostnad 1, 2, 3 276 374 0
+
+Annen driftskostnad 359 822 67 307
+
+Sum kostnader 1 405 817 87 450
+
+Driftsresultat -36 546 170 900
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 30 4
+
+Annen finansinntekt 3 542 0
+
+Sum finansinntekter 3 572 4
+
+Annen rentekostnad 12 059 0
+
+Annen finanskostnad 8 083 0
+
+Sum finanskostnader 20 142 e)
+
+Netto finans -16 570 4
+
+Resultat fer skattekostnad -53 116 170 904
+
+Skattekostnad 0 25 698
+
+Arsresultat -53 116 145 206
+
+Overferinger og
+
+disponeringer
+
+Udekket tap ) 54 095
+
+Annen egenkapital -53 116 91 111
+Utskriftsdato 22.07.2026 Organisasjonsnr 930 052 531 Side 1 av 3
+
+Organisasjonsnr: 930 052 531
+
+QONNECTECH AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 75 810 157 134
+
+Andre kortsiktige
+
+fordringer 177 626 114 987
+
+Sum fordringer 253 436 272 121
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 22 591 1 912
+
+Sum bankinnskudd,
+
+kontanter og lignende 22 591 1 912
+
+Sum omlepsmidler 276 028 274 033
+
+SUM ELENDELER 276 028 274 033
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4, 5 60 000 60 000
+
+Annen innskutt egenkapital 5 -9 320 -9 320
+
+Sum innskutt egenkapital 50 680 50 680
+
+Opptijent egenkapital
+
+Annen egenkapital 5 37 996 91 111
+Utskriftsdato 22.07.2026 Organisasjonsnr 930 052 531 Side 2 av 3
+
+Sum opptjent egenkapital 37 996 91 111
+
+Sum egenkapital 88 676 141 791
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 26 471 22 423
+
+Betalbar skatt 0) 25 698
+
+Skyldige offentlige
+
+avgifter 136 392 41 926
+
+Annen kortsiktig gjeld 24 489 42 195
+
+Sum kortsiktig gjeld 187 352 132 242
+
+Sum gjeld 187 352 132 242
+
+SUM EGENKAPITAL OG GJELD 276 028 274 033
+Utskriftsdato 22.07.2026 Organisasjonsnr 930 052 531 Side 3 av 3
+
+Organisasjonsnr: 930 052 531
+QONNECTECH AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+Regnskapsprinsipper
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+Salgsinntekter
+Inntektsfg@ring ved salg av
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+Klassifisering og vurdering av balanseposter
+Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt skattemessig
+underskudd til fremfering ved utgangen av regnskapsaret. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er utlignet og skattevirkningen er beregnet pa
+nettogrunnlaget.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+2025.
+Note
+1
+Antall Aarsverk i regnskapsaret
+0.50
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+203142.00 0.00
+Folketrygqdavgift Arets Fjorarets
+27049.00 0.00
+Andre ytelser Arets Fljorarets
+46183 .00 0.00
+Sum lgnnskostnader Arets Fjorarets
+
+276374.00 0.00
+
+Arsregnskap for
+QONNECTECH AS
+930052531
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+QONNECTECH AS
+930 052 531
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1 369 272 258 350
+Sum driftsinntekter 1 369 272 258 350
+Driftskostnader
+Varekostnad -169 622 -20 143
+Lgnnskostnad 1,2,3 -276 374 0
+Annen driftskostnad -359 822 -67 307
+Sum driftskostnader -1 405 817 -87 450
+Driftsresultat -36 546 170 900
+Finansinntekter
+Annen renteinntekt 30 4
+Annen finansinntekt 3 542 0
+Sum finansinntekter 3572 4
+Finanskostnader
+Annen rentekostnad -12 059 0
+Annen finanskostnad -8 083 0
+Sum finanskostnader -20 142 0
+Netto finans -16 570 4
+Resultat for skattekostnad -53 116 170 904
+Skattekostnad 0 -25 698
+Arsresultat -53 116 145 206
+Overforinger
+Annen egenkapital -53 116 91111
+Udekket tap 0 54 095
+Sum overferinger -53 116 145 206
+
+QONNECTECH AS
+930 052 531
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Fordringer
+Kundefordringer 75 810 157 134
+Andre kortsiktige fordringer 177 626 114 987
+Sum fordringer 253 436 272 121
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 22 591 1912
+Sum bankinnskudd, kontanter og lignende 22 591 1912
+Sum omlgpsmidler 276 028 274 033
+SUM EIENDELER 276 028 274 033
+
+QONNECTECH AS
+930 052 531
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4,5 60 000 60 000
+Annen innskutt egenkapital 5 -9 320 -9 320
+Sum innskutt egenkapital 50 680 50 680
+Opptjent egenkapital
+Annen egenkapital 5 37 996 91111
+Sum opptjent egenkapital 37 996 91 111
+Sum egenkapital 88 676 141 791
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 26 471 22 423
+Betalbar skatt 0 25 698
+Skyldige offentlige avgifter 136 392 41 926
+Annen kortsiktig gjeld 24 489 42 195
+Sum kortsiktig gjeld 187 352 132 242
+Sum gjeld 187 352 132 242
+SUM EGENKAPITAL OG GJELD 276 028 274 033
+LARVIK, 30.06.2026
+Jon Agust Reynisson
+styrets leder / daglig leder
+
+QONNECTECH AS
+930 052 531
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+Klassifisering og vurdering av balanseposter
+Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er utlignet og skattevirkningen er beregnet pa nettogrunnlaget.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 0,5
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 203 142 0
+Arbeidsgiveravgift 27 049 0
+Pensjonskostnader 0 0
+Andre relaterte ytelser 46 183 0
+Sum 276 374 0
+Note 3 - Ytelser til ledende personer
+Det er ikke gitt lann, annen godtgj@relse mv. til ledende personer.
+Note 4 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordinzere 600 100 60 000
+Aksjonerer 0 CCCCCC‘(UCOC‘éANtaiilaksjer__ Eierandel % Aksjeklasse__
+JON AGUST REYNISSON 600 100,00 Ordineere
+
+QONNECTECH AS
+930 052 531
+Note 5 - Egenkapital
+Opptjent
+Aksjekapital Annen innsk. EK egenkapital sum
+Egenkapital 31.12.2024 60 000 -9 320 91111 141 791
+Arsresultat 0 0 -53 116 -53 116
+Egenkapital 31.12.2025 60 000 -9 320 37 996 88 676

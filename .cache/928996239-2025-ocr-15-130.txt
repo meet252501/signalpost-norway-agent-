@@ -1,0 +1,480 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 609488
+Virksomheten
+Organisasjonsnummer : 928 996 239
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: E-KLINIKKEN AS
+Forretningsadresse: Bikuba Aktivitet og Velveresenter
+Hillevagsveien 70
+4016 STAVANGER
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ivan @degard
+Dato for fastsettelse av Aarsregnskapet: 18.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 928 996 239
+E-KLINIKKEN AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Inntekter
+Salgsinntekt 1 1119 633 989 010
+Annen driftsinntekt 3 244
+Sum inntekter 1122 877 989 010
+Kostnader
+Endring i beholdning av
+varer under tilvirkning
+og ferdig tilvirkede varer 7 987 2 194
+Varekostnad 213 257 170 456
+Lennskostnad 2 621 354 352 081
+Avskrivning av
+driftsmidler og
+immaterielle eiendeler 3 3 191 11 900
+Nedskrivning av varige
+driftsmidler og
+immaterielle eiendeler 3
+Annen driftskostnad 371 840 363 882
+Sum kostnader 1 217 629 900 514
+Driftsresultat -94 752 88 496
+Finansinntekter og
+finanskostnader
+Annen renteinntekt 258 465
+Sum finansinntekter 258 465
+Annen rentekostnad 529 3 800
+Sum finanskostnader 529 3 800
+Netto finans -271 -3 335
+Resultat fer skattekostnad -95 023 85 161
+Skattekostnad pa resultat 4 -20 905 18 685
+Arsresultat -74 118 66 476
+Arsresultat etter
+minoritetsinteresser -74 118 66 476
+Totalresultat -74 118 66 476
+Overferinger og
+disponeringer
+Avsatt til fond for
+vurderingsforskjeller 5
+Overfert fra fond for
+vurderingsforskjeller 5
+
+Utskriftsdato 30.06.2026 Organisasjonsnr 928 996 239 Side 1 av 4
+
+Ordinert utbytte 5
+
+Tilleggsutbytte 5
+
+Ekstraordinert utbytte 5
+
+Konsernbidrag 5
+
+Avgitt konsernbidrag 5
+
+Udekket tap 5, 5 -55 957
+
+Avsatt til annen
+
+egenkapital 5 66 476
+
+Overfert fra annen
+
+egenkapital 5 -18 161
+
+Sum overferinger og
+
+disponeringer -74 118 66 476
+Utskriftsdato 30.06.2026 Organisasjonsnr 928 996 239 Side 2 av 4
+
+Organisasjonsnr: 928 996 239
+
+E-KLINIKKEN AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4 26 385 5 480
+
+Sum immaterielle eiendeler 26 385 5 480
+
+Varige driftsmidler
+
+Driftslese@re, inventar o.
+
+a. utstyr 3 3 191
+
+Sum varige driftsmidler 3 191
+
+Sum anleggsmidler 26 385 8 671
+
+Omlepsmidler
+
+Varer
+
+Sum varer 16 355 23 932
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 19 744 18 609
+
+Sum fordringer 19 744 18 609
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 6 71 207 89 960
+
+Sum bankinnskudd,
+
+kontanter og lignende 71 207 89 960
+
+Sum omlepsmidler 107 306 132 501
+
+SUM ELENDELER 133 691 141 172
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 7 30 000 30 000
+
+Overkurs 5
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 5 18 161
+
+Udekket tap 8 55 957
+
+Sum opptjent egenkapital -55 957 18 161
+
+Sum egenkapital -25 957 48 161
+Utskriftsdato 30.06.2026 Organisasjonsnr 928 996 239 Side 3 av 4
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+Konvertible lan 9
+
+Langsiktig konserngjeld 9
+
+Ansvarlig lanekapital 9
+
+@vrig langsiktig gjeld 9
+
+Kortsiktig gjeld
+
+Konvertible lan 9
+
+Leverandergjeld 9 945 7 818
+
+Betalbar skatt 4
+
+Skyldig offentlige avgifter 68 776 33 599
+
+Kortsiktig konserngjeld 9
+
+Annen kortsiktig gjeld 9 80 927 51 594
+
+Sum kortsiktig gjeld 159 648 93 011
+
+Sum gjeld 159 648 93 011
+
+SUM EGENKAPITAL OG GJELD 133 691 141 172
+Utskriftsdato 30.06.2026 Organisasjonsnr 928 996 239 Side 4 av 4
+
+Organisasjonsnr: 928 996 239
+
+E-KLINIKKEN AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+1.00
+
+Arsregnskap 2025
+E-Klinikken AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 928 996 239
+Doc ID: 634057 129b740797a1c24255f1247326f302ef18
+
+Resultatregnskap
+E-Klinikken AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Salgsinntekt 1 1 119 633 989 010
+Annen driftsinntekt 3 244 0
+Sum driftsinntekter 1122 877 989 010
+Varekostnad 213 257 170 456
+End. beh. varer u.tilv. og ferdigvarer 7 987 2 194
+Le@nnskostnad 2 621 354 352 081
+Avskrivning av driftsmidler og immaterielle eiendeler 3 3 191 11 900
+Annen driftskostnad 371 840 363 882
+Sum driftskostnader 1217 629 900 514
+Driftsresultat -94 752 88 496
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 258 465
+Annen rentekostnad 529 3 800
+Resultat av finansposter -271 -3 335
+Resultat for skattekostnad -95 023 85 161
+Skattekostnad pa resultat 4 -20 905 18 685
+Arsresultat -74 118 66 476
+Overforinger
+
+Avsatt til annen egenkapital 5 0 66 476
+Overfert til udekket tap 5 55 957 0
+Overfert fra annen egenkapital 5 18 161 0
+Sum overforinger -74 118 66 476
+E-Klinikken AS Side 2
+
+Doc ID: 634057 129b740797a1c24255f124 7326f302ef18
+
+Balanse
+E-Klinikken AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 4 26 385 5 480
+Sum immaterielle eiendeler 26 385 5 480
+Varige driftsmidler
+Driftslosgre, inventar o.a. utstyr 3 0 3 191
+Sum varige driftsmidler 0 3 191
+Sum anleggsmidler 26 385 8 671
+Oml@psmidler
+Lager av varer og annen beholdning 16 355 23 932
+Fordringer
+Andre kortsiktige fordringer 19 744 18 609
+Sum fordringer 19 744 18 609
+Bankinnskudd, kontanter 0.1. 6 71 207 89 960
+Sum omlgpsmidler 107 306 132 501
+Sum eiendeler 133 691 141 172
+E-Klinikken AS Side 3
+Doc ID: 634057 129b740797a1c24255f124 7326f302ef18
+
+Balanse
+E-Klinikken AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5,7 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 5 0 18 161
+Udekket tap 8 -55 957 0
+Sum opptjent egenkapital -55 957 18 161
+Sum egenkapital -25 957 48 161
+Gjeld
+Kortsiktig gjeld
+Leverand@rgjeld 9 945 7 818
+Skyldig offentlige avgifter 68 776 33 599
+Annen kortsiktig gjeld 9 80 927 51 594
+Sum kortsiktig gjeld 159 648 93 011
+Sum gjeld 159 648 93 011
+Sum egenkapital og gjeld 133 691 141 172
+Stavanger, 18.06.2026
+Styret i E-Klinikken AS
+Ivan @degard Evy Vildalen Trysnes
+Styreleder Daglig leder
+E-Klinikken AS Side 4
+Doc ID: 634057 129b740797a1c24255f124 73261302ef18
+
+Note 1 Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og God regnskapsskikk for sma foretak.
+Selskapets virksomhet er kjgp, salg og utleie av fast eiendom. Salg av tjenester innen helse og velveere.
+Produktsalg. Fotterapi. og andre beslektede tjenester. Virksomheten drives i Stavanger.
+Valuta
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapsarets slutt.
+Driftsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfares etter hvert som de
+leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skatteakende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofart.
+Klassifisering og vurdering av omlgpsmidiler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslopet. Omlapsmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+Fordringer
+Kundefordringer og andre fordringer oppfares til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Doc ID: 634057 129b740797a1c24255f124 7326f302ef18
+
+Note 2 Lonnskostnader
+Lennskostnader 2025 2024
+Lenninger 537 742 298 092
+Arbeidsgiveravgift 75 822 42 169
+Andre ytelser 7 790 11 820
+Sum 621 354 352 081
+Selskapet har i 2025 sysselsatt 1 arsverk.
+Note 3 Anleggsmidler
+
+Driftslosore, inventar Sum
+
+ol.
+Anskaffelseskost pr. 01.01.25 35 891 35 891
+Anskaffelseskost 31.12.25 35 891 35 891
+Akkumulerte avskrivninger 31.12.25 35 891 35 891
+Av- og nedskrivninger pr. 31.12.25 35 891 35 891
+Bokfart verdi 31.12.25 0 0
+Arets ordineere avskrivninger 3 191 3191
+@konomisk levetid 3 ar
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordingert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel -20 905 18 685
+Skattekostnad ordinzrt resultat -20 905 18 685
+Skattepliktig inntekt:
+Ordinzert resultat for skatt -95 023 85 161
+Permanente forskjeller 0 -226
+Endring i midlertidige forskjeller 3 191 -11 071
+Anvendelse av fremforbart underskudd 0 -73 864
+Skattepliktig inntekt -91 832 0
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfaring som har gitt opphav til utsatt skatt og
+utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varige driftsmidler 0 3 191 3 191
+Sum 0 3 192 3 191
+Akkumulert fremferbart underskudd -119 931 -28 099 91 832
+Grunnlag for utsatt skattefordel -119 931 -24 908 95 023
+Utsatt skattefordel (22 %) -26 385 -5 480 20 905
+Doc ID: 634057 129b740797a1¢c24255f124 7326f302ef18
+
+Note 5 Egenkapital
+Aksjekapital Udekket tap Annen Sum
+egenkapital egenkapital
+Pr. 31.12.2024 30 000 0 18 161 48 161
+Arets resultat 0 -55 957 -18 161 -74 118
+Pr. 31.12.2025 30 000 -55 957 0 -25 957
+Note 6 Bankinnskudd
+Innestaende midler pa skattetrekkskonto (bundne midler) er pa kr. 31 468.
+Note 7 Aksjonzrer
+Aksjekapitalen i E-Klinikken AS pr. 31.12.2025 bestar av:
+Antall Palydende Bokfort
+Ordinaere aksjer 1 000 30,00 30 000
+Sum 30,00 30 000
+Eierstruktur
+Antall Eierandel Stemmeandel
+Ivan Odegard 1 000 100 % 100 %
+Totalt antall aksjer 1 000 100 % 100 %
+Aksjer eiet av medlemmer i styret og daglig leder:
+Navn Verv Ordinzre
+lvan @degard Styreleder 1 000
+Totalt antall aksjer 1 000
+Note 8 Fortsatt drift
+Som det fremgar av balansen, er selskapets aksjekapital delvis tapt ved arsskiftet. Styret er klar over at deler
+av aksjekapitalen er tapt. Virksomhetens underskudd og I@pende likviditetsbehov finansieres av aksjonzr, og
+han er beredt pa a fortsatt tilfore selskapet de midler som er nedvendige for a sikre forsvarlig finansiering og
+likviditet.
+Pa tidspunktet for avleggelse av arsregnskapet foreligger ikke informasjon som gir grunnlag for andre
+regnskapsmessige vurderinger og opplysninger enn de som er lagt til grunn i arsregnskapet.
+Note 9 Spesifikasjon av fordringer og gjeld
+Kortsiktig gjeld
+Annen kortsiktig gjeld 80 927 51 594
+Sum 80 927 51 594
+Doc ID: 634057 129b740797a1c24255f124 73261302ef18
+
+Arsregnskap 2025
+E-Klinikken AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 928 996 239
+
+Resultatregnskap
+E-Klinikken AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Salgsinntekt 1 1119 633 989 010
+Annen driftsinntekt 3 244 0
+Sum driftsinntekter 1 122 877 989 010
+Varekostnad 213 257 170 456
+End. beh. varer u.tilv. og ferdigvarer 1 987 2 194
+Lgnnskostnad 2 621 354 352 081
+Avskrivning av driftsmidler og immaterielle eiendeler 3 3 191 11 900
+Annen driftskostnad 371 840 363 882
+Sum driftskostnader 1 217 629 900 514
+Driftsresultat -94 752 88 496
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 258 465
+Annen rentekostnad 529 3 800
+Resultat av finansposter -271 -3 335
+Resultat for skattekostnad -95 023 85 161
+Skattekostnad pa resultat 4 -20 905 18 685
+Arsresultat -74 118 66 476
+Overferinger
+
+Avsatt til annen egenkapital 5 0 66 476
+Overfert til udekket tap 5 55 957 0
+Overfort fra annen egenkapital 5 18 161 0
+Sum overfoeringer -74 118 66 476
+E-Klinikken AS Side 2

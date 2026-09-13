@@ -1,0 +1,520 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 381587
+Virksomheten
+Organisasjonsnummer : 948 653 028
+Organisasjonsform: Borettslag
+Foretaksnawn: BORETTSLAGET SCHOYENS GATE 10
+Forretningsadresse: c/o Boligbyggelaget TOBB
+Krambugata 7
+7011 TRONDHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Hanne Skjeggestad
+Dato for fastsettelse av Aarsregnskapet: 18.03.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 09.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 948 653 028
+
+BORETTSLAGET SCH@YENS GATE 10
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 1 1 626 873 1 595 122
+
+Sum inntekter 1 626 873 1 595 122
+
+Kostnader
+
+Lennskostnad 2 -64 695 -61 614
+
+Annen driftskostnad 3,4,5,6 -1 550 995 -1 115 979
+
+Sum kostnader -1 615 689 -1 177 592
+
+Driftsresultat 11 184 417 530
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 20 034 23 221
+
+Sum finanskostnader -237 703 -255 888
+
+Netto finans -217 669 -232 667
+
+Resultat fer skattekostnad -206 485 184 863
+
+Arsresultat 7,11 -206 485 184 863
+
+Overferinger til/fra
+
+annen egenkapital -206 485 184 863
+Utskriftsdato 09.05.2026 Organisasjonsnr 948 653 028 Side 1 av 3
+
+Organisasjonsnr: 948 653 028
+
+BORETTSLAGET SCH@YENS GATE 10
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Tomter, bygninger og
+
+annen fast eiendom 8,12 2 654 513 2 654 513
+
+Sum anleggsmidler 2 654 513 2 654 513
+
+Omlepsmidler
+
+Varer
+
+Kundefordringer 122 005 117 313
+
+Andre fordringer 9 32 514 27 203
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 10 369 539 620 912
+
+Sum bankinnskudd,
+
+kontanter og lignende 524 058 765 428
+
+Sum omlepsmidler
+
+SUM ELENDELER 3 178 570 3 419 941
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Annen egenkapital 11 -1 032 231 -825 746
+
+Sum egenkapital -1 032 231 -825 746
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 12,13 3 805 646 3 904 825
+
+@vrig langsiktig gjeld 12,14 156 800 156 800
+
+Sum langsiktig gjeld 3 962 446 4 061 625
+
+Kortsiktig gjeld
+
+Leverandergjeld 231 730 173 283
+
+Skyldige offentlige
+
+avgifter 8 8
+
+Annen kortsiktig gjeld 16 617 10 771
+
+Sum kortsiktig gjeld 248 355 184 062
+Utskriftsdato 09.05.2026 Organisasjonsnr 948 653 028 Side 2 av 3
+
+Sum gjeld 4 210 801 4 245 687
+
+SUM EGENKAPITAL OG GJELD 3 178 570 3 419 941
+
+POSTER UTENOM BALANSEN
+
+Pantstillelser 12 3 962 446 4 061 625
+Utskriftsdato 09.05.2026 Organisasjonsnr 948 653 028 Side 3 av 3
+
+Organisasjonsnr: 948 653 028
+
+BORETTSLAGET SCH@YENS GATE 10
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+2
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note Regnskap 2025 Regnskap 2024 Budsjett 2025 Budsjett 2026
+Driftsinntekter
+Felleskostnader driftsdel 848 508 808 092 848 600 982 852
+Felleskostnader kapitaldel 350 652 350 652 350 000 322 166
+Utleieinntekter 156 000 156 000 156 000 163 920
+Tillegg elektroniske fellesavtaler 224 688 221 340 221 500 236 000
+Andre driftsinntekter 1 47 025 59 038 61 000 30 000
+Sum driftsinntekter 1 626 873 1595 122 1 637 100 1 734 938
+Driftskostnader
+Personalkostnader 2 -7 995 -7 614 -7 995 -13 254
+Styrehonorar -56 700 -54 000 -56 700 -94 000
+Forretningsfgrerhonorar -81 436 -78 834 -81 450 -85 000
+Honorar administrative tjenester -11 780 -12 336 -12 040 -12 000
+Eksterne honorar 3 -58 758 -8 884 -9 125 -9 300
+Kontingent boligbyggelag -12 250 -11 375 -13 300 -13 300
+Vaktmestertjenester -139 768 -117 370 -131 000 -130 000
+Renholdstjenester -42 966 -44 960 -44 300 -50 000
+Lgpende vedlikehold 4 -13 348 -27 678 -20 000 -25 000
+Periodisk vedlikehold 5 -373 999 -28 983 -93 000 -180 000
+Elektroniske fellesavtaler -225 280 -219 136 -232 000 -236 000
+Forsikring -118 737 -106 310 -122 200 -127 500
+Kommunale tjenester og renovasjon -266 639 -252 310 -226 800 -235 000
+Eiendomsavgifter -161 397 -169 877 -178 500 -168 000
+Energi, felles -27 932 -29 662 -35 000 -30 000
+Andre driftsutgifter 6 -16 705 -8 264 -12 000 -10 000
+Sum driftskostnader -1 615 689 -1 177 592 -1 275 410 -1 418 354
+DRIFTSRESULTAT 11 184 417 530 361 690 316 584
+Finansinntekter og kostnader
+Finansinntekter 20 034 23 221 15 000 15 000
+Finanskostnader -237 703 -255 888 -256 000 -203 523
+Netto finansposter -217 669 -232 667 -241 000 -188 523
+Resultat for skattekostnad -206 485 184 863 120 690 128 061
+Ordinzert resultat etter skatt -206 485 184 863 120 690 128 061
+ARSRESULTAT 7, 11 -206 485 184 863 120 690 128 061
+Disponering av totalresultat: -206 485 184 863 120 690 128 061
+Overfert til udekket tap -206 485 0 0 0
+Reduksjon av udekket tap 0 184 863 0 0
+
+Borettslaget Schayens gate 10 - Balanse 2025
+
+Note Regnskap 2025 Regnskap 2024
+EIENDELER
+ANLEGGSMIDLER
+Varige driftsmidler
+Bygninger og tomter 8,12 2 654 513 2 654 513
+Sum anleggsmidler 2 654 513 2 654 513
+OML@PSMIDLER
+Fordringer
+Periodiserte kostnader 122 005 117 313
+Mellomregning Klare Finans g 12 480 3 982
+Opptjente renter 20 034 23 221
+Bankinnskudd og kontanter
+Bankinnskudd 10 369 539 620 912
+Sum omlepsmidler 524 058 765 428
+SUM EIENDELER 3 178 570 3 419 941
+
+Org.nr: 948 653 028 - 12
+
+Borettslaget Schayens gate 10 - Balanse 2025
+
+Note Regnskap 2025 Regnskap 2024
+EGENKAPITAL OG GJELD
+EGENKAPITAL
+Innskutt egenkapital
+Andelskapital 11 3 200 3 200
+Opptjent egenkapital
+Annen egenkapital 11 -1 035 431 -828 946
+Sum egenkapital -1 032 231 825 746
+GJELD
+Langsiktig gjeld
+Pantelan 12, 13 3 805 646 3 904 825
+Borettsinnskudd 12,14 156 800 156 800
+Sum langsiktig gjeld 3 962 446 4 061 625
+Kortsiktig gjeld
+Leverandergjeld 231 730 173 283
+Skyldig off. myndigheter 8 8
+Forskudd kunder 12 480 7 726
+Palgpte kostnader 4 137 3 045
+Sum kortsiktig gjeld 248 355 184 062
+Sum gjeld 4210 801 4 245 687
+SUM EGENKAPITAL OG GJELD 3 178 570 3 419 941
+Pantstillelser 12 3 962 446 4 061 625
+Sted: , dato:
+
+Hanne Skjzeggestad Malin Sagneskar Szeter Leif Eskeland Schutz
+Leder Styremediem Styremediem
+Silje Wendelborg Fremo Lars Aunan
+Styremediem Styremediem
+Org.nr: 948 653 028 - 12
+
+Borettslaget Schayens gate 10 - Noter 2025
+
+Note 0 - REGNSKAPSPRINSIPP
+Arsregnskapet er satt opp i samsvar med regnskapsloven, forskrift av 30. juni 2005 om arsregnskap og arsberetning for borettslag samt god
+regnskapsskikk for sma foretak.
+Anleggsmidler er vurdert til historisk kost med avskriving for ikke forbigaende verdifall. Tomter, bygninger og anlegg er avskrevet med 0 %
+da lgpende vedlikehold antas 4 opprettholde den tekniske og @konomiske verdi pa bygningsmassen, Jf vedlikeholdsnotene. @vrige
+driftsmidler avskrives etter en fornuftig avskrivningsplan i henhold til antatt levetid.
+Regnskapet er satt opp under forutsetning om fortsatt drift. Det bekreftes herved at forutsetningen er til stede.
+Inntektsfgring er foretatt ut fra opptjeningsprinsippet.
+Fordringer og gjeld er Klassifisert som oml@psmidler/kortsiktig gjeld hvis de forfaller innen ett ar etter regnskapsavslutningstidspunktet.
+Omlgpsmidler er verdsatt til laveste av historisk kost og virkelig verdi. Tilsvarende vurderingsprinsipp er ogsa benyttet for kortsiktig gjeld.
+@vrige eiendeler er klassifisert som anleggsmidler, og @vrig gjeld er klassifisert som langsiktig.
+Klare Finans forskutterer hver maned budsjetterte felleskostnader. Borettslaget har det formelle kravet mot andelseieme og har panterett
+for kravet i andelen iht Lov om Burettslag § 5-20 begrenset oppad til 2 ganger folketrygdens grunnbel@p. Med utgangspunkt i dette ansees
+det at det ikke foreligger risiko for vesentlig tap pa utestaende felleskostnader.
+Borettslaget har sikringsordning gjennom Klare Finans. Faktura kommer direkte fra Klare Finans ved arsskifte. Sikringen
+kan sies opp innen 1. desember med virkning fra kommende arsskifte. Etter borettslagslovens bestemmelser skal vedtak om oppsigelse av
+forsikringen gj@res av borettslagets generalforsamling. Forsikringsselskapet kan til enhver tid si opp en avtale med forsikringstaker dersom
+forsikrede ikke oppfyller de krav som er lagt til grunn ved f@rste gangs forsikring. For @vrig gjelder forsikringsavtalelovens regler.
+Note 1 - ANDRE DRIFTSINNTEKTER
+
+2025 2024
+Utleie av parkering/garasjer 47 025 52 538
+Viderefakturering 0 6 500
+Sum andre inntekter A7 025 59 038
+Note 2 - PERSONALKOSTNADER
+
+2025 2024
+Arbeidsgiveravgift 7 995 7 614
+Sum personalkostnader 7995 7 614
+Samlet antall arsverk: 0
+Obligatorisk tjenestepensjon
+Boligselskapet oppfyller ikke kravene for OTP, og har av den grunn ikke inngatt noen pensjonsordning.
+
+Org.nr: 948 653 028 - 12
+
+Borettslaget Schayens gate 10 - Noter 2025
+
+Note 3 - EKSTERNE HONORARER
+
+2025 2024
+Revisjonshonorar (inkl. mya) 9 592 8 884
+Fakturerte tjenester 49 166 0
+Sum eksterne honorarer 58 758 8 884
+Revisjonshonoraret er i sin helhet knyttet til revisjonen.
+Fakturerte tjenester gjelder honorar til Mere Pipe AS ifom. piperehabilitering.
+Note 4 - LOPENDE VEDLIKEHOLD
+
+2025 2024
+Reparasjon og vedlikehold bygningsmessig 1 045 4 858
+Reparasjon og vedlikehold el-anlegg 0 8 101
+Reparasjon og vedlikehold VVS-anlegg 0 10 489
+Reparasjon og vedlikehold uteomrade 10 157 4 231
+Reparasjon og vedlikehold annet 2 145 0
+Sum vedlikehold 13 348 27 678
+Note 5 - PERIODISK VEDLIKEHOLD
+
+2025 2024
+Periodisk vedlikehold 373 999 28 983
+Sum periodisk vedlikehold 373 999 28 983
+Periodisk vedlikehold gjelder piperehabilitering utfert av Mere Pipe AS.
+Note 6 - ANDRE DRIFTSUTGIFTER
+
+2025 2024
+Verktoy, driftsmateriell, inventar 0 3 742
+Gaver 2 764 0
+Generalforsamling/arsmete 998 0
+Bankgebyrer 647 1127
+Andre gebyrer 12 162 3 158
+Tilskudd bomilja 0 237
+Hjemmeside/intemett/T V-abo 134 0
+Sum andre driftsutgifter 16 705 8 264
+Andre gebyrer gjelder gebyr for seknadsbehandling ifom. piperehabilitering.
+Note 7 - DISPONIBLE MIDLER
+
+2025 2024
+Disponible midler 01.01 581 366 491 235
+Endring i disponible midler:
+Arets resultat -206 485 184 863
+Avdrag lan -99 179 -94 732
+Arets endring i disponible midler -305 664 90 131
+Disponible midler i periodens slutt 275 702 581 366
+Disponible og gremerk. midler justert for langsiktige avsetninger 275 702 581 366
+
+Org.nr: 948 653 028 - 12
+
+Borettslaget Schayens gate 10 - Noter 2025
+Note 8 - ANLEGGSMIDLER
+Bygninger Rehabilitering Vaktmester-/tje Tomter Vaskerianlegg Vaskerianlegg
+Anskaffelseskost pr.01.01 : 1 282 148 1310013 12 000 50 352 74 663 20 500
+Arets tilgang : 0 0 ft) 0 ft) 0
+Arets avgang : ) ) ft) 0 ) ff)
+Anskaffelseskost pr.31.12: 1 282 148 1310013 12 000 50 352 74 663 20 500
+Akkumulerte avskrivninger pr.31.12: 0 0 0 0 74 663 20 500
+Akkumulerte nedskrivninger pr.31.12: 0 0 0 0 0 0
+Bokfert verdi pr.31.12: 1 282 148 1310013 12 000 50 352 0 0
+Antatt levetid i ar - 3 5
+Ball-flekeplass
+Anskaffelseskost pr.01.01 : 26 784
+Arets tilgang : )
+Arets avgang : 0
+Anskaffelseskost pr.31.12: 26 784
+Akkumulerte avskrivninger pr.31.12: 26 784
+Akkumulerte nedskrivninger pr.31.12: 0
+Bokfert verdi pr.31.12: 0
+Antatt levetid i ar : 5
+Borettslagets eiendommer avskrives ikke, da l@pende vedlikehold antas a opprettholde den tekniske og @konomiske verdi pa
+bygningsmassen.
+Avskrivningssatsene som er brukt er satt opp i henhold til levetid med lineaere avskrivninger.
+Samtlige av boligselskapets anleggsmidler er oppfart i anleggskartoteket.
+Tomt og bygninger er anskaffet i ar 1954
+Rehabiliteringer er gjennomfgrt i perioden 1958 - 2000
+Vaktmesterleilighet er anskaffet i ar 1954
+Note 9 - UTESTAENDE FORDRINGER
+Utestaende fordringer er gjennomgatt og vurdert. Boligselskapet behgver ikke a regne med fremtidige tap pa disse og det er derfor ikke
+foretatt tapsavsetning.
+Note 10 - BANKINNSKUDD OG @REMERKEDE AVSETNINGER
+2025 2024
+Bundne midler og bankinnskudd
+Bundne midler for skattetrekk 15 15
+Bankinnskudd 369 524 620 897
+Sum bankinnskudd 369 539 620 912
+Org.nr: 948 653 028 - 12
+
+Borettslaget Schayens gate 10 - Noter 2025
+Note 11 - EGENKAPITAL
+2025 2024
+SUM EGENKAPITAL 01.01 825 746 -1 010 609
+Andelskapital 01.01 3 200 3 200
+Andelskapital 31.12 3 200 3 200
+Annen egenkapital 01.01 -828 946 -1 013 809
+Arets resultat -206 485 184 863
+Annen egenkapital 31.12 -1 035 431 828 946
+SUM EGENKAPITAL 31.12 -1 032 231 825 746
+Andelskapitalen er kr 3 200,- fordelt pa 32 andeler a kr 100,-.
+Hver andel har lik stemmerett pa generalforsamlingen.
+Boligselskapet har negativ egenkapital. Det er budsjettert med positivt resultat i innevzerende og kommende regnskapsperiode, som
+sammen med nedbetaling av lan vil bidra til positiv egenkapital. Bygningsverdi er ogsa bokfert til kostpris i balansen, noe som ikke
+reflekterer virkelige markedsverdi.
+Note 12 - PANTSTILLELSER
+2025
+Bokfort verdi pantsatte eiendeler 31.12 2 654 513
+Restgjeld 31.12 3 962 446
+Palydende pantstillelser var 6 876 800,- per 31.12.
+Pantstillelser og restgjeld omfatter langsiktig gjeld og borettsinnskudd, jfr note om innskudd.
+Note 13 - PANTE- OG GJELDSBREVSLAN
+Kreditor: Svenska
+Handelsbanken AB
+NUF
+Formal: Refinansiering
+Lanenummer: 90517232350
+Lanetype: Annuitet
+Opptaksar: 2014
+Rentesats: 5.40 %
+Betingelser: Flytende rente
+Beregnet innfridd: 30.12.2044
+Opprinnelig lanebelgp: 5 100 000
+Lanesaldo 01.01: 3 904 825
+Avdrag i perioden: 99 179
+Lanesaldo 31.12: 3 805 646
+Saldo 5 ar frem i tid: 3 142 588
+PANTE- OG GJELDSBREVSLAN
+Ant. andeler Andel gjeld 31.12 Sum fellesgjeld
+Antall andeler, andel gjeld og sum av fellesgjeld lan 90517232350 24 124 109 2 978 616
+7 118 146 827 022
+Org.nr: 948 653 028 - 12
+
+Borettslaget Schayens gate 10 - Noter 2025
+Note 14 - INNSKUDD
+2025 2024
+Borettsinnskudd 156 800 156 800
+Sum innskudd 156 800 156 800
+
+Resultat og balanse med noter for Borettslaget Schgyens gate 10.
+Dokumentet er signert elektronisk av:
+For Borettslaget Schgyens gate 10
+Styreleder Hanne Skjeeggestad (sign.) 17.02.2026
+Styremedlem Malin Sagneskar Seter (sign.) 17.02.2026
+Styremedlem Lars Aunan (sign.) 13.02.2026
+Styremedlem Leif Eskeland Schutz (sign.) 13.02.2026
+Styremedlem Silje Wendelborg Fremo (sign.) 17.02.2026
+
+BDO AS
+Kobbes gate 2
+BDO Postboks 1786 Sentrum
+7416 Trondheim
+Uavhengig revisors beretning
+Til generalforsamlingen i BORETTSLAGET SCH@YENS GATE 10
+Konklusjon
+Vi har revidert arsregnskapet til BORETTSLAGET SCH@YENS GATE 10.
+Arsregnskapet bestar av: Etter var mening:
+- Balanse per 31. desember 2025 ¢ Oppfyller arsregnskapet gjeldende
+lovkrav, o
+« Resultatregnskap 2025 » 08
+* Noter til arsregnskapet, herunder et - Gir arsregnskapet et rettvisende bilde av
+sammendrag av viktige borettslagets finansielle stilling per 31.
+regnskapsprinsipper. desember 2025, og av dets resultater for
+regnskapsaret i samsvar med
+regnskapslovens regler og god
+regnskapsskikk i Norge.
+Andre forhold
+Budsjettallene som fremkommer i arsregnskapet er ikke revidert.
+Grunnlag for konklusjonen
+Vi har gjennomfart revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av borettslaget i samsvar med kravene i ~
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants A
+{inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for >
+Accountants (IESBA-reglene), og vi har overholdt vare ovrige etiske forpliktelser i samsvar med disse =
+kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for °
+var konklusjon. a
+2
+ch
+Styret og forretningsforers ansvar for arsregnskapet N
+ES ny
+Styret og forretningsforer (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir et >
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa 5
+ansvarlig for slik intern kontroll som den finner nadvendig for a kunne utarbeide et arsregnskap som ikke =
+inneholder vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil. =
+S
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til borettslaget evne til fortsatt drift og 8
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn s
+for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avwviklet. S
+E
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet 3
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig 2
+feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning som s
+inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti for at
+en revisjon utfort i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon kan
+oppsta som falge av misligheter eller utilsiktede feil. Feilinformasjon er a anse som vesentlig dersom den
+enkeltvis eller samlet med rimelighet kan forventes a pavirke de akonomiske beslutningene som brukerne
+foretar pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+https: //revisorforeningen.no/revisjonsberetninger
+BDO AS
+Geir Ove Frostad
+statsautorisert revisor
+(elektronisk signert)
+BDO AS, et norsk aksjeselskap, er deltaker | BDO International Limited, et engelsk selskap med begrenset Side 1 av 1
+ansvar, og er en del av det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de
+enkelte land. Foretaksregisteret: NO 993 606 650 MVA.

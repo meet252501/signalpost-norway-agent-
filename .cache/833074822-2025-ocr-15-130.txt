@@ -1,0 +1,542 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 689125
+Virksomheten
+Organisasjonsnummer : 833 074 822
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: R-PROFIL AS
+Forretningsadresse: Ulvenveien 77
+0581 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Sigmund Frode Lekensgard
+Dato for fastsettelse av arsregnskapet: 25.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 833 074 822
+
+R-PROFIL AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 347 489 154 873
+
+Sum inntekter 347 489 154 873
+
+Kostnader
+
+Varekostnad 183 611 73 909
+
+Lennskostnad 2, 3 7 342 0
+
+Annen driftskostnad 90 524 20 486
+
+Sum kostnader 281 477 94 395
+
+Driftsresultat 66 012 60 478
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 24 33
+
+Sum finansinntekter 24 33
+
+Verdireduksjon av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 0 195
+
+Annen rentekostnad 246 0
+
+Annen finanskostnad 1 982 554
+
+Sum finanskostnader 2 228 749
+
+Netto finans -2 204 -716
+
+Resultat fer skattekostnad 63 808 59 762
+
+Skattekostnad 17 594 11 918
+
+Arsresultat 46 214 47 844
+
+Arsresultat etter
+
+minoritetsinteresser 46 214 47 $44
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 46 214 47 844
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 46 214 47 844
+
+Sum overferinger og
+
+disponeringer 46 214 47 844
+Utskriftsdato 20.07.2026 Organisasjonsnr 833 074 822 Side 1 av 3
+
+Organisasjonsnr: 833 074 822
+
+R-PROFIL AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Varelager 44 220 63 260
+
+Sum varer 44 220 63 260
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 0 8 624
+
+Sum fordringer 0 8 624
+
+Investeringer
+
+Markedsbaserte aksjer 119 446 9 805
+
+Sum investeringer 119 446 9 805
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 9 441 2 628
+
+Sum bankinnskudd,
+
+kontanter og lignende 9 441 2 628
+
+Sum omlepsmidler 173 107 84 317
+
+SUM ELENDELER 173 107 84 317
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital 0 -5 784
+
+Sum innskutt egenkapital 30 000 24 216
+Utskriftsdato 20.07.2026 Organisasjonsnr 833 074 822 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 88 273 47 845
+
+Sum opptjent egenkapital 88 273 47 845
+
+Sum egenkapital 118 273 72 061
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 359 0
+
+Leverandergjeld 29 267 338
+
+Betalbar skatt 17 594 11 918
+
+Skyldig offentlige avgifter 7 614 0
+
+Sum kortsiktig gjeld 54 834 12 256
+
+Sum gjeld 54 834 12 256
+
+SUM EGENKAPITAL OG GJELD 173 107 84 317
+Utskriftsdato 20.07.2026 Organisasjonsnr 833 074 822 Side 3 av 3
+
+Organisasjonsnr: 833 074 822
+
+R-PROFIL AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Profilering av kler, samt @vrig virksomhet
+
+som star i forbindelse med dette.
+
+Note
+2
+Antall Aarsverk i regnskapsaret
+0.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+0.00
+Andre ytelser Arets Fjorarets
+7342.00
+Sum lennskostnader Arets Fjorarets
+7342.00
+
+Arsregnskap 2025
+R-Profil AS
+(833 074 822)
+R-Profil AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 347 489 154 873
+Sum driftsinntekter 347 489 154 873
+Driftskostnader
+
+Varekostnad 183 611 73 909
+
+L@nnskostnad 2,3 7 342 @)
+
+Annen driftskostnad 90 524 20 486
+Sum driftskostnader 281 477 94 395
+Driftsresultat 66 012 60 478
+Finansinntekter
+
+Annen renteinntekt 24 33
+Sum finansinntekter 24 33
+Finanskostnader
+
+Verdireduksjon av finansielle instrumenter vurdert til virkelig verdi e) 195
+
+Annen rentekostnad 246 @)
+
+Annen finanskostnad 1982 554
+Sum finanskostnader 2 228 749
+Netto finans -2 204 -716
+Resultat for skatt 63 808 59 762
+Skattekostnad 17 594 11 918
+Arsresultat 46214 47844
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital 46 214 47 844
+Sum overferinger og disponeringer 46 214 47 844
+
+R-Profil AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Varelager 44 220 63 260
+Fordringer
+
+Andre kortsiktige fordringer @) 8624
+Sum fordringer 0 8 624
+Investeringer
+
+Markedsbaserte aksjer 119 446 9 805
+Sum investeringer 119 446 9 805
+Bankinnskudd, kontanter o.l. 9 441 2 628
+Sum omlepsmidler 173 107 84 317
+Sum eiendeler 173107 84317
+
+R-Profil AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 30 000 30 000
+Annen innskutt egenkapital fe) -5 784
+Sum innskutt egenkapital 30 000 24 216
+Opptjent egenkapital
+Annen egenkapital 88 273 47 845
+Sum opptjent egenkapital 88 273 47 845
+Sum egenkapital 118273 72061
+Gijeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner, kortsiktig 359 @)
+Leverandergjeld 29 267 338
+Betalbar skatt 17 594 11918
+Skyldig offentlige avgifter 7614 @)
+Sum kortsiktig gjeld 54 834 12 256
+Sum gjeld 54 834 12 256
+Sum egenkapital og gjeld 173107 84317
+R-Profil AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Profilering av kleer, samt @vrig virksomhet som star i forbindelse med dette.
+Note 2: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Note 3: Lonnskostnader
+
+2025 2024
+Lenn ¢) 0
+Arbeidsgiveravgift e) @)
+Pensjon @) 0
+Andre ytelser 7 342 @)
+Sum lonnskostnader 7 342 0
+R-Profil AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Hakon Lokensgard <post@r-profil.no>
+Elektronisk signering
+SIGMUND FRODE L@KENSGARD HAKON L@KENSGARD
+27.05.1956 - Styreleder 02.02.1998 - Styremedlem
+Y) Signert Y) Signert
+11.07.2026 19:08 === bankID 25.06.2026 12:42 === bankID
+STIAN SUND JONASSEN
+09.06.1998 - Styremedlem
+Y) Signert
+25.06.2026 12:03 1D-porten
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 25.06.2026 12:00:40
+
+Arsregnskap 2025
+R-Profil AS
+(833 074 822)
+R-Profil AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 347 489 154 873
+Sum driftsinntekter 347 489 154 873
+Driftskostnader
+
+Varekostnad 183 611 73 909
+
+L@nnskostnad 2,3 7 342 @)
+
+Annen driftskostnad 90 524 20 486
+Sum driftskostnader 281 477 94 395
+Driftsresultat 66 012 60 478
+Finansinntekter
+
+Annen renteinntekt 24 33
+Sum finansinntekter 24 33
+Finanskostnader
+
+Verdireduksjon av finansielle instrumenter vurdert til virkelig verdi e) 195
+
+Annen rentekostnad 246 @)
+
+Annen finanskostnad 1982 554
+Sum finanskostnader 2 228 749
+Netto finans -2 204 -716
+Resultat for skatt 63 808 59 762
+Skattekostnad 17 594 11 918
+Arsresultat 46214 47844
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital 46 214 47 844
+Sum overferinger og disponeringer 46 214 47 844
+
+R-Profil AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Varelager 44 220 63 260
+Fordringer
+
+Andre kortsiktige fordringer @) 8624
+Sum fordringer 0 8 624
+Investeringer
+
+Markedsbaserte aksjer 119 446 9 805
+Sum investeringer 119 446 9 805
+Bankinnskudd, kontanter o.l. 9 441 2 628
+Sum omlepsmidler 173 107 84 317
+Sum eiendeler 173107 84317
+
+R-Profil AS Arsregnskap Side 3 av 5

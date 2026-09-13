@@ -1,0 +1,588 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 756767
+Virksomheten
+Organisasjonsnummer : 987 903 953
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MEGALITT AS
+Forretningsadresse: Manesigden 20
+1337 SANDVIKA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Morten Rynning
+Dato for fastsettelse av Aarsregnskapet: 30.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 18.08.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 987 903 953
+
+MEGALITT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 204 594 179 819
+
+Sum kostnader 204 594 179 819
+
+Driftsresultat -204 594 -179 819
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 184 759 41 786
+
+Annen finansinntekt 14 075 664 163 654
+
+Verdigkning av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 2 035 880 308 794
+
+Sum finansinntekter 16 296 303 514 235
+
+Nedskrivning av
+
+finansielle eiendeler 9 450 000 0
+
+Annen finanskostnad 1475 321 31 468
+
+Sum finanskostnader 10 925 321 31 468
+
+Netto finans 5 370 981 482 767
+
+Resultat fer skattekostnad 5 166 388 302 948
+
+Arsresultat 5 166 388 302 948
+
+Annen egenkapital 5 166 388 302 948
+Utskriftsdato 18.08.2026 Organisasjonsnr 987 903 953 Side 1 av 3
+
+Organisasjonsnr: 987 903 953
+
+MEGALITT AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering 1 datterselskap 2 434 773 360 000
+
+Lan til foretak i samme
+
+konsern 2 0) 0)
+
+Investeringer 1
+
+tilknyttet selskap 2 145 476 1 423 339
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 2 0 0
+
+Investeringer i aksjer og
+
+andeler 0) 5 000
+
+Andre langsiktige
+
+fordringer 2 3 525 260 1 180 000
+
+Sum finansielle
+
+anleggsmidler 8 105 509 2 968 339
+
+Sum anleggsmidler 8 105 509 2 968 339
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 85 413 357 490
+
+Sum fordringer 85 413 357 490
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 900 000 0)
+
+Markedsbaserte aksjer 4 938 750 6 909 972
+
+Markedsbaserte obligasjoner 2 765 180 1 665 180
+
+Andre markedsbaserte
+
+finansielle instrumenter 2 380 824 594 762
+
+Andre finansielle
+
+instrumenter 815 000 3 289 188
+
+Sum investeringer 11 799 755 12 459 103
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 685 965 1 288 444
+Utskriftsdato 18.08.2026 Organisasjonsnr 987 903 953 Side 2 av 3
+
+Sum bankinnskudd,
+
+kontanter og lignende 685 965 1 288 444
+
+Sum omlepsmidler 12 571 133 14 105 037
+
+SUM EILENDELER 20 676 642 17 073 376
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 3, 4 758 988 758 988
+
+Overkurs 3 0) 319 799
+
+Ikke registrert
+
+kapitalforhayelse 319 799 0
+
+Sum innskutt egenkapital 1 078 787 1 078 787
+
+Opptjent egenkapital
+
+Annen egenkapital 3 19 319 776 14 153 388
+
+Sum opptjent egenkapital 19 319 776 14 153 388
+
+Sum egenkapital 20 398 563 15 232 175
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 2 500 1 875
+
+Annen kortsiktig gjeld 5 275 579 1 839 326
+
+Sum kortsiktig gjeld 278 079 1 841 201
+
+Sum gjeld 278 079 1 841 201
+
+SUM EGENKAPITAL OG GJELD 20 676 642 17 073 376
+Utskriftsdato 18.08.2026 Organisasjonsnr 987 903 953 Side 3 av 3
+
+Organisasjonsnr: 987 903 953
+
+MEGALITT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Fordringer klassifiseres som oml@psmidler hvis de forfaller til betaling
+innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som
+kortsiktig hvis gjelden forfaller til betaling innen ett Ar.
+
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig
+gjeld balansefores til nominelt belep pa etableringstidspunktet.
+Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig
+verdi ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld
+med unntak av andre avsetninger balansefores til nominelt belg@p pa
+etableringstidspunktet.
+
+Fordringer
+
+Andre fordringer er oppfert i balansen
+
+til palydende etter fradrag for avsetning til forventet tap. Avsetning til
+tap gj@res pa grunnlag av individuelle vurderinger av de enkelte
+fordringene.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+
+finansielle eiendeler, laveste verdis prinsipp for markedsbaserte
+finansielle omle@psmidler. Kostmetoden er benyttet for investeringer 1
+datterselskap/tilknyttet selskap. Utbytte er inntektsfert samme ar som det
+er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at
+belepet vil mottas. Ved utbytte som overstiger andel av tilbakeholdt
+resultat etter kj@pet representerer den overskytende del tilbakebetaling av
+investert kapital, og er fratrukket investeringens verdi i balansen.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens
+
+betalbare skatt og endring i utsatt skatt. Utsatt skatt er beregnet med 22%
+pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt skattemessig underskudd til
+fremfering ved utgangen av regnskapsaret. Skattegkende og skattereduserende
+midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet
+
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Fordringer
+
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+3525260.00
+
+Mer om fordringer
+
+Utsatt oppgjer ved salga av aksjer palydende NOK 2 131 500
+
+Note
+
+5
+
+Gjeld
+
+Gjeld som forfaller til betaling mer enn fem Ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+Balansefert verdi av de pantsatte eiendeler
+
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+
+Mer om gjeld
+
+Gjeld til akjsoner palydende NOK 275 579
+
+Arsregnskap for
+MEGALITT AS
+987903953
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+MEGALITT AS
+987 903 953
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -204 594 -179 819
+Sum driftskostnader -204 594 -179 819
+Driftsresultat -204 594 -179 819
+Finansinntekter
+Annen renteinntekt 184 759 41 786
+Annen finansinntekt 14 075 664 163 654
+Verdigkning av finansielle instrumenter vurdert til 2 035 880 308 794
+virkelig verdi
+Sum finansinntekter 16 296 303 514 235
+Finanskostnader
+Nedskrivning av finansielle eiendeler -9 450 000 0
+Annen finanskostnad -1 475 321 -31 468
+Sum finanskostnader -10 925 321 -31 468
+Netto finans 5 370 981 482 767
+Arsresultat 5 166 388 302 948
+Overforinger
+Annen egenkapital 5 166 388 302 948
+Sum overferinger 5 166 388 302 948
+
+MEGALITT AS
+987 903 953
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investering i datterselskap 2 434 773 360 000
+Investeringer i tilknyttet selskap 2 145 476 1 423 339
+Investeringer i aksjer og andeler 0 5 000
+Andre langsiktige fordringer 2 3 525 260 1 180 000
+Sum finansielle anleggsmidler 8 105 509 2 968 339
+Sum anleggsmidler 8 105 509 2 968 339
+Omlgpsmidler
+Fordringer
+Andre kortsiktige fordringer 85 413 357 490
+Sum fordringer 85 413 357 490
+Investeringer
+Aksjer og andeler i foretak i samme konsern 900 000 0
+Markedsbaserte aksjer og aksjefond 4 938 750 6 909 972
+Andre finansielle instrumenter 815 000 3 289 188
+Markedsbaserte obligasjoner 2 765 180 1 665 180
+Andre markedsbaserte finansielle instrumenter 2 380 824 594 762
+Sum investeringer 11 799 755 12 459 103
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 685 965 1 288 444
+Sum bankinnskudd, kontanter og lignende 685 965 1 288 444
+Sum omlgpsmidler 12 571 133 14 105 037
+SUM EIENDELER 20 676 642 17 073 376
+
+MEGALITT AS
+987 903 953
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 3,4 758 988 758 988
+Ikke registrert kapitalforngyelse 319 799 0
+Overkurs 3 0 319 799
+Sum innskutt egenkapital 1 078 787 1 078 787
+Opptjent egenkapital
+Annen egenkapital 3 19 319 776 14 153 388
+Sum opptjent egenkapital 19 319 776 14 153 388
+Sum egenkapital 20 398 563 15 232 175
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 2 500 1 875
+Annen kortsiktig gjeld 5 275 579 1 839 326
+Sum kortsiktig gjeld 278 079 1 841 201
+Sum gjeld 278 079 1 841 201
+SUM EGENKAPITAL OG GJELD 20 676 642 17 073 376
+SANDVIKA, 30.06.2026
+Morten Trygve Rynning
+styrets leder / daglig leder
+
+MEGALITT AS
+
+987 903 953
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapet investerer i aksjer og verdipapirer, samt kunst og investering i og utvikling av fast eiendom. Selskapet
+har forretningsadresse i Sandvika/Beerum.
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Fordringer klassifiseres som omlgpsmidler hvis de
+forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Andre fordringer er oppfgrt i balansen til palydende etter fradrag for avsetning til forventet tap. Avsetning til tap
+gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler, laveste verdis prinsipp for
+markedsbaserte finansielle oml@psmidler. Kostmetoden er benyttet for investeringer i datterselskap/tilknyttet
+selskap. Utbytte er inntektsfort samme ar som det er avsatt i datterselskap/tilknyttet selskap, dersom det er
+sannsynlig at belgpet vil mottas. Ved utbytte som overstiger andel av tilbakeholdt resultat etter kjopet
+representerer den overskytende del tilbakebetaling av investert kapital, og er fratrukket investeringens verdi i
+balansen.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+MEGALITT AS
+987 903 953
+Note 1 - Antall arsverk
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+Note 2 - Fordringer
+Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt 3 525 260
+Mer om fordringer
+Utsatt oppgjer ved salga av aksjer palydende NOK 2 131 500
+Note 3 - Egenkapital
+Ikke reg.
+kapital Opptjent
+Aksjekapital Overkurs forheyelse egenkapital Sum
+
+Egenkapital 31.12.2024 758 988 319 799 0 14 153 388 15 232 175
+Arsresultat 0 0 0 5 166 388 3 166 388
+Nedsettelse av 0 -319 799 0 0 -319 799
+aksjekapital og utdeling av
+
+overkurs
+
+Andre endringer 0 0 319 799 0 319 799
+Egenkapital 31.12.2025 758 988 0 319 799 19 319 776 20 398 563
+Note 4 - Aksjekapital
+
+Aksjenes
+
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordineere 1 158 987,84 758 988
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+Morten Trygve Rynning 1 100,00 Ordinzere
+Note 5 - Gjeld og garantiforpliktelser
+Mer om gjeld
+Gjeld til akisoneer palydende NOK 275 579
+
+BankiD Qualified Signature
+Rynning, Morten Trygve
+2026-06-30
+Arsoppgjer for
+987903953
+01.01.2025 - 31.12.2025
+
+Innhold Side
+
+Forside 2
+
+Resultatregnskap 3
+
+Eiendeler 4
+
+Egenkapital og gjeld 5
+
+Noter 6
+
+Arsregnskap for
+MEGALITT AS
+987903953
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+BanklD Qualified Signature
+
+MEGALITT AS oe apn Tvave
+987 903 953
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -204 594 -179 819
+Sum driftskostnader -204 594 -179 819
+Driftsresultat -204 594 -179 819
+Finansinntekter
+Annen renteinntekt 184 759 41 786
+Annen finansinntekt 14 075 664 163 654
+Verdigkning av finansielle instrumenter vurdert til 2 035 880 308 794
+virkelig verdi
+Sum finansinntekter 16 296 303 514 235
+Finanskostnader
+Annen finanskostnad -1 475 321 -31 468
+Sum finanskostnader -1 475 321 -31 468
+Netto finans 14 820 981 482 767
+Resultat for skattekostnad 14 616 388 302 948
+Skattekostnad -2 267 171 0
+Arsresultat 12 349 217 302 948
+Overforinger
+Annen egenkapital 12 349 217 302 948
+Sum overferinger 12 349 217 302 948

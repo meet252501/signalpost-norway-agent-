@@ -1,0 +1,574 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 717765
+Virksomheten
+Organisasjonsnummer : 826 980 052
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: BIGSOUND AS
+Forretningsadresse: Persenbakken 24
+5034 BERGEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: @yvind Storesund
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 826 980 052
+
+BIGSOUND AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1177 125 1176 892
+
+Annen driftsinntekt 337 200 713 120
+
+Sum inntekter 1 514 325 1 890 012
+
+Kostnader
+
+Varekostnad 121 029 0
+
+Lennskostnad 1, 2 438 527 1 143 151
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 1 333 0
+
+Annen driftskostnad 772 038 248 885
+
+Sum kostnader 1 332 927 1 392 036
+
+Driftsresultat 181 398 497 976
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 244 171
+
+Annen finansinntekt 1 500 616 2 220 343
+
+Verdigkning av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 431 425 456 270
+
+Sum finansinntekter 1 932 285 2 676 784
+
+Annen rentekostnad 0 2 205
+
+Sum finanskostnader 0 2 205
+
+Netto finans 1 932 285 2 674 579
+
+Resultat fer skattekostnad 2 113 683 3 172 555
+
+Skattekostnad 3 49 949 128 587
+
+Arsresultat 2 063 734 3 043 968
+
+Annen egenkapital 2 063 734 3 043 968
+Utskriftsdato 28.07.2026 Organisasjonsnr 826 980 052 Side 1 av 3
+
+Organisasjonsnr: 826 980 052
+BIGSOUND AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3 36 373 32 384
+Sum immaterielle eiendeler 36 373 32 384
+Varige driftsmidler
+Driftslesere, inventar,
+verkt@y, kontormaskiner,
+ol. 4 78 667 0
+Sum varige driftsmidler 78 667 0
+Finansielle anleggsmidler
+Investeringer 1
+tilknyttet selskap 940 940
+Sum finansielle
+anleggsmidler 940 940
+Sum anleggsmidler 115 980 33 324
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 13 273 20 513
+Andre kortsiktige
+fordringer 8 495 56 383
+Sum fordringer 21 768 76 896
+Investeringer
+Markedsbaserte aksjer 6 172 318 4 514 077
+Sum investeringer 6 172 318 4 514 077
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 1 642 733 796 826
+Sum bankinnskudd,
+kontanter og lignende 1 642 733 796 826
+Sum omlepsmidler 7 836 819 5 387 799
+SUM ELENDELER 7 952 799 5 421 123
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 28.07.2026 Organisasjonsnr 826 980 052 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital 5, 6 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 6 6 952 306 4 888 572
+
+Sum opptjent egenkapital 6 952 306 4 888 572
+
+Sum egenkapital 6 982 306 4 918 572
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 450 000 0
+
+Sum annen langsiktig gjeld 450 000 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 0 1 746
+
+Leverandergjeld 43 425 5 227
+
+Betalbar skatt 3 53 938 38 581
+
+Skyldige offentlige
+
+avgifter 93 711 50 715
+
+Annen kortsiktig gjeld 329 419 406 282
+
+Sum kortsiktig gjeld 520 493 502 551
+
+Sum gjeld 970 493 502 551
+
+SUM EGENKAPITAL OG GJELD 7 952 799 5 421 123
+Utskriftsdato 28.07.2026 Organisasjonsnr 826 980 052 Side 3 av 3
+
+Organisasjonsnr: 826 980 052
+
+BIGSOUND AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+er eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett ar. Langsiktig gjeld er gjeld som
+forfaller senere enn ett ar etter transaksjonsdagen. Forste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som
+omlepsmiddel og kortsiktig gjeld.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belep pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes a vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+
+finansielle eiendeler, laveste verdis prinsipp for markedsbaserte
+finansielle omlepsmidler. Leieavtaler er ikke balansefort.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens
+
+betalbare skatt og endring i utsatt skatt. Utsatt skatt er beregnet med 22%
+pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt skattemessig underskudd til
+fremforing ved utgangen av regnskapsaret. Skatte@kende og skattereduserende
+midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet
+
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+1
+Antall Aarsverk i regnskapsaret
+2.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+227559.00 829109.00
+Folketrygqdavqift Arets Fjorarets
+55964.00 139485.00
+Pensjonskostnader Arets Fjorarets
+142873.00 159608.00
+Andre ytelser Arets Fjorarets
+12132.00 14949.00
+Sum lennskostnader Arets Fjorarets
+438527.00 1143151.00
+Note
+4
+Varige driftsmidler og immaterielle eiendeler
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+80000.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+80000.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+1333.00 0.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+78667.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+1333.00 0.00
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap for
+BIGSOUND AS
+826980052
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+BIGSOUND AS
+826 980 052
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1177 125 1 176 892
+Annen driftsinntekt 337 200 713 120
+Sum driftsinntekter 1 514325 1 890 012
+Driftskostnader
+Varekostnad -121 029 0
+L@nnskostnad 1,2 -438 527 -1 143 151
+Avskrivning pa varige driftsmidler og immaterielle -1 333 0
+eiendeler
+Annen driftskostnad -172 038 -248 885
+Sum driftskostnader -1 332 927 -1 392 036
+Driftsresultat 181 398 497 976
+Finansinntekter
+Annen renteinntekt 244 171
+Annen finansinntekt 1 500 616 2 220 343
+Verdigkning av finansielle instrumenter vurdert til 431 425 456 270
+virkelig verdi
+Sum finansinntekter 1 932 285 2 676 784
+Finanskostnader
+Annen rentekostnad 0 -2 205
+Sum finanskostnader 0 -2 205
+Netto finans 1 932 285 2 674 579
+Resultat for skattekostnad 2 113 683 3 172 555
+Skattekosinad 3 -49 949 -128 587
+Arsresultat 2 063 734 3 043 968
+Overforinger
+Annen egenkapital 2 063 734 3 043 968
+Sum overferinger 2 063 734 3 043 968
+
+BIGSOUND AS
+826 980 052
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3 36 373 32 384
+Sum immaterielle eiendeler 36 373 32 384
+Varige driftsmidler
+Driftslgs@re, inventar, verktgy, kontormaskiner, ol. 4 78 667 0
+Sum varige driftsmidler 78 667 0
+Finansielle anleggsmidler
+Investeringer i tilknyttet selskap 940 940
+Sum finansielle anleggsmidler 940 940
+Sum anleggsmidler 115 980 33 324
+Omlspsmidler
+Fordringer
+Kundefordringer 13 273 20 513
+Andre kortsiktige fordringer 8 495 56 383
+Sum fordringer 21 768 76 896
+Investeringer
+Markedsbaserte aksjer 6 172 318 4514077
+Sum investeringer 6 172 318 4514077
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 1 642 733 796 826
+Sum bankinnskudd, kontanter og lignende 1 642 733 796 826
+Sum omlgpsmidler 7 836 819 5 387 799
+SUM EIENDELER 7 952 799 5 421 123
+
+BIGSOUND AS
+826 980 052
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5,6 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 6 6 952 306 4 888 572
+Sum opptjent egenkapital 6 952 306 4 888 572
+Sum egenkapital 6 982 306 4918 572
+Gjeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 450 000 0
+Sum annen langsiktig gjeld 450 000 0
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner 0 1 746
+Leverandgrgjeld 43 425 5 227
+Betalbar skatt 3 53 938 38 581
+Skyldige offentlige avgifter 93 711 50 715
+Annen kortsiktig gjeld 329 419 406 282
+Sum kortsiktig gjeld 520 493 502 551
+Sum gjeld 970 493 502 551
+SUM EGENKAPITAL OG GJELD 7 952 799 5 421 123
+Se tee Obhen: S:
+@yvind Storesund Else Margrethe Olsen
+styrets leder Storesund
+
+styremediem
+
+BIGSOUND AS
+
+826 980 052
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets! @pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlg@psmiddel og kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler, laveste verdis prinsipp for
+markedsbaserte finansielle oml@psmidler. Leieavtaler er ikke balansefart.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+BIGSOUND AS
+826 980 052
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 2
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 227 559 829 109
+Arbeidsgiveravgift 55 964 139 485
+Pensjonskostnader 142 873 159 608
+Andre relaterte ytelser 12 132 14 949
+Sum 438 527 1 143 151
+Note 3 - Spesifisering av skatt
+Skattekostnad 2025 2024
+Betalbar skatt pa alminnelig inntekt 53 938 38 581
++/- Endringer i utsatt skatt/utsatt skattefordel -3 989 90 006
+Skattekostnad 49 949 128 587
+Skattepliktig inntekt
+Resultat for skatt 2 113 683 3 172 555
+Permanente forskjeller -1 886 643 -2 588 065
++/- Endring i midlertidige forskjeller 18 133 -409 120
+Skattepliktig inntekt 245 173 175 370
+Betalbar skatt i balansen
+Betalbar skatt pa arets resultat 53 938 38 581
+Betalbar skatt i balansen 53 938 38 581
+Note 4 - Varige driftsmidler og immaterielle eiendeler
+Varige
+rifts
+Anskaffelseskost 01.01. 0
+Tilgang i aret 80 000
+Avgang i aret 0
+Anskaffelseskost 31.12. 80 000
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -1 333
+Balansefort verdi per 31.12. 78 667
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 1 333
+Note 5 - Aksjekapital
+Aksjenes
+Aksjeklasse 0 Cita aksjer  palydende__ Bokfert verdi
+Ordinzere 30 000 1 30 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+@yvind Storesund 30 000 100,00 Ordineere
+
+BIGSOUND AS
+826 980 052
+Note 6 - Egenkapital
+Opptjent
+Aksjekapital egenkapital Sum
+Egenkapital 31.12.2024 30 000 4 888 572 4918572
+Arsresultat 0 2 063 734 2 063 734
+Egenkapital 31.12.2025 30 000 6 952 306 6 982 306
+
+Arsregnskap for
+BIGSOUND AS
+826980052
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+BIGSOUND AS
+826 980 052
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1177 125 1 176 892
+Annen driftsinntekt 337 200 713 120
+Sum driftsinntekter 1 514325 1 890 012
+Driftskostnader
+Varekostnad -121 029 0
+L@nnskostnad 1,2 -438 527 -1 143 151
+Avskrivning pa varige driftsmidler og immaterielle -1 333 0
+eiendeler
+Annen driftskostnad -172 038 -248 885
+Sum driftskostnader -1 332 927 -1 392 036
+Driftsresultat 181 398 497 976
+Finansinntekter
+Annen renteinntekt 244 171
+Annen finansinntekt 1 500 616 2 220 343
+Verdigkning av finansielle instrumenter vurdert til 431 425 456 270
+virkelig verdi
+Sum finansinntekter 1 932 285 2 676 784
+Finanskostnader
+Annen rentekostnad 0 -2 205
+Sum finanskostnader 0 -2 205
+Netto finans 1 932 285 2 674 579
+Resultat for skattekostnad 2 113 683 3 172 555
+Skattekosinad 3 -49 949 -128 587
+Arsresultat 2 063 734 3 043 968
+Overforinger
+Annen egenkapital 2 063 734 3 043 968
+Sum overferinger 2 063 734 3 043 968

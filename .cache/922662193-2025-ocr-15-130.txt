@@ -1,0 +1,426 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 624741
+Virksomheten
+Organisasjonsnummer : 922 662 193
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: LE BERTHELSEN HOLDING AS
+Forretningsadresse: Hammarsvegen 42B
+2008 FJERDINGBY
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Lars-Erik Berthelsen
+Dato for fastsettelse av Aarsregnskapet: 31.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 922 662 193
+
+LE BERTHELSEN HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 3 713 2 498
+
+Sum kostnader 3 713 2 498
+
+Driftsresultat -3 713 -2 498
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 0 0
+
+Resultat fer skattekostnad -3 713 -2 498
+
+Arsresultat -3 713 -2 498
+
+Arsresultat etter
+
+minoritetsinteresser -3 713 -2 498
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -3 713 -2 498
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -3 713 -2 498
+
+Sum overferinger og
+
+disponeringer -3 713 -2 498
+Utskriftsdato 01.07.2026 Organisasjonsnr 922 662 193 Side 1 av 3
+
+Organisasjonsnr: 922 662 193
+
+LE BERTHELSEN HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 2 30 000 30 000
+
+Sum finansielle
+
+anleggsmidler 30 000 30 000
+
+Sum anleggsmidler 30 000 30 000
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 14 873 17 433
+
+Sum bankinnskudd,
+
+kontanter og lignende 14 873 17 433
+
+Sum omlepsmidler 14 873 17 433
+
+SUM EIENDELER 44 873 47 433
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 40 000 40 000
+
+Sum innskutt egenkapital 40 000 40 000
+
+Opptjent egenkapital
+
+Annen egenkapital 3 720 7 433
+
+Sum opptjent egenkapital 3 720 7 433
+Utskriftsdato 01.07.2026 Organisasjonsnr 922 662 193 Side 2 av 3
+
+Sum egenkapital 43 720 47 433
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 fe]
+
+Kortsiktig gjeld
+
+Leverandergjeld 1 152 0
+
+Sum kortsiktig gjeld 1 153 0
+
+Sum gjeld 1 153 0
+
+SUM EGENKAPITAL OG GJELD 44 873 47 433
+Utskriftsdato 01.07.2026 Organisasjonsnr 922 662 193 Side 3 av 3
+
+Organisasjonsnr: 922 662 193
+
+LE BERTHELSEN HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Fjerdingby
+
+Virksomhetens art
+
+Investere i andre selskaper.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregns kap
+
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Ja
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a4
+folge unntaksregelen i regnskapslovens § 3-2 (3).
+
+Arsregnskap 2025
+Le Berthelsen Holding AS
+(922 662 193)
+Le Berthelsen Holding AS Arsregnskap Side 1 av5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 3713 2 498
+Sum driftskostnader 3713 2 498
+Driftsresultat -3713 -2498
+Resultat fer skatt -3713 -2498
+Arsresultat -3713 -2498
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital -3 713 -2 498
+Sum overferinger og disponeringer -3 713 -2 498
+
+Le Berthelsen Holding AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anleggsmidler
+
+Investeringer i datterselskap 2 30 000 30 000
+Sum finansielle anleggsmidler 30 000 30 000
+Sum anleggsmidler 30000 30000
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 14873 17 433
+Sum omlepsmidler 14873 17433
+Sum eiendeler 44873 47433
+
+Le Berthelsen Holding AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 40 000 40 000
+Sum innskutt egenkapital 40 000 40 000
+Opptjent egenkapital
+
+Annen egenkapital 3720 7 433
+Sum opptjent egenkapital 3720 7 433
+Sum egenkapital 43720 47433
+Gijeld
+Kortsiktig gjeld
+
+Leverandergjeld 11652 @)
+Sum kortsiktig gjeld 1153 0
+Sum gjeld 1153 0
+Sum egenkapital og gjeld 44873 47433
+
+Le Berthelsen Holding AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Fjerdingby
+Virksomhetens art
+Investere i andre selskaper.
+Note 2: Konsern
+Virksomheten er et morselskap. Virksomheten utarbeider ikke konsernregnskap, herunder
+konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger 4 folge
+unntaksregelen i regnskapslovens § 3-2 (3).
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Le Berthelsen Holding AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av lars-erik berthelsen <lars-erik_berthelsen@hotmail.com>
+Elektronisk signering
+LARS-ERIK BERTHELSEN
+18.02.1980 - Daglig leder, Styreleder
+Y) Signert
+24.06.2026 12:06 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 24.06.2026 11:15:56

@@ -1,0 +1,639 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 707964
+Virksomheten
+Organisasjonsnummer : 983 618 596
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: SARPSBORG FOTBALL INVEST AS
+Forretningsadresse: Tuneveien 97
+1712 GRALUM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: jon@centerrevisjon.no
+Dato for fastsettelse av arsregnskapet: 09.06.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 11.08.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 983 618 596
+
+SARPSBORG FOTBALL INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 1 17 328 298 14 940 578
+
+Sum inntekter 17 328 298 14 940 578
+
+Kostnader
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 1 14 000 000 12 500 000
+
+Annen driftskostnad 2 1 453 143 988 685
+
+Sum kostnader 15 453 143 13 488 685
+
+Driftsresultat 1 875 155 1 451 894
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 92 955 38 324
+
+Sum finansinntekter 92 955 38 324
+
+Annen finanskostnad 6 245 604
+
+Sum finanskostnader 6 245 604
+
+Netto finans 86 710 37 720
+
+Resultat fer skattekostnad 1 961 865 1 489 614
+
+Skattekostnad 3, 4 454 984 327 848
+
+Arsresultat 1 506 881 1 161 766
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 0 810 892
+
+Annen egenkapital 1 506 881 350 874
+Utskriftsdato 11.08.2026 Organisasjonsnr 983 618 596 Side 1 av 3
+
+Organisasjonsnr: 983 618 596
+
+SARPSBORG FOTBALL INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Rettigheter i verdier
+
+fotballspillere 1 336 856 4 765 206
+
+Sum immaterielle eiendeler 1 1 336 856 4 765 206
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 1 336 856 4 765 206
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 1 7 666 920 3 416 672
+
+Sum fordringer 7 666 920 3 416 672
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 3 273 572 3 042 709
+
+Sum bankinnskudd,
+
+kontanter og lignende 3 273 572 3 042 709
+
+Sum omlepsmidler 10 940 492 6 459 381
+
+SUM ELENDELER 12 277 348 11 224 587
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 6 6 487 137 6 487 137
+
+Beholdning av egne aksjer 5, 6, 7 -144 -144
+
+Overkurs 6 2 515 482 2 515 482
+
+Sum innskutt egenkapital 9 002 475 9 002 475
+Utskriftsdato 11.08.2026 Organisasjonsnr 983 618 596 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 6 2 094 484 587 603
+
+Sum opptjent egenkapital 2 094 484 587 603
+
+Sum egenkapital 7 11 096 959 9 590 078
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3 0) 0)
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 1 346 905 470 080
+
+Betalbar skatt 3 454 984 327 848
+
+Utbytte 0 810 892
+
+Annen kortsiktig gjeld 378 501 25 690
+
+Sum kortsiktig gjeld 1 180 390 1 634 510
+
+Sum gjeld 1 180 390 1 634 510
+
+SUM EGENKAPITAL OG GJELD 12 277 348 11 224 587
+Utskriftsdato 11.08.2026 Organisasjonsnr 983 618 596 Side 3 av 3
+
+Organisasjonsnr: 983 618 596
+
+SARPSBORG FOTBALL INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfering skjer ved at
+
+selskapet bokforer inntekter iht et kontantprinsipp, som baserer seg pa det
+tidspunktet hvor Sarpsborg 08 mottar inntekter/likvider fra salget.
+Inntekter bokfgres dermed i samme periode som Sarpsborg 08 har raderett
+over salgssummen.
+
+Klassifisering og vurdering av balanseposter
+
+Eierandel i
+
+spillere behandles som en immateriell rettighet.
+
+Arets anskaffelse av
+
+spillere bokferes iht faktisk kj@pesum og aktiveres.
+
+Den immaterielle
+
+verdien avskrives/nedskrives iht selskapets egen vurdering av
+spiller-verdier.
+
+Det tas hensyn til subjektive forhold knyttet til hver
+
+avtale og Sarpsborg 08/markedet sin vurdering av spillerstallen.
+
+I ar 2025
+
+utgje@r avskrivninger 80,8 av arets avkastning mot 83,7 % tilsvarende forrige
+ar.
+
+Rettigheter knyttet Oslo Fotball Akademi tidsbegrensede forhold
+avskrives iht kontraktens lepetid.
+
+Anleggsmidler er eiendeler bestemt til
+
+varig eie eller bruk.
+
+Fordringer klassifiseres som omle@psmidler hvis de
+
+forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og
+
+virkelig verdi.
+
+Kortsiktig gjeld balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Langsiktig gjeld balansefores iht levetid med
+
+lengre leopetid enn 12 mnd.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet
+
+omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som
+eksisterer mellom regnskapsmessige og skattemessige verdier, samt
+skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reversere i samme periode er fastsatt og skattevirkningen er
+beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp
+
+fra 2024 til 2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+0.00
+Note
+7
+Beholdning av_egne aksjer Antall Palydende Andel av _aksjek.
+144.00 0.80 0.01%
+Erverv
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Avhendelse
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Samvirkeforetak
+Vedtektsbestemmelser/arsmotevedtak/forslag til vedtak om medlemskapskonti
+Mer om aksjer
+
+Arsregnskap for
+SARPSBORG FOTBALL INVEST AS
+983618596
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+SARPSBORG FOTBALL INVEST AS
+983 618 596
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Annen driftsinntekt 1 17 328 298 14 940 578
+Sum driftsinntekter 17 328 298 14 940 578
+Driftskostnader
+Avskrivning pa varige driftsmidler og immaterielle 1 -14 000 000 -12 500 000
+eiendeler
+Annen driftskostnad 2 -1 453 143 -988 685
+Sum driftskostnader -15 453 143 -13 488 685
+Driftsresultat 1875 155 1 451 894
+Finansinntekter
+Annen renteinntekt 92 955 38 324
+Sum finansinntekter 92 955 38 324
+Finanskostnader
+Annen finanskostnad -6 245 -604
+Sum finanskostnader -6 245 -604
+Netto finans 86 710 37 720
+Resultat for skattekostnad 1 961 865 1 489 614
+Skattekostnad 3,4 -454 984 -327 848
+Arsresultat 1 506 881 1161 766
+Overforinger
+Ordinzert utbytte 0 810 892
+Annen egenkapital 1 506 881 350 874
+Sum overferinger 1 506 881 1161 766
+
+SARPSBORG FOTBALL INVEST AS
+983 618 596
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Rettigheter i verdier fotballspillere 1 336 856 4 765 206
+Sum immaterielle eiendeler 1 1 336 856 4765 206
+Sum anleggsmidler 1 336 856 4765 206
+Omlgpsmidler
+Fordringer
+Andre kortsiktige fordringer 1 7 666 920 3 416 672
+Sum fordringer 7 666 920 3 416 672
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 3 273 572 3 042 709
+Sum bankinnskudd, kontanter og lignende 3 273 572 3 042 709
+Sum omlgpsmidler 10 940 492 6 459 381
+SUM EIENDELER 12 277 348 11 224 587
+
+SARPSBORG FOTBALL INVEST AS
+983 618 596
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5,6 6 487 137 6 487 137
+Beholdning av egne aksjer 5, 6, 7 -144 -144
+Overkurs 6 2 515 482 2 515 482
+Sum innskutt egenkapital 9 002 475 9 002 475
+Opptjent egenkapital
+Annen egenkapital 6 2 094 484 587 603
+Sum opptjent egenkapital 2 094 484 587 603
+Sum egenkapital 7 11 096 959 9 590 078
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 1 346 905 470 080
+Betalbar skatt 3 454 984 327 848
+Utbytte 0 810 892
+Annen kortsiktig gjeld 378 501 25 690
+Sum kortsiktig gjeld 1 180 390 1 634 510
+Sum gjeld 1180 390 1 634 510
+SUM EGENKAPITAL OG GJELD 12 277 348 11 224 587
+GRALUM, 09.06.2026
+Jon Roger Andersen Henning Egil Johnsen @ivind Skjelle
+styrets leder Blindheim styremediem
+
+styremediem
+
+Tor-Ivar Pettersen Gaute Nilsen Pal Henrik Bohaugen
+styremediem styremediem styremediem
+Lars Morten Nordlie Magnar Hafsred Kristiansen Robin Wilskog
+styremediem styremediem styremediem
+Ole Petter Lovstad Kjell Arne Nordli
+styremediem daglig leder
+
+SARPSBORG FOTBALL INVEST AS
+
+983 618 596
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring skjer ved at selskapet bokfgrer inntekter iht et kontantprinsipp, som baserer seg pa det
+tidspunktet hvor Sarpsborg 08 mottar inntekter/likvider fra salget. Inntekter bokfgres dermed i samme periode
+som Sarpsborg 08 har raderett over salgssummen.
+
+Klassifisering og vurdering av balanseposter
+
+Eierandel i spillere behandles som en immateriell rettighet.
+
+Arets anskaffelse av spillere bokfgres iht faktisk kigpesum og aktiveres.
+
+Den immaterielle verdien avskrives/nedskrives iht selskapets egen vurdering av spiller-verdier.
+
+Det tas hensyn til subjektive forhold knyttet til hver avtale og Sarpsborg 08/markedet sin vurdering av
+spillerstallen.
+
+| ar 2025 utgjer avskrivninger 80,8 av arets avkastning mot 83,7 % tilsvarende forrige ar.
+
+Rettigheter knyttet Oslo Fotball Akademi tidsbegrensede forhold avskrives iht kontraktens | g@petid.
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett ar etter ttansaksjonsdagen.
+Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi.
+
+Kortsiktig gjeld balanseferes til nominelt belgp pa etableringstidspunktet.
+
+Langsiktig gjeld balansefgres iht levetid med lengre I@petid enn 12 mnd.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Immaterielle rettigheter i spillere
+
+Spesifikasjon av immaterielle eiendeler i spiller-rettigheter
+
+Bokfert verdi 1.1 4 765 206
+
+Investert i aret 10 571 650
+
+Investert i akademi 0
+
+SARPSBORG FOTBALL INVEST AS
+
+983 618 596
+
+Arets avskrivning 14 000 000
+
+Bokfert verdi 31.12 1 336 856
+
+Sarpsborg Fotball Invest AS (SFI) har en finansiell eierandel pa 20% av de skonomiske rettighetene til
+
+spillerstallen til Sarpsborg 08, samt 15% eierskap i Oslo Fotball Akademi (beliggende i Senegal)
+
+| Ispet av ar 2025 har Sarpsborg 08 solgt spillere.
+
+Det har gitt en avkastning pa spiller-verdiene pa kr. 17.328.298
+
+Det er foretatt reinvestering i spiller-verdiene med kr. 10.571.650
+
+Arets avskrivninger pa investerte rettigheter utgj@r kr. 14.000.000.
+
+Bokfert verdi av investerte rettigheter er kr. 1 336 856
+
+Ved utgangen av ar 2025 har selskapet en fordring pa Sarpsborg 08 med kr. 7.666.920.
+
+Sarpsborg Fotball Invest AS hadde pr. 31.12.25 en leverandgrgjeld til Sarpsborg 08 med kr. 315.205.
+
+| 2015 fremmet Fifa nye regler til investeringer i fotballspillere. Det har medfgrt at avtaleforholdet med
+
+Sarpsborg 08 og SFI har tilpasset seg dette.
+
+| 2023 kom selskapet og Sarpsborg 08 til en enighet om felles samarbeid i et fotball-akademi prosjekt i Senegal.
+Dette er en 3 ars avtale. Sarpsborg 08 har samarbeidet med dette akademiet i flere ar. Denne investeringen
+
+avskrives over 36 mnd. | ar er det kostnadsfgrt MNOK 1,5. Avtalen er ikke forlenget.
+
+Note 2 - Revisjon
+
+Godtgjorelse til revisor 2025 2024
+Revisjon 31 250 34 375
+Andre tjenester 0 0
+Sum godtgjorelse til revisor 31 250 34 375
+Note 3 - Spesifisering av skatt
+
+Skattekostnad 2025 2024
+Betalbar skatt pa alminnelig inntekt 454 984 327 848
+Skattekostnad 454 984 327 848
+Skattepliktig inntekt
+
+Resultat for skatt 1 961 865 1 489 614
+Permanente forskjeller 106 245 604
++/- Endring i midlertidige forskjeller 0 0
+Skattepliktig inntekt 2 068 110 1 490 218
+Betalbar skatt i balansen
+
+Betalbar skatt pa arets resultat 454 984 327 848
+Betalbar skatt i balansen 454 984 327 848
+Note 4 - Midlertidige forskjeller - utsatt skatt/skattefordel
+
+Utsatt skatt/utsatt skattefordel i balansen avsettes pa grunnlag av forskjeller mellom regnskapsmessige og
+
+skattemessige verdier i henhold til norsk regnskapsstandard for skatt.
+
+Midlertidige skatteskende og skattereduserende forskjeller som kan utlignes er nettofert.
+
+SARPSBORG FOTBALL INVEST AS
+983 618 596
+Midlertidige forskjeller Knyttet til: 01.01.2025 31.12.2025 Endring
+Anleggsmidler 0 0 0
+Netto forskjeller 0 0 0
+Skattereduserende forskjeller som ikke kan utlignes 0 0 0
+Sum midlertidige forskjeller som inngar i grunnlag for 0 0 0
+utsatt skatt/skattefordel
+Utsatt skatt 31.12.2025 basert pa 22 % 0 0 0
+Note 5 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordinzere 8 108 921 0,8 6 487 137
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+Pal H. Bohaugen AS 731 927 9,03 Ordineere
+VEIDEKKE ENTREPRENQR AS 635 593 7,84 Ordineere
+@KONOMI-DELER AS 585 000 7,21 Ordineere
+SKJELLE INVEST AS 540 926 6,67 Ordineere
+HENNING BLINDHEIM INVEST AS 440 666 5,43 Ordineere
+CENTER-REVISJON HOLDING AS 316 385 3,90 Ordineere
+ARTELL INVEST AS 274 000 3,38 Ordineere
+SARPSBORG BOWLINGSENTER AS 235 000 2,90 Ordineere
+Visund Borg AS 205 000 2,03 Ordineere
+Carun Holding AS 200 000 2,47 Ordineere
+EN@K SYSTEMER HOLDING AS 150 667 1,86 Ordineere
+BARNEHAGENETT AS 130 000 1,60 Ordineere
+HANO INVEST AS 121 666 1,50 Ordineere
+ABC SVAKSTR@M SARPSBORG AS 120 000 1,48 Ordineere
+MATHISEN BOLIGTJENESTER 120 000 1,48 Ordineere
+ADVOKAT GAUTE NILSEN AS 114 000 1,41 Ordineere
+Jas Invest AS 100 000 1,23 Ordineere
+JACK VALLERAUNE AS 96 666 1,19 Ordineere
+Tor lvar Pettersen 96 666 1,19 Ordineere
+KETIL KOPPANG HOLDING AS 86 666 1,07 Ordineere
+Ovrige aksjoneerer 2 808 093 34,63 Ordineere
+Totalt antall aksjer 8 108 921 100
+Note 6 - Egenkapital
+Opptjent
+Aksjekapital Overkurs egenkapital Sum
+Egenkapital 31.12.2024 6 486 993 2 515 482 587 603 9 590 078
+Arsresultat 0 0 1 506 881 1 506 881
+Egenkapital 31.12.2025 6 486 993 2 515 482 2 094 484 11 096 959
+Note 7 - Egne aksjer
+Aksjens Andel av
+Antall palydende _aksjekapital %
+Beholdning av egne aksjer 144 0,8 0,01
+
+SARPSBORG FOTBALL INVEST AS
+
+983 618 596
+
+Antall arsverk
+
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+
+SOLH@I REVISJON AS
+Medlemmer av Den
+norske Revisorforening
+Autorisert regnskaps-
+fererselskap
+Registrert i Foretaksregisteret
+NO 952011 677 MVA
+Bankgiro 6129.05.44644
+Hjemmeside: www.scolhoi.no
+UAVHENGIG REVISORS BERETNING
+Til generalforsamlingen i Sarpsborg Fotball Invest AS
+Uttalelse om revisjonen av arsregnskapet
+Konklusjon
+Vi har revidert arsregnskapet for Sarpsborg Fotball Invest AS som viser et overskudd pa kr 1 506 881.
+Arsregnskapet bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret avsluttet per denne
+datoen og noter til arsregnskapet, herunder et sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025 og av dets
+resultater for regnskapsaret avsluttet per denne datoen i samsvar med regnskapslovens regler og god
+regnskapsskikk i Norge.
+Grunniag for konklusjonen
+Vi har gjennomfgrt revisjonen i samsvar med International Standards on Auditing (ISA-ene}. Vare oppgaver og
+plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og plikter ved revisjonen
+av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i relevante lover og forskrifter i Norge og
+International Code of Ethics for Professional Accountants (inkludert internasjonale uavhengighetsstandarder}
+utstedt av International Ethics Standards Board for Accountants (IESBA-reglene}, og vi har overholdt vare gvrige
+etiske forpliktelser i samsvar med disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og
+hensiktsmessig som grunnlag for var konklusjon.
+Ledelsensansvar for arsregnskapet
+Styret og daglig leder (ledelsen} er ansvarlig for a utarbeide arsregnskapet og for at det gir et rettvisende bilde i
+samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik intern
+kontroll som den finner ngdvendig for a kunne utarbeide et arsregnskap som ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og opplyse om
+forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for arsregnskapet sa
+lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+i= Solhei Revisjon AS - Hundskinnveien 98, 1711 Sarpsborg - E-post: post@solhci.no - Tif: +47 69 13 8333
+Dette dokumentet lowe PAdES-formatet (PDF Advanced Electronic Signatures} av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering SIGNICAT

@@ -1,0 +1,497 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 408264
+Virksomheten
+Organisasjonsnummer : 922 157 235
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: @KERN PROSJEKT AS
+Forretningsadresse: Inkognitogata 8
+0258 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Anders Bakken Eriksen
+Dato for fastsettelse av Aarsregnskapet: 15.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.05.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 922 157 235
+
+@KERN PROSJEKT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 64 745 7 010
+
+Annen driftsinntekt 528 026 294 043
+
+Sum inntekter 592 771 301 053
+
+Kostnader
+
+Annen driftskostnad 888 793 1 672 004
+
+Sum kostnader 888 793 1 672 004
+
+Driftsresultat -296 022 -1 370 951
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 528 220 63
+
+Sum finansinntekter 528 220 63
+
+Rentekostnad til foretak
+
+i samme konsern 97 238
+
+Annen rentekostnad 43 990 3 185
+
+Annen finanskostnad 19 910 571
+
+Sum finanskostnader 19 954 561 100 423
+
+Netto finans -19 426 341 -100 360
+
+Resultat fer skattekostnad -19 722 363 -1 471 311
+
+Skattekostnad pa resultat 4
+
+Arsresultat 5 -19 722 363 -1 471 311
+
+Arsresultat etter
+
+minoritetsinteresser -19 722 363 -1 471 311
+
+Totalresultat -19 722 363 -1 471 311
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -19 722 363 -1 471 311
+
+Sum overferinger og
+
+disponeringer -19 722 363 -1 471 311
+Utskriftsdato 28.05.2026 Organisasjonsnr 922 157 235 Side 1 av 3
+
+Organisasjonsnr: 922 157 235
+@KERN PROSJEKT AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 4
+Finansielle anleggsmidler
+Investering i datterselskap 6 0 76 756 597
+Investering i annet
+foretak i samme konsern 6
+Investeringer 1
+tilknyttet selskap 42 800
+Andre langsiktige
+fordringer 80 978 368 -50 334
+Sum finansielle
+anleggsmidler 81 021 168 76 706 263
+Sum anleggsmidler 81 021 168 76 706 263
+Omlepsmidler
+Varer
+Sum varer 7 30 336 669
+Fordringer
+Kundefordringer 235 249 189 094
+Andre kortsiktige
+fordringer 3 398 555
+Konsernfordringer 57 494
+Sum fordringer 3 633 804 246 588
+Investeringer
+Aksjer og andeler 1
+foretak i samme konsern 6
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 50 999 143 395
+Sum bankinnskudd,
+kontanter og lignende 50 999 143 395
+Sum omlepsmidler 3 684 804 30 726 652
+SUM ELENDELER 84 705 972 107 432 916
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 28.05.2026 Organisasjonsnr 922 157 235 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital 8 340 000 340 000
+
+Beholdning av egne aksjer 8
+
+Overkurs 30 690 000 30 690 000
+
+Sum innskutt egenkapital 31 030 000 31 030 000
+
+Opptjent egenkapital
+
+Udekket tap 21 734 786 2 012 423
+
+Sum opptjent egenkapital -21 734 786 -2 012 423
+
+Sum egenkapital 5 9 295 214 29 017 577
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 1 490 751
+
+@vrig langsiktig gjeld 75 925 397 62 251 108
+
+Sum annen langsiktig gjeld 75 925 397 63 741 859
+
+Sum langsiktig gjeld 75 925 397 63 741 859
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 14 481 251
+
+Leverandergjeld -565 586 212 757
+
+Betalbar skatt 4
+
+Skyldig offentlige avgifter 50 947 -20 529
+
+Sum kortsiktig gjeld -514 639 14 673 479
+
+Sum gjeld 75 410 757 78 415 338
+
+SUM EGENKAPITAL OG GJELD 84 705 972 107 432 916
+Utskriftsdato 28.05.2026 Organisasjonsnr 922 157 235 Side 3 av 3
+
+Organisasjonsnr: 922 157 235
+
+@KERN PROSJEKT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+BanklD Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing
+
+Jensen, Leif Gddvin Kaas, Carl Christian ERIKSEN, ANDERS BAKKEN Yan, Alexander Moltke-H Merch, Philip Bailli
+
+2026-04-15 2026-04-15 2026-04-17 2026-04-22 2026-04-24
+A kap 2025
+Dkern Prosjekt AS
+
+Resultatregnskap
+
+Balanse
+
+Noter til regnskapet
+
+Pp Org.nr.: 922 157 235
+
+BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing
+Jensen, Leif Gddvin Kaas, Carl Christian ERIKSEN, ANDERS BAKKEN Yan, Alexander Moltke-H Merch, Philip Bailli
+2026-04-15 2026-04-15 2026-04-17 2026-04-22 2026-04-24
+
+RESULTATREGNSKAP |
+
+@KERN PROSJEKT AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 3 64 745 7010
+Annen driftsinntekt 528 026 294 043
+Sum driftsinntekter 592 771 301 053
+Annen driftskostnad 888 793 1 672 004
+Sum driftskostnader 888 793 1 672 004
+Driftsresultat -296 022 -1 370951
+FINANSINNTEKTER OG FINANSKOSTNADER
+Annen renteinntekt 528 220 63
+Rentekostnad til foretak i samme konsern 0 97 238
+Annen rentekostnad 43 990 3185
+Annen finanskostnad 19 910571 8)
+Resultat av finansposter -19 426 341 -100 360
+Resultat for skattekostnad -19 722 363 -1 471 311
+Resultat -19 722 363 -1 471 311
+EKSTRAORDINARE INNTEKTER OG KOSTNADER
+Arsresultat 5 -19 722 363 -1 471311
+OVERF@RINGER
+Overfgrt til udekket tap 19 722 363 1 471311
+Sum overf¢ringer -19 722 363 -1 471311
+@KERN PROSIJEKT AS SIDE 2
+
+BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing
+Jensen, Leif Gddvin Kaas, Carl Christian ERIKSEN, ANDERS BAKKEN Yan, Alexander Moltke-H Merch, Philip Bailli
+2026-04-15 2026-04-15 2026-04-17 2026-04-22 2026-04-24
+
+BALANSE |
+
+@KERN PROSJEKT AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i datterselskap 6 0 76 756 597
+Investeringer i tilknyttet selskap 42 800 0
+Andre langsiktige fordringer 80 978 368 -50 334
+Sum finansielle anleggsmidler 81 021 168 76 706 263
+Sum anleggsmidler 81 021 168 76 706 263
+OML@PSMIDLER
+Lager av varer og annen beholdning 7 0 30 336 669
+FORDRINGER
+Kundefordringer 235 249 189 094
+Kundefordringer konsern 0 57 494
+Andre kortsiktige fordringer 3 398555 0
+Sum fordringer 3 633 804 246 588
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 50 999 143 395
+Sum omlgpsmidler 3 684 804 30 726 652
+Sum eiendeler 84 705 972 107 432 916
+@KERN PROSJEKT AS SIDE 3
+
+BanklD Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing
+Jensen, Leif Gddvin Kaas, Carl Christian ERIKSEN, ANDERS BAKKEN Yan, Alexander Moltke-H Merch, Philip Bailli
+2026-04-15 2026-04-15 2026-04-17 2026-04-22 2026-04-24
+BALANSE |
+@KERN PROSJEKT AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 8 340 000 340 000
+Overkurs 30 690 000 30 690 000
+Sum innskutt egenkapital 31 030 000 31 030 000
+OPPTJENT EGENKAPITAL
+Udekket tap -21 734 786 -2 012 423
+Sum opptjent egenkapital -21 734 786 -2 012 423
+Sum egenkapital 5 9 295 214 29 017 577
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Langsiktig konserngjeld 0 1 490 751
+Ovrig langsiktig gjeld 75 925 397 62 251 108
+Sum annen langsiktig gjeld 75 925 397 63 741 859
+KORTSIKTIG GJELD
+Gjeld til kredittinstitusjoner 0 14 481 251
+Leverand@grgjeld -565 586 212 757
+Skyldig offentlige avgifter 50 947 -20 529
+Sum kortsiktig gjeld -514 639 14 673 479
+Sum gijeld 75 410 757 78 415 338
+Sum egenkapital og gjeld 84 705 972 107 432 916
+Oslo, 15.04.2026
+Styret i kern Prosjekt AS
+Carl Christian Kaas Anders Bakken Eriksen Leif Oddvin Jensen
+Styreleder Styremedlem/daglig leder Styremedlem
+Philip Bailli Nergaard Mgrch Alexander Moltke-Hansen Yan
+Styremedlem Styremedlem
+
+@KERN PROSJEKT AS SIDE 4
+
+BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing
+Jensen, Leif Gddvin Kaas, Carl Christian ERIKSEN, ANDERS BAKKEN Yan, Alexander Moltke-H Merch, Philip Bailli
+2026-04-15 2026-04-15 2026-04-17 2026-04-22 2026-04-24
+
+NUTTER LIL AKRSKEGNSKAP
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+Leieinntekter inntektsfgres over leieperioden.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+FORDRINGER
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 2 Lénnskostnader
+@kern Prosjekt AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Note 3 Virksomhetens art og hvor virksomheten drives
+@kern Prosjekt AS driver virksomhet knyttet til utvikling av fast eiendom, herunder kjgp, regulering,
+prosjektering og tilrettelegging av utviklingsprosjekter. Selskapet fungerer som et prosjekt- og
+holdingselskap for et konkret utviklingsprosjekt i kern-omradet, og aktiviteten er i hovedsak rettet mot
+planlegging og videreutvikling av eiendommen frem til realisering. Virksomheten er lokalisert i Oslo.
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -19 722 363 -1 471311
+Permanente forskjeller 19 910 571 0
+@KERN PROSJEKT AS SIDE 5
+
+BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing
+Jensen, Leif Gddvin Kaas, Carl Christian ERIKSEN, ANDERS BAKKEN Yan, Alexander Moltke-H Merch, Philip Bailli
+2026-04-15 2026-04-15 2026-04-17 2026-04-22 2026-04-24
+
+NYUIEK LIL AKSKEGNSKAP
+Endring i midlertidige forskjeller 9073 401 -1 249 115
+Anvendelse av fremfgrbart underskudd -9 261 609 0
+Skattepliktig inntekt 0 -2 720 426
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varebeholdning 0 9 073 400 9 073 401
+Sum 0 9 073 400 9 073 401
+Akkumulert fremfgrbart underskudd -1 634 756 -10 896 364 -9 261 609
+Inngar ikke i beregningen av utsatt skatt 1 634 756 1 822 964 188 208
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 5 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital/ egenkapital
+udekket tap
+Pr. 31.12.2024 340000 30690000 O -2012 423 29017577
+Arets resultat -19 722 363 -19 722 363
+Annen innskutt 5570 -5 570 0
+egenkapital fart mot
+udekket tap
+Pr 31.12.2025 340000 30690000 5570 -21 740 356 9 295 214
+Note 6 Datterselskap, TS og FKV
+Kontor- kommune Eier- Stemme- Anskaffelses
+andel andel kost
+DS/FKV/TS
+%kern Utvikling AS OSLO 42 ,8% 42,8% 42 800
+Sum 42 800
+@KERN PROSJEKT AS SIDE 6
+
+BanklD Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing BankID Qualified Signing
+Jensen, Leif Gddvin Kaas, Carl Christian ERIKSEN, ANDERS BAKKEN Yan, Alexander Moltke-H Merch, Philip Bailli
+2026-04-15 2026-04-15 2026-04-17 2026-04-22 2026-04-24
+NUTTER LIL AKRSKEGNSKAP
+Note 7 Anlegg under utfgrelse
+2025 2024
+Balansefgrt verdi av anlegg under utf¢rsel 0 30 336 669
+Skattemessig lagerverdi 0 21 263 269
+Midlertidig forskjell 0 9 073 400
+Anlegg under utfgrelse bestar av prosjektkostnader til eiendomsutvikling. Prosjektet er igangsatt for egen
+regning og risiko. Utviklings- og rentekostnader aktiveres regnskapsmessig frem til realisasjon av
+eiendommen. Midlertidig forskjell inkludere palgpte byggelansrenter og deler av prosjektledelse,
+forretningsfgrer og radgivningshonorarer.
+Note 8 Aksjonzrer
+AKSJEKAPITALEN | @KERN PROSJEKT AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+Ordinzre aksjer 340 000 1,0 340 000
+Sum 340 000 340 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+Ordinzere Eierandel Stemmeandel
+Brj Boliginvest AS 85 000 25,0 25,0
+Caka AS 85 000 25,0 25,0
+Bonum Invest AS 68 000 20,0 20,0
+Ibex Eiendom AS 68 000 20,0 20,0
+Prosjekt Nc 123 AS 34 000 10,0 10,0
+Totalt antall aksjer 340 000 100,0 100,0
+@KERN PROSJEKT AS SIDE 7
+
+Buypass Signing
+HANS PETTER JOHANNESSE!
+2026-04-27
+ASVANG & CO
+STATSAUTORISERTE
+REVISORER
+Til generalforsamlingen i Okern Prosjekt AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet for Okern Prosjekt AS som viser et underskudd pa kr 19 722 363.
+Arsregnskapet bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret
+avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige
+regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025
+og av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfgrt revisjonen i samsvar med International Standards on Auditing (ISA-ene}. Vare
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under "Revisors oppgaver
+og plikter ved revisjonen av arsregnskapet". Vi er uavhengige av selskapet i samsvar med kravene i
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board
+for Accountants (IESBA-reglene}, og vi har overholdt vare gvrige etiske forpliktelser i samsvar med
+disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som
+grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen} er ansvarlige for a utarbeide arsregnskapet og for at det gir et
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er
+ogsa ansvarlig for slik internkontroll som den finner nédvendig for a kunne utarbeide et arsregnskap
+som ikke inneholder vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli awiklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en hgy grad av sikkerhet, men ingen garanti
+for at en revisjon utfgrt i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon.
+Adresse . Telefon Foretaksnummer Medlemmer av
+Revisjonsfirmaet Asvang & Co AS 33 300080 987 679 026 MVA Den norske Revisorforening
+Kilengaten 1 E-post Hjemmeside
+3117 Ténsberg cevisjonsfirmaet@aasvang.no www.aasvang.no
+side 1 av2
+
+Buypass Signing
+HANS PETTER JOHANNESSE!
+2026-04-27 rs)
+ASVANG & CO
+STATSAUTORISERTE
+REVISORER
+Feilinformasjon kan oppsta som fglge av misligheter eller utilsiktede feil. Feilinformasjon er a anse
+som vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke de
+dékonomiske beslutningene som brukerne foretar pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til: https://revisorforeningen.no/om-
+revisjon/revisjonsberetning-revisors-oppgaver-og-plikter/
+Ténsberg, 27.04.2026
+Revisjonsfirmaet Asvang & Co AS
+Hans Petter Johannessen
+statsautorisert revisor
+(elektronisk signert}
+side 2 av2

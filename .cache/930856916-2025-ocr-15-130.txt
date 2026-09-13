@@ -1,0 +1,505 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 438675
+Virksomheten
+Organisasjonsnummer : 930 856 916
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: BASE HOME AS
+Forretningsadresse: Niels Juels gate 50
+4008 STAVANGER
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Alfred Ydsteba
+Dato for fastsettelse av arsregnskapet: 11.05.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 856 916
+BASE HOME AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Inntekter
+Salgsinntekt 142 043 379 4 100 000
+Annen driftsinntekt 40 000
+Sum inntekter 142 083 379 4 100 000
+Kostnader
+Endring i beholdning av
+varer under tilvirkning
+og ferdig tilvirkede varer 2 127 606 215 4 556 559
+Lennskostnad 3
+Annen driftskostnad 3 1 521 865 3 545 494
+Sum kostnader 129 128 080 8 102 053
+Driftsresultat 12 955 299 -4 002 053
+Finansinntekter og
+finanskostnader
+Annen renteinntekt 18 699 24 814
+Annen finansinntekt 11 810 10 519
+Sum finansinntekter 30 509 35 333
+Rentekostnad til foretak
+1 samme konsern 1 414 094 3 890
+Annen rentekostnad -1 390 995
+Annen finanskostnad 34 580
+Sum finanskostnader 57 679 3 890
+Netto finans -27 170 31 443
+Resultat fer skattekostnad 12 928 129 -3 970 611
+Skattekostnad pa resultat 4 2 844 188 -1 039 414
+Arsresultat 5 10 083 941 -2 931 197
+Arsresultat etter
+minoritetsinteresser 10 083 941 -2 931 197
+Totalresultat 10 083 941 -2 931 197
+Overferinger og
+disponeringer
+Avsatt til fond for
+vurderingsforskjeller 5
+Overfert fra fond for
+vurderingsforskjeller 5
+Ordinert utbytte 5
+Konsernbidrag 5
+Avgitt konsernbidrag 5
+
+Utskriftsdato 15.06.2026 Organisasjonsnr 930 856 916 Side 1 av 4
+
+Udekket tap 5, 5
+
+Overfert til udekket tap 5 3 685 196 -2 931 197
+
+Overfert til annen
+
+egenkapital 5 6 398 744
+
+Sum overferinger og
+
+disponeringer 10 083 941 -2 931 197
+Utskriftsdato 15.06.2026 Organisasjonsnr 930 856 916 Side 2 av 4
+
+Organisasjonsnr: 930 856 916
+BASE HOME AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 4 1 039 414
+Sum immaterielle eiendeler 1 039 414
+Sum anleggsmidler 1 039 414
+Omlepsmidler
+Varer
+Sum varer 2, 6 100 584 523 93 573 052
+Fordringer
+Kundefordringer 30 791 921
+Andre kortsiktige
+fordringer 28 381 884
+Sum fordringer 59 173 805
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 5 822 237 142 807
+Sum bankinnskudd,
+kontanter og lignende 5 822 237 142 807
+Sum omlepsmidler 165 580 564 93 715 859
+SUM ELENDELER 165 580 564 94 755 273
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 7 200 000 100 000
+Beholdning av egne aksjer 5, 7
+Overkurs 19 904 430 4 430
+Annen innskutt egenkapital 20 000 000
+Sum innskutt egenkapital 20 104 430 20 104 430
+Opptjent egenkapital
+Annen egenkapital 5 6 398 744
+Udekket tap 3 685 196
+Sum opptjent egenkapital 6 398 744 -3 685 196
+Sum egenkapital 5 26 503 174 16 419 234
+Gjeld
+
+Utskriftsdato 15.06.2026 Organisasjonsnr 930 856 916 Side 3 av 4
+
+Langsiktig gjeld
+Utsatt skatt 4 1 804 774
+Sum avsetninger for
+forpliktelser 1 804 774
+Annen langsiktig gjeld
+Konvertible lan 6
+Obligasjonslan 6
+Gjeld til
+kredittinstitusjoner 6 62 758 686 54 767 745
+Ansvarlig lan fra
+konsernselskap 19 321 370 18 204 290
+Sum annen langsiktig gjeld 82 080 056 72 972 035
+Sum langsiktig gjeld 83 884 830 72 972 035
+Kortsiktig gjeld
+Leverandergjeld 12 018 541 1 501 486
+Betalbar skatt 4
+Kortsiktig konserngjeld 7 391 358 3 119 344
+Annen kortsiktig gjeld 35 782 660 743 174
+Sum kortsiktig gjeld 55 192 559 5 364 004
+Sum gjeld 139 077 390 78 336 039
+SUM EGENKAPITAL OG GJELD 165 580 564 94 755 273
+POSTER UTENOM BALANSEN
+Garantistillelser 6
+Pantstillelser 6
+
+Utskriftsdato 15.06.2026 Organisasjonsnr 930 856 916 Side 4 av 4
+
+Organisasjonsnr: 930 856 916
+
+BASE HOME AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Base Home AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 930 856 916
+
+Resultatregnskap
+Base Home AS
+Note 2025 2024
+Driftsinntekter og driftskostnader
+Salgsinntekt 142 043 379 4 100 000
+Annen driftsinntekt 40 000 i) .
+Sum driftsinntekter 142 083 379 4 100 000
+Prosjektkostnader 2 127 606 215 4 556 559
+Annen driftskostnad 3 4 521 865 3 545 494
+Sum driftskostnader 129 128 080 8 102 053
+Driftsresultat 12 955 299 -4 002 053
+Finansinntekter og finanskostnader
+Annen renteinntekt — 18 699 24 814
+Annen finansinntekt ; 11 810 10 519
+Rentekostnad ti! foretak i samme konsern 1414 094 3 890
+Annen rentekostnad -1 390 995 0
+Annen finanskostnad 34 580 0
+Resultat av finansposter -27 170 31 443
+Resultat fer skattekostnad 12 928 129 -3 970 611
+Skattekostnad pa resultat 4 2 844 188 -1 039 414
+Resultat 10 083 941 -2 931 197
+Arsresultat ~ 5 10 083 941 -2 931 197
+Overferinger
+Overfart til udekket tap 5 3 685 196 -2 931 197
+Overfart til annen egenkapital § 6 398 744 0
+Sum overfgringer 10 083 941 -2 931 197
+
+Balanse
+
+Base Home AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+immaterielle eiendeler
+Utsatt skattefordel 4 0 1039 414
+Sum immaterielle eiendeler . 0 1 039 414
+Sum anleggsmidler 0 1039 414
+Omigpsmidler
+Boligprosjekt under oppfering 2,6 100 584 523 93 573 052
+Fordringer
+Kundefordringer , 30 791 921 0
+Andre kortsiktige fordringer 28 381 884 0
+Sum fordringer _ 59 173 805 0
+Bankinnskudd, kontanter ot. 5 822 237 142 807
+Sum omlepsmidler . 165 580 564 93 715 859
+Sum eiendeler . 165 580 564 94 755 273
+
+Balanse
+Base Home AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapita!
+innskutt egenkapital
+Aksjekapital 7 200 000 100 000
+Overkurs 19 904 430 4 430
+Ikke registrert kapitalforhayelse 0 20 000 000
+Sum innskutt egenkapital 20 104 430 20 104 430
+Opptjent egenkapital
+Annen egenkapital 5 6 398 744 0
+Udekket tap 0 -3 685 196
+Sum opptjent egenkapital 6 398 744 -3 685 196
+Sum egenkapital 5 26 503 174 16 419 234
+Gjeld
+Utsatt skatt 4 1 804 774 0
+Sum avsetning for forpliktelser 1804774 0
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 6 62 758 686 54 767 745
+Ansvarlig fan fra konsernselskap 19 321 370 18 204 290
+Sum annen langsiktig gjeld 82 080 056 72 972 035
+Kortsiktig gjeld ,
+Leverandargjeld 12 018 541 1 501 486
+Konserngjeld 7 391 358 3 119 344
+Annen kortsiktig gjeld 35 782 660 743 174
+Sum kortsiktig gjeld 55 192 559 5 364 004
+Sum gjeld 139 077 390 78 336 039
+Sum egenkapital og gjeld 165 580 564 94 755 273
+— ar:
+Stavanger, [1.05 ‘ 2026
+; . Styret i Base Home AS gy
+, .
+— & / C
+Ketil‘Petterson Espeh Ydsteba Tom Rune Tjétta
+styreleder styremediem daglig leer
+
+Base Home AS
+Noter til regnskapet 2025
+
+Note 1 Regnskapsprinsipper .
+Arsregnskapet er satt opp i samsvar med regnskapsloven av 1998 og god regnskapsskikk for
+
+sma foretak i Norge.
+
+Hovedregel for vurdering og klassifisering av eiendeler og gjeld
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+
+klassifisert som omlapsmidler. Fordringer som skal tilbakebetales innen et ar er klassifisert som
+
+omlgpsmidler. Ved klassifisering av kortsiktig og langsiktig gjeld er titsvarende kriterier lagt til grunn.
+
+‘Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi.
+
+Anleggsmidier vurderes til anskaffelseskost, men nedskrives til gjenvinnbart belgp dersom dette er
+
+lavere enn bokfart verdi, og verdifallet forventes ikke 4 veere forbigaende. Anleggsmidler med
+
+begrenset akonomisk levetid avskrives planmessig. Direkte vedlikehold kostnadsfores lopende
+
+under driftskostnader, mens pakostninger eller forbedringer tillegges kostpris og avskrives i takt med
+anleggsmiddelet.
+
+Inntekter
+
+Inntekter Inntektsferes nar de er opptjent
+
+Kostnader
+
+Kostnader regnskapsfgres som hovedregel i samme periode som tilhgrende inntekt. | de tilfeller det
+
+ikke er en klar sammenheng mellom utgifter og inntekter fastsettes fordelingen etter
+
+skjannsmessige kriterier. O@vrige unntak fra sammenstillingsprinsippet er angitt der det er aktuelt.
+
+Skatter
+
+Skattekostnaden sammenstilles med regnskapsmessig resultat for skatt. Skatt knyttet til
+
+egenkapitaltransaksjoner, for eksempel konsernbidrag, fores mot egenkapitalen.
+
+Skattekostnaden bestar av betalbar skatt (skatt pa arets direkte skattepliktige inntekt) og endring i
+
+netto utsatt skatt. Skattekostnaden fordeles pa ordinzert resultat og virkning av prinsippendring og
+
+; korrigering av feil i henhold til skattegrunnlaget. Utsatt skatt og utsatt skattefordel er presentert netto
+i balansen.
+Virksomhetens art
+Selskapets virksomhet er a eie aksjer og selskapsandeler i andre selskaper samt 4 uteve virksomhet i forbindelse med
+prosjektering og utvikling av fast eiendom, herunder kj@p og salg, samt det som naturlig star i forbindelse med dette.
+: Virksomheten holder til i Stavanger kommune.
+Side 5
+
+Base Home AS
+Noter til regnskapet 2025
+Note 2 Varer
+2025 , 2024
+
+Boligtomt under utvikling 40 210 312 76 616 305
+
+Boligprosjekt under utvikling 60 374 211 16 956 747
+. Sum varelager 100 584 523 93 573 052
+
+Ukurans 0
+
+Note 3 Lennskostnader
+
+Base Home AS har ikke hatt lonns- eller personalkostnader i 2025 og det foreligger heller ingen slike forpliktelser.
+
+Note 4 Skatt
+
+Arets skattekostnad 2025 2024
+
+Resultatfart skatt pa ordinzert resultat:
+
+Betalbar skatt 0 0
+
+Endring i utsatt skatt 2 844 188 -1 039 414
+
+Skattekostnad ordinzrt resultat 2 844 188 -1 039 414
+
+Skattepliktig inntekt:
+
+. Resultat far skatt 12 928 129 -3 970 611
+Permanente forskjeller 0 0
+Endring i midlertidige forskjelier -5 930 939 -5 743 457
+Anvendelse av fremferbart underskudd -6 997 190 0
+
+. Skattepliktig inntekt 0 -9 714 068
+Betalbar skatt i balansen:
+
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremf@ring som har gitt opphav til utsatt skatt og utsatte
+skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+ee 2025 _ 2024 Endring
+Tilvirkningskontrakter 1 943 908 0 ~1 943 908
+Varebeholdning 10 747 072 6 760 041 -3 987 031
+Sum 12 690 980 6 760 041 -5 930 939
+Akkumulert fremfarbart underskudd -4 487 461 -11 484 651 -6 997 190
+Grunnlag for utsatt skatt / skattefordel 8 203 518 -4 724 610 -12 928 129
+Utsatt skatt / skattefordel (22 %) 1 804 774 -1 039 414 -2 844 188
+
+Side 6 |
+
+Base Home AS
+Noter til regnskapet 2025
+Note 5 Egenkapital
+Aksjekapital Overkurs Ikke registrert Annen Udekket tap Sum
+kapitalforhoyelse egenkapital egenkapitalal
+— Pr. 31.12.2024 100 000 4 430 20 000 000 0 -3685 196 16 419 234
+. Pr 01.01.2025 100 000 4 430 20000000 0 ~-3 685 196 16 419 234
+Registrert kapitalforheyelse 100000 19900000 -20 000 000 0
+Arets resultat 6398744 3685196 10083941
+Pr 31.12.2025 200000 19 904 430 0 6398 744 0 26503 174
+Note 6 Pantstitlelser og garantier
+Pantsikret gjeld, pantstillelserog garantier 202 20284
+__Langsiktig gjeld til kredittinstitusjoner 62 758 686 54 767 745
+. Sum 62 758 686 54 767 745
+Bokfert verdi av pantsikrede eiendeler ee
+Fast eiendom (varelager) 100 584 523 93 573 052
+. Sum 100 584 523 93 573 052
+Note 7 Aksjonzrer
+Aksjekapitalen i Base Home AS pr. 31.12 bestar av:
+a Antal Palydende Bokfort
+Ordinzere aksjer 200 000 1,0 200 000
+Sum 200 000 200 000
+Eierstruktur
+De sterste aksjoneerene | % pr. 31.12 var:
+Ordinzre Eierandel Stemmeandel
+Base Bolig AS 200 000 100,0 100,0
+Side 7
+
+a Deloitte AS
+Knud Holms gate 8
+e NO-4005 Stavanger
+Norway
++47 51815600
+www.deloitte.no
+Til generalforsamlingen i Base Home AS
+UAVHENGIG REVISORS BERETNING
+Konklusjon
+Vi har revidert arsregnskapet for Base Home AS som bestar av balanse per 31. desember 2025,
+resultatregnskap for regnskapsaret avsluttet per denne datoen og noter til 4rsregnskapet, herunder et
+sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+
+e oppfyller arsregnskapet gjeldende lovkrav, og
+
+e = gir Arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025 og av
+dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med regnskapslovens regler
+og god regnskapsskikk I Norge.
+
+Grunnlag for konklusjonen
+
+Vi har gjennomfart revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare oppgaver og
+plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og plikter ved
+revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i relevante lover og
+forskrifter i Norge og International Code of Ethics for Professional Accountants (inkludert internasjonale
+uavhengighetsstandarder) utstedt av International Ethics Standards Board for Accountants (IESBA-reglene),
+og vi har overholdt vare @vrige etiske forpliktelser i samsvar med disse kravene. Innhentet revisjonsbevis er
+etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var konklusjon.
+
+Ledelsens ansvar for arsregnskapet
+
+Styret og daglig leder (ledelsen) er ansvarlige for 4 utarbeide arsregnskapet og for at det gir et rettvisende bilde
+i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik
+internkontroll som den finner ngdvendig for 4 kunne utarbeide et arsregnskap som ikke inneholder vesentlig
+feilinformasjon, verken som falge av misligheter eller utilsiktede feil.
+
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og opplyse
+om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for
+arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+
+Vart mal er 4 oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som felge av misligheter eller utilsiktede feil, og 4 avgi en revisjonsberetning som
+inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti for at en
+revisjon utfart i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon kan oppsta
+som falge av misligheter eller utilsiktede feil. Feilinformasjon er 4 anse som vesentlig dersom den enkeltvis
+eller samlet med rimelighet kan forventes 4 pavirke de @konomiske beslutningene som brukerne foretar pa
+grunnlag av arsregnskapet.
+
+Som delav en revisjon i samsvar med ISA-ene, utaver vi profesjonelt skjann og utviser profesjonell skepsis
+gjennom hele revisjonen. | tillegg:
+
+e identifiserer og vurderer vi risikoen for vesentlig feilinformasjon i arsregnskapet, enten det skyldes
+misligheter eller utilsiktede feil. Vi utformer og giennomfgrer revisjonshandlinger for 4 handtere slike
+risikoer, og innhenter revisjonsbevis som er tilstrekkelig og hensiktsmessig som grunnlag for var
+
+Deloitte AS and Deloitte Advokatfirma AS are the Norwegian affiliates of Deloitte NSE LLP, a member firm of Deloitte Touche Tohmatsu Limited, a Registrert i Foretaksregisteret
+
+UK private company limited by guarantee (“DTTL”). DTTL and each of its member firms are legally separate anc indepencent entities. DTTL and Medlemmer av Den norske Revisorforening
+Deloitte NSE LLP do not provide services to clients. Please see www.deloitte.com/about to learn more about our global network of member firms. Organisasjonsnummer: 980 211 282
+Deloitte Norway conducts business through two legally separate and independent limited liability companies; Deloitte AS, providing audit,
+
+consulting, financial advisory and risk management services, and Deloitte Advokatfirma AS, providing tax anc legal services.
+
+= Uavhengig revisors beretning
+Deloitte. Base Home AS
+konklusjon. Risikoen for at vesentlig feilinformasjon som falge av misligheter ikke blir avdekket, er
+hg@yere enn for feilinformasjon som skyldes utilsiktede feil, siden misligheter kan innebzere
+samarbeid, forfalskning, bevisste utelatelser, uriktige fremstillinger eller overstyring av internkontroll.
+¢ opparbeider vi oss en forstaelse av intern kontroll som er relevant for revisjonen, for 4 utforme
+revisjonshandlinger som er hensiktsmessige etter omstendighetene, men ikke for a gi uttrykk for en
+mening om effektiviteten av selskapets interne kontroll.
+
+e evaluerer viom de anvendte regnskapsprinsippene er hensiktsmessige og om regnskapsestimatene
+og tilhgrende noteopplysninger utarbeidet av ledelsen er rimelige.
+
+e  konkluderer vi pa om ledelsens bruk av fortsatt drift-forutsetningen er hensiktsmessig, og, basert pa
+innhentede revisjonsbevis, hvorvidt det foreligger vesentlig usikkerhet knyttet til hendelser eller
+forhold som kan skape tvil av betydning om selskapets evne til fortsatt drift. Dersom vi konkluderer
+med at det eksisterer vesentlig usikkerhet, kreves det at vi i revisjonsberetningen henleder
+oppmerksomheten pa tilleggsopplysningene i arsregnskapet, eller, dersom slike tilleggsopplysninger
+ikke er tilstrekkelige, at vi modifiserer var konklusjon. Vare konklusjoner er basert pa revisjonsbevis
+innhentet frem til datoen for revisjonsberetningen. Etterfalgende hendelser eller forhold kan
+imidlertid medfgre at selskapet ikke kan fortsette driften.
+
+e  evaluerer vi den samlede presentasjonen, strukturen og innholdet i arsregnskapet, inkludert
+tilleggsopplysningene, og hvorvidt arsregnskapet gir uttrykk for de underliggende transaksjonene og
+hendelsene pa en mate som gir et rettvisende bilde.
+
+Vi kommuniserer med styret blant annet om det planlagte innholdet | og tidspunkt for revisjonsarbeidet og
+eventuelle vesentlige funn i revisjonen, herunder vesentlige svakheter i intern kontroll som vi avdekker
+gjennom revisjonen.
+Stavanger, 11. mai 2026
+Deloitte AS
+Bjarte Munkejord Jonassen
+statsautorisert revisor
+(elektronisk signert)
+2

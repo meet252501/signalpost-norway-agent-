@@ -1,0 +1,336 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 361311
+Virksomheten
+Organisasjonsnummer : 923 716 831
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: S-BREDESEN HOLDING AS
+Forretningsadresse: C.M. Havigs gate 21
+8656 MOSJGEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Silje Helen Bredesen
+Dato for fastsettelse av Aarsregnskapet: 19.03.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 31.03.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 923 716 831
+
+S-BREDESEN HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Salgsinntekt
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 12 280 10 219
+
+Sum kostnader 12 280 10 219
+
+Driftsresultat -12 280 -10 219
+
+Netto finans
+
+Resultat fer skattekostnad -12 280 -10 219
+
+Skattekostnad pa resultat 3
+
+Arsresultat 4 -12 280 -10 219
+
+Arsresultat etter
+
+minoritetsinteresser -12 280 -10 219
+
+Totalresultat -12 280 -10 219
+
+Overferinger og
+
+disponeringer
+
+Konsernbidrag -12 280 -37 856
+
+Udekket tap 27 637
+
+Sum overferinger og
+
+disponeringer -12 280 -10 219
+Utskriftsdato 31.03.2026 Organisasjonsnr 923 716 831 Side 1 av 3
+
+Organisasjonsnr: 923 716 831
+
+S-BREDESEN HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investering 1 datterselskap 30 000 30 000
+
+Sum finansielle
+
+anleggsmidler 30 000 30 000
+
+Sum anleggsmidler 30 000 30 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Konsernfordringer 25 033 37 856
+
+Sum fordringer 25 033 37 856
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 7 650 19 930
+
+Sum bankinnskudd,
+
+kontanter og lignende 7 650 19 930
+
+Sum omlepsmidler 32 683 57 786
+
+SUM ELENDELER 62 683 87 786
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5 50 000 50 000
+
+Beholdning av egne aksjer 5
+
+Annen innskutt egenkapital -5 570 -5 570
+
+Sum innskutt egenkapital 44 430 44 430
+
+Opptjent egenkapital
+
+Annen egenkapital 5 570 5 570
+
+Sum opptjent egenkapital 5 570 5 570
+
+Sum egenkapital 4 50 000 50 000
+
+Kortsiktig gjeld
+
+Betalbar skatt 3
+
+Kortsiktig konserngjeld 25 103
+Utskriftsdato 31.03.2026 Organisasjonsnr 923 716 831 Side 2 av 3
+
+Annen kortsiktig gjeld 12 683 12 683
+Sum kortsiktig gjeld 12 683 37 786
+Sum gjeld 12 683 37 786
+SUM EGENKAPITAL OG GJELD 62 683 87 786
+Utskriftsdato 31.03.2026 Organisasjonsnr 923 716 831 Side 3 av 3
+
+Organisasjonsnr: 923 716 831
+
+S-BREDESEN HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+S-Bredesen Holding AS
+Resultatregnskap
+Noter til regnekapet
+Org.nr.: 923 716 831
+
+Resultatregnskap
+
+S-Bredesen Holding AS
+Driftsinntekter og driftskostnader Note 2025 2024
+Salgsinntekt 0 0
+Sum driftsinntekter 0 0
+Annen driftskostnad 12 280 10 219
+Sum driftskostnader 12 280 10 219
+Driftsresultat -12 280 -10 219
+Finansinntekter og finanskostnader
+Resultat for skattekostnad -12 280 -10 219
+Resultat -12 280 -10 219
+Arsresultat 4 -12 280 -10 219
+Overferinger
+Mottatt konsernbidrag 12 280 37 856
+Overfart til udekket tap 0 -27 637
+Sum overforinger -12 280 -10 219
+S-Bredesen Holding AS Side 2
+
+Balanse
+
+S-Bredesen Holding AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer i datterselskap 30 000 30 000
+Sum finansielle anleggsmidler 30 000 30 000
+Sum anleggsmidler 30 000 30 000
+Omle@psmidler
+Fordringer
+Konsernfordringer 25 033 37 856
+Sum fordringer 25 033 37 856
+Bankinnskudd, kontanter o.]. Y 650 19 930
+Sum omlgpsmidler 32 683 57 786
+Sum eiendeler 62 683 87 786
+S-Bredesen Holding AS Side 3
+
+Balanse
+S-Bredesen Holding AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5 50 000 50 000
+Annen innskutt egenkapital -5 570 -5 570
+Sum innskutt egenkapital 44 430 44 430
+Opptjent egenkapital
+Annen egenkapital 5 570 5 570
+Sum opptjent egenkapital 5 570 5 570
+Sum egenkapital 4 50 000 50 000
+Gjeld
+Kortsiktig gjeld
+Konserngjeld 0 25 103
+Annen kortsiktig gjeld 12 683 12 683
+Sum kortsiktig gjeld 12 683 37 786
+Sum gjeld 12 683 37 786
+Sum egenkapital og gjeld 62 683 87 786
+Mosjeen, 19.03.2026
+Styret i S-Bredesen Holding AS
+Kenneth Olderskog Silje Olderskog Bredesen
+styremediem styreleder/daglig leder
+S-Bredesen Holding AS Side 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofert.
+
+Klassifisering og vurdering av omlgpsmidler
+
+Omlgpsmidler og kortsiktig gield omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+Aksjer i datterselskap
+
+Datterselskap vurderes etter kostmetoden i selskapsregnskapet. Investeringen er vurdert til anskaffelseskost
+for aksjene med mindre nedskrivning har veert ngdvendig. Det er foretatt nedskrivning til virkelig verdi nar
+verdifall skyldes arsaker som ikke kan forventes a veere forbigaende og det ma anses ngdvendig etter god
+regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke lenger er til stede.
+
+Utbytte, konsernbidrag og andre utdelinger fra datterselskap er inntektsfgrt samme ar som det er avsatt i
+givers regnskap. Overstiger utbytte / konsernbidraget andelen av opptjent resultat etter
+anskaffelsestidspunktet, representerer den overskytende del tilbakebetaling av investert kapital, og
+utdelingene er fratrukket investeringens verdi i balansen til morselskapet.
+
+Note 1 Virksomhetens art og lokalisering
+
+S-Bredesen Holding AS er et selskap der virksomheten omfatter Juridisk tjenesteyting, investering i andre
+selskaper og eiendom med tilhgrende virksomhet. Selskapet er lokalisert i Vefsn kommune.
+
+Note 2 Lonnskostnader
+
+S-Bredesen Holding AS har ikke hatt I@nns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfert skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzrt resultat 0 0
+Skattepliktig inntekt:
+Resultat fer skatt -12 280 -10 219
+Permanente forskjeller 0 0
+Mottatt konsernbidrag 12 280 37 856
+Anvendelse av fremfgrbart underskudd 0 -27 637
+Skattepliktig inntekt 0 0
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat -2 702 -8 328
+Betalbar skatt pa mottatt konsernbidrag 2 702 8 328
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte skattefordeler,
+spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Utsatt skatt (22 %) 0 0 0
+Note 4 Egenkapital
+Aksjekapital Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 50 000 -5 570 5 570 50 000
+Pr 01.01.2025 50 000 -5 570 5 570 50 000
+Arets resultat -12 280 -12 280
+Konsernbidrag mottatt 0 12 280 12 280
+Pr 31.12.2025 50 000 -5 570 5 570 50 000
+
+Note 5 Aksjonzerer
+Aksjekapitalen i S-Bredesen Holding AS pr. 31.12 bestar av:
+Antall Palydende Bokfort
+
+Ordineere aksjer 50 1 000,0 50 000
+Sum 50 50 000
+Eierstruktur
+De sterste aksjonzeerene i % pr. 31.12 var:
+
+Ordinzre Eierandel Stemmeandel
+Silje Helen Bredesen 50 100,0 100,0

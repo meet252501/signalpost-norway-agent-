@@ -1,0 +1,545 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 547036
+Virksomheten
+Organisasjonsnummer : 921 808 518
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MAURVEIEN 14 AS
+Forretningsadresse: Maurveien 12A
+9514 ALTA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Paul Inge Thomassen
+Dato for fastsettelse av arsregnskapet: 14.06.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 07.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 921 808 518
+
+MAURVELIEN 14 AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 511 426 1 359 265
+
+Sum inntekter 1 511 426 1 359 265
+
+Kostnader
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 1 550 378 550 378
+
+Annen driftskostnad 225 351 195 856
+
+Sum kostnader 775 729 746 234
+
+Driftsresultat 735 697 613 O31
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 0
+
+Annen rentekostnad 800 738 872 312
+
+Sum finanskostnader 800 738 872 312
+
+Netto finans -800 738 -872 312
+
+Resultat fer skattekostnad -65 041 -259 281
+
+Skattekostnad 2 -14 309 -57 042
+
+Arsresultat -50 732 -202 239
+
+Annen egenkapital -50 732 -202 239
+Utskriftsdato 07.07.2026 Organisasjonsnr 921 808 518 Side 1 av 3
+
+Organisasjonsnr: 921 808 518
+MAURVEIEN 14 AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 2 0) 0)
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 1, 3 13 819 481 14 369 859
+Driftslesere, inventar,
+verktey, kontormaskiner,
+ol. 1 0 0
+Sum varige driftsmidler 13 819 481 14 369 859
+Finansielle anleggsmidler
+Sum finansielle
+anleggsmidler 0 0
+Sum anleggsmidler 13 819 481 14 369 859
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 15 000 0
+Andre kortsiktige
+fordringer 9 271 7 383
+Konsernfordringer 4 44 970 272 642
+Sum fordringer 69 241 280 025
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 272 055 206 637
+Sum bankinnskudd,
+kontanter og lignende 272 055 206 637
+Sum omlepsmidler 341 296 486 662
+SUM ELENDELER 14 160 777 14 856 521
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 07.07.2026 Organisasjonsnr 921 808 518 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital 5, 6 30 000 30 000
+
+Beholdning av egne aksjer 5 0 0
+
+Annen innskutt egenkapital 6 523 450 488 373
+
+Sum innskutt egenkapital 553 450 518 373
+
+Opptjent egenkapital
+
+Annen egenkapital 6 605 262 655 994
+
+Sum opptjent egenkapital 605 262 655 994
+
+Sum egenkapital 1158 712 1174 367
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2 318 354 322 770
+
+Sum avsetninger for
+
+forpliktelser 318 354 322 770
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 3 11 281 052 11 757 728
+
+@vrig langsiktig gjeld 3 945 894 1 025 586
+
+Sum annen langsiktig gjeld 12 226 946 12 783 314
+
+Kortsiktig gjeld
+
+Leverandergjeld 337 250 451 873
+
+Betalbar skatt 2 0) 0)
+
+Skyldige offentlige
+
+avgifter 57 538 53 526
+
+Annen kortsiktig gjeld 61 977 70 671
+
+Sum kortsiktig gjeld 456 765 576 070
+
+Sum gjeld 13 002 065 13 682 154
+
+SUM EGENKAPITAL OG GJELD 14 160 777 14 856 521
+Utskriftsdato 07.07.2026 Organisasjonsnr 921 808 518 Side 3 av 3
+
+Organisasjonsnr: 921 808 518
+
+MAURVEIEN 14 AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Leieinntekter inntektsfores lineert
+over leieperioden.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Eilendeler som er knyttet til varekretslapet er klassifisert som
+omlepsmidler. Fordringer klassifiseres som omle@psmidler hvis de forfaller
+til betaling innen ett ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar
+etter transaksjonsdagen. Forste ars avdrag pa langsiktige fordringer og
+langsiktig gjeld klassifiseres likevel ikke som omlg@psmiddel og kortsiktig
+gjeld.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og virkelig
+
+verdi. Kortsiktig gjeld balansefores til nominelt belep pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes 4 vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt bel@p pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer
+
+og andre fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning til forventet tap. Avsetning til tap gj@res pa grunnlag av
+individuelle vurderinger av de enkelte fordringene.
+
+Varige
+
+driftsmidler
+
+Varige driftsmidler balansefores og avskrives over
+
+driftsmidlenes levetid dersom de har antatt levetid over 3 ar og har en
+kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidler
+kostnadsferes lepende under driftskostnader, mens pakostninger eller
+forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt skattemessig
+underskudd til fremfering ved utgangen av regnskapsaret. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er fastsatt og skattevirkningen er beregnet pa
+nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+
+2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+0.00
+Note
+1
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+15216230.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+15216230.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+3490419.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+11725811.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+550378.00 0.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Bokfert tomteverdi pr 31.12.2025 kr 2 093 670.
+Note
+4
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregnskap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belep - foretak i samme konserm Arets Fjorarets
+
+44970.00 272642 .00
+Note
+3
+Gjeld
+Gjeld som forfaller til betaling mer enn fem Ar etter regnskapsarets slutt
+8899672 .00
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+11281052.00
+Balansefert verdi av de pantsatte eiendeler
+13819481.00
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+Mer om gjeld
+
+Ld
+Stiansen & Co AS
+Statsautoriserte revisorer
+
+Til generalforsamlingen 1
+
+Maurveien 14 AS
+UAVHENGIG REVISORS BERETNING
+Konklusjon
+Vi har revidert arsregnskapet for Maurveien 14 AS som viser et underskudd pa kr 50 732.
+Arsregnskapet bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret
+avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige
+regnskapsprinsipper.
+Etter var mening
+
+¢ oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember
+2025, og av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk 1 Norge.
+
+Grunnlag for konklusjonen
+Vi har gjennomfert revisjonen 1 samsvar med den internasjonale revisjonsstandarden for
+revisjon av regnskap til mindre komplekse enheter (ISA for MKE). Vare oppgaver og plikter 1
+henhold til ISA for MKE er beskrevet nedenfor under Revisors oppgaver og plikter ved
+revisjonen av arsregnskapet. Vi er uavhengige av selskapet 1 samsvar med kravene i relevante
+lover og forskrifter 1 Norge og International Code of Ethics for Professional Accountants
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards
+Board for Accountants (IESBA-reglene), og vi har overholdt vare gvrige etiske forpliktelser 1
+samsvar med disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og
+hensiktsmessig som grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlig for 4 utarbeide arsregnskapet og for at det gir et
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk 1 Norge.
+Ledelsen er ogsa ansvarlig for slik intern kontroll som den finner ngdvendig for 4 kunne
+utarbeide et arsregnskap som ikke inneholder vesentlig feilinformasjon, verken som felge av
+misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt
+drift og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift
+skal legges til grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli
+avviklet.
+
+Telefon: +47 66 84 88 40 Postadr.: Postboks 174, N-1378 Nesbru E a
+
+E-mail: firmapost@stiansen.no Revisor-/foretaksnr: NO 962 990 746 MVA agn , anes en ine a
+_ www.stiansen.no Medlemmer av Den norske Revisorforening eananown. — financicl advisory busingsses SIGNICAT
+
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures} av Signicat. Dette sikrer dokumenteTog dets vedlegg mot endringer etter signenng.
+
+Stiansen & Co AS
+Statsautoriserte revisorer
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er 4 oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder
+vesentlig feilinformasjon, verken som folge av misligheter eller utilsiktede feil, og a avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hey grad av
+sikkerhet, men ingen garanti for at en revisjon utfert 1 samsvar med ISA for MKE, alltid vil
+avdekke vesentlig feilinformasjon. Feilinformasjon kan oppsta som felge av misligheter eller
+utilsiktede feil. Feilinformasjon er a anse som vesentlig dersom den enkeltvis eller samlet med
+rimelighet kan forventes 4 pavirke de gkonomiske beslutningene som brukerne foretar, pa
+grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til
+https://revisorforeningen.no/revisjonsberetninger
+Nesbru, 20.04.2026
+Stiansen & Co AS
+Grethe Hasle
+Statsautorisert revisor
+(elektronisk signert)
+Revisjonsberetning for Maurveien 14 AS- side 2
+Telefon: +47 66 84 88 40 Postadr.: Postboks 174, N-1378 Nesbru E a
+E-mail: firmapost@stiansen.no Revisor-/foretaksnr: NO 962 990 746 MVA agn Ainanson al an of tinge
+__ Wwww.stiansen.no Medlemmer av Den norske Revisorforening imiennanowm — financict advisory businesses
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures) av Signicat. Dette sikrer dokumentetog dets vedlegg mot endringer etter signenng. SIGNICAT
+
+Elektronisk signatur
+Signert av Dato og tid (UTC+01:00) Central European Time (Berlin) (DD. MM.YYYY HA: MM:SS)
+Hasle, Grethe Juvkam 2 2.04.2026 19:27:22
+(identitet bekreftet med BankiD (NO)) BankiD (NO)
+=== bankID
+
+Arsregnskap for
+MAURVEIEN 14 AS
+921808518
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+MAURVEIEN 14 AS
+921 808 518
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1511 426 1359 265
+Sum driftsinntekter 1 511 426 1 359 265
+Driftskostnader
+Avskrivning pa varige driftsmidler og immaterielle 1 -550 378 -550 378
+eiendeler
+Annen driftskostnad -225 351 -195 856
+Sum driftskostnader -775 729 -746 234
+Driftsresultat 735 697 613 031
+Finanskostnader
+Annen rentekostnad -800 738 -872 312
+Sum finanskostnader -800 738 -872 312
+Netto finans -800 738 -872 312
+Resultat for skattekostnad -65 041 -259 281
+Skattekostnad 2 14 309 57 042
+Arsresultat -50 732 -202 239
+Overforinger
+Annen egenkapital -50 732 -202 239
+Sum overferinger -50 732 -202 239
+
+MAURVEIEN 14 AS
+921 808 518
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger og annen fast eiendom 1,3 13 819 481 14 369 859
+Sum varige driftsmidler 13 819 481 14 369 859
+Sum anleggsmidler 13 819 481 14 369 859
+Omlgpsmidler
+Fordringer
+Kundefordringer 15 000 0
+Kortsiktige kKonsernfordringer 4 44 970 272 642
+Andre kortsiktige fordringer 9271 7 383
+Sum fordringer 69 241 280 025
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 272 055 206 637
+Sum bankinnskudd, kontanter og lignende 272 055 206 637
+Sum omlgpsmidler 341 296 486 662
+SUM EIENDELER 14 160 777 14 856 521
+
+MAURVEIEN 14 AS
+921 808 518
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5,6 30 000 30 000
+Annen innskutt egenkapital 6 523 450 488 373
+Sum innskutt egenkapital 553 450 518 373
+Opptjent egenkapital
+Annen egenkapital 6 605 262 655 994
+Sum opptjent egenkapital 605 262 655 994
+Sum egenkapital 1 158 712 1 174 367
+Gjeld
+Avsetning og forpliktelser
+Utsatt skatt 2 318 354 322 770
+Sum avsetning for forpliktelser 318 354 322 770
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 3 11 281 052 11 757 728
+@vrig langsiktig gjeld 3 945 894 1 025 586
+Sum annen langsiktig gjeld 12 226 946 12 783 314
+Kortsiktig gjeld
+Leverandgrgjeld 337 250 451 873
+Skyldige offentlige avgifter 57 538 53 526
+Annen kortsiktig gjeld 61977 70 671
+Sum kortsiktig gjeld 456 765 576 070
+Sum gjeld 13 002 065 13 682 154
+SUM EGENKAPITAL OG GJELD 14 160 777 14 856 521
+ALTA, 20.04.2026
+Paul Inge Thomassen Ulf Tomas Hansen Oleif Simensen
+styrets leder styremediem styremediem
+Jan Arne Hansen
+styremediem
+
+MAURVEIEN 14 AS
+
+921 808 518
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapet driver utleie av fast eiendom. Selskapet er lokalisert i Alta Kommune.
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Leieinntekter inntektsfgres linegert over
+leieperioden.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som oml@psmiddel og kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.

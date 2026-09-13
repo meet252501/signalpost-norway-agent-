@@ -1,0 +1,437 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 647393
+Virksomheten
+Organisasjonsnummer : 890 546 242
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: @STGAARD INVEST AS
+Forretningsadresse: @stvollveien 3
+1165 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Lars Erik @stgaard
+Dato for fastsettelse av arsregnskapet: 13.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 06.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 890 546 242
+
+@STGAARD INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 600 6
+
+Sum kostnader 600 6
+
+Driftsresultat -600 -6
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+tilknyttet selskap 700 000 600 000
+
+Annen renteinntekt 9 060 4 531
+
+Annen finansinntekt 55 786 2 422
+
+Verdiendring av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 171 329 522 227
+
+Sum finansinntekter 936 175 1129 181
+
+Annen rentekostnad 31 132 13 510
+
+Annen finanskostnad 33 321 31 824
+
+Sum finanskostnader 64 454 45 333
+
+Netto finans 871 721 1 083 848
+
+Resultat fer skattekostnad 871 121 1 083 842
+
+Skattekostnad pa resultat 3 20 869 20 307
+
+Arsresultat 850 253 1 063 535
+
+Arsresultat etter
+
+minoritetsinteresser 850 253 1 063 535
+
+Totalresultat 850 253 1 063 535
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 4 400 000 400 000
+
+Avsatt til annen
+
+egenkapital 4 450 253 663 535
+
+Overfert fra annen
+
+egenkapital 4
+
+Sum overferinger og
+
+disponeringer 850 253 1 063 535
+Utskriftsdato 06.07.2026 Organisasjonsnr 890 546 242 Side 1 av 3
+
+Organisasjonsnr: 890 546 242
+
+@STGAARD INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 5 22 000 22 000
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 6
+
+Investeringer 1 aksjer og
+
+andeler 489 999 419 999
+
+Andre langsiktige
+
+fordringer 6 150 000 70 000
+
+Sum finansielle
+
+anleggsmidler 661 999 511 999
+
+Sum anleggsmidler 661 999 511 999
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 6 7 492 1 368
+
+Sum fordringer 7 492 1 368
+
+Investeringer
+
+Markedsbaserte aksjer 7, 8 3 105 553 3 179 088
+
+Sum investeringer 3 105 553 3 179 088
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 220 982 70 375
+
+Sum bankinnskudd,
+
+kontanter og lignende 220 982 70 375
+
+Sum omlepsmidler 3 334 027 3 250 831
+
+SUM ELENDELER 3 996 025 3 762 829
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4 30 000 30 000
+Utskriftsdato 06.07.2026 Organisasjonsnr 890 546 242 Side 2 av 3
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptijent egenkapital
+
+Annen egenkapital 4 3 205 463 2 755 211
+
+Sum opptjent egenkapital 3 205 463 2 755 211
+
+Sum egenkapital 3 235 463 2 785 211
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3 32 272 19 970
+
+Sum avsetninger for
+
+forpliktelser 32 272 19 970
+
+Annen langsiktig gjeld
+
+Sum langsiktig gjeld 32 272 19 970
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 8 324 998 554 487
+
+Betalbar skatt 3
+
+Utbytte 400 000 400 000
+
+Annen kortsiktig gjeld 8 3 292 3 162
+
+Sum kortsiktig gjeld 728 290 957 649
+
+Sum gjeld 760 562 977 619
+
+SUM EGENKAPITAL OG GJELD 3 996 025 3 762 829
+Utskriftsdato 06.07.2026 Organisasjonsnr 890 546 242 Side 3 av 3
+
+Organisasjonsnr: 890 546 242
+
+@STGAARD INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+@stgaard Invest AS
+Arsregnskap 2025
+
+Resultatregnskap
+@stgaard Invest AS
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftskestnad 600 6
+Sum driftskostnader 600 6
+Driftsresultat -600 6
+Finansinntekter og finanskostnader
+Inntekt pa investering i tilknyttet selskap 700 000 600 000
+Annen renteinntekt 9 060 4 531
+. Annen finansinntekt §5 786 2 422
+Verdiendring av finansielle instrumenter vurdert til virkelig verdi 171 329 §22 227
+Annen rentekostnad 31 132 13 510
+Annen finanskostnad 33 321 31 824
+Resuitat av finansposter 871 721 1 083 848
+Resultat for skattekostnad 871 121 1083 842
+Skattekostnad pa resultat 3 20 869 20 307
+Resultat 850 253 1 063 535
+Arsresuiltat 850 253 1 063 535
+Overferinger
+Avsatt til utbytte 4 400 000 400 000
+Avsatt til annen egenkapital 4 450 253 663 535
+Sum overfaringer 850 253 1 063 636
+@stgaard invest AS Side 1
+
+Balanse
+
+Mstgaard Invest AS
+Eiendeter Note 2025 2024
+Anleggsmidler
+Finansielle anleggsmidier
+investeringer i tilknyttet selskap 5 22 000 22 000
+Investeringer i aksjer og andeler 489 999 419 999
+Andre langsiktige fordringer 8 150 000 70 000
+Sum finansielle anleggsmidier 661 999 511 999
+Sum anleggsmidier 661 999 511 999
+Omigpsmidier
+Fordringer
+Andre kortsiktige fordringer 6 7 492 1 368
+Sum fordringer 7 492 1368
+Investeringer
+Markedsbaserte aksjer 7,8 3 105 553 3 179 088
+Sum iInvesteringer 3 105 653 3 179 088
+Bankinnskudd, kontanter o.I. 220 982 70 375
+Sum omlgpsmidier 3 334 027 3 250 831
+Sum elendeler 3 996 025 3 762 $29
+@stgaard invest AS Side 2
+
+Balanse
+
+@stgaard invest AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4 30 000 30 000
+Sum innskutt egenkapita! 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 4 3 205 463 | 2 755 211
+Sum opptjent egenkapital 3 205 463 2 756 211
+Sum egenkapital 3 235 463 2 786 211
+Gjeid
+Avsetning for forplikteiser
+Utsatt skatt 3 32 272 19 970
+Sum avsetning for forpliktelser 32 272 19 970
+Kortsiktig gjeid
+Gjeld til kredittinstitusjoner 8 324 998 §54 487
+Utbytte 400 000 400 000
+Annen kortsiktig gjeld 8 3 292 3 162
+Sum kortsiktig gjeld 728 290 957 649
+Sum gjeld 760 662 977 619
+Sum egenkapital og gjeld 3 996 025 3 762 829
+
+Oslo, den 13. juni 2026
+
+Styret i @stgaard Invest AS |
+Lars Erik Ostgaard
+
+Styreleder/dag}ig leder
+
+@atgaard invest AS Side 3
+
+Noter
+
+@stgaard invest AS
+Noter
+Arsregnskapet for @stgaard Invest AS bestar av falgende deler
+e Resuitatregnskap
+e Balanse
+e Noter
+Arsregnskapet er utarbeidet av selskapets styre og ledelse.
+Ostgaard invest AS er lokalisert | Osio og selskapets virksomhet er investeringsvirksomhet.
+Note 1 Regnskapsprinsipper
+Arsregnskapet bestar av resuitatregnskap, balanse og noteopplysninger og er aviagt i samsvar med
+aksjelov, regnskapslov og god regnskapsskikk for sma foretak i Norge gjeldende pr. 31. desember 2025.
+Notene er falgelig en integrert del av arsregnskapet.
+Arsregnskapet er basert pa de grunnieggende prinsipper om historisk kost, sammenlignbarhet, fortsatt drift,
+kongruens og forsiktighet. Transaksjoner regnskapsferes til verdien av vederiaget pa
+transaksjonstidspunktet. Inntekter resultatfores nar de er opptjent og kostnader sammenstilles med
+opptiente inntekter.
+Eiendeler/gjeld som knytter seg til varekretsigpet og poster som forfaller til betaling innen ett ar etter
+balansedagen, er klassifisert som omlapsmidler/kortsiktig gjeld. Vurdering av omigpsmidier/kortsiktig gjelid
+skjer til laveste/neyeste verdi av anskaffeiseskost og virkelig verdi. Virkelig verdi er definert som antatt
+fremtidig salgspris redusert med forventede saigskostnader. Andre eiendeler er klassifisert som
+anleggsmidier. Vurdering av anleggsmidler skjer til anskaffelseskost. Anteggsmidier som forringes
+avskrives. Dersom det finner sted en verdiendring som ikke er forbigaende, foretas en nedskrivning av
+anleggsmidiet. Tilsvarende prinsipper legges normalt til grunn for gjeldsposter.
+Utsatt skatt beregnes pa bakgrunn av midilertidige forskjeller mellom regnskapsmessige og skattemessige
+verdier ved utgangen av regnskapsaret. Ved beregningen benyttes nominell skattesats. Positive og
+negative forskjelier vurderes mot hverandre innenfor samme tidsintervaill. Utsatt skattefordel oppstar
+dersom en har midiertidige forskjeller som gir opphav til skattemessige fradrag i fremtiden. Skattekostnad i
+resuitatet bestar av endringer i utsatt skatt sammen med betalbar skatt for inntektsaret.
+Nar faktiske tall ikke er tiigjengelige pa tidspunkt for regnskapsavieggelsen, tilsier god regnskapsskikk at
+ledelsen beregner et best mulig estimat for bruk i resuitatregnskap og balanse. Det kan fremkomme awik
+mejlom estimerte og faktiske tall.
+
+Noter
+@stgaard Invest AS
+Note 2 Antal] ansatte
+01.01 -31.12
+
+2025 2024
+Gjennomsnitlig antall ansatte 0 0
+Note 3 Skatt
+
+2025 2024
+Betalbar skatt fromkommer slik:
+Ordinesrt resultat for skattekostnad 871 121 1 083 842
+Permanente forskjeller -928 787 -1 106 298
+Grunniag betalbar skatt, avrundet -b? 666 -22 456
+Betalbar skatt pa arets resuitat 0 0
+Arets skattekostnad fremkommer slik:
+Betalbar skatt pa arets resultat 0 0
+Kildeskatt 8 567 337
+Arets endring i utsatt skatt 12 302 19 970
+Arets totale skattekostnad 20 869 20 307
+
+31.12.2025 31.12.2024
+Betalbar skatt i balansen fremkommer slik:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt ') 6
+Spesifikasjon av grunniag for utsatt skatt/utsatt skattefordel:
+Forskjeller som utlignes:
+Aksjer og andre finansielle instrumenter 237 439 123 856
+Fremfarbart skattemessig underskudd -90 748 -33 083
+Sum 146 651 90 773
+Utsatt skatt/utsatt skattefordel: 32 272 49 970
+| henhold til god regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 4 Egenkapital
+Annen
+Aksjekapital_ egenkapital Sum
+
+Egenkapital 34.12.2024 30 000 2 765 211 2785 211
+Avsatt utbytte ~400 000 -400 000
+Arsresuitat 850 253 850 253
+Egenkapital 31.12.2025 36 600 3 205 463 3236 463
+
+Noter
+Mstgaard Invest AS
+Note 5 Investeringer i tilknyttede selskap
+Investeringer i tilknyttet selskap og andre langsiktige investeringer i aksjer vurderes til det laveste av
+anskaffelseskost og virkelig verdi.
+Note 6 Fordringer
+Fordringer som har forfail senere enn ett ar etter regnskapsarets slutt utgjor kr. 150 000.
+Note 7 Markedsbaserte aksjer og verdipapirfond
+Markedsbaserte aksjer og andeler i verdipapirfond vurderes til virkelig verdi.
+Periodens
+Anskaffeises. Virkeilg resultatforte
+kost verdl verdiendring
+Omlopsmidier:
+Bersnoterte aksjer og verdipapirfond 2 280 478 3 105 553 99 201
+Note 8 Gjeld
+Selskapet har ingen gje!d som har forfall senere enn fem 4r etter regnskapsarets slutt.
+31.12.2025 31.12.2024
+Balansefart gjeld som er sikret ved pant o.I.
+Gjeld til kredittinstitusjoner 324 998 554 487
+Sum 324 998 554 487
+Balansefart verdi av eiendeler stilt som sikkerhet for pantesikret gjeld:
+Markedsbaserte aksjer 738 954 948 765
+Sum 738 964 548 765

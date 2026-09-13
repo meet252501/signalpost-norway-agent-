@@ -1,0 +1,356 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 601824
+Virksomheten
+Organisasjonsnummer : 998 805 112
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: VERAX HOLDING AS
+Forretningsadresse: Sevikneset 132
+5251 S@REIDGREND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Morten Fredrik Hoff
+Dato for fastsettelse av arsregnskapet: 28.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 998 805 112
+
+VERAX HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 13 796
+
+Sum inntekter 13 796
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad -4 083 226 463
+
+Sum kostnader -4 083 226 463
+
+Driftsresultat 17 878 -226 463
+
+Annen rentekostnad 3 664
+
+Annen finanskostnad 30 000
+
+Sum finanskostnader 3 664 30 000
+
+Netto finans -3 664 -30 000
+
+Resultat fer skattekostnad 14 214 -256 463
+
+Skattekostnad pa resultat 3
+
+Arsresultat 4 14 214 -256 463
+
+Arsresultat etter
+
+minoritetsinteresser 14 214 -256 463
+
+Totalresultat 14 214 -256 463
+
+Overfoeringer og
+
+disponeringer
+
+Udekket tap 14 214 -256 463
+
+Sum overferinger og
+
+disponeringer 14 214 -256 463
+Utskriftsdato 30.06.2026 Organisasjonsnr 998 805 112 Side 1 av 3
+
+Organisasjonsnr: 998 805 112
+VERAX HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3
+Finansielle anleggsmidler
+Investeringer 1
+tilknyttet selskap 60 000 60 000
+Sum finansielle
+anleggsmidler 60 000 60 000
+Sum anleggsmidler 60 000 60 000
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 55 619
+Sum fordringer 55 619
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 1 137
+Sum bankinnskudd,
+kontanter og lignende 1 137
+Sum omlepsmidler 1 55 756
+SUM ELENDELER 60 001 115 756
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 250 000 250 000
+Sum innskutt egenkapital 250 000 250 000
+Opptjent egenkapital
+Annen egenkapital 5
+Udekket tap 669 949 684 163
+Sum opptjent egenkapital -669 949 -684 163
+Sum egenkapital 4 -419 949 -434 163
+Gjeld
+
+Utskriftsdato 30.06.2026 Organisasjonsnr 998 805 112 Side 2 av 3
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 7 563
+
+Sum annen langsiktig gjeld 7 563
+
+Sum langsiktig gjeld 7 563
+
+Kortsiktig gjeld
+
+Leverandergjeld 13 796
+
+Betalbar skatt 3
+
+Annen kortsiktig gjeld 472 387 536 122
+
+Sum kortsiktig gjeld 472 387 549 918
+
+Sum gjeld 479 950 549 918
+
+SUM EGENKAPITAL OG GJELD 60 001 115 756
+Utskriftsdato 30.06.2026 Organisasjonsnr 998 805 112 Side 3 av 3
+
+Organisasjonsnr: 998 805 112
+
+VERAX HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Verax Holding AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 998 805 112
+
+Resultatregnskap
+
+Verax Holding AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+
+Annen driftsinntekt 13 796 0
+
+Annen driftskostnad -4 083 226 463
+
+Driftsresultat 17 878 -226 463
+
+Finansinntekter og finanskostnader
+
+Annen rentekostnad -3 664 0
+
+Annen finanskostnad 0 -30 000
+-3 664 -30 000
+
+Resultat for skattekostnad 14 214 -256 463
+
+Skattekostnad pa resultat 3 0 0
+
+Arsresultat 4 14 214 -256 463
+
+Overfgringer
+
+Avsatt til dekning av tidligere udekket tap 14 214 0
+
+Overfgrt til udekket tap 0 256 463
+
+Sum overfgringer 14 214 -256 463
+
+2
+
+Balanse
+
+Verax Holding AS
+
+EIENDELER Note 2025 2024
+Anleggsmidler
+
+Finansielle anleggsmidler
+
+Investeringer i tilknyttet selskap 60 000 60 000
+Sum anleggsmidler 60 000 60 000
+Omlgpsmidler
+
+Fordringer
+
+Andre kortsiktige fordringer 0 55 619
+Bankinnskudd, kontanter o.l. 1 137
+Sum omlgpsmidler 1 55 756
+Sum eiendeler 60 001 115 756
+Verax Holding AS 3
+
+Balanse
+
+Verax Holding AS
+
+EGENKAPITAL OG GJELD Note 2025 2024
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 250 000 250 000
+
+Opptjent egenkapital
+
+Udekket tap -669 949 -684 163
+
+Sum egenkapital 4 -419 949 -434 163
+
+Gjeld
+
+Ovrig langsiktig gjeld 7 563 0
+
+7 563 0
+
+Kortsiktig gjeld
+
+Leverand@rgjeld 0 13 796
+
+Annen kortsiktig gjeld 472 387 536 122
+472 387 549 918
+
+Sum gijeld 479 950 549 918
+
+Sum egenkapital og gjeld 60 001 115 756
+
+Bergen, 28.06.2026
+Styret i Verax Holding AS
+Morten Fredrik Hoff Sigve Erlend Hoff-Larsen
+styreleder/daglig leder styremedlem
+Verax Holding AS 4
+
+Verax Holding AS 998 805 112
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+
+DRIFTSINNTEKTER
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert
+som de leveres.
+
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til
+fremf¢ring ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige
+forskjeller som reverserer eller kan reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Oml¢psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar
+etter balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til
+laveste verdi av anskaffelseskost og virkelig verdi.
+
+Note 1 Virksomhetens art og lokalisering
+
+Verax Holding AS er et holdingselskap som driver med deltakelse i andre selskaper. Selskapet er
+lokalisert i Bergen kommune.
+
+Note 2 Lgnnskostnader
+
+Verax Holding AS har ikke hatt Iénns- eller personalkostnader i 2025 og det foreligger heller ingen
+slike forpliktelser.
+
+Note 3 Skatt
+
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+
+Resultat for skatt 14 214 -256 463
+Permanente forskjeller 0 30 000
+Anvendelse av fremfgrbart underskudd -14 214 0
+Skattepliktig inntekt 0 -226 463
+Verax Holding AS Side 5
+
+Verax Holding AS 998 805 112
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremf@ring som har gitt opphav til
+utsatt skatt og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -320 344 -334 558 -14 214
+Inngar ikke i beregningen av utsatt skatt 320 344 334558 14 214
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 4 Egenkapital
+Sum
+Aksjekapital Udekkettap egenkapital
+Pr. 31.12.2024 250 000 -684 163 -434 163
+Arets resultat 14 214 14 214
+Pr 31.12.2025 250 000 -669 949 -419 949
+Note 5 Fortsatt drift
+Selskapets egenkapital er tapt og styret er kjent med handleplikten etter aksjeloven. Selskapet
+tilfgres nédvendig driftskapital ved behov fra aksjonzren. Reell egenkapital overstiger bokfgrt
+egenkapital som félge av merverdier i aksjer i tilknyttet selskap.
+Av selskapets gjeld bestar en vesentlig del av gjelden til selskapets aksjonzer pr. 31.12, med kr
+349 029.
+Verax Holding AS Side 6

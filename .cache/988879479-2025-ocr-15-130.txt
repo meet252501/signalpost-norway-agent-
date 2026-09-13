@@ -1,0 +1,527 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 516237
+Virksomheten
+Organisasjonsnummer : 988 879 479
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: GA INVEST AS
+Forretningsadresse: c/o Gunnar Arthur Algray
+Vestsidevegen 363
+5357 FJELL
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Megster Management AS
+Dato for fastsettelse av Aarsregnskapet: 26.05.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 988 879 479
+
+GA INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 3
+
+Annen driftskostnad 2 87 986 80 240
+
+Sum kostnader 87 986 80 240
+
+Driftsresultat -87 986 -80 240
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 7 504 12 750
+
+Annen finansinntekt 4 1221 561 -7 556
+
+Verdiokning
+
+markedsbaserte omlepsmidler 167 728 1 408 964
+
+Sum finansinntekter 1 396 793 1 414 157
+
+Verdireduksjon
+
+markedsbaserte omlepsmidler 381 490 1 193
+
+Annen finanskostnad 4
+
+Sum finanskostnader 381 490 1 193
+
+Netto finans 1 015 303 1 412 964
+
+Resultat fer skattekostnad 927 317 1 332 724
+
+Skattekostnad pa resultat 5
+
+Arsresultat 6 915 708 1 332 724
+
+Arsresultat etter
+
+minoritetsinteresser 915 708 1 332 724
+
+Totalresultat 915 708 1 332 724
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 915 708 1 332 724
+
+Sum overferinger og
+
+disponeringer 915 708 1 332 724
+Utskriftsdato 30.06.2026 Organisasjonsnr 988 879 479 Side 1 av 3
+
+Organisasjonsnr: 988 879 479
+GA INVEST AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 5
+Varige driftsmidler
+Tomter, bygninger o.a.
+fast eiendom 3 3 086 910 3 086 910
+Maskiner og anlegg 3
+Skip og flytende
+installasjoner 3
+Driftslesere, inventar o.
+a. utstyr 3
+Sum varige driftsmidler 3 3 086 910 3 086 910
+Sum anleggsmidler 3 086 910 3 086 910
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 9 407 11 861
+Sum fordringer 9 407 11 861
+Investeringer
+Aksjer og andeler 1
+foretak i samme konsern 4
+Markedsbaserte aksjer 4
+Markedsbaserte obligasjoner 4
+Andre markedsbaserte
+finansielle instrumenter 4 15 429 514 14 431 965
+Andre finansielle
+instrumenter 4
+Sum investeringer 4 15 429 514 14 431 965
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 152 277 219 720
+Sum bankinnskudd,
+kontanter og lignende 152 277 219 720
+Sum omlepsmidler 15 591 198 14 663 547
+SUM ELENDELER 18 678 108 17 750 457
+BALANSE - EGENKAPITAL OG
+GJELD
+Utskriftsdato 30.06.2026 Organisasjonsnr 988 879 479 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 7 62 000 62 000
+
+Beholdning av egne aksjer 7
+
+Sum innskutt egenkapital 62 000 62 000
+
+Opptjent egenkapital
+
+Annen egenkapital 18 389 697 17 473 989
+
+Sum opptjent egenkapital 18 389 697 17 473 989
+
+Sum egenkapital 6 18 451 697 17 535 989
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 5
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Leverandergjeld 14 801 14 468
+
+Betalbar skatt 5 11 609
+
+Annen kortsiktig gjeld 200 000 200 000
+
+Sum kortsiktig gjeld 226 410 214 468
+
+Sum gjeld 226 410 214 468
+
+SUM EGENKAPITAL OG GJELD 18 678 108 17 750 457
+Utskriftsdato 30.06.2026 Organisasjonsnr 988 879 479 Side 3 av 3
+
+Organisasjonsnr: 988 879 479
+
+GA INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap
+
+2025
+
+Ga Invest AS
+Org.nr.:988 879 479
+
+RESULTATREGNSKAP |
+GA INVEST AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 2 87 986 80 240
+Sum driftskostnader 87 986 80 240
+Driftsresultat -87 986 -80 240
+FINANSINNTEKTER OG FINANSKOSTNADER
+Annen renteinntekt 7 504 12 750
+Annen finansinntekt 4 1221 561 -7 556
+Verdigkning markedsbaserte omlgpsmidler 167 728 1 408 964
+Verdireduksjon markedsbaserte omlgpsmidler 381 490 1193
+Resultat av finansposter 1015 303 1 412 964
+Resultat for skattekostnad 927 317 1 332 724
+Resultat 927 317 1332 724
+Skattekostnad pa ordinzert resultat 11 609 0
+Arsresultat 6 915 708 1332724
+OVERF@RINGER
+
+Avsatt til annen egenkapital 915 708 1 332 724
+Sum overfgringer 915 708 1 332 724
+
+GA INVEST AS SIDE 2
+
+BALANSE |
+GA INVEST AS
+
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+Tomter, bygninger o.a. fast eiendom 3 3 086 910 3 086 910
+Sum varige driftsmidler 3 3 086 910 3 086 910
+FINANSIELLE ANLEGGSMIDLER
+Sum anleggsmidler 3 086 910 3 086 910
+OML@PSMIDLER
+
+FORDRINGER
+
+Andre kortsiktige fordringer 9 407 11 861
+Sum fordringer 9 407 11 861
+INVESTERINGER
+
+Andre markedsbaserte finansielle instrumenter 4 15 429 514 14 431 965
+Sum investeringer 4 15 429 514 14 431 565
+Bankinnskudd, kontanter o.|. 152 277 219 720
+Sum oml¢gpsmidler 15 591 198 14 663 547
+Sum eiendeler 18 678 108 17 750 457
+
+GA INVEST AS SIDE 3
+
+BALANSE |
+GA INVEST AS
+EGENKAPITAL OG GJELD Note 2025 2024
+INNSKUTT EGENKAPITAL
+Aksjekapital 7 62 000 62 000
+Sum innskutt egenkapital 62 000 62 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 18 389 697 17 473 989
+Sum opptjent egenkapital 18 389 697 17 473 989
+Sum egenkapital 6 18 451 697 17 535 989
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+KORTSIKTIG GJELD
+Leverand@rgjeld 14 801 14 468
+Betalbar skatt 5 11 609 0
+Annen kortsiktig gjeld 200 000 200 000
+Sum kortsiktig gjeld 226 410 214 468
+Sum gijeld 226 410 214 468
+Sum egenkapital og gjeld 18 678 108 17 750 457
+Fjell, 26.05.2026
+Styret i Ga Invest AS
+CLUS 4 Uf tO
+unnart Algray (05/26/4026 15:00:26 GMT+2)
+Gunnar Arthur Algr@y
+styreleder/daglig leder
+GA INVEST AS SIDE 4
+
+GA Invest AS er et selskap der virksomheten omfatter a eie og forvalte aksjer, obligasjoner og andre
+andeler. Selskapet er lokalisert i Fjell kommune.
+
+Note 1 - Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Omlgpsmidler og kortsiktig gield omfatter poster som forfaller til betaling innen ett ar etter
+anskaffelsestidspunktet. Qvrige poster er klassifisert som anleggsmiddel/langsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansef¢res til nominelt beldp pa opptakstidspunktet.
+
+Anleggsmidler vurderes til anskaffelseskost, fratrukket av- og nedskrivninger. Langsiktig gjeld
+balansef¢gres til nominelt belgp pa etableringstidspunktet.
+
+Markedsbaserte omlgpsmidler er vurdert til virkelig verdi.
+
+Investering i aksjer og andeler
+
+Investering klassifisert som anleggsmidler er vurdert til anskaffelseskost med mindre nedskrivning
+har vert nédvendig, Det er foretatt nedskrivning til virkelig verdi nar verdifall skyldes arsaker som
+ikke kan antas 4 vere forbigaende og det ma anses ngdvendig etter god regnskapsskikk.
+Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke lenger er til stede.
+
+Fordring
+
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til
+forventet tap. Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte
+fordringene.
+
+Kortsiktige plasseringer
+
+Kortsiktige plasseringer som inngar i handelsportefaljen er fort som om!gpsmidler og vurderes til
+virkelig verdi pa balansedagen. Mottatt utbytte og andre utdelinger fra selskapet inntekstfgres
+som annen finansinntekt.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier.
+
+Note 2 Lénnskostnader, antall ansatte, godtgjgrelser, lan til ansatte m.m.
+
+Selskapet er ikke pliktig til 4 ha tjenestepensjon som felge av ingen ansatte.
+
+Den daglige drift ivaretas av styrets leder.
+
+Kostnadsfgrt revisjonshonorar for 2025 utgj@r kr 31 850.
+
+Note 3 Anleggsmidler
+Bygninger Sum
+og tomter
+1B 01.01.2025 3 086 910 3 086 910
++ Tilgang kjgpte anleggsmidler 0 0
+= Anskaffelseskost 31.12.25 3 086 910 3 086 910
+= Bokf¢rt verdi 31.12.25 3 086 910 3 086 910
+Note 4 Verdipapirer
+Anskaffelses Balansef¢rt
+kost verdi
+OML@PSMIDLER
+Cubera Secondary 2023 Invest AS 180 000 200 288
+Non UCITS Nordea Global 1 000 000 1 044 219
+Nordea European Enhanced BP 500 000 548 679
+Nordea Global Enhanced Fund | Growth 1 000 000 1194 572
+Nordea Liv- Fondskonto 6 258 623 6 704 095
+Nordea Norge Verdi Fund A Growth 700 000 840 644
+Nordea Stabile Aksjer Global Fund A Growth 3 239 107 3 298 608
+Nordea Stabile Emerging Markets Equity Fund B! Inst 1000 000 1225 148
+SWISS Life REF ESG 2022 376 750 203 252
+Swiss LIFE REF Nordic 2020 Invest 496 000 170 008
+Sum 14 750 479 15 429 514
+Note 5 Skatt
+Arets skattekostnad 2025 2024
+Resultatf@rt skatt pa ordineert resultat:
+Betalbar skatt 11 609 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 11 609 0
+Skattepliktig inntekt:
+Resultat fgr skatt 927 317 1 332 724
+Permanente forskjeller -673 653 -1 400 214
+Anvendelse av fremfgrbart underskudd -200 894 0
+Skattepliktig inntekt 52770 0
+Betalbar skatt i balansen:
+Betalbar skatt pd drets resultat 11 609 0
+Sum betalbar skatt i balansen 11 609 0
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte skattefordeler,
+spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd 0 -200 894 -200 894
+Inngar ikke i beregningen av utsatt skatt 0 200 894 200 894
+Utsatt skatt / skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 6 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 62 000 0 0 17 473 989 17 535 989
+Arets resultat 915 708 915 708
+Pr 31.12.2025 62 000 0 0 18 389 697 18 451 697
+Note 7 Aksjonzrer
+AKSJEKAPITALEN I GA INVEST AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokf¢grt
+‘Ordinzre aksjer 62 1 000,0 62 000
+Sum 62 62 000
+EIERSTRUKTUR
+De st@rste aksjonzerene i % pr. 31.12 var:
+Ordinzre Eierandel Stemmeande!
+ALGR@Y GUNNAR ARTHUR 62 100,0 100,0
+
+Ermst & Young AS Tif. +47 24 00 24 00
+Thorm@hlens gate 53 D, 5006 B www.ey.n0
+Shape the future mocthons B16s £890 Bergen egen Medlernmer av Den norske Revisorforening
+with confidence
+Til generalforsamlingen i GA Invest AS
+UAVHENGIG REVISORS BERETNING
+Konklusjon
+Vi har revidert Arsregnskapet for GA Invest AS som bestar av balanse per 31. desember 2025, og
+resultatregnskap for regnskapséret avsluttet per denne datoen og noter til arsregnskapet, herunder et
+sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller 4rsregnskapet gjeidende lovkrav, og
+* gir 4arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025 og
+av dets resultater for regnskapsaret avsiuttet per denne datoen i samsvar med regnskapslovens fi
+regler og god regnskapsskikk i Norge. =
+Grunnlag for konklusjon i
+Vi har gjennomfort revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare &
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og 2
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i relevante 3
+lover og forskrifter i Norge og International Code of Ethics for Professional Accountants (inkludert =
+internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for Accountants a
+(IESBA-reglene), og vi har overholdt vare avrige etiske forpliktelser i samsvar med disse kravene. Gy
+Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var s
+konklusjon. 3
+Ledelsens ansvar for arsregnskapet Ee
+Styret og daglig leder (ledelsen) er ansvarlig for 4 utarbeide arsregnskapet og for at det gir et rettvisende %
+bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledeisen er ogsa ansvarlig 9
+for slik internkontroll som den finner nedvendig for 4 kunne utarbeide et arsregnskap som ikke inneholder €
+vesentlig feilinformasjon, verken som fglge av misligheter eller utilsiktede feil. “
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for
+arsregnskapet med mindre ledelsen enten har til hensikt a avvikle selskapet eller legge ned
+virksomheten, eller ikke har noe realistisk alternativ til dette.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er 4 oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning som
+inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti for at en
+revisjon utfart i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon kan
+oppsta som felge av misligheter eller utilsiktede feil. Feilinformasjon er a anse som vesentlig dersom den
+enkeltvis eller samlet med rimelighet kan forventes 4 pavirke de a@konomiske beslutningene som brukerne
+foretar, pa grunnlag av arsregnskapet.
+Som del av en revisjon i samsvar med ISA-ene, utever vi profesjonelt skjann og utviser profesjonell
+skepsis gjennom hele revisjonen. | tillegg:
+A mernber firm of Ernst & Yourg Global Limited
+
+Shape the future
+with confidence
+e _identifiserer og vurderer vi risikoen for vesentlig feilinformasjon i arsregnskapet, enten det skyldes
+misligheter eller utilsiktede feil. Vi utformer og gjennomforer revisjonshandiinger for a handtere
+slike risikoer, og innhenter revisjonsbevis som er tilstrekkelig og hensiktsmessig som grunnlag for
+var konklusjon. Risikoen for at vesentlig feilinformasjon som felge av misligheter ikke blir
+avdekket, er hayere enn for feilinformasjon som skyldes utilsiktede feil, siden misligheter kan
+innebaere samarbeid, forfalskning, bevisste utelatelser, uriktige fremstillinger eller overstyring av
+intern kontroll.
+¢ opparbeider vi oss en forstaelse av den interne kontrollen som er relevant for revisjonen, for a
+utforme revisjonshandiinger som er hensiktsmessige etter omstendighetene, men ikke for a gi
+uttrykk for en mening om effektiviteten av selskapets interne kontroll.
+e evaluerer vi om de anvendte regnskapsprinsippene er hensiktsmessige og om
+regnskapsestimatene og tilhgrende noteopplysninger utarbeidet av ledelsen er rimelige.
+« konkluderer vi pa om ledelsens bruk av fortsatt drift-forutsetningen er hensiktsmessig, og, basert
+pa innhentede revisjonsbevis, hvorvidt det foreligger vesentlig usikkerhet knyttet til hendelser
+eller forhold som kan skape betydelig tvil om selskapets evne til fortsatt drift. Dersom vi =
+konkluderer med at det eksisterer vesentlig usikkerhet, kreves det at vi i revisjonsberetningen 3
+henleder oppmerksomheten pa tilleggsopplysningene i arsregnskapet, eller, dersom slike Z
+tilleggsopplysninger ikke er tilstrekkelige, at vi modifiserer var konklusjon, Vare konklusjoner er S
+basert pa revisjonsbevis innhentet frem til datoen for revisjonsberetningen. Etterfalgende Py
+hendelser eller forhold kan imidlertid medfgre at selskapet ikke kan fortsette driften. 7
+» evaluerer vi den samlede presentasjonen, strukturen og innholdet i arsregnskapet, inkludert =
+tilleggsopplysningene, og hvorvidt arsregnskapet gir uttrykk for de underliggende transaksjonene “3
+og hendelsene pa en mate som gir et rettvisende bilde. st
+Vi kommuniserer med styret blant annet om det planlagte innholdet i og tidspunktet for revisjonsarbeidet 3
+og eventuelle vesentlige funn i revisjonen, herunder vesentlige svakheter ij den interne kontrollen som vi 2
+avdekker gjennom revisjonen. cu
+i)
+Fal
+Bergen, 26. mai 2026 =
+ERNST & YOUNG AS °
+Revisjonsberetningen er signert elektronisk &
+Jgrn Knutsen
+statsautorisert revisor
+Uavhengig revisors beretning - GA Invest AS 2025
+A member firm of Ernst & Young Global Limited
+
+Jorn Knutsen
+Statsautorisert revisor
+Pé& vegne av: Ernst & Young AS QES
+Serienummer: bankid.no no_bankid:9578-5992-4-30125 15
+IP: 47. 161 XXX.XXX
+2026-05-26 21:23:08 UTC
+=== bankiID 'S
+Nd
+i
+nm
+x
+cars’
+=
+ie
+>
+=
+z
+wn
+oS
+ist
+£
+E
+=
+x
+rat
+S
+S
+=
+og
+a
+Dette dokurnieciet er sgnert cigitak via Pennes.com. Le cignerte dataene er Sik kan au bekrefte at dokumentet et original
+valiclert ved hielp av der matematishe hashverdien av det origmale dokumeritet fal du dprer dokumentet i Adobe Reader, kan du ce at det er sectifisert
+All kryptografick bevicfering er innebygd | Genne PDF-en for fremtidig validenng. av Penneo A/S. Dette peviser at innholdet i dokumentet tke har bit
+. endret sider tid.punktet for signeringen, Bevis for de individuelle
+Dette dokumentet er forcegiet med at kvalifisert alextronisk sel. For mer oignarerenes digitale signaturer er vedlagt dolumentel,
+informasion om Pernecs kvabficerte tiitetenester ce https:/feuthL penned.cam a ;
+validator, https://pennec.com/validator, ciler aridre

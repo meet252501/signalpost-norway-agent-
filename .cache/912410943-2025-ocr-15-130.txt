@@ -1,0 +1,395 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 757342
+Virksomheten
+Organisasjonsnummer : 912 410 943
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: KBS CONSULT AS
+Forretningsadresse: c/o Knut B. Steen
+Inkognitogata 17
+0256 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Knut Bertil Steen
+Dato for fastsettelse av Aarsregnskapet: 28.07.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 19.08.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 912 410 943
+
+KBS CONSULT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Varekostnad 0 -16 175
+
+Sum kostnader 0 -16 175
+
+Driftsresultat 0 16 175
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 0 0
+
+Resultat fer skattekostnad 0 16 175
+
+Arsresultat 0 16 175
+
+Arsresultat etter
+
+minoritetsinteresser e) 16 175
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 0 16 175
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 0 16 175
+
+Sum overferinger og
+
+disponeringer 0 16 175
+Utskriftsdato 19.08.2026 Organisasjonsnr 912 410 943 Side 1 av 3
+
+Organisasjonsnr: 912 410 943
+KBS CONSULT AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 53 732 53 732
+Sum finansielle
+anleggsmidler 53 732 53 732
+Sum anleggsmidler 53 732 53 732
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Sum fordringer 0 0
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 34 201 34 201
+Sum bankinnskudd,
+kontanter og lignende 34 201 34 201
+Sum omlepsmidler 34 201 34 201
+SUM ELENDELER 87 933 87 933
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital
+(selskapskapital) 30 000 30 000
+Annen innskutt egenkapital -8 000 -8 000
+Sum innskutt egenkapital 22 000 22 000
+Opptjent egenkapital
+
+Utskriftsdato 19.08.2026 Organisasjonsnr 912 410 943 Side 2 av 3
+
+Udekket tap 20 349 20 349
+
+Sum opptjent egenkapital -20 349 -20 349
+
+Sum egenkapital 1 651 1 651
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 16 000 16 000
+
+Sum annen langsiktig gjeld 16 000 16 000
+
+Sum langsiktig gjeld 16 000 16 000
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 70 282 70 282
+
+Sum kortsiktig gjeld 70 282 70 282
+
+Sum gjeld 86 282 86 282
+
+SUM EGENKAPITAL OG GJELD 87 933 87 933
+Utskriftsdato 19.08.2026 Organisasjonsnr 912 410 943 Side 3 av 3
+
+Organisasjonsnr: 912 410 943
+
+KBS CONSULT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Konsulentvirksomhet innen @konomi og finans
+
+og ellers drive virksomhet som star i forbindelse hermed, samt
+
+investeringer i verdipapirer eller pa annen mate ta del i lignende
+virksomhet .
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om
+fortsatt drift, da det er
+
+iverksatt tiltak for 4 styrke selskapets ekonomi.
+
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Kos Consult AS
+(912 410 943)
+Kbs Consult AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Varekostnad 6) -16 175
+Sum driftskostnader QO -16175
+Driftsresultat QO 16175
+Resultat for skatt QO 16175
+Arsresultat O 16175
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital @) 16175
+Sum overferinger og disponeringer 0 16 175
+
+Kbs Consult AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anleggsmidler
+
+Investeringer i aksjer og andeler 53 732 53 732
+Sum finansielle anleggsmidler 53 732 53 732
+Sum anleggsmidler 53732 53732
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 34 201 34 201
+Sum omlepsmidler 34 201 34 201
+Sum eiendeler 87933 87933
+
+Kbs Consult AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital -8 000 -8 000
+Sum innskutt egenkapital 22 000 22 000
+Opptjent egenkapital
+
+Udekket tap -20349 -20349
+Sum opptjent egenkapital -20 349 -20 349
+Sum egenkapital 1651 1651
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 16 000 16 000
+Sum annen langsiktig gjeld 16 000 16 000
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 70 282 70 282
+Sum kortsiktig gjeld 70 282 70 282
+Sum gjeld 86 282 86 282
+Sum egenkapital og gjeld 87933 87933
+
+Kbs Consult AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Konsulentvirksomhet innen ekonomi og finans og ellers drive virksomhet som star i forbindelse
+hermed, samt investeringer i verdipapirer eller pa annen mate ta del i lignende virksomhet.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er iverksatt tiltak for a styrke selskapets okonomi.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Kbs Consult AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av knut bertil Steen <knut.b.steen@gmail.com>
+Elektronisk signering
+KNUT BERTIL STEEN
+25.03.1964 - Daglig leder, Styreleder
+Y) Signert
+28.07.2026 14:26 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 28.07.2026 14:25:14

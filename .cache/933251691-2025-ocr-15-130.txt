@@ -1,0 +1,431 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 479188
+Virksomheten
+Organisasjonsnummer : 933 251 691
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SENEMAR AS
+Forretningsadresse: Stasjonsveien 50C
+1467 STROMMEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Aria Senemar
+Dato for fastsettelse av arsregnskapet: 26.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 933 251 691
+
+SENEMAR AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 7 044 10 470
+
+Sum kostnader 7 044 10 470
+
+Driftsresultat -7 044 -10 470
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 0 42 034
+
+Sum finansinntekter 0 42 034
+
+Sum finanskostnader e) fe)
+
+Netto finans fe) 42 034
+
+Resultat fer skattekostnad -7 044 31 564
+
+Arsresultat -7 044 31 564
+
+Arsresultat etter
+
+minoritetsinteresser -7 044 31 564
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -7 044 31 564
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -7 044 31 564
+
+Sum overferinger og
+
+disponeringer -7 044 31 564
+Utskriftsdato 27.05.2026 Organisasjonsnr 933 251 691 Side 1 av 3
+
+Organisasjonsnr: 933 251 691
+
+SENEMAR AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering 1 datterselskap 0 30 000
+
+Sum finansielle
+
+anleggsmidler 0 30 000
+
+Sum anleggsmidler 0 30 000
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 0 42 034
+
+Sum fordringer 0 42 034
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 68 736 3 746
+
+Sum bankinnskudd,
+
+kontanter og lignende 68 736 3 746
+
+Sum omlepsmidler 68 736 45 780
+
+SUM EILENDELER 68 736 75 780
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital 0 -5 784
+
+Sum innskutt egenkapital 30 000 24 216
+Utskriftsdato 27.05.2026 Organisasjonsnr 933 251 691 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 18 736 31 564
+
+Sum opptjent egenkapital 18 736 31 564
+
+Sum egenkapital 48 736 55 780
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 20 000 20 000
+
+Sum annen langsiktig gjeld 20 000 20 000
+
+Sum langsiktig gjeld 20 000 20 000
+
+Kortsiktig gjeld
+
+Sum kortsiktig gjeld 0 0
+
+Sum gjeld 20 000 20 000
+
+SUM EGENKAPITAL OG GJELD 68 736 75 780
+Utskriftsdato 27.05.2026 Organisasjonsnr 933 251 691 Side 3 av 3
+
+Organisasjonsnr: 933 251 691
+
+SENEMAR AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Stremmen
+
+Virksomhetens art
+
+Investere i selskaper og eiendom og alt
+
+annet som naturlig faller sammen med dette, herunder 4 delta i andre
+
+selskaper med lignende virksomhet, kja@p og salg av aksjer, eller pa annen
+mate gj@re seg interessert i andre foretagende.
+
+Note
+
+2
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Senemar AS
+(933 251 691)
+Senemar AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 7 044 10 470
+Sum driftskostnader 7 044 10 470
+Driftsresultat -7044 -10470
+Finansinntekter
+
+Inntekt pa investering i datterselskap og tilknyttet selskap ¢) 42 034
+Sum finansinntekter 0 42 034
+Netto finans QO 42034
+Resultat for skatt -7044 31564
+Arsresultat -7044 31564
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital -7 044 31 564
+Sum overferinger og disponeringer -7 044 31 564
+
+Senemar AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anieggsmidler
+
+Investeringer i datterselskap @) 30 000
+Sum finansielle anleggsmidler 0 30 000
+Sum anleggsmidler Oo 30000
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer e) 42 034
+Sum fordringer 0 42 034
+Bankinnskudd, kontanter o.l. 68 736 3 746
+Sum omlepsmidier 68 736 45 780
+Sum eiendeler 68736 75780
+
+Senemar AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital fe) -5 784
+Sum innskutt egenkapital 30 000 24 216
+Opptjent egenkapital
+
+Annen egenkapital 18 736 31 564
+Sum opptjent egenkapital 18 736 31 564
+Sum egenkapital 48736 55780
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 20 000 20 000
+Sum annen langsiktig gjeld 20 000 20 000
+Sum gjeld 20 000 20 000
+Sum egenkapital og gjeld 68736 75780
+
+Senemar AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Strommen
+Virksomhetens art
+Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder
+4 delta i andre selskaper med lignende virksomhet, kjap og salg av aksjer, eller pa annen mate
+gj@re seg interessert i andre foretagende.
+Note 2: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Senemar AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Aria Senemar <ariasenemar@hotmail.com>
+Elektronisk signering
+ARIA SENEMAR
+29.08.1985 - Daglig leder, Styreleder
+Y) Signert
+26.05.2026 12:52
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 26.05.2026 12:51:45

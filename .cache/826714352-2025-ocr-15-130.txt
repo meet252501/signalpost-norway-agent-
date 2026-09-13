@@ -1,0 +1,518 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 335038
+Enheten
+Organisasjonsnummer : 826 714 352
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: PROCURO AS
+Forretningsadresse: Breiholten 24
+5257 KOKSTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Henning Viktor Olsen
+Dato for fastsettelse av arsregnskapet: 11.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 12.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 826 714 352
+
+PROCURO AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 329 724 1 362 183
+
+Sum inntekter 1 329 724 1 362 183
+
+Kostnader
+
+Varekostnad 311 573 394 086
+
+Lennskostnad 2, 3 453 098 296 769
+
+Avskrivning pa varige
+
+driftsmidler 4 70 089 70 089
+
+Annen driftskostnad 396 684 420 968
+
+Sum kostnader 1 231 444 1 181 912
+
+Driftsresultat 98 280 180 271
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 40 38
+
+Annen finansinntekt 589 338
+
+Sum finansinntekter 629 376
+
+Annen finanskostnad 3 056 3 087
+
+Sum finanskostnader 3 056 3 087
+
+Netto finans -2 427 -2 711
+
+Resultat fer skattekostnad 95 853 177 560
+
+Skattekostnad 22 119 17 281
+
+Arsresultat 73 734 160 279
+
+Arsresultat etter
+
+minoritetsinteresser 73 734 160 279
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 73 #734 160 279
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 73 734 160 279
+
+Sum overferinger og
+
+disponeringer 73 #734 160 279
+Utskriftsdato 12.03.2026 Organisasjonsnr 826 714 352 Side 1 av 3
+
+Organisasjonsnr: 826 714 352
+
+PROCURO AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Konsesjoner, patenter,
+
+lisenser o.1. 4 513 986 584 075
+
+Sum immaterielle eiendeler 513 986 584 075
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 513 986 584 075
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 69 560 101 049
+
+Sum bankinnskudd,
+
+kontanter og lignende 69 560 101 049
+
+Sum omlepsmidler 69 560 101 049
+
+SUM ELENDELER 583 546 685 124
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptijent egenkapital
+
+Annen egenkapital 129 270 55 536
+Utskriftsdato 12.03.2026 Organisasjonsnr 826 714 352 Side 2 av 3
+
+Sum opptjent egenkapital 129 270 55 536
+
+Sum egenkapital 159 270 85 536
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 39 400 17 281
+
+Sum avsetninger for
+
+forpliktelser 39 400 17 281
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 80 000 365 000
+
+Sum annen langsiktig gjeld 80 000 365 000
+
+Sum langsiktig gjeld 119 400 382 281
+
+Kortsiktig gjeld
+
+Leverandergjeld 38 456 8 152
+
+Skyldig offentlige avgifter 84 330 75 014
+
+Annen kortsiktig gjeld 182 090 134 141
+
+Sum kortsiktig gjeld 304 876 217 307
+
+Sum gjeld 424 276 599 588
+
+SUM EGENKAPITAL OG GJELD 583 546 685 124
+Utskriftsdato 12.03.2026 Organisasjonsnr 826 714 352 Side 3 av 3
+
+Organisasjonsnr: 826 714 352
+
+PROCURO AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Kokstad
+
+Virksomhetens art
+
+Konsulentvirksomhet .
+
+Note
+
+2
+Antall Aarsverk i regnskapsaret
+0.50
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+352324.00 228192.00
+Folketryqdavgift Arets Fjorarets
+52675.00 35998.00
+Pensjonskostnader Arets Fjorarets
+15806.00 6373.00
+Andre ytelser Arets Fjorarets
+32292.00 26206.00
+Sum lennskostnader Arets Fjorarets
+453098.00 296769.00
+Note
+4
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+700890.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+700890.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+186904.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+513986.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+70089.00
+@konomisk levetid Immaterielle eiend.
+120 maneder
+Avskrivningsplan Immaterielle eiendeler
+Lineer
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap 2025
+Procuro AS
+(826 714 352)
+Procuro AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 1329724 1362183
+Sum driftsinntekter 1329724 1362183
+Driftskostnader
+
+Varekostnad 311 573 394 086
+
+Lennskostnad 2,3 453 098 296 769
+
+Avskrivning pa varige driftsmidler 4 70 O89 70 O89
+
+Annen driftskostnad 396 684 420 968
+Sum driftskostnader 1231444 1181912
+Driftsresultat 98 280 180 271
+Finansinntekter
+
+Annen renteinntekt 40 38
+
+Annen finansinntekt 589 338
+Sum finansinntekter 629 376
+Finanskostnader
+
+Annen finanskostnad 3 056 3 087
+Sum finanskostnader 3 056 3 087
+Netto finans -2 427 -2711
+Resultat for skatt 95 853 177 560
+Skattekostnad 22 119 17 281
+Arsresultat 73734 160279
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital 73 734 160 279
+Sum overferinger og disponeringer 73 734 160 279
+
+Procuro AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Immaterielle eiendeler
+
+Konsesjoner, patenter, lisenser oll. 4 513 986 584 075
+Sum immaterielle eiendeler 513 986 584075
+Sum anleggsmidler 513 986 584 075
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 69 560 101 049
+Sum omlepsmidler 69 560 101 049
+Sum eiendeler 583 546 685 124
+
+Procuro AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Annen egenkapital 129 270 55 536
+Sum opptjent egenkapital 129 270 55 536
+Sum egenkapital 159 270 85 536
+Gijeld
+Avsetning for forpliktelser
+
+Utsatt skatteforpliktelse 39 400 17 281
+Sum avsetning for forpliktelser 39 400 17 281
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 80 000 365 000
+Sum annen langsiktig gjeld 80000 365 000
+Kortsiktig gjeld
+
+Leverandergjeld 38 456 8152
+
+Skyldig offentlige avgifter 84 330 75014
+
+Annen kortsiktig gjeld 182 090 134141
+Sum kortsiktig gjeld 304 876 217 307
+Sum gjeld 424 276 599 588
+Sum egenkapital og gjeld 583 546 685 124
+
+Procuro AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Kokstad
+Virksomhetens art
+Konsulentvirksomhet.
+Note 2: Arsverk
+Antall arsverk er 0,5.
+Note 3: Lonnskostnader
+
+2025 2024
+Lenn 352 324 228 192
+Arbeidsgiveravgift 52 675 35 998
+Pensjon 15 806 6 373
+Andre ytelser 32 292 26 206
+Sum lonnskostnader 453 098 296 769
+Procuro AS Arsregnskap Side 5 av 6
+
+Note 4: Anleggsmidler
+Immaterielle
+Varige driftsmidler eiendeler
+Anskaffelseskost 01.01 ) 700 890
++ Kjap og annen tilgang i ar @) 0
+- Salg og annen avgang i ar fe) @)
+= Anskaffelseskost 31. desember @) 700 890
+- Sum avskrivninger og nedskrivninger ) 186 904
+= Balansefort verdi per 31.12. ¢) 513 986
+Arets avskrivninger og nedskrivninger ) 70 089
+@konomisk levetid pa immaterielle eiendeler 120 maneder
+Avskrivningsplan pa immaterielle eiendeler Linezer
+
+Procuro AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Henning Olsen <henning@procuro.no>
+Elektronisk signering
+HENNING VIKTOR OLSEN (Styreleder)
+28.08.1973
+© Signert
+11.03.2026 13:09 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 11.03.2026 13:09:14

@@ -1,0 +1,526 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 520037
+Virksomheten
+Organisasjonsnummer : 971 081 325
+Organisasjonsform: Borettslag
+Foretaksnawn: HAMMERSBORG BORETTSLAG
+Forretningsadresse: c/o Boligbyggelaget TOBB
+Krambugata 7
+7011 TRONDHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Marit Selfjord
+Dato for fastsettelse av Aarsregnskapet: 28.05.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 971 081 325
+
+HAMMERSBORG BORETTSLAG
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 3 985 572 3 783 886
+
+Sum inntekter 3 985 572 3 783 886
+
+Kostnader
+
+Lennskostnad 1 -163 163 -163 163
+
+Annen driftskostnad 2,3,4,5,6 -3 306 562 -2 640 227
+
+Sum kostnader -3 469 724 -2 803 390
+
+Driftsresultat 515 848 980 496
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 60 673 38 170
+
+Sum finanskostnader -1 056 936 -1 010 217
+
+Netto finans -996 263 -972 047
+
+Resultat for skattekostnad -480 415 8 449
+
+Arsresultat 7,11 -480 415 8 449
+
+Overferinger til/fra
+
+annen egenkapital -480 415 8 449
+Utskriftsdato 30.06.2026 Organisasjonsnr 971 081 325 Side 1 av 3
+
+Organisasjonsnr: 971 081 325
+
+HAMMERSBORG BORETTSLAG
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Tomter, bygninger og
+
+annen fast eiendom 8,12 12 551 927 12 551 927
+
+Sum anleggsmidler 12 551 927 12 551 927
+
+Omlepsmidler
+
+Varer
+
+Kundefordringer 9 102 704 494 747
+
+Andre fordringer 9 77 760 60 891
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 10 1 020 886 287 880
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 201 351 843 518
+
+Sum omlepsmidler
+
+SUM ELENDELER 13 753 278 13 395 446
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Annen egenkapital 11 -5 665 656 -5 185 241
+
+Sum egenkapital -5 665 656 -5 185 241
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 12,13 17 694 645 16 525 064
+
+@vrig langsiktig gjeld 12,14 1 470 700 1 470 700
+
+Sum langsiktig gjeld 19 165 345 17 995 764
+
+Kortsiktig gjeld
+
+Leverandergjeld 227 989 585 921
+
+Skyldige offentlige
+
+avgifter -1 -1
+
+Annen kortsiktig gjeld 25 601 -998
+
+Sum kortsiktig gjeld 253 589 584 923
+Utskriftsdato 30.06.2026 Organisasjonsnr 971 081 325 Side 2 av 3
+
+Sum gjeld 19 418 934 18 580 687
+
+SUM EGENKAPITAL OG GJELD 13 753 278 13 395 446
+
+POSTER UTENOM BALANSEN
+
+Pantstillelser 12 19 165 345 17 995 764
+Utskriftsdato 30.06.2026 Organisasjonsnr 971 081 325 Side 3 av 3
+
+Organisasjonsnr: 971 081 325
+
+HAMMERSBORG BORETTSLAG
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Hammersborg Borettslag - Resultatregnskap 2025
+
+Note Regnskap 2025 Regnskap 2024 Budsjett 2025 Budsjett 2026
+Driftsinntekter
+Felleskostnader driftsdel 1 558 140 1 404 442 1 558 068 1 558 068
+Felleskostnader lik fordeling 325 596 286 380 325 713 341 663
+Felleskostnader kapitaldel 1 875 828 1 875 828 1 875 800 2 130 000
+Tillegg elektroniske fellesavtaler 226 008 217 236 226 000 230 136
+Sum driftsinntekter 3 985 572 3 783 886 3 985 581 4 259 867
+Driftskostnader
+Personalkostnader 4 -20 163 -20 163 -20 163 -21 573
+Styrehonorar -143 000 -143 000 -143 000 -153 000
+Forretningsfgrerhonorar -99 225 -96 055 -99 300 -103 500
+Honorar administrative tjenester -26 127 -11 981 -12 400 -12 900
+Eksterne honorar 2 -20 975 -13 797 -11 250 -12 000
+Drifts- og serviceavtaler 3 -19 313 -25 053 0 0
+Vaktmestertienester -26 525 -25 700 -27 000 -28 000
+Le@pende vedlikehold 4 -52 359 -380 686 -200 000 -250 000
+Periodisk vedlikehold 5 -1 555 436 -722 341 -2 000 000 -2 000 000
+Elektroniske fellesavtaler -238 529 -215 136 -226 000 -230 136
+Forsikring -393 132 -361 047 -338 740 -303 300
+Kommunale tjenester og renovasjon -535 495 -447 156 -430 000 -500 000
+Eiendomsavgifter -296 572 -307 967 -326 000 -308 500
+Energi, felles -15 159 -15 459 -15 000 -18 000
+Andre driftsutgifter 6 -27 715 -17 849 -12 000 -20 600
+Sum driftskostnader -3 469 724 -2 803 390 -3 860 853 -3 961 509
+DRIFTSRESULTAT 515 848 980 496 124 728 298 358
+Finansinntekter og kostnader
+Finansinntekter 60 673 38 170 40 000 30 000
+Finanskostnader -1 056 936 -1 010 217 -956 000 -956 500
+Netto finansposter -996 263 -972 047 -916 000 -926 500
+Resultat for skattekostnad 480 415 8 449 -791 272 -628 142
+Ordinzert resultat etter skatt -480 415 8 449 -791 272 -628 142
+ARSRESULTAT 7, 11 480 415 8 449 -791 272 -628 142
+Disponering av totalresultat: -480 415 8 449 -791 272 -628 142
+Overfort til udekket tap 480 415 0 0 0
+Reduksjon av udekket tap 0 8 449 0 0
+
+Org.nr: 971 081 325 - 137
+
+Hammersborg Borettslag - Balanse 2025
+
+Note Regnskap 2025 Regnskap 2024
+EIENDELER
+ANLEGGSMIDLER
+Varige driftsmidler
+Bygninger og tomter 8,12 12 551 927 12 551 927
+Sum anleggsmidler 12 551 927 12 551 927
+OML@PSMIDLER
+Fordringer
+Kundefordringer g 7 000 0
+Periodiserte kostnader 95 704 494 747
+Mellomregning Klare Finans g 17 087 22 721
+Opptjente renter 60 673 38 170
+Bankinnskudd og kontanter
+Bankinnskudd 10 1 020 886 287 880
+Sum omlepsmidler 1 201 351 843 518
+SUM EIENDELER 13 753 278 13 395 446
+
+Org.nr: 971 081 325 - 137
+
+Hammersborg Borettslag - Balanse 2025
+
+Note Regnskap 2025 Regnskap 2024
+EGENKAPITAL OG GJELD
+EGENKAPITAL
+Innskutt egenkapital
+Andelskapital 11 4 300 4 300
+Opptjent egenkapital
+Annen egenkapital 11 -5 669 956 -5 189 541
+Sum egenkapital -5 665 656 -5 185 241
+GJELD
+Langsiktig gjeld
+Pantelan 12, 13 17 694 645 16 525 064
+Borettsinnskudd 12,14 1 470 700 1 470 700
+Sum langsiktig gjeld 19 165 345 17 995 764
+Kortsiktig gjeld
+Leverandergjeld 227 989 585 921
+Skyldig off. myndigheter -1 -1
+Forskudd kunder 24 087 22 721
+Palgpte kostnader 1 362 1 844
+Annen kortsiktig gjeld 152 -25 563
+Sum kortsiktig gjeld 253 589 584 923
+Sum gjeld 19 418 934 18 580 687
+SUM EGENKAPITAL OG GJELD 13 753 278 13 395 446
+Panistillelser 12 19 165 345 17 995 764
+Sted ———“‘(Cis ON
+
+Marit Selfjord Marius K Jensen Alexander Victor Toresen Nynes
+Leder Styremediem Styremediem
+Magnus Sundli Alseth Geir Ame Kj@nstad
+Styremediem Styremediem
+Org.nr: 971 081 325 - 137
+
+Hammersborg Borettslag - Noter 2025
+
+Note 0 - REGNSKAPSPRINSIPP
+Arsregnskapet er satt opp i samsvar med regnskapsloven, forskrift av 30. juni 2005 om arsregnskap og arsberetning for borettslag samt god
+regnskapsskikk for sma foretak.Foretakets virksomhet bestar i drift av borettslag i Trondheim kommune. Borettslaget er beliggende i
+postnummer 7020, Trondheim.
+Anleggsmidler er vurdert til historisk kost med avskriving for ikke forbigaende verdifall. Tomter, bygninger og anlegg er avskrevet med 0 %
+da Igpende vedlikehold antas 4 opprettholde den tekniske og @konomiske verdi pa bygningsmassen, Jf vedlikeholdsnotene. @vrige
+driftsmidler avskrives etter en fornuftig avskrivningsplan i henhold til antatt levetid.
+Regnskapet er satt opp under forutsetning om fortsatt drift. Det bekreftes herved at forutsetningen er til stede.
+Inntektsfering er foretatt ut fra opptjeningsprinsippet.
+Fordringer og gjeld er Klassifisert som omlgpsmidler/kortsiktig gjeld hvis de forfaller innen ett ar etter regnskapsavslutningstidspunktet.
+Omlgpsmidler er verdsatt til laveste av historisk kost og virkelig verdi. Tilsvarende vurderingsprinsipp er ogsa benyttet for kortsiktig gjeld.
+@vrige eiendeler er klassifisert som anleggsmidler, og @vrig gjeld er klassifisert som langsiktig.
+Klare Finans forskutterer hver maned budsjetterte felleskostnader. Borettslaget har det formelle kravet mot andelseieme og har panterett
+for kravet i andelen iht Lov om Burettslag § 5-20 begrenset oppad til 2 ganger folketrygdens grunnbelgp. Med utgangspunkt i dette ansees
+det at det ikke foreligger risiko for vesentlig tap pa utestaende felleskostnader.
+Borettslaget har sikringsordning gjennom Klare Finans. Faktura kommer direkte fra Klare Finans ved arsskifte. Sikringen
+kan sies opp innen 1. desember med virkning fra kommende arsskifte. Etter borettslagslovens bestemmelser skal vedtak om oppsigelse av
+forsikringen gjg@res av borettslagets generalforsamling. Forsikringsselskapet kan til enhver tid si opp en avtale med forsikringstaker dersom
+forsikrede ikke oppfyller de krav som er lagt til grunn ved f@rste gangs forsikring. For @vrig gjelder forsikringsavtalelovens regler.
+Note 1 - PERSONALKOSTNADER
+
+2025 2024
+Arbeidsgiveravgift 20 163 20 163
+Sum personalkostnader 20 163 20 163
+Samlet antall arsverk: 0
+Obligatorisk tjenestepensjon
+Etter lov om OTP er laget ikke pliktig til 4 ha tienestepensjonsordning.
+Note 2 - EKSTERNE HONORARER
+
+2025 2024
+Revisjonshonorar (inkl. mya} 11 716 11 073
+Fakturerte tjenester 0 2725
+Teknisk radgivning 9 259 0
+Sum eksterne honorarer 20 975 13 797
+Revisjonshonoraret er i sin helhet knyttet til revisjonen.
+
+Org.nr: 971 081 325 - 137
+
+Hammersborg Borettslag - Noter 2025
+
+Note 3 - DRIFTS- OG SERVICEAVTALER
+
+2025 2024
+Avtale om kontroll og drift av branntekniske anlegg 19 313 25 053
+Sum drifts- og serviceavtaler 19 313 25 053
+Note 4 - LOPENDE VEDLIKEHOLD
+
+2025 2024
+Reparasjon og vedlikehold bygningsmessig 34 786 237 963
+Reparasjon og vedlikehold el-anlegg 11 148 6 900
+Reparasjon og vedlikehold VVS-anlegg 6 424 135 823
+Sum vedlikehold 52 359 380 686
+Note 5 - PERIODISK VEDLIKEHOLD
+
+2025 2024
+Periodisk vedlikehold 1 555 436 722 341
+Sum periodisk vedlikehold 1 555 436 722 341
+Periodisk vedlikehold gjelder utbedring og malearbeid pa fasade.
+Note 6 - ANDRE DRIFTSUTGIFTER
+
+2025 2024
+Verktgy, driftsmateriell, inventar 7 561 8 947
+Kontorrekvisita, trykksaker 0 149
+Kostnader vedr. styrearbeid 1311 168
+Generalforsamling/arsmete 10 744 4 000
+Bankgebyrer 702 675
+Andre gebyrer 5 180 3 668
+Tilskudd bomilj@ 566 242
+Hjemmeside/intemett/T V-abo 1417 0
+Julebord/styresamling 235 0
+Sum andre driftsutgifter 27 715 17 849
+Note 7 - DISPONIBLE MIDLER
+
+2025 2024
+Disponible midler 01.01 258 596 1120 728
+Endring i disponible midler:
+Arets resultat -480 415 8 449
+Opptak lan 17 290 000 0
+Avdrag lan -16 120 419 -870 581
+Arets endring i disponible midler 689 166 862 132
+Disponible midler i periodens slutt 947 761 258 596
+Disponible og gremerk. midler justert for langsiktige avsetninger 947 761 258 596
+
+Org.nr: 971 081 325 - 137
+
+Hammersborg Borettslag - Noter 2025
+Note 8 - ANLEGGSMIDLER
+Bygninger Rehabilitering Fast teknisk Tomter Andre
+installasjon i anleggsmidler
+bygninger
+Anskaffelseskost pr.01.01 : 1 106 292 10 602 758 824 877 18 000 42 000
+Arets tilgang : ff) ff) ) ff) ff)
+Arets avgang : 0 0 ) ff) ft)
+Anskaffelseskost pr.31.12: 1 106 292 10 602 758 824 877 18 000 42 000
+Akkumulerte avskrivninger pr.31.12: 0 0 0 0 42 000
+Akkumulerte nedskrivninger pr.31.12: 0 0 0 0 0
+Bokfert verdi pr.31.12: 1 106 292 10 602 758 824 877 18 000 0
+Antatt levetid i ar - 5
+Avskrivningssatsene som er brukt er satt opp i henhold til levetid med lineaere avskrivninger.
+Samtlige av boligselskapets anleggsmidler er oppfert i anleggskartoteket.
+Tomt og bygninger er anskaffet i ar 1951 og 1998
+Rehabiliteringer er gjennomfert i perioden 1994 - 2009
+Note 9 - UTESTAENDE FORDRINGER
+Utestaende fordringer er gjennomgatt og vurdert. Boligselskapet behever ikke a regne med fremtidige tap pa disse og det er derfor ikke
+foretatt tapsavsetning.
+Note 10 - BANKINNSKUDD OG @REMERKEDE AVSETNINGER
+2025 2024
+Bundne midler og bankinnskudd
+Bundne midler for skattetrekk 17 17
+Bankinnskudd 1 020 869 287 863
+Sum bankinnskudd 1 020 886 287 880
+Note 11 - EGENKAPITAL
+2025 2024
+SUM EGENKAPITAL 01.01 5 185 241 -5 193 690
+Andelskapital 01.01 4 300 4 300
+Andelskapital 31.12 4 300 4 300
+Annen egenkapital 01.01 -5 189 541 -5 197 990
+Arets resultat -480 415 8 449
+Annen egenkapital 31.12 -5 669 956 -5 189 541
+SUM EGENKAPITAL 31.12 -5 665 656 5 185 241
+Andelskapitalen er kr 4 300,- fordelt pa 43 andeler a kr 100,-.
+Hver andel har lik stemmerett pa generalforsamlingen.
+Boligselskapet har negativ egenkapital som i hovedsak skyldes at store deler av rehabiliteringen som er foretatt i senere ar er vurdert som
+vedlikehold. Bemerker ogsa at tomt og bygning er verdsatt til anskaffelskost som ikke reflekterer dagens verdi.
+Org.nr: 971 081 325 - 137
+
+Hammersborg Borettslag - Noter 2025
+
+Note 12 - PANTSTILLELSER
+
+2025
+Bokfert verdi pantsatte eiendeler 31.12 12 551 927
+Restgjeld 31.12 19 165 345
+Palydende pantstillelser var 31 470 700 ,- per 31.12.
+Pantstillelser og restgjeld omfatter langsiktig gjeld og borettsinnskudd, jfr note om innskudd.
+
+Org.nr: 971 081 325 - 137
+
+Note 13 - PANTE- OG GJELDSBREVSLAN
+Kreditor: Svenska Svenska Svenska
+Handelsbanken AB Handelsbanken AB Handelsbanken AB
+NUF NUF NUF
+Formal: Refinansiering Garasjer Rehabilitering
+Lanenummer: 90517383286 90517328935 90517189706
+Lanetype: Annuitet Annuitet Annuitet
+Opptaksar: 2025 2023 2008
+Rentesats: 5.20 % 5.20 % 5.95 %
+Betingelser: Flytende rente Flytende Flytende rente
+Beregnet innfridd: 30.12.2037 30.12.2037 16.01.2025
+Opprinneliglanebelop: £8 = 47290000 1200000 26000000
+Lanesaldo 01.01: 0 1 162 254 15 362 810
+Avdrag i perioden: 718 128 39 571 15 362 810
+Opptak i perioden: 17 290 000 0 0
+Lanesaldo 31.12: 16 571 872 1 122 683 0
+Saldo 5 ar frem i tid: 10 877 119 736 885 0
+PANTE- OG GJELDSBREVSLAN
+Ant. andeler Andel gjeld 31.12 Sum fellesgjeld
+Antall andeler, andel gjeld og sum av fellesgjeld lan 90517328935 1 46 971 46 971
+1 31 495 31 495
+1 30 952 30 952
+g 27 151 244 359
+2 26 879 53 758
+g 26 336 237 024
+1 26 065 26 065
+8 25 522 204 176
+1 25 250 25 250
+4 24 436 97 744
+1 21 992 21 992
+3 20 906 62 718
+2 20 092 40 184
+Antall andeler, andel gjeld og sum av fellesgjeld lan 90517383286 42 393 309 16 518 978
+1 52 902 52 902
+Note 14 - INNSKUDD
+2025 2024
+Boretsinnskudd i sti (i‘isOSOSOSO™*™*™*”O aI «1470700
+Sum innskudd 1 470 700 1 470 700
+
+Resultat og balanse med noter for Hammersborg Borettslag.
+Dokumentet er signert elektronisk av:
+For Hammersborg Borettslag
+Styreleder Marit Selfjord (sign.) 06.05.2026
+Styremedlem Marius K Jensen (sign.) 06.05.2026
+Styremedlem Alexander Victor Toresen Nynes (sign.) 04.05.2026
+Styremedlem Magnus Sundli Alseth (sign.) 04.05.2026
+Styremedlem Geir Arne Kjonstad (sign.) 05.05.2026
+
+BDO AS
+Kobbes gate 2
+BDO Postboks 1786 Sentrum
+7416 Trondheim
+Til generalforsamlingen i HAMMERSBORG BORETTSLAG
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet til HAMMERSBORG BORETTSLAG.
+Arsregnskapet bestar av: Etter var mening:
+- Balanse per 31. desember 2025 * Oppfyller arsregnskapet gjeldende lovkrav, og
+¢ Resultatregnskap 2025 + Gir arsregnskapet et rettvisende bilde av
+* Noter til arsregnskapet, herunder et borettslagets finansielle stilling per 31.
+sammendrag av viktige desember 2025, og av dets resultater for
+regnskapsprinsipper. regnskapsaret avsluttet per denne datoen i
+samsvar med regnskapslovens regler og god
+regnskapsskikk i Norge.
+Andre forhold
+Budsjettallene som fremkommer i arsregnskapet er ikke revidert.
+Grunnlag for konklusjonen
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av borettslaget i samsvar med kravene i
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants "
+{inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for RS
+Accountants (IESBA-reglene), og vi har overholdt vare ovrige etiske forpliktelser i samsvar med disse 4
+kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for =
+var konklusjon. =
+S
+Ledelsens ansvar for arsregnskapet :
+Styret og forretningsforer (ledelsen) er ansvarlig for 4 utarbeide arsregnskapet i samsvar med lov og 8
+forskrifter, herunder for at det gir et rettvisende bilde i samsvar med regnskapslovens regler og god +
+regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik intern kontroll som den finner nadvendig for a =
+kunne utarbeide et arsregnskap som ikke inneholder vesentlig feilinformasjon, verken som falge av ™
+misligheter eller utilsiktede feil. N
+6
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til borettslaget evne til fortsatt drift og 3
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn =
+for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli awiklet. £
+E
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet £
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig 3
+feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning som S
+inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti for at a
+en revisjon utfort i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon kan
+oppsta som falge av misligheter eller utilsiktede feil. Feilinformasjon er a anse som vesentlig dersom den
+enkeltvis eller samlet med rimelighet kan forventes a pavirke de akonomiske beslutningene som brukerne
+foretar pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+https: //revisorforeningen.no/revisjonsberetninger
+BDO AS
+Geir Ove Frostad
+statsautorisert revisor
+(elektronisk signert)
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset Side 1 av 1
+ansvar, og er en del av det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de
+enkelte land. Foretaksregisteret: NO 993 606 650 MVA.

@@ -1,0 +1,413 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 735457
+Virksomheten
+Organisasjonsnummer : 980 997 146
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: BEXP AS
+Forretningsadresse: Kj@rbokollen 30
+1337 SANDVIKA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Reidar Usterud
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 980 997 146
+
+BEXP AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 6 915 638 4 116 599
+
+Sum inntekter 6 915 638 4 116 599
+
+Kostnader
+
+Varekostnad 7 153 970 3 393 399
+
+Lennskostnad 1 76 246 259 862
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 0 106 630
+
+Annen driftskostnad 100 769 192 966
+
+Sum kostnader 7 330 986 3 952 856
+
+Driftsresultat -415 348 163 742
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 13 846 3 495
+
+Annen finansinntekt 67 564 53 921
+
+Verdigkning andre
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 0 234 601
+
+Sum finansinntekter 81 411 292 017
+
+Annen rentekostnad 21 0
+
+Annen finanskostnad 26 336 0
+
+Sum finanskostnader 26 357 e)
+
+Netto finans 55 054 292 017
+
+Resultat fer skattekostnad -360 294 455 759
+
+Skattekostnad 109 046 36 555
+
+Arsresultat -469 340 419 204
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 21 017 0
+
+Overferinger til/fra
+
+annen egenkapital -490 358 419 204
+
+Sum overferinger og
+
+disponeringer -469 340 419 204
+Utskriftsdato 01.08.2026 Organisasjonsnr 980 997 146 Side 1 av 3
+
+Organisasjonsnr: 980 997 146
+BEXP AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Konsesjoner, patenter,
+lisenser, varemerker og
+lignende rettigheter 0 55 000
+Sum immaterielle eiendeler 0 55 000
+Varige driftsmidler
+Driftslesere, inventar,
+verktey, kontormaskiner
+og lignende 0 426 519
+Sum varige driftsmidler 0 426 519
+Finansielle anleggsmidler
+Andre fordringer -4 905 0
+Sum finansielle
+anleggsmidler -4 905 0
+Sum anleggsmidler -4 905 481 519
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 283 383 1 154 353
+Andre fordringer 0 56 058
+Sum fordringer 283 383 1 210 411
+Investeringer
+Markedsbaserte aksjer 7 369 000 636 892
+Sum investeringer 7 369 000 636 892
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 1 886 075 3 400 322
+Sum bankinnskudd,
+kontanter og lignende 1 886 075 3 400 322
+Sum omlepsmidler 9 538 458 5 247 624
+SUM ELENDELER 9 533 553 5 729 143
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 01.08.2026 Organisasjonsnr 980 997 146 Side 2 av 3
+
+Innskutt egenkapital
+
+Selskapskapital 100 000 100 000
+
+Sum innskutt egenkapital 100 000 100 000
+
+Opptjent egenkapital
+
+Annen egenkapital 7 829 854 1 588 104
+
+Udekket tap 0 21 017
+
+Sum opptjent egenkapital 7 829 854 1 567 087
+
+Sum egenkapital 7 929 854 1 667 087
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 0 2 125 326
+
+Sum annen langsiktig gjeld 0 2 125 326
+
+Sum langsiktig gjeld 0 2 125 326
+
+Kortsiktig gjeld
+
+Leverandergjeld 372 601 275 808
+
+Betalbar skatt 108 291 36 555
+
+Skyldige offentlige
+
+avgifter 123 OO1 21 323
+
+Kortsiktig konserngjeld 21 415 21 415
+
+Annen kortsiktig gjeld 978 391 1 581 630
+
+Sum kortsiktig gjeld 1 603 699 1 936 730
+
+Sum gjeld 1 603 699 4 062 056
+
+SUM EGENKAPITAL OG GJELD 9 533 553 5 729 143
+Utskriftsdato 01.08.2026 Organisasjonsnr 980 997 146 Side 3 av 3
+
+Organisasjonsnr: 980 997 146
+
+BEXP AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+BEXP AS
+Arsregnskap 2025
+
+BEXP AS Arsregnskap 2025
+org.nr.: 980997146
+1. Resultat og balanse
+2. Noter for innsending
+3. Signering
+&
+Generert av tripletex* 30 07 2026 Side 2 av 6
+
+BEXP AS Arsregnskap 2025
+
+org.nr.: 980997146
+Resultat Noter 2025 2024
+Driftsinntekter og driftskostnader
+Salgsinntekter 6 915 638 4116 599
+Sum driftsinntekter 6 915 638 4116 599
+Varekostnad 7 153 970 3 393 399
+Lennskostnad 1 76 246 259 862
+Avskrivning pa varige driftsmidler og immaterielle eiendeler 0 106 630
+Annen driftskostnad 100 769 192 966
+Sum driftskostnader 7 330 986 3 952 856
+Driftsresultat -415 348 163 742
+Finansinntekter og finanskostnader
+Annen renteinntekt 13 846 3495
+Annen finansinntekt 67 564 53 921
+Verdigkning av finansielle instrumenter vurdert til virkelig verdi 0 234 601
+Sum finansinntekter 81 411 292 O17
+Annen rentekostnad 21 0
+Annen finanskostnad 26 336 0
+Sum finanskostnader 26 357 0
+Netto finans 55 054 292 O17
+Ordinzert resultat for skattekostnad -360 294 455 759
+Skattekostnader
+Skattekostnad pa ordinzert resultat 109 046 36 555
+Arsresultat -469 340 419 204
+Overferinger og disponeringer
+Udekket tap 21 017 0
+Overferinger til/fra annen egenkapital -490 358 419 204
+Sum overfgringer og disponeringer -469 340 419 204
+
+Generert av Iripletex™" 30 07 2026 Side 3 av 6
+
+BEXP AS Arsregnskap 2025
+org.nr.: 980997146
+Balanse Noter 2025 2024
+EIENDELER
+Anleggsmidler
+Konsesjoner, patenter, lisenser, varemerker og lignende rettigheter 0 55 000
+Sum immaterielle eiendeler 0 55 000
+Driftslosgre, inventar, verktay, kontormaskiner og lignende 0 426 519
+Sum varige driftsmidler 0 426 519
+Andre fordringer -4905 0
+Sum finansielle anleggsmidler -4905 0
+Sum anleggsmidler -4905 481519
+Omligpsmidler
+Kundefordringer 283 383 1154 353
+Andre fordringer 0 56 058
+Sum fordringer 283 383 1210 411
+Markedsbaserte aksjer 7 369 000 636 892
+Sum investeringer 7 369 000 636 892
+Bankinnskudd, kontanter og lignende 1886 075 3400 322
+Sum bankinnskudd, kontanter og lignende 1886 075 3 400 322
+Sum omlgpsmidier 9 538 458 5 247 624
+Sum eiendeler 9 533 553 5729 143
+Generert av Iripletex™" 30 07 2026 Side 4 av 6
+
+BEXP AS Arsregnskap 2025
+org.nr.: 980997146
+EGENKAPITAL OG GJELD
+Egenkapital
+Selskapskapital 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Annen Egenkapital 7 829 854 1588 104
+Udekket tap 0 21 017
+Sum opptjent egenkapital 7 829 854 1567 087
+Sum egenkapital 7 929 854 1667 087
+Langsiktig gjeld
+Langsiktig konserngjeld 0 2 125 326
+Sum annen langsiktig gjeld 0 2 125 326
+Sum langsiktig gjeld 0 2 125 326
+Gjeld
+Leverandgrgjeld 372 601 275 808
+Betalbar skatt 108 291 36 555
+Skyldige offentlige avgifter 123 001 21323
+Kortsiktig konserngjeld 21 415 21415
+Annen kortsiktig gjeld 978 391 1581 630
+Sum kortsiktig gjeld 1603 699 1936 730
+Sum gjeld 1603 699 4062 056
+Sum egenkapital og gjeld 9 533 553 5 729 143
+Generert av Iripletex™" 30 07 2026 Side 5av 6
+
+BEXP AS Arsregnskap 2025
+org.nr.: 980997146
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+** Klassifisering **
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer med forfall mer enn ett ar etter balansedagen er medtatt som anleggsmidler. Gjeld
+som forfaller senere enn ett ar etter balansedagen er oppfart som langsiktig gjeld.
+** Varige driftsmidler **
+Varige driftsmidler er vurdert til anskaffelseskost etter fradrag for bedriftsa@konomiske avskrivninger som er
+beregnet pa grunnlag av kostpris og antatt levetid.
+** Aksjer **
+Omlgpsaksjer er vurdert til markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til kostpris. | de
+tilfeller der den virkelige verdien er lavere enn kostprisen og dette ikke er forbigaende, er det foretatt
+nedskrivning.
+** Fordringer **
+Kundefordringer og andre fordringer er oppfart til palydende etter fradrag for konstaterte og forventede tap.
+** Skatter **
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbar skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet pa grunnlag av midlertidige forskjeller mellom regnskapsmessige og skattemessige verdier,
+samt eventuelt ligningsmessig underskudd til fremfgring ved utgangen av regnskapsaret. Utsatt skatt er avsatt
+som langsiktig gjeld i balansen. | den grad utsatt skattefordel overstiger utsatt skatt, er utsatt skattefordel tatt
+med i balansen iht. god regnskapsskikk.
+** Driftsinntekter og kostnader **
+Inntektsfgring falger opptjeningsprinsippet, som normalt vil falge leveringstidspunktet for varer og tjenester.
+Kostnader er tatt med etter sammenstillingsprinsippet, det vil si at kostnadene er tatt med i samme periode
+som tilhgrende inntekter.
+#1 Antall arsverk
+Antall arsverk i regnskapsaret: 0
+Generert av Iripletex™" 30 07 2026 Side 6av 6

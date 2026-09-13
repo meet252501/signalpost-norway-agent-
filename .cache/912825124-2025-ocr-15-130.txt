@@ -1,0 +1,483 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 621589
+Virksomheten
+Organisasjonsnummer : 912 825 124
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: GUSTAVSEN INVEST AS
+Forretningsadresse: Enerbakken 12
+1768 HALDEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Knut Eirik Sommerseth Gustavsen
+Dato for fastsettelse av arsregnskapet: 29.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 912 825 124
+
+GUSTAVSEN INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 85 000 36 000
+
+Sum inntekter 85 000 36 000
+
+Kostnader
+
+Lennskostnad 3, 4 715 0
+
+Annen driftskostnad 18 324 29 630
+
+Sum kostnader 19 039 29 630
+
+Driftsresultat 65 961 6 370
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 0
+
+Annen finanskostnad 325 439 88
+
+Sum finanskostnader 325 439 8s
+
+Netto finans -325 439 -88
+
+Resultat fer skattekostnad -259 478 6 282
+
+Skattekostnad 14 603 1 386
+
+Arsresultat -274 O81 4 896
+
+Arsresultat etter
+
+minoritetsinteresser -274 081 4 896
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -274 O81 4 896
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -138 928 0
+
+Overferinger til/fra
+
+annen egenkapital -135 153 4 896
+
+Sum overferinger og
+
+disponeringer -274 081 4 896
+Utskriftsdato 01.07.2026 Organisasjonsnr 912 825 124 Side 1 av 3
+
+Organisasjonsnr: 912 825 124
+GUSTAVSEN INVEST AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 1 163 610 1 678 049
+Andre langsiktige
+fordringer 9 961 0
+Sum finansielle
+anleggsmidler 1173 571 1 678 049
+Sum anleggsmidler 1173 571 1 678 049
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Andre kortsiktige
+fordringer 857 0
+Sum fordringer 857 0
+Investeringer
+Andre finansielle
+instrumenter 146 435 146 435
+Sum investeringer 146 435 146 435
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 17 027 8 878
+Sum bankinnskudd,
+kontanter og lignende 17 027 8 878
+Sum omlepsmidler 164 319 155 313
+SUM ELENDELER 1 337 890 1 833 362
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 01.07.2026 Organisasjonsnr 912 825 124 Side 2 av 3
+
+Aksjekapital
+
+(selskapskapital) 90 000 90 000
+
+Annen innskutt egenkapital -10 000 -10 000
+
+Sum innskutt egenkapital 80 000 80 000
+
+Opptjent egenkapital
+
+Annen egenkapital 0 135 154
+
+Udekket tap 138 928 0
+
+Sum opptjent egenkapital -138 928 135 154
+
+Sum egenkapital -58 928 215 154
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 1 366 822 1 616 822
+
+Sum annen langsiktig gjeld 1 366 822 1 616 822
+
+Sum langsiktig gjeld 1 366 822 1 616 822
+
+Kortsiktig gjeld
+
+Leverandergjeld 1 238 0
+
+Betalbar skatt 14 758 1 386
+
+Annen kortsiktig gjeld 14 000 0
+
+Sum kortsiktig gjeld 29 996 1 386
+
+Sum gjeld 1 396 818 1 618 208
+
+SUM EGENKAPITAL OG GJELD 1 337 890 1 833 362
+Utskriftsdato 01.07.2026 Organisasjonsnr 912 825 124 Side 3 av 3
+
+Organisasjonsnr: 912 825 124
+
+GUSTAVSEN INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Halden
+
+Virksomhetens art
+
+Investering 1 andre selskaper, samt
+
+konsulenttjenester og andre produkter/tjenester som naturlig herer sammen
+
+med dette, herunder 4a delta i andre selskap med lignende virksomhet, og
+
+kj@p og salg av aksjer eller pa annen mate gjgre seg interessert i andre
+
+foretak.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Eierne vil sikre tilfgrsel av kapital for a sikre likviditet til Aa betale
+
+gjeld og andre forpliktelser.
+
+Pa bakgrunn av dette avlegges arsregnskapet
+
+under forutsetning om fortsatt drift.
+
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+4
+
+Spesifisering av resultatregnskapet
+
+Lennkostnader
+
+Lenn Arets Fljorarets
+0.00
+
+Andre ytelser Arets Fjorarets
+715.00
+
+Sum loennskostnader Arets Fljorarets
+715.00
+
+Arsregnskap 2025
+Gustavsen Invest AS
+(912 825 124)
+ST
+Gustavsen Invest AS Arsregnskap Side 1 av6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 85 000 36 000
+Sum driftsinntekter 85 000 36 000
+Driftskostnader
+
+L@nnskostnad 3,4 715 @)
+
+Annen driftskostnad 18 324 29 630
+Sum driftskostnader 19 039 29 630
+Driftsresultat 65 961 6 370
+Finanskostnader
+
+Annen finanskostnad 325 439 88
+Sum finanskostnader 325 439 88
+Netto finans -325 439 -88
+Resultat for skatt -259 478 6 282
+Skattekostnad 14 603 1 386
+Arsresultat -274 081 4 896
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital -135 153 4 896
+
+Udekket tap -138 928 @)
+Sum overferinger og disponeringer -274 081 4896
+
+Gustavsen Invest AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anieggsmidler
+
+Investeringer i aksjer og andeler 1 163 610 1 678 O49
+
+Andre langsiktige fordringer 9 961 @)
+Sum finansielle anleggsmidler 1173 571 1 678 049
+Sum anleggsmidler 1173571 1678049
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 857 0
+Sum fordringer 857 0
+Investeringer
+
+Andre finansielle instrumenter 146 435 146 435
+Sum investeringer 146 435 146 435
+Bankinnskudd, kontanter o.l. 17 027 8 878
+Sum omlepsmidler 164 319 155 313
+Sum eiendeler 1337890 1833362
+
+Gustavsen Invest AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 90 000 90 000
+Annen innskutt egenkapital -10 000 -10 000
+Sum innskutt egenkapital 80 000 80 000
+Opptjent egenkapital
+Annen egenkapital 0 135 154
+Udekket tap -138 928 0
+Sum opptjent egenkapital -138 928 135 154
+Sum egenkapital -58 928 215 154
+Gijeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 1 366 822 1 616 822
+Sum annen langsiktig gjeld 1 366 822 1 616 822
+Kortsiktig gjeld
+Leverande@rgjeld 1 238 0
+Betalbar skatt 14 758 1 386
+Annen kortsiktig gjeld 14 000 0
+Sum kortsiktig gjeld 29 996 1 386
+Sum gjeld 1396818 1618 208
+Sum egenkapital og gjeld 1337890 1833362
+Gustavsen Invest AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Halden
+Virksomhetens art
+Investering i andre selskaper, samt konsulenttjenester og andre produkter/tjenester som
+naturlig horer sammen med dette, herunder a deltai andre selskap med lignende virksomhet,
+og kj@p og salg av aksjer eller pa annen mate gjore seg interessert i andre foretak.
+Note 2: Usikkerhet rundt fortsatt drift
+Eierne vil sikre tilforsel av kapital for a sikre likviditet til 4 betale gjeld og andre forpliktelser. Pa
+bakgrunn av dette avlegges arsregnskapet under forutsetning om fortsatt drift.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Gustavsen Invest AS Arsregnskap Side 5 av 6
+
+Note 4: Lonnskostnader
+2025 2024
+Lenn 0 0
+Arbeidsgiveravgift @) @)
+Pensjon 0 0
+Andre ytelser 715 0
+Sum lonnskostnader 715 0
+Gustavsen Invest AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+
+Opprettet av Johanne Regine Sommerseth <johanne@sagnstudio.no>
+
+Elektronisk signering
+INGEBORG LOUISE SOMMERSETH JOHANNE REGINE SOMMERSETH
+17.02.1994 - Styremedlem 03.01.1996 - Styremediem
+Y) Signert Y) Signert
+29.06.2026 22:13 === bankID 29.06.2026 21:15 === bankID
+SYNN@VE HELEN SOMMERSETH KNUT EIRIK SOMMERSETH GUSTAVSEN
+17.12.1997 - Styremediem 07.08.1968 - Daglig leder, Styreleder
+Y) Signert Y) Signert
+29.06.2026 23:22 === bankID 29.06.2026 22:06 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 29.06.2026 21:08:35

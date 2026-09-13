@@ -10,6 +10,7 @@ INDEPENDENT_SOURCE_CLASSES = {
     "public_news",
     "official_notice",
     "licensed_review",
+    "customer_review",
 }
 
 

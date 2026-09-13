@@ -1,0 +1,320 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 468649
+Virksomheten
+Organisasjonsnummer : 926 875 493
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: HLL HOLDING AS
+Forretningsadresse: Salhusvegen 12C
+5529 HAUGESUND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: HARALD L@ONNING
+Dato for fastsettelse av arsregnskapet: 22.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 26.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 926 875 493
+
+HLL HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 46 760
+
+Sum inntekter 46 760
+
+Kostnader
+
+Annen driftskostnad 1, 2 11 812 20 523
+
+Sum kostnader 11 812 20 523
+
+Driftsresultat -11 812 26 237
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 197
+
+Sum finansinntekter 197
+
+Annen rentekostnad 215
+
+Sum finanskostnader 215
+
+Netto finans 197 -215
+
+Resultat fer skattekostnad -11 615 26 022
+
+Skattekostnad pa resultat 3 5 772
+
+Arsresultat 4 -11 615 20 250
+
+Arsresultat etter
+
+minoritetsinteresser -11 615 20 250
+
+Totalresultat -11 615 20 250
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 20 250
+
+Overfert fra annen
+
+egenkapital -11 615
+
+Sum overferinger og
+
+disponeringer -11 615 20 250
+Utskriftsdato 26.05.2026 Organisasjonsnr 926 875 493 Side 1 av 3
+
+Organisasjonsnr: 926 875 493
+HLL HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 621 145 621 145
+Sum finansielle
+anleggsmidler 621 145 621 145
+Sum anleggsmidler 621 145 621 145
+Omlepsmidler
+Varer
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 85 910 103 297
+Sum bankinnskudd,
+kontanter og lignende 85 910 103 297
+Sum omlepsmidler 85 910 103 297
+SUM ELENDELER 707 O55 724 442
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5 30 000 30 000
+Beholdning av egne aksjer 5
+Annen innskutt egenkapital -8 570 -8 570
+Sum innskutt egenkapital 21 430 21 430
+Opptjent egenkapital
+Annen egenkapital 100 625 112 240
+Sum opptjent egenkapital 100 625 112 240
+Sum egenkapital 4 122 055 133 670
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 3
+Annen langsiktig gjeld
+
+Utskriftsdato 26.05.2026 Organisasjonsnr 926 875 493 Side 2 av 3
+
+Kortsiktig gjeld
+
+Betalbar skatt 3 5 772
+
+Annen kortsiktig gjeld 585 000 585 000
+
+Sum kortsiktig gjeld 585 000 590 772
+
+Sum gjeld 585 000 590 772
+
+SUM EGENKAPITAL OG GJELD 707 O55 724 442
+Utskriftsdato 26.05.2026 Organisasjonsnr 926 875 493 Side 3 av 3
+
+Organisasjonsnr: 926 875 493
+
+HLL HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+HLL HOLDING AS
+
+RESULTATREGNSKAP |
+HLL HOLDING AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 0) 46 760
+Sum driftsinntekter 0 46 760
+Annen driftskostnad 1, 2 11 812 20 523
+Sum driftskostnader 11 812 20 523
+Driftsresultat -11 812 26 237
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 197 0
+Annen rentekostnad 0 215
+Resultat av finansposter 197 -215
+Resultat for skattekostnad -11 615 26 022
+Skattekostnad pa resultat 3 0 5772
+Arsresultat eee 1161520250)
+OVERF@RINGER
+
+Avsatt til annen egenkapital 0 20 250
+Overfgrt fra annen egenkapital 11 615 0
+Sum overf¢ringer -11 615 20 250
+HLL HOLDING AS SIDE 2
+
+ANSE
+HLL HOLDING AS
+
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i aksjer og andeler 621 145 621145
+Sum finansielle anleggsmidler 621 145 621 145
+Sum anleggsmidler 621 145 621 145
+OML@PSMIDLER
+FORDRINGER
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 85 910 103 297
+Sum omlgpsmidler 85 910 103 297
+Sum eiendeler
+HLL HOLDING AS SIDE 3
+
+BALANSE |
+HLL HOLDING AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 5 30 000 30 000
+Annen innskutt egenkapital -8570 -8 570
+Sum innskutt egenkapital 21 430 21 430
+OPPTJENT EGENKAPITAL
+Annen egenkapital 100 625 112 240
+Sum opptjent egenkapital 100 625 112 240
+Sum egenkapital 4 122 055 133 670
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+KORTSIKTIG GJELD
+Betalbar skatt 3 0 5772
+Annen kortsiktig gjeld 585 000 585 000
+Sum kortsiktig gjeld 585 000 590 772
+Sum gjeld 585 000 590 772
+Sum egenkapital og gjeld 707 055 724 442
+Haugesund, 22.05.2026
+Styret i HLL HOLDING AS
+HARALD LZNNING
+styreleder
+HLL HOLDING AS SIDE 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+VALUTA
+
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapsarets slutt.
+
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Oml¢psmidler og kortsiktig gijeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+Note 1 Lénnskostnader
+
+HLL HOLDING AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+
+Note 2 Virksomhetens art og lokalisering
+
+HLL HOLDING AS er et selskap der virksomheten omfatter investering i aksjer. Selskapet er lokalisert i
+Haugesund kommune.
+
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 5772
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 5772
+Skattepliktig inntekt:
+Resultat for skatt -11615 26 022
+Permanente forskjeller -197 0
+Skattepliktig inntekt -11 812 26 022
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 5772
+Sum betalbar skatt i balansen 0 5772
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -11 812 0 11 812
+Inngar ikke i beregningen av utsatt skatt 11 812 0 -11 812
+Utsatt skattefordel / skatt (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 4 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 30 000 0 -8 570 112 240 133 670
+Arets resultat -11 615 -11 615
+Pr 31.12.2025 30 000 0 -8 570 100 625 122 055
+
+Note 5 Aksjonzrer
+AKSJEKAPITALEN | HLL HOLDING AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+
+Ordinzre aksjer 30 000 1,0 30 000
+Sum 30 000 30 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+
+Ordinzere Eierandel Stemmeandel
+HARALD LONNING 30 000 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Verv Ordinzere
+HARALD L@NNING styreleder 30 000
+Totalt antall aksjer 30 000

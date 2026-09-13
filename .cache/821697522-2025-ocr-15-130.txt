@@ -1,0 +1,548 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 352632
+Virksomheten
+Organisasjonsnummer : 821 697 522
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: FLATAVEIEN 22 AS
+Forretningsadresse: Flataveien 22
+3303 HOKKSUND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kari-Nora Gran @ien
+Dato for fastsettelse av arsregnskapet: 18.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 25.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 821 697 522
+
+FLATAVEIEN 22 AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 28 579 0
+
+Sum inntekter 28 579 0
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 33 157 24 587
+
+Sum kostnader 33 157 24 587
+
+Driftsresultat -4 578 -24 587
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 111 65
+
+Sum finansinntekter 111 65
+
+Annen rentekostnad 84 496 87 088
+
+Sum finanskostnader 84 496 87 O88
+
+Netto finans -84 385 -87 023
+
+Resultat fer skattekostnad -88 963 -111 609
+
+Arsresultat -88 963 -111 609
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -88 963 -111 609
+Utskrifttsdato 25.03.2026 Organisasjonsnr 821 697 522 Side 1 av 3
+
+Organisasjonsnr: 821 697 522
+
+FLATAVEIEN 22 AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 2 3 075 606 0
+
+Sum varige driftsmidler 3 075 606 0
+
+Finansielle anleggsmidler
+
+Andre langsiktige
+
+fordringer 3 0 0
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 3 075 606 0
+
+Omlepsmidler
+
+Varer
+
+Varer 4 0 1 923 080
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 3 7 579 0
+
+Sum fordringer 7 579 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 45 001 78 443
+
+Sum bankinnskudd,
+
+kontanter og lignende 45 001 78 443
+
+Sum omlepsmidler 52 580 2 001 524
+
+SUM ELENDELER 3 128 186 2 001 524
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+Utskriftsdato 25.03.2026 Organisasjonsnr 821 697 522 Side 2 av 3
+
+Opptjent egenkapital
+
+Udekket tap 549 266 460 303
+
+Sum opptjent egenkapital -549 266 -460 303
+
+Sum egenkapital -519 266 -430 303
+
+Gjeld
+
+Langsiktig gjeld
+
+Pensjonsforpliktelser 4 0 0
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Konvertible lan 4 0 0
+
+Obligasjonslan 4 0 0
+
+Gjeld til
+
+kredittinstitusjoner 4 831 785 861 963
+
+Langsiktig konserngjeld 4 0 0
+
+Ansvarlig lanekapital 4 0 0
+
+@vrig langsiktig gjeld 4 0 1 491 240
+
+Sum annen langsiktig gjeld 831 785 2 353 203
+
+Kortsiktig gjeld
+
+Leverandergjeld 163 960 74 153
+
+Kortsiktig konserngjeld 2 360 000 0
+
+Annen kortsiktig gjeld 291 707 4 470
+
+Sum kortsiktig gjeld 2 815 667 78 623
+
+Sum gjeld 3 647 452 2 431 826
+
+SUM EGENKAPITAL OG GJELD 3 128 186 2 001 524
+Utskriftsdato 25.03.2026 Organisasjonsnr 821 697 522 Side 3 av 3
+
+Organisasjonsnr: 821 697 522
+
+FLATAVEIEN 22 AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arten av virksomheten og hvor den drives
+
+Selskapets virksomhet bestar av
+
+forvaltning og drift av boligeiendom i @vre Eiker Kommune.
+
+Arsregnskapet er
+
+satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma
+foretak.
+
+Salgsinntekter
+
+Inntektsfering ved salg av varer skjer pa
+
+leveringstidspunktet. Tjenester inntektsfores etter hvert som de leveres.
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler
+
+bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretslapet er klassifisert som omlepsmidler. Fordringer klassifiseres
+som omlegpsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett ar. Langsiktig gjeld er gjeld som
+forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som
+omlepsmiddel og kortsiktig gjeld.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balanseferes til
+nominelt bel@p pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belgep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gje@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+Leieavtaler er ikke balansefort.
+
+Selskapet har ikke endret
+
+regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Varige driftsmidler og immaterielle eiendeler
+
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+3075606.00 0.00
+
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+3075606.00 0.00
+
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+3075606.00 0.00
+
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+
+Totalrenovering av enebolig i 2 etasjer hvorav 2 etasje sto klar for utleie
+
+01.11.25. 1 etasje blir utleid fra 01.03 2026.
+
+Goodwill spesifisert for hvert enkelt virksomhetskjeop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Note
+
+4
+
+Gjeld
+
+Gjeld som forfaller til betaling mer enn fem Ar etter regnskapsarets slutt
+
+3479172.00
+
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+
+831785.00
+
+Balansefeort verdi av de pantsatte eiendeler
+
+3075606.00
+
+Summen av garantiforpliktelser som ikke er regnskapsfert
+
+Garantiforpliktelser som er sikret ved pant
+
+Mer om gjeld
+
+Note
+
+3
+
+Lan og sikkerhetsstillelse til medlemmer
+
+Opplysninger om: Medlemmer av:
+
+Mer om lan og sikkerhetsstillelse
+
+Arsregnskap for
+FLATAVEIEN 22 AS
+821697522
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+FLATAVEIEN 22 AS
+821 697 522
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Annen driftsinntekt 28 579 0
+Sum driftsinntekter 28 579 0
+Driftskostnader
+Annen driftskostnad -33 157 -24 587
+Sum driftskostnader -33 157 -24 587
+Driftsresultat -4 578 -24 587
+Finansinntekter
+Annen renteinntekt 111 65
+Sum finansinntekter 111 65
+Finanskostnader
+Annen rentekostnad -84 496 -87 088
+Sum finanskostnader -84 496 -87 088
+Netto finans -84 385 -87 023
+Arsresultat -88 963 -111 609
+Overforinger
+Udekket tap -88 963 -111 609
+Sum overferinger -88 963 -111 609
+
+FLATAVEIEN 22 AS
+821 697 522
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger og annen fast eiendom 2 3 075 606 0
+Sum varige driftsmidler 3 075 606 0
+Sum anleggsmidler 3 075 606 0
+Omlgpsmidler
+Varer
+Varer 4 0 1 923 080
+Sum varer 0 1 923 080
+Fordringer
+Andre kortsiktige fordringer 3 7 579 0
+Sum fordringer 7 579 0
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 45 001 18 443
+Sum bankinnskudd, kontanter og lignende 45 001 78 443
+Sum omlgpsmidler 52 580 2 001 524
+SUM EIENDELER 3 128 186 2 001 524
+
+FLATAVEIEN 22 AS
+821 697 522
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Udekket tap -549 266 -460 303
+Sum opptjent egenkapital -549 266 -460 303
+Sum egenkapital -519 266 -430 303
+Gjeld
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 4 831 785 861 963
+@vrig langsiktig gjeld 4 0 1 491 240
+Sum annen langsiktig gjeld 831 785 2 353 203
+Kortsiktig gjeld
+Leverandgrgjeld 163 960 14 153
+Kortsiktig konserngjeld 2 360 000 0
+Annen kortsiktig gjeld 291 707 4470
+Sum kortsiktig gjeld 2 815 667 78 623
+Sum gjeld 3 647 452 2 431 826
+SUM EGENKAPITAL OG GJELD 3 128 186 2 001 524
+HOKKSUND, 18.03.2026
+Tomas Berg Sandnes Gard Ove Andersen
+styrets leder styremediem / daglig leder
+
+FLATAVEIEN 22 AS
+
+821 697 522
+
+Noter
+
+Regnskapsprinsipper
+
+Arten av virksomheten og hvor den drives
+
+Selskapets virksomhet bestar av forvaltning og drift av boligeiendom i @vre Eiker Kommune.
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets! pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlgpsmiddel og kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefert.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Antall arsverk
+
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+
+FLATAVEIEN 22 AS
+
+821 697 522
+
+Note 2 - Varige driftsmidler og immaterielle eiendeler
+
+Varige
+
+Ee riftsmidier
+Anskaffelseskost 01.01. 0
+Tilgang i aret 3 075 606
+Avgang i aret 0
+Anskaffelseskost 31.12. 3 075 606
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger 0
+Balansefort verdi per 31.12. 3 075 606
+
+Anskaffelseskost - spesifikasjon av balanseforte lanekostnader knyttet til egentilvirkede anleggsmidler
+
+Totalrenovering av enebolig i 2 etasjer hvorav 2 etasje sto klar for utleie 01.11.25. 1 etasje blir utleid fra 01.03
+
+2026.
+
+Note 3 - Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+
+Note 4 - Gjeld og garantiforpliktelser
+
+Belop
+
+Del av gjelden som forfaller til betaling mer enn fem ar etter regnskapsarets slutt 3 479 172
+Gjeld som er sikret ved pant eller lignende sikkerhet i eiendeler 831 785
+Balansefort verdi av pantsatte eiendeler 3 075 606
+Summen av garantiforpliktelser som ikke er regnskapsfert 0

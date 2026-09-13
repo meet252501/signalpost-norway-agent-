@@ -1,0 +1,413 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 567230
+Virksomheten
+Organisasjonsnummer : 924 879 602
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: OCEAN INDUSTRIES AS
+Forretningsadresse: Lerstadvegen 250
+6014 ALESUND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Glen Allan Bradley
+Dato for fastsettelse av arsregnskapet: 17.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 22.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 924 879 602
+
+OCEAN INDUSTRIES AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 70 060 49 761
+
+Sum kostnader 70 060 49 761
+
+Driftsresultat -70 060 -49 761
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 8 023 60 003
+
+Annen finansinntekt 3 205 029 4 646 080
+
+Sum finansinntekter 213 052 4 706 083
+
+Verdireduksjon
+
+markedsbaserte omlepsmidler 1 819 098 3 981 189
+
+Annen rentekostnad 217 706 213 059
+
+Annen finanskostnad 3 138 023
+
+Sum finanskostnader 2 174 826 4194 248
+
+Netto finans -1 961 774 511 835
+
+Resultat fer skattekostnad -2 031 834 462 074
+
+Skattekostnad pa resultat 4
+
+Arsresultat 5 -2 031 834 462 074
+
+Arsresultat etter
+
+minoritetsinteresser -2 031 834 462 074
+
+Totalresultat -2 031 834 462 074
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -2 031 834 462 074
+
+Sum overferinger og
+
+disponeringer -2 031 834 462 074
+Utskriftsdato 22.06.2026 Organisasjonsnr 924 879 602 Side 1 av 3
+
+Organisasjonsnr: 924 879 602
+
+OCEAN INDUSTRIES AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4
+
+Varige driftsmidler
+
+Sum varige driftsmidler 6
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 70 400 70 400
+
+Sum finansielle
+
+anleggsmidler 70 400 70 400
+
+Sum anleggsmidler 70 400 70 400
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 105 876
+
+Sum fordringer 105 876
+
+Investeringer
+
+Markedsbaserte aksjer 3, 6 6 046 350 8 213 800
+
+Markedsbaserte obligasjoner 3
+
+Andre markedsbaserte
+
+finansielle instrumenter 3
+
+Sum investeringer 6 046 350 8 213 800
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 619 163 157 088
+
+Sum bankinnskudd,
+
+kontanter og lignende 619 163 157 088
+
+Sum omlepsmidler 6 665 513 8 476 764
+
+SUM ELENDELER 6 735 913 8 547 164
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 7 240 000 240 000
+Utskriftsdato 22.06.2026 Organisasjonsnr 924 879 602 Side 2 av 3
+
+Beholdning av egne aksjer 7
+Overkurs 385 000 385 000
+Annen innskutt egenkapital -11 820 -11 820
+Sum innskutt egenkapital 613 180 613 180
+Opptjent egenkapital
+Annen egenkapital 8
+Udekket tap 2 168 485 136 650
+Sum opptjent egenkapital -2 168 485 -136 650
+Sum egenkapital 5 -1 555 305 476 530
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 4
+Annen langsiktig gjeld
+Langsiktig konserngjeld 800 000 800 000
+Sum annen langsiktig gjeld g00 000 gs00 000
+Sum langsiktig gjeld gs00 000 gs00 000
+Kortsiktig gjeld
+Leverandergjeld 5 874 1 011
+Betalbar skatt 4
+Annen kortsiktig gjeld 6 7 485 343 7 269 624
+Sum kortsiktig gjeld 7 491 217 7 270 635
+Sum gjeld 8 291 217 8 070 635
+SUM EGENKAPITAL OG GJELD 6 735 913 8 547 164
+POSTER UTENOM BALANSEN
+Garantistillelser 6
+Pantstillelser 6
+
+Utskriftsdato 22.06.2026 Organisasjonsnr 924 879 602 Side 3 av 3
+
+Organisasjonsnr: 924 879 602
+
+OCEAN INDUSTRIES AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Ocean Industries AS
+| Resultatregnskap
+Balanse
+Noter til regnskapet
+a
+Org.nr.: 924 879 602 VI E SM.
+
+BankiD Qualified Signature
+Bradley, Glen Allan
+2026-06-17
+Resultatregnskap
+Ocean Industries AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftskostnad 70 060 49 761
+Sum driftskostnader 70 060 49 761
+Driftsresultat -70 060 -49 761
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 8 023 60 003
+Annen finansinntekt 3 205 029 4 646 080
+Verdireduksjon markedsbaserte omlgpsmidler 1 819 098 3 981 189
+Annen rentekostnad 217 706 213 059
+Annen finanskostnad 3 138 023 0
+Resultat av finansposter -1 961 774 511 835
+Resultat for skattekostnad -2 031 834 462 074
+Resultat -2 031 834 462 074
+Arsresultat 5 -2 031 834 462 074
+Overferinger
+
+Overfart til udekket tap 2 031 834 -462 074
+Sum overforinger -2 031 834 462 074
+Ocean Industries AS Side 2
+
+BankiD Qualified Signature
+Bradley, Glen Allan
+2026-06-17
+Balanse
+Ocean Industries AS
+Eiendeler Note 2025 2024
+Finansielle anleggsmidler
+Investeringer i aksjer og andeler 70 400 70 400
+Sum finansielle anleggsmidler 70 400 70 400
+Sum anleggsmidler 70 400 70 400
+Omlgpsmidler
+Andre kortsiktige fordringer 0 105 876
+Sum fordringer 0 105 876
+Investeringer
+Markedsbaserte aksjer 3,6 6 046 350 8 213 800
+Sum investeringer 6 046 350 8 213 800
+Bankinnskudd, kontanter o.]. 619 163 157 088
+Sum omlgpsmidler 6 665 513 8 476 764
+Sum eiendeler 6 735 913 8 547 164
+Ocean Industries AS Side 3
+
+BankiD Qualified Signature
+Bradley, Glen Allan
+2026-06-17
+Balanse
+Ocean Industries AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 7 240 000 240 000
+Overkurs 385 000 385 000
+Annen innskutt egenkapital -11 820 -11 820
+Sum innskutt egenkapital 613 180 613 180
+Opptjent egenkapital
+Udekket tap -2 168 485 -136 650
+Sum opptjent egenkapital -2 168 485 -136 650
+Sum egenkapital 5 -1 555 305 476 530
+Langsiktig konserngjeld 800 000 800 000
+Sum annen langsiktig gjeld 800 000 800 000
+Kortsiktig gjeld
+Leverandgrgjeld 5 874 1011
+Annen kortsiktig gjeld 6 7 485 343 7 269 624
+Sum kortsiktig gjeld 7 491 217 7 270 635
+Sum gjeld -8 291 217 -8 070 635
+Sum egenkapital og gjeld 6 735 913 8 547 164
+Alesund, 17.06.2026
+Styret i Ocean Industries AS
+Glen Allan Bradley
+styreleder
+Ocean Industries AS Side 4
+
+BankiD Qualified Signature
+Bradley, Glen Allan
+Ocean Industries AS 2020-00-17
+Note 1 Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Arten av virksomheten og hvor den drives
+Selskapets virksomhet bestar av a investere i aksjer og andre verdipapirer, og drives i Alesund kommune.
+Valuta
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapsarets slutt.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skatteskende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofert.
+Klassifisering og vurdering av omlgpsmidler
+Omlgpsmidler og kortsiktig gield omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Note 2 Lonnskostnader
+Selskapet har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen slike forpliktelser.
+Note 3 Markedsbaserte verdipapirer
+Anskaffelses Markeds Balansefart
+kost verdi verdi
+Omlgpsmidler
+Salmon Evolution ASA 7 319 402 6 046 350 6 046 350
+Sum 7 319 402 6 046 350 6 046 350
+Ocean Industries AS Side 5
+
+ay BankiD Qualified Signature
+) Bradley, Glen Allan
+Ocean Industries AS 2020-00-17
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfert skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -2 031 834 462 074
+Permanente forskjeller 1 826 500 -653 160
+Skattepliktig inntekt -205 334 -191 086
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt og
+utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -1 251 180 -1 045 846 205 334
+Inngar ikke i beregningen av utsatt skatt 1 251 180 1 045 846 -205 334
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 5 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 240 000 385 000 -11 820 -136 650 476 530
+Arets resultat -2 031 834 -2 031 834
+Pr 31.12.2025 240 000 385 000 -11 820 -2 168 485 -1 555 305
+Ocean Industries AS Side 6
+
+ay BankiD Qualified Signature
+) Bradley, Glen Allan
+Ocean Industries AS 2020-00-17
+Note 6 Pantstillet gjeld
+31.12.2025 31.12.2024
+Pantsikret gjeld, pantstillelser og garantier
+Gjeld til Rofisk AS -7 474 568 -7 256 863
+Sum -7 474 568 -7 256 863
+Sikkerhet stillet for |anet er 1 165 000 aksjer i Salmon Evolution ASA, som gir Lanegiver 1. prioritets pant.
+Glen Allan Bradley og GB Value AS er solidarisk ansvarlig med lanetaker med samlet belgp begrenset oppad
+NOK 750.000.-.
+Note 7 Aksjongerer
+Aksjekapitalen i Ocean Industries AS pr. 31.12 bestar av:
+Antall Palydende Bokfort
+Ordingere aksjer 800 300,0 240 000
+Sum 800 240 000
+Eierstruktur
+De sterste aksjoneerene i % pr. 31.12 var:
+Ordinzere Eierandel Stemmeandel
+VUU IT AS 700 87,5 87,5
+Glen Allan Bradley 100 12,5 12,5
+Totalt antall aksjer 800 100,0 100,0
+Aksjer eiet av medlemmer i styret og daglig leder:
+Navn Verv Ordinzre
+Glen Allan Bradley styreleder 100
+Totalt antall aksjer 100
+Note 8 Fortsatt drift
+Resultatet for 2025 viser et underskudd pa kr. -2 031 834 etter skatt, mot et overskudd pa kr. 462 074 i
+2024. Selskapets egenkapital er tapt. Styret vurderer at grunnlaget for fortsatt drift er til stede. Den negative
+egenkapitalen er knyttet til svingninger i noterte verdipapir i et selskap som er i oppskaleringsfasen. Det
+forventes en reprising nar dette selskapet er kommet i normal drift etter sin oppskaling.
+Ocean Industries AS Side 7

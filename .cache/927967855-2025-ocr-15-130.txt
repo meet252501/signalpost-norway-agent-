@@ -1,0 +1,236 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 521201
+Virksomheten
+Organisasjonsnummer : 927 967 855
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: TMOWATT AS
+Forretningsadresse: Flatene 15A
+6814 FORDE
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Thomas Mowatt
+Dato for fastsettelse av arsregnskapet: 29.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 04.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 927 967 855
+
+TMOWATT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 1 5 000 0
+
+Annen driftskostnad 24 910 0
+
+Sum kostnader 29 910 0
+
+Driftsresultat -29 910 0
+
+Netto finans
+
+Resultat for skattekostnad -29 910 0
+
+Arsresultat -29 910 0
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -29 910 0
+
+Sum overferinger og
+
+disponeringer -29 910 0
+Utskriftsdato 04.06.2026 Organisasjonsnr 927 967 855 Side 1 av 3
+
+Organisasjonsnr: 927 967 855
+
+TMOWATT AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 524 973 527 281
+
+Andre fordringer 22 323 0
+
+Sum finansielle
+
+anleggsmidler 547 296 527 281
+
+Sum anleggsmidler 547 296 527 281
+
+Omlepsmidler
+
+Varer
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 5 435 30 360
+
+Sum bankinnskudd,
+
+kontanter og lignende 5 435 30 360
+
+Sum omlepsmidler 5 435 30 360
+
+SUM ELENDELER 552 731 557 641
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Annen innskutt egenkapital -5 570 -5 570
+
+Sum innskutt egenkapital 24 430 24 430
+
+Opptjent egenkapital
+
+Annen egenkapital 418 968 448 878
+
+Sum opptjent egenkapital 418 968 448 878
+
+Sum egenkapital 443 398 473 308
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 109 333 84 333
+
+Sum kortsiktig gjeld 109 333 84 333
+
+Sum gjeld 109 333 84 333
+Utskriftsdato 04.06.2026 Organisasjonsnr 927 967 855 Side 2 av 3
+
+SUM EGENKAPITAL OG GJELD 552 731 557 641
+Utskriftsdato 04.06.2026 Organisasjonsnr 927 967 855 Side 3 av 3
+
+Organisasjonsnr: 927 967 855
+
+TMOWATT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00

@@ -1,0 +1,357 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 372306
+Virksomheten
+Organisasjonsnummer : 936 285 589
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: HORST HOLDING AS
+Forretningsadresse: Vestveien 11
+3292 STAVERN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Sondre Wilhelm Horst
+Dato for fastsettelse av arsregnskapet: 13.01.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 11.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 936 285 589
+HORST HOLDING AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Kostnader
+Annen driftskostnad 2 6 512
+Sum kostnader 6 512
+Driftsresultat -6 512
+Netto finans
+Resultat for skattekostnad -6 512
+Arsresultat -6 512
+Overferinger og
+disponeringer
+Overferinger til/fra
+annen egenkapital 4 -6 512
+Sum overferinger og
+disponeringer -6 512
+Utskriftsdato 11.04.2026 Organisasjonsnr 936 285 589 Side 1 av 3
+
+Organisasjonsnr: 936 285 589
+HORST HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Finansielle anleggsmidler
+Investeringer 1
+tilknyttet selskap 5 10 000
+Lan til tilknyttet
+selskap og felles
+kontrollert virksomhet 1 000 000
+Sum finansielle
+anleggsmidler 1 010 000
+Sum anleggsmidler 1 010 000
+Omlepsmidler
+Varer
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 13 488
+Sum bankinnskudd,
+kontanter og lignende 13 488
+Sum omlepsmidler 13 488
+SUM EIENDELER 1 023 488
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 4, 6 30 000
+Annen innskutt egenkapital 0 0
+Sum innskutt egenkapital 30 000 0
+Opptjent egenkapital
+Annen egenkapital 4 -6 512
+Sum opptjent egenkapital -6 512
+Sum egenkapital 23 488 0
+Kortsiktig gjeld
+Annen kortsiktig gjeld 6 1 000 000
+Sum kortsiktig gjeld 1 000 000
+Utskriftsdato 11.04.2026 Organisasjonsnr 936 285 589 Side 2 av 3
+
+Sum gjeld 1 000 000
+SUM EGENKAPITAL OG GJELD 1 023 488 0
+Utskriftsdato 11.04.2026 Organisasjonsnr 936 285 589 Side 3 av 3
+
+Organisasjonsnr: 936 285 589
+
+HORST HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven 1998. Det er
+utarbeidet etter norske regnskapsstandarder. I utgangspunktet er det
+reglene for regnskapsoppstilling for sma foretak som er
+
+benyttet.
+
+Hovedregel for vurdering og klassifisering av eiendeler og
+
+gjeld.
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som
+anleggsmidler. Andre eiendeler er klassifisert som omle@psmidler. Fordringer
+som skal tilbakebetales innen et ar er uansett klassifisert som
+omlepsmidler. Ved klassifiseringen av kortsiktig og langsiktig gjeld er
+analoge kriterier lagt til grunn.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet
+forventes ikke a vere forbigaende. Anleggsmidler med begrenset skonomisk
+levetid avskrives planmessig. Langsiktig gjeld balansefores til nominelt
+mottatt belep pa etableringstidspunktet. Langsiktig gjeld oppskrives ikke
+til virkelig verdi som felge av renteendring.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt mottatt belgep pa etableringstidspunktet.
+Kortsiktig gjeld oppskrives ikke til virkelig verdi som falge av
+renteendring. Enkelte poster er vurdert etter andre regler, og redegjores
+for nedenfor.
+
+Varige driftsmidler
+
+Varige driftsmidler avskrives over
+
+forventet @konomisk levetid. Avskrivningene er som hovedregel fordelt
+lineert over antatt skonomisk levetid.
+
+Fordringer
+
+Kundefordringer og andre
+
+fordringer oppferes til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene. I tillegg gj@res det for a@vrige kundefordringer en
+uspesifisert avsetning for a dekke antatt tap.
+
+Skatter
+
+Skatter
+
+kostnadsfores nar de paleper, det vil si at skattekostnaden er knyttet til
+det regnskapsmessige resultat for skatt.
+
+Skattekostnaden bestar av
+
+betalbar skatt (skatt pa arets skattepliktige inntekt) og endring i netto
+utsatt skatt. Skattekostnaden fordeles pa ordinert resultat og resultat av
+ekstraordinere poster i henhold til skattegrunnlaget. Utsatt skatt og
+utsatt skattefordel er presentert netto i balansen.
+
+Note
+
+1
+
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Spesifisering av resultatregnskapet
+Lennkostnader
+
+Note
+
+3
+
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+Mer om lan og sikkerhetsstillelse
+
+Arsoppgjersrapport
+Horst Holding AS
+2025
+oo HorstHolding AS = Org-nr. 936285589 ss ti ( itsti‘—Ss~SCS
+Dokumentet er elektronisk signert
+
+Resultatregnskap
+
+Horst Holding AS
+Note 2025 2024
+Annen driftskostnad 2 6513 0
+Sum drifts kostnad 6513 0
+Driftsresultat 6 513 0
+Ordinzrt resultat for skattekostnad 6 513 0
+Ordinzert resultat 6 513 0
+Arsresultat 6513 0
+Overfert annen egenkapital 4 -6 513 0
+Sum dis ponert 6 513 0
+
+Horst Holding AS Org.nr. 936285589
+Dokumentet er elektronisk signert
+
+Balanse
+Horst Holding AS
+
+Note 2025 2024
+Eiendeler
+Anleggsmidler
+Immaterielle eiendeler
+Varige driftsmidler
+Finansielle anleggsmidler
+Investering i tilknyttet selskap 5 10 000 0
+Lan til tiknyttet selskap 1 000 000 0
+Sum finansielle anleggsmidler 1 010 000 0
+Sum anleggsmidler 1 010 000 0
+Omlgpsmidler
+Fordringer
+Investeringer
+Bankinnskudd, kontanter o.1. 13 488 0
+Sum omlgpsmidler 13 488 0
+Sum eiendeler 1 023 488 0
+
+Horst Holding AS Org.nr. 936285589
+Dokumentet er elektronisk signert
+
+Balanse
+Horst Holding AS
+
+Note 2025 2024
+Egenkapital og gjeld
+Egenkapital
+Inns kutt egenkapital
+Aksjekapital 4,6 30 000 0
+Sum inns kutt egenkapital 30 000 0
+Opptjent egenkapital
+Annen egenkapital 4 -6 513 0
+Sum opptjent egenkapital 6 513 0
+Sum egenkapital 23 488 0
+Gjeld
+Avsetning for forpliktelser
+Annen langsiktig gjeld
+Kortsiktig gjeld
+Annen kortsiktig gjeld 6 1 000 000 0
+Sum kortsiktig gjeld 1 000 000 0
+Sum gjeld 1 000 000 0
+Sum egenkapital og gjeld 1 023 488 0
+
+Larvik, 13.01.2025
+Styret for Horst Holding AS
+Sondre Wilhelm Horst
+Styrets leder
+Horst Holding AS Org.nr. 936285589
+Dokumentet er elektronisk signert
+
+Noter til arsregnskapet
+Note 1 Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Selskapet er stiftet 23.09.2025. Det foreligger derfor ingen sammenlignbare tall for tidligere perioder.
+Arsregnskapet omfatter perioden 23.09.2025 - 31.12.2025.
+Hovedregel for vurdering og klassifisering av eiendeler og gjeld
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer som skal tilbakebetales innen et ar er uansett klassifisert som omlgpsmidler. Ved
+klassifiseringen av kortsiktig og langsiktig gjeld er analoge kriterier lagt til grunn.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet forventes ikke a
+veere forbigdende. Anleggsmidler med begrenset gkonomisk levetid avskrives planmessig. Langsiktig gjeld
+balansef¢res til nominelt mottatt belgp pa etableringstidspunktet. Langsiktig gjeld oppskrives ikke til virkelig
+verdisom fglge av renteendring.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansef¢res til nominelt
+mottatt belgp pa etableringstidspunktet. Kortsiktig gjeld oppskrives ikke til virkelig verdi som fglge av
+renteendring. Enkelte poster er vurdert etter andre regler, og redegjgres for nedenfor.
+Varige driftsmidler
+Varige driftsmidler avskrives over forventet dkonomisk levetid. Avskrivningene er som hovedregel fordelt
+linezrt over antatt gdkonomisk levetid.
+Fordringer
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene. | tillegg gjgres det for
+gvrige kundefordringer en uspesifisert avsetning for 4 dekke antatt tap.
+Skatter
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reverseres i samme
+periode er utlignet og nettof¢grt.
+
+Dokumentet er elektronisk signert
+
+Note 2 Lénnskostnader, antall ansatte, godtgjgrelser m.m.
+Selskapet har ingen ansatte.
+Det er ikke utbetalt ytelser til ledende personer i 2025.
+Det er ikke gitt lan/sikkerhetsstillelser til styreleder eller andre nzerstaende personer.
+Note 3 Skatt
+Beregning av skattepliktig inntekt
+2025
+Resultat f¢r skatter -6 513
+Arets skattegrunnlag -6 513
+Skyldig betalbar skatt 0
+Spesifikasjoner av grunnlag utsatt skatt
+Forskjeller som utlignes
+2025
+Fremfgrbart underskudd -6 513
+Forskjeller som ikke inngar i utsatt skattefordel 6513
+Utsatt skatt balansefgrt 0
+Utsatt skattefordel balansefgres ikke iht. regnskapsreglene for sma foretak.
+Note 4 Egenkapital
+Aksjekapital Annen egenkapital Sum
+Stiftelse 23.09.25 30000 0 30000
+Arets resultat 0 6513 -6 513
+Egenkapital 31.12.25 30 000 -6513 23 488
+Note 5 Datterselskaper, tilknyttet selskaper mv.
+Anleggsmidler
+Kommune Balansefgrt _Eierandel Egenkapital Resultat
+verdi siste ar siste ar
+Hoved Eiendom AS Larvik 10 000 33,33% -90 700 -120 700
+Note 6 Aksjekapital og aksjonzrinformasjon
+Aksjekapitalen i selskapet pr 31.12 bestar av:
+Antall Palydende Balansefgrt
+Aksjer 100 300 30000
+Eierstruktur
+De stgrste aksjonzrene i selskapet pr. 31.12 var:
+Antall Eierandel Stemmeandel
+Sondre Wilhelm Horst {styrets leder) 100 100% 100%
+Selskapet har en gjeld til aksjonzer pa kr 1000 000.
+Dokumentet er elektronisk signert
+
+Arsregnskap 202...
+Name Date
+Horst, Sondre Wilhelm 2026-01-14
+Identification
+-== bankID Horst, Sondre Wilhelm
+_. This document contains electronic signatures using EU-compliant PAdES - PDF
+Signicat o |
+Advanced Electronic Signatures (Regulation (EU) No 910/2014 (elDAS))

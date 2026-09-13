@@ -1,0 +1,543 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 695467
+Virksomheten
+Organisasjonsnummer : 827 340 162
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NOVOOI AS
+Forretningsadresse: St. Halvards gate 33
+0192 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Peter Nyhus
+Dato for fastsettelse av arsregnskapet: 11.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 827 340 162
+
+NOVOOI AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 530 691 185 435
+
+Annen driftsinntekt 10 000 0
+
+Sum inntekter 540 691 185 435
+
+Kostnader
+
+Varekostnad 250 412 125 808
+
+Lennskostnad 3, 4 1 331 811 1 311
+
+Avskrivning pa varige
+
+driftsmidler 5 8 132 4 709
+
+Annen driftskostnad 1 145 363 621 850
+
+Sum kostnader 2 735 718 753 678
+
+Driftsresultat -2 195 027 -568 243
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 652 0
+
+Annen finansinntekt 22 1 512
+
+Sum finansinntekter 674 1 512
+
+Annen finanskostnad 3 226 1 246
+
+Sum finanskostnader 3 226 1 246
+
+Netto finans -2 552 266
+
+Resultat fer skattekostnad -2 197 579 -567 977
+
+Arsresultat -2 197 579 -567 977
+
+Arsresultat etter
+
+minoritetsinteresser -2 197 579 -567 977
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -2 197 579 -567 977
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -2 197 579 -569 389
+
+Overferinger til/fra
+
+annen egenkapital 0 1 412
+
+Sum overferinger og
+
+disponeringer -2 197 579 -567 977
+Utskriftsdato 20.07.2026 Organisasjonsnr 827 340 162 Side 1 av 3
+
+Organisasjonsnr: 827 340 162
+NOVOOI AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utvikling 5 845 813 0
+Sum immaterielle eiendeler 845 813 0
+Varige driftsmidler
+Maskiner og anlegg 5 3 924 8 633
+Driftslesere, inventar,
+verktay, kontormaskiner 5 72 743 0
+Sum varige driftsmidler 76 667 8 633
+Finansielle anleggsmidler
+Sum finansielle
+anleggsmidler 0 0
+Sum anleggsmidler 922 480 8 633
+Omlepsmidler
+Varer
+Varelager 100 005 0
+Sum varer 100 005 0
+Fordringer
+Kundefordringer 87 654 0
+Andre kortsiktige
+fordringer 105 269 17 314
+Sum fordringer 192 923 17 314
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 948 038 839 869
+Sum bankinnskudd,
+kontanter og lignende 948 038 839 869
+Sum omlepsmidler 1 240 966 857 183
+SUM ELENDELER 2 163 446 865 816
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 20.07.2026 Organisasjonsnr 827 340 162 Side 2 av 3
+
+Aksjekapital
+
+(selskapskapital) 37 618 33 356
+
+Overkurs 3 410 778 1 294 040
+
+Sum innskutt egenkapital 3 448 396 1 327 396
+
+Opptjent egenkapital
+
+@reavrunding -1
+
+Udekket tap 2 940 484 742 905
+
+Sum opptjent egenkapital -2 940 485 -742 905
+
+Sum egenkapital 507 911 584 491
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 995 000 0
+
+@vrig langsiktig gjeld 261 894 161 894
+
+Sum annen langsiktig gjeld 1 256 894 161 894
+
+Sum langsiktig gjeld 1 256 894 161 894
+
+Kortsiktig gjeld
+
+Leverandergjeld 170 786 74 734
+
+Skyldig offentlige avgifter 138 623 1
+
+Annen kortsiktig gjeld 89 232 44 696
+
+Sum kortsiktig gjeld 398 641 119 431
+
+Sum gjeld 1 655 535 281 325
+
+SUM EGENKAPITAL OG GJELD 2 163 446 865 816
+Utskriftsdato 20.07.2026 Organisasjonsnr 827 340 162 Side 3 av 3
+
+Organisasjonsnr: 827 340 162
+
+NOVOOI AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Selge varer og tjenester innen design og
+
+handverk - og annet som naturlig sammenfaller med dette - samt deltakelse i
+
+andre selskaper, investeringer og nerliggende virksomhet.
+Note
+2
+Ex det usikkerhet om fortsatt drift?: Nei
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre
+drift forutsetter at selskapet
+oppnar planlagt inntektsvekst og/eller
+tilfersel av finansiering. Arsregnskapet er avlagt under forutsetning
+om
+fortsatt drift, men det foreligger usikkerhet knyttet til om
+forutsetningene oppnas.
+Note
+3
+Antall Aarsverk i regnskapsaret
+2.00
+Note
+4
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+1142355.00 0.00
+Folketryqdavgift Arets Fjorarets
+163529.00 146.00
+Pensjonskostnader Arets Fjorarets
+21799.00 1165.00
+Andre ytelser Arets Fjorarets
+4128.00
+Sum lennskostnader Arets Fjorarets
+1331811.00 1311.00
+Note
+5
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+23545.00
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+76166.00 845813.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+99711.00 845813.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+
+23043 .00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+76667.00 845813.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+8132.00
+@konomisk levetid Immaterielle eiend.
+84 maneder
+Avskrivningsplan Immaterielle eiendeler
+Lineer
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjeop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap 2025
+Novooi AS
+(827 340 162)
+novool
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 530 691 185 435
+
+Annen driftsinntekt 10 000 (@)
+Sum driftsinntekter 540691 185 435
+Driftskostnader
+
+Varekostnad 250 412 125 808
+
+Lennskostnad 3,4 1 331 811 1311
+
+Avskrivning pa varige driftsmidler 5 8 132 4 709
+
+Annen driftskostnad 1145 363 621 850
+Sum driftskostnader 2 735 718 753 678
+Driftsresultat -2 195 027 -568 243
+Finansinntekter
+
+Annen renteinntekt 652 @)
+
+Annen finansinntekt 22 1512
+Sum finansinntekter 674 1512
+Finanskostnader
+
+Annen finanskostnad 3 226 1 246
+Sum finanskostnader 3 226 1 246
+Netto finans -2 552 266
+Resultat for skatt -2 197 579 -567 977
+Arsresultat -2197579 -567977
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 0 1412
+
+Udekket tap -2 197 579 -669 389
+Sum overferinger og disponeringer -2 197 579 -567 977
+
+Novooi AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Immaterielle eiendeler
+
+Utvikling 5 845 813 (@)
+Sum immaterielle eiendeler 845 813 0
+Varige driftsmidler
+
+Maskiner og anlegg 5 3924 8633
+
+Driftslosore, inventar, verktay, kontormaskiner 5 72 743 0
+Sum varige driftsmidler 76 667 8 633
+Sum anleggsmidler 922 480 8 633
+Omlepsmidler
+Varelager 100 005 0
+Fordringer
+
+Andre kortsiktige fordringer 105 269 17 314
+
+Kundefordringer 87 654 (@)
+Sum fordringer 192 923 17 314
+Bankinnskudd, kontanter o.l. 948 038 839 869
+Sum omlepsmidier 1 240 966 857 183
+Sum eiendeler 2163 446 865 816
+
+Novooi AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 37 618 33 356
+Overkurs 3 410778 1 294 040
+Sum innskutt egenkapital 3 448 396 1 327 396
+Opptjent egenkapital
+Annen egenkapital -1 0
+Udekket tap -2 940 484 -742 905
+Sum opptjent egenkapital -2 940 485 -742 905
+Sum egenkapital 507 911 584 491
+Gijeld
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner, langsiktig 995 000 @)
+@vrig langsiktig gjeld 261 894 161 894
+Sum annen langsiktig gjeld 1 256 894 161 894
+Kortsiktig gjeld
+Leverandergjeld 170 786 74734
+Skyldig offentlige avgifter 138 623 1
+Annen kortsiktig gjeld 89 232 44 696
+Sum kortsiktig gjeld 398 641 119 431
+Sum gjeld 1 655 535 281 325
+Sum egenkapital og gjeld 2163 446 865 816
+Novooi AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Selge varer og tjenester innen design og handverk - og annet som naturlig sammenfaller med
+dette - samt deltakelse i andre selskaper, investeringer og neerliggende virksomhet.
+Note 2: Usikkerhet rundt fortsatt drift
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre drift forutsetter at
+selskapet oppnar planlagt inntektsvekst og/eller tilforsel av finansiering. Arsregnskapet er
+avlagt under forutsetning om fortsatt drift, men det foreligger usikkerhet knyttet til om
+forutsetningene oppnas.
+Note 3: Arsverk
+Antall arsverk er 2.
+
+Novooi AS Arsregnskap Side 5 av 6
+
+Note 4: Lonnskostnader
+2025 2024
+Lenn 1142 355 0
+Arbeidsgiveravgift 163 529 146
+Pensjon 21 799 1165
+Andre ytelser 4128 @)
+Sum lonnskostnader 1 331 811 1311
+
+Note 5: Anleggsmidler
+Immaterielle
+Varige driftsmidler eiendeler
+Anskaffelseskost 01.01 23 545 fe)
++ Kjop og annen tilgang i ar 76 166 845 813
+- Salg og annen avgang i ar 0 @)
+= Anskaffelseskost 31. desember 99 711 845 813
+- Sum avskrivninger og nedskrivninger 23 043 0
+= Balansefort verdi per 31.12. 76 667 845 813
+Arets avskrivninger og nedskrivninger 8132 @)
+@konomisk levetid pa immaterielle eiendeler 84 maneder
+Avskrivningsplan pa immaterielle eiendeler Lineger
+Novooi AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Ingrid Folvik <ingrid folvik@atella.org>
+Elektronisk signering
+PETER TORGEIR NYLUND LENA AXELSSON
+29.12.1965 - Styreleder 14.05.1972 - Styremedlem
+Y) Signert Y) Signert
+07.07.2026 13:40 === bankID 18.07.2026 08:44 === bankID
+NILS-FREDRIK WINTHER-KALAND HELENE ANDERSEN
+06.05.1980 - Styremedlem 03.07.1972 - Styremediem
+Y) Signert Y) Signert
+04.07.2026 08:30 === bankID 18.07.2026 08:52 === bankID
+LILLIAN AYLA B ERSOY
+18.04.1983 - Daglig leder, Styremedlem
+Y) Signert
+18.07.2026 08:38 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 03.07.2026 23:13:46

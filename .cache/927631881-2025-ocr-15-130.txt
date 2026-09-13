@@ -1,0 +1,565 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 306514
+Enheten
+Organisasjonsnummer : 927 631 881
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: BUSKERUD EIENDOM AS
+Forretningsadresse: Funkeliaveien 4A
+3616 KONGSBERG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Wonmin Jeong
+Dato for fastsettelse av arsregnskapet: 09.02.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 10.02.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 927 631 881
+
+BUSKERUD EIENDOM AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 628 422 3 964 476
+
+Sum inntekter 1 628 422 3 964 476
+
+Kostnader
+
+Varekostnad 0 48 602
+
+Lennskostnad 2, 3 849 300 993 124
+
+Avskrivning pa varige
+
+driftsmidler 4 92 100 100 217
+
+Annen driftskostnad 970 856 1 753 350
+
+Sum kostnader 1 912 256 2 895 293
+
+Driftsresultat -283 834 1 069 183
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 0 340
+
+Sum finansinntekter e) 340
+
+Annen rentekostnad 3 428 11 278
+
+Sum finanskostnader 3 428 11 278
+
+Netto finans -3 428 -10 938
+
+Resultat fer skattekostnad -287 262 1 058 245
+
+Skattekostnad 232 620 1
+
+Arsresultat -519 882 1 058 244
+
+Arsresultat etter
+
+minoritetsinteresser -519 882 1 058 244
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -519 882 1 058 244
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -519 882 1 058 244
+
+Sum overferinger og
+
+disponeringer -519 882 1 058 244
+Utskriftsdato 10.02.2026 Organisasjonsnr 927 631 881 Side 1 av 3
+
+Organisasjonsnr: 927 631 881
+
+BUSKERUD EIENDOM AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner 4 248 517 532 783
+
+Sum varige driftsmidler 248 517 532 783
+
+Finansielle anleggsmidler
+
+Andre langsiktige
+
+fordringer 323 000 323 000
+
+Sum finansielle
+
+anleggsmidler 323 000 323 000
+
+Sum anleggsmidler 571 517 855 783
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Kundefordringer 203 425 75 420
+
+Andre kortsiktige
+
+fordringer 1 743 2 382
+
+Sum fordringer 205 168 77 802
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 265 212 546 537
+
+Sum bankinnskudd,
+
+kontanter og lignende 265 212 546 537
+
+Sum omlepsmidler 470 380 624 339
+
+SUM ELENDELER 1 041 897 1 480 123
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+Utskriftsdato 10.02.2026 Organisasjonsnr 927 631 881 Side 2 av 3
+
+Beholdning av egne aksjer 3 538 3 538
+
+Sum innskutt egenkapital 33 538 33 538
+
+Opptjent egenkapital
+
+Annen egenkapital 578 559 1 098 441
+
+Sum opptjent egenkapital 578 559 1 098 441
+
+Sum egenkapital 612 097 1 131 979
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 116 800 104 300
+
+Sum annen langsiktig gjeld 116 800 104 300
+
+Sum langsiktig gjeld 116 800 104 300
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 175 064 20 780
+
+Leverandergjeld 3 067 0
+
+Skyldig offentlige avgifter 51 314 141 185
+
+Annen kortsiktig gjeld 83 555 81 878
+
+Sum kortsiktig gjeld 313 000 243 844
+
+Sum gjeld 429 800 348 144
+
+SUM EGENKAPITAL OG GJELD 1 041 897 1 480 123
+Utskriftsdato 10.02.2026 Organisasjonsnr 927 631 881 Side 3 av 3
+
+Organisasjonsnr: 927 631 881
+
+BUSKERUD EIENDOM AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Kongsberg
+
+Virksomhetens art
+
+Radgivning, konsulenttjenester og andre
+
+produkter og tjenester til bedrifter og privatpersoner, samt delta i andre
+
+virksomheter og alt som star i naturlig forbindelse med dette.
+Note
+2
+Antall Aarsverk i regnskapsaret
+1.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+683480.00 819760.00
+Folketryqdavgift Arets Fjorarets
+112356.00 121422.00
+Pensjonskostnader Arets Fjorarets
+53464.00 46589.00
+Andre ytelser Arets Fjorarets
+5353.00
+Sum lennskostnader Arets Fjorarets
+849300.00 993124.00
+Note
+Ekstraordinere inntekter og kostnader
+Sum Belgp
+Note
+4
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+633000.00
+Avgang i aret Varige driftsmidler  Immaterielle eiend.
+230000.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+403000.00
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+154483.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+
+248517.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+92100.00
+Anskaffelseskost - balansefeorte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Note
+5
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregns kap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Ja
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger A
+falge unntaksregelen i regnskapslovens § 3-2 (3).
+Samlet belg@p - tilknyttet selskap Arets Fjorarets
+Samlet belep - foretak i samme konsern Arets Fjorarets
+Kortsiktig gjeld
+Samlet belap - foretak i samme konsern Arets Fjorarets
+Samlet belep - felles kontrollert virksomhet Arets Fjorarets
+Pantstillelse Belsp
+Note
+Fordringer
+
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+Mer om fordringer
+Note
+Virkelig verdi og resultatfert verdiendr. i perioden, finansielle instrumenter
+Mer om finansielle instrumenter
+Beskrivelse av finansielle derivater
+Beholdning av_egne aksjer Antall Palydende Andel av _aksjek.
+
+Arsregnskap 2025
+Buskerud Eiendom AS
+(927 631 881)
+Buskerud Eiendom AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 1628 422 3 964 476
+Sum driftsinntekter 1 628 422 3 964 476
+Driftskostnader
+
+Varekostnad @) 48 602
+
+Lo@nnskostnad 2,3 849 300 993 124
+
+Avskrivning pa varige driftsmidler 4 92 100 100 217
+
+Annen driftskostnad 970 856 1 753 350
+Sum driftskostnader 1 912 256 2 895 293
+Driftsresultat -283 834 1 069 183
+Finansinntekter
+
+Annen renteinntekt (@) 340
+Sum finansinntekter 0 340
+Finanskostnader
+
+Annen rentekostnad 3 428 11 278
+Sum finanskostnader 3 428 11 278
+Netto finans -3 428 -10 938
+Resultat for skatt -287 262 1 058 245
+Skattekostnad 232 620 1
+Arsresultat -519 882 1058 244
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital -519 882 1 058 244
+Sum overferinger og disponeringer -519 882 1 058 244
+
+Buskerud Eiendom AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Driftslos@re, inventar, verktay, kontormaskiner 4 248 517 532 783
+Sum varige driftsmidler 248 517 532 783
+Finansielle anieggsmidler
+
+Andre langsiktige fordringer 323 000 323 000
+Sum finansielle anleggsmidler 323 000 323 000
+Sum anleggsmidler 571 517 855 783
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 1743 2 382
+
+Kundefordringer 203 425 75 420
+Sum fordringer 205 168 77 802
+Bankinnskudd, kontanter o.l. 265 212 546 537
+Sum omlepsmidler 470 380 624 339
+Sum eiendeler 1 041 897 1 480122
+
+Buskerud Eiendom AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 30 000 30 000
+Beholdning av egne aksjer 3 538 3 538
+Sum innskutt egenkapital 33 538 33 538
+Opptjent egenkapital
+Annen egenkapital 578 559 1 098 441
+Sum opptjent egenkapital 578 559 1098 441
+Sum egenkapital 612 097 1131 979
+Gijeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 116 800 104 300
+Sum annen langsiktig gjeld 116 800 104 300
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner, kortsiktig 175 064 20 780
+Leverande@rgjeld 3 067 0
+Skyldig offentlige avgifter 61 314 141 185
+Annen kortsiktig gjeld 83 555 81 878
+Sum kortsiktig gjeld 313 000 243 844
+Sum gjeld 429 800 348 144
+Sum egenkapital og gjeld 1 041 897 1 480123
+Buskerud Eiendom AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Kongsberg
+Virksomhetens art
+Radgivning, konsulenttjenester og andre produkter og tjenester til bedrifter og privatpersoner,
+samt delta i andre virksomheter og alt som star i naturlig forbindelse med dette.
+Note 2: Arsverk
+Antall arsverk er 1.
+Note 3: Lonnskostnader
+
+2025 2024
+Lenn 683 480 819 760
+Arbeidsgiveravgift 112 356 121 422
+Pensjon 53 464 46 589
+Andre ytelser 0 5 353
+Sum lonnskostnader 849 300 993 124
+Buskerud Eiendom AS Arsregnskap Side 5 av 6
+
+Note 4: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 633 000
++ Kjap og annen tilgang i ar (@)
+- Salg og annen avgang i ar 230 000
+= Anskaffelseskost 31. desember 403 000
+- Sum avskrivninger og nedskrivninger 154 483
+= Balansefort verdi per 31.12. 248 517
+Arets avskrivninger og nedskrivninger 92 100
+Note 5: Konsern
+Virksomheten er et datterselskap. Virksomheten utarbeider ikke konsernregnskap, herunder
+konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger 4 falge
+unntaksregelen i regnskapslovens § 3-2 (3).
+Buskerud Eiendom AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Wonmin Jeong <wonmin.jjeong@norwaygogo.com>
+Elektronisk signering
+Wonmin Jeong (Styreleder, Daglig leder)
+05.01.1982
+© Signert
+09.02.2026 13:38 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 09.02.2026 13:38:12

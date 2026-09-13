@@ -1,0 +1,430 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 485918
+Virksomheten
+Organisasjonsnummer : 932 398 222
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: KOFATERM NORGE AS
+Forretningsadresse: Vestvang 8
+2022 GJERDRUM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Wiktor Arkadiusz Gil
+Dato for fastsettelse av arsregnskapet: 27.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 932 398 222
+
+KOFATERM NORGE AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 6 728 5 637
+
+Sum kostnader 6 728 5 637
+
+Driftsresultat -6 728 -5 637
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Annen finanskostnad 33 24
+
+Sum finanskostnader 33 24
+
+Netto finans -33 -24
+
+Resultat fer skattekostnad -6 761 -5 661
+
+Arsresultat -6 761 -5 661
+
+Arsresultat etter
+
+minoritetsinteresser -6 761 -5 661
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -6 761 -5 661
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -6 761 -5 661
+
+Sum overferinger og
+
+disponeringer -6 761 -5 661
+Utskriftsdato 28.05.2026 Organisasjonsnr 932 398 222 Side 1 av 3
+
+Organisasjonsnr: 932 398 222
+
+KOFATERM NORGE AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 10 549 17 296
+
+Sum bankinnskudd,
+
+kontanter og lignende 10 549 17 296
+
+Sum omlepsmidler 10 549 17 296
+
+SUM ELENDELER 10 549 17 296
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital -5 570 -5 570
+
+Sum innskutt egenkapital 24 430 24 430
+
+Opptjent egenkapital
+
+@reavrunding 1
+
+Udekket tap 13 977 7 216
+Utskriftsdato 28.05.2026 Organisasjonsnr 932 398 222 Side 2 av 3
+
+Sum opptjent egenkapital -13 977 -7 215
+
+Sum egenkapital 10 453 17 215
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 96 81
+
+Sum kortsiktig gjeld 96 81
+
+Sum gjeld 96 81
+
+SUM EGENKAPITAL OG GJELD 10 549 17 296
+Utskriftsdato 28.05.2026 Organisasjonsnr 932 398 222 Side 3 av 3
+
+Organisasjonsnr: 932 398 222
+
+KOFATERM NORGE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Jessheim
+
+Virksomhetens art
+
+Engroshandel: Kjap, salg, import,
+
+eksport og forvaltning av varer og tjenester, konsulenttjenester.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre
+drift forutsetter at selskapet
+
+oppnar planlagt inntektsvekst og/eller
+
+tilfersel av finansiering. Arsregnskapet er avlagt under forutsetning
+om
+
+fortsatt drift, men det foreligger usikkerhet knyttet til om
+forutsetningene oppnas.
+
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Kofaterm Norge AS
+(932 398 222)
+Kofaterm Norge AS Arsregnskap Side 1 av5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 6728 5 637
+Sum driftskostnader 6728 5 637
+Driftsresultat -6 728 -5 637
+Finanskostnader
+
+Annen finanskostnad 33 24
+Sum finanskostnader 33 24
+Netto finans -33 -24
+Resultat for skatt -6 761 -5 661
+Arsresultat 6761 -5661
+Overforinger og disponeringer
+
+Udekket tap -6 761 -5 661
+Sum overferinger og disponeringer -6 761 -5 661
+
+Kofaterm Norge AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 10 549 17 296
+Sum omlepsmidier 10549 17296
+Sum eiendeler 10549 17296
+Kofaterm Norge AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital -5 570 -§ 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+
+Annen egenkapital 0 1
+
+Udekket tap -13 977 -7 216
+Sum opptjent egenkapital -13 977 -7 215
+Sum egenkapital 10453 17215
+Gijeld
+Kortsiktig gjeld
+
+Leverandergjeld 96 81
+Sum kortsiktig gjeld 96 81
+Sum gjeld 96 81
+Sum egenkapital og gjeld 10549 17296
+
+Kofaterm Norge AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Jessheim
+Virksomhetens art
+Engroshandel: Kj@p, salg, import, eksport og forvaltning av varer og tjenester,
+konsulenttjenester.
+Note 2: Usikkerhet rundt fortsatt drift
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre drift forutsetter at
+selskapet oppnar planlagt inntektsvekst og/eller tilforsel av finansiering. Arsregnskapet er
+avlagt under forutsetning om fortsatt drift, men det foreligger usikkerhet knyttet til om
+forutsetningene oppnas.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Kofaterm Norge AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Wiktor Gil <salg@kofaterm.no>
+Elektronisk signering
+WIKTOR ARKADIUSZ GIL
+19.06.1986 - Styreleder
+Y) Signert
+27.05.2026 13:16
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 27.05.2026 13:15:26

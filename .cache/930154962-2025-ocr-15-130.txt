@@ -1,0 +1,494 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 449436
+Virksomheten
+Organisasjonsnummer : 930 154 962
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: MILARGO NORWAY HOLDING AS
+Forretningsadresse: Sognsveien 75F
+0855 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Gry Bruaas
+Dato for fastsettelse av Aarsregnskapet: 13.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 18.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 154 962
+
+MILARGO NORWAY HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 1
+
+Annen driftskostnad 24 734 22 027
+
+Sum kostnader 24 734 22 027
+
+Driftsresultat 2 -24 734 -22 027
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 2
+
+Sum finansinntekter 2
+
+Nedskrivning av andre
+
+finansielle anleggsmidler 25 200
+
+Annen rentekostnad 7
+
+Sum finanskostnader 25 207
+
+Netto finans 2 -25 207
+
+Resultat fer skattekostnad 2 -24 731 -47 234
+
+Arsresultat 3 -24 731 -47 234
+
+Arsresultat etter
+
+minoritetsinteresser -24 731 -47 234
+
+Totalresultat -24 731 -47 234
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -24 731 -47 234
+
+Sum overferinger og
+
+disponeringer 3 -24 731 -47 234
+Utskriftsdato 18.05.2026 Organisasjonsnr 930 154 962 Side 1 av 3
+
+Organisasjonsnr: 930 154 962
+
+MILARGO NORWAY HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 2
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 4 0
+
+Investering i annet
+
+foretak i samme konsern 4 30 000 4 800
+
+Lan til foretak i samme
+
+konsern 5 -25 200
+
+Sum finansielle
+
+anleggsmidler 4 800 4 800
+
+Sum anleggsmidler 4 800 4 800
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 5
+
+Andre kortsiktige
+
+fordringer 5
+
+Sum fordringer 5
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 857 5 463
+
+Sum bankinnskudd,
+
+kontanter og lignende 857 5 463
+
+Sum omlepsmidler 857 5 463
+
+SUM EIENDELER 5 657 10 263
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6 30 000 30 000
+
+Beholdning av egne aksjer 6
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 7
+
+Udekket tap 102 420 77 689
+Utskriftsdato 18.05.2026 Organisasjonsnr 930 154 962 Side 2 av 3
+
+Sum opptjent egenkapital -102 420 -77 689
+
+Sum egenkapital 3, 7 -72 420 -47 689
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 5
+
+@vrig langsiktig gjeld 5
+
+Kortsiktig gjeld
+
+Leverandergjeld 5 2 438
+
+Betalbar skatt 2
+
+Annen kortsiktig gjeld 5 75 639 57 952
+
+Sum kortsiktig gjeld 5 78 O77 57 952
+
+Sum gjeld 78 O77 57 952
+
+SUM EGENKAPITAL OG GJELD 5 657 10 263
+Utskriftsdato 18.05.2026 Organisasjonsnr 930 154 962 Side 3 av 3
+
+Organisasjonsnr: 930 154 962
+
+MILARGO NORWAY HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+
+for Milargo Norway Holding AS
+Resultatregnskap
+
+Balanse
+
+Noter til regnskapet
+
+Utarbeidet av:
+
+ecit
+
+Resultatregnskap
+Milargo Norway Holding AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen ariftskostnad 24 734 22 027
+Sum driftskostnader 24 734 22 027
+Driftsresultat 2 -24 734 -22 027
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 2 0)
+Nedskrivning av anare finansielle anleggsmidler 0 25 200
+Annen rentekostnad 0 7
+Resultat av finansposter 2 -25 207
+Resultat for skattekostnad 2 -24 73] -47 234
+Resultat 2 -24 731 -47 234
+Arsresultat 3 -24 731 -47 234
+Overforinger
+
+Overfert til udekket tap 24 731 47 234
+Sum overferinger 3 -24 731 -47 234
+Milargo Norway Holding AS Side 2
+
+Balanse
+Milargo Norway Holding AS
+
+Eiendeler Note 2025 2024
+Anleggsmidler
+
+Finansielle anleggsmidler
+
+Investeringer i annet foretak i samme konsern 4 30 000 4 800
+Lan til foretak isamme konsern 5 -25 200 0)
+Sum finansielle anleggsmidler 4 800 4 800
+Sum anleggsmidler 4 800 4 800
+Omlgpsmidler
+
+Bankinnskudd, kontanter o.I. 857 5 463
+Sum omlgpsmidler 857 5 463
+Sum eiendeler 5 657 10 263
+Milargo Norway Holding AS Side 3
+
+Balanse
+Milargo Norway Holding AS
+
+Egenkapital og gjeld Note 2025 2024
+Innskutt egenkapital
+Aksjekapital 6 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Udekket tap -102 420 -77 689
+Sum opptjent egenkapital -102 420 -77 689
+Sum egenkapital 3,7 -72 420 -47 689
+Gjeld
+Kortsiktig gjeld
+Leverandergjeld 5 2 438 0
+Annen kortsiktig gjeld 5 75 639 57 952
+Sum kortsiktig gjeld 5 78 077 57 952
+Sum gjeld 78 077 57 952
+Sum egenkapital og gjeld 5 657 10 263
+
+13.05.2026
+
+Styret i Milargo Norway Holding AS
+
+Gry Bruaas
+
+styreleder
+Milargo Norway Holding AS Side 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk.
+
+Inntekter
+
+Inntektsfering ved salg av varer skjer pd leveringstidspunktet. Tienester inntektsferes etter
+hvert som de leveres. Inntekter fra salg av tjenester og langsiktige tilvirkingsprosjekter
+(anleggskontrakter) resultatfares i takt med prosjektets fullferingsgrad, nar utfallet av
+transaksjonen kan estimeres pd en pdalitelig mate. Nar transaksjonens utfall ikke kan
+estimeres pdlitelig, vil kun inntekter tilsvarende pdlepte prosjektkostnader inntektsfgres. |
+den perioden det blir identifisert at et prosjekt vil gi et negativt resultat, vil det estimerte
+tapet pa kontrakten bli resultatfart i sin helhet.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bdde periodens betalbare skatt og endring
+i utsatt skatt. Utsatt skatt er beregnet med 22 % pad grunniag av de midlertidige forskjeller
+som eksisterer mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig
+underskudd til fremfering ved utgangen av regnskapsdaret. Skattewkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan reverseres i samme
+periode er utlignet og nettofert. Netto utsatt skattefordel balanseferes i den grad det er
+sannsynlig at denne kan bili utnyttet.
+
+Klassifisering og vurdering av omlapsmidler
+
+Omlepsmidlier og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett
+ar etter balansedagen, samt poster som knytter seg til varekretsiopet. Omlapsmidier
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balanseferes Til
+nominelt belap pa transaksjonstidspunktet.
+
+Datterselskap og tilknyttet selskap
+
+Datterselskap og tilknyttede selskaper vurderes etter kostmetoden i selskapsregnskapet.
+Investeringen er vurdert til anskaffelseskost for aksjene med mindre nedskrivning har vcert
+nedvendig. Det er foretatt nedskrivning til virkelig verdi nar verdifall skyldes Grsaker som
+ikke kan forventes 4 vcere forbigadende og det ma anses nedvendig etter god
+regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke lenger er til
+stede.
+
+Utbytte, konsernbidrag og andre utdelinger fra datterselskap er inntektsfart samme ar som
+det er avsatti givers regnskap. Overstiger utbytte / konsernbidraget andelen av opptjent
+resultat etter anskaffelsestidspunktet, representerer den overskytende del tilbakebetaling
+av investert kapital, og utdelingene er fratrukket investeringens verdi i balansen Til
+morselskapet.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til
+forventet tap. Avsetning til tap gj@res pd grunniag av én individuell vurdering av de
+enkelte fordringene. For avrige kundefordringer utferes en uspesifisert avsetning for a
+dekke forventet tap pd krav.
+
+Kortsiktige plasseringer
+
+Kortsiktige plasseringer (aksjer og andeler vurdert som omle@epsmidler} vurderes til laveste av
+anskaffelseskost og virkelig verdi pa balansedagen. Mottatt utbytte og andre utdelinger
+fra selskapene inntektsferes som annen finansinntekt.
+
+Note 1 Lannskostnader og antall arsverk
+Lannskostnader
+2025 2024
+sum 0 0
+Selskapet har i 2025 sysselsatt 0 Grsverk. Selskapet har ikke hatt ansatte i regnskapsdret
+2024 og det er ikke Utbetalt lann, honorar eller annen godtgjgrelse.
+Note 2 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pd ordincert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 )
+Skattekostnad ordincert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -24 73] -47 234
+Permanente forskjeller 0 25 200
+Skattepliktig inntekt -24 731 -22 034
+Betalbar skatt i balansen:
+Betalbar skatt pd drets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfering som har gitt opphav
+til utsatt skatt og utsatte skattefordeler, spesifisert pd typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremf@rbart underskudd -77 220 -52 489 24 73)
+Inngar ikke i beregningen av utsatt skatt 77 220 52 489 -24 73]
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansef@res ikke Utsatt skattefordel.
+Note 3 Egenkapital
+Aksjekapital Udekket tap Annen Sum
+egenkapital egenkapital
+Pr. 31.12.2024 30 000 -77 689 0 -47 689
+Arets resultat -24 731 -24 73]
+Pr 31.12.2025 30 000 -102 420 0 -72 420
+
+Note 4 Datterselskap
+Milargo Norway Holding AS eier 100% av aksjene i Eladmys Travel Norway AS, som gir
+Milargo Norway Holding AS 100 % av stemmene i selskapet. Eldmys Travel Norway AS har
+forretningskontor i Sognsveien 75F , 0855 Oslo ,Norge. Arsresultatet for perioden
+01.07.2023 - 30.06.2025 var pd kr. -2 105 117. Balansefart egenkapital var pr. 30.06.2025 kr.
+-5 937 595.
+Note 5 Mellomvcerende med selskap i samme konsern
+2025 2024
+Fordringer
+Lan til foretak i samme konsern -25 200 0
+sum -25 200 0
+Per 31.12.2025 har selskapet gjeld til ncerstaende parter bestGende av NOK 31 247 til
+Elamys Travel Norway AS og NOK 44 393 til morselskapet El4mys Management Oy. Lanene
+errentefrie og er klassifisert som kortsiktig gjeld.
+Note 6 Aksjoncerer
+Aksjekapitalen i Milargo Norway Holding AS pr. 31.12 bestar av:
+Antall Palydende Bokfart
+Ordinaere aksjer 3 000 10,0 30 000
+sum 3 000 30 000
+Eierstruktur
+De sterste aksjoncerene i % pr. 31.12 var:
+Ordincre Eierandel
+El4mys Management Oy 3 000 100,0
+Note 7 Fortsatt drift
+Selskapets egenkapital per 2025 er negativ med NOK 72 420, og er dermed tapt. |
+henhold til aksjeloven § 3-5 har styret en handleplikt nar det mad antas at egenkapitalen er
+lavere enn forsvarlig ut fra risikoen ved og omfanget?t av virksomheten.
+Regnskapet er likevel utarbeidet under forutsetning om fortsatt drift, da styret vurderer det
+som realistisk G glennomfere nedvendige tiltak for G sikre videre drift.
+
+Arsregnskap 2025
+
+for Milargo Norway Holding AS
+Resultatregnskap
+
+Balanse
+
+Noter til regnskapet
+
+Utarbeidet av:
+
+ecit
+
+Resultatregnskap
+Milargo Norway Holding AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen ariftskostnad 24 734 22 027
+Sum driftskostnader 24 734 22 027
+Driftsresultat 2 -24 734 -22 027
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 2 0)
+Nedskrivning av anare finansielle anleggsmidler 0 25 200
+Annen rentekostnad 0 7
+Resultat av finansposter 2 -25 207
+Resultat for skattekostnad 2 -24 73] -47 234
+Resultat 2 -24 731 -47 234
+Arsresultat 3 -24 731 -47 234
+Overforinger
+
+Overfert til udekket tap 24 731 47 234
+Sum overferinger 3 -24 731 -47 234
+Milargo Norway Holding AS Side 2
+
+Balanse
+Milargo Norway Holding AS
+
+Eiendeler Note 2025 2024
+Anleggsmidler
+
+Finansielle anleggsmidler
+
+Investeringer i annet foretak i samme konsern 4 30 000 4 800
+Lan til foretak isamme konsern 5 -25 200 0)
+Sum finansielle anleggsmidler 4 800 4 800
+Sum anleggsmidler 4 800 4 800
+Omlgpsmidler
+
+Bankinnskudd, kontanter o.I. 857 5 463
+Sum omlgpsmidler 857 5 463
+Sum eiendeler 5 657 10 263
+Milargo Norway Holding AS Side 3

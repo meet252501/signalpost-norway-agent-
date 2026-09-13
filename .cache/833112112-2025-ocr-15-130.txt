@@ -1,0 +1,397 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 630056
+Virksomheten
+Organisasjonsnummer : 833 112 112
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SYNERGY INVEST AS
+Forretningsadresse: John Colletts allé 109
+0870 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Johanness Nevdal
+Dato for fastsettelse av Aarsregnskapet: 08.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 833 112 112
+
+SYNERGY INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 2 16 426 5 791
+
+Sum kostnader 16 426 5 791
+
+Driftsresultat -16 426 -5 791
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+annet foretak i samme
+
+konsern 3 1 500 000 1 100 000
+
+Annen renteinntekt 9 214
+
+Sum finansinntekter 1 509 214 1 100 000
+
+Netto finans 1 509 214 1 100 000
+
+Resultat fer skattekostnad 1 492 788 1 094 209
+
+Skattekostnad pa resultat 4
+
+Arsresultat 5 1 492 788 1 094 209
+
+Arsresultat etter
+
+minoritetsinteresser 1 492 788 1 094 209
+
+Totalresultat 1 492 788 1 094 209
+
+Overfoeringer og
+
+disponeringer
+
+Ordinert utbytte 400 000 400 000
+
+Avsatt til annen
+
+egenkapital 1 092 788 694 209
+
+Sum overferinger og
+
+disponeringer 1 492 788 1 094 209
+Utskriftsdato 02.07.2026 Organisasjonsnr 833 112 112 Side 1 av 3
+
+Organisasjonsnr: 833 112 112
+
+SYNERGY INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 3 30 000 30 000
+
+Investeringer i aksjer og
+
+andeler 1 000 000
+
+Sum finansielle
+
+anleggsmidler 1 030 000 30 000
+
+Sum anleggsmidler 1 030 000 30 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Konsernfordringer 3 1 500 000 1 938 810
+
+Sum fordringer 1 500 000 1 938 810
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 597 108 4 209
+
+Sum bankinnskudd,
+
+kontanter og lignende 597 108 4 209
+
+Sum omlepsmidler 2 097 108 1 943 019
+
+SUM ELENDELER 3 127 108 1 973 019
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6 70 000 70 000
+
+Beholdning av egne aksjer 6
+
+Overkurs 808 810 808 810
+
+Sum innskutt egenkapital 878 810 878 810
+
+Opptjent egenkapital
+
+Annen egenkapital 1 786 997 694 209
+
+Sum opptjent egenkapital 1 786 997 694 209
+
+Sum egenkapital 5 2 665 807 1 573 019
+Utskriftsdato 02.07.2026 Organisasjonsnr 833 112 112 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Leverandergjeld 2 938
+
+Betalbar skatt 4
+
+Utbytte 400 000 400 000
+
+Kortsiktig konserngjeld 3 58 363
+
+Sum kortsiktig gjeld 461 301 400 000
+
+Sum gjeld 461 301 400 000
+
+SUM EGENKAPITAL OG GJELD 3 127 108 1 973 019
+Utskriftsdato 02.07.2026 Organisasjonsnr 833 112 112 Side 3 av 3
+
+Organisasjonsnr: 833 112 112
+
+SYNERGY INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Synergy Invest AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 833 112 112
+
+SYNERGY INVEST AS |
+RESULTATREGNSKAP
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 2 16 426 5791
+Sum driftskostnader 16 426 5791
+Driftsresultat -16 426 -5 791
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Inntekt pa investering i annet foretak i samme konsern 3 1 500 000 1 100 000
+Annen renteinntekt 9214 0
+Resultat av finansposter 1509 214 1 100 000
+Resultat for skattekostnad 1 492 788 1 094 209
+Skattekostnad pa resultat 4 0 0
+Arsresultat 5 1 492 788 1 094 209
+OVERF@RINGER
+
+Avsatt til utbytte 400 000 400 000
+Avsatt til annen egenkapital 1092 788 694 209
+Sum overfgringer 1 492 788 1 094 209
+SYNERGY INVEST AS SIDE 2
+
+SYNERGY INVEST AS |
+BALANSE
+
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i datterselskap 3 30 000 30 000
+Investeringer i aksjer og andeler 1 000 000 0
+Sum finansielle anleggsmidler 1 030 000 30 000
+Sum anleggsmidler 1 030 000 30 000
+OML@PSMIDLER
+FORDRINGER
+Konsernfordringer 3 1 500 000 1 938 810
+Sum fordringer 1 500 000 1 938 810
+Bankinnskudd, kontanter o.|. 597 108 4 209
+Sum omlgpsmidler 2 097 108 1 943 019
+Sum eiendeler 3 127 108 1 973 019
+SYNERGY INVEST AS SIDE 3
+
+SYNERGY INVEST AS |
+BALANSE
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 6 70 000 70 000
+Overkurs 808 810 808 810
+Sum innskutt egenkapital 878 810 878 810
+OPPTJENT EGENKAPITAL
+Annen egenkapital 1 786 997 694 209
+Sum opptjent egenkapital 1 786 997 694 209
+Sum egenkapital 5 2 665 807 1573 019
+GJELD
+KORTSIKTIG GJELD
+Leverandgrgjeld 2 938 0
+Utbytte 400 000 400 000
+Konserngjeld 3 58 363 0
+Sum kortsiktig gjeld 461 301 400 000
+Sum gjeld 461 301 400 000
+Sum egenkapital og gjeld 3 127 108 1 973 019
+Oslo, 08.06.2026
+Styret i Synergy Invest AS
+Johanness Nzevdal Ulla Balling Nzevdal
+styreleder styremediem
+SYNERGY INVEST AS SIDE 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Selskapet ble stiftet 4. mars 2024. Sammenlignbare tall i resultatregnskapet omfatter perioden 4. mars til
+31. desember 2024.
+
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapsarets slutt.
+
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+AKSJER | DATTERSELSKAP
+
+Investeringer i datterselskap er vurdert etter kostmetoden ettersom konsernet samlet ikke overstiger
+grensen for sma foretak.
+
+ANDRE ANLEGGSINVESTERINGER
+
+Andre anleggsinvesteringer balansefgres til anskaffelseskost. Investeringene blir nedskrevet til virkelig
+verdi dersom verdifallet ikke er forbigaende.
+
+Note 1 Virksomhetens art og lokalisering
+
+Synergy Invest AS er et selskap der virksomheten omfatter investering i eiendom, aksjer, samt tjenester
+innen trening og helse. Selskapet er lokalisert i Oslo kommune.
+
+Note 2 Lénnskostnader
+
+Synergy Invest AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+
+Note 3 Aksjer i datterselskap
+Eierandel Anskaffelses-kost Balansefgrt
+verdi
+Anleggsmidler
+Synegytrening AS 100% 30 000 30 000
+Sum 100 30 000 30 000
+Synergytrening AS har forretningskommune i Oslo. Resultat for 2025 er kr 1 529 694. Egenkapital 31.
+desember 2025 er kr 115 810.
+Synergy Invest AS har en fordring pa datterselskapet Synergytrening AS pa kr 1 500 000.
+Belgpet inkluderer inntektsfgrt utbytte med kr 1 500 000. | tillegg er det gjeld pa kr 58 363.
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat far skatt 1 492 788 1 094 209
+Permanente forskjeller -1 500 000 -1 100 000
+Skattepliktig inntekt -7 212 -5 791
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -13 003 -5791 7212
+Inngar ikke i beregningen av utsatt skatt 13 003 5791 -7 212
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+
+Note 5 Egenkapital
+Aksjekapital Overkurs Annen Sum
+egenkapital egenkapital
+Pr. 31.12.2024 70 000 808 810 694 209 1573 019
+Arets resultat 1 492 788 1 492 788
+Utbytte -400 000 -400 000
+Pr 31.12.2025 70 000 808 810 1 786 997 2 665 807
+Note 6 Aksjonzrer
+AKSJEKAPITALEN | SYNERGY INVEST AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfgrt
+Ordinzre aksjer 400 175,0 70 000
+Sum 400 70 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+Ordinzere Eierandel Stemmeandel
+Johanness Neevdal 200 50,0 50,0
+Ulla Balling Nzevdal 200 50,0 50,0
+Totalt antall aksjer 400 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Ver Ordinzere
+Johanness Nzevdal styreleder 200
+Ulla Balling Nzevdal styremedlem 200
+Totalt antall aksjer 400

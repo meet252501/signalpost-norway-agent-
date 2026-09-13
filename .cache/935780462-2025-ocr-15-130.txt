@@ -1,0 +1,246 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 453029
+Virksomheten
+Organisasjonsnummer : 935 780 462
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: KAGAFLOW AS
+Forretningsadresse: Marie Michelets veg 6
+7045 TRONDHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kristen Wagelid Jomas
+Dato for fastsettelse av arsregnskapet: 18.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 19.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 935 780 462
+
+KAGAFLOW AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Ingen 0
+
+Sum inntekter 0
+
+Kostnader
+
+Administrative 6 500
+
+Sum kostnader 6 500
+
+Driftsresultat -6 500
+
+Bankkostnad 1 335
+
+Sum finanskostnader 1 335
+
+Netto finans -1 335
+
+Resultat fer skattekostnad -7 835
+
+Skattekostnad 0
+
+Arsresultat -7 835
+
+Overferinger og
+
+disponeringer
+
+Arsresultat til EK -7 835
+
+Sum overferinger og
+
+disponeringer -7 835
+Utskriftsdato 19.05.2026 Organisasjonsnr 935 780 462 Side 1 av 2
+
+Organisasjonsnr: 935 780 462
+
+KAGAFLOW AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Aksjer i Leypha AS 4 10 000
+
+Sum finansielle
+
+anleggsmidler 10 000
+
+Sum anleggsmidler 10 000
+
+Omlepsmidler
+
+Varer
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd 12 165
+
+Sum bankinnskudd,
+
+kontanter og lignende 12 165
+
+Sum omlepsmidler 12 165
+
+SUM EIENDELER 22 165
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Stiftelse 3 30 000
+
+Sum innskutt egenkapital 30 000
+
+Opptjent egenkapital
+
+Udekket tap 7 835
+
+Sum opptjent egenkapital -7 835
+
+Sum egenkapital 22 165
+
+Sum gjeld
+
+SUM EGENKAPITAL OG GJELD 22 165
+Utskriftsdato 19.05.2026 Organisasjonsnr 935 780 462 Side 2 av 2
+
+Organisasjonsnr: 935 780 462
+
+KAGAFLOW AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk
+for sma foretak. Aksjer i andre selskaper er vurdert til anskaffelseskost.
+Kostnader resultatfores i den perioden de paloper.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Kons ernregns kap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Nei
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+
+Resultatregnskap 2025
+
+id _beskrivelse 2024 2025
+CO
+Cs
+
+Balanse 2025
+beskrivelse 2024 2025
+ee
+
+Noter
+
+Microsoft Word - NRS 8 God regnskapsskikk for sma foretak 2025 desember
+
+Note 1 -Regnskapsprinsipper
+
+Arsregnska pet er satt opp i samsvar med regnskapsloven og god
+
+regnskapsskikk for sma foretak. Aksjer i andre selskaper er vurdert til
+
+anskaffelseskost. Kostnader resultatfgres i den perioden de palaper.
+
+Note 2 -L@nn og ansatte
+
+Selskapet har ikke hatt ansatte i regnskapsaret og har ikke utbetalt
+
+lgnn eller godtgjgrelse til styret eller daglig leder.
+
+Note 3 -Aksjekapital og aksjonzerinformasjon
+
+Selskapets aksjekapital er kr 30 000 fordelt pa 30 000 aksjer a kr 1.
+
+Aksjoneer Antall aksje Eierandel
+Kristen Wagelid Jomas 30 000 100 %
+Note 4 - Finansielle anleggsmidler
+
+Selskapet eier aksjer i Leypha AS bokfert til anskaffelseskost.
+
+Investering Bokfert verdi
+
+Aksjer i Leypha AS 10 000 kr
+
+Note 5
+
+Arsregnska pet er avlagt under forutsetning om fortsatt drift.
+Forutsetningen anses a vere til stede.
+
+Trondheim, 18.05.2026
+
+Maske Whe, elk omors
+
+Kristen Wagelid Jomas
+
+Daglig leder og styreleder

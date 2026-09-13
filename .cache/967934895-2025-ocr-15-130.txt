@@ -1,0 +1,423 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 613134
+Virksomheten
+Organisasjonsnummer : 967 934 895
+Organisasjonsform: Stiftelse
+Foretaksnawn: STIFTELSEN BR@VIG GARD
+AKTIVITETSHUS
+Forretningsadresse: Radhusgata 14
+4611 KRISTIANSAND 5S
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Nancy Ore Johansen
+Dato for fastsettelse av Aarsregnskapet: 15.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 14.07.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 967 934 895
+
+STIFTELSEN BR@VIG GARD
+
+AKTIVITETSHUS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 1 153 901 142 730
+
+Sum inntekter 153 901 142 730
+
+Lennskostnad 3,4 33 148 1 630
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 8 764 8 852
+
+Annen driftskostnad 2,5,6 121 307 121 364
+
+Driftsresultat -9 318 10 884
+
+Annen finansinntekt 462 556
+
+Annen finanskostnad 0 1 965
+
+Netto finans
+
+Arsresultat 7 -8 856 9 475
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 8 8 856 -9 475
+
+Sum overferinger og
+
+disponeringer 8 856 -9 475
+Utskriftsdato 14.07.2026 Organisasjonsnr 967 934 895 Side 1 av 2
+
+Organisasjonsnr: 967 934 895
+
+STIFTELSEN BR@VIG GARD
+
+AKTIVITETSHUS
+
+BALANSE
+
+Belop i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Tomter, bygninger og
+
+annen fast eiendom 1 053 723 1 062 487
+
+Sum anleggsmidler 1 053 723 1 062 487
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Sum fordringer 8 832 36 893
+
+Bankinnskudd, kontanter
+
+og lignende 35 859 38 038
+
+Sum omlepsmidler 7 44 691 74 931
+
+SUM ELENDELER 1 098 415 1137 418
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Sum innskutt egenkapital 250 000 250 000
+
+Opptjent egenkapital
+
+Sum opptjent egenkapital 832 395 841 251
+
+Sum egenkapital 8 1 082 396 1 091 251
+
+Kortsiktig gjeld
+
+Leverandergjeld 12 669 45 162
+
+Skyldige offentlige
+
+avgifter 966 826
+
+Annen kortsiktig gjeld 2 384 179
+
+Sum kortsiktig gjeld 7 16 019 46 167
+
+Sum gjeld 16 019 46 167
+
+SUM EGENKAPITAL OG GJELD 1 098 415 1137 418
+Utskriftsdato 14.07.2026 Organisasjonsnr 967 934 895 Side 2 av 2
+
+Organisasjonsnr: 967 934 895
+
+STIFTELSEN BR@VIG GARD
+
+AKTIVITETSHUS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+4
+
+Antall Aarsverk i regnskapsaret
+
+0.01
+
+Resultatrapport klient 130 Stiftelsen Brovig Gard Aktivitetshus
+Note Regnskap Regnskap Budsjett Budsjett
+2025 2024 2025 2026
+Inntekter
+Leieinntekt lokaler 89 600 87 600 87 600 89 100
+Andre leieinntekter 35 200 37 200 54 420 40 000
+Andre driftsinntekter 4 29 101 17 930 0 0
+Sum inntekter 153 901 142 730 142 020 129 100
+Driftskostnader
+Revisjonshonorar 2 10 875 10 375 11 000 8 700
+Styrehonorar 3 10 000 0 10 000 10 000
+Forretningsfgrerhonorar 15416 13 229 14 000 14 000
+Lenn 4 19 052 1 429 0 12 000
+Arbeidsgiveravgift/ sos. kost. 4 4 096 201 1 410 3 102
+Vedlikehold/serviceavtaler 5 19 927 15 846 11015 2 598
+Forsikring 196 3 307 215 200
+Kommunale avgifter 7 736 7 942 8 000 7 400
+Stram 21 795 24 887 34 000 25 000
+Renhold, fellesareal 3 369 816 1 000 3 000
+Verktey, driftsmatriell, inventar 2 485 0 1 000 1500
+Andre driftsutgifter 6 39 508 44 962 50 380 41 600
+Avskrivninger 8 764 8 852 0 0
+Sum driftskostnader 163 219 131 846 142 020 129 100
+Driftsresultat -9 318 10 884 0 0
+Finansinntekt- og kostnad
+Renteinntekter 462 556 0 0
+Rentekostnad 0 1 965 0 0
+Resultat av finansinntekt- og kostnad 462 -1 409 0 0
+Arsresultat 7 -8 856 9 475 0 0
+Disponering av resultat
+Overfgring til opptjent egenkapital 8 8 856 -9 475 0 0
+Sum disponering av resultat 8 856 -9 475 0 0
+Stiftelsen Brovig Gard Aktivitetshus
+
+Balanserapport klient 130 Stiftelsen Brovig Gard Aktivitetshus
+Note Beholdning Beholdning
+pr. 31.12.25 pr. 01.01.2025
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Tomter 186 132 186 132
+Bygninger 867 591 876 355
+Finansielle anleggsmidler
+Sum anleggsmidler 1 053 723 1 062 487
+Omlepsmidler
+Fordringer
+Restanser felleskostnader 944 0
+Andre fordringer 7 888 36 893
+Bankinnskudd og kontanter
+Innestaende pa driftskonto 35 701 37 413
+Skattetrekkskonto, bundne midler 158 625
+Sum omlapsmidler 7 44691 74931
+SUM EIENDELER 1 098 415 1137 418
+Stiftelsen Brovig Gard Aktivitetshus
+
+Balanserapport klient 130 Stiftelsen Brovig Gard Aktivitetshus
+Note Beholdning Beholdning
+pr. 31.12.25 pr. 01.01.2025
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital 250 000 250 000
+Opptjent egenkapital -1 758 749 -1 758 749
+Innskuddskapital 2 600 000 2 600 000
+Arets resultat -8 856 )
+Sum egenkapital 8 1 082 396 1091 251
+Gjeld
+Langsiktig gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 12 669 45 162
+Skyldig off. myndigheter 966 826
+Palgpt lgnn, honorarer og feriepenger 2 384 179
+Sum kortsiktig gjeld 7 16019 46 167
+Sum gjeld 16 019 46 167
+SUM EGENKAPITAL OG GJELD 1 098 415 1137 418
+Stiftelsen Brevig Gard Aktivitetshus
+10.04.2026
+(Signert elektronisk)
+Liv Britt Kalseth Terje Brendengen Nancy Ore Johansen
+Styreleder Styremediem Styremediem
+Stiftelsen Brovig Gard Aktivitetshus
+
+Noter 2025
+Note 0 - Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk. Unntaksregler som gjelder for sma foretak er anvendt der annet
+ikke er angitt i regnskapsprinsipper.
+Inntekter
+Inntekter inntektsfgres etter hvert som de er opptjent.
+Klassifisering og vurdering av balanseposter
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som oml@psmidler. Klassifisering av kortsiktig og
+langsiktig gjeld er basert pa nedbetalingstid. Kortsiktig gjeld forutsettes innfridd i lopet av et ar. @vrig gjeld er langsiktig gjeld. Anleggsmidler vurderes til
+anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet ikke forventes 4 vaere forbigaende. Reversering av tidligere nedskrivninger foretas dersom
+grunnlag for opprinnelig nedskrivning ikke lenger er tilstede.
+Langsiktig gjeld bokfgres til nominelt mottatt belep pa etableringstidspunktet. Langsiktig gjeld oppskrives ikke til virkelig verdi som felge av renteendringer.
+Omlgpsmidler vurderes til laveste verdi av anskaffelsesverdi og virkelig verdi.
+Kortsiktig gjeld balansefgres til nominelt mottatt belep pa etableringstidspunktet.
+Kundefordringer og andre fordringer feres opp i balansen til palydende etter fradrag for avsetning til paregnelig tap. Avsetning til paregnelig tap gjeres pa
+grunnlag av en individuell vurdering av de enkelte fordringene. | tillegg gjgres det for gvrige kundefordringer en uspesifisert avsetning for a dekke antatt tap.
+Andre fordringer er ogsa gjenstand for en tilsvarende vurdering.
+Note 1 - Andre driftsinntekter
+Kr. 944,- gjelder stramforbruk av Frise@rsalong
+Kr. 8786,- gjelder overskudd fra konsert
+Kr. 19.371,- gjelder Bidrag av oppussing fra Brevig Gard Borettslag
+Note 2 - Revisjonshonorar
+2025 2024
+
+6700 Revisjon 10 875 10 375
+Sum 10 875 10 375
+Revisjonshonoraret er i sin helhet knyttet til revisjon. Bel@p er inkl.mva.
+Note 3 - Styrehonorar
+
+2025 2024
+
+5330 Styrehonorar 10 000 0
+
+Sum 10 000 0
+Stiftelsen Brovig Gard Aktivitetshus
+
+Noter 2025
+Note 4 - Personalkostnader
+2025 2024
+5000 Lenn 16 668 1 250
+5150 Opptjente feriepenger 2 384 179
+5400 Arbeidsgiveravgift 3 760 176
+5401 Arb.g.avg.opparb.feriepenger 336 25
+Sum 23 148 1630
+Stiftelsen har gjennom aret hatt en bemanning som tilsvarer mindre enn ett arsverk.
+Stiftelsen er ikke pliktig til a ha tjenestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+Det er ikke utbetalt styrehonorar eller I@nn til styremedlemmer i 2025
+Note 5 - Vedlikehold
+2025 2024
+6600 Div. Vedlikehold bygg 99 1 946
+6603 Vedlikehold ws 0 13 900
+6605 Vedlikehold utv. anlegg 457 0
+6613 Oppgradering Aktivitetshuset 19 371 0
+Sum 19927 15 846
+Note 6 - Andre driftsutgifter
+2025 2024
+6302 FELLESKOSTNADER 32 316 35 904
+6390 Kostnader fellesarealer innv. 558 611
+7710 Kostnader vedr.styret 0 2 361
+7770 Bankomkostninger 994 696
+7790 ARSAVGIFT LOTTERI/STIFT.TILSYNET 5 640 5 390
+Sum 39 508 44 962
+Note 7 - Disponible midler
+2025 2024
+A. Disponible midler IB 28 764 10 437
+Arets resultat -8 856 9475
+Tilbakefering avskrivninger 8 764 8 852
+B. Arets endringer i disponible midler -92 18 327
+C. Disponible midler UB 28 672 28 764
+Omlgpsmidler 44 691 74 931
+- Kortsiktig gjeld 16019 46 167
+Disponible midler 31.12 28 672 28 764
+Note 8 - Egenkapital
+2025 2024
+Innskutt kapital 250 000 250 000
+Stiftelsen Brovig Gard Aktivitetshus
+
+Noter 2025
+2025 2024
+Note 8 - Egenkapital
+Annen egenkapital 01.01 841 251 831776
+Arets resultat -8 856 9475
+Sum egenkapital 31.12 1 082 396 1091 251
+Stiftelsen Brevig Gard Aktivitetshus
+
+Resultat og balanse med noter for Stiftelsen Bravig Gard Aktivitetshus.
+Dokumentet er signert elektronisk av:
+For Stiftelsen Brovig Gard Aktivitetshus
+Styreleder Liv Britt Kalseth (sign.) 26.06.2026
+Styremedlem Terje Brendengen (sign.) 26.06.2026
+Styremedlem Nancy Ore Johansen (sign.) 26.06.2026
+
+S) Ced ra Revisorer, radgivere & advokater Cedra Norge AS
+Markensgate 32, 2 etasje
+4612 Kristiansand. Norge
+Tif: +47 322 64 100
+Til styret i Stiftelsen Bravig Gard Aktivitetshus
+Uavhengig revisors beretning
+Uttalelse om arsregnskapet
+Konklusjon
+Vi har revidert arsregnskapet for Stiftelsen Bravig Gard Aktivitetshus, som bestar av balanse per 31. desember 2025,
+resultatregnskap og oppstilling over endring av disponible midler for regnskapsaret avsluttet per denne datoen og noter
+til arsregnskapet, herunder et sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e  oppfyller arsregnskapet gjeldende lovkrav, og
+® gir arsregnskapet et rettvisende bilde av stiftelsens finansielle stilling per 31. desember 2025, og av dets resultater
+og endringer i for regnskapsaret avsluttet per denne datoen i samsvar med regnskapslovens regler og god
+regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfart revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare oppgaver og plikter i
+henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og plikter ved revisjonen av arsregnskapet. Vi
+er uavhengige av stiftelsen i samsvar med kravene i relevante lover og forskrifter i Norge og International Code of Ethics for
+Professional Accountants (inkludert internasjonale uavhengighetsstandarder)} utstedt av International Ethics Standards Board
+for Accountants (IESBA-reglene), og vi har overholdt vare g@vrige etiske forpliktelser i samsvar med disse kravene. Innhentet
+revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var konklusjon.
+Mvrig informasjon
+Styret og daglig leder (ledelsen) er ansvarlige for a@vrig informasjon som er publisert sammen med arsregnskapet. Ovrig
+informasjon omfatter informasjon i arsrapporten bortsett fra arsregnskapet og den tilharende revisjonsberetningen. Var
+konklusjon om arsregnskapet ovenfor dekker ikke @vrig informasjon.
+| forbindelse med revisjonen av arsregnskapet er det var oppgave a lese avrig informasjon. Formalet er a vurdere hvorvidt det
+foreligger vesentlig inkonsistens mellom den @vrige informasjonen og arsregnskapet og den kunnskap vi har opparbeidet oss
+under revisjonen av arsregnskapet, eller hvorvidt avrig informasjon ellers fremstar som vesentlig feil. Vi har plikt til a
+rapportere dersom g@vrig informasjon fremstar som vesentlig feil. Vi har ingenting a rapportere i sa henseende.
+Ledelsens ansvar for arsregnskapet
+Ledelsen er ansvarlig for a utarbeide arsregnskapet og for at det gir et rettvisende bilde i samsvar med regnskapslovens
+regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik internkontroll som den finner nadvendig for a kunne
+utarbeide et arsregnskap som ikke inneholder vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til stiftelsens evne til fortsatt drift og opplyse om forhold av
+betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for arsregnskapet sa lenge det ikke er
+sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig feilinformasjon, verken
+som falge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning som inneholder var konklusjon. Betryggende
+sikkerhet er en h@y grad av sikkerhet, men ingen garanti for at en revisjon utfart i samsvar med ISA-ene, alltid vil avdekke
+vesentlig feilinformasjon. Feilinformasjon kan oppsta som falge av misligheter eller utilsiktede feil. Feilinformasjon er a anse
+som vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke de a@konomiske beslutningene som
+brukeme foretar pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+https://revisorforeningen.no/revisjonsberetninger
+Cedra Norge AS
+Registrert i Foretaksregisteret
+Medlem av Den norske Revisorforening 4
+Organisasjonsnummer. 935 416 779
+
+S) Ced ra Revisorer, radgivere & advokater
+Uttalelse om andre lovmessige krav
+Konklusjon om forvaltning
+Basert pa var revisjon av arsregnskapet som beskrevet ovenfor, og kontrollhandlinger vi har funnet nadvendige i henhold til
+internasjonal standard for attestasjonsoppdrag ISAE 3000, Attestasjonsoppdrag som ikke er revisjon elfer forenklet
+revisorkontroll av historisk finansiell informasjon, mener vi at stiftelsen er forvaltet i samsvar med lov, stiftelsens formal og
+vedtektene for @vrig.
+Kristiansand, 29. juni 2026
+Cedra Norge AS
+Ole Kristen Stenberg
+Statsautorisert revisor
+(elektronisk signert}
+2
+
+€ Securely signed with Brevio
+This document is electronically signed and sealed with Brevio under elDAS,
+valid in all EU states. Signatures comply with eIDAS and PAdES standards.
+The identities of the signers are listed below:
+2026-06-29 11:07:23 UTC+02:00
+Ole-Kristen Stenberg
+=== bankID
+NO BankiD - 9578-5999-4-1246715
+UV This document package contains: OQ. Electronic signatures are not
+. Closing page (this page) visible but digitally integrated.

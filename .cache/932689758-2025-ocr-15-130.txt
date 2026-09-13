@@ -1,0 +1,453 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 569805
+Virksomheten
+Organisasjonsnummer : 932 689 758
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SASTRUGI HOLDING AS
+Forretningsadresse: Kvernhusveien 18
+4817 HIS
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Tom Christian Woods
+Dato for fastsettelse av Aarsregnskapet: 18.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 22.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 932 689 758
+
+SASTRUGI HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 5 280 7 250
+
+Sum kostnader 5 280 7 250
+
+Driftsresultat -5 280 -7 250
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 0 0
+
+Resultat for skattekostnad -5 280 -7 250
+
+Arsresultat -5 280 -7 250
+
+Arsresultat etter
+
+minoritetsinteresser -5 280 -7 250
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -5 280 -7 250
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -5 280 -7 250
+
+Sum overferinger og
+
+disponeringer -5 280 -7 250
+Utskriftsdato 22.06.2026 Organisasjonsnr 932 689 758 Side 1 av 3
+
+Organisasjonsnr: 932 689 758
+
+SASTRUGI HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 3 30 000 30 000
+
+Sum finansielle
+
+anleggsmidler 30 000 30 000
+
+Sum anleggsmidler 30 000 30 000
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 400 672
+
+Sum bankinnskudd,
+
+kontanter og lignende 400 673
+
+Sum omlepsmidler 400 673
+
+SUM EIENDELER 30 400 30 673
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital -5 570 -5 570
+
+Sum innskutt egenkapital 24 430 24 430
+
+Opptijent egenkapital
+
+Udekket tap 12 530 7 250
+Utskriftsdato 22.06.2026 Organisasjonsnr 932 689 758 Side 2 av 3
+
+Sum opptjent egenkapital -12 530 -7 250
+
+Sum egenkapital 11 900 17 180
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 3 6 500 0
+
+@vrig langsiktig gjeld 12 000 12 000
+
+Sum annen langsiktig gjeld 18 500 12 000
+
+Sum langsiktig gjeld 18 500 12 000
+
+Kortsiktig gjeld
+
+Leverandergjeld 0 1 492
+
+Sum kortsiktig gjeld 0 1 493
+
+Sum gjeld 18 500 13 493
+
+SUM EGENKAPITAL OG GJELD 30 400 30 673
+Utskriftsdato 22.06.2026 Organisasjonsnr 932 689 758 Side 3 av 3
+
+Organisasjonsnr: 932 689 758
+
+SASTRUGI HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: His
+
+Virksomhetens art
+
+Investere i selskaper og eiendom og alt annet
+
+som naturlig faller sammen med dette, herunder 4 delta i andre selskaper med
+
+lignende virksomhet, kj@p og salg av aksjer, eller pa annen mate gjore seg
+interessert i andre foretagende.
+Note
+2
+Er det usikkerhet om fortsatt drift?: Nei
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om
+fortsatt drift, da det er
+iverksatt tiltak for 4 styrke selskapets ekonomi.
+Note
+4
+Antall Arsverk i regnskapsaret
+0.00
+Note
+3
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregns kap
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Ja
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a4
+folge unntaksregelen i regnskapslovens § 3-2 (3).
+Annen langsiktig gjeld
+Samlet belep - foretak i samme konsermn Arets Fjorarets
+6500.00
+
+Arsregnskap 2025
+Sastrugi Holding AS
+(932 689 758)
+Sastrugi Holding AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 5 280 7 250
+Sum driftskostnader 5 280 7 250
+Driftsresultat -5 280 -7250
+Resultat for skatt -5 280 -7250
+Arsresultat -5 280 -7 250
+Overforinger og disponeringer
+
+Udekket tap -5 280 -7 250
+Sum overferinger og disponeringer -5 280 -7 250
+
+Sastrugi Holding AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anleggsmidler
+
+Investeringer i datterselskap 3 30 000 30 000
+Sum finansielle anleggsmidler 30 000 30 000
+Sum anleggsmidler 30000 30000
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 400 672
+Sum omlepsmidler 400 673
+Sum eiendeler 30400 30673
+
+Sastrugi Holding AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital -5 570 -§ 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+
+Udekket tap -12 530 -7 250
+Sum opptjent egenkapital -12 530 -7 250
+Sum egenkapital 11900 17180
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 12 000 12 000
+
+Konserngjeld, langsiktig 3 6 500 @)
+Sum annen langsiktig gjeld 18 500 12 000
+Kortsiktig gjeld
+
+Leverande@rgjeld 0 1 492
+Sum kortsiktig gjeld 0 1 493
+Sum gjeld 18500 13493
+Sum egenkapital og gjeld 30400 30673
+
+Sastrugi Holding AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+His
+Virksomhetens art
+Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder
+4 delta i andre selskaper med lignende virksomhet, kjap og salg av aksjer, eller pa annen mate
+gj@re seg interessert i andre foretagende.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er iverksatt tiltak for a styrke selskapets okonomi.
+
+Sastrugi Holding AS Arsregnskap Side 5 av6
+
+Note 3: Konsern
+Virksomheten er et morselskap. Virksomheten utarbeider ikke konsernregnskap, herunder
+konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a folge
+unntaksregelen i regnskapslovens § 3-2 (3).
+Fordringer og gjeld
+Mot foretak i samme konsern 2025 2024
+Fordringer e) @)
+Kortsiktig gjeld @) @)
+Langsiktig gjeld 6 500 0
+Note 4: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Sastrugi Holding AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Tom Christian Woods <tomcwoods@pm.me>
+Elektronisk signering
+TOM CHRISTIAN WOODS
+16.09.1976 - Styreleder
+Y) Signert
+18.06.2026 20:39 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 18.06.2026 20:38:23

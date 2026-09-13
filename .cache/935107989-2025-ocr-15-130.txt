@@ -1,0 +1,391 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 557772
+Virksomheten
+Organisasjonsnummer : 935 107 989
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: @VRE VIKDALSELVA KRAFTVERK AS
+Forretningsadresse: c/o Blafall Energi AS
+Parkveien 33B
+0258 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ludwig Biselius
+Dato for fastsettelse av Aarsregnskapet: 30.04.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 18.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 935 107 989
+
+@VRE VIKDALSELVA KRAFTVERK AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 3 325 0
+
+Sum kostnader 3 325 i¢)
+
+Driftsresultat -3 325 e)
+
+Rentekostnad til foretak
+
+1 samme konsern 11 323 0
+
+Sum finanskostnader 11 323 e)
+
+Netto finans -11 323 e)
+
+Resultat fer skattekostnad -14 648 0
+
+Arsresultat -14 648 i¢)
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -14 648 0
+
+Sum overferinger og
+
+disponeringer -14 648 0
+Utskriftsdato 18.06.2026 Organisasjonsnr 935 107 989 Side 1 av 3
+
+Organisasjonsnr: 935 107 989
+
+@VRE VIKDALSELVA KRAFTVERK AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 157 523 0
+
+Sum varige driftsmidler 157 523 0
+
+Sum anleggsmidler 157 523 0
+
+Omlepsmidler
+
+Varer
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 42 652 0
+
+Sum bankinnskudd,
+
+kontanter og lignende 42 652 0
+
+Sum omlepsmidler 42 652 0
+
+SUM EILENDELER 200 175 0
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 0
+
+Annen innskutt egenkapital -6 500 0
+
+Sum innskutt egenkapital 23 500 0
+
+Opptjent egenkapital
+
+Udekket tap 14 648 0
+
+Sum opptjent egenkapital -14 648 0
+
+Sum egenkapital 8 852 0
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 191 323 0
+
+Sum annen langsiktig gjeld 191 323 0
+
+Sum langsiktig gjeld 191 323 0
+Utskriftsdato 18.06.2026 Organisasjonsnr 935 107 989 Side 2 av 3
+
+Sum gjeld 191 323 0
+SUM EGENKAPITAL OG GJELD 200 175 0
+Utskriftsdato 18.06.2026 Organisasjonsnr 935 107 989 Side 3 av 3
+
+Organisasjonsnr: 935 107 989
+
+@VRE VIKDALSELVA KRAFTVERK AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+)
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Docusign Envelope ID: 10980418-E9F1-8AF6-823E-7B6291F 94186
+Ovre Vikdalselva Kraftverk AS
+org.nr.: 935 107 989
+01 01 2025 - 3112 2025
+
+Docusign Envelope ID: 10980418-E9F1-8AF6-823E-7B6291F 94186
+
+Ovre Vikdalselva Kraftverk AS Arsregnskap 2025
+org.nr.: 935107989
+
+1. Resultat og balanse
+
+2. Noter
+
+3. Signering
+
+&
+
+Generert av tripletex* 08 04 2026 Side 2 av 7
+
+Docusign Envelope ID: 10980418-E9F1-8AF6-823E-7B6291F 94186
+
+Ovre Vikdalselva Kraftverk AS Arsregnskap 2025
+
+org.nr.: 935107989
+Resultat Noter 2025 2024
+Driftsinntekter og driftskostnader
+Annen driftskostnad 3325 0
+Sum driftskostnader 3325 0
+Driftsresultat -3 325 0
+Finansinntekter og finanskostnader
+Rentekostnad til foretak i samme konsern 11 323 0
+Sum finanskostnader 11323 0
+Netto finans -11323 0
+Ordinzert resultat for skattekostnad -14 648 0
+Skattekostnader
+Arsresultat -14 648 0
+Overfgringer og disponeringer
+Udekket tap -14 648 0
+Sum overfgringer og disponeringer -14 648 0
+
+Generert av Iripletex™" 08 04 2026 Side 3 av7
+
+Docusign Envelope ID: 10980418-E9F1-8AF6-823E-7B6291F94186
+
+Ovre Vikdalselva Kraftverk AS Arsregnskap 2025
+
+org.nr.: 935107989
+Balanse Noter 2025 2024
+EIENDELER
+Anleggsmidler
+Tomter, bygninger og annen fast eiendom 157 523 0
+Sum varige driftsmidler 157 523 0
+Sum anleggsmidler 157 523 0
+Omlgpsmidler
+Bankinnskudd, kontanter og lignende 42 652 0
+Sum bankinnskudd, kontanter og lignende 42 652 0
+Sum omlgpsmidier 42 652 0
+Sum eiendeler 200 175 0
+EGENKAPITAL OG GJELD
+Egenkapital
+Selskapskapital 30 000 0
+Annen innskutt egenkapital -6 500 0
+Sum innskutt egenkapital 23 500 0
+Udekket tap 14 648 0
+Sum opptjent egenkapital -14 648 0
+Sum egenkapital 8 852 0
+Langsiktig gjeld
+Langsiktig konserngjeld 191 323 0
+Sum annen langsiktig gjeld 191 323 0
+Sum langsiktig gjeld 191 323 0
+Gjeld
+Sum gjeld 191 323 0
+Sum egenkapital og gjeld 200 175 0
+
+Generert av Iripletex™" 08 04 2026 Side 4 av 7
+
+Docusign Envelope ID: 10980418-E9F1-8AF6-823E-7B6291F 94186
+Ovre Vikdalselva Kraftverk AS Arsregnskap 2025
+org.nr.: 935107989
+Oslo, 30.04.2026
+DocuSigned by: Signed by:
+| Lars Hrawgon | Movika Malet
+Lars Jacob Haugom (Styrets leder) Monika Agnieszka Niziolek (Styremediem)
+&
+Generert av tripletex* 08 04 2026 Side 5 av 7
+
+Docusign Envelope ID: 10980418-E9F1-8AF6-823E-7B6291F 94186
+Ovre Vikdalselva Kraftverk AS Arsregnskap 2025
+org.nr.: 935107989
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+** Klassifisering **
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer med forfall mer enn ett ar etter balansedagen er medtatt som anleggsmidler. Gjeld
+som forfaller senere enn ett ar etter balansedagen er oppfart som langsiktig gjeld.
+** Varige driftsmidler **
+Varige driftsmidler er vurdert til anskaffelseskost etter fradrag for bedriftsa@konomiske avskrivninger som er
+beregnet pa grunnlag av kostpris og antatt levetid.
+** Aksjer **
+Omlgpsaksjer er vurdert til markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til kostpris. | de
+tilfeller der den virkelige verdien er lavere enn kostprisen og dette ikke er forbigaende, er det foretatt
+nedskrivning.
+** Fordringer **
+Kundefordringer og andre fordringer er oppfart til palydende etter fradrag for konstaterte og forventede tap.
+** Skatter **
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbar skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet pa grunnlag av midlertidige forskjeller mellom regnskapsmessige og skattemessige verdier,
+samt eventuelt ligningsmessig underskudd til fremfgring ved utgangen av regnskapsaret. Utsatt skatt er avsatt
+som langsiktig gjeld i balansen. | den grad utsatt skattefordel overstiger utsatt skatt, er utsatt skattefordel tatt
+med i balansen iht. god regnskapsskikk.
+** Driftsinntekter og kostnader **
+Inntektsfgring falger opptjeningsprinsippet, som normalt vil falge leveringstidspunktet for varer og tjenester.
+Kostnader er tatt med etter sammenstillingsprinsippet, det vil si at kostnadene er tatt med i samme periode
+som tilhgrende inntekter.
+Antall arsverk
+Antall arsverk i regnskapsaret: 0
+Note 2 Immaterielle eiendeler
+Utviklingskostnader Totalt
+Anskaffelseskost 01.01.2025 0 0
++ Tilgang kjgpte driftsmidler 157 523 157 523
+= Anskaffelseskost 31.12.2025 157 523 157 523
+= Bokfert verdi 31.12.2025 157 523 157523
+Generert av Iripletex™" 08 04 2026 Side 6 av7
+
+Docusign Envelope ID: 10980418-E9F1-8AF6-823E-7B6291F 94186
+Ovre Vikdalselva Kraftverk AS Arsregnskap 2025
+org.nr.: 935107989
+Note 3 No Cure, No Pay- avtale
+Den 15.04.2025 inngikk selskapet en avtale med morselskapet om samarbeid knyttet til utvikling av
+vannkraftprosjektet Ovre Vikdalselva Kraftverk AS. Avtalen omfatter arbeid med utarbeidelse og innlevering av
+konsesjonssgknad, og er basert pa prinsippet no cure no pay betinget av at prosjektet far godkjent konsesjon
+fra NVE.
+Note 4 Skatt
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt og
+utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller.
+2025 2024
+Fremferbart underskudd -14 648 0
+Akkumulert fremfgrbart underskudd per 31.12.2025 - 14 648 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 5 Egenkapital
+Aksjekapital Overkurs Annen Innskutt egenkapital Annen egenkapital Sum egenkapital
+Pr. 01.01.2025 0 0 0 0 0
+Arets resultat 30 000 0 - 6500 -14 648 - 8852
+Pr 31.12.2025 30 000 0 - 6500 -14 648 -8 852
+Note 6 Langsiktig gjeld
+Den 01.03.2025 inngikk @vre Vikdalselva Kraftverk AS en laneavtale med morselskapet Blafall Energi AS om Ian.
+Lanet er renteberegnet og forfaller til tilbakebetaling etter 5 ar.
+Generert av Iripletex™" 08 04 2026 Side 7 av 7

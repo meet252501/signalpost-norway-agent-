@@ -1,0 +1,473 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 399704
+Virksomheten
+Organisasjonsnummer : 990 869 189
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: FRITID AS
+Forretningsadresse: Kjelane 45
+5264 GARNES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Henrik Langeland
+Dato for fastsettelse av arsregnskapet: 16.04.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 990 869 189
+
+FRITID AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 8 863 8 638
+
+Sum kostnader 8 863 8 638
+
+Driftsresultat -8 863 -8 638
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 0 0
+
+Resultat fer skattekostnad -8 863 -8 638
+
+Arsresultat -8 863 -8 638
+
+Arsresultat etter
+
+minoritetsinteresser -8 863 -8 638
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -8 863 -8 638
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -8 863 -8 638
+
+Sum overferinger og
+
+disponeringer -8 863 -8 638
+Utskriftsdato 27.04.2026 Organisasjonsnr 990 869 189 Side 1 av 3
+
+Organisasjonsnr: 990 869 189
+
+FRITID AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 3 677 168 677 168
+
+Sum varige driftsmidler 677 168 677 168
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 1 200 1 200
+
+Sum finansielle
+
+anleggsmidler 1 200 1 200
+
+Sum anleggsmidler 678 368 678 368
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 73 8 936
+
+Sum bankinnskudd,
+
+kontanter og lignende 73 8 936
+
+Sum omlepsmidler 73 8 936
+
+SUM ELENDELER 678 441 687 304
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 100 000 100 000
+
+Overkurs 1 450 1 450
+
+Sum innskutt egenkapital 101 450 101 450
+Utskriftsdato 27.04.2026 Organisasjonsnr 990 869 189 Side 2 av 3
+
+Opptjent egenkapital
+
+@reavrunding -1 -1
+
+Udekket tap 372 525 363 662
+
+Sum opptjent egenkapital -372 525 -363 662
+
+Sum egenkapital -271 075 -262 212
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 949 516 949 516
+
+Sum kortsiktig gjeld 949 516 949 516
+
+Sum gjeld 949 516 949 516
+
+SUM EGENKAPITAL OG GJELD 678 441 687 304
+Utskriftsdato 27.04.2026 Organisasjonsnr 990 869 189 Side 3 av 3
+
+Organisasjonsnr: 990 869 189
+
+FRITID AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Garnes
+
+Virksomhetens art
+
+Kj@p og salg av fritidseiendommer og
+
+boliger, samt der tilh@erende virksomhet.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Styret vurderer det som riktig a avlegge arsregnskapet under forutsetning om
+
+fortsatt drift, da det er
+
+iverksatt tiltak for 4 styrke selskapets ekonomi.
+
+Note
+
+4
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+3
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+677168.00
+
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+677168.00
+
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+677168.00
+
+Anskaffelseskost - balansefeorte lanekostnader, egentilvirkede anleggsmidler
+
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap 2025
+Fritid AS
+(990 869 189)
+Fritid AS Arsregnskap Side 1 av6
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 8 863 8 638
+Sum driftskostnader 8 863 8 638
+Driftsresultat -8 863 -8 638
+Resultat for skatt -8 863 -8 638
+Arsresultat -8863 -8638
+Overforinger og disponeringer
+
+Udekket tap -8 863 -8 638
+Sum overferinger og disponeringer -8 863 -8 638
+
+Fritid AS Arsregnskap Side 2 av6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Tomter, bygninger og annen fast eiendom 3 677 168 677 168
+Sum varige driftsmidler 677 168 677 168
+Finansielle anieggsmidler
+
+Investeringer i aksjer og andeler 1 200 1 200
+Sum finansielle anleggsmidler 1 200 1 200
+Sum anleggsmidler 678368 678 368
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 73 8936
+Sum omlepsmidler 73 8 936
+Sum eiendeler 678441 687 304
+
+Fritid AS Arsregnskap Side 3 av6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 100 000 100 000
+
+Overkurs 1 450 1 450
+Sum innskutt egenkapital 101 450 101 450
+Opptjent egenkapital
+
+Annen egenkapital -1 -1
+
+Udekket tap -372525 -363662
+Sum opptjent egenkapital -372525 -363 662
+Sum egenkapital -271075 -262 212
+Gijeld
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 949 516 949 516
+Sum kortsiktig gjeld 949 516 949 516
+Sum gjeld 949516 949516
+Sum egenkapital og gjeld 678 441 687304
+
+Fritid AS Arsregnskap Side 4 av6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Garnes
+Virksomhetens art
+Kjap og salg av fritidseiendommer og boliger, samt der tilhorende virksomhet.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er iverksatt tiltak for a styrke selskapets okonomi.
+Note 3: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 677 168
++ Kjop og annen tilgang i ar @)
+- Salg og annen avgang i ar @)
+= Anskaffelseskost 31. desember 677 168
+- Sum avskrivninger og nedskrivninger 0
+= Balansefort verdi per 31.12. 677 168
+Arets avskrivninger og nedskrivninger )
+Fritid AS Arsregnskap Side 5 av 6
+
+Note 4: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Fritid AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Tore Steffensen <tore.steffensen@gmail.com>
+Elektronisk signering
+TORE STEFFENSEN TORE STEFFENSEN
+28.07.1963 - Styremedlem 28.07.1963 - Daglig leder
+© Signert ® Signert
+17.04.2026 13:26 === bankID 17.04.2026 13:27 === bankID
+HENRIK LANGELAND
+10.08.1978 - Styreleder
+© Signert
+17.04.2026 14:06 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 17.04.2026 14:06:06

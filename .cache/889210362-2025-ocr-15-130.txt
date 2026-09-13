@@ -1,0 +1,518 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 490198
+Virksomheten
+Organisasjonsnummer : 889 210 362
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: J.A. INVEST AS
+Forretningsadresse: Rindevegen 28
+3676 NOTODDEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Revisorteam Tinn og Vest-Telemark AS
+Dato for fastsettelse av arsregnskapet: 26.05.2026
+Revis jon
+Ekstern autorisert regnskapsfoerer har i
+lg@pet av regnskapsaret bistatt ved den
+lg@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 25.06.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 889 210 362
+
+J.A. INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 21 166 24 879
+
+Sum kostnader 2 21 166 24 879
+
+Driftsresultat -21 166 -24 879
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 716 720 775 880
+
+Annen renteinntekt 94 835 91 717
+
+Sum finansinntekter 811 555 867 597
+
+Annen rentekostnad 330 125
+
+Sum finanskostnader 330 125
+
+Netto finans 811 225 867 472
+
+Resultat fer skattekostnad 4 790 O59 842 593
+
+Skattekostnad 5 20 938 20 926
+
+Arsresultat 6 769 121 821 667
+
+Totalresultat 769 121 821 667
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 550 000 600 000
+
+Overferinger til/fra
+
+annen egenkapital 219 121 221 667
+
+Sum overferinger og
+
+disponeringer 6 769 121 821 667
+Utskriftsdato 25.06.2026 Organisasjonsnr 889 210 362 Side 1 av 3
+
+Organisasjonsnr: 889 210 362
+
+J.A. INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 3, 5 609 810 609 810
+
+Sum finansielle
+
+anleggsmidler 609 810 609 810
+
+Sum anleggsmidler 1 609 810 609 810
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre fordringer 716 720 775 880
+
+Sum fordringer 716 720 775 880
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 2 735 046 2 503 913
+
+Sum bankinnskudd,
+
+kontanter og lignende 2 735 046 2 503 913
+
+Sum omlepsmidler 1 3 451 766 3 279 793
+
+SUM ELENDELER 4 061 576 3 889 603
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 6 150 000 150 000
+
+Overkurs 685 685
+
+Annen innskutt egenkapital 0 0
+
+Sum innskutt egenkapital 150 685 150 685
+Utskriftsdato 25.06.2026 Organisasjonsnr 889 210 362 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 3 331 582 3 112 461
+
+Sum opptjent egenkapital 6 3 331 582 3 112 461
+
+Sum egenkapital 3 482 267 3 263 146
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4 4 731 5 121
+
+Sum avsetninger for
+
+forpliktelser 4 731 5 121
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 4 731 5 121
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 3 250
+
+Betalbar skatt 4 21 328 21 336
+
+Utbytte 550 000 600 000
+
+Sum kortsiktig gjeld 574 578 621 336
+
+Sum gjeld 579 309 626 457
+
+SUM EGENKAPITAL OG GJELD 4 061 576 3 889 603
+Utskriftsdato 25.06.2026 Organisasjonsnr 889 210 362 Side 3 av 3
+
+Organisasjonsnr: 889 210 362
+
+J.A. INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven 1998. Det er
+utarbeidet etter norske regnskapsstandarder. I utgangspunktet er det
+reglene for regnskapsoppstilling for sma foretak som er
+
+benyttet.
+
+Hovedregel for vurdering og klassifisering av eiendeler og
+
+gjeld.
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som
+anleggsmidler. Andre eiendeler er klassifisert som omle@psmidler. Fordringer
+som skal tilbakebetales innen et ar er uansett klassifisert som
+omlepsmidler. Ved klassifiseringen av kortsiktig og langsiktig gjeld er
+analoge kriterier lagt til grunn.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet
+forventes ikke a vere forbigaende. Anleggsmidler med begrenset skonomisk
+levetid avskrives planmessig. Langsiktig gjeld balansefores til nominelt
+mottatt belep pa etableringstidspunktet. Langsiktig gjeld oppskrives ikke
+til virkelig verdi som felge av renteendring.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt mottatt belgep pa etableringstidspunktet.
+Kortsiktig gjeld oppskrives ikke til virkelig verdi som falge av
+renteendring. Enkelte poster er vurdert etter andre regler, og redegjores
+for nedenfor.
+
+Varige driftsmidler
+
+Varige driftsmidler avskrives over
+
+forventet @konomisk levetid. Avskrivningene er som hovedregel fordelt
+lineert over antatt skonomisk levetid.
+
+Fordringer
+
+Kundefordringer og andre
+
+fordringer oppferes til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene. I tillegg gj@res det for a@vrige kundefordringer en
+uspesifisert avsetning for a dekke antatt tap.
+
+Skatter
+
+Skatter
+
+kostnadsfores nar de paleper, det vil si at skattekostnaden er knyttet til
+det regnskapsmessige resultat for skatt.
+
+Skattekostnaden bestar av
+
+betalbar skatt (skatt pa arets skattepliktige inntekt) og endring i netto
+utsatt skatt. Skattekostnaden fordeles pa ordinert resultat og resultat av
+ekstraordinere poster i henhold til skattegrunnlaget. Utsatt skatt og
+utsatt skattefordel er presentert netto i balansen.
+
+Note
+
+1
+
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Spesifisering av resultatregnskapet
+Lennkostnader
+
+Arsrekneskap
+for
+J.-A. Invest AS
+2025
+
+| Resultatrekneskap |
+J.A. Invest AS
+
+Note 2025 2024
+DRIFTSINNTEKTER
+Annan driftskostnad 21 166 24 879
+Sum driftskostnader 2 21 166 24 879
+DRIFTSRESULTAT -21 166 -24 879
+FINANSINNTEKTER OG FINANSKOSTNADER:
+Inntekt pa investering i tilknytta selskap 716 720 775 880
+Anna renteinntekt 94 835 91 717
+Sum finansinntekt $11 555 867 597
+Anna rentekostnad 330 125
+Sum finanskostnader 330 125
+Sum finanspostar 811 225 867 472
+Ordinzrt resultat for skattekostnad 4 790 059 842 593
+Skattekostnad pa ordinzert resultat 3) 20 938 20 926
+Ordinert resultat 769 121 821 667
+ARSRESULTAT 6 769 121 821 667
+DISPONERING AV ARSRESULTAT
+Overfort annan eigenkapital 219 121 221 667
+Avsett til utbytte 550 000 600 000
+Sum disponert 6 769 121 821 667
+
+Balanse
+J.A. Invest AS
+
+Note 2025 2024
+EIGEDELAR
+ANLEGGSMIDLAR
+Immaterielle eigedelar
+Varige driftsmidlar
+Finansielle anleggsmidlar
+Investering i tilknytta selskap 3,5 609 810 609 810
+Sum finansielle anleggsmidlar 609 810 609 810
+Sum anleggsmidlar 1 609 810 609 810
+OMLOPSMIDLAR
+Fordringar
+Andre fordringar 716 720 175 880
+Sum fordringar 716 720 775 880
+Investeringar
+Bankinnskot 2 135 046 2 503 913
+Sum omlspsmidiar 1 3 451 766 3 279 793
+SUM EIGEDELAR 4 061 576 3 889 603
+
+| Balanse |
+].A. Invest AS
+Note 2025 2024
+EIGENESAPITAL OG GJELD
+EIGENKAPITAL
+Innskoten eigenkapital
+Aksjekapital 1 aksjar 4 kr 180000 6 150 000 180 000
+Overkurs 685 685
+Sum innskoten efigenkapital 150 685 150 685
+Opptent eigenkapital
+Annan eigenkapital 3 33] 582 3112 461
+Sum opptent eigenkapital 6 3 33] 582 3112 461
+Sum eigenkapital 3 482 267 3 263 146
+Avsetjing for forpliktelsar
+Utsett skatt 4 473] § 121
+Sum avsetjingar for forpliktelsar 4731 § 121
+Anna langsiktig gjeld
+Sum langsiktig gjeld 4731 § 121
+Kortsiktig gjeld
+Leverandorgjeld 3 250 0
+Betalbar skatt 4 21 328 21 336
+Utbytte 850 000 600 000
+Sum kortsiktig gjeld 574 578 621 336
+Sum gjeld 579 309 626 457
+SUM EIGENKAPITAL OG GJELD 4 061 576 3 889 603
+Notodden, 31.12.2025 / 26.05.2026
+Styret for J.A Invest AS
+a —_
+ove KR, Anuaxenn }
+June Elisabeth Arvesen
+Styreleiar/dagleg leiar
+[ «dA. Favest AS Org.nr, 889210362 ~~ |
+
+Org. Nr.889210362
+NOTER TIL ARSREKNESKAPET FOR 2025
+Rekneskapsprinsipp
+Arsrekneskapet er sett opp i samsvar med rekneskapslova og god rekneskapsskikk for sma foretak.
+Selskapet har ikkje foretekje endring i rekneskapsprinsipp i rekneskapsaret.
+Driftsinntekter
+Inntektsfering ved sal av varer skjer pa leveringstidspunktet. Tenestar inntektsforast etter kvart som dei
+vert levert.
+Klassifisering
+Eigendelar som er bestemt til varig eige eller bruk er Klassifisert som anleggsmiddel.
+@vrige eigendelar er klassifisert som omlepsmiddel.
+Gjeld som forfell seinare enn eit ar etter balansedagen er oppfart som langsiktig gjeld.
+Fordringar som skal tilbakebetalast innan eit ar er uansett klassifisert som om!apsmidiar.
+Anleggsmidlar vert vurdert til anskaffelseskost, men nedskrivast til verkeleg verdi nar verdifallet er forventa
+a ikkje vera forbigaande.
+Langsiktig gjeld vert balansefart til nominelt belap pa etableringstidspunktet.
+Omlapsmidlar er vurdert til lagaste av anskaffelseskost og verkeleg verdi, og nedskrive ved varig verdifall.
+Finansielle anleggsmidlar
+Finansielle anleggsmidlar vert fort til anskaffelseskost og nedskrive til verkeleg verdi ved varig verdifall.
+Fordringar
+Kortsiktige fordringar vert fart opp i balansen til palydande etter fradrag for forventa tap.
+Gjeld
+Gjeld er balansefart til nominelt belap pa etableringstidspunktet.
+Skattar
+Skattar vert kostnadsfert nar dei paleper, det vil seie at skattekostnaden er knytt til det resneskapsmessige
+resultatet for skatt.
+Skattekostnaden bestar av betalbar skatt (skatt pa arets skattepliktige inntekt) og endringar i netto
+utsett skatt. Utsett skatt og utsett skattefordel er presentert netto i balansen.
+Note 1 - Arten av verksemda og kvar den vert dreven
+J.A. Invest AS er eit investeringssekap med forvaltning og eige av aksjepostar som verksemd.
+Selskapet heldt til i Notodden kommune.
+Note 2 - Lonnskostnader
+Selskapet har ingen tiisette og det er ingen Isnnsutbetalinger.
+Note 3 - Aksjar
+Finansielle anleggsmidiar
+Palydande Skattem.verdi 31.12
+Lidvard Arvesen AS 1.000] 609 810 2 929 494
+
+Note 4 - Skatt
+Arets skattekostnad bestar av:
+Formykefiteavsettior TY
+Arets betalbar skatt framkjem stik:
+Midieridigeforskellar OY
+[Underskottiramforng TC
+Midlertidige forskjetlar:
+[antes [81122028 [Caring
+Anieggsmidar OP C~tSCSC“‘(SCS;S™!COCO.OOOCOC*é‘éO
+Fremforbartunderskot | ——SsS—iSC‘C‘;™;C~CYC‘“‘CSNSCOC;C~;3
+a <<) i
+Alle midlertidige forskjellar kan utliknast og dette er gjennomfert ved berekning av utsatt skatt.
+Endring i inntektsfart avsett utbytte 3% paverkar kun utsatt skatt.
+Note 5 - Dotterselskap, tilknytte selskap m.v.
+Investeringane er regnskapsfart i selskapsrekneskapet etter kostmetoden. Selskapet har fylgjande eigarandelar
+i tilknytte selskap:
+a ee
+kontor ars- ars- verdi
+regnskap | regnskap
+Stemmerett er tilsvarande som eigarandel.
+Note 6 - Eigenkapital
+kapital fond vurd.forsk. | eigenkap. | eigenkap.
+[Pr 3ti22004 00 C“‘CSC#*@L:«COCAS50000i G85] | 3:12. 461] 3. 263 146
+Aretsresutat TCT 769124] 769 124
+Tiubyte—S~<—~SCs~SssSCSCS SSCSCSC*dT~ SSSC*dT ~S_~C_—880. 000] -850 000
+Eigenkapital pr3ii22028—~—=«;~=«ts0 000] —ess|__—o| 3 331 582] 3 482 267)
+
+HM Revisorteam Tinn og Vest-Telemark AS
+|| Statsautoriserte revisorer
+Statsautoriserte regnskapsferere
+UAVHENGIG REVISORS BERETNING
+Til generalforsamlingen i J.A.Invest AS
+Uttalelse om revisjonen ay arsregnskapet
+Konklusjon
+Vi har revidert arsregnskapet for J.A.Invest AS som viser et overskudd pa kr 769 121. Arsregnskapet
+bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret avsluttet per denne datoen
+og noter til arsregnskapet, herunder et sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025
+og av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfert revisjonen i samsvar med den internasjonale revisjonsstandarden for revisjon av
+regnskap til mindre komplekse enheter (ISA for MKE). Vare oppgaver og plikter i henhold til ISA for
+MKE er beskrevet nedenfor under Revisors oppgaver og plikter ved revisjonen av arsregnskapet. Vi er
+uavhengige av selskapet i samsvar med kravene i relevante lover og forskrifter i Norge og
+International Code of Ethics for Professional Accountants (inkludert internasjonale
+uavhengighetsstandarder) utstedt av International Ethics Standards Board for Accountants (IESBA-
+reglene), og vi har overholdt vare evrige etiske forpliktelser i samsvar med disse kravene. Innhentet
+revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlig for 4 utarbeide 4rsregnskapet og for at det gir et
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er
+ogsa ansvarlig for slik intern kontroll som den finner nodvendig for 4 kunne utarbeide et arsregnskap
+som ikke inneholder vesentlig feilinformasjon, verken som foalge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av Arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn
+for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+GODKJENT REVISJONS- OG REGNSKAPSSELSKAP. MEDLEM AV DEN NORSKE REVISORFORENING.
+Vinje: Amotvegen 8, 3890 Vinje TIf.: 35 06 27 00 Org.nr.: 968 407 880
+Seljord: Bralasvegen 47, 3840 Seljord TIf.: 35 06 27 10 www.revisorteam,no
+Rjukan: Sam Eydes gt. 120, 3660 Rjukan TIf: 35 06 27 15
+
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart m4l er 4 oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som felge av misligheter eller utilsiktede feil, og 4 avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti
+for at en revisjon utfart i samsvar med ISA for MKE, alltid vil avdekke vesentlig feilinformasjon.
+Feilinformasjon kan oppsté som felge av misligheter eller utilsiktede feil. Feilinformasjon er 4 anse
+som vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes 4 pavirke de
+ekonomiske beslutningene som brukerne foretar pa grunnlag av arsregnskapet.
+For revisors oppgaver og plikter se: https://revisorforeningen.no/revisjonsberetninger
+Seljord, 26. mai 2026
+Revisorteam Tinn og Vest-Telemark AS
+
+bircdue Hs
+Kristine Midtba Mo
+Statsautorisert revisor

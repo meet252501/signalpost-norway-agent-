@@ -1,0 +1,512 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 638716
+Virksomheten
+Organisasjonsnummer : 921 835 876
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: GREINDX AS
+Forretningsadresse: Forskningsparken i Oslo
+Gaustadalléen 21
+0349 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ove Vincent Solesvik
+Dato for fastsettelse av Aarsregnskapet: 26.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 04.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 921 835 876
+
+GREINDZX AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 0 31 183
+
+Annen driftsinntekt 0 1 606 986
+
+Sum inntekter fe) 1 638 169
+
+Kostnader
+
+Lennskostnad 1 658 755 2 670 479
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 56 204 123 855
+
+Annen driftskostnad 1 727 045 2 724 261
+
+Sum kostnader 3 442 004 5 518 595
+
+Driftsresultat -3 442 004 -3 880 426
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 20 486 31 181
+
+Annen finansinntekt 3 522 2 505
+
+SkatteFunn -fradrag i skatt 679 492 1 098 109
+
+Sum finansinntekter 703 500 1131 795
+
+Annen rentekostnad 145 069 111 626
+
+Annen finanskostnad 3 720 4 345
+
+Sum finanskostnader 148 789 115 971
+
+Netto finans 554 711 1 015 824
+
+Resultat fer skattekostnad -2 887 293 -2 864 602
+
+Arsresultat -2 887 293 -2 864 602
+
+Overferinger og
+
+disponeringer
+
+Overfert til udekket tap 2 887 293 2 864 602
+
+Sum overferinger og
+
+disponeringer 2887293 2 887 293 2 864 602
+Utskriftsdato 04.07.2026 Organisasjonsnr 921 835 876 Side 1 av 3
+
+Organisasjonsnr: 921 835 876
+
+GREINDX AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utvikling 22 220 22 220
+
+Sum immaterielle eiendeler 22 220 22 220
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verkt@y, kontormaskiner
+
+og lignende 0 56 204
+
+Sum varige driftsmidler 0 56 204
+
+Sum anleggsmidler 22 220 78 424
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 13 125 0
+
+Andre fordringer 14 816 310 743
+
+Sum fordringer 27 941 310 743
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 616 919 2 229 202
+
+Sum bankinnskudd,
+
+kontanter og lignende 616 919 2 229 202
+
+Sum omlepsmidler 644 860 2 539 945
+
+SUM ELENDELER 667 080 2 618 369
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 119 638 119 648
+
+Beholdning av egne aksjer -3 878 -3 878
+
+Overkurs 3.191 511 3.195 701
+
+Annen innskutt egenkapital 500 610 500 610
+
+Sum innskutt egenkapital 3 807 881 3 812 O81
+
+Opptjent egenkapital
+
+Annen egenkapital -3 266 661 -3 266 661
+
+Udekket tap 2 887 294 0
+
+Sum opptjent egenkapital -6 153 955 -3 266 661
+Utskriftsdato 04.07.2026 Organisasjonsnr 921 835 876 Side 2 av 3
+
+Sum egenkapital -2 346 074 545 420
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Konvertible lan 483 116 2 335 689
+
+Sum annen langsiktig gjeld 483 116 2 335 689
+
+Sum langsiktig gjeld 483 116 2 335 689
+
+Kortsiktig gjeld
+
+Konvertible lan 2 486 482 0
+
+Leverandergjeld 187 127 234 089
+
+Betalbar skatt -679 492 -1 098 109
+
+Skyldige offentlige
+
+avgifter 139 845 106 086
+
+Annen kortsiktig gjeld 396 O77 495 194
+
+Sum kortsiktig gjeld 2 530 039 -262 740
+
+Sum gjeld 3 013 155 2 072 949
+
+SUM EGENKAPITAL OG GJELD 667 081 2 618 369
+Utskriftsdato 04.07.2026 Organisasjonsnr 921 835 876 Side 3 av 3
+
+Organisasjonsnr: 921 835 876
+GREINDX AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+)
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God
+regnskapsskikk for sma
+foretak
+Note
+9
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+2
+Antall Arsverk i regnskapsaret
+4.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+1408652.00 2199357.00
+Folketryqdavgift Arets Fjorarets
+210084.00 327912.00
+Pensjonskostnader Arets Fjorarets
+72002 .00 134956.00
+Andre ytelser Arets Fjorarets
+-31984.00 8253.00
+Sum lennskostnader Arets Fjorarets
+1658754.00 2670478.00
+Note
+4
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+371566.00 22220.00
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+371566.00 22220.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+371566.00 0.00
+@konomisk levetid Immaterielle eiend.
+3
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+*Py 31.12.25 er det kun igjen FOU verdier i balansen. Disse avskrives ikke
+da produktet enda ikke er
+ferdig.
+Note
+8
+Beholdning av_egne aksjer Antall Palydende Andel av aksjek.
+3878.00 1.00 3.20%
+Erverv
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Avhendelse
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Samvirkeforetak
+Vedtektsbestenmelser/arsmetevedtak/forslag til vedtak om medlemskapskonti
+Mer om aksjer
+
+Arsregnskap 2025
+Greindx AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 921 835 876
+
+RESULTATREGNSKAP |
+GREINDX AS
+
+Note 2025 2024
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER
+Salgsinntekt 0 31 183
+Annen driftsinntekt 1 8) 1 606 986
+Sum driftsinntekter 0 1 638 169
+Lénnskostnad 2,3 1 658 755 2 670 479
+Avskrivning av driftsmidler og immaterielle eiendeler 4 56 204 123 855
+Annen driftskostnad 1727 045 2 724 261
+Sum driftskostnader 3 442 004 5518595
+Driftsresultat -3 442 004 -3 880 426
+FINANSINNTEKTER OG FINANSKOSTNADER
+SkatteFunn - fradrag i skatt 679 492 1 098 109
+Annen renteinntekt 20 486 31181
+Annen finansinntekt 3522 2505
+Annen rentekostnad 145 069 111 626
+Annen finanskostnad 3720 4 345
+Resultat av finansposter 554 710 1 015 824
+Resultat for skattekostnad -2 887 294 -2 864 602
+Resultat 5 -2 887 294 -2 864 602
+EKSTRAORDINAERE INNTEKTER OG KOSTNADER
+Arsresultat 6 -2 887 294 -2 864 602
+OVERF®@RINGER
+Overfgrt til udekket tap 2 887 294 2 864 602
+Sum overf¢ringer -2 887 294 -2 864 602
+GREINDX AS SIDE 2
+
+BALANSE |
+GREINDX AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+Utvikling 4,7 22 220 22 220
+Sum immaterielle eiendeler 22 220 22 220
+VARIGE DRIFTSMIDLER
+Driftslgsgre, inventar o.a. utstyr 4 0 56 204
+Sum varige driftsmidler 4 0 56 204
+FINANSIELLE ANLEGGSMIDLER
+Sum anleggsmidler 22 220 78 424
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 13 125 0
+Andre kortsiktige fordringer 14 816 310 743
+Sum fordringer 27 941 310 743
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 616 919 2 229 202
+Sum omlgpsmidler 644 860 2 539 945
+Sum eiendeler 667 080 2 618 369
+GREINDX AS SIDE 3
+
+BALANSE |
+GREINDX AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 8 119 638 119 648
+Egne aksjer -3 878 -3 878
+Overkurs 3191511 3 195 701
+Annen innskutt egenkapital 500 610 500 610
+Sum innskutt egenkapital 3 807 881 3 812 081
+OPPTJENT EGENKAPITAL
+Annen egenkapital 9 -3 266 661 -3 266 661
+Udekket tap -2 887 294 0
+Sum opptjent egenkapital -6 153 955 -3 266 661
+Sum egenkapital 6 -2 346 074 545 420
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Konvertible lan 10 483 116 2 335 689
+Sum annen langsiktig gjeld 483 116 2 335 689
+KORTSIKTIG GJELD
+Konvertible lan 10 2 486 482 0
+Leverandgrgjeld 187 127 234 089
+Betalbar skatt 1,5 -679 492 -1 098 109
+Skyldig offentlige avgifter 139 845 106 086
+Annen kortsiktig gjeld 396 077 495 194
+Sum kortsiktig gjeld 2 530 038 -262 740
+Sum gjeld 3013 154 2 072 950
+Sum egenkapital og gjeld 667 080 2 618 370
+GREINDX AS SIDE 4
+
+BALANSE |
+GREINDX AS
+Oslo, 09.06.2026
+Styret i Greindx AS
+Coe Soleavdb fir Lichtenstein
+Amir Lichtenstein (Jun 12, 2026 14:26:55 GMT+3)
+Ove Vincent Solesvik Amir Lichtenstein
+styreleder/daglig leder styremediem
+Christian Fredrik Stray Ole Petter Ottersen
+Christian Fredrik Stray (Jun 10, 2026 08:52:08 GM1+2) Ole Petter Ottersen (Jun 9, 2026 19:09:38 GMT +2)
+Christian Fredrik Stray Ole Petter Ottersen
+styremediem styremediem
+GREINDX AS SIDE 5
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+
+Skatt
+
+Skattekostnaden 1 resultatregnskapet omfatter bade periodens betalbare skatt og endring 1 utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremforing
+ved utgangen av regnskapsaret. Skatteokende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres 1 samme periode er utlignet og nettofort.
+
+Klassifisering og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefores og avskrives over driftsmidlets gkonomiske
+levetid. Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som
+gjelder rabygget og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives
+til gjenvinnbart belgp ved verdifall som forventes ikke 4 vere forbigaende. Gjenvinnbart belgp er
+det hgyeste av netto salgsverdi og verdi i bruk. Verdi 1 bruk er naverdi av fremtidige
+kontantstrommer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for nedskrivingen
+ikke lenger er til stede.
+
+Klassifisering og vurdering av omlepsmidler
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslopet. Omlgpsmidler vurderes til laveste
+verdi av anskaffelseskost og virkelig verdi.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppfores til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjores pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Note 1 Offentlig tilskudd - Skattefunn
+Greindx AS har i 2025 fatt ikke fatt tildelt offentlig stotte utover det som na sokes om 1 arets
+skattefunn
+1 2025 er det fort kostnadsreduksjon av fradrag i skatt for forsknings- og utviklingsprosjekter via
+SkatteFUNN ordningen pa NOK-679 492 . Det ble gjort en prinsippendring 1 2022 hvor refusjon
+skattefunn er fort til en egen kostnadskonto 1 resultatregnskapet.
+I 2024 ble det fort kostnadsreduksjon av fradrag i skatt for forsknings- og utviklingsprosjekter via
+SkatteFUNN ordningen pa NOK -1 098 109.
+Note 2 Lennskostnader og antall arsverk
+Lennskostnader
+2025 2024
+
+Lgnninger 1 408 652 2 199 357
+Arbeidsgiveravgift 210 084 327 912
+Pensjonskostnader 72 002 134 956
+Andre ytelser -31 984 8 253
+Sum 1 658 755 2 670 479
+Selskapet har 1 2025 sysselsatt 4 arsverk.
+Under andre ytelser finner dekning av lonnskostnader etter avtale med Ui0, hvor det er
+viderefakturert for lonnskostnader inkl.sosiale kostnader for 1 person, 50 %
+Note 3 Innskuddspensjon
+Greindx AS har samsvar med lokale lover en plan for innskuddspensjon. Pr. 31.12.2025 var det 4
+medlemmer i ordningen.
+Kostnadsfort innskudd utgjorde NOK 72 002 og NOK 134 956 1 henholdsvis 2025 og 2024.
+Note 4 Anleggsmidler
+
+Driftslesere, FoU Sum
+
+inventar ol.
+
+Anskaffelseskost pr. 01.01.25 371 566 22 220 393 786
+Anskaffelseskost 31.12.25 371 566 22 220 393 786
+Akkumulerte avskrivninger 31.12.25 371 566 371 566
+Av- og nedskrivninger pr. 31.12.25 371 566 0 371 566
+Bokfert verdi 31.12.25 0 22 220 22 220
+Arets ordinzre avskrivninger 56 204 56 204
+@konomisk levetid 3 ar
+
+*Pr 31.12.25 er det kun igjen FOU verdier i balansen. Disse avskrives ikke da produktet enda ikke er
+ferdig.
+
+Note 5 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzrt resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzrt resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -2 887 294 -2 864 602
+Permanente forskjeller -699 978 -1 129 290
+Endring 1 midlertidige forskjeller 17 954 69 530
+Skattepliktig inntekt -3 569 317 -3 924 362
+Betalbar skatt 1 balansen:
+Betalbar skatt pa arets resultat -679 492 -1 098 109
+Sum betalbar skatt i balansen -679 492 -1 098 109
+Skatteeffekten av midlertidige forskjeller og underskudd til fremforing som har gitt opphav til utsatt
+skatt og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varige driftsmidler -85 299 -67 345 17 954
+Sum -85 299 -67 345 17 954
+Akkumulert fremforbart underskudd -16 705 391 -13 136 074 3 569 317
+Inngar ikke 1 beregningen av utsatt skatt 16 790 690 13 203 419 -3 587 271
+Utsatt skattefordel (22 %) 0 0 0
+I henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 6 Egenkapital
+Aksjekapital Overkurs Annen Egne Annen Sum
+Innskutt aksjer egenkapital egenkapital
+egenkapital
+Pr. 31.12.2024 119648 3195701 500610 -3878 = -3 266 661 545 420
+Arets resultat -2 887 294 -2 887 294
+Andre -10 -4190 0 -4 200
+endringer 1
+kapitalen
+Pr 31.12.2025 119638 3191511 500 610 -6 153 955 -2 346 074
+Grunnet underskudd 1 2024 bestemte selskapet seg for 4 disponere deler av overkursen for 4 dekke
+opp for det negative resultatet.

@@ -1,0 +1,402 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 496852
+Virksomheten
+Organisasjonsnummer : 984 550 316
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: HAIRPORT KOLSAS AS
+Forretningsadresse: Kolsas senter
+Redskiferveien 1
+1352 KOLSAS
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Roy Henrik Rismoen
+Dato for fastsettelse av Aarsregnskapet: 29.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 984 550 316
+
+HAIRPORT KOLSAS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 983 775 4 039 526
+
+Annen driftsinntekt 9 565 3 191
+
+Sum inntekter 3 993 340 4 042 717
+
+Kostnader
+
+Varekostnad 807 735 586 812
+
+Lennskostnad 2 1 922 170 2 058 362
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 34 424 9 692
+
+Annen driftskostnad 1 281 637 1 273 401
+
+Sum kostnader 4 045 966 3 928 268
+
+Driftsresultat -52 626 114 449
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 424
+
+Sum finansinntekter 424
+
+Annen rentekostnad 394
+
+Annen finanskostnad 272 180
+
+Sum finanskostnader 272 574
+
+Netto finans 152 -574
+
+Resultat fer skattekostnad -52 474 113 875
+
+Skattekostnad pa resultat 3 -10 419 28 301
+
+Arsresultat -42 055 85 574
+
+Arsresultat etter
+
+minoritetsinteresser -42 055 85 574
+
+Totalresultat -42 055 85 574
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 85 574
+
+Overfert fra annen
+
+egenkapital -42 055
+
+Sum overferinger og
+
+disponeringer -42 055 85 574
+Utskriftsdato 01.06.2026 Organisasjonsnr 984 550 316 Side 1 av 3
+
+Organisasjonsnr: 984 550 316
+HAIRPORT KOLSAS AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3 9 219
+Sum immaterielle eiendeler 9 219
+Varige driftsmidler
+Tomter, bygninger o.a.
+fast eiendom 128 007 162 431
+Sum varige driftsmidler 128 007 162 431
+Sum anleggsmidler 137 226 162 431
+Omlepsmidler
+Varer
+Sum varer 434 338 463 489
+Fordringer
+Andre kortsiktige
+fordringer 16 866 25 853
+Sum fordringer 16 866 25 853
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 308 661 446 133
+Sum bankinnskudd,
+kontanter og lignende 308 661 446 133
+Sum omlepsmidler 759 864 935 474
+SUM ELENDELER 897 090 1 097 905
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 150 000 150 000
+Sum innskutt egenkapital 150 000 150 000
+Opptjent egenkapital
+Annen egenkapital 52 901 94 956
+Sum opptjent egenkapital 52 901 94 956
+Sum egenkapital 202 901 244 956
+Gjeld
+
+Utskriftsdato 01.06.2026 Organisasjonsnr 984 550 316 Side 2 av 3
+
+Langsiktig gjeld
+
+Utsatt skatt 3 1 200
+
+Sum avsetninger for
+
+forpliktelser 1 200
+
+Annen langsiktig gjeld
+
+Sum langsiktig gjeld 1 200
+
+Kortsiktig gjeld
+
+Leverandergjeld 110 408 168 565
+
+Betalbar skatt 3 21 800
+
+Skyldig offentlige avgifter 198 877 216 289
+
+Annen kortsiktig gjeld 384 904 445 095
+
+Sum kortsiktig gjeld 694 189 851 749
+
+Sum gjeld 694 189 852 949
+
+SUM EGENKAPITAL OG GJELD 897 090 1 097 905
+Utskriftsdato 01.06.2026 Organisasjonsnr 984 550 316 Side 3 av 3
+
+Organisasjonsnr: 984 550 316
+
+HATIRPORT KOLSAS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+3.00
+
+BanklD Qualified Sining
+ismoen, Julie Valberg
+2026-05-11
+Hairport Kolsas AS ©) eerie”
+BankID Qualified Signing
+Org. nr. 984 550 316 =
+o
+ARSREGNSKAP
+2025
+Bestar av: Utarbeidet av:
+Finansregnskap med noter Odal konomi AS
+Org.nr. 981 241 150
+Autorisert regnskapsforetak
+
+ay BankID Qualified Signing
+) Rismoen, Julie Valberg
+2026-05-11
+BanklD Qualified Signing
+RESULTATREGNSKAP 2026-05-11
+HAIRPORT KOLSAS AS psmoen. F
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Driftsinntekter
+Salgsinntekt 3983 775 4 039 526
+Annen driftsinntekt 9565 3191
+Sum driftsinntekter 3 993 340 4 042 717
+Driftskostnader
+Varekostnad 807 735 586 812
+Lénnskostnad 2 1922170 2 058 362
+Avskrivning av driftsmidler og immaterielle eiendeler 34 424 9 692
+Annen driftskostnad 1 281 637 1 273 401
+Sum driftskostnader 4 045 966 3 928 268
+Driftsresultat -52 626 114 449
+FINANSINNTEKTER OG FINANSKOSTNADER
+Annen renteinntekt 424 0
+Annen rentekostnad 0 394
+Annen finanskostnad 272 180
+Resultat av finansposter 152 -574
+Resultat for skattekostnad -52 474 113 875
+Skattekostnad pa resultat 3 -10 419 28 301
+Resultat -42 055 85 574
+Arsresultat 42 055 85 574
+OVERF@RINGER
+Avsatt til annen egenkapital 0 85 574
+Overfgrt fra annen egenkapital 42 055 0
+Sum overf¢ringer -42 055 85 574
+HAIRPORT KOLSAS AS SIDE 2 ORG.NR: 984550 316
+
+ay BankID Qualified Signing
+) Rismoen, Julie Valberg
+2026-05-11
+BankID Qualified Signing
+BALANSE neo
+. BankiD Qualified Signing
+HAIRPORT KOLSAS AS Bismoen, Roy Henn
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+Utsatt skattefordel 3 9219 8)
+Sum immaterielle eiendeler 9 219 0
+Tomter, bygninger o.a. fast eiendom 128 007 162 431
+Sum varige driftsmidler 128 007 162 431
+Sum anleggsmidler 137 226 162 431
+OML@PSMIDLER
+Lager av varer og annen beholdning 434 338 463 489
+FORDRINGER
+Andre kortsiktige fordringer 16 866 25 853
+Sum fordringer 16 866 25 853
+Bankinnskudd, kontanter o.|. 308 661 446 133
+Sum omlgpsmidler 759 864 935 474
+Sum eiendeler 897 090 1 097 905
+HAIRPORT KOLSAS AS SIDE 3 ORG.NR: 984 550 316
+
+ay BankID Qualified Signing
+) Rismoen, Julie Valberg
+2026-05-11
+BankID Qualified Signing
+BALANSE neo
+. BankiD Qualified Signing
+HAIRPORT KOLSAS AS Bismoen, Roy Henn
+EGENKAPITAL OG GJELD Note 2025 2024
+INNSKUTT EGENKAPITAL
+Aksjekapital 150 000 150 000
+Sum innskutt egenkapital 150 000 150 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 52 901 94 956
+Sum opptjent egenkapital 52 901 94 956
+Sum egenkapital 202 901 244 956
+GJELD
+Utsatt skatt 3 0 1 200
+Sum avsetning for forpliktelser 0 1 200
+KORTSIKTIG GJELD
+Leverandgrgjeld 110 408 168 565
+Betalbar skatt 3 0 21 800
+Skyldig offentlige avgifter 198 877 216 289
+Annen kortsiktig gjeld 384 904 445 095
+Sum kortsiktig gjeld 694 189 851 749
+Sum gjeld 694 189 852 949
+Sum egenkapital og gjeld 897 090 1 097 905
+Lgrenskog, 05.05.2026
+Styret i Hairport Kolsas AS
+Roy Henrik Rismoen Tina Marie Hansen Rismoen
+styreleder styremedlem
+HAIRPORT KOLSAS AS SIDE 4 ORG.NR: 984550 316
+
+BankID Qualified Signing
+Rismoen, Julie Valberg
+Hairport Kolsas AS Noter til regnskapet 2025 2026-05-11
+BankID Qualified Signing
+
+Regnskapsprinsipper 2260511
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk fo. “7 _.2026-05-11 _
+DRIFTSINNTEKTER
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets dkonomiske levetid.
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+og en del som gijelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart beldp ved
+verdifall som forventes ikke a vere forbigaende. Gjenvinnbart belgp er det hgyeste av netto salgsverdi og
+verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstr@mmer knyttet til eiendelen. Nedskrivingen
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Oml¢psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+VARER
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+FORDRINGER
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Virksomhetens art og lokalisering
+Hairport Kolsas AS er et selskap der virksomheten omfatter Frisering og barbering. Selskapet er lokalisert i
+Beerum kommune.
+Note 2 Lénnskostnader og antall arsverk
+L@NNSKOSTNADER
+
+2025 2024
+Lénninger 1636 955 1 757 568
+Arbeidsgiveravgift 249 512 254 365
+Pensjonskostnader 34 274 35 814
+Andre ytelser 1429 10 616
+Sum 1922 170 2 058 362
+HAIRPORT KOLSAS AS SIDE S
+
+BankID Qualified Signing
+) Rismoen, Julie Valberg
+Hairport Kolsas AS Noter til regnskapet 2025 2026-05-11
+BankID Qualified Signing
+(ay Rismoen, Tina Marie
+2026-05-11
+Selskapet har i 2025 sysselsatt 3 arsverk. Banki) Qualiiec Signing
+ismoen, Roy Hennk
+2026-05-11
+HAIRPORT KOLSAS AS SIDE 6
+
+BankID Qualified Signing
+Rismoen, Julie Valberg
+Hairport Kolsas AS Noter til regnskapet 2025 2026-05-11
+(ay BankID Qualified Signing
+
+Note 3 Skatt YY 20260511
+Arets skattekostnad 2025 2026-05-11 et
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 21 800
+Endring i utsatt skatt -10 419 6501
+Skattekostnad ordinzrt resultat -10 419 28 301
+Skattepliktig inntekt:
+Resultat fgr skatt -52 474 113 875
+Permanente forskjeller 5 112 14 767
+Endring i midlertidige forskjeller 2 065 -29551
+Skattepliktig inntekt -45 297 99 091
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 21 800
+Sum betalbar skatt i balansen 0 21 800
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Varige driftsmidler 3391 5 456 2 065
+Sum 3391 5455 2 065
+Akkumulert fremfgrbart underskudd -45 297 0 45 297
+Grunnlag for utsatt skattefordel / skatt -41 906 5455 47 362
+Utsatt skattefordel / skatt (22 %) -9 219 1 200 10 420
+HAIRPORT KOLSAS AS SIDE 7

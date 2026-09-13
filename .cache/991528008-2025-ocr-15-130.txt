@@ -1,0 +1,543 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 578498
+Virksomheten
+Organisasjonsnummer : 991 528 008
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: VULPES HOLDING AS
+Forretningsadresse: Orrebakken 8
+0789 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Andreas Reade
+Dato for fastsettelse av arsregnskapet: 23.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 24.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 991 528 008
+
+VULPES HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 32 175 38 965
+
+Sum kostnader 32 175 38 965
+
+Driftsresultat -32 175 -38 965
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 20 312 16 128
+
+Annen finansinntekt 428 965 216 455
+
+Sum finansinntekter 449 277 232 583
+
+Annen rentekostnad 194 672 194 123
+
+Annen finanskostnad 0 1 158
+
+Sum finanskostnader 194 672 195 281
+
+Netto finans 254 605 37 302
+
+Resultat fer skattekostnad 222 430 -1 663
+
+Arsresultat 222 430 -1 663
+
+Arsresultat etter
+
+minoritetsinteresser 222 430 -1 663
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 222 430 -1 663
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 222 430 -1 663
+
+Sum overferinger og
+
+disponeringer 222 430 -1 663
+Utskriftsdato 24.06.2026 Organisasjonsnr 991 528 008 Side 1 av 3
+
+Organisasjonsnr: 991 528 008
+
+VULPES HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner 2 21 800 21 800
+
+Sum varige driftsmidler 21 800 21 800
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 7 951 000 7 951 000
+
+Sum finansielle
+
+anleggsmidler 7 951 000 7 951 000
+
+Sum anleggsmidler 7 972 800 7 972 800
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 1 016 570 598 467
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 016 570 598 467
+
+Sum omlepsmidler 1 016 570 598 467
+
+SUM ELENDELER 8 989 370 8 571 267
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 100 000 100 000
+
+Sum innskutt egenkapital 100 000 100 000
+Utskriftsdato 24.06.2026 Organisasjonsnr 991 528 008 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 3 576 016 3 353 585
+
+Sum opptjent egenkapital 3 576 016 3 353 585
+
+Sum egenkapital 3 676 016 3 453 585
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 3 4 748 000 4 748 000
+
+Sum annen langsiktig gjeld 4 748 000 4 748 000
+
+Sum langsiktig gjeld 4 748 000 4 748 000
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 565 354 369 682
+
+Sum kortsiktig gjeld 565 354 369 682
+
+Sum gjeld 5 313 354 5 117 682
+
+SUM EGENKAPITAL OG GJELD 8 989 370 8 571 267
+Utskriftsdato 24.06.2026 Organisasjonsnr 991 528 008 Side 3 av 3
+
+Organisasjonsnr: 991 528 008
+
+VULPES HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Handel, investering i fast eiendom og
+
+verdipapirer samt annen virksomhet i tilknytning til dette, herunder
+
+deltagelse i andre selskaper med tilsvarende virksomhet gjennom
+
+egenkapital, lan eller ved avgivelse av garantier
+
+Note
+
+4
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+5
+
+Spesifisering av resultatregnskapet
+
+Lennkostnader
+
+Mer om arsverk og lenn
+
+Vulpes Holding AS har ikke hatt lenns- eller personalkostnader i 2025 eller
+
+2024 og det foreligger heller ingen slike forpliktelser
+
+Note
+
+2
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+21800.00
+
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+21800.00
+
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+21800.00
+
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Note
+
+3
+
+Gjeld
+
+Gjeld som forfaller til betaling mer enn fem ar etter regnskapsarets slutt
+
+0.00
+
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+
+Balansefert verdi av de pantsatte eiendeler
+
+Summen av garantiforpliktelser som ikke er regnskapsfert
+
+Garantiforpliktelser som er sikret ved pant
+
+Mer om gjeld
+
+Vulpes Holding AS har et langsiktig aksjonerlan pa NOK 4 748 000 per
+31.12.2025. Lanet renteberegnes basert pa skjermingsrenten.
+
+Note
+
+6
+
+Noteopplysninger ut over minimumskravene for sma foretak
+
+Antall aksjer per 31.12.2025 var 100 hvor hver aksje hadde palydende verdi
+kroner 1000 som gir en total aksjekapital pa kroner 100 000. Alle aksjene
+gir samme rettigheter i selskapet og styrets leder eier samtlige aksjer.
+
+Arsregnskap 2025
+Vulpes Holding AS
+(991 528 008)
+Vulpes Holding AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 32175 38 965
+Sum driftskostnader 32 175 38 965
+Driftsresultat -32 175 -38 965
+Finansinntekter
+
+Annen renteinntekt 20 312 16 128
+
+Annen finansinntekt 428 965 216 455
+Sum finansinntekter 449 277 232 583
+Finanskostnader
+
+Annen rentekostnad 194 672 194123
+
+Annen finanskostnad @) 1158
+Sum finanskostnader 194 672 195 281
+Netto finans 254 605 37 302
+Resultat for skatt 222 430 -1 663
+Arsresultat 222430 -1663
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 222 430 -1 663
+Sum overferinger og disponeringer 222 430 -1 663
+
+Vulpes Holding AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Driftslos@re, inventar, verktay, kontormaskiner 2 21 800 21 800
+Sum varige driftsmidler 21 800 21 800
+Finansielle anieggsmidler
+
+Investeringer i aksjer og andeler 7 951 000 7 951 000
+Sum finansielle anleggsmidler 7951000 7951000
+Sum anleggsmidler 7972800 7972800
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 1 016 570 598 467
+Sum omlepsmidier 1 016 570 598 467
+Sum eiendeler 8989370 8 571 267
+
+Vulpes Holding AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+
+Annen egenkapital 3 576 016 3 353 585
+Sum opptjent egenkapital 3 576 016 3 353 585
+Sum egenkapital 3676016 3453585
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 3 4 748 000 4 748 000
+Sum annen langsiktig gjeld 4748000 4748000
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 565 354 369 682
+Sum kortsiktig gjeld 565 354 369 682
+Sum gjeld § 313354 5117682
+Sum egenkapital og gjeld 8989370 8571 267
+
+Vulpes Holding AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Handel, investering i fast eiendom og verdipapirer samt annen virksomhet i tilknytning til dette,
+herunder deltagelse i andre selskaper med tilsvarende virksomhet gjennom egenkapital, lan
+eller ved avgivelse av garantier
+Note 2: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 21 800
++ Kjop og annen tilgang i ar @)
+- Salg og annen avgang i ar @)
+= Anskaffelseskost 31. desember 21 800
+- Sum avskrivninger og nedskrivninger 0
+= Balansefort verdi per 31.12. 21 800
+Arets avskrivninger og nedskrivninger @)
+Vulpes Holding AS Arsregnskap Side 5 av 6
+
+Note 3: Gjeld
+Gjeld som forfaller etter fem ar ¢)
+Vulpes Holding AS har et langsiktig aksjoneerlan pa NOK 4 748 O00 per 31.12.2025. Lanet
+renteberegnes basert pa skjermingsrenten.
+Note 4: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Note 5: Lonnskostnader
+
+2025 2024
+Lenn 0 @)
+Arbeidsgiveravgift 0 0
+Pensjon 0 (@)
+Andre ytelser @) @)
+Sum lonnskostnader 0 0
+Vulpes Holding AS har ikke hatt lonns- eller personalkostnader i 2025 eller 2024 og det
+foreligger heller ingen slike forpliktelser
+Note 6: Andre opplysninger
+Antall aksjer per 31.12.2025 var 100 hvor hver aksje hadde palydende verdi kroner 1000 som
+gir en total aksjekapital pa kroner 100 000. Alle aksjene gir samme rettigheter i selskapet og
+styrets leder eier samtlige aksjer.
+
+Vulpes Holding AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Andreas Rade <andreas.roede@gmail.com>
+Elektronisk signering
+ANDREAS R@DE
+18.08.1979 - Styreleder
+Y) Signert
+23.06.2026 11:20 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 23.06.2026 11:19:32

@@ -1,0 +1,543 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 544099
+Virksomheten
+Organisasjonsnummer : 934 549 392
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: RAMME L AS
+Forretningsadresse: Gravane 20
+4610 KRISTIANSAND S
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Arne Johannes Andersen
+Dato for fastsettelse av arsregnskapet: 27.05.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 07.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 934 549 392
+
+RAMME L AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 1 76 237 11 111
+
+Nedskrivning av varige
+
+driftsmidler og
+
+immaterielle eiendeler 1
+
+Annen driftskostnad 2 264 159 38 538
+
+Sum kostnader 340 396 49 649
+
+Driftsresultat -340 396 -49 649
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 3 459 163
+
+Annen finansinntekt 3
+
+Sum finansinntekter 459 163
+
+Annen rentekostnad 3
+
+Annen finanskostnad 3 1 265
+
+Sum finanskostnader 1 265
+
+Netto finans -806 163
+
+Resultat fer skattekostnad -341 202 -49 486
+
+Skattekostnad pa resultat 4
+
+Arsresultat 4, 5 -341 202 -49 486
+
+Arsresultat etter
+
+minoritetsinteresser -341 202 -49 486
+
+Totalresultat -341 202 -49 486
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 5 -341 202 -49 486
+
+Sum overferinger og
+
+disponeringer -341 202 -49 486
+Utskriftsdato 07.07.2026 Organisasjonsnr 934 549 392 Side 1 av 3
+
+Organisasjonsnr: 934 549 392
+
+RAMME L AS
+
+BALANSE
+
+Belep i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 1 10 163 197 9 988 889
+
+Driftslesere, inventar o.
+
+a. utstyr 1
+
+Sum varige driftsmidler 1 10 163 197 9 988 889
+
+Finansielle anleggsmidler
+
+Lan til foretak i samme
+
+konsern 6
+
+Sum anleggsmidler 1 10 163 197 9 988 889
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 6
+
+Andre kortsiktige
+
+fordringer 6 680 418
+
+Sum fordringer 6 680 418
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 7 45 734 21 553
+
+Sum bankinnskudd,
+
+kontanter og lignende 45 734 21 553
+
+Sum omlepsmidler 46 414 21 972
+
+SUM ELENDELER 10 209 611 10 010 861
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 8 1 000 000 30 000
+
+Overkurs 9 030 000
+
+Annen innskutt egenkapital 5 -5 784 9 994 216
+
+Sum innskutt egenkapital 5 10 024 216 10 024 216
+Utskriftsdato 07.07.2026 Organisasjonsnr 934 549 392 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 9
+
+Udekket tap 390 688 49 486
+
+Sum opptjent egenkapital -390 688 -49 486
+
+Sum egenkapital 5 9 633 528 9 974 730
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 6
+
+Langsiktig konserngjeld 6
+
+Kortsiktig gjeld
+
+Leverandergjeld 6 575 000 32 584
+
+Betalbar skatt 4
+
+Annen kortsiktig gjeld 6 1 084 3 547
+
+Sum kortsiktig gjeld 6 576 084 36 131
+
+Sum gjeld 576 084 36 131
+
+SUM EGENKAPITAL OG GJELD 10 209 611 10 010 861
+Utskriftsdato 07.07.2026 Organisasjonsnr 934 549 392 Side 3 av 3
+
+Organisasjonsnr: 934 549 392
+
+RAMME L AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Docusign Envelope ID: 2541C636-39E1-8705-83A7-8585EB4500F 1
+°
+Arsregnskap 2025
+Ramme L AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 934 549 392
+
+Docusign Envelope ID: 2541C636-39E1-8705-83A7-8585EB4500F 1
+RESULTATREGNSKAP |
+RAMME L AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Avskrivning av driftsmidler og immaterielle eiendeler 1 76 237 11 111
+Annen driftskostnad 2 264 159 38 538
+Sum driftskostnader 340 396 49 649
+Driftsresultat -340 396 -49 649
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 3 459 163
+Annen finanskostnad 3 1265 0
+Resultat av finansposter -806 163
+Resultat for skattekostnad -341 202 -49 486
+Arsresultat 4,5 | -341 202) -49 486
+OVERF@RINGER
+
+Avsatt til annen egenkapital 5 -341 202 -49 486
+Sum overfgringer -341 202 -49 486
+RAMME L AS SIDE 2
+
+Docusign Envelope ID: 2541C636-39E1-8705-83A7-8585EB4500F 1
+BALANSE |
+RAMME L AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+Tomter, bygninger o.a. fast eiendom 1 10 163 197 9 988 889
+Sum varige driftsmidler 1 10 163 197 9 988 889
+FINANSIELLE ANLEGGSMIDLER
+Sum anleggsmidler 1 10 163 197 9 988 889
+OML@PSMIDLER
+FORDRINGER
+Andre kortsiktige fordringer 6 680 418
+Sum fordringer 6 680 418
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 7 45 734 21 553
+Sum omlgpsmidler 46 414 21 972
+Sum eiendeler 10 209 611 10 010 861
+RAMME L AS SIDE 3
+
+Docusign Envelope ID: 2541 C636-39E1-8705-83A7-8585EB4500F 1
+BALANSE |
+RAMME L AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 5,8 1 000 000 30 000
+Overkurs 9 030 000 0
+Annen innskutt egenkapital 5 -5 784 9 994 216
+Sum innskutt egenkapital 5 10 024 216 10 024 216
+OPPTJENT EGENKAPITAL
+Udekket tap -390 688 -49 486
+Sum opptjent egenkapital -390 688 -49 486
+Sum egenkapital 5 9 633 528 9 974 730
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+KORTSIKTIG GJELD
+Leverandgrgjeld 6 575 000 32 584
+Annen kortsiktig gjeld 6 1084 3547
+Sum kortsiktig gjeld 6 576 084 36 131
+Sum gijeld 576 084 36 131
+Sum egenkapital og gjeld 10 209 611 10 010 861
+Kristiansand, 26.05.2026
+Styret i Ramme L AS
+DocuSigned by: Signed by:
+Glenn Pettersen rs Johannes Andersen
+styreleder styremediem
+RAMME L AS SIDE 4
+
+Docusign Envelope ID: 2541 C636-39E1-8705-83A7-8585EB4500F 1
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og God regnskapsskikk for sma foretak.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets ¢konomiske levetid.
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belgp ved
+verdifall som forventes ikke a vzere forbigaende. Gjenvinnbart belgp er det hdyeste av netto salgsverdi og
+verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstra@mmer knyttet til eiendelen. Nedskrivingen
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+FORDRINGER
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Anleggsmidler
+
+Tomt Bygning Sum anleggsmidler
+Anskaffelseskost pr. 01.01.2025 4 000 000 6 000 000 10 000 000
+Tilgang kjgpte anleggsmidler 150 000 100 545 250 545
+Anskaffelseskost 31.12.2025 4 150 000 6 100 545 10 250 545
+Av- og nedskrivninger pr. 01.01.2025 11111 11111
+Arets ordinzere avskrivninger 76 237 76 237
+Av- og nedskrivninger pr. 31.12.2025 87 348 87 348
+Bokfgrt verdi 31.12.2025 4 150 000 6 013 197 10 163 197
+Dkonomisk levetid 50 ar
+Note 2 Lénnskostnader og ytelser, godtgj@relse til daglig leder, styret og revisor.
+Lénnskostnad
+Ramme L AS har ingen ansatte og har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger
+heller ingen slike forpliktelser.
+Lan til ledende personer
+Selskapet har ikke lan til ledende personer.
+
+Docusign Envelope ID: 2541C636-39E1-8705-83A7-8585EB4500F 1
+
+Ytelser til ledende personer
+Det er ikke utbetalt ytelser til ledende personer.
+Styrehonorar
+Det er ikke utbetalt honorar eller andre godtgjgrelser til styret. Styret har ikke krav pa szerskilt vederlag,
+bonus eller sluttpakke ved opphg@r av vervet.
+Honorar til selskapets revisor
+
+2025 2024
+Lovpalagt revisjon 111 744 0
+Andre tjenester utenfor revisjon 0 31 250
+Sum honorarer til selskapet revisor 111 744 31 250
+Honorar til revisor er inklusive merverdiavgift.
+Note 3 Poster som er slatt sammen i regnskapet
+Finansinntekter 2025 2024
+Annen renteinntekt 459 163
+Sum finansinntekter 459 163
+Annen finanskost 1265 0
+Note 4 Skatt
+Arets skattegrunnlag 2025 2024
+Sum skattekostnad 0 0
+Beregning av arets skattegrunnlag: 2025 2024
+Ordinzert resultat for -341 202 -49 486
+skattekostnad
+Permanente forskjeller 0 -5 784
+Endring i midlertidige forskjeller -81 385 -148 889
+Arets skattegrunnlag -422 587 -204 159
+Betalbar skatt i balansen: 2025 2024
+Sum betalbar skatt i balansen 0 0
+Oversikt over midlertidige forskjeller: 2025 2024 Endring
+Varige driftsmidler 230 274 148 889 -81 385
+Sum 230 274 148 889 -81 385
+Akkumulert fremfgrbart underskudd -626 746 -204 159 422 587
+Inngar ikke i beregningen av utsatt skatt 396 472 55 270 -341 202
+Sum 0 0 0
+Utsatt skattefordel (22 %) 0 0 0
+
+Docusign Envelope ID: 2541C636-39E1-8705-83A7-8585EB4500F 1
+| henhold til god regnskapsskikk for sma
+foretak, balansefgres ikke utsatt skattefordel.
+Forklaring til hvorfor arets skattekostnad ikke 2025 2024
+utgj@r 22 % av resultat for skatt:
+Resultat for skatt -341 202 -49 486
+22 % skatt av resultat for skatt -75 065 -10 887
+Permanente forskjeller 22 % 8) -1 272
+Beregnet skattekostnad -75 065 -12 159
+Effektiv skattesats 22,0 % 24,6 %
+Note 5 Egenkapital
+Aksjekapital §Overkurs Emisjon Ikke Resultat Sum
+registrert egenkapital
+kapital
+Pr. 31.12.2024 30 000 0 -5784 10000000 -49 486 9 974 730
+Arets resultat -341 202 -341 202
+Registrert kapital 970000 9030000 0 10 000 000
+Ikke registeret kapital 0 -10000 000 -10 000 000
+Pr 31.12.2025 1000000 9030000 -5 784 0 -390 688 9 633 528
+Kapitalgkning 20.12.2024 er foretaksregisteret 04.02.2025.
+Note 6 Fordringer og kortsiktig gjeld
+2025 2024
+Fordringer
+Andre kortsiktige fordringer 680 418
+Sum 680 418
+Gjeld
+Leverandgrgjeld 0 32 584
+Leverand@rgjeld innen konsern 575 000 0
+Sum 575 000 32 584
+Note 7 Bankinnskudd
+Selskapet har ingen bundne midler.
+Note 8 Aksjonzerer
+AKSJEKAPITALEN | RAMME L AS PR. 31.12.2025 BESTAR AV:
+Antall Palydende Bokfort
+Ordinzere aksjer 1 000 1 000,0 1 000 000
+Sum 1 000 1 000 000
+
+Docusign Envelope ID: 2541 C636-39E1-8705-83A7-8585EB4500F 1
+Alle aksjene i Ramme LAS er per 31.12.2025 eiet av Siem Kapital AS.
+Note 9 Fortsatt drift
+Selskapet arbeider med a finne leietaker, eventuelt videresalg til tilfredsstillende betingelser.
+Selskapet tilfgres likvider av eier til dekning av Idpende utgifter.
+| samsvar med regnskapsloven bekreftes det at forutsetningen om fortsatt drift er tilstede og denne
+forutsetningen er lagt til grunn ved utarbeidelsen av regnskapet.
+Note 10 Hendelser etter balansedagen
+Ramme L AS har fra 01.05.2026 leid ut bygget pa en kortsiktig kontrakt.
+
+Ernst & Young AS Tif: +47 24 00 24 00
+Mark te 13, 4611 Kristi d Wwww.ey.no
+Shape the future Postboke 184, 4662 Kristiansand Medlernmer av Den norske Revisorforening
+with confidence
+Til generalforsamlingen i Ramme L AS
+UAVHENGIG REVISORS BERETNING
+Konklusjon
+Vi har revidert arsregnskapet for Ramme L AS som bestar av balanse per 31. desember 2025,
+resultatregnskap for regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder et
+sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025 og
+av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med regnskapslovens 6
+regler og god regnskapsskikk i Norge. =
+e)
+Grunnlag for konklusjon Y
+st
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare :
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og z
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i relevante Ss
+lover og forskrifter i Norge og International Code of Ethics for Professional Accountants (inkludert a
+internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for Accountants BS
+(IESBA-reglene), og vi har overholdt vare @vrige etiske forpliktelser i samsvar med disse kravene. >
+Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var a
+konklusjon. Pe
+e
+*
+Ledelsens ansvar for arsregnskapet 2
+a
+Styret (ledelsen) er ansvarlige for 4 utarbeide arsregnskapet og for at det gir et rettvisende bilde i 8
+samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik =
+internkontroll som den finner ngdvendig for a kunne utarbeide et arsregnskap som ikke inneholder &
+vesentilig feilinformasjon, verken som fglge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for
+arsregnskapet med mindre ledelsen enten har til hensikt 4 avvikle selskapet eller legge ned
+virksomheten, eller ikke har noe realistisk alternativ til dette.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som felge av misligheter eller utilsiktede feil, og 4 avgi en revisjonsberetning som
+inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti for at en
+revisjon utfort i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon kan
+oppsta som falge av misligheter eller utilsiktede feil. Feilinformasjon er 4 anse som vesentlig dersom den
+enkeltvis eller samlet med rimelighet kan forventes a pavirke de gkonomiske beslutningene som brukerne
+foretar, pa grunnlag av arsregnskapet.
+Som del av en revisjon i samsvar med ISA-ene, utover vi profesjonelt skjonn og utviser profesjonell
+skepsis gjennom hele revisjonen. | tillegg:
+A member firm of Ernst & Young Global Limited
+
+2
+Shape the future
+with confidence
+e identifiserer og vurderer vi risikoen for vesentlig feilinformasjon i arsregnskapet, enten det skyldes
+misligheter eller utilsiktede feil. Vi utformer og gjennomfgrer revisjonshandlinger for a handtere
+slike risikoer, og innhenter revisjonsbevis som er tilstrekkelig og hensiktsmessig som grunnlag for
+var konklusjon. Risikoen for at vesentlig feilinformasjon som fglge av misligheter ikke blir
+avdekket, er hgyere enn for feilinformasjon som skyldes utilsiktede feil, siden misligheter kan
+innebeere samarbeid, forfalskning, bevisste utelatelser, uriktige fremstillinger eller overstyring av
+intern kontroll.
+e opparbeider vi oss en forstaelse av den interne kontrollen som er relevant for revisjonen, for a
+utforme revisjonshandlinger som er hensiktsmessige etter omstendighetene, men ikke for a gi
+uttrykk for en mening om effektiviteten av selskapets interne kontroll.
+e evaluerer vi om de anvendte regnskapsprinsippene er hensiktsmessige og om
+regnskapsestimatene og tilharende noteopplysninger utarbeidet av ledelsen er rimelige.
+e konkluderer vi pa om ledelsens bruk av fortsatt drift-forutsetningen er hensiktsmessig, og, basert
+pa innhentede revisjonsbevis, hvorvidt det foreligger vesentlig usikkerhet knyttet til hendelser
+eller forhold som kan skape betydelig tvil om selskapets evne til fortsatt drift. Dersom vi _
+konkluderer med at det eksisterer vesentlig usikkerhet, kreves det at vi i revisjonsberetningen y
+henleder oppmerksomheten pa tilleggsopplysningene i arsregnskapet, eller, dersom slike BS
+tilleggsopplysninger ikke er tilstrekkelige, at vi modifiserer var konklusjon. Vare konklusjoner er 8
+basert pa revisjonsbevis innhentet frem til datoen for revisjonsberetningen. Etterfalgende 2
+hendelser eller forhold kan imidlertid medfgre at selskapet ikke kan fortsette driften. a
+e evaluerer vi den samlede presentasjonen, strukturen og innholdet i arsregnskapet, inkludert a
+tilleggsopplysningene, og hvorvidt arsregnskapet gir uttrykk for de underliggende transaksjonene 8
+og hendelsene pa en mate som gir et rettvisende bilde. a
+x
+Vi kommuniserer med styret blant annet om det planlagte innholdet i og tidspunktet for revisjonsarbeidet eS
+og eventuelle vesentlige funn i revisjonen, herunder vesentlige svakheter i den interne kontrollen som vi =
+avdekker gjennom revisjonen. $
+o
+5
+Kristiansand, 26. mai 2026 3
+ERNST & YOUNG AS g
+&
+Revisjonsberetningen er signert elektronisk €
+Espen Fyllingen
+statsautorisert revisor
+Uavhengig revisors beretning - Ramme L AS 2025
+A member firm of Ernst & Young Global Limited

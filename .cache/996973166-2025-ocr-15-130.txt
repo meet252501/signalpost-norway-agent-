@@ -1,0 +1,571 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 694271
+Virksomheten
+Organisasjonsnummer : 996 973 166
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: SELJORD HESTESENTER AS
+Forretningsadresse: Arhus
+Flatdalsvegen 53
+3840 SELJORD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Gitte Hagetveit
+Dato for fastsettelse av Aarsregnskapet: 29.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 996 973 166
+
+SELJORD HESTESENTER AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREKNESKAP
+
+Inntekter
+
+Salsinntekt 2 950 835 2 703 O51
+
+Anna driftsinntekt 20 200 34 000
+
+Sum inntekter 2 971 035 2 737 O51
+
+Kostnader
+
+Varekostnad 495 820 483 958
+
+Lenskostnad 1, 2 1 087 973 943 741
+
+Avskriving pa varige
+
+driftsmidlar og
+
+immaterielle eigedelar 3 19 400 28 650
+
+Annan driftskostnad 1 248 759 983 854
+
+Sum kostnader 2 851 952 2 440 203
+
+Driftsresultat 119 083 296 848
+
+Finansinntekter og
+
+finanskostnader
+
+Anna renteinntekt 264 390
+
+Sum finansinntekter 264 390
+
+Annan rentekostnad 1 398 7 525
+
+Sum finanskostnader 1 398 7 525
+
+Netto finans -1 134 -7 135
+
+Resultat fer skattekostnad 117 949 289 712
+
+Skattekostnad 4, 5 23 371 68 242
+
+Arsresultat 94 578 221 470
+
+Annan eigenkapital 94 578 221 470
+Utskriftsdato 20.07.2026 Organisasjonsnr 996 973 166 Side 1 av 3
+
+Organisasjonsnr: 996 973 166
+
+SELJORD HESTESENTER AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIGEDELAR
+
+Anleggsmiddel
+
+Imnaterielle eigedelar
+
+Sum immaterielle eigedelar 0 0
+
+Varige driftsmiddel
+
+Driftslaus@yre, inventar,
+
+verkt@y, kontormaskiner,
+
+o.l. 3 171 200 135 600
+
+Sum varige driftsmiddel 171 200 135 600
+
+Finansielle anleggsmiddel
+
+Sum finansielle
+
+anleggsmiddel 0 fe]
+
+Sum anleggsmiddel 171 200 135 600
+
+Omlepsmiddel
+
+Varer
+
+Varer 641 300 567 255
+
+Krav
+
+Kundefordringar 249 220 329 678
+
+Andre kortsiktige
+
+fordringar 843 43 767
+
+Sum krav 250 063 373 445
+
+Investeringar
+
+Sum investeringar 0 0
+
+Bankinnskot, kontantar og
+
+liknande
+
+Bankinnskot, kontantar og
+
+liknande 138 415 81 501
+
+Sum bankinnskot,
+
+kontantar og liknande 138 415 81 501
+
+Sum omlepsmiddel 1 029 777 1 022 200
+
+SUM EIGEDELAR 1 200 977 1 157 800
+
+BALANSE - EIGENKAPITAL OG
+
+GJELD
+
+Eigenkapital
+
+Innskoten eigenkapital
+
+Aksjekapital 6, 7 100 000 100 000
+
+Sum innskoten eigenkapital 100 000 100 000
+Utskriftsdato 20.07.2026 Organisasjonsnr 996 973 166 Side 2 av 3
+
+Opptent eigenkapital
+
+Annan eigenkapital 7 703 923 609 346
+
+Sum opptent eigenkapital 703 923 609 346
+
+Sum eigenkapital 803 923 709 346
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetjingar for plikter 0 0
+
+Anna langsiktig gjeld
+
+Sum anna langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjonar 8 68 455 44 852
+
+Leverandergjeld 134 755 154 049
+
+Betalbar skatt 4, 5 23 371 68 242
+
+Skuldige offentlege
+
+avgifter 29 065 53 951
+
+Anna kortsiktig gjeld 9 141 408 127 361
+
+Sum kortsiktig gjeld 397 054 448 455
+
+Sum gjeld 397 054 448 455
+
+SUM EIGENKAPITAL OG GJELD 1 200 977 1 157 800
+Utskriftsdato 20.07.2026 Organisasjonsnr 996 973 166 Side 3 av 3
+
+Organisasjonsnr: 996 973 166
+
+SELJORD HESTESENTER AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Rekneskapsprinsipp
+
+Arsrekneskapen er sett opp 1 samsvar med rekneskapslova og god
+rekneskapsskikk for sma foretak.
+
+Salsinntekter
+
+Inntektsfering ved sal av
+
+varer skjer pa leveringstidspunktet. Tenester blir inntektsferte etter
+kvart som dei blir leverte.
+
+Klassifisering og vurdering av
+
+balansepostar
+
+Anleggsmidlar er eigedelar bestemd til varig eige eller bruk.
+
+Eigedelar som er knytt til varekretslapet er klassifiserte som omlepsmidlar.
+Fordringar blir klassifiserte som omlepsmidlar viss dei forfell til betaling
+innan eitt ar etter transaksjonsdagen. Tilsvarande blir gjeld klassifisert
+som kortsiktig viss gjelda forfell til betaling innan eitt ar.
+Omlepsmidlar blir vurderte til lagaste av innkjepskost og verkeleg verdi.
+Kortsiktig gjeld blir balansefort til nominelt belep pa
+etableringstidspunktet. Anleggsmidlar blir vurderte til innkjaepskost.
+Varige anleggsmidlar blir avskrivne etter ein fornuftig avskrivingsplan.
+Anleggsmidlane blir nedskrivne til verkeleg verdi ved verdifall som ikkje
+er forventa a vera forbigaande. Langsiktig gjeld med unntak av andre
+avsetningar blir balansefert til nominelt bele@p pa etableringstidspunktet.
+Fordringar
+
+Kundefordringar og andre fordringar er oppferte i balansen til
+
+palydande etter fradrag for avsetning til forventa tap. Avsetning til tap
+blir gjord pa grunnlag av individuelle vurderingar av dei enkelte
+fordringane.
+
+Varebehaldningar
+
+Lager av innkj@pte varer er verdsette til
+
+lagaste verdi av innkjgpskost etter FIFO- prinsippet og verkeleg verdi. Det
+blir gjennomfert nedskriving for parekneleg ukurans.
+
+Varige
+
+driftsmidlar
+
+Varige driftsmidlar blir balansefert og blir avskrive over
+
+levetida til driftsmidla dersom dei har anteke levetid over 3 ar og har ein
+kostpris som overstig kr 30 000. Direkte vedlikehald av driftsmidlar blir
+kostnadsfert lepande under driftskostnader, medan pakostnader eller
+forbetringar blir tillagde kostprisen til driftsmiddelet og blir avskrivne
+i takt med driftsmiddelet.
+
+Felgjande rekneskapsprinsipp er
+
+brukt:
+
+Leigeavtalar er ikkje balanseforte.
+
+Skatt
+
+Skattekostnaden i
+
+resultatrekneskapen omfattar bade den skatten som skal betalast i perioden
+og endring i utsett skatt. Utsett skatt er berekna med 22% pa grunnlag av
+dei mellombelse forskjellane som eksisterer mellom rekneskapsmessige og
+skattemessige verdiar, og dessutan skattemessig underskot til framforing
+ved utgangen av rekneskapsaret. Skatteaukande og skattereduserande
+mellombelse forskjellar som reverserer eller kan reversera i same periode
+er fastsette og skatteverknaden er berekna pa nettogrunnlaget.
+
+Selskapet
+
+har ikkje endra rekneskapsprinsipp fra 2024 til 2025.
+Note
+1
+Tal pa arsverk i rekneskapsaret
+2.00
+Note
+2
+Spesifisering av resultatrekneskapen
+Lennkostnader
+Lenn Arets Fljorarets
+908905.00 713456.00
+Folketrygdavgift Arets Fjorarets
+109804.00 97975 .00
+Andre ytingar Arets Fljorarets
+69265.00 132310.00
+Sum_ lennskostnader Arets Fjorarets
+1087973 .00 943741.00
+Note
+8
+Gjeld
+Gjeld som forfell til betaling meir enn fem ar etter rekneskapsaret sin slutt
+Gjeld som er sikra ved pant eller liknande sikkerheit i eigedelar
+68455.00
+Balansefert verdi av dei pantsatte eigedelar
+Summen av garantiplikter som ikkje er rekneskapsfort
+Garantiplikter som er sikra ved pant
+Meir om gjeld
+Eigedel stilt som tryggleik:
+Ingen tinglyste hefte
+
+Arsrekneskap for
+SELJORD HESTESENTER AS
+996973166
+Rekneskapsar
+01.01.2025 - 31.12.2025
+
+BankiD Qualified Signature
+
+SELJORD HESTESENTER AS ened
+996 973 166
+Resultatrekneskap
+
+Note 2025 2024
+Driftsinntekter
+Salsinntekt 2 950 835 2 703 051
+Anna driftsinntekt 20 200 34 000
+Sum driftsinntekter 2 971 035 2737 051
+Driftskostnader
+Varekostnad -495 820 -483 958
+L@nskostnad 1,2 -1 087 973 -943 741
+Avskriving pa varige driftsmidlar og immaterielle 3 -19 400 -28 650
+eigedelar
+Annan driftskostnad -1 248 759 -983 854
+Sum driftskostnader -2 851 952 -2 440 203
+Driftsresultat 119 083 296 848
+Finansinntekter
+Anna renteinntekt 264 390
+Sum finansinntekter 264 390
+Finanskostnader
+Annan rentekostnad -1 398 -7 525
+Sum finanskostnader -1 398 -7 525
+Netto finans -1 134 -7 135
+Resultat for skattekostnad 117 949 289 712
+Skattekosinad 4,5 -23 371 -68 242
+Arsresultat 94 578 221 470
+Overferingar
+Annan eigenkapital 94 578 221 470
+Sum overferingar 94 578 221 470
+
+BankID Qualified Signature
+
+SELJORD HESTESENTER AS ened
+996 973 166
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIGEDELAR
+Anleggsmidlar
+Varige driftsmidlar
+Driftslaus@yre, inventar, verktgy, kontormaskiner, o.|. 3 171 200 135 600
+Sum varige driftsmidlar 171 200 135 600
+Sum anleggsmidlar 171 200 135 600
+Omlgpsmidlar
+Varer
+Varer 641 300 567 255
+Sum varer 641 300 567 255
+Fordringar
+Kundefordringar 249 220 329 678
+Andre kortsiktige fordringar 843 43 767
+Sum fordringar 250 063 373 445
+Bankinnskot, kontantar og liknande
+Bankinnskot, kontantar og liknande 138 415 81 501
+Sum bankinnskot, kontantar og liknande 138 415 81 501
+Sum omlgpsmidlar 1 029 777 1 022 200
+SUM EIGEDELAR 1 200 977 1 157 800
+
+BankID Qualified Signature
+
+SELJORD HESTESENTER AS ened
+996 973 166
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIGENKAPITAL OG GJELD
+Eigenkapital
+Innskoten eigenkapital
+Aksjekapital 6,7 100 000 100 000
+Sum innskoten eigenkapital 100 000 100 000
+Opptent eigenkapital
+Annan eigenkapital tf 103 923 609 346
+Sum opptent eigenkapital 703 923 609 346
+Sum eigenkapital 803 923 709 346
+Gjeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjonar 8 68 455 44 852
+Leverandgrgjeld 134 755 154 049
+Betalbar skatt 4,5 23 371 68 242
+Skuldige offentlege avgifter 29 065 53 951
+Anna kortsiktig gjeld 9 141 408 127 361
+Sum kortsiktig gjeld 397 054 448 455
+Sum gjeld 397 054 448 455
+SUM EIGENKAPITAL OG GJELD 1 200 977 1 157 800
+SELJORD, 29.06.2026
+Gitte Hegetveit
+leiaren i styret / dagleg leiar
+
+BankID Qualified Signature
+SELJORD HESTESENTER AS ened
+996 973 166
+Notar
+Verksemdsart og kvar verksemda blir driven
+Selskapet driv hestesenter i Seljord.
+Rekneskapsprinsipp
+Arsrekneskapen er sett opp i samsvar med rekneskapslova og god rekneskapsskikk for sma fgretak.
+Salsinntekter
+Inntektsfgring ved sal av varer skjer pa leveringstidspunktet. Tenester blir inntektsfarte etter kvart som dei blir
+leverte.
+Klassifisering og vurdering av balansepostar
+Anleggsmidlar er eigedelar bestemd til varig eige eller bruk. Eigedelar som er knytt til varekrets!@pet er
+klassifiserte som oml@psmidlar. Fordringar blir klassifiserte som oml@psmidlar viss dei forfell til betaling innan
+eitt ar etter transaksjonsdagen. Tilsvarande blir gjeld klassifisert som kortsiktig viss gjelda forfell til betaling
+innan eitt ar.
+Omlgepsmidiar blir vurderte til lagaste av innkj@pskost og verkeleg verdi. Kortsiktig gjeld blir balansefert til
+nominelt belgp pa etableringstidspunktet. Anleggsmidlar blir vurderte til innkjg@pskost. Varige anleggsmidilar blir
+avskrivne etter ein fornuftig avskrivingsplan. Anileggsmidlane blir nedskrivne til verkeleg verdi ved verdifall som
+ikkje er forventa a vera forbigaande. Langsiktig gjeld med unntak av andre avsetningar blir balansefert til
+nominelt belgp pa etableringstidspunktet.
+Fordringar
+Kundefordringar og andre fordringar er oppferte i balansen til palydande etter fradrag for avsetning til forventa
+tap. Avsetning til tap blir gjord pa grunnlag av individuelle vurderingar av dei enkelte fordringane.
+Varebehaldningar
+Lager av innkjgpte varer er verdsette til lagaste verdi av innkj@pskost etter FIFO- prinsippet og verkeleg verdi.
+Det blir giennomfert nedskriving for parekneleg ukurans.
+Varige driftsmidlar
+Varige driftsmidlar blir balansefert og blir avskrive over levetida til driftsmidla dersom dei har anteke levetid over
+3 ar og har ein kostpris som overstig kr 30 000. Direkte vedlikehald av driftsmidlar blir kostnadsfert Iopande
+under driftskostnader, medan pakostnader eller forbetringar blir tillagde kostprisen til driftsmiddelet og blir
+avskrivne i takt med driftsmiddelet.
+Folgjande rekneskapsprinsipp er brukt:
+Leigeavtalar er ikkje balanseferte.
+Skatt
+Skattekostnaden i resultatrekneskapen omfattar bade den skatten som skal betalast i perioden og endring i
+utsett skatt. Utsett skatt er berekna med 22% pa grunnlag av dei mellombelse forskjellane som eksisterer
+mellom rekneskapsmessige og skattemessige verdiar, og dessutan skattemessig underskot til framfering ved
+utgangen av rekneskapsaret. Skatteaukande og skattereduserande mellombelse forskjellar som reverserer eller
+kan reversera i same periode er fastsette og skatteverknaden er berekna pa nettogrunnlaget.
+Selskapet har ikkje endra rekneskapsprinsipp fra 2024 til 2025.
+
+BankID Qualified Signature
+
+SELJORD HESTESENTER AS ened
+996 973 166
+
+Note 1 - Talet pa arsverk
+
+Talet pa arsverk sysselsett i rekneskapsaret: 2
+
+Note 2 - Lonnskostnader
+
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 908 905 713 456
+Arbeidsgivaravgift 109 804 97 975
+Pensjonskostnader 0 0
+Andre relaterte ytingar 69 265 132 310
+Sum 1 087 973 943 741
+Note 3 - Varige driftsmidlar/anleggsmidlar
+
+Driftslause@yre,
+
+Varige driftsmidlar inventar o.|
+Innkj@pskost pr 01.01 280 312
+Tilgang i aret 55 000
+Avgang i aret 0
+Innkjgpskost pr 31.12 335 312
+Akkumulert av- og nedskrivingar 01.01 -144 712
+Akkumulert av- og nedskrivingar 31.12 -164 112
+Balansefort verdi pr 31.12 171 200
+Arets av- og nedskrivingar 19 400
+@konomisk levetid 4,97 -10
+Avskrivingsplan Lineeer
+Note 4 - Spesifisering av skatt
+
+Skattekostnad 2025 2024
+Betalbar skatt pa alminneleg inntekt 23 371 68 242
+Skattekostnad 23 371 68 242
+Skattepliktig inntekt
+
+Resultat for skatt 117 949 289 712
+Permanente skilnader 1 068 -379
++/- Endring i mellombelse forskjellar -12 785 20 856
+Skattepliktig inntekt 106 231 310 189
+Betalbar skatt i balansen
+
+Betalbar skatt pa arets resultat 23 371 68 242
+Betalbar skatt i balansen 23 371 68 242
+
+BankID Qualified Signature
+SELJORD HESTESENTER AS ened
+996 973 166
+Note 5 - Mellombelse forskjellar - utsett skatt/skattefordel
+Utsett skatt/utsett skattefordel i balansen blir avsett pa grunnlag av forskjellar mellom rekneskapsmessige og
+skattemessige verdiar isamsvar med norsk rekneskapsstandard for skatt.
+Mellombelse skatteaukande og skattereduserande forskjellar som kan utliknast er nettoferte.
+Mellombelse forskjellar knytt til: 01.01.2025 31.12.2025 Endring
+Anleggsmiddel 4 423 22 259 -17 835
+Omlgpsmidiar -125 000 -130 050 5 050
+Netto skilnader -120 577 -107 791 -12 785
+Skattereduserande skilnader som ikkje kan utlignast 120 577 107 791 12 785
+Sum midlertidige skilnader som inngar i grunnlaget for 0 0 0
+utsett skatt/skattefordel
+Utsett skatt 31.12.2025 basert pa 22 % 0 0 0
+Note 6 - Aksjekapital
+Aksjanes
+Aksjeklasse Talet pa aksjar palydande Bokfert verdi
+Ordinzere 100 1 000 100 000
+Aksjonerar Talet pa aksjar Eigardel % Aksjeklasse
+Gitte Hegetveit 50 50,00 Ordinere
+Stig Hegetveit 50 50,00 Ordineere
+Det samla talet aksjar 100 100
+Note 7 - Eigenkapital
+Opptent
+A Kjekapital _eigenkapital, Sum
+Eigenkapital 31.12.2024 100 000 609 346 709 346
+Arsresultat 0 94 578 94 578
+Eigenkapital 31.12.2025 100 000 703 923 803 923
+Note 8 - Gjeld og garantiforpliktingar
+Belop
+Del av gjelda som forfell til betaling meir enn fem ar etter slutten av rekneskapsaret 0
+Gjeld som er sikra ved pant eller liknande tryggleik i eigedelar 68 455
+Balansefort verdi av pantsette eigedelar 0
+Summen av garantiforpliktingar som ikkje er rekneskapsferte 0
+Meir om gjeld
+Eigedel stilt som tryggleik:
+Ingen tinglyste hefte
+Note 9 - Mellomverande aksjonzr/nzrstaande
+Aksjonzr/nzrstaande Belap: (-) Gjeld, (+) Fordring
+Gjeld til aksjoneer -kr. 39 278

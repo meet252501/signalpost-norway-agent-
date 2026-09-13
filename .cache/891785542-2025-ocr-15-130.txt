@@ -1,0 +1,522 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 328199
+Enheten
+Organisasjonsnummer : 891 785 542
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: RORLEGGERMESTER SIGURDUR
+HJARTARSON AS
+Forretningsadresse: Herregardsveien 56
+1634 GAMLE FREDRIKSTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: SIGURDUR HJARTARSON
+Dato for fastsettelse av Aarsregnskapet: 05.03.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 07.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 891 785 542
+
+RORLEGGERMESTER SIGURDUR
+
+HJARTARSON AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 889 811 1 974 285
+
+Annen driftsinntekt 53 650
+
+Sum inntekter 1 943 461 1 974 285
+
+Kostnader
+
+Varekostnad 606 654 625 976
+
+Lennskostnad 1 874 496 993 350
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 2 40 600 40 600
+
+Annen driftskostnad 415 902 386 647
+
+Sum kostnader 1 937 652 2 046 574
+
+Driftsresultat 5 810 -72 289
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap 60 000
+
+Annen renteinntekt 72 136
+
+Annen finansinntekt 19 350
+
+Sum finansinntekter 72 79 486
+
+Annen rentekostnad 24 490 31 441
+
+Sum finanskostnader 24 490 31 441
+
+Netto finans -24 418 48 045
+
+Resultat fer skattekostnad -18 608 -24 245
+
+Skattekostnad pa resultat 3
+
+Arsresultat 4 -18 608 -24 245
+
+Arsresultat etter
+
+minoritetsinteresser -18 608 -24 245
+
+Totalresultat -18 608 -24 245
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -10 490
+
+Avsatt til annen
+
+egenkapital -24 245
+
+Overfert fra annen
+
+egenkapital -8 118
+
+Sum overferinger og
+
+disponeringer -18 608 -24 245
+Utskriftsdato 07.03.2026 Organisasjonsnr 891 785 542 Side 1 av 4
+
+Utskriftsdato 07.03.2026 Organisasjonsnr 891 785 542 Side 2 av 4
+
+Organisasjonsnr: 891 785 542
+
+RORLEGGERMESTER SIGURDUR
+
+HJARTARSON AS
+
+BALANSE
+
+Belop i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 2
+
+Maskiner og anlegg 2 318 350 358 950
+
+Skip og flytende
+
+installasjoner 2
+
+Driftslesere, inventar o.
+
+a. utstyr 2
+
+Sum varige driftsmidler 2 318 350 358 950
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 5 20 000 20 000
+
+Andre langsiktige
+
+fordringer 6
+
+Sum finansielle
+
+anleggsmidler 20 000 20 000
+
+Sum anleggsmidler 338 350 378 950
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 7 112 784 248 846
+
+Andre kortsiktige
+
+fordringer 6 35 959 21 048
+
+Sum fordringer 6 148 743 269 894
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 5
+
+Markedsbaserte aksjer 5
+
+Markedsbaserte obligasjoner 5
+
+Andre markedsbaserte
+
+finansielle instrumenter 5
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 8 275 532 90 152
+
+Sum bankinnskudd,
+
+kontanter og lignende 275 532 90 152
+Utskriftsdato 07.03.2026 Organisasjonsnr 891 785 542 Side 3 av 4
+
+Sum omlepsmidler 424 276 360 045
+
+SUM ELENDELER 762 626 738 995
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 9 100 000 100 000
+
+Beholdning av egne aksjer 9
+
+Annen innskutt egenkapital 8 118
+
+Sum innskutt egenkapital 100 000 108 118
+
+Opptjent egenkapital
+
+Annen egenkapital 10
+
+Udekket tap 10 490
+
+Sum opptjent egenkapital -10 490
+
+Sum egenkapital 4 89 510 108 118
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 6 288 538 349 928
+
+Langsiktig konserngjeld 6
+
+Sum annen langsiktig gjeld 288 538 349 928
+
+Sum langsiktig gjeld 288 538 349 928
+
+Kortsiktig gjeld
+
+Leverandergjeld 143 833 93 798
+
+Betalbar skatt 3
+
+Skyldig offentlige avgifter 141 216 78 105
+
+Annen kortsiktig gjeld 99 529 109 046
+
+Sum kortsiktig gjeld 384 578 280 949
+
+Sum gjeld 673 116 630 877
+
+SUM EGENKAPITAL OG GJELD 762 626 738 995
+Utskriftsdato 07.03.2026 Organisasjonsnr 891 785 542 Side 4 av 4
+
+Organisasjonsnr: 891 785 542
+
+RORLEGGERMESTER SIGURDUR
+
+HJARTARSON AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+1.00
+
+Arsregnskap 2025
+R¢rleggermester Sigurdur Hjartarson AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 891 785 542
+
+RESULTATREGNSKAP |
+R@RLEGGERMESTER SIGURDUR HJARTARSON AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 1 889 811 1 974 285
+Annen driftsinntekt 53 650 0
+Sum driftsinntekter 1 943 461 1 974 285
+Varekostnad 606 654 625 976
+Lénnskostnad 1 874 496 993 350
+Avskrivning av driftsmidler og immaterielle eiendeler 2 40 600 40 600
+Annen driftskostnad 415 902 386 647
+Sum driftskostnader 1 937 652 2 046 574
+Driftsresultat 5810 -72 289
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Inntekt pa investering i datterselskap 0 60 000
+Annen renteinntekt 72 136
+Annen finansinntekt 0 19 350
+Annen rentekostnad 24 490 31 441
+Resultat av finansposter -24 418 48 045
+Resultat for skattekostnad -18 608 -24 245
+Arsresultat 4 -18 608 -24 245
+OVERF@RINGER
+
+Avsatt til annen egenkapital 0 -24 245
+Overfgrt til udekket tap 10 490 0
+Overfgrt fra annen egenkapital 8118 0
+Sum overfgringer -18 608 -24 245
+RORLEGGERMESTER SIGURDUR HJARTARSON AS SIDE 2
+
+BALANSE |
+
+R@RLEGGERMESTER SIGURDUR HJARTARSON AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+Maskiner og anlegg 2 318 350 358 950
+Sum varige driftsmidler 2 318 350 358 950
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i aksjer og andeler 5 20 000 20 000
+Sum finansielle anleggsmidler 20 000 20 000
+Sum anleggsmidler 338 350 378 950
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 7 112 784 248 846
+Andre kortsiktige fordringer 6 35 959 21 048
+Sum fordringer 6 148 743 269 894
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 8 275 532 90 152
+Sum omlgpsmidler 424 276 360 045
+Sum eiendeler 762 626 738 995
+R@RLEGGERMESTER SIGURDUR HJARTARSON AS SIDE 3
+
+BALANSE |
+R@RLEGGERMESTER SIGURDUR HJARTARSON AS
+
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 9 100 000 100 000
+Annen innskutt egenkapital 0 8118
+Sum innskutt egenkapital 100 000 108 118
+OPPTJENT EGENKAPITAL
+Udekket tap -10 490 0
+Sum opptjent egenkapital -10 490 0
+Sum egenkapital 4 89 510 108 118
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Gjeld til kredittinstitusjoner 6 288 538 349 928
+Sum annen langsiktig gjeld 288 538 349 928
+KORTSIKTIG GJELD
+Leverandgrgjeld 143 833 93 798
+Skyldig offentlige avgifter 141 216 78 105
+Annen kortsiktig gjeld 99 529 109 046
+Sum kortsiktig gjeld 384 578 280 949
+Sum gjeld 673 116 630 877
+Sum egenkapital og gjeld 762 626 738 995
+
+Fredrikstad, 05.03.2026
+
+Styret i Rérleggermester Sigurdur Hjartarson AS
+
+SIGURDUR HJARTARSON
+
+styreleder/daglig leder
+R@RLEGGERMESTER SIGURDUR HJARTARSON AS SIDE 4
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets dkonomiske levetid.
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belgp ved
+verdifall som forventes ikke a veere forbigaende. Gjenvinnbart belgp er det hgyeste av netto salgsverdi og
+verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstr@mmer knyttet til eiendelen. Nedskrivingen
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Oml¢psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+FORDRINGER
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Lénnskostnader og antall arsverk
+LONNSKOSTNADER
+
+2025 2024
+Lénninger 700 890 810 792
+Arbeidsgiveravgift 106 129 121 083
+Pensjonskostnader 51796 53 719
+Andre ytelser 15 681 7757
+Sum 874 496 993 350
+Selskapet har i 2025 sysselsatt 1 arsverk.
+
+Note 2 Anleggsmidler
+Maskiner Sum
+og anlegg
+Anskaffelseskost pr. 01.01.25 406 250 406 250
+= Anskaffelseskost 31.12.25 406 250 406 250
+Akkumulerte avskrivninger 31.12.25 87 900 87 900
+= Bokfort verdi 31.12.25 318 350 318 350
+Arets ordinzere avskrivninger 40 600 40 600
+Pkonomisk levetid 10 ar
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -18 608 -24 245
+Permanente forskjeller 7 504 -73 046
+Endring i midlertidige forskjeller -15 716 -33 500
+Skattepliktig inntekt -26 820 -130 790
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varige driftsmidler 140 016 124 300 -15 716
+Sum 140 016 124 300 -15 716
+Akkumulert fremfgrbart underskudd -446 242 -419 421 26 820
+Inngar ikke i beregningen av utsatt skatt 306 226 295121 -11 104
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+
+Note 4 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 100 000 0 8118 0 108 118
+Arets resultat -8118 -10 490 -18 608
+Pr 31.12.2025 100 000 0 0 -10 490 89 510
+Note 5 Aksjer og andeler i andre foretak m.v.
+Eierandel Anskaffelses-kost Balansefgrt Markeds-
+verdi verdi
+Anleggsmidler
+Kjedehuset AS 0 20 000 0 20 000
+Sum 0 20 000 0 20 000
+Omlgpsmidler
+Sum markedsbaserte aksjer 0 0 0 0
+Andre markedsbaserte finansielle instrumenter i handelsportefalje vurdert til markedsverdi.
+Note 6 Fordringer og gijeld
+2025
+Gjeld som er sikret ved pant utgjgr kr. 288 538,-. Balansefgrt verdi av de pansatte eiendelene utgjgr
+kr. 318 358,-.
+Note 7 Kundefordringer
+2025 2024
+Kundefordringer til palydende -2 097 147 273
+Balansef¢grt verdi av kundefordringer 31.12 -2 097 147 273
+Sum resultatfgrte tap pa krav 0 0
+Kostnadsfgrt tap er klassifisert som annen driftskostnad i regnskapet.
+
+Note 8 Bankinnskudd
+Innestaende midler pa skattetrekkskonto (bundne midler) er pa kr. 52 961.
+Note 9 Aksjonzrer
+AKSJEKAPITALEN | RORLEGGERMESTER SIGURDUR HJARTARSON AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+
+Ordinzre aksjer 1 000 100,0 100 000
+Sum 1 000 100 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+
+Ordinzre Eierandel Stemmeandel
+SIGURDUR HJARTARSON 1 000 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Ver Ordinzere
+SIGURDUR HJARTARSON styreleder/daglig leder 1 000
+Totalt antall aksjer 1000
+Note 10 Fortsatt drift
+Resultatet for 2025 viser et underskudd pa kr. -18 608 etter skatt, mot kr. -24 245 i 2024.
+Styret vurderer at forutsetningene for fortsatt drift er til stede og legger det til grunn for sin virksomhet.

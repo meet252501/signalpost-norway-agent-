@@ -1,0 +1,405 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 558170
+Virksomheten
+Organisasjonsnummer : 927 120 844
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: OK HELSE AS
+Forretningsadresse: c/o Ole Mjatvedt
+Munkengveien 5A
+0376 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Knut @versj@en
+Dato for fastsettelse av Aarsregnskapet: 17.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 18.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 927 120 844
+
+OK HELSE AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 9 352 6 980
+
+Sum kostnader 9 353 6 980
+
+Driftsresultat -9 353 -6 980
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 5 12
+
+Sum finansinntekter 5 12
+
+Sum finanskostnader 0 0
+
+Netto finans 5 12
+
+Resultat fer skattekostnad -9 348 -6 968
+
+Arsresultat -9 348 -6 968
+
+Arsresultat etter
+
+minoritetsinteresser -9 348 -6 968
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -9 348 -6 968
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -9 348 -6 968
+
+Sum overferinger og
+
+disponeringer -9 348 -6 968
+Utskriftsdato 18.06.2026 Organisasjonsnr 927 120 844 Side 1 av 3
+
+Organisasjonsnr: 927 120 844
+OK HELSE AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 10 000 000 10 000 000
+Sum finansielle
+anleggsmidler 10 000 000 10 000 000
+Sum anleggsmidler 10 000 000 10 9000 000
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Sum fordringer 0 0
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 1 758 9 243
+Sum bankinnskudd,
+kontanter og lignende 1 758 9 243
+Sum omlepsmidler 1 758 9 243
+SUM ELENDELER 10 001 758 10 009 243
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital
+(selskapskapital) 30 000 30 000
+Annen innskutt egenkapital 6 000 6 000
+Sum innskutt egenkapital 36 000 36 000
+Opptjent egenkapital
+
+Utskriftsdato 18.06.2026 Organisasjonsnr 927 120 844 Side 2 av 3
+
+Udekket tap 36 105 26 757
+
+Sum opptjent egenkapital -36 105 -26 757
+
+Sum egenkapital -105 9 243
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 10 000 000 10 000 000
+
+Sum annen langsiktig gjeld 10 000 000 10 000 000
+
+Sum langsiktig gjeld 10 000 000 10 000 000
+
+Kortsiktig gjeld
+
+Leverandergjeld 1 862 0
+
+Sum kortsiktig gjeld 1 863 0
+
+Sum gjeld 10 001 863 10 000 000
+
+SUM EGENKAPITAL OG GJELD 10 001 758 10 009 243
+
+POSTER UTENOM BALANSEN
+
+Garantistillelser 110 000 000 100 000 000
+Utskriftsdato 18.06.2026 Organisasjonsnr 927 120 844 Side 3 av 3
+
+Organisasjonsnr: 927 120 844
+
+OK HELSE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Virksomhet eller investeringer innen helse-
+
+og omsorgstjenester, samt tilknyttede omrader inkludert fast eiendom.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+Eierne vil sikre tilforsel av kapital for a sikre likviditet til Aa betale
+gjeld og andre forpliktelser.
+
+Pa bakgrunn av dette avlegges arsregnskapet
+under forutsetning om fortsatt drift.
+
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+OK Helse AS
+(927 120 844)
+OK Helse AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 9 352 6 980
+Sum driftskostnader 9 353 6980
+Driftsresultat -9 353 -6 980
+Finansinntekter
+
+Annen renteinntekt 5 12
+Sum finansinntekter 5 12
+Netto finans 5 12
+Resultat for skatt -9 348 -6 968
+Arsresultat -9 348 -6 968
+Overforinger og disponeringer
+
+Udekket tap -9 348 -6 968
+Sum overferinger og disponeringer -9 348 -6 968
+
+OK Helse AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anleggsmidler
+
+Investeringer i aksjer og andeler 10 000 000 10 000 000
+Sum finansielle anleggsmidler 10000000 10000000
+Sum anleggsmidler 10000000 10000000
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 1758 9 243
+Sum omlepsmidler 1 758 9 243
+Sum eiendeler 10001 758 10009 243
+
+OK Helse AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital 6 000 6 000
+Sum innskutt egenkapital 36 000 36 000
+Opptjent egenkapital
+
+Udekket tap -36 105 -26 757
+Sum opptjent egenkapital -36 105 -26 757
+Sum egenkapital -105 9243
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 10 000 000 10 000 000
+Sum annen langsiktig gjeld 10000000 10000000
+Kortsiktig gjeld
+
+Leverande@rgjeld 1 862 0
+Sum kortsiktig gjeld 1 863 0
+Sum gjeld 10001 863 10000000
+Sum egenkapital og gjeld 10001 758 10009 243
+
+OK Helse AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Virksomhet eller investeringer innen helse- og omsorgstjenester, samt tilknyttede omrader
+inkludert fast eiendom.
+Note 2: Usikkerhet rundt fortsatt drift
+Eierne vil sikre tilforsel av kapital for  sikre likviditet til 4 betale gjeld og andre forpliktelser. Pa
+bakgrunn av dette aviegges arsregnskapet under forutsetning om fortsatt drift.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+OK Helse AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Ole Mjatvedt <olem@vikenfiber.no>
+Elektronisk signering
+KNUT @VERSJ@EN GJERMUND BERG-GUTTORMSEN
+20.07.1965 - Styreleder 29.03.1963 - Styremedlem
+Y) Signert Y) Signert
+08.06.2026 15:30 === bankID 08.06.2026 15:25 === bankID
+OLE MJATVEDT
+30.05.1963 - Styremedlem
+Y) Signert
+08.06.2026 15:19 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 08.06.2026 14:04:58

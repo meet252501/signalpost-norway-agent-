@@ -1,0 +1,418 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 618848
+Virksomheten
+Organisasjonsnummer : 917 860 122
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: BNH HOLDING AS
+Forretningsadresse: Mogan 75
+3650 TINN AUSTBYGD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Bj@rm Ness Hansen
+Dato for fastsettelse av Aarsregnskapet: 30.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 917 860 122
+
+BNH HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 18 176 22 452
+
+Sum kostnader 18 176 22 452
+
+Driftsresultat -18 176 -22 452
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+1 samme konsern 573
+
+Annen renteinntekt 19 289 577
+
+Annen finansinntekt 3 508 260
+
+Sum finansinntekter 3 528 122 577
+
+Annen rentekostnad 86 107
+
+Sum finanskostnader 86 107
+
+Netto finans 3 528 036 470
+
+Resultat fer skattekostnad 3 3 509 860 -21 983
+
+Skattekostnad pa resultat 3 10 576
+
+Arsresultat 4 3 499 284 -21 983
+
+Arsresultat etter
+
+minoritetsinteresser 3 499 284 -21 983
+
+Totalresultat 3 499 284 -21 983
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 722 000
+
+Udekket tap 58 771 -21 983
+
+Avsatt til annen
+
+egenkapital 2 718 513
+
+Sum overferinger og
+
+disponeringer 3 499 284 -21 983
+Utskriftsdato 01.07.2026 Organisasjonsnr 917 860 122 Side 1 av 3
+
+Organisasjonsnr: 917 860 122
+
+BNH HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 5 78 000 78 000
+
+Investering i annet
+
+foretak i samme konsern 5
+
+Investeringer 1
+
+tilknyttet selskap 5
+
+Investeringer i aksjer og
+
+andeler 5 411 824 411 824
+
+Obligasjoner 5
+
+Andre langsiktige
+
+fordringer 5
+
+Sum finansielle
+
+anleggsmidler 489 824 489 824
+
+Sum anleggsmidler 489 824 489 824
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 10 769 10 196
+
+Sum fordringer 10 769 10 196
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 2 252 394
+
+Sum bankinnskudd,
+
+kontanter og lignende 2 252 394
+
+Sum omlepsmidler 2 263 163 10 196
+
+SUM ELENDELER 2 752 987 500 020
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4, 6 30 000 30 000
+
+Beholdning av egne aksjer 6
+
+Annen innskutt egenkapital 4 -8 600 -8 600
+Utskriftsdato 01.07.2026 Organisasjonsnr 917 860 122 Side 2 av 3
+
+Sum innskutt egenkapital 21 400 21 400
+
+Opptijent egenkapital
+
+Annen egenkapital 2 718 513
+
+Udekket tap 4 58 771
+
+Sum opptjent egenkapital 2 718 513 -58 771
+
+Sum egenkapital 2 739 913 -37 371
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Leverandergjeld 2 188 8 139
+
+Betalbar skatt 3 10 576
+
+Annen kortsiktig gjeld 2 310 529 251
+
+Sum kortsiktig gjeld 13 074 537 391
+
+Sum gjeld 13 074 537 391
+
+SUM EGENKAPITAL OG GJELD 2 752 987 500 020
+Utskriftsdato 01.07.2026 Organisasjonsnr 917 860 122 Side 3 av 3
+
+Organisasjonsnr: 917 860 122
+
+BNH HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+for Bnh Holding AS
+ecit
+
+Resultatregnskap
+Bnh Holding AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen ariftskostnad 18 176 22 452
+Sum driftskostnader 18 176 22 452
+Driftsresultat -18 176 -22 452
+Finansinntekter og finanskostnader
+
+Renteinntekt fra foretak i samme konsern 573 0
+Annen renteinntekt 19 289 577
+Annen finansinntekt 3 508 260 0
+Annen rentekostnad 86 107
+Resultat av finansposter 3 528 036 470
+Resultat for skattekostnad 3 3 509 860 -21 983
+Skattekostnad pa resultat 3 10 576 0
+Resultat 3 499 284 -21 983
+Arsresultat 4 3499 284 -21 983
+Overforinger
+
+Avsatt til dekning av tidligere udekket tap 58 77] 0
+Avsatt til utbytte 722 000 0
+Avsatt til annen egenkapital 2718513 0
+Overfart til udekket tap 0 21 983
+Sum overforinger 3 499 284 -21 983
+Bnh Holding AS Side 2
+
+Balanse
+
+Bnh Holding AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer i datterselskap 5 78 000 78 000
+Investeringer i aksjer og andeler 5 A411 824 All 824
+Sum finansielle anleggsmidler 489 824 489 824
+Sum anleggsmidler 489 824 489 824
+Omlgpsmidlier
+Fordringer
+Anare kortsiktige fordringer 10 769 10 196
+Sum fordringer 10 769 10 198
+Bankinnskudd, kontanter o.I. 2 252 394 0)
+Sum omlepsmidler 2 263 163 10 196
+Sum eiendeler 2 752 987 500 020
+Bnh Holding AS Side 3
+
+Balanse
+Bnh Holding AS
+
+Egenkapital og gjeld Note 2025 2024
+Innskutt egenkapital
+Aksjekapital 4,6 30 000 30 000
+Annen innskutt egenkapital 4 -8 600 -8 600
+Sum innskutt egenkapital 21 400 21 400
+Opptjent egenkapital
+Annen egenkapital 2718513 0
+Udekket tap 4 0 -58 77]
+Sum oppijent egenkapital 2718513 -58 771
+Sum egenkapital 2 739 913 -37 371
+Gjeld
+Kortsiktig gjeld
+Leverandergjeld 2 188 8 139
+Betalbar skatt 3 10 576 0)
+Annen kortsiktig gjela 2 310 529 251
+Sum kortsiktig gjeld 13 074 537 391
+Sum gjeld 13 074 537 391
+Sum egenkapital og gjeld 2 752 987 500 020
+
+30.06.2026
+
+Styret i Bnh Holding AS
+Bjorn Ncess Hansen
+
+styreleder
+
+Bnh Holding AS Side 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk
+for smd foretak.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring
+i utsatt skatt. Utsatt skatt er beregnet med 22 % pd grunniag av de midlertidige forskjeller
+som eksisterer mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig
+underskudd til fremfering ved utgangen av regnskaps4aret. Skatteakende og
+skattereduserende midlertidige forskjeller som reverserer eller kan reverseres i samme
+periode er utlignet og nettofert.
+
+Klassifisering og vurdering av omlapsmidler
+
+Omle@psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen eft
+ar etter balansedagen, samt poster som knytter seg til varekretslopet. Omlapsmidier
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi.
+
+Aksjer i datterselskap
+
+Investeringer i datterselskap er vurdert etter kostmetoden ettersom konsernet samlet ikke
+overstiger grensen for smd foretak.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til
+forventet tap. Avsetning til tap gje@res pd grunniag av en individuell vurdering av de
+enkelte fordringene.
+
+Note 1 Virksomhetens art og lokalisering
+
+Bnh Holding AS er et selskap der virksomheten omfatter investeringsvirksomhet. Selskapet
+er lokalisert i Tinn kommune.
+
+Utarbeidet av ecit pa vegne av Bnh Holding AS
+
+Note 2 Lonnskostnader
+Bnh Holding AS har ikke hatt lonns- eller personalkostnader i 2025 og det foreligger heller
+ingen slike forpliktelser.
+Det foreligger kr 310i gjela til eier. Lanet er ikke renteberegnet.
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pd ordincert resultat:
+Betalbar skatt 10 576 0
+Endring i utsatt skattefordel 0 e)
+Skattekostnad ordincert resultat 10 576 0
+Skattepliktig inntekt:
+Resultat for skatt 3 509 860 -2] 983
+Permanente forskjeller -3 403 012 0
+Anvendelse av fremferbart underskudd -58 776 0
+Skattepliktig inntekt 48 072 -21 983
+Betalbar skatt i balansen:
+Betalbar skatt pd drets resultat 10 576 0
+Sum betalbar skatt i balansen 10 576 0
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte
+skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Akkumulert fremfarbart underskudd 0 -58 776 -58 776
+Inngar ikke i beregningen av vtsatt skatt 0 58 776 58 776
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for smd foretak balansefares ikke utsatt skattefordel.
+Note 4 Egenkapital
+
+Aksjekapital Annen Annen Sum
+Innskutt egenkapital egenkapital
+egenkapital
+
+Pr. 31.12.2024 30 000 -8 600 -58 77] -37 37]
+Arets resultat 3 499 284 3 499 284
+Utbytte -722 000 -722 000
+Pr 31.12.2025 30 000 -8 600 2718 513 2 739 913
+Utarbeidet av ecit pa vegne av Bnh Holding AS
+
+Note 5 Langsiktige verdipapirer
+Anskaffelses Balansefart
+kost verdi
+Anleggsmidler A489 824 489 824
+Note 6 Aksjoncerer
+Aksjekapitalen i Bnh Holding AS pr. 31.12 bestar av:
+Antall Palydende Bokfart
+Ordincere aksjer 30 1 000,0 30 000
+Sum 30 30 000
+Eierstruktur
+De sterste aksjoncerene i % pr. 31.12 var:
+Ordincre Eierandel
+Bjorn Naess Hansen 30 100,0
+Aksjer eiet av medilemmer i styret og daglig leder:
+Navn Verv Ordincere
+Bja@rn Nocess Hansen styreleder 30
+Totalt antall aksjer 30
+Utarbeidet av ecit pa vegne av Bnh Holding AS

@@ -1,0 +1,448 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 541870
+Virksomheten
+Organisasjonsnummer : 918 158 936
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NOR SECURITIES AS
+Forretningsadresse: Sester Mathildes gate 33
+1473 L@ORENSKOG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Vidar Sung Osen
+Dato for fastsettelse av arsregnskapet: 11.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 918 158 936
+
+NOR SECURITIES AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 1 217 52 277
+
+Sum kostnader 1 217 52 277
+
+Driftsresultat -1 217 -52 277
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Annen rentekostnad 4 0
+
+Sum finanskostnader 4 0
+
+Netto finans -4 fe)
+
+Resultat fer skattekostnad -1 221 -52 277
+
+Arsresultat -1 221 -52 277
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 0 0
+
+Annen egenkapital -1 221 -52 277
+Utskriftsdato 15.06.2026 Organisasjonsnr 918 158 936 Side 1 av 3
+
+Organisasjonsnr: 918 158 936
+
+NOR SECURITIES AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 1 1 542 585 1 542 585
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 1, 2 100 000 100 000
+
+Sum finansielle
+
+anleggsmidler 1 642 585 1 642 585
+
+Sum anleggsmidler 1 642 585 1 642 585
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 0 726
+
+Konsernfordringer 1 2 500 0
+
+Sum fordringer 2 500 726
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 294 289
+
+Sum bankinnskudd,
+
+kontanter og lignende 294 289
+
+Sum omlepsmidler 2 794 1 014
+
+SUM ELENDELER 1 645 379 1 643 599
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 3 30 000 30 000
+Utskriftsdato 15.06.2026 Organisasjonsnr 918 158 936 Side 2 av 3
+
+Annen innskutt egenkapital 3 58 028 58 028
+
+Sum innskutt egenkapital 88 028 88 028
+
+Opptjent egenkapital
+
+Annen egenkapital 3 0 0
+
+Udekket tap 3 921 320 920 099
+
+Sum opptjent egenkapital -921 320 -920 099
+
+Sum egenkapital -833 292 -832 O71
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 8 223 8 223
+
+Kortsiktig konserngjeld 1 2 470 447 2 467 447
+
+Sum kortsiktig gjeld 2 478 670 2 475 670
+
+Sum gjeld 2 478 670 2 475 670
+
+SUM EGENKAPITAL OG GJELD 1 645 379 1 643 599
+Utskriftsdato 15.06.2026 Organisasjonsnr 918 158 936 Side 3 av 3
+
+Organisasjonsnr: 918 158 936
+
+NOR SECURITIES AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Eiendeler som er knyttet til varekretslopet er klassifisert som
+omlepsmidler. Fordringer klassifiseres som omlg@psmidler hvis de forfaller
+til betaling innen ett ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og
+
+virkelig verdi. Kortsiktig gjeld balansefores til nominelt belep pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes a4 vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer
+
+og andre fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning til forventet tap. Avsetning til tap gj@res pa grunnlag av
+individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er falgende
+
+regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefort.
+
+Selskapet
+
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Selskapet er et holdingselskap uten egen operasjonell drift. Selskapet har
+negativ egenkapital pa kr -833 292 per 31.12.2025. Styret bekrefter at
+forutsetningen om fortsatt drift er lagt til grunn for regnskapet.
+Nedvendig finansiell stette tilferes av selskapets eiere.
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+1
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+Investering Inng.balanse Inntektsf.res Andre endr. Utgq. balanse
+Stokken Bat Invest 12970.00 0.00 0.00 12970.00
+AS
+Carepacks AS 1529615.00 0.00 0.00 1529615.00
+Kons ernregns kap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Note
+2
+Fordringer
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+100000.00
+Mer om fordringer
+Note 2 - Nedskrivning pa fordringer mot datterselskap
+Selskapet har hatt en
+fordring 41.500,- pa sitt heleide datterselskap, Volt Trading AS, fordringen
+skriver seg fra at morselskapet har betjent deler av datterselskapets
+eksisterende lan.
+Nedskrivningen er gjort basert pa vurdering av
+datterselskapets s@konomiske situasjon og betalingsevne. Fordringen anses
+ikke innkrevbar.
+Fordringen er heller ikke sikret med pant eller
+garanti.
+Gjenstaende er da en fordring pa 100.000 mot Stokken Bat Invest
+AS.
+
+Arsregnskap for
+NOR SECURITIES AS
+918158936
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+NOR SECURITIES AS
+918 158 936
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -1 217 -52 277
+Sum driftskostnader -1 217 -52 277
+Driftsresultat -1 217 -52 277
+Finanskostnader
+Annen rentekostnad -4 0
+Sum finanskostnader -4 0
+Netto finans -4 0
+Arsresultat -1 221 -52 277
+Overforinger
+Annen egenkapital -1 221 -52 277
+Udekket tap 0 0
+Sum overferinger -1 221 -52 277
+
+NOR SECURITIES AS
+918 158 936
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer i tilknyttet selskap 1 1 542 585 1 542 585
+Lan til tilknyttet selskap og felles kontrollert virksomhet 1,2 100 000 100 000
+Sum finansielle anleggsmidler 1 642 585 1 642 585
+Sum anleggsmidler 1 642 585 1 642 585
+Omlgpsmidler
+Fordringer
+Kortsiktige kKonsernfordringer 1 2 500 0
+Andre kortsiktige fordringer 0 726
+Sum fordringer 2 500 726
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 294 289
+Sum bankinnskudd, kontanter og lignende 294 289
+Sum omlgpsmidler 2 794 1014
+SUM EIENDELER 1 645 379 1 643 599
+
+NOR SECURITIES AS
+918 158 936
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 3 30 000 30 000
+Annen innskutt egenkapital 3 58 028 58 028
+Sum innskutt egenkapital 88 028 88 028
+Opptjent egenkapital
+Udekket tap 3 -921 320 -920 099
+Sum opptjent egenkapital -921 320 -920 099
+Sum egenkapital -833 292 -832 071
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 8 223 8 223
+Kortsiktig konserngjeld 1 2 470 447 2 467 447
+Sum kortsiktig gjeld 2 478 670 2 475 670
+Sum gjeld 2 478 670 2 475 670
+SUM EGENKAPITAL OG GJELD 1 645 379 1 643 599
+Oslo 11.06.2026
+Vidar Sung Osen
+styrets leder /
+
+NOR SECURITIES AS
+918 158 936
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Forevrig er folgende regnskapsprinsipper anvendt:
+Leieavtaler er ikke balansefert.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Note 1 - Konsern, tilknyttet selskap m.v.
+Investering som regnskapsfores etter egenkapitalmetoden
+Inngaende Inntektsfort Utgaende
+Investering balanse resultat Andre endringer balanse
+Stokken Bat Invest AS 12 970 0 0 12 970
+Carepacks AS 1529 615 0 0 1 529 615
+Note 2 - Fordringer
+Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt 100 000
+Mer om fordringer
+Note 2 — Nedskrivning pa fordringer mot datterselskap
+Selskapet har hatt en fordring 41.500,- pa sitt heleide datterselskap, Volt Trading AS, fordringen skriver seg fra
+at morselskapet har betjent deler av datterselskapets eksisterende lan.
+Nedskrivningen er gjort basert pa vurdering av datterselskapets gkonomiske situasjon og betalingsevne.
+Fordringen anses ikke innkrevbar.
+Fordringen er heller ikke sikret med pant eller garanti.
+Gjenstaende er da en fordring pa 100.000 mot Stokken Bat Invest AS.
+
+NOR SECURITIES AS
+918 158 936
+Note 3 - Egenkapital
+Annen innsk. Opptjent
+Aksjekapital EK egenkapital Udekket tap Sum
+Egenkapital 31.12.2024 30 000 58 028 0 -920 099 -832 071
+Arsresultat 0 0 -1 221 0 -1 221
+Andre endringer 0 0 1 221 -1 221 0
+Egenkapital 31.12.2025 30 000 58 028 0 921 320 -833 292
+Mer om egenkapital
+| samsvar med regnskapslovens § 3-3 bekreftes det at forutsetningen om fortsatt drift er lagt til grunn ved
+utarbeidelsen av regnskapet. Selskapets egenkapital er negativ med kr 779 794.-. Styret vurderer selskapets
+kapitalbehov I@pende, og vurderer ulike tiltak. Selskapets Iapende likviditetsbehov dekkes bl.a via innlan fra
+aksjoneerer. Ved en inkurie ble det i 2022 feilaktig bokf@rt mottak av konsernbidrag slik at innrapportert
+egenakpital pr 31.12.2022 var positiv med 30 000. Dette er korrigert i 2023 slik at arets egenkapital er korrekt
+rapportert.
+Antall arsverk
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+Usikkerhet om fortsatt drift
+Det er knyttet usikkerhet til fortsatt drift.
+Selskapet er et holdingselskap uten egen operasjonell drift. Selskapet har negativ egenkapital pa kr -833 292
+per 31.12.2025. Styret bekrefter at forutsetningen om fortsatt drift er lagt til grunn for regnskapet. Nedvendig
+finansiell stette tilfares av selskapets eiere.

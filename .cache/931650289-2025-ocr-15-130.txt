@@ -1,0 +1,421 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 351587
+Virksomheten
+Organisasjonsnummer : 931 650 289
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: VIKEN HORIZON CAPITAL AS
+Forretningsadresse: c/o Vegard Viken
+Bernt Knudsens vei 19¢C
+1176 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Vegard Viken
+Dato for fastsettelse av Aarsregnskapet: 20.03.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 24.03.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 931 650 289
+
+VIKEN HORIZON CAPITAL AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 4 906 3 700
+
+Sum kostnader 4 907 3 700
+
+Driftsresultat -4 907 -3 700
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 0 33 114
+
+Sum finansinntekter e) 33 114
+
+Annen finanskostnad 0 78
+
+Sum finanskostnader 0 78
+
+Netto finans e) 33 036
+
+Resultat fer skattekostnad -4 907 29 336
+
+Arsresultat -4 907 29 336
+
+Arsresultat etter
+
+minoritetsinteresser -4 907 29 336
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -4 907 29 336
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -4 908 29 336
+
+Sum overferinger og
+
+disponeringer -4 907 29 336
+Utskriftsdato 24.03.2026 Organisasjonsnr 931 650 289 Side 1 av 3
+
+Organisasjonsnr: 931 650 289
+
+VIKEN HORIZON CAPITAL AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 235 035 235 035
+
+Sum finansielle
+
+anleggsmidler 235 035 235 035
+
+Sum anleggsmidler 235 035 235 035
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 5 889 40 797
+
+Sum bankinnskudd,
+
+kontanter og lignende 5 889 40 797
+
+Sum omlepsmidler 5 889 40 797
+
+SUM ELENDELER 240 924 275 832
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 79 054 79 054
+
+Overkurs 88 859 88 859
+
+Annen innskutt egenkapital -50 000 -50 000
+
+Sum innskutt egenkapital 117 913 117 913
+Utskriftsdato 24.03.2026 Organisasjonsnr 931 650 289 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 23 O11 27 919
+
+Sum opptjent egenkapital 23 O11 27 919
+
+Sum egenkapital 140 924 145 832
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 100 000 130 000
+
+Sum kortsiktig gjeld 100 000 130 000
+
+Sum gjeld 100 000 130 000
+
+SUM EGENKAPITAL OG GJELD 240 924 275 832
+Utskriftsdato 24.03.2026 Organisasjonsnr 931 650 289 Side 3 av 3
+
+Organisasjonsnr: 931 650 289
+
+VIKEN HORIZON CAPITAL AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Investeringer i andre selskaper.
+
+Note
+
+2
+Antall Aarsverk i regnskapsaret
+0.00
+
+Arsregnskap 2025
+Viken Horizon Capital AS
+(931 650 289)
+Viken Horizon Capital AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 4 906 3 700
+Sum driftskostnader 4907 3 700
+Driftsresultat -4 907 -3 700
+Finansinntekter
+
+Annen finansinntekt @) 33114
+Sum finansinntekter 0 33 114
+Finanskostnader
+
+Annen finanskostnad @) 78
+Sum finanskostnader 0 78
+Netto finans 0 33 086
+Resultat for skatt -4 907 29 336
+Arsresultat -4907 29336
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital -4 908 29 336
+Sum overferinger og disponeringer -4907 29 336
+
+Viken Horizon Capital AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anleggsmidler
+
+Investeringer i aksjer og andeler 235 035 235 035
+Sum finansielle anleggsmidler 235035 235035
+Sum anleggsmidler 235035 235035
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 5 889 40 797
+Sum omlepsmidler 5 889 40 797
+Sum eiendeler 240924 275832
+
+Viken Horizon Capital AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 79 054 79 054
+
+Overkurs 88 859 88 859
+
+Annen innskutt egenkapital -50 000 -50 000
+Sum innskutt egenkapital 117913 117913
+Opptjent egenkapital
+
+Annen egenkapital 23 011 27 919
+Sum opptjent egenkapital 23 011 27 919
+Sum egenkapital 140924 145832
+Gijeld
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 100000) =130000
+Sum kortsiktig gjeld 100000 130000
+Sum gjeld 100000 130000
+Sum egenkapital og gjeld 240924 275832
+
+Viken Horizon Capital AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Investeringer i andre selskaper.
+Note 2: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Viken Horizon Capital AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Vegard Viken <wiken@gmail.com>
+Elektronisk signering
+VEGARD VIKEN (Styreleder)
+07.08.1984
+© Signert
+23.03.2026 14:56 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 23.03.2026 14:56:25

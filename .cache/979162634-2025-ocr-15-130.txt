@@ -1,0 +1,418 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 571878
+Virksomheten
+Organisasjonsnummer : 979 162 634
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: AHO HOLDING AS
+Forretningsadresse: Skjergardsveien 22
+4879 GRIMSTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Siv Heidi Haglund
+Dato for fastsettelse av Aarsregnskapet: 08.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 23.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 979 162 634
+
+AHO HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 217 000 207 500
+
+Annen driftsinntekt 12 500 30 000
+
+Sum inntekter 229 500 237 500
+
+Kostnader
+
+Lennskostnad 1 79 059 91 869
+
+Annen driftskostnad 194 781 225 024
+
+Sum kostnader 273 839 316 892
+
+Driftsresultat -44 339 -79 392
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 42 736 678
+
+Sum finansinntekter 42 736 678
+
+Annen rentekostnad 909 236
+
+Sum finanskostnader 909 236
+
+Netto finans 41 827 442
+
+Resultat fer skattekostnad -2 512 -78 951
+
+Skattekostnad 14 542 -11 942
+
+Arsresultat -17 054 -67 009
+
+Annen egenkapital -17 054 -67 009
+Utskriftsdato 23.06.2026 Organisasjonsnr 979 162 634 Side 1 av 3
+
+Organisasjonsnr: 979 162 634
+AHO HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 0) 14 542
+Sum immaterielle eiendeler 0 14 542
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investering i datterselskap 2 162 066 162 066
+Lan til foretak i samme
+konsern 2, 3 277 466 263 918
+Investeringer 1
+tilknyttet selskap 111 000 111 000
+Investeringer i aksjer og
+andeler 6 120 6 120
+Andre langsiktige
+fordringer 3 222 500 222 500
+Sum finansielle
+anleggsmidler 779 152 765 604
+Sum anleggsmidler 779 152 780 146
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 113 16 972
+Andre kortsiktige
+fordringer 27 403 19 410
+Sum fordringer 27 516 36 382
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 844 230 859 040
+Sum bankinnskudd,
+kontanter og lignende 844 230 859 040
+Sum omlepsmidler 871 746 895 422
+SUM ELENDELER 1 650 897 1 675 568
+BALANSE - EGENKAPITAL OG
+GJELD
+
+Utskriftsdato 23.06.2026 Organisasjonsnr 979 162 634 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 1 588 014 1 605 069
+
+Sum opptjent egenkapital 1 588 014 1 605 069
+
+Sum egenkapital 1 618 014 1 635 069
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 12 407 6 159
+
+Skyldige offentlige
+
+avgifter 20 476 18 024
+
+Annen kortsiktig gjeld 0 16 316
+
+Sum kortsiktig gjeld 32 883 40 500
+
+Sum gjeld 32 883 40 500
+
+SUM EGENKAPITAL OG GJELD 1 650 897 1 675 568
+Utskriftsdato 23.06.2026 Organisasjonsnr 979 162 634 Side 3 av 3
+
+Organisasjonsnr: 979 162 634
+AHO HOLDING AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+Regnskapsprinsipper
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+Anleggsmidler
+
+er eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett 4r.
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Endret prinsipp for utsatt skattefordelUtsatt
+
+skattefordel som falge av underskudd til fremfering er ikke balansefort
+iht. reglene i god regnskapsskikk for sma foretak.
+Arten av virksomheten og
+hvor den drives
+
+Selskapets virksomhet bestar av konsulenttjenester, og
+drives i Grimstad kommune.
+Note
+Antall Arsverk i regnskapsaret
+
+1.00
+Note
+
+1
+
+Spesifisering av resultatregnskapet
+Lennkostnader
+
+Lenn Arets Fljorarets
+
+45270.00 44164.00
+Folketrygdavqift Arets Fjorarets
+11617.00 10149.00
+Andre ytelser Arets Fljorarets
+22172.00 37556.00
+Sum _ lennskostnader Arets Fjorarets
+79059.00 91869.00
+Note
+2
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Konsernregnskap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belap - foretak i samme konsern Arets Fjorarets
+277466.00 263918.00
+Note
+3
+Fordringer
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+499966.00
+Mer om fordringer
+
+Arsregnskap for
+AHO HOLDING AS
+979162634
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+AHO HOLDING AS
+979 162 634
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 217 000 207 500
+Annen driftsinntekt 12 500 30 000
+Sum driftsinntekter 229 500 237 500
+Driftskostnader
+L@nnskostnad 1 -79 059 -91 869
+Annen driftskostnad -194 781 -225 024
+Sum driftskostnader -273 839 -316 892
+Driftsresultat -44 339 -79 392
+Finansinntekter
+Annen renteinntekt 42 736 678
+Sum finansinntekter 42 736 678
+Finanskostnader
+Annen rentekostnad -909 -236
+Sum finanskostnader -909 -236
+Netto finans 41 827 442
+Resultat for skattekostnad -2 512 -78 951
+Skattekostnad -14 542 11 942
+Arsresultat -17 054 -67 009
+Overforinger
+Annen egenkapital -17 054 -67 009
+Sum overferinger -17 054 -67 009
+
+AHO HOLDING AS
+979 162 634
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 0 14 542
+Sum immaterielle eiendeler 0 14 542
+Finansielle anleggsmidler
+Investering i datterselskap 2 162 066 162 066
+Lan til foretak i samme konsern 2,3 277 466 263 918
+Investeringer i tilknyttet selskap 111 000 111 000
+Investeringer i aksjer og andeler 6 120 6 120
+Andre langsiktige fordringer 3 222 500 222 500
+Sum finansielle anleggsmidler 779 152 765 604
+Sum anleggsmidler 779 152 780 146
+Omlgpsmidler
+Fordringer
+Kundefordringer 113 16 972
+Andre kortsiktige fordringer 27 403 19 410
+Sum fordringer 27 516 36 382
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 844 230 859 040
+Sum bankinnskudd, kontanter og lignende 844 230 859 040
+Sum omlgpsmidler 871 746 895 422
+SUM EIENDELER 1 650 897 1 675 568
+
+AHO HOLDING AS
+979 162 634
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 1 588 014 1 605 069
+Sum opptjent egenkapital 1588 014 1 605 069
+Sum egenkapital 1618 014 1 635 069
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 12 407 6 159
+Skyldige offentlige avgifter 20 476 18 024
+Annen kortsiktig gjeld 0 16 316
+Sum kortsiktig gjeld 32 883 40 500
+Sum gjeld 32 883 40 500
+SUM EGENKAPITAL OG GJELD 1 650 897 1 675 568
+GRIMSTAD, 08.06.2026
+Alf Henning Olsen
+styrets leder / daglig leder
+
+AHO HOLDING AS
+979 162 634
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+Klassifisering og vurdering av balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets! @pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gield med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Endret prinsipp for utsatt skattefordel
+Utsatt skattefordel som falge av underskudd til fremforing er ikke balansefart iht. reglene i god regnskapsskikk
+for sma foretak.
+Arten av virksomheten og hvor den drives
+Selskapets virksomhet bestar av konsulenttjenester, og drives i Grimstad kommune.
+Note 1 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 45 270 44 164
+Arbeidsgiveravgift 11617 10 149
+Pensjonskostnader 0 0
+Andre relaterte ytelser 22 172 37 556
+Sum 79 059 91 869
+Note 2 - Konsern, tilknyttet selskap m.v.
+Fordringer
+2025 2024
+Samlet belap som gjelder foretak i samme konsern 277 466 263 918
+Note 3 - Fordringer
+Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt 499 966
+
+AHO HOLDING AS
+
+979 162 634
+
+Antall arsverk
+
+Antall arsverk sysselsatt i regnskapsaret: 1
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.

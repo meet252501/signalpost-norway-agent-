@@ -1,0 +1,679 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 650601
+Virksomheten
+Organisasjonsnummer : 931 787 985
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ARKTEK HOLDING AS
+Forretningsadresse: Flatavegen 4
+2050 JESSHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kenneth Balbuena Johansen
+Dato for fastsettelse av Aarsregnskapet: 06.07.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.07.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 931 787 985
+
+ARKTEK HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 1, 2 13 659 3 544
+
+Sum kostnader 13 659 3 544
+
+Driftsresultat -13 659 -3 544
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 14 20
+
+Sum finansinntekter 14 20
+
+Netto finans 14 20
+
+Resultat fer skattekostnad -13 644 -3 524
+
+Skattekostnad 3
+
+Arsresultat -13 644 -3 524
+
+Arsresultat etter
+
+minoritetsinteresser -13 644 -3 524
+
+Totalresultat -13 644 -3 524
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 4 -13 644
+
+Avsatt til annen
+
+egenkapital -3 524
+
+Sum overferinger og
+
+disponeringer -13 644 -3 524
+Utskriftsdato 28.07.2026 Organisasjonsnr 931 787 985 Side 1 av 3
+
+Organisasjonsnr: 931 787 985
+ARKTEK HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3
+Finansielle anleggsmidler
+Investering i datterselskap 5 90 000
+Sum finansielle
+anleggsmidler 90 000
+Sum anleggsmidler 90 000
+Omlepsmidler
+Varer
+Fordringer
+Konsernfordringer 6 5 352 217 186
+Sum fordringer 5 352 217 186
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 17 704 19 478
+Sum bankinnskudd,
+kontanter og lignende 17 704 19 478
+Sum omlepsmidler 5 369 921 19 664
+SUM ELENDELER 5 459 921 19 664
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4 30 000 30 000
+Annen innskutt egenkapital 4 -5 570 -5 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+Udekket tap 4, 7 20 582 6 938
+Sum opptjent egenkapital -20 582 -6 938
+Sum egenkapital 3 848 17 492
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 3
+
+Utskriftsdato 28.07.2026 Organisasjonsnr 931 787 985 Side 2 av 3
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 6 5 352 217
+
+Sum annen langsiktig gjeld 5 352 217
+
+Sum langsiktig gjeld 5 352 217
+
+Kortsiktig gjeld
+
+Leverandergjeld 13 856 2 172
+
+Betalbar skatt 3
+
+Annen kortsiktig gjeld 6 90 000
+
+Sum kortsiktig gjeld 103 856 2 172
+
+Sum gjeld 5 456 073 2 172
+
+SUM EGENKAPITAL OG GJELD 5 459 921 19 664
+Utskriftsdato 28.07.2026 Organisasjonsnr 931 787 985 Side 3 av 3
+
+Organisasjonsnr: 931 787 985
+
+ARKTEK HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+BDO AS
+Wilbergjordet 2
+—— Postboks 812
+1609 Fredrikstad
+Til generalforsamlingen i Arktek Holding AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet til Arktek Holding AS.
+Arsregnskapet bestar av: Etter var mening:
+e Balanse per 31. desember e Oppfyller arsregnskapet gjeldende lovkrav, og
+2025 e Gir arsregnskapet et rettvisende bilde av
+e Resultatregnskap for 2025 selskapets finansielle stilling per 31. desember
+e Noter til arsregnskapet, 2025 og av dets resultater for regnskapsaret
+herunder et sammendrag av avsluttet per denne datoen i samsvar med
+viktige regnskapsprinsipper. regnskapslovens regler og god regnskapsskikk i
+Norge.
+x
+gd
+=
+9
+g
+Grunnlag for konklusjonen ce
+v_—_—e oie 3
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare S
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver 2
+og plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i ©
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants 4
+{inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board 3
+for Accountants (IESBA-reglene), og vi har overholdt vare ovrige etiske forpliktelser i samsvar med Q
+disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som x
+grunnlag for var konklusjon. “
+bag
+FS
+Andre forhold g
+eee eee $
+Avlagt arsregnskap for foregaende periode er ikke revidert og sammenligningstallene er dermed ikke g
+revidert. Var konklusjon er ikke modifisert som folge av dette forholdet. &
+Ledelsens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir et
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er
+ogsa ansvarlig for slik intern kontroll som den finner nadvendig for 4 kunne utarbeide et arsregnskap
+som ikke inneholder vesentlig feilinformasjon, verken som folge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift
+og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder
+vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og a avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hay grad av
+sikkerhet, men ingen garanti for at en revisjon utfort i samsvar med ISA-ene, alltid vil avdekke
+vesentlig feilinformasjon. Feilinformasjon kan oppsta som falge av misligheter eller utilsiktede feil.
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 1 av 2
+
+|BDO
+
+Feilinformasjon er a anse som vesentlig dersom den enkeltvis eller samlet med rimelighet kan
+
+forventes a pavirke de akonomiske beslutningene som brukerne foretar pa grunnlag av
+
+arsregnskapet.
+
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+
+https: //revisorforeningen. no/revisjonsberetninger
+
+BDO AS
+
+Ole Jorgen Winther
+
+statsautorisert revisor
+
+(elektronisk signert)
+x
+g
+=
+v
+g
+05
+=
+=
+3
+3
+th
+A
+3
+o
+my
+S
+UO
+4
+v
+x
+=
+v
+E
+Ps
+Lv]
+2)
+u
+°
+v
+=
+=
+F)
+Qn
+
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 2 av 2
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+OLE JORGEN WINTHER
+Partner
+Serienummer: bankid.no no_bankid:9578-5992-4-3038655
+QES
+IP: 46. 9.XXX.XXX
+2026-07-06 07:14:26 UTC
+==pankin &%
+<
+gQ
+=
+a
+g
+75
++
+ay
+3
+:
+HC
+Na)
+:
+9
+ty
+S
+Y
+&
+4
+3
+=
+=
+vu
+&
+3
+iS
+Q
+Ss)
+v
+S
+<
+wv
+a
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.
+
+Arsregnskap 2025
+Arktek Holding AS :
+Organisasjonsnr: 931787985
+
+Resultatregnskap
+Arktek Holding AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+
+Annen driftskostnad 1,2 13 659 3 544
+
+Sum driftskostnader 13 659 3 544
+
+Driftsresultat -13 659 -3 544
+
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 14 20
+
+Resultat av finansposter 14 20
+
+Resultat for skattekostnad -13 644 -3 524
+
+Skattekostnad 3 0 0 @
+i
+iFay
+
+Arsresultat -13 644 -3524 g
+=
+ra
+Q
+ca
+s
+
+Overforinger =
+
+Avsatt til annen egenkapital 0 -3 524 3
+
+Overfort til udekket tap 4 13 644 0 ¥
+
+Sum overferinger -13 644 -3 524 N
+3
+S
+=
+5
+FS
+a
+8
+oS
+g
+
+Arktek Holding AS Side 2
+
+Balanse
+Arktek Holding AS
+
+Eiendeler Note 2025 2024
+
+Anleggsmidler
+
+Finansielle anleggsmidier
+
+Investeringer i datterselskap 5 90 000 0
+
+Sum finansielle anleggsmidler 90 000 0
+
+Sum anleggsmidler 90 000 0
+
+Omlopsmidler
+
+Fordringer
+
+Konsernfordringer 6 5 352 217 186 &
+
+Sum fordringer 5 352 217 186 8
+
+eee EE 3
+
+=
+a
+x=
+
+Bankinnskudd, kontanter o.! 3
+
+Bankinnskudd, kontanter o.l. 17 704 19 478 x
+
+Sum bankinnskudd, kontanter o.| 17 704 19 478 =
+K
+
+Sum omlepsmidler 5 369 921 19 664 v
+Ss
+
+Sum eiendeler 5 459 921 19 664 @
+2
+5
+E
+a
+s
+S
+g
+
+Arktek Holding AS Side 3
+
+Balanse
+Arktek Holding AS
+
+Egenkapital og gjeld Note 2025 2024
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4 30 000 30 000
+
+Annen innskutt egenkapital 4 -5 570 -5 570
+
+Sum innskutt egenkapital 24 430 24 430
+
+Opptjent egenkapital
+
+Udekket tap 4,7 -20 582 -6 938
+
+Sum opptjent egenkapital -20 582 -6 938
+
+Sum egenkapital 3 848 17 492
+a
+3
+S
+
+. Q
+
+Gjeld =
+a
+x=
+
+Annen langsiktig gjeld a
+
+@vrig langsiktig gjeld 6 5 352 217 0 x
+
+Sum annen langsiktig gjeld 5 352 217 0 =
+K
+
+Kortsiktig gjeld ¥
+
+Leverandergjeld 13 856 2 172 N
+>
+
+Annen kortsiktig gjeld 6 90 000 0 a
+
+Sum kortsiktig gjeld 103 856 2172 z
+=
+
+Sum gjeld 5 456 073 2172 :
+iS)
+ou
+
+Sum egenkapital og gjeld 5 459 921 19 664 :
+&
+
+Son, 30.06.2026
+Styret i Arktek Holding AS
+Jan Erik Knudsgaard Skou Kenneth Balbuena Johansen
+Styreleder Styremedlem
+Arktek Holding AS Side 4
+
+Noter til regnskapet 2025
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Anleggsmidler er vurdert til
+
+anskaffelseskost. Omlapsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen
+
+ett ar etter balansedagen, samt poster som knytter seg til varekretslopet. Omlapsmidler vurderes til
+
+laveste verdi av anskaffelseskost og antatt virkelig verdi.
+
+Investeringer i andre selskaper
+
+Kostmetoden brukes som prinsipp for investeringer i andre selskaper. Kostprisen @kes nar midler tilfares
+
+ved kapitalutvidelse, eller nar det gis konsernbidrag til datterselskap. Mottatte utdelinger resultatfares i
+
+utgangspunktet som inntekt. Utbytte/konsernbidrag fra datterselskap regnskapsfores det samme aret som
+
+datterselskapet avsetter belapet. Utbytte fra andre selskaper regnskapsfores som finansinntekt nar
+
+utbyttet er vedtatt. Investeringene blir nedskrevet til virkelig verdi dersom verdifallet ikke er forbigaende.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til &
+
+forventet tap. Avsetning for tap gjores pa grunnlag av individuelle vurderinger av de enkelte fordringene. 8
+Q
+=
+
+| tillegg gjores det for ovrige kundefordringer en uspesifisert avsetning for a dekke antatt tap. a
+x=
+a)
+
+Skatt a
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. =
+
+Utsatt skatt beregnes med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom =
+
+regnskapsmessige og skattemessige verdier, samt eventuelt skattemessig underskudd til fremforing ved 3
+
+utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer Y
+
+eller kan reversere i samme periode er utlignet og nettofort. q
+>
+S
+S
+
+Note 1 Arten av virksomhet og hvor den drives =
+E
+
+Arktek Holding ASer et holdingselskap. Selskapets virksomhet bestar i a eie og forvalte eierinteresser i $
+
+datterselskapene, samt yte strategisk, finansiell og adminstrativ stotte til disse. S
+
+Arktek Holding AS har ingen egen operativ virksomhet. S
+Qn
+
+Virksomheten i datterselskapene er hovedsakelig knyttet prosjektering, levering og installasjon av VVS-
+
+tekniske anlegg, samt tilhorende radgivning og service.
+
+Arktek Holding AS har sitt forretningskontor i Vestby kommune , og virksomheten drives hovedsakelig i
+
+Norge.
+
+Note 2 Lonnskostnader, ingen ansatte
+
+Det har ikke vzert ansatte sysselsatt i lapet av regnskapsaret.
+
+Det er ikke gitt lan eller sikkerhetsstillelser til fordel for medlemmer av styret eller til annet
+
+administrasjon-, ledelses- eller kontrollorgan.
+
+Arktek Holding AS Side 5
+
+Noter til regnskapet 2025
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzrt resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzrt resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -13 644 -3 524
+Permanente forskjeller 0 0
+Skattepliktig inntekt -13 644 -3 524
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremforing som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller &
+i
+iFay
+2025 2024 Endring g
+ne
+aa)
+Akkumulert fremforbart underskudd -20 769 -7 124 13 644 vA
+Inngar ikke i beregningen av utsatt skatt 20 769 7124 -13 644 s
+=
+Utsatt skattefordel (22 %) 0 0 0 5
+3
+| henhold til God regnskapsskikk for sma foretak balansefores ikke utsatt skattefordel.
+S$
+S
+S
+Pe
+Note 4 Egenkapital
+§
+S
+Aksjekapital Overkurs Udekket tap Sum S
+egenkapital &
+Pr. 01.01. 30 000 -5 570 -6 938 17 492
+Arets resultat 0 0 -13 644 -13 644
+Pr. 31.12. 30 000 -5 570 -20 582 3 848
+Note 5 Investering i datterselskap
+Selskap Forretnings Eierandel Bokfort verdi
+- kontor
+Arktek VVS AS Son 100 % 30 000
+Rorlegger'n i Son AS Son 100 % 60 000
+SUM 90 000
+Selskapet faller inn under reglene for sma foretak og konsernregnskap er ikke utarbeidet i medhold av
+regnskapslovens § 3-2, 4. ledd.
+Arktek Holding AS Side 6
+
+Noter til regnskapet 2025
+
+Note 6 Mellomvzrende med nzrstaende part
+
+Fordringer 2025 2024
+
+Kortsiktige fordringer * 5 352 217 0
+
+Sum fordringer 5 352 217 0
+
+Gjeld 2025 2024
+
+Langsiktig gjeld 5 352 217 0
+
+Annen kortsiktig gjeld 90 000 0
+
+Sum gjeld 5 442 217 0
+
+* 12025 er det besluttet at fordringen skal konverteres til aksjekapital i datterselskapet. &
+
+Kapitalforhoyelsen er per 31.12.2025 ikke registrert i Foretaksregisteret og fordringen er derfor *
+
+balansefort som fordring per balansedagen. Konverteringen gjennomfares i 2026. S
+x=
+Q
+
+Note 7 Fortsatt drift s
+=
+=
+
+Selskapet har i regnskapsaret hatt et mindre negativt arsresultat. Underskuddet knytter seg i hovedsak til x
+
+ordinezre administrative kostnader, herunder kostnader til regnskap og revisjon. 8
+~
+=>
+
+| lopet av aret har selskapet foretatt investeringer i datterselskap. Styret forventer at disse investeringene =
+
+vil kunne bidra med utbytte og/eller verdirealisering som gir grunnlag for fortsatt drift av morselskapet fra 3
+
+og med 2026. z
+=
+
+Pa bakgrunn av dette vurderer styret at forutsetningen om fortsatt drift er til stede. E
+
+Arsregnskapet er avlagt under forutsetning om fortsatt drift. $s
+&
+
+Arktek Holding AS Side 7

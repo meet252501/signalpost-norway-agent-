@@ -1,0 +1,305 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 540995
+Virksomheten
+Organisasjonsnummer : 944 862 927
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: FOLKEDATA SVEIN FOLKESON AS
+Forretningsadresse: Gladengveien 8B
+0661 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Granly @konomiservice AS
+Dato for fastsettelse av arsregnskapet: 21.04.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 13.06.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 944 862 927
+
+FOLKEDATA SVEIN FOLKESON AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 51 389 58 101
+
+Annen driftsinntekt 5 369 8 072
+
+Sum inntekter 56 758 66 173
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 80 701 71 016
+
+Sum kostnader 80 701 71 016
+
+Driftsresultat -23 943 -4 844
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 6 222 6 063
+
+Annen finansinntekt 2 550 3 901
+
+Verdigkning andre
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 15 612 3 604
+
+Sum finansinntekter 24 383 13 568
+
+Verdireduksjon andre
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 0 4 052
+
+Annen finanskostnad 466 1 238
+
+Sum finanskostnader 466 5 290
+
+Netto finans 23 917 8 278
+
+Resultat fer skattekostnad -26 3 435
+
+Skattekostnad 26 108 0
+
+Arsresultat -26 134 3 435
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -26 134 3 435
+
+Sum overferinger og
+
+disponeringer -26 134 3 435
+Utskriftsdato 13.06.2026 Organisasjonsnr 944 862 927 Side 1 av 3
+
+Organisasjonsnr: 944 862 927
+
+FOLKEDATA SVEIN FOLKESON AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner
+
+og lignende 120 000 120 000
+
+Sum varige driftsmidler 120 000 120 000
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 45 076 77 073
+
+Sum finansielle
+
+anleggsmidler 45 076 77 O73
+
+Sum anleggsmidler 165 076 197 073
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 15 625 16 250
+
+Andre fordringer 13 825 7 744
+
+Sum fordringer 29 450 23 994
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 362 629 354 296
+
+Sum bankinnskudd,
+
+kontanter og lignende 362 629 354 296
+
+Sum omlepsmidler 392 079 378 290
+
+SUM ELENDELER 557 155 575 363
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 499 103 525 237
+
+Sum opptjent egenkapital 499 103 525 237
+Utskriftsdato 13.06.2026 Organisasjonsnr 944 862 927 Side 2 av 3
+
+Sum egenkapital 529 103 555 237
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 26 108 0
+
+Sum avsetninger for
+
+forpliktelser 26 108 fe]
+
+Annen langsiktig gjeld
+
+Sum langsiktig gjeld 26 108 fe]
+
+Kortsiktig gjeld
+
+Leverandergjeld 3 034 17 832
+
+Skyldige offentlige
+
+avgifter -1 090 2 294
+
+Sum kortsiktig gjeld 1 944 20 126
+
+Sum gjeld 28 052 20 126
+
+SUM EGENKAPITAL OG GJELD 557 155 575 363
+Utskriftsdato 13.06.2026 Organisasjonsnr 944 862 927 Side 3 av 3
+
+Organisasjonsnr: 944 862 927
+
+FOLKEDATA SVEIN FOLKESON AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00

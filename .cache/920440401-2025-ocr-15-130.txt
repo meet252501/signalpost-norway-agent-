@@ -1,0 +1,257 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 471637
+Virksomheten
+Organisasjonsnummer : 920 440 401
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: UDNES HOLDING AS
+Forretningsadresse: Udnesvegen 117
+2150 ARNES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ljet as
+Dato for fastsettelse av arsregnskapet: 23.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 26.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 920 440 401
+
+UDNES HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 2 884 6 617
+
+Sum kostnader 2 884 6 617
+
+Driftsresultat -2 884 -6 617
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 1176 871
+
+Annen finansinntekt 79 681 0
+
+Verdigkning andre
+
+finansielle instrumenter
+
+vurdert til virkelig verdi -103 039 81 210
+
+Sum finansinntekter -22 182 82 080
+
+Netto finans -22 182 82 080
+
+Resultat fer skattekostnad -25 065 75 463
+
+Arsresultat -25 065 75 463
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -25 065 75 463
+
+Sum overferinger og
+
+disponeringer -25 065 75 463
+Utskriftsdato 26.05.2026 Organisasjonsnr 920 440 401 Side 1 av 3
+
+Organisasjonsnr: 920 440 401
+
+UDNES HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum anleggsmidler
+
+Omlepsmidler
+
+Varer
+
+Investeringer
+
+Markedsbaserte aksjer 346 440 370 060
+
+Sum investeringer 346 440 370 060
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 36 047 34 920
+
+Sum bankinnskudd,
+
+kontanter og lignende 36 047 34 920
+
+Sum omlepsmidler 382 487 404 980
+
+SUM ELENDELER 382 487 404 980
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 349 915 374 980
+
+Sum opptjent egenkapital 349 915 374 980
+
+Sum egenkapital 379 915 404 980
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 2 573 0
+
+Sum annen langsiktig gjeld 2 573 0
+
+Sum langsiktig gjeld 2 573 0
+
+Sum gjeld 2 573 0
+Utskriftsdato 26.05.2026 Organisasjonsnr 920 440 401 Side 2 av 3
+
+SUM EGENKAPITAL OG GJELD 382 487 404 980
+Utskriftsdato 26.05.2026 Organisasjonsnr 920 440 401 Side 3 av 3
+
+Organisasjonsnr: 920 440 401
+
+UDNES HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00

@@ -1,0 +1,259 @@
+[OCR Error: Command '['tesseract', 'C:\\Users\\MEETSU~1\\AppData\\Local\\Temp\\tmpuw223972\\page_0.png', 'stdout', '-l', 'eng', '--psm', '6']' timed out after 30 seconds]
+Organisasjonsnr: 823 344 112
+
+TO BE HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 3 433 4 317
+
+Sum kostnader 3 433 4 317
+
+Driftsresultat -3 433 -4 317
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 149 560 0
+
+Sum finansinntekter 149 560 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 149 560 fe)
+
+Resultat for skattekostnad 146 128 -4 317
+
+Arsresultat 146 128 -4 317
+
+Annen egenkapital 146 128 -4 317
+Utskriftsdato 27.06.2026 Organisasjonsnr 823 344 112 Side 1 av 3
+
+Organisasjonsnr: 823 344 112
+
+TO BE HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 1 526 884 1 024 668
+
+Sum investeringer 1 526 884 1 024 668
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 239 469 595 557
+
+Sum bankinnskudd,
+
+kontanter og lignende 239 469 595 557
+
+Sum omlepsmidler 1 766 353 1 620 225
+
+SUM ELENDELER 1 766 353 1 620 225
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 1 736 353 1 590 225
+
+Sum opptjent egenkapital 1 736 353 1 590 225
+Utskriftsdato 27.06.2026 Organisasjonsnr 823 344 112 Side 2 av 3
+
+Sum egenkapital 1 766 353 1 620 225
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 fe]
+
+Kortsiktig gjeld
+
+Sum kortsiktig gjeld 0 fe]
+
+Sum gjeld 0 0
+
+SUM EGENKAPITAL OG GJELD 1 766 353 1 620 225
+Utskriftsdato 27.06.2026 Organisasjonsnr 823 344 112 Side 3 av 3
+
+Organisasjonsnr: 823 344 112
+
+TO BE HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Eiendeler som er knyttet til varekretslepet er klassifisert
+
+som omlepsmidler.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og
+
+virkelig verdi. Kortsiktig gjeld balanseferes til nominelt belep pa
+etableringstidspunktet.
+
+Selskapet har ikke endret regnskapsprinsipp fra
+
+2024 til 2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap for
+TO BE HOLDING AS
+823344112
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+TO BE HOLDING AS
+823 344 112
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -3 433 -4317
+Sum driftskostnader -3 433 -4 317
+Driftsresultat -3 433 -4 317
+Finansinntekter
+Annen finansinntekt 149 560 0
+Sum finansinntekter 149 560 0
+Netto finans 149 560 0
+Arsresultat 146 128 -4317
+Overforinger
+Annen egenkapital 146 128 4317
+Sum overferinger 146 128 -4317
+
+TO BE HOLDING AS
+823 344 112
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Investeringer
+Aksjer og andeler i foretak i samme konsern 1 526 884 1 024 668
+Sum investeringer 1 526 884 1 024 668
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 239 469 595 557
+Sum bankinnskudd, kontanter og lignende 239 469 595 557
+Sum omlgpsmidler 1 766 353 1 620 225
+SUM EIENDELER 1 766 353 1 620 225
+
+TO BE HOLDING AS
+823 344 112
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 1 736 353 1 590 225
+Sum opptjent egenkapital 1 736 353 1 590 225
+Sum egenkapital 1 766 353 1 620 225
+SUM EGENKAPITAL OG GJELD 1 766 353 1 620 225
+RAHOLT, 24.06.2026
+Tonje Berg
+styrets leder
+
+TO BE HOLDING AS
+
+823 344 112
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet til varekretsigpet er klassifisert som omlgpsmidler.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Antall arsverk
+
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.

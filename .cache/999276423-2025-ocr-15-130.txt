@@ -1,0 +1,475 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 753636
+Virksomheten
+Organisasjonsnummer : 999 276 423
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: KROL AS
+Forretningsadresse: Olaf Bulls vei 11¢
+0765 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Jaroslaw Arnold Zagierski
+Dato for fastsettelse av arsregnskapet: 31.07.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 12.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 999 276 423
+
+KROL AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 0 14 290
+
+Sum inntekter 0 14 290
+
+Kostnader
+
+Avskrivning pa varige
+
+drifttsmidler 2 16 931 16 931
+
+Annen driftskostnad 29 348 54 035
+
+Sum kostnader 46 279 70 966
+
+Driftsresultat -46 279 -56 676
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 9 136
+
+Sum finansinntekter 9 136
+
+Netto finans 9 136
+
+Resultat fer skattekostnad -46 270 -56 540
+
+Arsresultat -46 270 -56 540
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -46 270 -56 540
+
+Sum overferinger og
+
+disponeringer -46 270 -56 540
+Utskriftsdato 12.08.2026 Organisasjonsnr 999 276 423 Side 1 av 3
+
+Organisasjonsnr: 999 276 423
+KROL AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 2 359 791 376 722
+Sum varige driftsmidler 359 791 376 722
+Finansielle anleggsmidler
+Investering i annet
+foretak i samme konsern 3 60 000 60 000
+Lan til foretak i samme
+konsern 3 -5 000 -5 000
+Sum finansielle
+anleggsmidler 55 000 55 000
+Sum anleggsmidler 414 791 431 722
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 670 000 5 853 675
+Sum fordringer 670 000 5 853 675
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 5 164 3 539
+Sum bankinnskudd,
+kontanter og lignende 5 164 3 539
+Sum omlepsmidler 675 164 5 857 214
+SUM ELENDELER 1 089 955 6 288 936
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital
+(selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Utskriftsdato 12.08.2026 Organisasjonsnr 999 276 423 Side 2 av 3
+
+Annen egenkapital 441 002 5 667 271
+
+Sum opptjent egenkapital 441 002 5 667 271
+
+Sum egenkapital 471 002 5 697 271
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 250 000 250 000
+
+Sum annen langsiktig gjeld 250 000 250 000
+
+Sum langsiktig gjeld 250 000 250 000
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 225 0
+
+Skyldig offentlige avgifter 4 063 0
+
+Annen kortsiktig gjeld 364 665 341 665
+
+Sum kortsiktig gjeld 368 953 341 665
+
+Sum gjeld 618 953 591 665
+
+SUM EGENKAPITAL OG GJELD 1 089 955 6 288 936
+Utskriftsdato 12.08.2026 Organisasjonsnr 999 276 423 Side 3 av 3
+
+Organisasjonsnr: 999 276 423
+
+KROL AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Asker
+
+Virksomhetens art
+
+Eiendomsutvikling, salg/kj@p av eiendommer,
+
+import/eksport, salg av handelsvarer, radgivning og deltagelse i andre
+
+virksomheter, eiendomsutleie.
+
+Note
+
+4
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+410585.00
+
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+410585.00
+
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+50794.00
+
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+359791.00
+
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+16931.00
+
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Note
+
+3
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregnskap
+
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Ja
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a4
+
+folge unntaksregelen i regnskapslovens § 3-2 (3).
+
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+
+Fordringer
+Samlet belgp - foretak i samme konserm Arets Fjorarets
+-5000.00 -5000.00
+
+Arsregnskap 2025
+Krol AS
+(999 276 423)
+Krol AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 0 14 290
+Sum driftsinntekter 0 14 290
+Driftskostnader
+
+Avskrivning pa varige driftsmidler 2 16 931 16 931
+
+Annen driftskostnad 29 348 54035
+Sum driftskostnader 46 279 70 966
+Driftsresultat -46 279 -56 676
+Finansinntekter
+
+Annen renteinntekt 9 136
+Sum finansinntekter 9 136
+Netto finans 9 136
+Resultat for skatt -46 270 -56 540
+Arsresultat -46270 -56540
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital -46 270 -56 540
+Sum overferinger og disponeringer -46 270 -56 540
+
+Krol AS Arsregnskap Side 2 av6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Tomter, bygninger og annen fast eiendom 2 359 791 376 722
+Sum varige driftsmidler 359 791 376 722
+Finansielle anieggsmidler
+
+Investeringer i annet foretak i samme konsern 3 60 000 60 000
+
+Lan til foretak i samme konsern 3 -6 000 -5 000
+Sum finansielle anleggsmidler 55 000 55 000
+Sum anleggsmidler 414791 431 722
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 670 000 5 853 675
+Sum fordringer 670000 5853675
+Bankinnskudd, kontanter o.l. 5 164 3 539
+Sum omlepsmidler 675164 5 857 214
+Sum eiendeler 1089955 6 288936
+
+Krol AS Arsregnskap Side 3 av6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Annen egenkapital 441 002 5 667 271
+Sum opptjent egenkapital 441 002 5 667 271
+Sum egenkapital 471002 5697271
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 250 000 250 000
+Sum annen langsiktig gjeld 250 000 250 000
+Kortsiktig gjeld
+
+Leverandergjeld 225 0
+
+Skyldig offentlige avgifter 4063 0
+
+Annen kortsiktig gjeld 364 665 341 665
+Sum kortsiktig gjeld 368 953 341 665
+Sum gjeld 618 953 591 665
+Sum egenkapital og gjeld 1089955 6 288936
+
+Krol AS Arsregnskap Side 4 av6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Asker
+Virksomhetens art
+Eiendomsutvikling, salg/kjop av eiendommer, import/eksport, salg av handelsvarer, radgivning
+og deltagelse i andre virksomheter, eiendomsutleie.
+Note 2: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 410 585
++ Kjop og annen tilgang i ar 0
+- Salg og annen avgang i ar @)
+= Anskaffelseskost 31. desember 410 585
+- Sum avskrivninger og nedskrivninger 50 794
+= Balansefort verdi per 31.12. 359 791
+Arets avskrivninger og nedskrivninger 16 931
+Krol AS Arsregnskap Side 5 av 6
+
+Note 3: Konsern
+Virksomheten utarbeider ikke konsernregnskap, herunder konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a falge
+unntaksregelen i regnskapslovens § 3-2 (3).
+Fordringer og gjeld
+Mot foretak i samme konsern 2025 2024
+Fordringer -5 000 -5§ 000
+Kortsiktig gjeld @) @)
+Langsiktig gjeld @) @)
+Note 4: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Krol AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Jarek Zagierski <jarekwork@gmail.com>
+Elektronisk signering
+JAROSLAW ARNOLD ZAGIERSKI
+22.01.1961 - Daglig leder, Styreleder
+Y) Signert
+31.07.2026 20:18 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 31.07.2026 19:38:43

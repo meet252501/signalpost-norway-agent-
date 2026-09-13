@@ -1,0 +1,421 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 722478
+Virksomheten
+Organisasjonsnummer : 989 896 091
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: STEP FORWARD AS
+Forretningsadresse: c/o Lars Erik Piela
+Skyttakroken 22
+1481 HAGAN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Lars Erik Piela
+Dato for fastsettelse av Aarsregnskapet: 25.07.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.07.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 896 091
+STEP FORWARD AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Lennskostnad 2
+Driftsresultat 0 0
+Finansinntekter og
+finanskostnader
+Inntekt pa andre
+investeringer 992 931
+Sum finansinntekter 992 931
+Netto finans 992 931 0
+Resultat for skattekostnad 992 931
+Arsresultat 992 931
+Overfoeringer og
+disponeringer
+Udekket tap 1 440
+Overferinger til/fra
+annen egenkapital 991 491
+Utskriftsdato 28.07.2026 Organisasjonsnr 989 896 O91 Side 1 av 3
+
+Organisasjonsnr: 989 896 091
+STEP FORWARD AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum anleggsmidler
+Omlepsmidler
+Varer
+Investeringer
+Aksjer og andeler i
+foretak i samme konsern 1 278 201 278
+Markedsbaserte aksjer 0 0
+Markedsbaserte obligasjoner 0 0
+Andre markedsbaserte
+finansielle instrumenter 0 0
+Andre finansielle
+instrumenter 0 0
+Sum investeringer 1 278 201 278
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 993 182 251
+Sum bankinnskudd,
+kontanter og lignende 993 182 251
+Sum omlepsmidler 994 461 201 529
+SUM ELENDELER 994 461 201 529
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 30 000 30 000
+Annen innskutt egenkapital -27 031 -27 031
+Sum innskutt egenkapital 2 969 2 969
+Opptjent egenkapital
+Annen egenkapital 991 491
+Udekket tap 1 440
+Sum opptjent egenkapital 991 491 -1 440
+Sum egenkapital 994 461 1 529
+Gjeld
+
+Utskriftsdato 28.07.2026 Organisasjonsnr 989 896 O91 Side 2 av 3
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 200 000
+Sum annen langsiktig gjeld 200 000
+Sum langsiktig gjeld 200 000
+Sum gjeld 200 000
+SUM EGENKAPITAL OG GJELD 994 461 201 529
+
+Utskriftsdato 28.07.2026 Organisasjonsnr 989 896 O91 Side 3 av 3
+
+Organisasjonsnr: 989 896 091
+
+STEP FORWARD AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+=== Note 1: Regnskapsprinsipper [[note-1]]
+
+Arsregnskapet er satt opp 1
+
+samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+
+==== Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa
+
+leveringstidspunktet.
+
+Tjenester inntektsfoeres etter hvert som de
+
+leveres.
+
+==== Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt.
+
+Utsatt skatt er
+
+beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier,
+
+samt ligningsmessig
+
+underskudd til fremfering ved utgangen av regnskapsaret.
+Skatteskende og
+
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofert.
+
+==== Klassifisering
+
+og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til
+
+varig elie og bruk.
+
+Anleggsmidler er vurdert til anskaffelseskost.
+
+Varige
+
+driftsmidler balanseferes og avskrives over driftsmidlets skonomiske
+levetid.
+
+Avskrivingsperioden for fast eiendom anskaffet etter 2009 er
+dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner.
+
+Varige driftsmidler nedskrives til gjenvinnbart
+
+belep ved verdifall som forventes ikke 4 vere forbigaende.
+Gjenvinnbart
+
+belep er det heyeste av netto salgsverdi og verdi i bruk.
+
+Verdi i bruk er
+
+naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivingen
+
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlepsmidler
+
+Omlepsmidler og kortsiktig
+
+gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen,
+
+samt poster som knytter seg til varekretslapet.
+
+Omlepsmidler
+
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi.
+Varer
+
+Varer er vurdert til det laveste av anskaffelseskost og netto
+salgsverdi.
+
+==== Fordringer
+
+Kundefordringer og andre fordringer
+
+oppfordres til palydende etter fradrag for avsetning til forventet
+tap.
+
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene.
+
+Note
+
+2
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Step Forward AS
+Styrets arsberetning for 2025
+Virksomhetens art og hvor den drives:
+Selskapets virksomhet er a bedrive aksjehandel og konsulentvirksomhet. Selskapets
+virksomhet drives i Nittedal.
+Fortsatt drift:
+Det er forutsetningen om fortsatt drift og arsregnskapet for 2025 er satt opp under denne
+forutsetningen. Styret kjenner ikke til noe forhold av viktighet for a bedgmme selskapets
+stilling og resultat som ikke kommer frem av resultatregnskapet og balansen med noter. Det
+er heller ikke etter regnskapsarets utgang inntradt forhold som etter styres syn har
+betydning for bedgmmelse av regnskapet.
+Arbeidsmiljg:
+Selskapet har ingen ansatte sa styret har derfor ikke iverksatt spesielle tiltak rundt
+arbeidsmilj@ i 2025.
+Ytre miljg:
+Etter styrets oppfatning driver ikke bedriften virksomhet som driver miljgforurensning og det
+er derfor ikke iverksatt spesielle tiltak.
+Likestilling:
+Selskapets tillitsmenn bestar av en mann og en kvinne.
+Hagan, 25. Juli 2026
+| Styret for Step Forward AS
+' 1 —a— l
+{Tidy Tne Pret
+i Mm ane relq
+Lars Erik Piela Trine Piela
+Styrets leder Styremedlem
+
+Arsregnskap for 2025
+Step Forward AS
+Orgnr: 989896091
+conta
+
+INNHOLDSLISTE
+Resultat 2... eee B
+Driftsresultater.. 2 ee B
+Finansinntekter og kostnader............ 0.000002 ee eee B
+Arsresultat. 0 eee eee 8
+Overfgringer. 2... eee B
+Balanse. 2. 2 1. ee ee A
+Anleggsmidler... 2... 0.0.0.0... 00.00 2 ee A
+Omlgpsmidler. 2... ee LA
+Fiendeler.. 2... 2. ee ee A
+Egenkapital .. 2. 2 2. eee A
+Geld 2. ee eee A
+Egenkapitaloggjeld..... 2... 0.0.00... 000 0 ee ee ee SG
+Styret. eee ee ee eS
+Noter. 2. 2 ee eee eee 6
+Note 1: Regnskapsprinsipper ... 2... 0... ee ee ee ee  G
+Note2: 0. eee eT
+Note 3: Langsiktige aksjeinvesteringer............... 0... 000 eee eee eee ee i T
+
+RESULTAT
+
+Driftsresultater
+
+Note 2024 2025
+Driftsinntekter 0 0
+Lonnskostnad 2 0 0
+Driftskostnader 0 0
+Driftsresultat 0 0
+Finansinntekter og kostnader
+
+Note 2024 2025
+Inntekt pa andre investeringer 0 992 931
+Finansinntekter 0 992 931
+Finanskostnader 0 0
+Finansinntekter og kostnader 0 992 931
+Arsresultat
+
+Note 2024 2025
+Driftsresultat 0 0
+Finansinntekter og kostnader 0 992 931
+Resultat for skattekostnad 0 992 931
+Skattekostnad 0 0
+Arsresultat 0 992931
+Overforinger
+
+2024 2025
+Avsatt til dekning av tidligere udekket tap 0 1 440
+Avsatt til annen egenkapital 0 991 491
+Sum overf¢ringer 0 992 931
+Conta Arsoppgjgr, Step Forward AS
+-3-
+
+BALANSE
+
+Anleggsmidler
+
+Note 2024 2025
+Immaterielle eiendeler 0 0
+Varige driftsmidler 0 0
+Finansielle anleggsmidler 0 0
+Anleggsmidler 0 0
+Omlgpsmidler
+
+Note 2024 2025
+Fordringer 0 0
+Aksjer og andeler i foretak i samme konsern 201 278 1278
+Investeringer 201 278 1278
+Bankinnskudd, kontanter og lignende 251 993 182
+Omlgpsmidler 201 529 994 461
+Eiendeler
+
+Note 2024 2025
+Anleggsmidler 0 0
+Omlgpsmidler 201 529 994 461
+Eiendeler 201 529 994 461
+Egenkapital
+
+Note 2024 2025
+Selskapskapital 30 000 30 000
+Annen innskutt egenkapital -27 031 -27 031
+Innskutt egenkapital 2 969 2969
+Udekket tap -1 440 0
+Annen egenkapital 0 991 491
+Opptjent egenkapital -1440 991 491
+Egenkapital 1529 994 461
+
+Conta Arsoppgjgr, Step Forward AS
+-4-
+
+Gjeld
+
+Note 2024 2025
+Avsetning for forpliktelser 0 0
+@vrig langsiktig gjeld 200 000 0
+Annen langsiktig gjeld 200 000 0
+Kortsiktig gjeld 0 0
+Gjeld 200 000 0
+Egenkapital og gjeld
+
+Note 2024 2025
+Egenkapital 1529 994 461
+Gjeld 200 000 0
+Egenkapital og gjeld 201 529 994 461
+
+Hagan, 25.07.2026
+Styret i Step Forward AS
+Lars Erik Piela
+Styreleder
+Trine Piela
+Styremediem
+Conta Arsoppgjgr, Step Forward AS
+-5-
+
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Driftsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som
+de leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring
+ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres i samme periode er utlignet og nettofgrt.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets ¢konomiske
+levetid. Avskrivingsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som
+gjelder rabygget og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til
+gjenvinnbart belgp ved verdifall som forventes ikke a veere forbigaende.
+Gjenvinnbart belgp er det hayeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av
+fremtidige kontantstra@mmer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for
+nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlopsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi
+av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+Conta Arsoppgjgr, Step Forward AS
+
+-6-
+
+Fordringer
+Kundefordringer og andre fordringer oppfordres til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 2:
+Note 3: Langsiktige aksjeinvesteringer
+Selskapet har aksjeinvesteringer klassifisert som anleggsmidler med fglgende verdier:
+
+Anskaffelseskost Balansefort verdi Arets nedskriving
+Conexus AS, NTG TopCo AB 201 278 1278 0
+
+Conta Arsoppgjgr, Step Forward AS
+-7-

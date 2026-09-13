@@ -1,0 +1,504 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 422346
+Virksomheten
+Organisasjonsnummer : 989 762 737
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MOSS TOMTESELSKAP AS
+Forretningsadresse: c/o Bane NOR Eiendom AS
+Schweigaards gate 33
+0191 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Laila Shah
+Dato for fastsettelse av arsregnskapet: 05.05.2026
+Revisjon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 06.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 762 737
+
+MOSS TOMTESELSKAP AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Leieinntekter 229 204 163 240
+
+Sum inntekter 229 204 163 240
+
+Kostnader
+
+Prosjektkostnader 128 689 438 716
+
+Annen driftskostnad 1 21 464 116 468
+
+Sum kostnader 150 153 555 185
+
+Driftsresultat 79 O51 -391 944
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+i samme konsern 7 115
+
+Annen renteinntekt 4 408 292
+
+Sum finansinntekter 11 523 292
+
+Rentekostnad til foretak
+
+1 samme konsern 588 908 1116 201
+
+Sum finanskostnader 588 908 1 116 201
+
+Netto finans -577 385 -1 115 909
+
+Resultat fer skattekostnad -498 334 -1 507 853
+
+Skattekostnad pa resultat 2 17 392 -828 782
+
+Arsresultat -515 726 -679 O71
+
+Arsresultat etter
+
+minoritetsinteresser -515 726 -679 O71
+
+Totalresultat -515 726 -679 O71
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 3 -515 726 -679 O71
+
+Overfert fra annen
+
+egenkapital 3
+
+Sum overferinger og
+
+disponeringer -515 726 -679 O71
+Utskrifttsdato 06.05.2026 Organisasjonsnr 989 762 737 Side 1 av 3
+
+Organisasjonsnr: 989 762 737
+
+MOSS TOMTESELSKAP AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 2 198 898 828 782
+
+Sum immaterielle eiendeler 198 898 828 782
+
+Finansielle anleggsmidler
+
+Investering 1 datterselskap 4 4 500 000 4 500 000
+
+Investering i annet
+
+foretak i samme konsern 4
+
+Lan til foretak i samme
+
+konsern 5
+
+Andre langsiktige
+
+fordringer 5 506 692 506 692
+
+Sum finansielle
+
+anleggsmidler 5 006 692 5 006 692
+
+Sum anleggsmidler 5 205 590 5 835 474
+
+Omlepsmidler
+
+Varer
+
+Sum varer 6 14 259 377 10 337 952
+
+Fordringer
+
+Kundefordringer 152 776 76 908
+
+Andre kortsiktige
+
+fordringer 407
+
+Konsernfordringer 5, 5 3 700 440
+
+Sum fordringer 3 853 623 76 908
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 4
+
+Sum omlepsmidler 18 113 000 10 414 860
+
+SUM ELENDELER 23 318 590 16 250 334
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 3, 7 8 000 000 7 921 000
+
+Beholdning av egne aksjer 3
+
+Overkurs 3 22 521 000 100 000
+
+Annen innskutt egenkapital 3
+
+Sum innskutt egenkapital 30 521 000 8 021 000
+Utskriftsdato 06.05.2026 Organisasjonsnr 989 762 737 Side 2 av 3
+
+Opptjent egenkapital
+Annen egenkapital 3
+Udekket tap 3 7 329 705 9 435 905
+Sum opptjent egenkapital -7 329 705 -9 435 905
+Sum egenkapital 23 191 295 -1 414 905
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 2
+Annen langsiktig gjeld
+Gjeld til
+kredittinstitusjoner 5
+Langsiktig konserngjeld 5
+Kortsiktig gjeld
+Leveranderg)jeld 271
+Betalbar skatt 2 127 025
+Kortsiktig konserngjeld 5 17 639 951
+Annen kortsiktig gjeld 25 288
+Sum kortsiktig gjeld 127 296 17 665 239
+Sum gjeld 127 296 17 665 239
+SUM EGENKAPITAL OG GJELD 23 318 590 16 250 334
+POSTER UTENOM BALANSEN
+Garantistillelser 8
+
+Utskriftsdato 06.05.2026 Organisasjonsnr 989 762 737 Side 3 av 3
+
+Organisasjonsnr: 989 762 737
+
+MOSS TOMTESELSKAP AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+ay BankID Qualified Signing
+Tufte, Per Atle
+2026-05-01
+Cy) BankID Qualified Signing
+Austestad, Morten
+2026-05-03
+Cy) BankID Qualified Signing
+Seljelid, Jam Steinar
+, 2026-05-04
+°o
+Arsregnskap 2025
+Moss Tomteselskap AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 989 762 737
+
+RESULTATREGNSKAP |
+MOSS TOMTESELSKAP AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Leieinntekter 229 204 163 240
+Sum driftsinntekter 229 204 163 240
+Prosjektkostnader 128 689 438 716
+Annen driftskostnad 1 21 464 116 468
+Sum driftskostnader 150 153 555 185
+Driftsresultat 79 051 -391 944
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Renteinntekt fra foretak i samme konsern 7115 8)
+Annen renteinntekt 4 408 292
+Rentekostnad til foretak i samme konsern 588 908 1116 201
+Resultat av finansposter -577 385 -1 115 909
+Resultat for skattekostnad -498 334 -1 507 853
+Skattekostnad pa resultat 2 17 392 -828 782
+Arsresultat -515 726 -679 071
+OVERF@RINGER
+
+Overfgrt til udekket tap 3 -515 726 -679 071
+Sum overfgringer -515 726 -679 071
+MOSS TOMTESELSKAP AS SIDE 2
+
+BALANSE |
+
+MOSS TOMTESELSKAP AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+Utsatt skattefordel 2 198 898 828 782
+Sum immaterielle eiendeler 198 898 828 782
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i datterselskap 4 4500 000 4 500 000
+Andre langsiktige fordringer 5 506 692 506 692
+Sum finansielle anleggsmidler 5 006 692 5 006 692
+Sum anleggsmidler 5 205 590 5 835 474
+OML@PSMIDLER
+Lager av varer og annen beholdning 6 14 259 377 10 337 952
+FORDRINGER
+Kundefordringer 152 776 76 908
+Andre kortsiktige fordringer 407 0
+Konsernfordringer 5 3 700 440 0
+Sum fordringer 3 853 623 76 908
+Sum omlgpsmidler 18 113 000 10 414 860
+Sum eiendeler 23 318590 [E16 250 334|
+MOSS TOMTESELSKAP AS SIDE 3
+
+BALANSE |
+MOSS TOMTESELSKAP AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 3,7 8 000 000 7921000
+Overkurs 3 22 521 000 100 000
+Sum innskutt egenkapital 30 521 000 8 021 000
+OPPTJENT EGENKAPITAL
+Udekket tap 3 -7 329 705 -9 435 905
+Sum opptjent egenkapital -7 329 705 -9 435 905
+Sum egenkapital 23 191 295 -1 414 905
+GJELD
+AVSETNING FOR FORPLIKTELSER
+KORTSIKTIG GJELD
+Leverandgrgjeld 271 0
+Betalbar skatt 2 127 025 0
+Konserngjeld 5 0 17 639 951
+Annen kortsiktig gjeld 0 25 288
+Sum kortsiktig gjeld 127 296 17 665 239
+Sum gjeld 127 296 17 665 239
+Sum egenkapital og gjeld 23 318 590 | 16 250 334|
+30.04.2026
+Styret i Moss Tomteselskap AS
+Morten Austestad Jgrn Steinar Seljelid Per Atle Tufte
+styreleder styremedilem styremedlem
+MOSS TOMTESELSKAP AS SIDE 4
+
+Moss Tomteselskap AS
+REGNSKAPSPRINSIPPER
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+OPPLYSNINGER OM SELSKAPET
+Selskapets formal er utvikling og forvaltning av eiendom. Selskapets forretningsadresse er Oslo. Den
+operasjonelle virksomheten drives imidlertid i Moss.
+FORTSATT DRIFT
+Arsregnskapet er utarbeidet under forutsetning om fortsatt drift.
+FORDRINGER
+Kundefordringer og andre fordringer er oppf¢rt i balansen til palydende etter fradrag for avsetning til
+forventet tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene. |
+tillegg gjgres det for @vrige kundefordringer en uspesifisert avsetning for a dekke antatt tap pa krav.
+LEIEINNTEKTER
+Inntekter ved utleie av fast eiendom resultatfgres over leieavtalens Igpetid.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt
+Utsatt skattefordel balansefgres dersom det er sannsynlig at fordelen kan realiseres.
+KLASSIFISERING OG VURDERING AV BALANSEPOSTER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+PROSJEKT | EGENREGI/VARELAGER
+Bokfgrt varelager bestar av eiendom under utvikling. Prosjektene behandles som egenregiprosjekter, ved
+tilvirkning for lager til kostpris. Ved et eventuelt salg av hele eller deler av prosjektet vil dette
+regnskapsf¢res etter fullfgrt kontrakt metode iht. NRS 8.
+INVESTERING | DATTERSELSKAP
+Investeringer i datterselskap, tilknyttede selskap og felleskontrollert virksomhet er regnskapsfort i
+selskapsregnskapet etter kostmetoden. Investeringene blir nedskrevet til virkelig verdi dersom verdifallet
+ikke er forbigaende.
+KONSERNKONTOORDNING
+Bane NOR Eiendom AS er konsernkontoinnehaver av konsernets kassekredittkonto, selskapets driftskonto i
+konsernkontosystemet representerer et mellomvzerende med Bane NOR Eiendom.
+MOSS TOMTESELSKAP AS SIDE 5
+
+Moss Tomteselskap AS
+Note 1 Lénnskostnader og ytelser, godtgjgrelser til daglig leder og styret
+Selskapet har ingen ansatte.
+Det er ikke utbetalt honorar til styret i 2025.
+Det er ikke gitt lan eller sikkerhetsstillelser til fordel for medlemmer av styret eller til annet administrasjon-,
+ledelses- eller kontrollorgan.
+Note 2 Skatt
+Arets skattegrunnlag 2025 2024
+Betalbar skatt -612 492 0
+Endring i utsatt skatt 629 884 -828 782
+Sum skattekostnad 17 392 -828 782
+Beregning av arets skattegrunnlag: 2025 2024
+Ordinzert resultat for skattekostnad -498 334 -1 507 853
+Mottatt konsernbidrag 3 361 443 0
+Avskaret rentefradrag 577 385 1115 909
+Anvendelse av fremfgrbart underskudd -2 863 109 0
+Arets skattegrunnlag 577 385 -391 944
+Betalbar skatt i balansen: 2025 2024
+Betalbar skatt pa arets resultat -612 492 0
+Betalbar skatt pa mottatt konsernbidrag 739 517 0
+Sum betalbar skatt i balansen 127 025 0
+Oversikt over midlertidige forskjeller: 2025 2024 Endring
+Sum 0 0 0
+Akkumulert fremfgrbart underskudd -904 082 -3 767 190 -2 863 109
+Inngar ikke i beregningen av utsatt skatt 1 693 294 1115 909 -577 385
+Sum 789 212 -2 651 281 -3 440 494
+Utsatt skattefordel (22 %) -198 898 -828 782 -629 884
+Forklaring til hvorfor arets skattekostnad 2025 2024
+ikke utgj@r 22 % av resultat for skatt:
+Resultat for skatt -498 334 -1 507 853
+22 % skatt av resultat for skatt -109 634 -331 728
+Beregnet skattekostnad -109 634 -331 728
+Effektiv skattesats 22,0% 22,0%
+MOSS TOMTESELSKAP AS SIDE 6
+
+Moss Tomteselskap AS
+Note 3 Egenkapital
+Aksjekapital Overkurs Udekket tap Sum
+egenkapital
+Pr. 01.01.2025 7 921 000 100000 -9435905 -1414905
+Arets resultat 515726 -515726
+Konsernbidrag mottatt 2621926 2621926
+Pr 31.12.2025 7 921 000 100000 -7 329705 691 295
+Selskapets aksjekapital er tapt pr. 31.12.2025.
+| trad med aksjelovens §3-4 og §3-5 er det krav om at selskapet skal ha en forsvarlig egenkapital.
+Ettersom selskapet har negativ egenkapital har styret en plikt til a iverksette nddvendige tiltak og sikre at
+selskapet har en forsvarlig egenkapital ved fortsatt drift.
+Styret er av den oppfatning at selskapets finansiering og drift er ivaretatt, da Bane NOR Eiendom AS, som
+eier selskapet 100% garanterer for selskapets drift og dens fremtidige finansieringsbehov.
+Note 4 Datterselskap
+Kontor- Eier- Anskaffelses Bokfgrt verdi Andel Andel resultat
+kommune andel kost egenkapital
+DS/FKV/TS
+Strandgata Moss 25 OSLO 100,0% 7900000 4500 000 -724 956 -337 976
+og 27 AS
+Sum 7 900 000 4 500 000 - 724 956 - 337 976
+Aksjene i datterselskapet ble nedskrevet med kr 3 400 000 i 2023.
+Andel egenkapital og resultat er arets tall.
+Note 5 Mellomvzrende med selskap i samme konsern
+2025 2024
+Langsiktig konserngjeld og fordringer
+Fordringer
+Andre langsiktige konsernfordringer 506 692 506 692
+Sum 506 692 506 692
+Kortsiktig konserngjeld og fordringer
+Innestaende pa konsernkontoordning 338 997 0
+Mottatt konsernbidrag 3 361 443 0
+Sum 3 700 440 0
+Gjeld
+Trukket pa konsernkontoordning 0 17 639 951
+Sum 0 17 639 951
+MOSS TOMTESELSKAP AS SIDE 7
+
+Moss Tomteselskap AS
+Note 6 Utviklingseiendom for salg og annen beholdning av eiendom
+Varelager 2025 2024
+Utvikling av eiendom for salg * 14 259 377 10 337 952
+Sum varelager 14 259 377 10 337 952
+*) Se spesifikasjon nedenfor
+Utviklingseiendom for salg Tomt Anlegg under Totalt
+utvikling {AUU)
+Balansef¢rt verdi 1. januar 10 337 952 0 10 337 952
+Balansefgrt verdi 31. desember 10 337 952 0 10 337 952
+Note 7 Aksjekapital, aksjonzerer m.v.
+Aksjekapitalen i Moss Tomteselskap AS pr. 31.12 bestar av:
+Antall Palydende Balansefgrt
+Ordinzre aksjer 1 000 8000 8000000
+Sum 1 000 8 000 000
+Alle aksjene gir samme rettigheter i selskapet.
+Oversikt over aksjonzerene pr. 31.12.2025:
+Ordinzere Sum antall Eierandel Stemmeandel
+aksjer
+Bane NOR Eiendom AS 1 000 1 000 100 % 100 %
+Sum 1000 1 000 100 % 100 %
+Moss Tomteselskap AS sitt morselskap er Bane NOR Eiendom AS, Schweigaards gate 33, 0191 OSLO, Norge.
+Konsernregnskapet kan fas ved henvendelse til denne adressen.
+Note 8 Hendelser etter balansedagen
+Det har ikke oppstatt hendelser etter balansedagen som har hatt innvirkning pa tallene i det avlagte
+arsregnskapet for 2025.
+MOSS TOMTESELSKAP AS SIDE 8
+
+Arsregnskap 2025
+Moss Tomteselskap AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 989 762 737
+
+RESULTATREGNSKAP |
+MOSS TOMTESELSKAP AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Leieinntekter 229 204 163 240
+Sum driftsinntekter 229 204 163 240
+Prosjektkostnader 128 689 438 716
+Annen driftskostnad 1 21 464 116 468
+Sum driftskostnader 150 153 555 185
+Driftsresultat 79 051 -391 944
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Renteinntekt fra foretak i samme konsern 7115 8)
+Annen renteinntekt 4 408 292
+Rentekostnad til foretak i samme konsern 588 908 1116 201
+Resultat av finansposter -577 385 -1 115 909
+Resultat for skattekostnad -498 334 -1 507 853
+Skattekostnad pa resultat 2 17 392 -828 782
+Arsresultat -515 726 -679 071
+OVERF@RINGER
+
+Overfgrt til udekket tap 3 -515 726 -679 071
+Sum overfgringer -515 726 -679 071
+MOSS TOMTESELSKAP AS SIDE 2

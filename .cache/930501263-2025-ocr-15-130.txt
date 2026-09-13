@@ -1,0 +1,302 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 599531
+Virksomheten
+Organisasjonsnummer : 930 501 263
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: NYGARDSVEIEN 49 ARENDAL AS
+Forretningsadresse: Nygardsveien 49
+4844 ARENDAL
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Rannveig Winther
+Dato for fastsettelse av arsregnskapet: 26.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 29.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 501 263
+
+NYGARDSVEILEN 49 ARENDAL AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 224 000 45 344
+
+Sum inntekter 224 000 45 344
+
+Kostnader
+
+Lennskostnad 1, 2 0 1 358
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 0 62 908
+
+Annen driftskostnad 324 776 482 374
+
+Sum kostnader 324 776 546 640
+
+Driftsresultat -100 776 -501 296
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 263 0
+
+Sum finansinntekter 263 e)
+
+Annen rentekostnad 0 358 323
+
+Sum finanskostnader 0 358 323
+
+Netto finans 263 -358 323
+
+Resultat fer skattekostnad -100 513 -859 619
+
+Skattekostnad -22 112 -154 414
+
+Arsresultat -78 401 -705 205
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -78 401 -705 205
+
+Sum overferinger og
+
+disponeringer -78 401 -705 205
+Utskriftsdato 29.06.2026 Organisasjonsnr 930 501 263 Side 1 av 3
+
+Organisasjonsnr: 930 501 263
+
+NYGARDSVEIEN 49 ARENDAL AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 6 990 165 6 990 166
+
+Sum varige driftsmidler 6 990 165 6 990 166
+
+Sum anleggsmidler 6 990 165 6 990 166
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre fordringer -29 558 0
+
+Konsernfordringer 0 -6 811 650
+
+Sum fordringer -29 558 -6 811 650
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 1 129 74 709
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 129 74 709
+
+Sum omlepsmidler -28 430 -6 736 942
+
+SUM ELENDELER 6 961 736 253 224
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 100 000 100 000
+
+Annen innskutt egenkapital 6 944 254 0
+
+Sum innskutt egenkapital 7 044 254 100 000
+
+Opptjent egenkapital
+
+Udekket tap 78 401 0
+
+Sum opptjent egenkapital -78 401 0
+
+Sum egenkapital 6 965 854 100 000
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 15 871 37 983
+Utskriftsdato 29.06.2026 Organisasjonsnr 930 501 263 Side 2 av 3
+
+Sum avsetninger for
+
+forpliktelser 15 871 37 983
+
+Annen langsiktig gjeld
+
+Sum langsiktig gjeld 15 871 37 983
+
+Kortsiktig gjeld
+
+Leverandergjeld -19 989 18 078
+
+Annen kortsiktig gjeld 0 97 163
+
+Sum kortsiktig gjeld -19 989 115 241
+
+Sum gjeld -4 118 153 224
+
+SUM EGENKAPITAL OG GJELD 6 961 736 253 224
+Utskriftsdato 29.06.2026 Organisasjonsnr 930 501 263 Side 3 av 3
+
+Organisasjonsnr: 930 501 263
+
+NYGARDSVEIEN 49 ARENDAL AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilhorende
+
+inntekter.
+
+Virksomheten driver med boligutleie i Arendal Kommune
+
+Note
+
+1
+
+Antall Arsverk i regnskapsaret
+
+0.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+0.00 0.00
+Folketrygqdavqift Arets Fjorarets
+0.00 0.00
+Pensjonskostnader Arets Fjorarets
+0.00 0.00
+Andre ytelser Arets Fjorarets
+0.00 1358.00
+Sum lennskostnader Arets Fjorarets
+0.00 1358.00
+Mer om arsverk og lenn
+Det har ikke vert ansatte eller blitt utbetalt lenn 1 2025.
+Det er ikke
+utbetalt godtgje@relse til styret eller ledende personer.

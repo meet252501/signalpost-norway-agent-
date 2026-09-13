@@ -1,0 +1,620 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 529084
+Virksomheten
+Organisasjonsnummer : 971 376 368
+Organisasjonsform: Stiftelse
+Foretaksnawn: STIFTELSEN NRK - MARINTEK BARNEHAGE
+Forretningsadresse: Otto Nielsens veg 2B
+7052 TRONDHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Berre Buvarp
+Dato for fastsettelse av arsregnskapet: 23.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 971 376 368
+
+STIFTELSEN NRK - MARINTEK BARNEHAGE
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 6 398 711 6 389 376
+
+Sum inntekter 6 398 711 6 389 376
+
+Kostnader
+
+Lennskostnad 2, 3, 4 5 859 103 5 884 814
+
+Annen driftskostnad 5, 6 701 629 772 185
+
+Sum kostnader 6 560 731 6 656 999
+
+Driftsresultat -162 020 -267 623
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 89 581 28 357
+
+Sum finansinntekter 89 581 28 357
+
+Annen rentekostnad 0 263
+
+Sum finanskostnader e) 263
+
+Netto finans 89 581 28 094
+
+Resultat fer skattekostnad -72 439 -239 528
+
+Arsresultat -72 439 -239 528
+
+Annen egenkapital -72 439 -239 528
+Utskriftsdato 02.07.2026 Organisasjonsnr 971 376 368 Side 1 av 3
+
+Organisasjonsnr: 971 376 368
+
+STIFTELSEN NRK - MARINTEK BARNEHAGE
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 664 2 400
+
+Andre kortsiktige
+
+fordringer 350 866 356 746
+
+Sum fordringer 351 530 359 146
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 7 2 427 100 2 552 897
+
+Sum bankinnskudd,
+
+kontanter og lignende 2 427 100 2 552 897
+
+Sum omlepsmidler 2 778 630 2 912 043
+
+SUM ELENDELER 2 778 630 2 912 043
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 8 100 000 100 000
+
+Sum innskutt egenkapital 100 000 100 000
+
+Opptjent egenkapital
+
+Annen egenkapital 8 1 323 241 1 395 680
+
+Sum opptjent egenkapital 1 323 241 1 395 680
+Utskriftsdato 02.07.2026 Organisasjonsnr 971 376 368 Side 2 av 3
+
+Sum egenkapital 1 423 241 1 495 680
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 9 470 000 470 000
+
+Sum annen langsiktig gjeld 470 000 470 000
+
+Kortsiktig gjeld
+
+Leverandergjeld 63 284 69 928
+
+Skyldige offentlige
+
+avgifter 7 245 631 254 955
+
+Annen kortsiktig gjeld 576 475 621 479
+
+Sum kortsiktig gjeld 885 390 946 363
+
+Sum gjeld 1 355 390 1 416 363
+
+SUM EGENKAPITAL OG GJELD 2 778 630 2 912 043
+Utskriftsdato 02.07.2026 Organisasjonsnr 971 376 368 Side 3 av 3
+
+Organisasjonsnr: 971 376 368
+
+STIFTELSEN NRK - MARINTEK BARNEHAGE
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+STiIFTELSEN NRK-MARINTEK BARNEHAGE er en stiftelse registrert og
+hjemmeherende i Norge og Trondheim kommune.
+
+Arsregnskapet er satt opp 1
+
+samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler
+
+bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretslepet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett ar. Langsiktig gjeld er gjeld som
+forfaller senere enn ett ar etter transaksjonsdagen. Forste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som
+omlepsmiddel og kortsiktig gjeld.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belg@p pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes a vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Inntektsforing
+
+Inntektsfering skjer etter
+
+opptjeningsprinsippet som normalt vil vere tidspunktet for levering av
+varer og tjenester. Foreldrebetaling inntektsfores den maneden
+barnehageplassen leies. Kommunalt tilskudd inntektsferes med like
+manedlige bele@p basert pa tilsagn og utbetalt belep. Andre spesielle
+tilskudd inntektsfores over den perioden disse er gitt, i henhold til
+tilsagnsbrev. Kostnader medtas i samme periode som tilh@rende inntekter
+inntektsfores.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Forsikret
+
+pensjonsforpliktelse er ikke balansefert - kostnaden er lik premien.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+4
+Antall Aarsverk i regnskapsaret
+8.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+4592299.00 4363093.00
+Folketryqdavgift Arets Fjorarets
+725789.00 723825.00
+Pensjonskostnader Arets Fljorarets
+637135.00 860954.00
+Andre ytelser Arets Fjorarets
+-96119.00 -63059.00
+Sum lennskostnader Arets Fljorarets
+5859103 .00 5884814.00
+
+BanklD Qualified Signing
+Buvarp, Berre
+2026-04-23
+Mineaas, Katharine Dertardsen
+2026-04-24
+BanklD Qualified Signing
+Rablias, Syvind
+2026-04-26
+2026-04-27
+2026-04-29
+BanklD Qualified Signing
+Wy) Svenning, Mari Walther
+2026-05-05
+Arsregnskap for
+STIFTELSEN NRK - MARINTEK BARNEHAGE
+9713/6368
+Regnskapsar
+01.01.2025 - 31.12.2025
+Utarbeidet av
+Sparebank 1 Regnskapshuset SMN AS
+Org.nr. 936 285 066
+
+BankiO Qualified Signing
+STIFTELSEN NRK - MARINTEK BARNEHAGE 3076-23
+2026-04-24
+BanklD Qualified Signing
+Resultatregnskap Rablite, dyvind
+Note 2025 Scene! Sanna
+Driftsinntekter cena on ed Sian
+Salgsinntekt 1 6 398 711 BankiO Qualified Signing
+Sum driftsinntekter 6 398 711 2026-04-29
+BanklD Qualified Signing
+Wy) Svenning, Mari Walther
+Driftskostnader 2026-05-05
+Le@nnskostnad 2,3,4 -5 859 103 -5 884 814
+Annen driftskostnad 5,6 -701 629 -772 185
+Sum driftskostnader -6 560 731 -6 656 999
+Driftsresultat -162 020 -267 623
+Finansinntekter
+Annen renteinntekt 89 581 28 357
+Sum finansinntekter 89 581 28 357
+Finanskostnader
+Annen rentekostnad 0 -263
+Sum finanskostnader 0 -263
+Netto finans 89 581 28 094
+Arsresultat -72 439 -239 528
+Overfgringer
+Annen egenkapital -72 439 -239 528
+Sum overforinger -72 439 -239 528
+
+BanklD Qualified Signing
+STIFTELSEN NRK - MARINTEK BARNEHAGE pore vcd
+971 376 368 BankID Qualified Signing
+Minsaas, Katharina Gerhardsen
+BanklD Qualified Signing
+Balanse © ese
+Note 31.12.2025 tuner es
+2026-04-27
+EIEN DELER Sy, BankiD Qualified Signing
+Omlgpsmidler Wy) BankiD Qualified Signing
+Svenning, Mari Walther
+Fordringer 2026-05-05
+Kundefordringer 664 2 400
+Andre kortsiktige fordringer 350 866 356 746
+Sum fordringer 351 530 359 146
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 7 2 427 100 2 552 897
+Sum bankinnskudd, kontanter og lignende 2 427 100 2 552 897
+Sum omlepsmidler 2778 630 2912 043
+SUM EIENDELER 2 778 630 2 912 043
+
+BanklD Qualified Signing
+STIFTELSEN NRK - MARINTEK BARNEHAGE poeta
+971 376 368 BanklD Qualified Signing
+Minsaas, Katharina Gerhardsen
+BanklD Qualified Signing
+Balanse Ose
+Note 31.12.2025 ton Keeler on
+EGENKAPITAL OG GJELD ae
+Egenkapital Wy) BanklD Qualified Signing
+Svenning, Mari Walther
+Innskutt egenkapital 2070-06-08
+Selskapskapital 8 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+Annen egenkapital 8 1 323 241 1 395 680
+Sum opptjent egenkapital 1 323 241 1 395 680
+Sum egenkapital 1 423 241 1 495 680
+Gjeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 9 470 000 470 000
+Sum annen langsiktig gjeld 470 000 470 000
+Kortsiktig gjeld
+Leverandargjeld 63 284 69 928
+Skyldige offentlige avgifter 7 245 631 254 955
+Annen kortsiktig gjeld 576 475 621 479
+Sum kortsiktig gjeld 885 390 946 363
+Sum gjeld 1 355 390 1 416 363
+SUM EGENKAPITAL OG GJELD 2 778 630 2 912 043
+Katharina Gerhardsen Mari Walther Svenning Kristian Thun
+Minsaas styremediem styremediem
+styrets leder
+Ole Marius Traen @yvind Rablias Barre Buvarp
+styremediem styremediem daglig leder
+
+BanklD Qualified Signing
+STIFTELSEN NRK - MARINTEK BARNEHAGE poeta
+971 376 368 BanklD Qualified Signing
+Minsaas, Katharina Gerhardsen
+2026-04-24
+BanklD Qualified Signing
+. . BankiD Qualified Signing
+Regnskapsprinsipper saeco
+BanklD Qualified Signing
+STIIFTELSEN NRK-MARINTEK BARNEHAGE er en stiftelse registrert og hiemmehgrende i Nor roan
+Trondheim kommune. BanklO Qualified Signing
+OW) Pea teal Walther
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekretslopet er
+klassifisert som omlepsmidler. Fordringer klassifiseres som omlapsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlapsmiddel og kortsiktig gjeld.
+Omlepsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefares til nominelt
+belap pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Varige driftsmidler
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidler kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+Inntektsforing
+Inntektsforing skjer etter opptieningsprinsippet som normalt vil veere tidspunktet for levering av varer og
+tjenester. Foreldrebetaling inntektsfores den maneden barnehageplassen leies. Kommunalt tilskudd
+inntektsfores med like manedlige belgp basert pa tilsagn og utbetalt belap. Andre spesielle tilskudd
+inntektsfores over den perioden disse er gitt, i henhold til tisagnsbrev. Kostnader medtas i samme periode som
+tilhgrende inntekter inntektsfgres.
+Forevrig er falgende regnskapsprinsipper anvendt:
+Forsikret pensjonsforpliktelse er ikke balansefort - kostnaden er lik premien.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+BanklD Qualified Signing
+STIFTELSEN NRK - MARINTEK BARNEHAGE poeta
+971 376 368 BanklD Qualified Signing
+Minsaas, Katharina Gerhardsen
+2026-04-24
+BanklD Qualified Signing
+Rablias, @yvind
+2026-04-26
+Note 1 - Salgsinntekt ne 8
+2026-04-27
+. BankiD Qualified Signing
+Salgsinntekt Treen. Ole Marius
+Spesifikasjon 202! Wy) Banko Ovaties signing
+Foreldrebetaling 580 829 ape | UUZ
+Kommunalt driftstilskudd 5 653 591 5 395 291
+Andre tilskudd 18 621 25171
+Annen inntekt 145 670 147 245
+Sum inntekter 6 398 711 6 389 376
+Note 2 - Lonnskostnader
+Spesifikasjon av lgnnskostnader 2025 2024
+Lgnn 4 592 299 4 363 093
+Arbeidsgiveravgift 725 789 723 825
+Pensjonskostnader 637 135 860 954
+Andre relaterte ytelser -96 119 -63 059
+Sum 5 859 103 5 884 814
+Note 3 - Obligatorisk tjenestepensjon
+Virksomheten er pliktig til 4 ha tienestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+Pensjonsordningen oppfyller kravene etter lov om obligatorisk tilenestepensjon.
+Note 4 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 8
+Note 5 - Annen driftskostnad
+2024 2025
+Kontorkostnader/inventar/utstyr 148 439 73 227
+Kosthold 117 770 102 671
+Kostnader lokaler 186 634 155 922
+Andre kostnader 319 341 369 809
+Sum andre driftskostnader 772 184 701 629
+Note 6 - Revisjon
+Godtgjorelse til revisor 2025 2024
+Revisjon 70 967 61 543
+Andre tjenester 0 0
+Sum godtgjorelse til revisor 70 967 61 543
+
+BankiO Qualified Signing
+STIFTELSEN NRK - MARINTEK BARNEHAGE 2026-04-23
+971 376 368 BanklD Qualified Signing
+Minsaas, Katharina Gerhardsen
+2026-04-24
+Note 7 - Bankinnskudd Rani, dyno
+2026-04-26
+Cy) BanklD Qualified Signing
+ee 6) Thun, Kristian
+| posten for bankinnskudd inngar egen konto for bundne skattetrekksmidler med 2026-04-27
+Skyldig skattetrekk BankiO Qualified Siging
+2026-04-29
+BanklD Qualified Signing
+Wy) Pea teal Walther
+Note 8 - Egenkapital
+Opptjent
+Selskapskapital egenkapital Sum
+Egenkapital 31.12.2024 100 000 1 395 680 1 495 680
+Arsresultat 0 -72 439 -72 439
+Egenkapital 31.12.2025 100 000 1 323 241 1 423 241
+Note 9 - Ovrig langsiktig gjeld
+Annen langsiktig gjeld
+Annen langsiktig gjeld er gjeld til NRK og Sintef Ocean og nedbetales ikke.
+Skattekostnad pa ordinzert resultat
+| henhold til vedtektene har selskapet ikke @konomisk formal, og er falgelig ikke skattepliktig for sin virksomhet.
+Fortsatt drift
+Driften av Tarnet barnehage er av stiftelsens styre besluttet avsluttet ved barnehagearets slutt, pr. 1.8.2026.
+Bakgrunnen for vedtaket er manglende lokaler for videre drift.
+
+BDO AS
+Kobbes gate 2
+—— Postboks 1786 Sentrum
+7416 Trondheim
+Til styret i Stiftelsen Nrk - Marintek Barnehage
+Uavhengig revisors beretning
+Uttalelse om arsregnskapet
+Konklusjon
+Vi har revidert arsregnskapet til Stiftelsen Nrk - Marintek Barnehage.
+Arsregnskapet bestar av: Etter var mening:
+e Balanse per 31. desember ¢ Oppfyller arsregnskapet gjeldende lovkrav, og
+2025 e Gir arsregnskapet et rettvisende bilde av
+e Resultatregnskap for 2025 stiftelsens finansielle stilling per 31. desember
+e Noter til arsregnskapet, 2025, og av dens resultater for regnskapsaret
+herunder et sammendrag av avsluttet per denne datoen i samsvar med wn
+viktige regnskapsprinsipper. regler og god regnskapsskikk i Norge. =
+%
+=)
+Sy
+9
+. Ke)
+Grunnlag for konklusjonen Q
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare :
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver 8
+og plikter ved revisjonen av arsregnskapet. Vi er uavhengige av stiftelsen i samsvar med kravene i .
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants S
+{inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board =
+for Accountants (IESBA-reglene), og vi har overholdt vare ovrige etiske forpliktelser i samsvar med S
+disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som s
+grunnlag for var konklusjon. =
+FS
+a
+Ledelsens ansvar for arsregnskapet 8
+Styret og daglig leder (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir et :
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er &
+ogsa ansvarlig for slik intern kontroll som den finner nadvendig for a kunne utarbeide et arsregnskap
+som ikke inneholder vesentlig feilinformasjon, verken som folge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til stiftelsens evne til fortsatt drift
+og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder
+vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og a avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hay grad av
+sikkerhet, men ingen garanti for at en revisjon utfort i samsvar med ISA-ene, alltid vil avdekke
+vesentlig feilinformasjon. Feilinformasjon kan oppsta som falge av misligheter eller utilsiktede feil.
+Feilinformasjon er a anse som vesentlig dersom den enkeltvis eller samlet med rimelighet kan
+forventes a pavirke de akonomiske beslutningene som brukerne foretar pa grunnlag av
+arsregnskapet.
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 1 av 2
+
+|BDO
+
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+
+https: //revisorforeningen. no/revisjonsberetninger
+
+Uttalelse om andre lovmessige krav
+
+Konklusjon om forvaltning
+
+Basert pa var revisjon av arsregnskapet som beskrevet ovenfor, og kontrollhandlinger vi har funnet
+
+nedvendig i henhold til internasjonal standard for attestasjonsoppdrag (ISAE) 3000
+
+«Attestasjonsoppdrag som ikke er revisjon eller forenklet revisorkontroll av historisk finansiell
+
+informasjon», mener vi at stiftelsen er forvaltet i samsvar med lov, stiftelsens formal og vedtektene
+
+for ovrig.
+
+BDO AS 3
+S
+=
+
+Tone Solem Sater a
+
+. . >
+
+statsautorisert revisor 3
+
+(elektronisk signert) re
+5
+<
+>
+.
+:
+S
+>
+Sj
+=
+g
+x
+Ls]
+§
+o
+S
+2
+S
+Q
+©
+=
+bag
+&
+
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 2 av 2

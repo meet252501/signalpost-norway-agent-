@@ -1,0 +1,322 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 651781
+Virksomheten
+Organisasjonsnummer : 827 929 182
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: HATTAKEREN AS
+Forretningsadresse: @verdalsveien 175
+8617 DALSGRENDA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Tomas Svingen Larsen
+Dato for fastsettelse av arsregnskapet: 17.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 07.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 827 929 182
+
+HATTAKEREN AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 10 125 4 470
+
+Sum kostnader 10 125 4 470
+
+Driftsresultat -10 125 -4 470
+
+Netto finans
+
+Resultat fer skattekostnad 3 -10 125 -4 470
+
+Skattekostnad pa resultat 3
+
+Arsresultat -10 125 -4 470
+
+Arsresultat etter
+
+minoritetsinteresser -10 125 -4 470
+
+Totalresultat -10 125 -4 470
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -10 125
+
+Overfert fra annen
+
+egenkapital -4 470
+
+Sum overferinger og
+
+disponeringer -10 125 -4 470
+Utskriftsdato 07.07.2026 Organisasjonsnr 827 929 182 Side 1 av 3
+
+Organisasjonsnr: 827 929 182
+
+HATTAKEREN AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Sum anleggsmidler
+
+Omlepsmidler
+
+Varer
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 17 508 17 508
+
+Sum bankinnskudd,
+
+kontanter og lignende 17 508 17 508
+
+Sum omlepsmidler 17 508 17 508
+
+SUM EILENDELER 17 508 17 508
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4 30 000 30 000
+
+Beholdning av egne aksjer 4
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 5
+
+Udekket tap 31 992 21 867
+
+Sum opptjent egenkapital -31 992 -21 867
+
+Sum egenkapital -1 992 8 133
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Betalbar skatt 3
+
+Annen kortsiktig gjeld 19 500 9 375
+
+Sum kortsiktig gjeld 19 500 9 375
+
+Sum gjeld 19 500 9 375
+Utskriftsdato 07.07.2026 Organisasjonsnr 827 929 182 Side 2 av 3
+
+SUM EGENKAPITAL OG GJELD 17 508 17 508
+Utskriftsdato 07.07.2026 Organisasjonsnr 827 929 182 Side 3 av 3
+
+Organisasjonsnr: 827 929 182
+
+HATTAKEREN AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+ay BankiD Qualified Signature
+Forseng, Leonore
+2026-06-17
+Cy) BanklD Qualified Signature
+Larsen, Tomas Svingen
+2026-07-06
+°
+Arsregnskap 2025
+°o
+Hattakeren AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 827 929 182
+
+RESULTATREGNSKAP |
+HATTAKEREN AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 10 125 4 470
+Sum driftskostnader 10 125 4 470
+Driftsresultat -10 125 -4 470
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Resultat for skattekostnad 3 -10 125 -4 470
+Arsresultat | -10 125) -4 470
+OVERF@RINGER
+
+Overfgrt til udekket tap 10 125 0
+Overfgrt fra annen egenkapital 0 4 470
+Sum overfgringer -10 125 -4 470
+HATTAKEREN AS SIDE 2
+
+ANS
+HATTAKEREN AS
+
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+OML@PSMIDLER
+FORDRINGER
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 17 508 17 508
+Sum omlgpsmidler 17 508 17 508
+Sum eiendeler
+HATTAKEREN AS SIDE 3
+
+BALANSE |
+HATTAKEREN AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 4 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+OPPTJENT EGENKAPITAL
+Udekket tap -31 992 -21 867
+Sum opptjent egenkapital -31 992 -21 867
+Sum egenkapital -1992 8 133
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+KORTSIKTIG GJELD
+Annen kortsiktig gjeld 19 500 9375
+Sum kortsiktig gjeld 19 500 9 375
+Sum gjeld 19 500 9 375
+Sum egenkapital og gjeld 17 508 17 508
+17.06.2026
+Styret i Hattakeren AS
+Tomas Svingen Larsen Leonore Forseng
+styreleder styremediem
+HATTAKEREN AS SIDE 4
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Note 1 Virksomhetens art og lokalisering
+Hattakeren AS er et selskap der virksomheten omfatter tjenester i tilknytning til landbruksvirksomhet.
+Selskapet er lokalisert i Rana kommune.
+Note 2 Lénnskostnader
+Hattakeren AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -10125 -4 470
+Permanente forskjeller 0 0
+Skattepliktig inntekt -10 125 -4 470
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -31 992 -21 867 10125
+Inngar ikke i beregningen av utsatt skatt 31 992 21 867 -10 125
+
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 4 Aksjonzrer
+AKSJEKAPITALEN | HATTAKEREN AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+
+Ordinzre aksjer 100 300,0 30 000
+Sum 100 30 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+
+Ordinzere Eierandel Stemmeandel
+Leonore Forseng 50 50,0 50,0
+Tomas Svingen Larsen 50 50,0 50,0
+Totalt antall aksjer 100 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Verv Ordinzere
+Tomas Svingen Larsen styreleder 50
+Leonore Forseng styremediem 50
+Totalt antall aksjer 100
+Note 5 Fortsatt drift
+Resultatet for 2025 viser et underskudd pa kr. -10 125 etter skatt, mot et underskudd pa kr. -4 470i 2024.
+Egenkapitalen i selskapet er tapt, men likviditeten er tilfredsstillende. Selskapet har kun gjeld til selskapets
+aksjonzerer. Det er eksisterer ingen forhold som indikerer at driften ikke kan fortsette.
+Styret vurderer at forutsetningene for fortsatt drift er til stede og legger det til grunn for sin virksomhet.

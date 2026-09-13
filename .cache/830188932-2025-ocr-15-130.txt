@@ -1,0 +1,274 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 689766
+Virksomheten
+Organisasjonsnummer : 830 188 932
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: YNMC AS
+Forretningsadresse: Foldavegen 1004
+7985 FOLDEREID
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Trond Fjeseth
+Dato for fastsettelse av arsregnskapet: 02.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 830 188 932
+
+YNMC AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 0 6 000
+
+Sum inntekter 0 6 000
+
+Kostnader
+
+Annen driftskostnad 19 482 50 100
+
+Sum kostnader 19 482 50 100
+
+Driftsresultat -19 482 -44 100
+
+Netto finans
+
+Resultat fer skattekostnad -19 482 -44 100
+
+Arsresultat -19 482 -44 100
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -19 482 -44 100
+
+Sum overferinger og
+
+disponeringer -19 482 -44 100
+Utskriftsdato 20.07.2026 Organisasjonsnr 830 188 932 Side 1 av 3
+
+Organisasjonsnr: 830 188 932
+
+YNMC AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum anleggsmidler
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 6 264 9 867
+
+Sum fordringer 6 264 9 867
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 1 566 14 522
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 566 14 522
+
+Sum omlepsmidler 7 $30 24 389
+
+SUM ELENDELER 7 830 24 389
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Overkurs 5 570 5 570
+
+Sum innskutt egenkapital 35 570 35 570
+
+Opptjent egenkapital
+
+@reavrunding 1
+
+Udekket tap 132 474 112 991
+
+Sum opptjent egenkapital -132 473 -112 991
+
+Sum egenkapital -96 903 -77 421
+
+Kortsiktig gjeld
+
+Leverandergjeld 22 318 50 310
+
+Annen kortsiktig gjeld 82 415 51 500
+
+Sum kortsiktig gjeld 104 733 101 810
+
+Sum gjeld 104 733 101 810
+Utskriftsdato 20.07.2026 Organisasjonsnr 830 188 932 Side 2 av 3
+
+SUM EGENKAPITAL OG GJELD 7 830 24 389
+Utskriftsdato 20.07.2026 Organisasjonsnr 830 188 932 Side 3 av 3
+
+Organisasjonsnr: 830 188 932
+
+YNMC AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Foldereid
+
+Virksomhetens art
+
+Produksjon, kj@p og salg av sjeomat,
+
+drift av oppdrettsanlegg, arbeidsoppdrag for private og offentlige
+
+oppdragsgivere og utleie av utstyr og anlegg.
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00

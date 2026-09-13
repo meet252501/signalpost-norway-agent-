@@ -1,0 +1,418 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 647821
+Virksomheten
+Organisasjonsnummer : 926 317 571
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: PANOV CO. AS
+Forretningsadresse: Helsethagan 35
+1353 BHRUMS VERK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: SIGNATUR REVISJON AS
+Dato for fastsettelse av Aarsregnskapet: 30.06.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.07.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 926 317 571
+
+PANOV CO. AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 2 20 923 677 674
+
+Sum kostnader 20 923 677 674
+
+Driftsresultat -20 923 -677 674
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 638 815
+
+Sum finansinntekter 638 815
+
+Nedskrivning av
+
+finansielle eiendeler 3 010 343
+
+Nedskrivning av andre
+
+finansielle anleggsmidler 2 607 130
+
+Annen rentekostnad 69 6 250
+
+Annen finanskostnad 1
+
+Sum finanskostnader 3 010 412 2 613 381
+
+Netto finans -3 010 412 -1 974 566
+
+Resultat fer skattekostnad -3 031 335 -2 652 240
+
+Arsresultat 3 -3 031 335 -2 652 240
+
+Arsresultat etter
+
+minoritetsinteresser -3 031 335 -2 652 240
+
+Totalresultat -3 031 335 -2 652 240
+
+Overferinger og
+
+disponeringer
+
+Overfert fra annen
+
+egenkapital -3 031 335 -2 652 240
+
+Sum overferinger og
+
+disponeringer -3 031 335 -2 652 240
+Utskriftsdato 28.07.2026 Organisasjonsnr 926 317 571 Side 1 av 3
+
+Organisasjonsnr: 926 317 571
+PANOV CO. AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Finansielle anleggsmidler
+Investering i datterselskap 4 256 676 3 267 019
+Investering i annet
+foretak i samme konsern 4
+Lan til tilknyttet
+selskap og felles
+kontrollert virksomhet 15 000 15 000
+Investeringer i aksjer og
+andeler 545 580 631 804
+Andre langsiktige
+fordringer 5 37 070 37 070
+Sum finansielle
+anleggsmidler 854 326 3 950 893
+Sum anleggsmidler 854 326 3 950 893
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 5 186 022 186 022
+Andre kortsiktige
+fordringer 5 159 532 99 532
+Sum fordringer 345 554 285 554
+Investeringer
+Aksjer og andeler 1
+foretak i samme konsern 4
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 36 818 4 481
+Sum bankinnskudd,
+kontanter og lignende 36 818 4 481
+Sum omlepsmidler 382 372 290 035
+SUM ELENDELER 1 236 698 4 240 928
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 28.07.2026 Organisasjonsnr 926 317 571 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 6 -4 689 352 -1 658 017
+
+Sum opptjent egenkapital -4 689 352 -1 658 017
+
+Sum egenkapital 3 -4 659 352 -1 628 017
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 5
+
+@vrig langsiktig gjeld 459 650 459 650
+
+Sum annen langsiktig gjeld 459 650 459 650
+
+Sum langsiktig gjeld 459 650 459 650
+
+Kortsiktig gjeld
+
+Leverandergjeld 5
+
+Kortsiktig konserngjeld 5 436 400 5 230 400
+
+Annen kortsiktig gjeld 5 178 895
+
+Sum kortsiktig gjeld 5 436 400 5 409 295
+
+Sum gjeld 5 896 050 5 868 945
+
+SUM EGENKAPITAL OG GJELD 1 236 698 4 240 928
+Utskriftsdato 28.07.2026 Organisasjonsnr 926 317 571 Side 3 av 3
+
+Organisasjonsnr: 926 317 571
+
+PANOV CO. AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Poluparov, Maksim
+2026-07-02
+Arsregnskap 2025
+Panov Co. AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 926 317 571
+
+Resultatregnskap
+Panov Co. AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftskostnad 2 20 923 677 674
+Sum driftskostnader 20 923 677 674
+Driftsresultat -20 923 -677 674
+Finansinntekter og finanskostnader
+
+Annen finansinntekt 0 638 815
+Nedskrivning av finansielle e1endeler 3 010 343 0
+Nedskrivning av andre finansielle anleggsmidler 0 2 607 130
+Annen rentekostnad 69 6 250
+Annen finanskostnad 0 l
+Resultat ay finansposter -3 010 412 -1 974 566
+Resultat for skattekostnad -3 031 335 -2 652 240
+Arsresultat 3 -3 031 335 -2 652 240
+Overforinger
+
+Overfert fra annen egenkapital 3 031 335 2 652 240
+Sum overferinger -3 031 335 -2 652 240
+
+Balanse
+
+Panov Co. AS
+Eiendeler Note 2025 2024
+Varige driftsmidler
+Finansielle anleggsmidler
+Investeringer i datterselskap 4 256 676 3 267 019
+Lan til tilknyttet selskap og felles kontrollert virksomhet 15 000 15 000
+Investeringer i aksjer og andeler 545 580 631 804
+Andre langsiktige fordringer 5 37 070 37 070
+Sum finansielle anleggsmidler 854 326 3 950 893
+Sum anleggsmidler 854 326 3 950 893
+Omlepsmidler
+Fordringer
+Kundefordringer 5 186 022 186 022
+Andre kortsiktige fordringer 5 159 532 99 532
+Sum fordringer 345 554 285 554
+Investeringer
+Bankinnskudd, kontanter o.1. 36 818 4 481
+Sum omlepsmidler 382 372 290 035
+Sum eiendeler 1 236 698 4 240 928
+
+Balanse
+
+Panov Co. AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 6 -4 689 352 -1 658 017
+Sum opptjent egenkapital -4 689 352 -1 658 017
+Sum egenkapital 3 -4 659 352 -1 628 017
+Gjeld
+Avsetning for forpliktelser
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 459 650 459 650
+Sum annen langsiktig gjeld 459 650 459 650
+Kortsiktig gjeld
+Konserngjeld 5 436 400 5 230 400
+Annen kortsiktig gjeld 5 0 178 895
+Sum kortsiktig gjeld 5 436 400 5 409 295
+Sum gjeld 5 896 050 5 868 945
+Sum egenkapital og gjeld 1 236 698 4 240 928
+
+Berum, 24.06.2026
+Styret 1 Panov Co. AS
+Maksim Polupanov
+styreleder/daglig leder
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Valuta
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapsarets slutt.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremforing
+ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres 1 samme periode er utlignet og nettofert.
+Klassifisering og vurdering av omlepsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslopet. Omlepsmidler vurderes til laveste
+verdi av anskaffelseskost og virkelig verdi.
+Fordringer
+Kundefordringer og andre fordringer oppfores til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Virksomhetens art og lokalisering
+Panov Co. AS er et selskap der virksomheten bestar i 4 cie og forvalte aksjer og eierandeler i andre
+selskaper, herunder investeringer i datterselskaper/tilknyttede selskaper . Selskapet er lokalisert i
+Berum kommune.
+Note 2 Lennskostnader
+Panov Co. AS har ikke hatt lenns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Note 3 Egenkapital
+
+Aksjekapital Overkurs Annen Annen Sum
+
+Innskutt egenkapital egenkapital
+egenkapital
+
+Pr. 31.12.2024 30 000 0 0 -1 658 017 -1 628 017
+Arets resultat -3 031335 —_-3. 031 335
+Pr 31.12.2025 30 000 0 0 -4 689 352 -4 659 352
+
+Note 4 Datterselskap, TS og FKV
+
+Kontor- Eier-
+
+kommune andel
+DS/FKV/TS
+Agency Academy AS BARUM 100,0%
+Growthmentors AB Ed 100,0%
+Sum
+Note 5 Mellomvzrende med selskap i samme konsern m.v.
+
+Annen langsiktig gjeld
+2025 2024
+
+Foretak 1 samme konsern -5 436 400 -5 230 400
+Sum -5 436 400 -5 230 400
+Note 6 Fortsatt drift
+Selskapet har per 31.12.2025 langsiktig gjeld til foretak 1 samme konsern pa kr 5 436 400. Gjelden
+var forutsatt dekket gjennom oppgjer/utdeling fra datterselskap.
+Etter balansedagen har datterselskapet meldt oppbud. Selskapet har ikke tilstrekkelig likviditet til
+fullt oppgjer av forpliktelsen, og det foreligger per tidspunktet for avleggelse av arsregnskapet
+ingen avklart losning med kreditor/konkursboet eller bindende tilsagn om eierfinansiering.
+Arsregnskapet er avlagt under forutsetning om fortsatt drift. Det foreligger imidlertid vesentlig
+usikkerhet knyttet til denne forutsetningen dersom det ikke oppnas losning med
+kreditor/konkursboet eller tilferes nodvendig finansiering fra eier.
+
+Ee SIGNATUR Ox
+
+REVISJON AS 2026-07-03
+Til generalforsamlingen i Panov Co. AS
+Uavhengig revisors beretning
+Konklusjon med forbehold
+Vi har revidert arsregnskapet for Panov Co. AS som bestar av balanse per 31. desember 2025,
+resultatregnskap for regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder
+et sammendrag av viktige regnskapsprinsipper.
+Etter var mening gir arsregnskapet, med unntak av de mulige virkningene av forholdene beskrevet i
+avsnittet “Grunnlag for konklusjon med forbehold”, et rettvisende bilde av selskapets finansielle
+stilling per 31. desember 2025 og av dets resultater for regnskapsaret avsluttet per denne datoen i
+samsvar med regnskapslovens regler og god regnskapsskikk i Norge.
+Grunnlag for konklusjon med forbehold
+Selskapet har per 31. desember 2025 balansefgrt gvrig langsiktig gjeld med kr 459 650. For denne
+gjelden har vi ikke fatt bekreftet hvem motparten er, og vi har heller ikke mottatt tilstrekkelig
+dokumentasjon til a kunne vurdere postens eksistens, vilkar, klassifisering eller om det skulle vzert
+beregnet renter eller foretatt andre regnskapsmessige vurderinger. Vi har falgelig ikke kunnet
+innhente tilstrekkelig og hensiktsmessig revisjonsbevis for eksistens, fullstendighet, klassifisering og
+vurdering av denne gjeldsposten per 31. desember 2025. Forholdet er viderefgrt fra 2024, og
+tilsvarende usikkerhet knytter seg til inngaende balanse og sammenligningstallene. Vi kan derfor ikke
+utelukke at det ville vzert nédvendig a foreta justeringer av balansepostene gjeld og egenkapital,
+samt tilhgrende noteopplysninger.
+Vi har gjennomfg¢rt revisjonen i samsvar med den internasjonale revisjonsstandarden for revisjon av
+regnskap til mindre komplekse enheter (ISA for MKE}. Vare oppgaver og plikter i henhold til disse
+standardene er beskrevet nedenfor under "Revisors oppgaver og plikter ved revisjonen av
+arsregnskapet". Vi er uavhengige av selskapet i samsvar med kravene i relevante lover og forskrifter i
+Norge og International Code of Ethics for Professional Accountants utstedt av IESBA, og vi har
+overholdt vare @vrige etiske forpliktelser i samsvar med disse kravene. Innhentet revisjonsbevis er
+etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var konklusjon med forbehold.
+Vesentlig usikkerhet knyttet til fortsatt drift
+Vi viser til note 6 i arsregnskapet. Selskapet har negativ egenkapital, og arsresultatet er i 2025
+belastet med en nedskrivning av investeringen i datterselskap med kr 3 010 343. Konserngjelden var
+forutsatt dekket gjennom oppgj¢r eller utdeling fra datterselskap. Etter balansedagen har
+datterselskapet meldt oppbud, og det foreligger pa tidspunktet for avleggelsen av arsregnskapet
+ingen avklart lgsning med kreditor/konkursbo eller bindende tilsagn om eierfinansiering. Disse
+forholdene, sammen med forhold som er omtalt i note 6, indikerer at det foreligger vesentlig
+usikkerhet som kan skape tvil av betydning om selskapets evne til fortsatt drift. Var konklusjon er
+ikke modifisert som fglge av dette forholdet.
+‘SignaturRevisson AST
+Nansenlgkka 10, 1364 Fornebu E-post: post@signaturrevisjon.no
+Org. nr. 935 921 902 MVA www.signaturrevisjon.no Side 1 av2
+
+Ee REVISJON AS
+
+Presisering
+Uten at det har betydning for var konklusjon, vil vi gjgre oppmerksom pa note 3 Egenkapital i
+arsregnskapet. Som det fremgar der, hadde selskapet per 31. desember 2025 negativ egenkapital pa
+kr 4 659 352.
+Ledelsens ansvar for arsregnskapet
+Ledelsen er ansvarlig for a utarbeide arsregnskapet i samsvar med regnskapslovens regler og god
+regnskapsskikk i Norge, slik at det gir et rettvisende bilde, og for nddvendig internkontroll for a sikre
+at arsregnskapet er uten vesentlig feilinformasjon. Ledelsen skal ogsa vurdere fortsatt drift, opplyse
+om forhold av betydning og legge fortsatt drift til grpunn med mindre awikling er sannsynlig.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning
+med var konklusjon. Betryggende sikkerhet er en h@y grad av sikkerhet, men ingen garanti for at en
+revisjon utfgrt i samsvar med ISA for MKE, alltid avdekker vesentlig feilinformasjon. Vesentlig
+feilinformasjon kan oppsta som fglge av misligheter eller utilsiktede feil, og anses vesentlig dersom
+den enkeltvis eller samlet med rimelighet kan forventes a pavirke brukernes gkonomiske
+beslutninger basert pa arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+www. revisorforeningen.no/om-revisjon/revisjonsberetning-revisors-oppgaver-og-plikter/
+Fornebu, 03. juli 2026
+Signatur Revisjon AS
+A s ,
+
+/ Jarl Erik Ulvedal - Statsautorisert revisor
+(elektronisk signert)
+Signatur Revisjon AS
+Nansenlgkka 10, 1364 Fornebu E-post: post@signaturrevisjon.no
+Org. nr. 935 921 902 MVA www.signaturrevisjon.no Side 2 av 2

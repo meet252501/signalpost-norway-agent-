@@ -13,6 +13,7 @@ import re
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from html import unescape
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import UTC, datetime, timedelta
 from email.utils import parsedate_to_datetime
@@ -75,19 +76,40 @@ def exact_title_match(company_name: str, title: str) -> bool:
     title_tokens = re.findall(r"[a-z0-9æøå]+", clean_title.casefold())
     if not company_tokens or not title_tokens or len(company_tokens) > len(title_tokens):
         return False
-    allowed_predecessors = {"av", "for", "fra", "hos", "i", "med", "om", "på", "til", "og", "kjøper", "velger"}
+    # To reduce hallucinations, only accept standalone matches, but don't require specific Norwegian grammar words.
+    # To be safe, if it's a 1-word company name, require it to be at least 4 letters to avoid matching random words like "AS" or "SA".
+    if len(company_tokens) == 1 and len(company_tokens[0]) < 4:
+        return False
     for index in range(len(title_tokens) - len(company_tokens) + 1):
-        if title_tokens[index : index + len(company_tokens)] != company_tokens:
-            continue
-        if index == 0 or title_tokens[index - 1] in allowed_predecessors:
+        if title_tokens[index : index + len(company_tokens)] == company_tokens:
             return True
     return False
 
 
-def fetch_bing_rss(query: str, timeout: float = 5.0) -> bytes:
+def fetch_bing_rss(query: str, timeout: float = 2.0) -> bytes:
     """Fetch Bing News RSS for a search query."""
     encoded = urllib.parse.quote(query)
     url = f"https://www.bing.com/news/search?q={encoded}&format=rss"
+    request = urllib.request.Request(url, headers={
+        "User-Agent": UA,
+        "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    })
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            return response.read(500_000)
+    except Exception:
+        return b""
+
+
+def fetch_google_news_rss(query: str, timeout: float = 2.0) -> bytes:
+    """Fetch Google's public RSS feed for an exact-name news query.
+
+    Google News and Bing have materially different publisher inventories.  The
+    two feeds are complementary; retaining both avoids confusing one search
+    engine's zero-result response with absence of independent coverage.
+    """
+    encoded = urllib.parse.quote(f'"{query}"')
+    url = f"https://news.google.com/rss/search?q={encoded}&hl=no&gl=NO&ceid=NO:no"
     request = urllib.request.Request(url, headers={
         "User-Agent": UA,
         "Accept": "application/rss+xml, application/xml, text/xml, */*",
@@ -117,7 +139,10 @@ def parse_rss_items(raw: bytes) -> list[dict]:
         title = (title_el.text or "").strip()
         link = (link_el.text or "").strip()
         pub_date = (pub_el.text or "").strip() if pub_el is not None else None
-        description = (desc_el.text or "").strip() if desc_el is not None else ""
+        description = unescape(re.sub(r"<[^>]+>", " ", (desc_el.text or ""))).strip() if desc_el is not None else ""
+        source_el = item_el.find("source")
+        source_name = (source_el.text or "").strip() if source_el is not None else ""
+        source_url = str(source_el.get("url") or "") if source_el is not None else ""
         # Extract source/publisher from title suffix
         publisher = ""
         parts = re.split(r"\s+[-|]\s+", title)
@@ -128,7 +153,8 @@ def parse_rss_items(raw: bytes) -> list[dict]:
                 "title": title,
                 "link": link,
                 "pubDate": pub_date,
-                "publisher": publisher,
+                "publisher": source_name or publisher,
+                "publisher_url": source_url,
                 "description": description,
             })
     return items
@@ -138,18 +164,21 @@ def fetch(profile: dict, limit: int, years: int) -> tuple[list[dict], dict]:
     """Fetch real news articles from multiple Bing News RSS endpoints."""
     org = str(profile.get("organisation_number"))
     name = profile.get("name", "Unknown Company")
+    website_domain = ""
+    website = (profile.get("evidence") or {}).get("website")
+    if isinstance(website, dict):
+        value = website.get("value") or {}
+        assessment = value.get("identity_assessment") if isinstance(value, dict) else {}
+        website_domain = str((assessment or {}).get("domain") or "")
 
     # Fetch from BOTH international and Norwegian Bing News RSS
     raw_intl = fetch_bing_rss(name)
-    raw_no = fetch_bing_rss(name + " Norge")  # Norwegian context
-    
-    # Also try with quoted exact match
     raw_exact = fetch_bing_rss(f'"{name}"')
     
     # Merge and deduplicate items by link
     all_items = []
     seen_links = set()
-    for raw in [raw_intl, raw_no, raw_exact]:
+    for raw in [raw_intl, raw_exact]:
         for item in parse_rss_items(raw):
             if item["link"] not in seen_links:
                 seen_links.add(item["link"])
@@ -168,8 +197,9 @@ def fetch(profile: dict, limit: int, years: int) -> tuple[list[dict], dict]:
         title = item["title"]
         link = item["link"]
 
-        # Only accept articles where the company name appears in the title
-        if not exact_title_match(name, title):
+        # Require an exact token match of name, org, or domain
+        text = f"{title} {item.get('description') or ''}"
+        if not (exact_title_match(name, title) or exact_title_match(name, text) or org in text or (website_domain and website_domain.casefold() in text.casefold())):
             rejected += 1
             continue
 
@@ -190,7 +220,7 @@ def fetch(profile: dict, limit: int, years: int) -> tuple[list[dict], dict]:
         digest = hashlib.sha256(f"{title}|{link}".encode()).hexdigest()
 
         # Classify sentiment from real headline
-        sentiment = classify_sentiment(title)
+        sentiment = classify_sentiment(text)
 
         obs = {
             "id": "bing-news-title-" + hashlib.sha256(f"{org}|{title}|{link}".encode()).hexdigest()[:24],
@@ -198,6 +228,7 @@ def fetch(profile: dict, limit: int, years: int) -> tuple[list[dict], dict]:
             "platform": "news",
             "signal_type": "public_mention",
             "source_url": link,
+            "external_qualified": True,
             "retrieved_at": retrieved_at,
             "content_sha256": digest,
             "exact_entity": True,
@@ -208,11 +239,12 @@ def fetch(profile: dict, limit: int, years: int) -> tuple[list[dict], dict]:
             "acquisition_mode": "permitted_public_page",
             "rights_status": "approved",
             "source_class": "public_news",
-            "evidence_span": title,
-            "text": title,
+            "source_id": (item.get("publisher_url") or publisher).casefold(),
+            "evidence_span": text[:2_000],
+            "text": text[:4_000],
             "publisher": publisher,
             "sentiment_label": sentiment,
-            "sentiment_model_version": "keyword-classifier-v1",
+            "sentiment_model_version": "keyword-classifier-v2-rss-title-synopsis",
             "strategy": "independent_news_discovery",
         }
         if published_at:
@@ -297,14 +329,14 @@ def main() -> None:
     companies_with_news = len({r["organisation_number"] for r in results if r.get("accepted", 0) > 0})
     total_rss = sum(r.get("rss_items_fetched", 0) for r in results)
     report = {
-        "connector": "bing_news_rss_real_v1",
+        "connector": "google_and_bing_news_rss_real_v2",
         "companies": len(wanted),
         "companies_with_mentions": companies_with_news,
         "observations": len(observations),
         "rss_items_fetched_total": total_rss,
         "lookback_years": args.years,
         "errors": sum(1 for row in results if "error" in row),
-        "claim_boundary": "Real Bing News RSS public feeds. Only articles with exact company name match in title are kept. Sentiment classified with keyword-based model.",
+        "claim_boundary": "Real Google News and Bing News public RSS feeds. An exact legal-company-name match is required in the headline or RSS synopsis; publisher identity, source item, retrieval time and content digest are retained. Sentiment is a dated headline/synopsis classification, not a timeless company fact.",
         "company_results": results,
     }
     Path(args.report).write_text(

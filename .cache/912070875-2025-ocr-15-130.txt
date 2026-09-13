@@ -1,0 +1,236 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 318976
+Enheten
+Organisasjonsnummer : 912 070 875
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: EPTIR AS
+Forretningsadresse: Sagstuveien 47¢C
+1405 LANGHUS
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: @yvind Gjere
+Dato for fastsettelse av arsregnskapet: 21.02.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 25.02.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 912 070 875
+
+EPTIR AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREKNESKAP
+
+Inntekter
+
+Salsinntekter 2 968 855 2 349 501
+
+Sum inntekter 2 968 855 2 349 501
+
+Kostnader
+
+Lennskostnad 1 1 317 112 1 297 297
+
+Annan driftskostnad 18 695 21 685
+
+Sum kostnader 1 335 807 1 318 982
+
+Driftsresultat 1 633 048 1 030 519
+
+Finansinntekter og
+
+finanskostnader
+
+Anna renteinntekt 4 408 13 133
+
+Anna finansinntekt 56 390 196 597
+
+Verdiauke av andre
+
+finansielle instrument
+
+vurderte til verkeleg verdi 0 218 241
+
+Sum finansinntekter 60 798 427 971
+
+Annan rentekostnad 0 986
+
+Annan finanskostnad 154 608 163 759
+
+Sum finanskostnader 154 608 164 745
+
+Netto finans -93 809 263 226
+
+Resultat fer skattekostnad 1 539 238 1 293 745
+
+Skattekostnad 326 369 218 706
+
+Arsresultat 1 212 869 1 075 039
+
+Overferingar og
+
+disponeringar
+
+Tilleggsutbytte 500 000 500 000
+
+Overfering til/fra annan
+
+eigenkapital 712 869 575 039
+
+Sum overferingar og
+
+disponeringar 1 212 869 1 075 039
+Utskriftsdato 25.02.2026 Organisasjonsnr 912 070 875 Side 1 av 3
+
+Organisasjonsnr: 912 070 875
+EPTIR AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIGEDELAR
+Anleggsmiddel
+Imnaterielle eigedelar
+Sum anleggsmiddel 0 0
+Omlepsmiddel
+Varer
+Krav
+Kundekrav 231 609 479 490
+Andre krav 240 240
+Sum krav 231 849 479 730
+Investeringar
+Marknadsbaserte aksjar 2 525 197 2 351 196
+Andre finansielle
+instrument 172 151 172 151
+Sum investeringar 2 697 349 2 523 347
+Bankinnskot, kontantar og
+liknande
+Bankinnskot, kontantar og
+liknande 2 113 660 1 241 683
+Sum bankinnskot,
+kontantar og liknande 2 113 660 1 241 683
+Sum omlepsmiddel 5 042 859 4 244 760
+SUM EIGEDELAR 5 042 859 4 244 760
+BALANSE - EIGENKAPITAL OG
+GJELD
+Eigenkapital
+Innskoten eigenkapital
+Selskapskapital 30 000 30 000
+Annan innskoten
+eigenkapital -5 666 -5 666
+Sum innskoten eigenkapital 24 334 24 334
+Opptent eigenkapital
+Annan eigenkapital 4 340 233 3 627 363
+Sum opptent eigenkapital 4 340 233 3 627 363
+Sum eigenkapital 4 364 567 3 651 697
+Gjeld
+
+Utskriftsdato 25.02.2026 Organisasjonsnr 912 070 875 Side 2 av 3
+
+Langsiktig gjeld
+
+Anna langsiktig gjeld
+
+@vrig langsiktig gjeld 170 0
+
+Sum anna langsiktig gjeld 170 0
+
+Sum langsiktig gjeld 170 0
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 116 453 1 176
+
+Betalbar skatt 216 481 218 706
+
+Skuldige offentlege
+
+avgifter 224 421 258 007
+
+Anna kortsiktig gjeld 120 767 115 173
+
+Sum kortsiktig gjeld 678 122 593 062
+
+Sum gjeld 678 292 593 062
+
+SUM EIGENKAPITAL OG GJELD 5 042 858 4 244 759
+Utskriftsdato 25.02.2026 Organisasjonsnr 912 070 875 Side 3 av 3
+
+Organisasjonsnr: 912 070 875
+
+EPTIR AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+Rekneskapsprinsipp
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak. ** Klassifisering ** Eiendeler bestemt til
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som omle@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld. ** Varige
+driftsmidler ** Varige driftsmidler er vurdert til anskaffelseskost etter
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid. ** Aksjer ** Omlepsaksjer er vurdert til
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning. ** Fordringer **
+Kundefordringer og andre fordringer er oppfert til palydende etter fradrag
+for konstaterte og forventede tap. ** Skatter ** Skattekostnaden 1
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk. **
+Driftsinntekter og kostnader ** Inntektsforing folger
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+Note
+
+1
+Tal pa Aarsverk i rekneskapsaret
+
+0.00
+
+Sum Belgap
+
+Balansefort verdi 31.12. Varige driftsmiddel  Immaterielle eiged.
+Kons ernrekneskap
+Morselskapet sitt namn
+
+Forretningskontor for morselskapet
+
+Grunn til at dotterselskap ikkje er tatt med i konsolideringa
+Samla_ belgp - tilknytt selskap Arets Fjorarets
+Samla_ beloap - foretak i samme konsern Arets Fjorarets
+Samla_ belgep - foretak i samme konsern Arets Fjorarets
+Samla _ bel@p - felles kontrollert verksemd Arets Fjorarets
+Pantstillingar Belgp
+Behaldning av eigne aksjar Tal pa aksjar Palydande Andel av aksjek.

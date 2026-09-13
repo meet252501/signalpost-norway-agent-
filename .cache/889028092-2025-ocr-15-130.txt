@@ -1,0 +1,711 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 608321
+Virksomheten
+Organisasjonsnummer : 889 028 092
+Organisasjonsform: Pensjonskasse
+Foretaksnawn: HM NORGE PENSJONSKASSE
+Forretningsadresse: Lilleakerveien 2A
+0283 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Nei
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Lise Schie Berntsen
+Dato for fastsettelse av arsregnskapet: 18.03.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 22.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 889 028 092
+
+HM NORGE PENSJONSKASSE
+
+RESULTATREGNSKAP
+
+Belsp i: NOK Note 2025 2024
+
+RESULTATREGNSKAP -
+
+TEKNISK REGNSKAP
+
+Premieinntekter
+
+Forfalte premier, brutto 2 28 275 873 30 063 639
+
+Avgitte
+
+gjenforsikringspremier 26 -69 250 -70 588
+
+Sum premieinntekter for
+
+egen regning 28 206 623 29 993 O51
+
+Netto inntekter fra
+
+investeringer i
+
+kollektivportefeljen
+
+Renteinntekt og utbytte m.
+
+v. pa finansielle eiendeler 10 635 497 10 512 698
+
+Verdienderinger pa
+
+investeringer 1 578 807 951 603
+
+Realisert gevinst og tap
+
+pa investeringer 764 018 591 707
+
+Sum netto inntekter fra
+
+investeringer i
+
+kollektivportefeljen 12 978 322 12 056 008
+
+Netto inntekter fra
+
+investeringer i
+
+investeringsportefeljen
+
+Renteinntekt og utbytte m.
+
+v. pa finansielle eiendeler 4 926 490 7 334 628
+
+Verdienderinger pa
+
+investeringer 14 086 533 23 953 031
+
+Realisert gevinst og tap
+
+pa investeringer 17 817 346 18 799 635
+
+Sum netto inntekter fra
+
+investeringer i
+
+investeringsportefeljen 36 830 369 50 087 294
+
+Pens joner m.v.
+
+Brutto utbetalte pensjoner 3 -22 953 924 -21 380 387
+
+Utbetalte pensjoner m.v. -22 953 924 -21 380 387
+
+Sum pensjoner m.v. -22 953 924 -21 380 387
+
+Resultatferte endringer i
+
+forsikringsforpliktelser -
+
+kontraktfastsatte
+
+forpliktelser
+
+Endring i premiereserve m.
+
+v, brutto. 17 1 387 450 -840 697
+
+Endring i premiereserve m.
+
+v. 1 387 450 -840 697
+
+Endring 1 bufferfond 17 -6 867 560 -6 104 125
+Utskriftsdato 22.07.2026 Organisasjonsnr 889 028 092 Side 1 av 6
+
+Sum resultatferte
+
+endringer i
+
+forsikringsforpliktelsene
+
+- kontraktfastsatte
+
+forpliktelser -5 480 110 -6 944 822
+
+Resultatfoerte endringer i
+
+forsikringsforpliktelser -
+
+serskilt
+
+investeringsportefelje
+
+Endring 1 pensjonskapital
+
+m.v. 18 -12 150 544 -14 653 494
+
+Endring 1 premiefond,
+
+innskuddsfond og fond for
+
+regulering av pensjoner m.
+
+Vv. 18 -11 458 642 -11 585 223
+
+Endring i andre avsetninger 18 -9 072 034 -21 977 832
+
+Sum resultatferte
+
+endringer i
+
+forsikringsforpliktelser -
+
+serskilt
+
+investeringsportefelje -32 681 220 -48 216 549
+
+Midler tilordnet
+
+forsikringskontraktene -
+
+kontraktfastsatte
+
+forpliktelser
+
+Overskudd pa
+
+avkastningsresultatet 18 -7 757 866 -7 337 108
+
+Risikoresultat tilordnet
+
+forsikringskontraktene -1 756 977 -1 156 080
+
+Sum midler tilordnet
+
+forsikringskontraktene -
+
+kontraktfastsatte
+
+forpliktelser -9 514 843 -8 493 188
+
+Forsikringsrelaterte
+
+driftskostnader
+
+Forvaltningskostnader -414 766 -452 781
+
+Forsikringsrelaterte
+
+administrasjonskostnader 4 -4 573 876 -4 112 774
+
+Sum forsikringsrelaterte
+
+driftskostnader -4 988 642 -4 565 555
+
+Resultat av teknisk
+
+regnskap 2 396 575 2 535 852
+
+RESULTATREGNSKAP - IKKE-
+
+TEKNISK REGNSKAP
+
+Netto inntekter fra
+
+investeringer i
+
+selskapsportefeljen
+
+Renteinntekt og utbytte m.
+
+v. pa finansielle eiendeler 410 786 609 033
+
+Verdiendringer pa
+
+investeringer 1 170 391 2 013 812
+
+Realisert gevinst og tap
+
+pa investeringer 1 485 665 1 561 034
+Utskriftsdato 22.07.2026 Organisasjonsnr 889 028 092 Side 2 av 6
+
+Sum netto inntekter fra
+
+investeringer i
+
+selskapsportefeljen 3 066 842 4 183 879
+
+Andre inntekter 330 932 376 141
+
+Forvaltningskostnader og
+
+andre kostnader knyttet
+
+til selskapsportefeljen
+
+Forvaltningskostnader -21 328 -13 494
+
+Andre kostnader -3 818 -241
+
+Resultat av ikke-teknisk
+
+regnskap 3 372 628 4 546 285
+
+Resultat for
+
+skattekostnader 5 769 203 7 082 137
+
+Skattekostnader 8 -1 616 083 -738 639
+
+Resultat for andre
+
+inntekter og kostnader 4 153 120 6 343 498
+
+TOTALRESULTAT 4 153 120 6 343 498
+Utskriftsdato 22.07.2026 Organisasjonsnr 889 028 092 Side 3 av 6
+
+Organisasjonsnr: 889 028 092
+HM NORGE PENSJONSKASSE
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+EIENDELER I
+SELSKAPSPORTEFOLJEN
+Datterforetak,
+tilknyttede foretak og
+felleskontrollerte foretak
+Aksjer og andeler (inkl.
+aksjer og andeler malt
+til kost) 9, 12 12 047 019 20 382 798
+Renteberende verdipapirer 10, 12 9 677 608 13 568 590
+Utlan og fordringer 11, 12 145 064 1 344 789
+Finansielle eiendeler som
+males til virkelig verdi 21 869 691 35 296 177
+Sum investeringer 21 869 691 35 296 177
+Fordringer
+Andre fordringer 11 076 996 68 382
+Sum fordringer 11 076 996 68 382
+Andre eiendeler
+Eiendeler ved skatt 0 986 690
+Sum andre eiendeler 0 986 690
+Forskuddsbetalte
+kostnader og opptjente
+ikke mottatte inntekter 1 208 720 1 196 601
+Sum eiendeler i
+selskapsportefeljen 34 155 407 37 547 850
+EIENDELER I
+KUNDEPORTEFSLJENE
+Investeringer i
+kollektivportefeljen
+Investeringer som holdes
+til forfall 10, 12 201 401 973 194 470 715
+Finansielle eiendeler som
+males til amortisert kost 201 401 973 194 470 715
+Aksjer og andeler (inkl.
+aksjer og andeler malt
+til kost) 9, 12 40 981 350 37 909 241
+Renteberende verdipapirer 10, 12 16 091 124 15 235 711
+Utlan og fordringer 11, 12 2 979 836 0
+Finansielle eiendeler som
+males til virkelig verdi 60 052 310 53 144 952
+Sum investeringer i
+kollektivportefeljen 261 454 283 247 615 667
+Investeringer i
+investeringsvalgportefol jen
+
+Utskriftsdato 22.07.2026 Organisasjonsnr 889 028 092 Side 4 av 6
+
+Datterforetak,
+tilknyttede foretak og
+felleskontrollerte foretak
+Aksjer og andeler (inkl.
+aksjer og andeler malt
+til kost) 9, 12 272 626 185 271 500 883
+Renteberende verdipapirer 10, 12 219 005 979 180 734 962
+Utlan og fordringer 11, 12 3 282 826 17 912 727
+Finansielle eiendeler som
+males til virkelig verdi 494 914 990 470 148 572
+Sum investeringer i
+investeringsvalgportefel jen 494 914 990 470 148 572
+Sum eiendeler i
+kundeportefel jen 756 369 273 717 764 239
+SUM ELENDELER 790 524 680 755 312 089
+BALANSE - EGENKAPITAL OG
+FORPLIKTELSER
+Innskutt egenkapital
+Innskutt egenkapital 27 148 801 27 148 801
+Opptijent egenkapital
+Risikoutjevningsfond 6 604 247 6 121 548
+Annen opptjent egenkapital 17 547 998 13 877 578
+Sum opptjent egenkapital 24 152 245 19 999 126
+Sum egenkapital 51 301 046 47 147 927
+Forsikringsforpliktelser -
+kontraktsfastsatte
+forpliktelser
+Premiereserve m.v. 17 221 721 063 222 469 826
+Bufferfond 17 27 948 892 21 081 332
+Sum
+forsikringsforpliktelser -
+kontraktsfastsatte
+forpliktelser 249 669 955 243 551 158
+Forsikringsforpliktelser -
+serskilt
+investeringsportefelje
+Pensjonskapital m.v. 18 362 260 917 350 110 373
+Bufferfond 18 44 944 423 35 872 389
+Premiefond, innskuddsfond
+og fond for regulering av
+pensjoner m.v. 18 81 105 402 78 044 261
+Sum
+forsikringsforpliktelser -
+serskilt
+investeringsportefelje 488 310 742 464 027 023
+Avsetninger for
+forpliktelser
+
+Utskriftsdato 22.07.2026 Organisasjonsnr 889 028 092 Side 5 av 6
+
+Forpliktelser ved
+
+periodeskatt 8, 22 304 564 25 504
+
+Forpliktelser ved utsatt
+
+skatt 23 350 333 0
+
+Forpliktelser ved skatt 654 897 25 504
+
+Andre avsetninger for
+
+forpliktelser 22 537 170 512 131
+
+Sum avsetninger for
+
+forpliktelser 1 192 067 537 635
+
+Forpliktelser
+
+Andre forpliktelser 50 868 48 346
+
+Sum forpliktelser 50 868 48 346
+
+SUM EGENKAPITAL OG
+
+FORPLIKTELSER 790 524 678 755 312 089
+Utskriftsdato 22.07.2026 Organisasjonsnr 889 028 092 Side 6 av 6
+
+Emst & Young AS Tif: +47 24 00 24 00
+Stort t 7, 0155 Osl www.ey.no
+Shape the future Postboke 1156 Sentrum, 0107 Oslo Medlemmer av Den norske Revisorforening
+with confidence
+Til styret i HM Norge pensjonskasse
+UAVHENGIG REVISORS BERETNING
+Konklusjon
+Vi har revidert arsregnskapet for HM Norge pensjonskasse som bestar av balanse per 31. desember
+2025, resultatregnskap, oppstilling av endringer i egenkapital og kontantstramoppstilling for
+regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige
+regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og 3
+e gir et rettvisende bilde av pensjonskassens finansielle stilling per 31. desember 2025 og av dens =
+resultater og kontantstrammer for regnskapsaret avsluttet per denne datoen i samsvar med BS
+regnskapslovens regler og god regnskapsskikk i Norge. s
+=
+i)
+Grunnlag for konklusjon ©
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare s
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og Z
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av pensjonskassen i samsvar med kravene i N)
+relevante lover og forskrifter i Norge og /nternational Code of Ethics for Professional Accountants R
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for Q
+Accountants (IESBA-reglene), og vi har overholdt vare avrige etiske forpliktelser i samsvar med disse S
+kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for s
+var konklusjon. &
+3
+Svrig informasjon 2
+a
+x
+Styret og daglig leder (ledelsen) er ansvarlige for informasjonen i arsberetningen. Var konklusjon om 8
+arsregnskapet ovenfor dekker ikke informasjonen i arsberetningen. g
+=
+| forbindelse med revisjonen av arsregnskapet er det var oppgave a lese arsberetningen. Formalet er a <
+vurdere hvorvidt det foreligger vesentlig inkonsistens mellom arsberetningen og arsregnskapet og den
+kunnskap vi har opparbeidet oss i revisjonen av arsregnskapet, eller hvorvidt informasjon i
+arsberetningen ellers fremstar som vesentlig feil. Vi har plikt til 4 rapportere dersom arsberetningen
+fremstar som vesentlig feil. Vi har ingenting a rapportere i sa henseende.
+Basert pa kunnskapen vi har opparbeidet oss i revisjonen, mener vi at arsberetningen
+e er konsistent med arsregnskapet og
+e _inneholder de opplysninger som skal gis i henhold til gjeldende lovkrav.
+Ledelsens ansvar for arsregnskapet
+Ledelsen er ansvarlig for a utarbeide arsregnskapet og for at det gir et rettvisende bilde i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik intern kontroll
+som den finner ngdvendig for a kunne utarbeide et arsregnskap som ikke inneholder vesentlig
+feilinformasjon, verken som falge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til pensjonskassens evne til fortsatt drift
+og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn
+A member firm of Ernst & Young Global Limited
+
+2
+Shape the future
+with confidence
+for arsregnskapet med mindre ledelsen enten har til hensikt 4 avvikle pensjonskassen eller virksomheten,
+eller ikke har noe annet realistisk alternativ.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning som
+inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti for at en
+revisjon utfert i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon kan
+skyldes misligheter eller utilsiktede feil og er a anse som vesentlig dersom den enkeltvis eller samlet med
+rimelighet kan forventes a pavirke de g@konomiske beslutningene som brukerne foretar pa grunnlag av
+arsregnskapet.
+Som del av en revisjon i samsvar med ISA-ene, utever vi profesjonelt skjann og utviser profesjonell
+skepsis gjennom hele revisjonen. | tillegg: 3
+=
+e identifiserer og vurderer vi risikoen for vesentlig feilinformasjon i arsregnskapet, enten det skyldes iy
+misligheter eller utilsiktede feil. Vi utformer og gjennomfgrer revisjonshandlinger for a handtere g
+slike risikoer, og innhenter revisjonsbevis som er tilstrekkelig og hensiktsmessig som grunnlag for =
+var konklusjon. Risikoen for at vesentlig feilinformasjon som falge av misligheter ikke blir S
+avdekket, er hgyere enn for feilinformasjon som skyldes utilsiktede feil, siden misligheter kan =
+innebaere samarbeid, forfalskning, bevisste utelatelser, uriktige fremstillinger eller overstyring av SS
+intern kontroll. g
+e opparbeider vi oss en forstaelse av den interne kontrollen som er relevant for revisjonen, for a N)
+utforme revisjonshandlinger som er hensiktsmessige etter omstendighetene, men ikke for a gi R
+uttrykk for en mening om effektiviteten av pensjonskassens interne kontroll. gy
+e  evaluerer viom de anvendte regnskapsprinsippene er hensiktsmessige og om =
+regnskapsestimatene og tilharende noteopplysninger utarbeidet av ledelsen er rimelige. =
+e konkluderer vi pa om ledelsens bruk av fortsatt drift-forutsetningen er hensiktsmessig, og, basert &
+pa innhentede revisjonsbevis, hvorvidt det foreligger vesentlig usikkerhet knyttet til hendelser ©
+eller forhold som kan skape betydelig tvil om pensjonskassens evne til fortsatt drift. Dersom vi 2
+konkluderer med at det eksisterer vesentlig usikkerhet, kreves det at vi i revisjonsberetningen 3
+henleder oppmerksomheten pa tilleggsopplysningene i arsregnskapet, eller, dersom slike 8
+tilleggsopplysninger ikke er tilstrekkelige, at vi modifiserer var konklusjon. Vare konklusjoner er g
+basert pa revisjonsbevis innhentet frem til datoen for revisjonsberetningen. Etterfalgende &
+hendelser eller forhold kan imidlertid medfare at pensjonskassen ikke kan fortsette driften.
+e evaluerer vi den samlede presentasjonen, strukturen og innholdet i arsregnskapet, inkludert
+tilleggsopplysningene, og hvorvidt arsregnskapet gir uttrykk for de underliggende transaksjonene
+og hendelsene pa en mate som gir et rettvisende bilde.
+Vi kommuniserer med styret blant annet om det planlagte innholdet i og tidspunktet for revisjonsarbeidet
+og eventuelle vesentlige funn i revisjonen, herunder vesentlige svakheter i den interne kontrollen som vi
+avdekker gjennom revisjonen.
+Oslo, 25. mars 2026
+ERNST & YOUNG AS
+Revisjonsbereiningen er signert elektronisk
+Johan-Herman Stene
+statsautorisert revisor
+Uavhengig revisors beretning — HM Norge pensjonskasse 2025
+A member firm of Ernst & Young Global Limited
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Johan-Herman Stene
+Statsautorisert revisor
+Pavegne av: Ernst & Young AS QES
+Serienummer: bankid.no no_bankid:95 78-5 993-4-241 1909
+IP: 147.161 XXX.XXX
+2026-03-25 12:50:15 UTC
+==pankin &%
+S
+=
+Q
+ss
+re
+=
+S
+oO
+=
+;
+Q
+me
+re
+°
+oO
+=
+Oo
+=
+‘w
+&
+Ss)
+£
+=
+v
+&
+3
+x
+S)
+Q
+Ss)
+v
+<=
+S
+AF
+a
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.
+
+? Admincontrol
+List of Signatures page in
+Arsberetning_og Arsregnskap _HM_ Norge Pensjonskasse 2025.pdf
+Name Method Signed at
+Trulsrud, Kari Asta BANKID 2026-03-19 11:12 GMT+01
+Tosseviken, Kristin BANKID 2026-03-19 11:38 GMT+01
+Berntsen, Lise Schie BANKID 2026-03-19 09:50 GMT+01
+Jacobsen, Tom BANKID 2026-03-19 10:10 GMT+01
+Omreng, Knut BANKID 2026-03-19 11:48 GMT+01
+Styrmo, Bjarn BANKID 2026-03-23 08:48 GMT+01
+Hatlevik, Kjersti BANKID 2026-03-23 08:48 GMT+01
+Hansen, Kenneth BANKID 2026-03-19 10:52 GMT+01
+4 J F This file is sealed with a digital signature. The seal is a guarantee for the authenticity of the dacument.
+a =f External reference: O2D01AE37D87439E9BF28A3918A9A4EB
+
+Heidelberg
+Materials
+HM Norge Pensjonsk
+3 7 ©
+a tt ij
+yi f . »
+ey ~ 4 ra
+z . , ® a
+i.) a ; - > j. q ie ] . .
+y, a } . ‘e
+* ’ a - *
+; 4 ~
+4 ~. L,
+oh Se
+Ba aN * This file is sealed with a digital signature.
+i é 4 ‘ _: The seal is a guarantee for the authenticity
+\ glee «Of the document.
+eae Document ID:
+
+HM Norge Pensjonskasse
+OM PENSfONSKASSEN .........cccccccccccscscesccccccsccccccesccccccccescceccceccecsesscccccceccccecccccccecssessescccsccscsessoe
+OFrBaNiSAaSjON OF Cif t.......... ccs cesseseccsseseecssseceecaecessesecsasecesssaescssessecsaseceessaeecssessesaaeceessarecseeseesssaeesssees 2
+Styrets arbeid ccccccccccccccccccccccccccccccccccceccccccccccccccccccccccccccccccccccccccccccceccccccccccccccccccccccccecccccccccccccee sd
+Risikostyring Og risIKOEKSPONETING..........cccccscsescceccccccccssccscccccnccessccscccccccccessescccccccccccscescccsceeeeD
+FIMANSIELL PISIKO........ccccceceeeeeeceeeeeceecceceseesecaeesaeseeceeesaeseeceessaeseeceessaeseeseessaesaesaeesansaesaeseanseseesearserceessanseses
+BaerekraftsriSiko ........ccccsccsccsseccsseseecsseeeceseeeecsaeseesesaeceesaeecaaessesesueceesaessaaessessaesaaseeessaaeeessesarseeseenessareesee
+FOrSIKriINSTiSIKO ..........cccsccsccesecceseseecessecceseseecsaessecusaecassssescsaessesssaecassssescaaessesssaecaesesescsaeseseeaecaaeesesesareesee OD
+MarkedsutvikKling .........cccccccssssssccccccessceccecccccccccesccescccccccsscscceccceccccscssccccccecccsseccccccccccccscesccccceeee Dd
+Arsregnskap 2025, .........cccccccsssccssecesccccsccccescsesccceeccccesccccccecccccecccecccsecccccesccccccesccccceccccscesscccceeO)
+SolvensSkapitaldekning............ccccccesseccecsseccseeseecseecceseceeceesesescsaeseesesaeceasecescsaeseeseaecuseeesssaeseesscarsaeseeesseesO
+SOIVENSIMALBIN ........cccessecssessecssseseecesseceecsaecaaseseecsaessssesuecaasesescsaesessesaecaaseseecsaecessecaecaeeeeesssaesessssatcaeeeeeseeesO
+Utsikter freMoOvVeEr ......ccccsccccsseccssesseceseeceeseseecnsessesseaeceessaescnsessessaaecesssaescaaeseeseaaecnessaescaseseseauecesesanecsseeeessO
+1
+& | “This file is sealed with a digital signature.
+I _: The seal is a guarantee for the authenticity
+are of the document,
+ee Document ID:
+02D01AE37D87439E9BF28A3918A9A4EB
+
+HM Norge Pensjonskasse
+e
+Om pensjonskassen
+HM Norge Pensjonskasse ble etablert i 2005 for a dekke behov for tjenestepensjon til Heidelberg Materials AG,
+tidligere Heidelberg Cement AG, i Norge. Foretakene Heidelberg Materials Norway AS, Heidelberg Materials
+Betong Norge AS og Heidelberg Materials Tilslag Norge AS har ytelsespensjonsordning i pensjonskassen i dag.
+Konsernets ytelsespensjonsordning ble lukket med virkning fra 1. januar 2018, og det er innfgrt
+innskuddspensjonsordning som administreres i livsforsikringsselskap. Pensjonskassen forvalter fripoliser fra
+fratradte medlemmer etter 2013, og for medlemmer som gikk over til innskuddspensjon. Pensjonskassen
+forvalter ogsa fripoliser for opptjent rett til ufgrepensjon etter regler far 2016.
+Pensjonskassen er underlagt norsk forsikringslovgivning og star under tilsyn av Finanstilsynet.
+Pensjonskassen har byttet navn til HM Norge Pensjonskasse som felge av konsernets navnendring.
+Navnebyttet ble godkjent i Branngysundregistret 11. februar 2025.
+Organisasjon og drift
+Pensjonskassen har utkontraktert administrasjon av pensjonskassens virksomhet, herunder daglig ledelse,
+aktuarfunksjon, risikostyringsfunksjon, ut@vende aktuar, regnskapsfgring og forsikringsteknisk administrasjon
+til Storebrand Pensjonstjenester AS. Aider Oslo AS benyttes som underleverandgr for regnskapsfgring.
+Pensjonskassen har ingen ansatte.
+Daglig leder i pensjonskassen er Lise Schie Berntsen.
+Pensjonskassen er omfattet av allmennaksjelovens krav til representasjon av begge kjgnn i styret. Dette
+tilfredsstilles i dag.
+Styret hari 2025 bestatt av 7 styremedlemmer, hvorav et er eksternt.
+Foretaksvalgte Medlemsvalgte
+Bjern Styrmo (styreleder) Tom Jacobsen
+Kjersti Hatlevik Kenneth Hansen
+Knut Omreng Anne-Marit Eriksen
+Kristin Tosseviken (ekstern) Nelly Haug (vara)
+Kari Trulsrud (vara) Guttorm Aasebgstel (vara)
+Svein Lorentz Bull Eriksson (vara) Frank Engan (vara) T sept 2025
+Styret vedtok pa styremgtet i desember 2024 a redusere antallet styremedlemmer fra 9 til 7, herunder ogsa
+endringer tilknyttet personlig vara.
+Gabler Investments er pensjonskassens investeringsradgiver og Gabler Risk Management utforer uavhengig
+kontroll av kapitalforvaltningen. Pensjonskassens internrevisjonsfunksjon er Deloitte og eksternrevisjon
+utfgres av EY.
+Pensjonskassen har ikke tegnet en szerskilt ansvarsforsikring for styremedlemmer eller daglig leder.
+Pensjonskassen har forretningsadresse i Oslo.
+2
+my This file is sealed with a digital signature.
+I _: The seal is a guarantee for the authenticity
+are of the document,
+cae Document ID:
+02D01AE37D87439E9BF28A3918A9A4EB
+
+HM Norge Pensjonskasse
+e
+Styrets arbeid
+Styret har i 2025 arbeidet med oppgaver knyttet til ordinzer drift av pensjonskassen, oppgaver knyttet til
+kapitalforvaltning samt tilpasning av strategier til nytt regelverk om bufferfond. Styret har ogsa arbeidet for at
+pensjonskassen skal tilpasse seg de nye reglene knyttet til DORA (Digital Operational Resilience Act). DORA
+er et nytt EU-regelverk som har som mal a styrke finansinstitusjoners evne til 4a handtere teknologiske risikoer
+og digitale trusler. Arbeidet med DORA fortsetter ogsa i 2026.
+Pensjonskassens aktuarfunksjon, risikostyringsfunksjon og internrevisjonsfunksjon er etablerte med direkte
+rapporteringslinje til styret. Styret overvaker kontinuerlig pensjonskassens risikobzerende evne og
+kapitalsituasjon.
+Styret gjennomfgrte sin egenvurdering av risiko (ORA) i september 2025. ORA-prosessen danner grunnlaget
+for styrets vurdering av strategidokumenter, herunder investeringsstrategi og forsikringsstrategi. Styret har
+ogsa etablert en egen IKT-strategi i 2024.
+Kapitalforvaltningen gis behandling i alle ordinzere styremeter. Dette kommer i tillegg til manedlig
+rapportering om avkastning og utvikling i finansmarkedet. Det utarbeides halvarsregnskap basert pa
+oppdaterte forsikringstekniske avsetninger og risikorapporter. Man gikk fra kvartalsvis regnskapsrapportering
+til halvarlig rapportering i 2025.
+Styret har i lgpet av aret gjennomgatt pensjonskassens dokumentasjon av vesentlige risikoer, konsekvenser
+og kontrolltiltak relatert til krav om internkontroll, og det er ikke avdekket forhold som pavirker
+pensjonskassens drift. Daglig leders rapport om internkontroll blir arlig gjennomgatt og lagt frem for styret.
+Pensjonskassens internrevisjonsfunksjon har i 2025 gjennomfart et prosjekt om kapitalforvaltning. Resultatet
+av revisjonen avdekket ingen forhold av betydning for pensjonskassens drift og ble vurdert som
+tilfredsstillende.
+Styret har gjennomfert egenevaluering og det ble ikke avdekket mangler til hinder for videre arbeid.
+Styret har giennomfert kompetanseheving ved a ha gjennomgang av kapitalforvaltningen i lys av ESG pa
+styrematet i desember.
+Det har i lopet av aret vzert avholdt 4 styremeter.
+e e e e e e
+Risikostyring og risikoeksponering
+Styret har det overordnede ansvaret for administrasjon og kapitalforvaltning i pensjonskassen. De
+vesentligste risikoene er markedsrisiko knyttet til eiendeler, renterisiko knyttet til forsikringstekniske
+forpliktelser, forsikringsrisiko samt operasjonell og regulatorisk risiko.
+Styret har etablert rammer og krav for de viktigste forhold og det er etablert rutiner for lapende rapportering.
+Strategiene er fastlagt ut fra at medlemmenes rettigheter til enhver tid skal vzere fullt sikret etter de lover,
+regler og forskrifter som er fastsatt for pensjonskasser.
+Pensjonskassens risikostyringssystem er organisert etter prinsippet med tre ansvarslinjer. Farstelinjen har
+ansvaret for risikostyring og ut@velsen av daglig drift med lapende internkontroll. Andrelinjen og tredjelinjen
+bestar av uavhengige kontroller med ulike ansvarsomrader og rapportering.
+Risikostyringsfunksjonen paser at risikoene knyttet til pensjonskassens virksomhet er identifisert, malt, styrt
+og overvaket og skal rapportere om disse til styret. Risikostyringsfunksjonen fasiliteter ogsa styrets ORA-
+prosess. Aktuarfunksjon har et kontrollansvar knytte til forsikringsomradet, og paser at pensjonskassens
+virksomhet blir drevet pa en forsikringsteknisk ansvarlig mate. Internrevisjonsfunksjon kontrollerer at
+pensjonskassen er organisert og drives pa en forsvarlig mate og i samsvar med gjeldende krav.
+3
+my This file is sealed with a digital signature.
+I _: The seal is a guarantee for the authenticity
+are of the document,
+cae Document ID:
+02D01AE37D87439E9BF28A3918A9A4EB

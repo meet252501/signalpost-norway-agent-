@@ -1,0 +1,578 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 306248
+Enheten
+Organisasjonsnummer : 929 701 577
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: TOOLSUPPLY AS
+Forretningsadresse: Krusemarka 5
+4365 NHARBS
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Ivar Espeland
+Dato for fastsettelse av Aarsregnskapet: 09.02.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollien pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 10.02.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 929 701 577
+
+TOOLSUPPLY AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 371 057 3 552 977
+
+Annen driftsinntekt 85 415 -354 895
+
+Sum inntekter 3 456 472 3 198 082
+
+Kostnader
+
+Varekostnad 1 390 855 2 152 946
+
+Lennskostnad 2, 3 5 709 1 992
+
+Avskrivning pa varige
+
+driftsmidler 4 92 922 157 570
+
+Nedskrivning av varige
+
+driftsmidler og
+
+immaterielle eiendeler 4 0 18 633
+
+Annen driftskostnad 1 104 868 1 156 317
+
+Sum kostnader 2 594 354 3 487 459
+
+Driftsresultat 862 119 -289 377
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 401 1 803
+
+Sum finansinntekter 401 1 803
+
+Annen rentekostnad 57 842 58 569
+
+Annen finanskostnad 2 597 12 717
+
+Sum finanskostnader 60 438 71 286
+
+Netto finans -60 037 -69 483
+
+Resultat fer skattekostnad 802 082 -358 860
+
+Skattekostnad 118 844 -14 299
+
+Arsresultat 683 238 -344 561
+
+Arsresultat etter
+
+minoritetsinteresser 683 238 -344 561
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 683 238 -344 561
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 0 -206 373
+
+Overferinger til/fra
+
+annen egenkapital 683 238 -138 188
+
+Sum overferinger og
+
+disponeringer 683 238 -344 561
+Utskriftsdato 10.02.2026 Organisasjonsnr 929 701 577 Side 1 av 4
+
+Utskriftsdato 10.02.2026 Organisasjonsnr 929 701 577 Side 2 av 4
+
+Organisasjonsnr: 929 701 577
+
+TOOLSUPPLY AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner 4 467 398 775 149
+
+Sum varige driftsmidler 467 398 775 149
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 5 30 000 0
+
+Sum finansielle
+
+anleggsmidler 30 000 fe]
+
+Sum anleggsmidler 497 398 775 149
+
+Omlepsmidler
+
+Varer
+
+Varelager 311 187 369 210
+
+Sum varer 311 187 369 210
+
+Fordringer
+
+Kundefordringer 287 548 16 656
+
+Sum fordringer 287 548 16 656
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 452 043 70 829
+
+Sum bankinnskudd,
+
+kontanter og lignende 452 043 70 829
+
+Sum omlepsmidler 1 050 778 456 695
+
+SUM ELENDELER 1 548 175 1 231 845
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+Utskriftsdato 10.02.2026 Organisasjonsnr 929 701 577 Side 3 av 4
+
+Opptjent egenkapital
+
+Annen egenkapital 476 864 0
+
+Udekket tap 0 206 373
+
+Sum opptjent egenkapital 476 864 -206 373
+
+Sum egenkapital 506 864 -176 373
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 42 150 0
+
+Sum avsetninger for
+
+forpliktelser 42 150 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 524 863 1 075 879
+
+@vrig langsiktig gjeld 83 525 196 125
+
+Sum annen langsiktig gjeld 608 388 1 272 004
+
+Sum langsiktig gjeld 650 538 1 272 004
+
+Kortsiktig gjeld
+
+Leverandergjeld 153 528 70 553
+
+Betalbar skatt 57 177 -14 289
+
+Skyldig offentlige avgifter 162 143 62 026
+
+Annen kortsiktig gjeld 17 924 17 924
+
+Sum kortsiktig gjeld 390 772 136 214
+
+Sum gjeld 1 041 311 1 408 218
+
+SUM EGENKAPITAL OG GJELD 1 548 175 1 231 845
+Utskriftsdato 10.02.2026 Organisasjonsnr 929 701 577 Side 4 av 4
+
+Organisasjonsnr: 929 701 577
+
+TOOLSUPPLY AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Nerbs
+
+Virksomhetens art
+
+Agentur- og engroshandel med deler og
+
+utstyr til motorvogner, unntatt motorsykler.
+
+Note
+2
+Antall Arsverk i regnskapsaret
+0.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+0.00 0.00
+Andre ytelser Arets Fjorarets
+5709.00 1992.00
+Sum lennskostnader Arets Fjorarets
+5709.00 1992.00
+Note
+Ekstraordinzre inntekter og kostnader
+Sum Belgp
+Note
+4
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+922476.00
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+344755.00
+Avgang i aret Varige driftsmidler Immaterielle eiend.
+729893.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+537338.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+69940.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+467398.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+
+92922.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Note
+5
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregns kap
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Ja
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Arsaken til at det ikke utarbeides konsermregnskap er at foretaket velger 4
+folge unntaksregelen i regnskapslovens § 3-2 (3).
+Samlet belep - tilknyttet selskap Arets Fjorarets
+Samlet bele@p - foretak i samme konserm Arets Fjorarets
+Kortsiktig gjeld
+Samlet belep - foretak i samme konserm Arets Fjorarets
+Samlet belap - felles kontrollert virksomhet Arets Fjorarets
+Pantstillelse Belgp
+Note
+Virkelig verdi og resultatfert verdiendr. i perioden, finansielle instrumenter
+Mer om finansielle instrumenter
+Beskrivelse av finansielle derivater
+
+Beholdning av eqne aksjer Antall Palydende Andel av _aksjek.
+
+Arsregnskap 2025
+Toolsupply AS
+(929 701 577)
+ay
+Toolsupply AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 3 371 057 3 552 977
+
+Annen driftsinntekt 85 415 -354 895
+Sum driftsinntekter 3 456 472 3 198 082
+Driftskostnader
+
+Varekostnad 1 390 855 2 152 946
+
+L@nnskostnad 2,3 5 709 1992
+
+Avskrivning pa varige driftsmidler 4 92 922 157 570
+
+Nedskrivning pa varige driftsmidler 4 e) 18 633
+
+Annen driftskostnad 1 104 868 1156 317
+Sum driftskostnader 2 594 354 3 487 459
+Driftsresultat 862 118 -289 377
+Finansinntekter
+
+Annen finansinntekt 401 1 803
+Sum finansinntekter 401 1 803
+Finanskostnader
+
+Annen rentekostnad 57 842 58 569
+
+Annen finanskostnad 2 597 12 717
+Sum finanskostnader 60 438 71 286
+Netto finans -60 037 -69 483
+Resultat for skatt 802 081 -358 860
+Skattekostnad 118 844 -14 299
+Arsresultat 683 237 -344 561
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 683 238 -138 188
+
+Udekket tap @) -206 373
+Sum overferinger og disponeringer 683 238 -344 561
+
+Toolsupply AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Driftslos@re, inventar, verktay, kontormaskiner 4 467 398 775 149
+Sum varige driftsmidler 467 398 775 149
+Finansielle anleggsmidler
+
+Investeringer i datterselskap 5 30 O00 0
+Sum finansielle anleggsmidler 30 000 0
+Sum anleggsmidler 497 398 775 149
+Omlepsmidler
+Varelager 311 187 369 210
+Fordringer
+
+Kundefordringer 287 548 16 656
+Sum fordringer 287 548 16 656
+Bankinnskudd, kontanter o.l. 452 043 70 829
+Sum omlepsmidler 1 050 778 456 695
+Sum eiendeler 1548176 1231844
+
+Toolsupply AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 COO 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Annen egenkapital 476 864 0
+
+Udekket tap ¢) -206 373
+Sum opptjent egenkapital 476 864 -206 373
+Sum egenkapital 506 864 -176 373
+Gijeld
+Avsetning for forpliktelser
+
+Utsatt skatteforpliktelse 42 150 (@)
+Sum avsetning for forpliktelser 42 150 0
+Annen langsiktig gjeld
+
+Gjeld til kredittinstitusjoner, langsiktig 524 863 1 075 879
+
+@vrig langsiktig gjeld 83 525 196 125
+Sum annen langsiktig gjeld 608 388 1 272 004
+Kortsiktig gjeld
+
+Leverandergjeld 153 528 70 553
+
+Betalbar skatt 67177 -14 289
+
+Skyldig offentlige avgifter 162 143 62 026
+
+Annen kortsiktig gjeld 17 924 17 924
+Sum kortsiktig gjeld 390 772 136 214
+Sum gjeld 1041310 1 408 218
+Sum egenkapital og gjeld 1548174 1231845
+
+Toolsupply AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Neerbo
+Virksomhetens art
+Agentur- og engroshandel med deler og utstyr til motorvogner, unntatt motorsykler.
+Note 2: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Note 3: Lonnskostnader
+
+2025 2024
+Lenn ¢) 0
+Arbeidsgiveravgift e) @)
+Pensjon @) 0
+Andre ytelser 5 709 1992
+Sum lonnskostnader 5 709 1992
+Toolsupply AS Arsregnskap Side 5 av6
+
+Note 4: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 922 476
++ Kjap og annen tilgang i ar 344 755
+- Salg og annen avgang i ar 729 893
+= Anskaffelseskost 31. desember 537 338
+- Sum avskrivninger og nedskrivninger 69 940
+= Balansefort verdi per 31.12. 467 398
+Arets avskrivninger og nedskrivninger 92 922
+Note 5: Konsern
+Virksomheten er et morselskap. Virksomheten utarbeider ikke konsernregnskap, herunder
+konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger 4 falge
+unntaksregelen i regnskapslovens § 3-2 (3).
+Toolsupply AS Arsregnskap Side 6 av 6

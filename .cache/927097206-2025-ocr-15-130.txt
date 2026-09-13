@@ -1,0 +1,527 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 568958
+Virksomheten
+Organisasjonsnummer : 927 097 206
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ARITY AS
+Forretningsadresse: c/o Endre Johnsen
+Rolf Hofmos gate 13
+0655 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Erlend Jullum Randen
+Dato for fastsettelse av Aarsregnskapet: 19.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 22.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 927 097 206
+
+ARITY AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 3, 4 9 998 24 611
+
+Avskrivning pa varige
+
+drifttsmidler 5 2 168 11 264
+
+Annen driftskostnad 18 432 31 361
+
+Sum kostnader 30 598 67 236
+
+Driftsresultat -30 598 -67 236
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 257 243
+
+Sum finansinntekter 257 243
+
+Sum finanskostnader e) e)
+
+Netto finans 257 243
+
+Resultat fer skattekostnad -30 341 -66 993
+
+Arsresultat -30 341 -66 993
+
+Arsresultat etter
+
+minoritetsinteresser -30 341 -66 993
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -30 341 -66 993
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -30 341 -66 993
+
+Sum overferinger og
+
+disponeringer -30 341 -66 993
+Utskriftsdato 22.06.2026 Organisasjonsnr 927 097 206 Side 1 av 3
+
+Organisasjonsnr: 927 097 206
+
+ARITY AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner 5 0 2 168
+
+Sum varige driftsmidler 0 2 168
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 2 168
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 975 930
+
+Sum fordringer 975 930
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 6 030 25 060
+
+Sum bankinnskudd,
+
+kontanter og lignende 6 030 25 060
+
+Sum omlepsmidler 7 005 25 990
+
+SUM EIENDELER 7 005 28 158
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+Utskriftsdato 22.06.2026 Organisasjonsnr 927 097 206 Side 2 av 3
+
+Opptjent egenkapital
+
+@reavrunding -1
+
+Udekket tap 34 259 3 917
+
+Sum opptjent egenkapital -34 259 -3 918
+
+Sum egenkapital -4 259 26 082
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 810 0
+
+Leverandergjeld 24 463
+
+Skyldig offentlige avgifter 496 210
+
+Annen kortsiktig gjeld 9 934 1 403
+
+Sum kortsiktig gjeld 11 264 2 076
+
+Sum gjeld 11 264 2 076
+
+SUM EGENKAPITAL OG GJELD 7 005 28 158
+Utskriftsdato 22.06.2026 Organisasjonsnr 927 097 206 Side 3 av 3
+
+Organisasjonsnr: 927 097 206
+
+ARITY AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Lorenskog
+
+Virksomhetens art
+
+Konsulentvirksomhet, forskning og
+
+utvikling av digitale lesninger med alt som star naturlig i forbindelse.
+
+Note
+2
+Er det usikkerhet om fortsatt drift?: Nei
+Eierne vil sikre tilforsel av kapital for a sikre likviditet til Aa betale
+gjeld og andre forpliktelser.
+Pa bakgrunn av dette avlegges arsregnskapet
+under forutsetning om fortsatt drift.
+Note
+3
+Antall Arsverk i regnskapsaret
+2.00
+Note
+4
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+0.00 11020.00
+Folketryqdavgift Arets Fjorarets
+982.00 2743.00
+Pensjonskostnader Arets Fjorarets
+6529.00 8449.00
+Andre ytelser Arets Fjorarets
+2487.00 2399.00
+Sum lennskostnader Arets Fjorarets
+9998.00 24611.00
+Note
+5
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+40931.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+40931.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+40931.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+
+2168.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Note
+6
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregns kap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Ja
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a
+falge unntaksregelen i regnskapslovens § 3-2 (3).
+
+Arsregnskap 2025
+Arity AS
+(927 097 206)
+arity
+Arity AS Arsregnskap Side 1 av6
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Lo@nnskostnad 3,4 9 998 24611
+
+Avskrivning pa varige driftsmidler 5 2 168 11 264
+
+Annen driftskostnad 18 432 31 361
+Sum driftskostnader 30 598 87 236
+Driftsresultat -30 598 -67 236
+Finansinntekter
+
+Annen finansinntekt 257 243
+Sum finansinntekter 257 243
+Netto finans 257 243
+Resultat for skatt -30 341 -66 993
+Arsresultat -30341 -66993
+Overforinger og disponeringer
+
+Udekket tap -30 341 -66 993
+Sum overferinger og disponeringer -30 341 -66 993
+
+Arity AS Arsregnskap Side 2 av6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Driftslos@re, inventar, verktay, kontormaskiner 5 fe) 2168
+Sum varige driftsmidler 0 2168
+Sum anleggsmidler 0 2168
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 975 930
+Sum fordringer 975 930
+Bankinnskudd, kontanter o.l. 6 030 25 060
+Sum omlepsmidler 7 005 25 990
+Sum eiendeler 7 005 28 158
+
+Arity AS Arsregnskap Side 3 av6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 0 -1
+Udekket tap -34 259 -3 917
+Sum opptjent egenkapital -34 259 -3 918
+Sum egenkapital -4 259 26 082
+Gijeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner, kortsiktig 810 @)
+Leverandergjeld 24 463
+Skyldig offentlige avgifter 496 210
+Annen kortsiktig gjeld 9 934 1 403
+Sum kortsiktig gjeld 11 264 2076
+Sum gjeld 11 264 2 076
+Sum egenkapital og gjeld 7 005 28 158
+Arity AS Arsregnskap Side 4 av6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Lorenskog
+Virksomhetens art
+Konsulentvirksomhet, forskning og utvikling av digitale losninger med alt som star naturlig i
+forbindelse.
+Note 2: Usikkerhet rundt fortsatt drift
+Eierne vil sikre tilforsel av kapital for  sikre likviditet til 4 betale gjeld og andre forpliktelser. Pa
+bakgrunn av dette aviegges arsregnskapet under forutsetning om fortsatt drift.
+Note 3: Arsverk
+Antall arsverk er 2.
+
+Arity AS Arsregnskap Side 5 av 6
+
+Note 4: Lonnskostnader
+2025 2024
+Lenn 0 11 020
+Arbeidsgiveravgift 982 2743
+Pensjon 6 529 8 449
+Andre ytelser 2 487 2 399
+Sum lonnskostnader 9998 24611
+Note 5: Anleggsmidler
+Varige driftsmidler
+
+Anskaffelseskost 01.01 40 931
++ Kjap og annen tilgang i ar (@)
+- Salg og annen avgang i ar 0
+= Anskaffelseskost 31. desember 40931
+- Sum avskrivninger og nedskrivninger 40931
+= Balansefort verdi per 31.12. ¢)
+
+Arets avskrivninger og nedskrivninger 2168
+Note 6: Konsern
+Virksomheten er et datterselskap. Virksomheten utarbeider ikke konsernregnskap, herunder
+konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a falge
+unntaksregelen i regnskapslovens § 3-2 (3).
+
+Arity AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Erlend R <erlend jr@gmail.com>
+Elektronisk signering
+ERLEND JULLUM RANDEN
+02.10.1992 - Styreleder
+Y) Signert
+19.06.2026 15:24 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 19.06.2026 15:21:57

@@ -1,0 +1,587 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 684585
+Virksomheten
+Organisasjonsnummer : 913 698 827
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: PERA INVEST AS
+Forretningsadresse: Veiginveien 67
+3517 HONEFOSS
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Morten Stre@hm
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 16.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 913 698 827
+
+PERA INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 20 633 0
+
+Annen driftskostnad 23 937 12 685
+
+Sum kostnader 44 570 12 685
+
+Driftsresultat -44 570 -12 685
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 83 78
+
+Annen finansinntekt 444 250 186 043
+
+Sum finansinntekter 444 333 186 121
+
+Nedskrivning av
+
+finansielle eiendeler 39 150 0
+
+Annen rentekostnad 10 184 33
+
+Annen finanskostnad 59 965 6 917
+
+Sum finanskostnader 109 299 6 950
+
+Netto finans 335 035 179 171
+
+Resultat fer skattekostnad 290 464 166 486
+
+Skattekostnad 0 19 160
+
+Arsresultat 290 464 147 326
+
+Annen egenkapital 290 464 147 326
+Utskriftsdato 16.07.2026 Organisasjonsnr 913 698 827 Side 1 av 3
+
+Organisasjonsnr: 913 698 827
+PERA INVEST AS
+BALANSE
+Belep i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 1 1 382 797 0
+Maskiner og anlegg 1 60 854 0
+Sum varige driftsmidler 1 443 651 0
+Finansielle anleggsmidler
+Sum finansielle
+anleggsmidler 0 fe]
+Sum anleggsmidler 1 443 651 0
+Omlepsmidler
+Varer
+Fordringer
+Sum fordringer 0 0
+Investeringer
+Aksjer og andeler 1
+foretak i samme konsern -1 698 786 -1 698 786
+Markedsbaserte aksjer 1 637 730 1 936 169
+Andre markedsbaserte
+finansielle instrumenter 1 120 1 120
+Andre finansielle
+instrumenter 3 440 885 3 440 885
+Sum investeringer 3 380 949 3 679 388
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 179 311 180 719
+Sum bankinnskudd,
+kontanter og lignende 179 311 180 719
+Sum omlepsmidler 3 560 260 3 860 107
+SUM ELENDELER 5 003 912 3 860 107
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 16.07.2026 Organisasjonsnr 913 698 827 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital 2, 3 30 000 30 000
+
+Annen innskutt egenkapital 3 -18 666 -18 666
+
+Sum innskutt egenkapital 11 334 11 334
+
+Opptjent egenkapital
+
+Annen egenkapital 3 2 198 702 1 908 237
+
+Sum opptjent egenkapital 2 198 702 1 908 237
+
+Sum egenkapital 2 210 036 1 919 571
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 842 500 0
+
+@vrig langsiktig gjeld 1 951 376 1 921 376
+
+Sum annen langsiktig gjeld 2 793 876 1 921 376
+
+Kortsiktig gjeld
+
+Betalbar skatt 0) 19 160
+
+Sum kortsiktig gjeld 0 19 160
+
+Sum gjeld 2 793 876 1 940 536
+
+SUM EGENKAPITAL OG GJELD 5 003 912 3 860 107
+Utskriftsdato 16.07.2026 Organisasjonsnr 913 698 827 Side 3 av 3
+
+Organisasjonsnr: 913 698 827
+PERA INVEST AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+Regnskapsprinsipper
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+Klassifisering og vurdering av
+balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+Eiendeler som er knyttet til varekretslopet er klassifisert som
+omlepsmidler. Langsiktig gjeld er gjeld som forfaller senere enn ett ar
+etter transaksjonsdagen. Ferste ars avdrag pa langsiktige fordringer og
+langsiktig gjeld klassifiseres likevel ikke som oml@psmiddel og kortsiktig
+gjeld.
+Omlepsmidler vurderes til laveste av anskaffelseskost og virkelig
+verdi. Kortsiktig gjeld balanseferes til nominelt belep pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes a4 vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+Varige driftsmidler
+Varige
+driftsmidler balanseferes og avskrives over driftsmidlenes levetid dersom
+de har antatt levetid over 3 ar og har en kostpris som overstiger kr 30
+000. Direkte vedlikehold av driftsmidler kostnadsferes lepende under
+driftskostnader, mens pakostninger eller forbedringer tillegges
+driftsmidlets kostpris og avskrives i takt med driftsmidlet.
+Forevrig er
+
+foalgende regnskapsprinsipper anvendt:
+FIFO-metoden for tilordning av
+anskaffelseskost for ombyttbare finansielle eiendeler, laveste verdis
+prinsipp for markedsbaserte finansielle omlepsmidler. Leieavtaler er ikke
+balansefort.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+2025.
+Note
+Antall Aarsverk i regnskapsaret
+
+0.00
+Note
+
+1
+Varige driftsmidler og immaterielle eiendeler
+
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+
+1464284.00 0.00
+
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+
+1464284.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+20633.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+1443651.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+20633 .00 0.00
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+A\/ AZETS
+Arsregnskap for
+PERA INVERT AS
+9136988
+Regnskapsar »
+01.01.2025 - 31.12.2025
+Arsregnskapet er utarbeidet av Azets Insight AS
+
+PERA INVEST AS
+913 698 827
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Avskrivning pa varige driftsmidler og immaterielle -20 633 0
+eiendeler
+Annen driftskostnad -23 937 -12 685
+Sum driftskostnader -44 570 -12 685
+Driftsresultat -44 570 -12 685
+Finansinntekter
+Annen renteinntekt 83 78
+Annen finansinntekt 444 250 186 043
+Sum finansinntekter 444 333 186 121
+Finanskostnader
+Nedskrivning av finansielle eiendeler -39 150 0
+Annen rentekostnad -10 184 -33
+Annen finanskostnad -59 965 -6 917
+Sum finanskostnader -109 299 -6 950
+Netto finans 335 035 179 171
+Resultat for skattekostnad 290 464 166 486
+Skattekostnad 0 -19 160
+Arsresultat 290 464 147 326
+Overforinger
+Annen egenkapital 290 464 147 326
+Sum overferinger 290 464 147 326
+
+PERA INVEST AS
+913 698 827
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger og annen fast eiendom 1 1 382 797 0
+Maskiner og anlegg 1 60 854 0
+Sum varige driftsmidler 1 443 651 0
+Sum anleggsmidler 1 443 651 0
+Omlgpsmidler
+Investeringer
+Aksjer og andeler i foretak i samme konsern -1 698 786 -1 698 786
+Markedsbaserte aksjer 1 637 730 1 936 169
+Andre finansielle instrumenter 3 440 885 3 440 885
+Andre markedsbaserte finansielle instrumenter 1 120 1 120
+Sum investeringer 3 380 949 3 679 388
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 179 311 180 719
+Sum bankinnskudd, kontanter og lignende 179 311 180 719
+Sum omlgpsmidler 3 560 260 3 860 107
+SUM EIENDELER 5 003 912 3 860 107
+
+PERA INVEST AS
+913 698 827
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 2,3 30 000 30 000
+Annen innskutt egenkapital 3 -18 666 -18 666
+Sum innskutt egenkapital 11 334 11 334
+Opptjent egenkapital
+Annen egenkapital 3 2 198 702 1 908 237
+Sum opptjent egenkapital 2 198 702 1 908 237
+Sum egenkapital 2 210 036 1919 571
+Gjeld
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 842 500 0
+@vrig langsiktig gjeld 1 951 376 1 921 376
+Sum annen langsiktig gjeld 2 793 876 1 921 376
+Kortsiktig gjeld
+Betalbar skatt 0 19 160
+Sum kortsiktig gjeld 0 19 160
+Sum gjeld 2 793 876 1 940 536
+SUM EGENKAPITAL OG GJELD 5 003 912 3 860 107
+H@NEFOSS, 30.06.2026
+Per Arvid Bakken
+styrets leder
+
+PERA INVEST AS
+913 698 827
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen.
+Ferste ars avdrag pa langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlgpsmiddel og
+kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Varige driftsmidler
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfgres Ig@pende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+Forevrig er folgende regnskapsprinsipper anvendt:
+FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler, laveste verdis prinsipp for
+markedsbaserte finansielle oml@psmidler. Leieavtaler er ikke balansefart.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Note 1 - Varige driftsmidler og immaterielle eiendeler
+Varige
+driftsmidler
+Anskaffelseskost 01.01. 0
+Tilgang i aret 1 464 284
+Avgang i aret 0
+Anskaffelseskost 31.12. 1 464 284
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -20 633
+Balansefort verdi per 31.12. 1 443 651
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 20 633
+Note 2 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+Ordinzere 300 100 30 000
+Aksjonzrer Antall aksjer Eierandel % Aksjeklasse
+Per Arvid Bakken 300 100,00 Ordineere
+
+PERA INVEST AS
+913 698 827
+Note 3 - Egenkapital
+Opptjent
+Aksjekapital Annen innsk. EK egenkapital sum
+Egenkapital 31.12.2024 30 000 -18 666 1 908 237 1919 571
+Arsresultat 0 0 290 464 290 464
+Egenkapital 31.12.2025 30 000 -18 666 2 198 702 2 210 036
+Antall arsverk
+Selskapet har ikke hatt ansatte i Iopet av regnskapsaret.
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+
+A\/ AZETS
+Arsregnskap for
+PERA INVERT AS
+
+¢
+
+9136988 ‘wo
+
+R
+
+Regnskapsar » ¥
+01.01.2025 - 31.12.2025 g
+iS
+
+@
+
+fe!
+
+Tb
+
++
+
+ra
+
+g
+
+5
+
+E
+
+5
+
+5
+
+°
+
+Tb
+
+<
+
+Arsregnskapet er utarbeidet av Azets Insight AS
+
+PERA INVEST AS
+
+913 698 827
+
+Resultatregnskap
+
+Note 2025 2024
+
+Driftskostnader
+
+Avskrivning pa varige driftsmidler og immaterielle -20 633 0
+
+eiendeler
+
+Annen driftskostnad -23 937 -12 685
+
+Sum driftskostnader -44 570 -12 685
+
+Driftsresultat -44 570 -12 685
+
+Finansinntekter
+
+Annen renteinntekt 83 78
+
+Annen finansinntekt 444 250 186 043
+
+Sum finansinntekter 444 333 186 121 ¥$
+Ww
+Ww
+
+Finanskostnader R
+
+Nedskrivning av finansielle eiendeler -39 150 0 ¥
+
+Annen rentekostnad -10 184 -33 &
+
+Annen finanskostnad -59 965 -6 917 N
+
+Sum finanskostnader -109 299 -6 950 3
+ren)
+
+Netto finans 335 035 179 171 2
+
+Resultat for skattekostnad 290 464 166 486 +
+2
+
+Skattekostnad 0 -19 160 a
+
+Arsresultat 290 464 147 326 3
+La)
+
+Overferinger as
+
+Annen egenkapital 290 464 147 326 .
+
+Sum overforinger 290 464 147 326
+=
+3
+Cc
+Ww
+Cc
+2
+Ww
+las}
+x
+&
+Sa
+Cc
+oO
+3
+c
+oo
+WY
+(o)
+=
+<{
+
+PERA INVEST AS
+
+913 698 827
+
+Balanse
+
+Note 31.12.2025 31.12.2024
+
+EIENDELER
+
+Anleggsmidler
+
+Varige driftsmidler
+
+Tomter, bygninger og annen fast eiendom 1 1 382 797 0
+
+Maskiner og anlegg 1 60 854 0
+
+Sum varige driftsmidler 1 443 651 0
+
+Sum anleggsmidler 1 443 651 0
+
+Omlgpsmidler 3
+ms
+
+Investeringer 5
+
+Aksjer og andeler i foretak i samme konsern -1 698 786 -1 698 786 +
+
+Markedsbaserte aksjer 1 637 730 1 936 169 Ni
+
+Andre finansielle instrumenter 3 440 885 3 440 885 is)
+
+Andre markedsbaserte finansielle instrumenter 1 120 1 120 AS
+
+Sum investeringer 3 380 949 3 679 388 3
+ae)
+
+Bankinnskudd, kontanter og lignende +
+
+Bankinnskudd, kontanter og lignende 179 311 180 719 ra
+
+Sum bankinnskudd, kontanter og lignende 179 311 180 719 Y
+wn
+ae)
+
+Sum omlgpsmidler 3 560 260 3 860 107 2
+
+SUM EIENDELER 5 003 912 3 860 107 t
+:
+E
+E
+—)
+c
+Ww
+Cc
+2
+Ww
+g
+a
+_
+c
+G
+2
+Cc
+a
+WY
+fe)
+5
+<f

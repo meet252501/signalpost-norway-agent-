@@ -1,0 +1,362 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 531452
+Virksomheten
+Organisasjonsnummer : 924 825 669
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: PS4 INVEST AS
+Forretningsadresse: Billingstadsletta 83
+1396 BILLINGSTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Povilas Stanys
+Dato for fastsettelse av Aarsregnskapet: 31.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 09.06.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 924 825 669
+
+PSs4 INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 5 835 5 861
+
+Sum kostnader 5 835 5 861
+
+Driftsresultat -5 835 -5 861
+
+Annen rentekostnad 0 16
+
+Sum finanskostnader 0 16
+
+Netto finans 0 -16
+
+Resultat fer skattekostnad -5 835 -5 877
+
+Skattekostnad 2, 3 0 0
+
+Arsresultat -5 835 -5 877
+
+Overferinger og
+
+disponeringer
+
+Annen egenkapital -5 835 -5 877
+
+Sum overferinger og
+
+disponeringer -5 835 -5 877
+Utskriftsdato 09.06.2026 Organisasjonsnr 924 825 669 Side 1 av 3
+
+Organisasjonsnr: 924 825 669
+PS4 INVEST AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Finansielle anleggsmidler
+Investering 1 datterselskap 199 800 199 800
+Investeringer i aksjer og
+andeler 4 0 0)
+Sum finansielle
+anleggsmidler 199 800 199 800
+Sum anleggsmidler 199 800 199 800
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 1 073 000 1 035 000
+Sum fordringer 1 073 000 1 035 000
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 2 951 608
+Sum bankinnskudd,
+kontanter og lignende 2 951 608
+Sum omlepsmidler 1 075 951 1 035 608
+SUM ELENDELER 1 275 751 1 235 408
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5, 6 30 000 30 000
+Annen innskutt egenkapital 6 -5 570 -5 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+Annen egenkapital 6 862 499 868 334
+Sum opptjent egenkapital 862 499 868 334
+Sum egenkapital 886 929 892 764
+Kortsiktig gjeld
+
+Utskriftsdato 09.06.2026 Organisasjonsnr 924 825 669 Side 2 av 3
+
+Leverandergjeld 5 822 11 644
+Betalbar skatt 2, 3 0 0
+Kortsiktig konserngjeld 250 000 236 000
+Annen kortsiktig gjeld 133 000 95 000
+Sum kortsiktig gjeld 388 822 342 644
+Sum gjeld 388 822 342 644
+SUM EGENKAPITAL OG GJELD 1 275 751 1 235 408
+Utskriftsdato 09.06.2026 Organisasjonsnr 924 825 669 Side 3 av 3
+
+Organisasjonsnr: 924 825 669
+
+PS4 INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Eiendeler som er knyttet til varekretslepet er klassifisert
+
+som omlepsmidler. Fordringer klassifiseres som oml@psmidler hvis de
+forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og
+
+virkelig verdi. Kortsiktig gjeld balanseferes til nominelt belep pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes 4 vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer
+
+og andre fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning til forventet tap. Avsetning til tap gje@res pa grunnlag av
+individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er falgende
+
+regnskapsprinsipper anvendt:
+
+Kostmetoden er benyttet for investeringer i
+
+datterselskap/tilknyttet selskap. Utbytte er inntektsfert samme Ar som det
+er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at
+belopet vil mottas. Ved utbytte som overstiger andel av tilbakeholdt
+resultat etter kj@pet representerer den overskytende del tilbakebetaling av
+investert kapital, og er fratrukket investeringens verdi i balansen.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap for
+PS4 INVEST AS
+924825669
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+PS4 INVEST AS
+924 825 669
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -5 835 -5 861
+Sum driftskostnader -5 835 -5 861
+Driftsresultat -5 835 -5 861
+Finanskostnader
+Annen renteKostnad 0 -16
+Sum finanskostnader 0 -16
+Netto finans 0 -16
+Arsresultat -5 835 -5 877
+Overforinger
+Annen egenkapital -5 835 -5 877
+Sum overferinger -5 835 -5 877
+
+PS4 INVEST AS
+924 825 669
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investering i datterselskap 199 800 199 800
+Sum finansielle anleggsmidler 199 800 199 800
+Sum anleggsmidler 199 800 199 800
+Omlgpsmidler
+Fordringer
+Andre kortsiktige fordringer 1 073 000 1 035 000
+Sum fordringer 1 073 000 1 035 000
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 2 951 608
+Sum bankinnskudd, kontanter og lignende 2 951 608
+Sum omlgpsmidler 1 075 951 1 035 608
+SUM EIENDELER 1 275 751 1 235 408
+
+PS4 INVEST AS
+924 825 669
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5,6 30 000 30 000
+Annen innskutt egenkapital 6 -5 570 -5 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+Annen egenkapital 6 862 499 868 334
+Sum opptjent egenkapital 862 499 868 334
+Sum egenkapital 886 929 892 764
+Gjeld
+Kortsiktig gjeld
+Leverandergjeld 5 822 11 644
+Kortsiktig konserngjeld 250 000 236 000
+Annen kortsiktig gjeld 133 000 95 000
+Sum kortsiktig gjeld 388 822 342 644
+Sum gjeld 388 822 342 644
+SUM EGENKAPITAL OG GJELD 1 275 751 1 235 408
+R@YKEN, 31.05.2026
+Povilas eo
+styrets leder
+
+PS4 INVEST AS
+
+924 825 669
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet til varekretsigpet er klassifisert som oml@psmidler. Fordringer klassifiseres som
+
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld
+
+som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balanseferes til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belgp pa
+
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er falgende regnskapsprinsipper anvenct:
+
+Kostmetoden er benyttet for investeringer i datterselskap/tilknyttet selskap. Utbytte er inntektsfert samme ar
+
+som det er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at belgpet vil mottas. Ved utbytte
+
+som overstiger andel av tilbakeholdt resultat etter kiapet representerer den overskytende del tilbakebetaling av
+investert Kapital, og er fratrukket investeringens verdi i balansen.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Antall arsverk
+
+Selskapet har ikke hatt ansatte i I@pet av regnskapsaret.
+
+Note 2 - Spesifisering av skatt
+
+Skattepliktig inntekt 2025 2024
+Resultat for skatt -5 835 -5 877
+Permanente forskjeller 0 16
+Skattepliktig inntekt -5 835 -5 861
+Note 3 - Midlertidige forskjeller - utsatt skatt/skattefordel
+
+Utsatt skatt/utsatt skattefordel i balansen avsettes pa grunnlag av forskjeller mellom regnskapsmessige og
+
+skattemessige verdier i henhold til norsk regnskapsstandard for skaitt.
+
+Midlertidige skatteskende og skattereduserende forskjeller som kan utlignes er nettofart.
+
+PS4 INVEST AS
+924 825 669
+Midlertidige forskjeller knyttet til: 01.01.2025 31.12.2025 Endring
+Fremfgrbart underskudd -5 861 -11 696 5 835
+Netto forskjeller -5 861 -11 696 5 835
+Skattereduserende forskjeller som ikke kan utlignes 5 861 11 696 -5 835
+Sum midlertidige forskjeller som inngar i grunnlag for 0 0 0
+utsatt skatt/skattefordel
+Utsatt skatt 31.12.2025 basert pa 22 % 0 0 0
+Note 4 - Investeringer i aksjer og andeler
+Aksjonzerens navn Antall aksjer Anskaffelseskost Komentarer
+Rom4vin AS 50 (50%) 15 000 Ordinzere aksjer
+Aksjer i Uteluksus AS 100 (100%) 30 000 Ordinzere aksjer
+Aksjer i Multicity Eindom AS 100 (100%) 100 000 Ordinzere aksjer
+Aksjer i Norsk Systeminnredning AS 16,5 (16,5%) 4 800 Ordinzere aksjer
+Aksjer i Capital Eiendom AS 50 (50%) 50 000 Ordinzere aksjer
+Total 199 800
+Note 5 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfort verdi
+Ordinzere 100 300 30 000
+Aksjonezrer Antall aksjer Eierandel % Aksjeklasse
+POVILAS STANYS 100 100,00 Ordinzere
+Note 6 - Egenkapital
+Opptjent
+Aksjekapital Annen innsk. EK egenkapital Sum
+Egenkapital 31.12.2024 30 000 -5 570 868 334 892 764
+Arsresultat 0 0 -5 835 -5 835
+Egenkapital 31.12.2025 30 000 -5 570 862 499 886 929
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.

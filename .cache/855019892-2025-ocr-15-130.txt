@@ -1,0 +1,508 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 416135
+Virksomheten
+Organisasjonsnummer : 855 019 892
+Organisasjonsform: Borettslag
+Foretaksnavn: KILEN II BORETTSLAG
+Forretningsadresse: c/o OBOS
+Storgaten 20
+3126 TONSBERG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: OBOS EIENDOMSFORVALTNING AS
+Dato for fastsettelse av Aarsregnskapet: 27.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 04.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 855 019 892
+
+KILEN II BORETTSLAG
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 2 658 399 2 022 492
+
+Sum inntekter 2 658 399 2 022 492
+
+Kostnader
+
+Lennskostnad 114 100 114 100
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 2 49 130
+
+Annen driftskostnad 6 647 866 1 252 951
+
+Sum kostnader 6 761 968 1 416 180
+
+Driftsresultat -4 103 568 606 312
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 33 962 32 972
+
+Sum finansinntekter 33 962 32 972
+
+Annen finanskostnad 452 287 261 349
+
+Sum finanskostnader 452 287 261 349
+
+Netto finans -418 325 -228 377
+
+Resultat fer skattekostnad -4 521 893 377 935
+
+Arsresultat -4 521 893 377 935
+
+Totalresultat -4 521 893 377 935
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -4 521 893 377 935
+
+Sum overferinger og
+
+disponeringer -4 521 893 377 935
+Utskriftsdato 04.06.2026 Organisasjonsnr 855 019 892 Side 1 av 3
+
+Organisasjonsnr: 855 019 892
+KILEN II BORETTSLAG
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 2 235 637 2 235 637
+Driftslesere, inventar,
+verktay, kontormaskiner
+og lignende 2
+Sum varige driftsmidler 2 235 637 2 235 638
+Finansielle anleggsmidler
+Andre fordringer 69 664 57 929
+Sum finansielle
+anleggsmidler 69 664 57 929
+Sum anleggsmidler 2 305 300 2 293 567
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Kundefordringer 6 720
+Andre fordringer 7 483 7 129
+Sum fordringer 14 203 7 129
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 1 084 597 1 384 529
+Sum bankinnskudd,
+kontanter og lignende 1 084 597 1 384 529
+Sum omlepsmidler 1 098 800 1 391 659
+SUM ELENDELER 3 404 100 3 685 226
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 04.06.2026 Organisasjonsnr 855 019 892 Side 2 av 3
+
+Annen innskutt egenkapital 3 200 3 200
+
+Sum innskutt egenkapital 3 200 3 200
+
+Opptjent egenkapital
+
+Udekket tap 5 444 185 922 291
+
+Sum opptjent egenkapital -5 444 185 -922 291
+
+Sum egenkapital -5 440 985 -919 091
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 8 730 226 4 485 703
+
+@vrig langsiktig gjeld 100 130 90 050
+
+Sum annen langsiktig gjeld 8 830 356 4 575 753
+
+Sum langsiktig gjeld 8 830 356 4 575 753
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 2 440 1 407
+
+Leverandergjeld 3 489 17 257
+
+Annen kortsiktig gjeld 8 800 9 900
+
+Sum kortsiktig gjeld 14 729 28 564
+
+Sum gjeld 8 845 085 4 604 317
+
+SUM EGENKAPITAL OG GJELD 3 404 100 3 685 226
+Utskriftsdato 04.06.2026 Organisasjonsnr 855 019 892 Side 3 av 3
+
+Organisasjonsnr: 855 019 892
+
+KILEN II BORETTSLAG
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+ig OB OS attning
+-@ by
+_ &
+4
+a
+Arsmete 2026
+Innkalling
+
+Velkommen til arsmete i KILEN II BORETTSLAG
+
+Innkallingen inneholder alle sakene som skal behandles pa arsmetet. Styret haper du leser gjennom og viser
+
+din interesse ved a delta pa arsmetet.
+
+Dato for arsmetet:
+
+2/. april 2026 kl. 17:00, i Bydelshuset, Tollbodgaten 19, Tensberg.
+
+Hvem kan stemme pa arsmoetet?
+
+Alle eiere har rett til 4 delta i mete med forslags-, tale- og stemmerett.
+
+¢ Eiers ektefelle, samboer eller et annet medlem i husstanden har ogsa rett til 4 veere til stede og til 4 uttale seg.
+
+¢ Enstemme avgis pr. eierandel.
+
+*« Eieren kan ta med seg en radgiver til metet. Radgiveren har bare rett til 4 uttale seg dersom et flertall pa
+arsmatet tillater det.
+
+¢ Eieren kan mete ved fullmektig. Ingen kan vere fullmektig for mer enn én eier, men der flere eier en andel
+sammen kan de ha samme fullmektig. En fullmakt kan trekkes tilbake nar som helst. Styremedlemmer,
+forretningsforer og leier av bolig i borettslaget har ogsa rett til 4 veere til stede i generalforsamlingen og til
+a uttale seg.
+
+Registreringsblanketten leveres i utfylt stand ved inngangen.
+
+Velkommen til Arets generalforsamling for Kilen II borettslag.
+
+Styret ensker alle velkommen til arets generalforsamling for Kilen II Borettslag. Arets generalforsamling vil
+
+foregar pa Bydelenshuset pa rom nr. 8 med navn "fellesskap".
+
+Det blir kun enkel servering med kaffe, vann og noe frukt/kjeks.
+
+Saker til behandling
+
+1. Valg av meteleder
+
+2. Godkjenning av de stemmeberettigede
+
+3. Valg av protokollvitner
+
+4. Godkjenning av meteinnkallingen
+
+5. Arsrapport og arsregnskap
+
+6. Fastsettelse av honorarer
+
+7. Valg av tillitsvalgte
+
+8. Valg av delegater til OBOS' generalforsamling
+
+Med vennlig hilsen,
+
+Styret i KILEN Il BORETTSLAG
+
+2 av 19
+
+Sak 1
+Valg av meteleder
+Krav til flertall:
+Alminnelig (50%)
+Metelederen serger for at metet blir avviklet etter lovens regler og er ansvarlig for at det feres protokoll. Hvis
+ikke arsmetet velger en meteleder eller den foreslatte metelederen ikke blir valgt, er det styrets leder som etter
+loven er meteleder.
+Forslag til vedtak
+Jorn Steihaug er valgt.
+Sak 2
+Godkjenning av de stemmeberettigede
+Krav til flertall:
+Alminnelig (50%)
+Deltakere i metet er registrert ien frammeteliste etter innleverte registreringsblanketter og fullmakter, og listen
+legges til grunn for opptelling av de stemmeberettigede.
+Forslag til vedtak
+Det ble foreslatt 4 anse de innleverte registreringsblankettene og eventuelt fullmakter som bevis for at
+vedkommende eier er til stede.
+Sak 3
+Valg av protokollvitner
+Krav til flertall:
+Alminnelig (50%)
+Valg av minst én eier til 4 signere protokollen.
+Forslag til vedtak
+Velges i arsmetet
+3 av 19
+
+Sak 4
+Godkjenning av meteinnkallingen
+Krav til flertall:
+Alminnelig (50%)
+Det ble foreslatt 4 gSodkjenne den maten arsmetet er innkalt pa.
+Forslag til vedtak
+Meteinnkallingen godkjennes
+Sak 5
+Arsrapport og arsregnskap
+Krav til flertall:
+Alminnelig (50%)
+a) Godkjenning av arsrapport og arsregnskap
+b) Styret foreslar overforing av arets resultat mot egenkapital.
+Se vedlagt arsregnskap.
+Forslag til vedtak
+Arsrapport og arsregnskap godkjennes. Arets resultat overfores mot egenkapital.
+Vedlegg
+1. 3107 Arrapport og A4rsregnskap 2025.pdf
+2. 3107 KILEN Il BORETTSLAG.pdf
+Sak 6
+Fastsettelse av honorarer
+Krav til flertall:
+Alminnelig (50%)
+Godtgjorelse for styret foreslas satt til kr 100.000.
+Forslag til vedtak
+Styrets godtgjorelse settes til kr 100.000.
+4av 19
+
+Sak 7
+Valg av tillitsvalgte
+Roller og kandidater
+Valg av 1 styremedlem Velges for 2 ar
+Felgende stiller til valg som styremediem:
+
+¢ Eirik Andre Hyrum Lieth
+Valg av 2 varamedlem Velges for 1 ar
+Velges i arsmetet
+Valg av 2 valgkomitemedlem Velges for 1 ar
+Velges i arsmetet
+Sak 8
+Valg av delegater til OBOS' generalforsamling
+Vi skal velge delegater til OBOS sin generalforsamling. Delegatene og varadelegatene sitter i ett ar.
+Roller og kandidater
+Valg av 1 delegat Velges for 1 ar
+Velges i arsmetet
+Valg av 1 varadelegat Velges for 1 ar
+Velges i arsmetet
+
+5 av 19
+
+Styrets arsrapport
+Styrets fokus i fjoraret var 4 holde utgifter og kostnader nede, for 4 ikke legge ytterligere press pa andelseierne.
+Vi har gijennomgatt gjeldende leveranderavtaler og abonnementer for a sikre at disse speiler de faktiske
+forholdene. Vi forseker sa langt det lar seg gjore a holde kostnader nede, selv om nedvendig vedlikehold ma
+utfores.
+Styret har hatt jevnlige styremeter for 4 behandle aktuelle saker samt for 4 distribuere informasjon ut til
+andelseiere og leietakere. Vi minner om at forespersler og henvendelser fra styret ma besvares.
+Styret haper pa et videre godt samarbeid med andelseiere og leietakere.
+
+6 av 19
+
+3107 Kilen Il Borettslag — Arsregnskap 2025
+Styret mener at arsregnskapet gir et riktig bilde av selskapets eiendeler og gjeld,
+finansielle stilling og resultat.
+Forutsetningen om fortsatt drift er til stede, og arsregnskapet er satt opp under denne
+forutsetning.
+Vesentlig avvik
+Driftsinntektene er hgyere enn budsjettert. Det skyldes i hovedsak at styret besluttet a gke
+felleskostnadene med 18,5% f.o.m. mai 2025. Dette var ikke budsjettert.
+Driftskostnadene er hgyere enn budsjettert. Det skyldes at det store
+rehabiliteringsprosjektet ble mer kostbart enn budsjettert. Prosjektet var ikke
+ferdigforhandlet slik at hele kostnadsrammen var ikke klar pa budsjettidspunktet.
+Resultat
+Arets resultat vises i resultatregnskapet som et underskudd og foreslas fort mot
+egenkapital. Eventuelt avdrag pa langsiktig gjeld (lan) er ikke tatt hensyn til.
+Disponible midler
+Borettslagets disponible midler (oml@psmidler fratrukket kortsikt gjeld) viser borettslagets
+likviditet. De disponible midlene bar til enhver tid veere positive, som en del av
+forutsetningene for videre drift.
+Budsjett 2026
+Posten drift og vedlikehold er budsjettert med ordinger drift.
+Budsjettet er basert pa estimerte tall, det er tatt hayde for prisokninger pa drift &
+vedlikehold i den grad det foreligger estimater.
+Felleskostnader
+Budsjettet danner grunnlaget for fastsettelsen av felleskostnader.
+Budsjettet er basert pa uendrede felleskostnader.
+For @vrig vises til de enkelte tallene i budsjettet.
+
+Vedlegg 1 7avi19 3107 Arrapport og &rsregnskap 2025.pdf
+
+2 [SNAVN]
+KILEN Il BORETTSLAG
+ORG.NR. 855019892, KLIENTNR. 3107
+INFORMASJON OM ARSREGNSKAPET
+Regnskapsloven stiller strenge krav til hvordan et regnskap skal fares og presenteres. |
+tillegg krever forskriften om arsregnskap og arsberetning i borettslag at man ma gi mer
+informasjon. Dette innebzerer blant annet at man ma gi informasjon i form av noter, og
+utarbeide en oversikt over de disponible midlene i arsregnskapet. Pa de neste sidene
+presenteres borettslagets resultatregnskap, balanse og tilhg@rende noter.
+Boligselskapets resultatregnskap gir imidlertid ikke en fullstendig oversikt over
+borettslagets disponible midler ved arsskiftet. | resultatregnskapet presenteres det en
+oversikt over borettslagets inntekter og kostnader. Det regnskapsmessige overskuddet tar
+ikke hensyn til en del viktige @konomiske forhold som pavirker borettslagets disponible
+midler. Dette gjelder for eksempel opptak og avdrag pa lan, samt kjap og salg av
+anleggsmidler. Borettslagets disponible midler er de gkonomiske midlene som borettslaget
+har til radighet, og de defineres som oml@psmidler fratrukket kortsiktig gjeld. Starrelsen pa
+de disponible midlene kan blant annet benyttes til a vurdere om det er nadvendig a endre
+sterrelsen pa innkrevde felleskostnader som den enkelte beboer betaler, og om det er
+behov for a ta opp lan eller om det er mulighet til a betale ned ekstra pa eksisterende gjeld.
+DISPONIBLE MIDLER
+
+Note 2025 2024
+A. DISP. MIDLER PR. 01.01. 1 363 095 1 074 775
+B. ENDRING | DISP. MIDLER:
+Arets resultat (se res.regnskapet) -4 521 893 377 935
+Tilbakefgring av avskrivning 12 2 49 130
+@kning annen langsiktig gjeld 15 8 985 703 0
+Fradrag for avdrag pa langs. lan 15 -4741 180 -136 884
+Innsk. gremerk. bankkto -1 655 -1 865
+B. ARETS ENDR. | DISP. MIDLER -279 024 288 316
+C. DISP. MIDLER PR. 31.12. 1 084 071 1 363 095
+SPESIFIKASJON AV DISPONIBLE MIDLER:
+Omlgpsmidler 1 098 800 1 391 659
+Kortsiktig gjeld -14 729 -28 564
+C. DISP. MIDLER PR. 31.12. 1 084 071 1 363 095
+
+Vedlegg 1 8 av 19 3107 Arrapport og &rsregnskap 2025.pdf
+
+3 [SNAVN]
+KILEN Il BORETTSLAG
+ORG.NR. 855019892, KLIENTNR. 3107
+RESULTATREGNSKAP
+Note Regnskap Regnskap Budsjett Budsjett
+2025 2024 2025 2026
+DRIFTSINNTEKTER:
+Innkrevde felleskostnader 2 2649787 2015904 2 379 000 2 787 000
+Ladeinntekter elbil 8 612 6 588 7 000 7 000
+SUM DRIFTSINNTEKTER 2658 399 2022 492 2 386 000 2 794 000
+DRIFTSKOSTNADER:
+Personalkostnader 3 -14 100 -14 100 -14 100 -14 100
+Styrehonorar 4 -100000 - -100 000 -100 000 -100 000
+Avskrivninger 12 -2 -49 130 -49 000 0
+Revisjonshonorar 5 -8 196 -6 838 -8 000 -7 500
+Forretningsf@rerhonorar -146 400 -140770 -149 000 -152 000
+Konsulenthonorar -9 230 -10 325 -12 000 -5 000
+Drift og vedlikehold 6 -5528074 -123835 -4271000 -246 000
+Forsikringer -98 147 -85 251 -86 000 -108 000
+Festeavgift -10 752 -10 752 -10 752 -10 752
+Kommunale avgifter -477 054 -450472 -518 000 -530 000
+Ladekostnader EL-bil -744 -4 526 -5 000 -5 000
+Energi/fyring 7 -58 361 -44 218 -40 000 -62 000
+TV-anlegg/bredband -175 708 -170 748 -188 000 -180 000
+Andre driftskostnader 8 -135200 -205216 -183 900 -133 900
+SUM DRIFTSKOSTNADER -6 761968 -1416180 -5634752 -1 554252
+DRIFTSRESULTAT 4103568 606312 -3 248 752 1 239 748
+FINANSINNTEKTER/-KOSTNADER:
+Finansinntekter 9 33 962 32 972 15 000 15 000
+Finanskostnader 10 -452287 -261 349 -463 000 -463 000
+RES. FINANSINNT/-KOSTNADER 418325 -228 377 -448 000 -448 000
+ARSRESULTAT -4521 893 377935 -3 696 752 791 748
+Overferinger:
+Reduksjon udekket tap: 0 377 935
+Udekket tap: -4 521 893 0
+Vedlegg 1 9 av 19 3107 Arrapport og &rsregnskap 2025.pdf
+
+4 [SNAVN]
+KILEN Il BORETTSLAG
+ORG.NR. 855019892, KLIENTNR. 3107
+BALANSE
+
+Note 2025 2024
+EIENDELER
+ANLEGGSMIDLER
+Bygninger 11 2 235 637 2 235 637
+Andre varige driftsmidler 12 0 2
+@remerkede bankinnskudd 69 664 57 929
+SUM ANLEGGSMIDLER 2 305 300 2 293 567
+OMLOPSMIDLER
+Forskuddsbetalte kostnader 7 483 7 129
+Andre kortsiktige fordringer 13 6 720 0
+Driftskonto OBOS-banken 204 368 433 827
+Sparekonto OBOS-banken 880 229 950 702
+SUM OML@PSMIDLER 1 098 800 1 391 659
+SUM EIENDELER 3 404 100 3 685 226
+EGENKAPITAL OG GJELD
+EGENKAPITAL
+Innskutt egenkapital 32 * 100 3 200 3 200
+Udekket tap 14 -5 444 185 -922 291
+SUM EGENKAPITAL -5 440 985 -919 091
+GJELD
+LANGSIKTIG GJELD
+Pante- og gjeldsbrevlan 15 8 730 226 4 485 703
+Borettsinnskudd 16 35 200 35 200
+Annen langsiktig gjeld 64 930 54 850
+SUM LANGSIKTIG GJELD 8 830 356 4 575 753
+KORTSIKTIG GJELD
+Leverande@rgjeld 3 489 17 257
+Palgpte renter 2 440 1 407
+Annen kortsiktig gjeld 17 8 800 9 900
+SUM KORTSIKTIG GJELD 14 729 28 564
+SUM EGENKAPITAL OG GJELD 3 404 100 3 685 226
+
+Vedlegg 1 10 av 19 3107 Arrapport og &rsregnskap 2025.pdf

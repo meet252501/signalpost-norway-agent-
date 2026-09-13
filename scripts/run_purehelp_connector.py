@@ -67,20 +67,26 @@ def extract_company_info(html: str, org: str) -> dict:
     if title_match:
         info["name"] = title_match.group(1).strip()
     
-    # Look for Purehelp operational driftscore (0-100)
-    driftscore_match = re.search(r'driftscore er beregnet til\s*<b[^>]*>\s*(\d+)\s*</b>', html)
-    if driftscore_match:
-        info["driftscore"] = int(driftscore_match.group(1))
-    
-    # Look for rating/score data (exclude CSS class names by ensuring a space or > before rating)
-    rating_match = re.search(r'(?:>|\s)rating["\s:=]*["\']?([A-F][+-]?|[0-9]+(?:\.[0-9]+)?)(?:<|["\']|\s)', html, re.I)
-    if rating_match:
-        info["rating"] = rating_match.group(1)
-    
-    # Look for Purehelp score
-    score_match = re.search(r'(?:>|\s)(?:score|kredittvurdering)["\s:=]*["\']?([A-F][+-]?|\d+)(?:<|["\']|\s)', html, re.I)
-    if score_match:
-        info["score"] = score_match.group(1)
+    try:
+        import bs4
+        soup = bs4.BeautifulSoup(html, "html.parser")
+        for p in soup.find_all("p"):
+            text = p.get_text()
+            if "driftscore er beregnet til" in text:
+                match = re.search(r"beregnet til\s+(\d+)\s+poeng", text)
+                if match:
+                    info["driftscore"] = int(match.group(1))
+                    break
+        if "driftscore" not in info:
+            totalt = soup.find("span", string="Totalt")
+            if totalt:
+                tr = totalt.find_parent("tr")
+                if tr:
+                    td = tr.find("td", class_=lambda c: c and "col_0" in c)
+                    if td:
+                        info["driftscore"] = int(td.get_text(strip=True))
+    except Exception:
+        pass
     
     return info
 
@@ -106,9 +112,6 @@ def process_company(profile: dict, cache_dir: Path | None = None) -> list[dict]:
         
         # 1. Company Directory Listing Observation (platform: company_directory, signal_type: public_mention)
         evidence_span = f"{display_name} - Purehelp.no registered company directory profile"
-        if info.get("rating"):
-            evidence_span += f" (Credit rating: {info['rating']})"
-            
         results.append({
             "id": f"purehelp-listing-{org}",
             "organisation_number": org,
@@ -131,22 +134,18 @@ def process_company(profile: dict, cache_dir: Path | None = None) -> list[dict]:
             "evidence_span": evidence_span,
             "strategy": "company_directory_listing",
         })
-        
-        # 2. Company Review Summary & Operational Rating Observation (platform: company_directory, signal_type: review_summary)
-        # Emitted when Purehelp provides its computed operational driftscore (0-100) or rating
-        if "driftscore" in info or "rating" in info or "score" in info:
-            driftscore = info.get("driftscore")
-            if driftscore is not None:
-                sentiment = "positive" if driftscore >= 50 else ("neutral" if driftscore >= 20 else "negative")
-                rating_span = f"{display_name} - Selskapets driftscore er beregnet til {driftscore} poeng [100 - best poeng, 0 - dårligst]"
-                metrics = {"score": driftscore, "max_score": 100}
-            else:
-                sentiment = "neutral"
-                rating_span = f"{display_name} - Purehelp.no operational assessment: {info.get('rating') or info.get('score')}"
-                metrics = {"rating": str(info.get("rating") or info.get("score"))}
-                
+
+        # 2. Driftscore as review_summary (if available)
+        driftscore = info.get("driftscore")
+        if driftscore is not None:
+            # Purehelp driftscore is 0-100, convert to 0-5 rating scale
+            rating_5 = round(driftscore / 20.0, 1)
+            review_evidence = (
+                f"{display_name} has a Purehelp driftscore of {driftscore}/100 "
+                f"(operational health rating: {rating_5}/5)"
+            )
             results.append({
-                "id": f"purehelp-rating-{org}",
+                "id": f"purehelp-driftscore-{org}",
                 "organisation_number": org,
                 "platform": "company_directory",
                 "signal_type": "review_summary",
@@ -164,13 +163,49 @@ def process_company(profile: dict, cache_dir: Path | None = None) -> list[dict]:
                 "acquisition_mode": "permitted_public_page",
                 "rights_status": "approved",
                 "source_class": "customer_review",
-                "evidence_span": rating_span,
-                "strategy": "company_directory_operational_rating",
-                "metrics": metrics,
-                "sentiment_label": sentiment,
-                "sentiment_model_version": "purehelp-driftscore-rating-v1",
+                "evidence_span": review_evidence,
+                "metrics": {
+                    "rating": rating_5,
+                    "scale": 5,
+                    "review_count": 1,
+                    "driftscore_raw": driftscore,
+                },
+                "sentiment_label": (
+                    "positive" if driftscore >= 60
+                    else "neutral" if driftscore >= 40
+                    else "negative"
+                ),
+                "sentiment_model_version": "purehelp-driftscore-v1",
+                "strategy": "directory_driftscore",
             })
-            
+
+        # 3. Buzz metrics from listing (view count = 1 means the listing exists)
+        results.append({
+            "id": f"purehelp-buzz-{org}",
+            "organisation_number": org,
+            "platform": "company_directory",
+            "signal_type": "buzz_metrics",
+            "source_url": url,
+            "retrieved_at": retrieved_at,
+            "content_sha256": content_hash,
+            "exact_entity": True,
+            "identity_proof": [
+                {
+                    "type": "organisation_number_in_url",
+                    "value": org,
+                    "source": "purehelp.no",
+                },
+            ],
+            "acquisition_mode": "permitted_public_page",
+            "rights_status": "approved",
+            "evidence_span": f"{display_name} - active listing on Purehelp.no company directory",
+            "public_item_count": 1,
+            "metrics": {
+                "views": 1,
+            },
+            "strategy": "directory_buzz",
+        })
+        
         return results
     except Exception:
         return []

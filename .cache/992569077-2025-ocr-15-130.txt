@@ -1,0 +1,497 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 653608
+Virksomheten
+Organisasjonsnummer : 992 569 077
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: RADHUSGATEN 24 AS
+Forretningsadresse: c/o Canica AS
+Tjuvholmen allé 3
+0252 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Morten Hilstad
+Dato for fastsettelse av Aarsregnskapet: 22.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 29.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 992 569 077
+
+RADHUSGATEN 24 AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Leieinntekter 4 847 824 4 723 090
+
+Annen driftsinntekt 58 756 54 878
+
+Sum inntekter 4 906 580 4 777 968
+
+Kostnader
+
+Varekostnad
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 1 1 788 132 1 562 273
+
+Annen driftskostnad 2 1 507 344 15 066 739
+
+Sum kostnader 3 295 476 16 629 012
+
+Driftsresultat 1 611 104 -11 851 044
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+i samme konsern 3 96 205
+
+Annen renteinntekt 136 406 453 804
+
+Sum finansinntekter 136 406 550 009
+
+Rentekostnad til foretak
+
+i samme konsern 3 160 137
+
+Annen rentekostnad 3 632 306 3 813 764
+
+Annen finanskostnad 10 000
+
+Sum finanskostnader 3 802 443 3 813 764
+
+Netto finans -3 666 037 -3 263 755
+
+Resultat fer skattekostnad -2 054 932 -15 114 800
+
+Skattekostnad pa resultat 4 -273 689 -3 193 324
+
+Arsresultat -1 781 243 -11 921 476
+
+Arsresultat etter
+
+minoritetsinteresser -1 781 243 -11 921 476
+
+Totalresultat -1 781 243 -11 921 476
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -1 781 243 -11 921 476
+
+Sum overferinger og
+
+disponeringer 5 -1 781 243 -11 921 476
+Utskriftsdato 29.07.2026 Organisasjonsnr 992 569 077 Side 1 av 3
+
+Organisasjonsnr: 992 569 077
+
+RADHUSGATEN 24 AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4 2 032 298 1 758 609
+
+Sum immaterielle eiendeler 2 032 298 1 758 609
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 1, 6 47 099 642 39 922 244
+
+Sum varige driftsmidler 47 099 642 39 922 244
+
+Finansielle anleggsmidler
+
+Lan til foretak i samme
+
+konsern 3
+
+Sum anleggsmidler 49 131 939 41 680 853
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 2 902 070 552 734
+
+Sum fordringer 2 902 070 552 734
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 1 043 203 8 532 643
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 043 203 8 532 643
+
+Sum omlepsmidler 3 945 273 9 085 377
+
+SUM ELENDELER 53 077 212 50 766 230
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 7 750 000 750 000
+
+Annen innskutt egenkapital 5 528 911 528 911
+
+Sum innskutt egenkapital 1 278 911 1 278 911
+
+Opptjent egenkapital
+
+Annen egenkapital 5
+
+Udekket tap 13 702 719 11 921 476
+Utskriftsdato 29.07.2026 Organisasjonsnr 992 569 077 Side 2 av 3
+
+Sum opptjent egenkapital -13 702 719 -11 921 476
+Sum egenkapital -12 423 808 -10 642 564
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 4
+Annen langsiktig gjeld
+Gjeld til
+kredittinstitusjoner 6, 8 59 900 000 60 600 000
+Langsiktig konserngjeld 3
+@vrig langsiktig gjeld 8
+Sum annen langsiktig gjeld 59 900 000 60 600 000
+Sum langsiktig gjeld 59 900 000 60 600 000
+Kortsiktig gjeld
+Leveranderg)jeld 47 719 223 846
+Betalbar skatt 4
+Skyldig offentlige avgifter 164 979
+Kortsiktig konserngjeld 3 5 160 137
+Annen kortsiktig gjeld 393 164 419 969
+Sum kortsiktig gjeld 5 601 020 808 794
+Sum gjeld 65 501 020 61 408 794
+SUM EGENKAPITAL OG GJELD 53 O77 212 50 766 230
+POSTER UTENOM BALANSEN
+Garantistillelser 6
+
+Utskriftsdato 29.07.2026 Organisasjonsnr 992 569 077 Side 3 av 3
+
+Organisasjonsnr: 992 569 077
+
+RADHUSGATEN 24 AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Radhusgaten 24 AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 992 569 077
+
+Resultatregnskap
+Radhusgaten 24 AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Leieinntekter 4 847 824 4 723 090
+Annen driftsinntekt 58 756 54 878
+Sum driftsinntekter 4906 580 4777 968
+Avskrivning av driftsmidler og immaterielle eiendeler 1 1 788 132 1 562 273
+Annen driftskostnad 2 1507 344 15 066 739
+Sum driftskostnader 3 295 476 16 629 012
+Driftsresultat 1611 104 -11 851 044
+Finansinntekter og finanskostnader
+
+Renteinntekt fra foretak i samme konsern 3 0 96 205
+Annen renteinntekt 136 406 453 804
+Rentekostnad til foretak i samme konsern 3 160 137 0
+Annen rentekostnad 3 632 306 3 813 764
+Annen finanskostnad 10 000 0
+Resultat av finansposter -3 666 037 -3 263 755
+Resultat for skattekostnad -2 054 932 -15 114 800
+Skattekostnad pa resultat 4 -273 689 -3 193 324
+Arsresultat -1 781 243 -11 921 476
+Overforinger
+
+Overfort til udekket tap 1 781 243 11 921 476
+Sum overforinger 5 -1 781 243 -11 921 476
+Radhusgaten 24 AS Side 2
+
+Balanse
+
+Radhusgaten 24 AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Utsatt skattefordel 4 2 032 298 1 758 609
+Sum immaterielle eiendeler 2 032 298 1 758 609
+Varige driftsmidier
+Tomter, bygninger 0.a. fast eiendom 1,6 47 099 642 39 922 244
+Sum varige driftsmidler 47 099 642 39 922 244
+Sum anleggsmidler 49 131939 41 680 853
+Omlopsmidler
+Fordringer
+Andre kortsiktige fordringer 2 902 070 552 734
+Sum fordringer 2 902 070 552 734
+Bankinnskudd, kontanter o.!
+Bankinnskudd, kontanter o.l. 1 043 203 8 532 643
+Sum bankinnskudd, kontanter o.| 1043 203 8 532 643
+Sum omlgepsmidler 3 945 273 9 085 377
+Sum eiendeler 53 077 212 50 766 230
+Radhusgaten 24 AS Side 3
+
+Balanse
+Radhusgaten 24 AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+innskutt egenkapital
+Aksjekapital 5,7 750 000 750 000
+Annen innskutt egenkapital 5 528 911 528 911
+Sum innskutt egenkapital 1278 911 1278911
+Udekket tap -13 702 719 -11 921 476
+Sum opptjent egenkapital -13 702 719 -11 921 476
+Sum egenkapital -12 423 808 -10 642 564
+Gjeld
+Avsetning for forpliktelser
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 6, 8 59 900 000 60 600 000
+Sum annen langsiktig gjeld 59 900 000 60 600 000
+Kortsiktig gjeld
+Leverandorgjeld 47719 223 846
+Skyldig offentlige avgifter 0 164 979
+Kortsiktig konserngjeld 3 5 160 137 0
+Annen kortsiktig gjeld 393 164 419 969
+Sum kortsiktig gjeld 5 601 020 808 794
+Sum gjeld 65 501 020 61 408 794
+Sum egenkapital og gjeld 53 077 212 50 766 230
+Oslo,
+Styret i Radhusgaten 24 AS
+Jan Ole Stangeland Ingrid Haugen Fougner Erik Ryttervoll Kvamshagen
+Styreleder Styremedlem Styremedlem
+
+Radhusgaten 24 AS Side 4
+
+Noter til regnskapet 2025
+Regnskapsprinsipper
+Selskapet driver med investering i og utleie av fast eiendom. Virksomheten foregar i Norge med
+hovedkontor i Oslo.
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Forutsetningen om fortsatt drift er lagt til grunn ved utarbeidelsen av regnskapet.
+Bruk av estimater
+Utarbeidelse av regnskap i samsvar med regnskapsloven krever bruk av estimater. Videre krever
+anvendelse av selskapets regnskapsprinsipper at ledelsen ma utove skjonn.
+Salgsinntekter
+Leieinntekter inntektsfores lineaert over leieperioden.
+Klassifisering og vurdering av balanseposter
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Anleggsmidler er vurdert til
+anskaffelseskost. Omlopsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen
+ett ar etter balansedagen, samt poster som knytter seg til varekretslapet. Omlapsmidler vurderes til
+laveste verdi av anskaffelseskost og antatt virkelig verdi.
+Fordringer klassifiseres som omlopsmidler hvis de skal tilbakebetales i lopet av ett ar. For gjeld er analoge
+kriterier lagt til grunn. Forste ars avdrag pa langsiktige fordringer og langsiktig gjeld klassifiseres likevel
+ikke som omlopsmiddel og kortsiktig gjeld. Enkelte poster er vurdert etter andre regler. Postene det
+gjelder vil vare blant de postene som omhandles nedenfor.
+Varige driftsmidler
+Varige driftsmidler balansefores og avskrives linezert til restverdi over driftsmidlenes forventede
+utnyttbare levetid. Ved endring i avskrivningsplan fordeles virkningen over gjenvaerende avskrivningstid
+("knekkpunktmetoden”). Vedlikehold av driftsmidler kostnadsfores lopende. Pakostninger eller forbedringer
+tillegges driftsmidlets kostpris og avskrives i takt med driftsmidlet. Skillet mellom vedlikehold og
+pakostning/forbedring regnes i forhold til driftsmidlets stand ved kjop av driftsmidlet. Tomter avskrives
+ikke. Utgifter til leie av driftsmidler kostnadsfores. Forskuddsbetalinger balansefores som forskuddsbetalt
+kostnad, og fordeles over leieperioden.
+Nedskrivning av anleggsmidler
+Ved indikasjon pa at balansefort verdi av et anleggsmiddel er hayere enn virkelig verdi, foretas det test for
+verdifall. Testen foretas for det laveste niva av anleggsmidler som har selvstendige kontantstrammer. Hvis
+balansefort verdi er hayere enn bade salgsverdi og gjenvinnbart belop, foretas det nedskrivning til det
+he@yeste av salgsverdi og gjenvinnbart belop. Gjenvinnbart belop er det hayeste av netto salgsverdi og
+bruksverdi. Bruksverdi er naverdi av fremtidige kontantstrammer knyttet til eiendelen. Tidligere
+nedskrivninger, med unntak for nedskrivning av goodwill, reverseres hvis grunnlaget for nedskrivningen
+ikke lenger er til stede.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til
+forventet tap. Avsetning for tap gjores pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt beregnes med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt eventuelt ligningsmessig underskudd til fremforing ved
+utgangen av regnskapsaret. Skatteskende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reversere i samme periode er utlignet og nettofort.
+Reklassifiseringer
+Enkelte poster i tidligere ar er reklassifisert for 4 oppna sammenlignbarhet med arsregnskapet for 2025.
+Radhusgaten 24 AS Side 5
+
+Noter til regnskapet 2025
+Note 1 Varige Driftsmidler
+Tomt Bygning Faste Anlegg Leietaker- Sum
+tekniske under tilpasninger
+installasjoner utforelse
+
+Anskaffelseskost 6 235 976 39 894 779 1547677 1113292 5 689 665 54 481 388
+01.01.2025
+Tilgang kjopte 0 10 078 822 O -1113 292 8 965 530
+driftsmidler
+Anskaffelseskost 6235976 49973 601 1 547 677 QO 5 689 665 63 446 918
+31.12.2025
+Akkumulerte 0 12 981 076 546 247 O 2819953 16 347 276
+avskrivinger
+31.12.2025
+Bokfert verdi 6235976 36992525 1 001 429 QO 2869711 47 099 642
+per 31.12.2025
+Arets avskrivinger 0 871 221 85 837 0 831 075 1 788 132
+Avskrivingssatser Oar 50 ar 15 ar Oar 5-8 ar
+Avskrivningsplan Avskrives ikke Linezer Linezer Avskrives ikke Linezer
+Note 2 Lannskostnader
+Selskapet har ingen ansatte. Det er ikke utbetalt noen form for godtgjgrelse til daglig leder eller styret.
+Selskapet er ikke pliktig til a knytte seg til ordning med obligatorisk tjenestepensjon.
+Note 3 Mellomvzrende med selskap i samme konsern
+Gjeld 2025 2024
+Kortsiktig konserngjeld 5 160 137 0
+Sum gjeld 5 160 137 0
+Konsernmellomvaerende renteberegnes til markedsmessige vilkar.
+Radhusgaten 24 AS Side 6
+
+Noter til regnskapet 2025
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordineert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel -273 689 -3 193 324
+Skattekostnad ordinzrt resultat -273 689 -3 193 324
+Skattepliktig inntekt:
+Resultat for skatt -2 054 932 -15 114 800
+Permanente forskjeller 0 0
+Endring i midlertidige forskjeller 1 320 558 1 336 317
+Skattepliktig inntekt -734 374 -13 778 483
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremforing som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+
+Varige driftsmidler 15 925 883 17 115 191 1 189 308
+Andre forskjeller 207 812 339 062 131 250
+Sum 16 133 695 17 454 253 1 320 558
+Akkumulert fremforbart underskudd -14 512 857 -13 778 483 734 374
+Inngar ikke i beregningen av utsatt skatt -10 858 557 -11 669 448 -810 891
+Grunnlag for utsatt skatt -9 237 719 -7 993 678 1 244041
+Utsatt skatt (22 %) -2 032 298 -1 758 609 273 689
+Note 5 Egenkapital
+
+Aksjekapital Annen innskutt Udekket tap Sum egenkapital
+
+egenkapital
+
+Pr. 01.01 750 000 528 911 -11 921 476 -10 642 564
+Arets resultat -1 781 243 -1 781 243
+Pr 31.12 750 000 528 911 -13 702 719 -12 423 808
+Selskapets aksjekapital er tapt pr 31.12.2025 og styret har vurdert selskapets situasjon. Selskapets
+eiendomsmasse besitter betydelige merverdier og styret vurderer at selskapets reelle egenkapital er
+positiv. Selskapet har i tillegg en tilfredsstillende likviditet og inngar i et konsern med betydelige
+ressurser.
+Radhusgaten 24 AS Side 7
+
+Noter til regnskapet 2025
+
+Note 6 Pantstillelser og garantier
+
+31.12.2025 31.12.2024
+Pantsikret gjeld, pantstillelser og garantier
+Langsiktig gjeld til kredittinstitusjoner 59 900 000 61 300 000
+Sum 59 900 000 61 300 000
+Regnskapsfort verdi av pantsikrede eiendeler
+Faste eiendommer 47 099 642 46 877 230
+Sum 47 099 642 46 877 230
+Radhusgaten 24 AS Side 8
+
+Noter til regnskapet 2025
+
+Note 7 Antall aksjer, aksjeeiere m
+Aksjekapital Antall Palydende Balansefort
+Ordinzre aksjer 750 1 000 750 000
+Alle aksjer gir lik rett. Det er ikke utstedt opsjoner.
+Aksjekapitalen eies av folgende aksjonzrer:
+
+Antall aksjer Eierandel
+Aksjonzrer:
+Stein Erik Hagen AS 750 100 %
+Sum 750 100 %
+Selskapet har en aksjeklasse og alle aksjer har lik stemmerett.
+Selskapet inngar i konsernet Stein Erik Hagen AS som faller inn under reglene for sma foretak og
+konsernregnskap er ikke utarbeidet i medhold av regnskapslovens § 3-2, 4. ledd.
+Note 8 Langsiktig gjeld
+Gjeld som forfaller mer enn fem ar etter regnskapsarets slutt
+
+2025 2024
+
+Gjeld til kredittinstitusjoner 59 900 000 60 600 000
+Sum 59 900 000 60 600 000
+Det er knyttet covenantskrav til lanet som er oppfylt pr 31.12.2025.
+Radhusgaten 24 AS Side 9
+
+Radhusgaten 24 AS AR 2025
+Name Date Name Date
+Fougner, Ingrid Haugen 2026-04-07 Stangeland, Jan Ole 2026-04-07
+Identification Identification
+-== bankID Fougner, Ingrid Haugen -== bankID Stangeland, Jan Ole
+Name Date
+Kvamshagen, Erik R 2026-04-07
+Identification
+=== bankID kvamshagen, Erik R
+_. This document contains electronic signatures using EU-compliant PAdES - PDF
+Signicat o |
+Advanced Electronic Signatures (Regulation (EU) No 910/2014 (elDAS))

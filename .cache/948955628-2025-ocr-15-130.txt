@@ -1,0 +1,563 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 519015
+Virksomheten
+Organisasjonsnummer : 948 955 628
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: VIK MASKIN AS
+Forretningsadresse: Manneslia 19
+7633 FROSTA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Torstein Vik
+Dato for fastsettelse av arsregnskapet: 28.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 04.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 948 955 628
+VIK MASKIN AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Inntekter
+Salgsinntekt 361 300 281 371
+Annen driftsinntekt 176 757 1
+Sum inntekter 538 O57 281 372
+Kostnader
+Varekostnad 30 408 4 000
+Avskrivning av
+driftsmidler og
+immaterielle eiendeler 1 172 169 243 458
+Annen driftskostnad 2 719 468 203 364
+Sum kostnader 922 045 450 $22
+Driftsresultat -383 988 -169 450
+Finansinntekter og
+finanskostnader
+Renteinntekt fra foretak
+i samme konsern 1 110
+Annen renteinntekt 6 987
+Annen finansinntekt 84 407 4 684
+Sum finansinntekter 85 517 11 671
+Verdireduksjon
+markedsbaserte omlepsmidler 259 007
+Rentekostnad til foretak
+i samme konsern 1 110
+Annen rentekostnad 10 390 36
+Annen finanskostnad 324 000
+Sum finanskostnader 594 507 36
+Netto finans -508 990 11 635
+Resultat fer skattekostnad -892 978 -157 815
+Skattekostnad pa resultat 3 -9 566
+Arsresultat -892 978 -148 249
+Arsresultat etter
+minoritetsinteresser -892 978 -148 249
+Totalresultat -892 978 -148 249
+Overferinger og
+disponeringer
+Avsatt til fond for
+vurderingsforskjeller 4
+Overfert fra fond for
+vurderingsforskjeller 4
+
+Utskriftsdato 04.06.2026 Organisasjonsnr 948 955 628 Side 1 av 4
+
+Ordinert utbytte 4
+
+Tilleggsutbytte 4
+
+Ekstraordinert utbytte 4
+
+Konsernbidrag 4
+
+Avgitt konsernbidrag 4
+
+Udekket tap 4, 4
+
+Avsatt til annen
+
+egenkapital 4
+
+Overfert fra annen
+
+egenkapital 4 -892 978 -148 249
+
+Sum overferinger og
+
+disponeringer -892 978 -148 249
+Utskriftsdato 04.06.2026 Organisasjonsnr 948 955 628 Side 2 av 4
+
+Organisasjonsnr: 948 955 628
+
+VIK MASKIN AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 1
+
+Maskiner og anlegg 1 236 976 615 538
+
+Skip og flytende
+
+installasjoner 1
+
+Driftslesere, inventar o.
+
+a. utstyr 1 15 000 20 000
+
+Sum varige driftsmidler 251 976 635 538
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 5
+
+Investering i annet
+
+foretak i samme konsern 5
+
+Lan til foretak i samme
+
+konsern 6
+
+Investeringer 1
+
+tilknyttet selskap 5 792 500
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 6 151 110 406 987
+
+Investeringer i aksjer og
+
+andeler 7 10 100 1 396 807
+
+Sum finansielle
+
+anleggsmidler 953 710 1 803 794
+
+Sum anleggsmidler 1 205 686 2 439 331
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 29 400 124 121
+
+Andre kortsiktige
+
+fordringer 11 549 13
+
+Sum fordringer 40 949 124 134
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 5
+
+Markedsbaserte aksjer 7 13 800
+
+Andre finansielle
+
+instrumenter 10 100
+
+Sum investeringer 13 800 10 100
+Utskriftsdato 04.06.2026 Organisasjonsnr 948 955 628 Side 3 av 4
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 897 474 161 948
+
+Sum bankinnskudd,
+
+kontanter og lignende 897 474 161 948
+
+Sum omlepsmidler 952 224 296 183
+
+SUM ELENDELER 2 157 909 2 735 514
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4, 8 30 000 30 000
+
+Beholdning av egne aksjer 8
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 4 1 757 212 2 650 190
+
+Sum opptjent egenkapital 1 757 212 2 650 190
+
+Sum egenkapital 1 787 212 2 680 190
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Andre avsetninger for
+
+forpliktelser 43 150
+
+Sum avsetninger for
+
+forpliktelser 43 150
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 6
+
+@vrig langsiktig gjeld 6 210 390
+
+Sum annen langsiktig gjeld 210 390
+
+Sum langsiktig gjeld 210 390 43 150
+
+Kortsiktig gjeld
+
+Leverandergjeld 8 298 -3 787
+
+Betalbar skatt 3
+
+Skyldig offentlige avgifter 15 961
+
+Kortsiktig konserngjeld 6 151 110
+
+Annen kortsiktig gjeld 899
+
+Sum kortsiktig gjeld 160 307 12 174
+
+Sum gjeld 370 697 55 324
+
+SUM EGENKAPITAL OG GJELD 2 157 909 2 735 514
+Utskriftsdato 04.06.2026 Organisasjonsnr 948 955 628 Side 4 av 4
+
+Organisasjonsnr: 948 955 628
+
+VIK MASKIN AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Vik Maskin AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 948 955 628
+vic ero Signing via Signing vise ny Signing
+
+Resultatregnskap
+Vik Maskin AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Salgsinntekt 361 300 281 371
+Annen driftsinntekt 176 757 1
+Sum driftsinntekter 538 057 281 372
+Varekostnad 30 408 4 000
+Avskrivning av driftsmidler og immaterielle eiendeler 1 172 169 243 458
+Annen driftskostnad 2 719 468 203 364
+Sum driftskostnader 922 045 450 822
+Driftsresultat -383 988 -169 450
+Finansinntekter og finanskostnader
+
+Renteinntekt fra foretak i samme konsern 1110 0
+Annen renteinntekt 0 6 987
+Annen finansinntekt 84 407 4 684
+Verdireduksjon markedsbaserte omlgpsmidler 259 007 0
+Rentekostnad til foretak i samme konsern 1110 0
+Annen rentekostnad 10 390 36
+Annen finanskostnad 324 000 0
+Resultat av finansposter -508 990 11 635
+Resultat for skattekostnad -892 978 -157 815
+Skattekostnad pa resultat 3 0 -9 566
+Arsresultat -892 978 -148 249
+Overferinger
+
+Overfert fra annen egenkapital 4 892 978 148 249
+Sum overforinger -892 978 -148 249
+
+Vik Maskin AS org.nr.: 948 955 628
+BankID Qualified Signing BankiD Qualified Signing BankID Qualified Signing
+
+Balanse pr. 31. desember
+Vik Maskin AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Varige driftsmidler
+Maskiner og anlegg 1 236 976 615 538
+Driftslgsore, inventar o.a. utstyr 1 15 000 20 000
+Sum varige driftsmidler 251 976 635 538
+Finansielle anleggsmidler
+Investeringer i tilknyttet selskap 5 792 500 0
+Lan til tilknyttet selskap og felles kontrollert virksomhet 6 151 110 406 987
+Investeringer i aksjer og andeler tf 10 100 1 396 807
+Sum finansielle anleggsmidler 953 710 1 803 794
+Sum anleggsmidler 1 205 686 2 439 331
+Oml@psmidier
+Fordringer
+Kundefordringer 29 400 124 121
+Andre kortsiktige fordringer 11 549 13
+Sum fordringer 40 949 124 134
+Investeringer
+Markedsbaserte aksjer 7 13 800 0
+Andre finansielle instrumenter 0 10 100
+Sum investeringer 13 800 10 100
+Bankinnskudd, kontanter o.]. 897 474 161 948
+Sum omlgpsmidler 952 224 296 183
+Sum eiendeler 2 157 909 2 735 514
+Vik Maskin AS org.nr.: 948 955 628
+BankID Qualified Signing BankiD Qualified Signing BankID Qualified Signing
+
+Balanse pr. 31. desember
+Vik Maskin AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4,8 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 4 1 757 212 2 650 190
+Sum opptjent egenkapital 1 757 212 2 650 190
+Sum egenkapital 1 787 212 2 680 190
+Gjeld
+Avsetning for forpliktelser
+Andre avsetninger for forpliktelser 0 43 150
+Sum avsetning for forpliktelser 0 43 150
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 6 210 390 0
+Sum annen langsiktig gjeld 210 390 0
+Kortsiktig gjeld
+Leverandgrgjeld 8 298 -3 787
+Skyldig offentlige avgifter 0 15 961
+Konserngjeld 6 151 110 0
+Annen kortsiktig gjeld 899 0
+Sum kortsiktig gjeld 160 307 12 174
+Sum gjeld 370 697 55 324
+Sum egenkapital og gjeld 2 157 909 2 735 514
+28.05.2026
+Styret i Vik Maskin AS
+Johnny Vik Torstein Vik Vidar Vik
+styreleder styremediem/daglig leder styremediem
+Vik Maskin AS org.nr.: 948 955 628
+BankID Qualified Signing BankiD Qualified Signing BankID Qualified Signing
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+| samsvar med regnskapsloven § 4-5 bekreftes det at forutsetningene om fortsatt drift er lagt til grunn ved
+utarbeidelsen av regnskapet og at denne forutsetningen er til stede.
+Driftsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skatteskende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofart.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til anskaffelseskost,
+fratrukket avskrivinger og nedskrivinger. Langsiktig gjeld balansefgres til nominelt belgp pa
+transaksjonstidspunktet.
+Varige driftsmidier balansefgres og avskrives over driftsmidiets gkonomiske levetid. Vesentlige driftsmidler
+som bestar av flere betydelige Komponenter med ulik levetid er dekomponert med ulik avskrivningstid for de
+ulike komponentene. Direkte vedlikehold av driftsmidler kostnadsfgres Igpende under driftskostnader, mens
+pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med driftsmidlet. Varige
+driftsmidler nedskrives til gjenvinnbart belgp ved verdifall som forventes ikke 4 veere forbigaende.
+Gjenvinnbart belgp er det hgyeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av fremtidige
+kontantstremmer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for nedskrivingen ikke lenger
+er til stede.
+Klassifisering og vurdering av omlopsmidler
+Omlgpsmidler og kortsiktig gield omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Fordringer
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Art og lokalisering
+Vik Maskin AS er et selskap der virksomheten omfatter Grunnarbeid. Selskapet er lokalisert i Frosta
+kommune.
+Vik Maskin AS Org.nr.: 948 955 628 4
+BankID Qualified Signing BankiD Qualified Signing BankID Qualified Signing
+2036-0601 2086-05-31 2036-0528
+
+Note 1 Anleggsmidler
+Maskiner Driftslasore, Sum
+og anlegg inventar ol.
+Anskaffelseskost pr. 01.01.25 1 273 997 30 000 1 303 997
++ Tilgang kj@pte driftsmidler 70 000 70 000
+- Avgang i aret 365 065 365 065
+= Anskaffelseskost 31.12.25 978 932 30 000 1 008 932
+Akkumulerte avskrivninger 31.12.25 741 956 15 000 756 956
+= Bokfart verdi 31.12.25 236 976 15 000 251 976
+Arets ordineere avskrivninger 167 169 5 000 172 169
+@konomisk levetid 0-5 ar 6 ar
+Note 2 Lonnskostnader
+Vik Maskin AS har ikke hatt lgnns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Selskapet har i 2025 sysselsatt 0 arsverk.
+Vik Maskin AS Org.nr.: 948 955 628 5
+BankID Qualified Signing BankiD Qualified Signing BankID Qualified Signing
+
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 -9 566
+Skattekostnad ordinzrt resultat 0 -9 566
+Skattepliktig inntekt:
+Resultat for skatt -892 978 -157 815
+Permanente forskjeller 909 994 0
+Endring i midlertidige forskjeller 17 287 87 045
+Anvendelse av fremfgrbart underskudd -94 302 0
+Skattepliktig inntekt 0 -70 770
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt og
+utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Varige driftsmidler 27 452 9 883 -17 569
+Fordringer -117 600 0 117 600
+Gevinst — og tapskonto 81 622 102 028 20 406
+Avsetninger mv 0 -43 150 -43 150
+Sum -8 526 68 761 77 287
+Akkumulert fremfgrbart underskudd -114 299 -208 601 -94 302
+Inngar ikke i beregningen av utsatt skatt 122 824 139 840 17 016
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 4 Egenkapital
+
+Annen Sum
+SA sjekapital egenkapital egenkapital
+Pr. 31.12.2024 30000 2650190 2680 190
+Pr. 01.01.2025 30000 2650190 2680190
+Arets underskudd -892 978 -892 978
+Pr. 31.12.2025 30000 1757212 1787212
+| samsvar med regnskapsloven § 4-5 bekreftes det at forutsetningene om fortsatt drift er lagt til grunn ved
+utarbeidelse av regnskapet og at denne forutsetningen er til stede.
+Vik Maskin AS Org.nr.: 948 955 628 6
+BankID Qualified Signing BankiD Qualified Signing BankID Qualified Signing
+
+Note 5 Datterselskap, TS og FKV
+Kontor- Eier- Anskaffelses Balansefort Andel Andel
+kommune andel kost verdi egenkapital _resultat
+DS/FKV/TS
+Frosta Pukk Og FROSTA 50,0% 777 500 777 500 1213486 440414
+Graveservice AS
+LF Nord AS TRONDHEIM 50,0% 15 000 15 000 -3565  -12 190
+Sum 792 500 792 500 1209922 428225
+Sum verdipapirer 792 500 792 500 1209922 428225
+Note 6 Mellomvzrende med selskap i samme konserniftilknyttet selskap
+2025 2024
+Fordringer
+Lan til LF Nord AS 151 110 0
+Lan til Frent AS 0 406 987
+Sum 151 110 406 987
+Gjeld
+Lan fra Heli-Holding AS 210 390 0
+Lan fra Frosta Pukk og Graveservice AS 151 110 0
+Sum 361 500 0
+Som fglge av konkurs i Frent AS er fordringen vurdert som tapt og tapsfert i sin helhet.
+Note 7 Verdipapirer
+Anskaffelses Balansefort
+kost verdi
+Anleggsmidler
+Produsentpakkeriet Trgndelag AS 10 000 10 000
+Rec Silicon ASA 272 807 272 807
+Sum 282 807 282 807
+Sum verdipapirer 282 807 282 807
+Frent AS er konkurs, og aksjene er derfor tapsfert i sin helhet.
+Vik Maskin AS Org.nr.: 948 955 628 7
+BankID Qualified Signing BankiD Qualified Signing BankID Qualified Signing
+
+Note 8 Aksjonzrer
+Aksjekapitalen i Vik Maskin AS pr. 31.12 bestar av:
+Antall Palydende Bokfort
+
+Ordineere aksjer 10 3 000,0 30 000
+Sum 10 30 000
+Eierstruktur
+De stgrste aksjoneerene i % pr. 31.12 var:
+
+Ordinzere Eierandel Stemmeandel
+Torstein Vik 5 50,0 50,0
+Vidar Vik 3 30,0 30,0
+M19 HOLDING AS 2 20,0 20,0
+Totalt antall aksjer 10 100,0 100,0
+Aksjer eiet av medlemmer i styret og daglig leder:
+Navn Verv Type eierskap Eid gjennom Ordinzre
+Torstein Vik styremediem/dagli Direkte 5
+
+g leder
+Vidar Vik styremediem Direkte 3
+Johnny Vik styreleder Indirekte M19 HOLDING AS 2
+Totalt antall aksjer 10
+Vik Maskin AS Org.nr.: 948 955 628 8
+BankID Qualified Signing BankiD Qualified Signing BankID Qualified Signing

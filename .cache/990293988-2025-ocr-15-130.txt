@@ -1,0 +1,426 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 455173
+Virksomheten
+Organisasjonsnummer : 990 293 988
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: TJENNET AS
+Forretningsadresse: Kirkegata 4
+2609 LILLEHAMMER
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Formue Accounting AS
+Dato for fastsettelse av Aarsregnskapet: 18.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 990 293 988
+
+TJENNET AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Avkastning pa
+
+finansinvesteringer 1 1 019 487 18 490
+
+Sum inntekter 1 019 487 18 490
+
+Kostnader
+
+Annen driftskostnad 2 123 672 97 333
+
+Sum kostnader 123 672 97 333
+
+Driftsresultat 895 815 -78 843
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+i samme konsern 149 495
+
+Annen renteinntekt 120 010 -14 623
+
+Sum finansinntekter 120 010 134 872
+
+Netto finans 120 010 134 872
+
+Resultat fer skattekostnad 1 015 826 56 029
+
+Skattekostnad pa resultat 3 36 701 21 531
+
+Arsresultat 979 125 34 498
+
+Arsresultat etter
+
+minoritetsinteresser 979 125 34 498
+
+Totalresultat 979 125 34 498
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 2 605 953
+
+Avsatt til annen
+
+egenkapital -1 626 828 34 498
+
+Sum overferinger og
+
+disponeringer 4 979 125 34 498
+Utskriftsdato 20.05.2026 Organisasjonsnr 990 293 988 Side 1 av 3
+
+Organisasjonsnr: 990 293 988
+
+TJENNET AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 5 3 461 591 3 461 591
+
+Lan til foretak i samme
+
+konsern 6 1 025 534 1 933 413
+
+Investeringer 1
+
+tilknyttet selskap 5 405 000 405 000
+
+Sum finansielle
+
+anleggsmidler 7 4 892 125 5 800 004
+
+Sum anleggsmidler 4 892 125 5 800 004
+
+Omlepsmidler
+
+Varer
+
+Investeringer
+
+Omlepsaksjer og -aksjefond 8 5 289 165 3 551 716
+
+Obligasjoner og
+
+pengemarkedsfond 8 971 014 1 536 897
+
+Sum investeringer 6 260 179 5 088 613
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 1 010 271 277 223
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 010 271 277 223
+
+Sum omlepsmidler 7 270 450 5 365 836
+
+SUM ELENDELER 12 162 575 11 165 840
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4 110 000 110 000
+
+Overkurs 4 2 605 953 2 605 953
+
+Sum innskutt egenkapital 2 715 953 2 715 953
+
+Opptjent egenkapital
+
+Annen egenkapital 4 6 784 350 8 411 178
+
+Sum opptjent egenkapital 6 784 350 8 411 178
+Utskriftsdato 20.05.2026 Organisasjonsnr 990 293 988 Side 2 av 3
+
+Sum egenkapital 9 500 303 11 127 131
+Kortsiktig gjeld
+
+Leverandergjeld 780
+Betalbar skatt 3 36 701 21 531
+Utbytte 2 605 953
+
+Annen kortsiktig gjeld 19 619 16 398
+Sum kortsiktig gjeld 2 662 273 38 709
+Sum gjeld 2 662 273 38 709
+SUM EGENKAPITAL OG GJELD 12 162 575 11 165 840
+
+Utskriftsdato 20.05.2026 Organisasjonsnr 990 293 988 Side 3 av 3
+
+Organisasjonsnr: 990 293 988
+
+TJENNET AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+TJENNET AS
+org. nr. 990 293 988
+Utarbeidet av Formue Accounting AS
+
+TJENNET AS
+RESULTATREGNSKAP 01.01. - 31.12.
+
+Note 2025 2024
+DRIFTSINNTEKTER
+Avkastning pa finansinvesteringer 1 1019 487 18 490
+SUM DRIFTSINNTEKT 1 019 487 18 490
+DRIFTSKOSTNADER
+Annen driftskostnad 2 (123 672) (97 333)
+SUM DRIFTSKOSTNAD (123 672) (97 333)
+DRIFTSRESULTAT 895 815 (78 843)
+FINANSPOSTER
+Renteinntekt fra foretak i samme konsern 0 149 495
+Annen renteinntekt 120 010 (14 623)
+SUM FINANSPOSTER 120 010 134 872
+ORDINART RESULTAT FOR SKATTEKOSTNAD 1015 826 56 029
+Skattekostnad pa resultat 3 (36 701) (21 531)
+ARSRESULTAT 979 125 34 498
+DISPONERING (DEKNING) AV ARSRESULTATET
+Foreslatt utbytte 2 605 953 0
+Avsatt til annen egenkapital (1 626 828) 34 498
+SUM DISPONERT (DEKKET) 4 979 125 34 498
+
+TJENNET AS
+BALANSE PR. 31.12.
+
+Note 2025 2024
+EIENDELER
+ANLEGGSMIDLER
+Finansielle anleggsmidler
+Investeringer i datterselskap 5 3 461591 3 461591
+Lan til foretak i samme konsern 6 1025 534 1 933 413
+Investeringer i tilknyttet selskap 5 405 000 405 000
+Sum finansielle anleggsmidler 7 4892125 5 800 004
+SUM ANLEGGSMIDLER 4892125 5 800 004
+OML@PSMIDLER
+Finansielle oml¢@psmidler
+Oml@psaksjer og -aksjefond 8 5 289 165 3551 716
+Obligasjoner og pengemarkedsfond 8 971 014 1 536 897
+Sum finansielle oml¢@psmidler 6 260 179 5 088 613
+Bankinnskudd, kontanter o.1. 1010 271 277 223
+SUM OML@PSMIDLER 7 270 450 5 365 836
+SUM EIENDELER 12 162 575 11 165 840
+
+TJENNET AS
+BALANSE PR. 31.12.
+
+Note 2025 2024
+EGENKAPITAL OG GJELD
+EGENKAPITAL
+Innskutt egenkapital
+Aksjekapital 4 110 000 110 000
+Overkurs 4 2 605 953 2 605 953
+Sum innskutt egenkapital 2 715 953 2 715 953
+Opptjent egenkapital
+Annen egenkapital 4 6 784 350 8 411178
+Sum opptjent egenkapital 6 784 350 8 411178
+SUM EGENKAPITAL 9 500 303 11 127 131
+GJELD
+Kortsiktig gjeld
+Leverand@grgjeld 0 780
+Betalbar skatt 3 36 701 21531
+Utbytte 2 605 953 0
+Annen kortsiktig gjeld 19 619 16 398
+Sum kortsiktig gjeld 2 662 273 38 709
+SUM GJELD 2 662 273 38 709
+SUM EGENKAPITAL OG GJELD 12 162 575 11 165 840
+
+OSLO, 18.05.2026
+Jonas Mikael Karlsen
+styreleder
+
+TJENNET AS
+
+NOTER TIL ARSREGNSKAPET 2025
+REGNSKAPSPRINSIPPER
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som omlgpsmidler. Fordringer som skal tilbakebetales innen ett ar, er uansett
+klassifisert som oml@psmidler. Ved klassifisering av kortsiktig og langsiktig gjeld er tilsvarende
+kriterier lagt til grunn.
+Anleggsmidler
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet
+forventes ikke a vere forbigaende. Nedskrivingen reverseres nar grunnlaget for nedskrivingen ikke
+lenger er til stede. Anleggsmidler med begrenset ¢konomisk levetid avskrives planmessig.
+Omlg@psmidler
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansef¢res til nominelt mottatt belgp pa etableringstidspunktet.
+Investeringer i aksjer, andeler og andre finansielle instrumenter
+Kortsiktige plasseringer (aksjer, andeler mv. vurdert som oml@psmidler) vurderes til laveste av
+anskaffelseskost og virkelig verdi pa balansedagen. For verdipapirer som er en del av en
+veldiversifisert portefalje med innslag av ulike aktivaklasser der portefgljen forvaltes samlet med
+hensyn pa risiko og avkastning, benyttes laveste verdis prinsipp samlet for portefgljen.
+Inntektsfgring av avkastning pa investeringer
+Avkastning pa investering i aksjer, andeler og andre finansielle instrumenter, samt mottatt utbytte
+og andre utdelinger, inngar i avkastning pa finansinvesteringer under driftsinntekter. Avkastning
+inkluderer bade realiserte og urealiserte resultatfgrte belgp, renter pa obligasjoner og
+pengemarkedsfond og valutaendringer knyttet til investeringer. Negativ avkastning (resultatfgrte
+tap og nedskriving) kommer til fradrag. Netto negativ avkastning inngar i negativ avkastning pa
+finansinvesteringer under driftskostnader.
+Investeringer i datterselskap
+Investeringer i datterselskap verdsettes til anskaffelseskost. De ordinzere vurderingsreglene for
+anleggsmidler benyttes. Utbytte medtas i resultatregnskapet nar det er avsatt i datterselskapet.
+Investeringer i tilknyttede selskap
+Investeringer i tilknyttede selskap virksomhet verdsettes til anskaffelseskost. De ordinzere
+vurderingsreglene for anleggsmidler benyttes. Utbytte inntektsfgres nar det mottas.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt/skattefordel er beregnet med 22% pa grunnlag av de midlertidige forskjeller
+som eksisterer mellom regnskapsmessige og skattemessige verdier. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode er
+
+TJENNET AS
+
+NOTER TIL ARSREGNSKAPET 2025
+utlignet. Utsatt skattefordel er i samsvar med god regnskapsskikk for sma foretak unnlatt
+balansef@rt.
+NOTE 1 SAMMENSLATTE POSTER
+Positiv / Negativ avkastning finansinvesteringer 2025 2024
+Mottatt utbytte / renter obligasjoner og pengemarkedsfond 661 479 6 256
+Realisert gevinst / tap finansinvesteringer 358 008 60 438
+Urealisert resultatfgrt verdiendring pa finansinvesteringer 0 -48 204
+Sum 1 019 487 18 490
+NOTE 2 LONNSKOSTNADER, GODTGJ@RELSER MM
+Lénnskostnader 2025 2024
+Sum 0 0
+Selskapet har i 2025 sysselsatt O arsverk.
+
+TJENNET AS
+NOTER TIL ARSREGNSKAPET 2025
+
+NOTE 3 SKATT
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 36 701 21531
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 36 701 21531
+Skattepliktig inntekt:
+Resultat f@r skatt 1015 826 56 029
+Permanente forskjeller -849 002 41 838
+Skattepliktig inntekt 166 823 97 867
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 36 701 21531
+Sum betalbar skatt i balansen 36 701 21531
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte
+skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Utsattskatt(22%) 0
+NOTE 4 EGENKAPITAL
+
+Annen Sum
+
+Egenkapital Aksjekapital Overkurs egenkapital egenkapital
+01.01.2025 110 000 2 605 953 8 411178 11127 131
+Arets resultat 0 0 979 125 979 125
+Tilleggsutbytte -2 605 953 -2 605 953
+31.12.2025 110 000 2 605 953 6 784 350 9 500 303
+
+TJENNET AS
+NOTER TIL ARSREGNSKAPET 2025
+NOTE 5 DATTERSELSKAP, TS OG FKV
+Kontor- Eier- Anskaffelses Balansefort
+kommune andel kost verdi
+DS/FKV/TS
+Innlandet Nzeringsmegling AS LILLEHAMMER 45,0% 405 000 405 000
+Venabu Hytter AS RINGEBU 51,7% 3 461591 3 461591
+Sum 3 866 591 3 866 591
+NOTE 6 MELLOMVAERENDE MED KONSERN- OG TILKNYTTEDE SELSKAP
+2025 2024
+Fordringer
+Lan til foretak i samme konsern 1025 534 1 933 413
+Sum 1025 534 1 933 413
+NOTE 7 LANGSIKTIGE VERDIPAPIRER
+Anskaffelses Balansefgrt
+kost verdi
+Anleggsmidler
+ludo Group AS(K) TOO OG
+Sum 100 000
+NOTE 8 INVESTERINGER I AKSJER, ANDELER OG ANDRE FINANSIELLE INSTRUMENTER
+Balansefgrt Virkelig
+Anskaffelses verdi verdi Uinnkalt
+Investeringer kost 31.12.2025 31.12.2025 _—_ansvar*)
+Oml@psaksjer og -aksjefond 5 289 165 5 289 165 5 983 436 177 497
+Obligasjoner og pengemarkedsfond 971014 971014 1 042 196 0
+Sum 6 260 179 6 260 179 7 025 632 177 497
+*) Uinnkalt ansvar er pa tidspunktet for avleggelse av regnskapet.
+
+TJENNET AS
+NOTER TIL ARSREGNSKAPET 2025
+NOTE 9 VIRKSOMHETEN
+Selskapets virksomhet er investering i verdipapirer, andre selskap og hva som naturlig faller inn
+under dette. Selskapets hovedkontor er i LILLEHAMMER.
+
+Arsregnskap 2025
+TJENNET AS
+org. nr. 990 293 988
+Utarbeidet av Formue Accounting AS

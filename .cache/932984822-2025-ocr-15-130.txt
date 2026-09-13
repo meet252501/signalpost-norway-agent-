@@ -1,0 +1,508 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 346681
+Virksomheten
+Organisasjonsnummer : 932 984 822
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: HAUGEN ANLEGG OG TRANSPORT AS
+Forretningsadresse: Solbakken 25
+9152 S@RKJOSEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Frank Thomas Haugen
+Dato for fastsettelse av arsregnskapet: 18.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 21.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 932 984 822
+
+HAUGEN ANLEGG OG TRANSPORT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 2 554 602 1 269 181
+
+Annen driftsinntekt -291 000 0
+
+Sum inntekter 2 263 602 1 269 181
+
+Kostnader
+
+Varekostnad 255 303 70 870
+
+Lennskostnad 3, 4 1 258 622 556 189
+
+Avskrivning pa varige
+
+driftsmidler 5 55 427 18 333
+
+Annen driftskostnad 924 630 350 016
+
+Sum kostnader 2 493 982 995 408
+
+Driftsresultat -230 380 273 773
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 111 0
+
+Sum finansinntekter 111 e)
+
+Annen rentekostnad 65 985 10 028
+
+Annen finanskostnad 274 0
+
+Sum finanskostnader 66 259 10 028
+
+Netto finans -66 148 -10 028
+
+Resultat fer skattekostnad -296 528 263 745
+
+Skattekostnad 43 363 0
+
+Arsresultat -339 891 263 745
+
+Arsresultat etter
+
+minoritetsinteresser -339 891 263 745
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -339 891 263 745
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -76 146 0
+
+Overferinger til/fra
+
+annen egenkapital -263 745 263 745
+
+Sum overferinger og
+
+disponeringer -339 891 263 745
+Utskriftsdato 21.03.2026 Organisasjonsnr 932 984 822 Side 1 av 3
+
+Organisasjonsnr: 932 984 822
+HAUGEN ANLEGG OG TRANSPORT AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Maskiner og anlegg 5 49 135 0
+Driftslesere, inventar,
+verkt@y, kontormaskiner 5 90 989 343 667
+Sum varige driftsmidler 140 124 343 667
+Finansielle anleggsmidler
+Andre langsiktige
+fordringer 196 168 0
+Sum finansielle
+anleggsmidler 196 168 0
+Sum anleggsmidler 336 292 343 667
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Kundefordringer 232 016 81 250
+Andre kortsiktige
+fordringer 82 807 14 955
+Sum fordringer 314 823 96 205
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 40 990 257 484
+Sum bankinnskudd,
+kontanter og lignende 40 990 257 484
+Sum omlepsmidler 355 813 353 689
+SUM ELENDELER 692 105 697 356
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 21.03.2026 Organisasjonsnr 932 984 822 Side 2 av 3
+
+Aksjekapital
+(selskapskapital) 30 000 30 000
+Annen innskutt egenkapital -5 784 -5 784
+Sum innskutt egenkapital 24 216 24 216
+Opptjent egenkapital
+Annen egenkapital 0 263 746
+Udekket tap 76 146 0
+Sum opptjent egenkapital -76 146 263 746
+Sum egenkapital -51 930 287 962
+Gjeld
+Langsiktig gjeld
+Sum avsetninger for
+forpliktelser 0 0
+Annen langsiktig gjeld
+Konvertible lan 84 105 0
+Obligasjonslan 200 000 0
+Gjeld til
+kredittinstitusjoner 211 570 244 084
+Sum annen langsiktig gjeld 495 675 244 084
+Sum langsiktig gjeld 495 675 244 084
+Kortsiktig gjeld
+Leverandergjeld 70 329 54 888
+Skyldig offentlige avgifter 58 674 54 339
+Annen kortsiktig gjeld 119 357 56 083
+Sum kortsiktig gjeld 248 360 165 310
+Sum gjeld 744 035 409 394
+SUM EGENKAPITAL OG GJELD 692 105 697 356
+POSTER UTENOM BALANSEN
+Garantistillelser 106 000
+
+Utskriftsdato 21.03.2026 Organisasjonsnr 932 984 822 Side 3 av 3
+
+Organisasjonsnr: 932 984 822
+
+HAUGEN ANLEGG OG TRANSPORT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Serkjosen
+
+Virksomhetens art
+
+Selge varer og tjenester innen
+
+grunnarbeid - og annet som naturlig sammenfaller med dette - samt
+
+deltakelse i andre selskaper, investeringer og nerliggende virksomhet.
+Note
+2
+Er det usikkerhet om fortsatt drift?: Nei
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre
+drift forutsetter at selskapet oppnar planlagt inntektsvekst. Arsregnskapet
+er avlagt under forutsetning om fortsatt drift. Selskapet har ved avleggelse
+av arsregnskap i 2026 inngatt flere avtaler som vil gi en positiv vekst for
+aret.
+Note
+3
+Antall Aarsverk i regnskapsaret
+2.00
+Note
+4
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+1220107.00 542522.00
+Pensjonskostnader Arets Fjorarets
+28705.00 5510.00
+Andre ytelser Arets Fjorarets
+9810.00 8157.00
+Sum lennskostnader Arets Fjorarets
+1258622.00 556189.00
+Note
+5
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+362000.00
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+182013.00
+Avgang i aret Varige driftsmidler  Immaterielle eiend.
+389113.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+154900.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+
+14775.00
+
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+140125.00
+
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+55427.00
+
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap 2025
+Haugen Anlegg og Transport AS
+(932 984 822)
+&:.
+Haugen Anlegg og Transport AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 2 554 602 1 269 181
+
+Annen driftsinntekt -291 000 (@)
+Sum driftsinntekter 2263602 1269181
+Driftskostnader
+
+Varekostnad 255 303 70 870
+
+Lennskostnad 3,4 1 258 622 556 189
+
+Avskrivning pa varige driftsmidler 5 55 427 18 333
+
+Annen driftskostnad 924 630 350 016
+Sum driftskostnader 2 493 982 995 408
+Driftsresultat -230 380 273773
+Finansinntekter
+
+Annen renteinntekt 111 @)
+Sum finansinntekter 111 0
+Finanskostnader
+
+Annen rentekostnad 65 985 10 028
+
+Annen finanskostnad 274 @)
+Sum finanskostnader 66 259 10028
+Netto finans -66 148 -10 028
+Resultat for skatt -296 528 263 745
+Skattekostnad 43 363 0
+Arsresultat -339 891 263745
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital -263 745 263 745
+
+Udekket tap -76 146 0)
+Sum overferinger og disponeringer -339 891 263 745
+
+Haugen Anlegg og Transport AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Varige driftsmidler
+
+Maskiner og anlegg 5 49135 0
+
+Driftslos@re, inventar, verktay, kontormaskiner 5 90 989 343 667
+Sum varige driftsmidler 140124 343 667
+Finansielle anieggsmidler
+
+Andre langsiktige fordringer 196 168 0
+Sum finansielle anleggsmidler 196 168 0
+Sum anleggsmidler 336 292 343 667
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 82 807 14955
+
+Kundefordringer 232 016 81 250
+Sum fordringer 314 823 96 205
+Bankinnskudd, kontanter o.l. 40990 257 484
+Sum omlepsmidler 355 813 353 689
+Sum eiendeler 692105 697 356
+
+Haugen Anlegg og Transport AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 30 000 30 000
+Annen innskutt egenkapital -5 784 -5 784
+Sum innskutt egenkapital 24 216 24 216
+Opptjent egenkapital
+Annen egenkapital 0 263 746
+Udekket tap -76 146 @)
+Sum opptjent egenkapital -76 146 263 746
+Sum egenkapital -51930 287962
+Gijeld
+Annen langsiktig gjeld
+Konvertible lan, langsiktig 84 105 @)
+Obligasjonslan, langsiktig 200 000 @)
+Gjeld til kredittinstitusjoner, langsiktig 211 570 244 084
+Sum annen langsiktig gjeld 495 675 244 084
+Kortsiktig gjeld
+Leverande@rgjeld 70 329 54 888
+Skyldig offentlige avgifter 58 674 54 339
+Annen kortsiktig gjeld 119 357 56 083
+Sum kortsiktig gjeld 248 360 165 310
+Sum gjeld 744035 409394
+Sum egenkapital og gjeld 692105 697 356
+Haugen Anlegg og Transport AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Sorkjosen
+Virksomhetens art
+Selge varer og tjenester innen grunnarbeid - og annet som naturlig sammenfaller med dette -
+samt deltakelse i andre selskaper, investeringer og nzerliggende virksomhet.
+Note 2: Usikkerhet rundt fortsatt drift
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre drift forutsetter at
+selskapet oppnar planlagt inntektsvekst. Arsregnskapet er avlagt under forutsetning om fortsatt
+drift. Selskapet har ved avleggelse av arsregnskap i 2026 inngatt flere avtaler som vil gi en
+positiv vekst for aret.
+Note 3: Arsverk
+Antall arsverk er 2.
+
+Haugen Anlegg og Transport AS Arsregnskap Side 5 av6
+
+Note 4: Lonnskostnader
+2025 2024
+Lenn 1 220107 542 522
+Arbeidsgiveravgift @) @)
+Pensjon 28 705 5 510
+Andre ytelser 9 810 8157
+Sum lonnskostnader 1 258 622 556 189
+Note 5: Anleggsmidler
+Varige driftsmidler
+Anskaffelseskost 01.01 362 000
++ Kjop og annen tilgang i ar 182 013
+- Salg og annen avgang i ar 389 113
+= Anskaffelseskost 31. desember 154 900
+- Sum avskrivninger og nedskrivninger 14775
+= Balansefort verdi per 31.12. 140 125
+Arets avskrivninger og nedskrivninger 55 427
+Haugen Anlegg og Transport AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Anbjern Jonny Salamonsen <post@maisconsult.no>
+Elektronisk signering
+FRANK THOMAS HAUGEN (Daglig leder,
+Styreleder)
+03.05.1996
+© Signert
+19.03.2026 11:53 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 19.03.2026 11:53:28

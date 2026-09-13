@@ -1,0 +1,554 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 641278
+Virksomheten
+Organisasjonsnummer : 915 308 775
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: HIMA SEAFOOD RJUKAN AS
+Forretningsadresse: Hydroparken 270
+3660 RJUKAN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Erik Ponterius
+Dato for fastsettelse av arsregnskapet: 29.06.2026
+Revis jon
+Ekstern autorisert regnskapsfoerer har i
+lg@pet av regnskapsaret bistatt ved den
+lg@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 915 308 775
+
+HIMA SEAFOOD RJUKAN AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Revenue 49 593 092
+
+Sum inntekter 49 593 092
+
+Kostnader
+
+Raw materials and
+
+consumables used 198 267 893 5 367 472
+
+Employee benefits expense 2 2 589 479
+
+Depreciation and
+
+amortisation expenses 3 50 893 702 19 684 104
+
+Other operating expences 82 222 375 58 880 273
+
+Sum kostnader 333 973 449 83 931 850
+
+Driftsresultat -284 380 357 -83 931 850
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 461 843 1 634 673
+
+Other financial income 8 917
+
+Sum finansinntekter 470 760 1 634 673
+
+Annen rentekostnad 52 198 794 31 357
+
+Other financial expenses 275 39 619
+
+Sum finanskostnader 52 199 069 70 975
+
+Netto finans -51 728 309 1 563 698
+
+Resultat fer skattekostnad -336 108 666 -82 368 152
+
+Arsresultat -336 108 666 -82 368 152
+
+Arsresultat etter
+
+minoritetsinteresser -336 108 666 -82 368 152
+
+Totalresultat -336 108 666 -82 368 152
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -336 108 666 -82 368 152
+
+Sum overferinger og
+
+disponeringer -336 108 666 -82 368 152
+Utskriftsdato 27.07.2026 Organisasjonsnr 915 308 775 Side 1 av 3
+
+Organisasjonsnr: 915 308 775
+
+HIMA SEAFOOD RJUKAN AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Software 233 784
+
+Sum immaterielle eiendeler 233 784
+
+Varige driftsmidler
+
+Asset under construction 1 683 489 203
+
+Buildings and fixed
+
+installations 3.183 454 698 1128 741 975
+
+Equipment and other
+
+movables 1 311 818 820 743
+
+Sum varige driftsmidler 3, 7 3 184 766 516 2 813 051 921
+
+Sum anleggsmidler 3 185 000 300 2 813 051 921
+
+Omlepsmidler
+
+Varer
+
+Sum varer 88 151 443 36 512 740
+
+Fordringer
+
+Accounts receivables 17 415 258
+
+Other short-term
+
+receivables 24 918 722 59 561 016
+
+Sum fordringer 42 333 980 59 561 016
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Cash and cash equivalents 13 621 068 121 086 536
+
+Sum bankinnskudd,
+
+kontanter og lignende 13 621 068 121 086 536
+
+Sum omlepsmidler 144 106 491 217 160 292
+
+SUM ELENDELER 3 329 106 791 3 030 212 213
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Share capital 6 2 764 031 2 143 362
+
+Overkurs 1 608 540 394 1 201 539 146
+
+Annen innskutt egenkapital 227 112 164 179 485 003
+
+Sum innskutt egenkapital 1 838 416 589 1 383 167 511
+
+Opptijent egenkapital
+
+Udekket tap 465 245 494 129 136 829
+Utskriftsdato 27.07.2026 Organisasjonsnr 915 308 775 Side 2 av 3
+
+Sum opptjent egenkapital -465 245 494 -129 136 829
+
+Sum egenkapital 5 1 373 171 094 1 254 030 683
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 7, 8 870 276 329 660 237 673
+
+Other non-current
+
+liabilities 7, 9 981 606 043 986 034 736
+
+Sum annen langsiktig gjeld 1 851 882 372 1 646 272 410
+
+Sum langsiktig gjeld 1 851 882 372 1 646 272 410
+
+Kortsiktig gjeld
+
+SertifikatlAan 7, 11, 12
+
+Leverandergjeld 103 465 246 128 264 121
+
+Public duties payable 239 135
+
+Other current liabilities 348 943 1 645 000
+
+Sum kortsiktig gjeld 104 053 324 129 909 121
+
+Sum gjeld 1 955 935 696 1 776 181 530
+
+SUM EGENKAPITAL OG GJELD 3 329 106 791 3 030 212 213
+Utskriftsdato 27.07.2026 Organisasjonsnr 915 308 775 Side 3 av 3
+
+Organisasjonsnr: 915 308 775
+
+HIMA SEAFOOD RJUKAN AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.42
+
+Var dato Din/Deres dato Saksbehandler
+o 12.05.2025 10.04.2025 Lars Waaltorp
+800 80 000 Din/Deres referanse Telefon
+Skatteetaten Skatteetaten.no 90833418
+Org.nr Var referanse Postadresse
+974761076 2025/5123295 Postboks 9200 Grenland
+0134 OSLO
+HIMA SEAFOOD RJUKAN AS
+Att.Erik Ponterius
+c/o Vika kontorfellesskap, Postboks 1846 Vika
+0123 OSLO
+Norge
+Tillatelse til 4 utarbeide arsregnskap og arsberetning pa engelsk for
+_ Hima Seafood Rjukan AS, org.nr. 915 308 775
+Vi viser til deres brev av 10. april 2025 der det sokes om dispensasjon fra kravet til a
+utarbeide arsregnskap og arsberetning pa norsk for Hima Seafood Rjukan AS.
+Skattekontoret gir pa bakgrunn av en konkret helhetsvurdering Hina Seafood Rjukan AS
+dispensasjon fra kravet til a utarbeide arsregnskap og arsberetning pa norsk, jf.
+regnskapsloven § 3-4 tredje ledd. Dispensasjonen gjelder sa lenge opplysningene som
+danner grunnlaget for vedtaket ikke endres vesentlig.
+Kopi av dette brevet ma sendes til Regnskapsregisteret i Branngysund sammen med
+arsregnskapet. Den regnskapspliktige ma selv dokumentere ved dette brev at tillatelse er
+gitt.
+Bakgrunn
+Hima Seafood Rjukan AS har norske og utenlandske profesjonelle eiere. Selskapet har
+som formal "Oppdrett av matfisk i landbasert anlegg, samt alt hva hermed star i
+forbindelse, herunder deltagelse i andre virksomheter." Kundene vil hovedsakelig veere
+norske og utenlandske bedriftskunder. Styrelederen og et av styremedilemmene i
+selskapet er utenlandske.
+Skattekontorets vurdering
+Etter regnskapsloven § 3-4 tredje ledd skal "arsregnskapet og arsberetningen [...] veere
+pa norsk. Departementet kan ved [...] enkeltvedtak bestemme at arsregnskapet og/eller
+arsberetningen kan veere pa et annet sprak.”
+| Ot. prp. nr. 42 (1997-1998) Om lov om arsregnskap mv., er det uttalt falgende om
+regnskapslovens formal, jf. pkt. 1.1:
+"Regjeringen har som siktemal at regnskapsloven skal bidra til informative
+regnskaper for ulike grupper av regnskapsbrukere. Regnskapsbrukerne er dels
+investorer og kreditorer som tilfgrer kapital til foretakene, og dels andre grupper
+Side 1/2
+
+som har interesse av a vite hvordan foretaket drives, f.eks. de ansatte og
+lokalsamfunnet. Informasjonen til kapitalmarkedet skal gi grunnlag for riktig prising
+av finansielle objekter. Riktig prisdannelse pa aksjer er en forutsetning for at
+ressursbruken i samfunnsgkonomien skal bli best mulig. Gode regnskaper vil ogsa
+gj@re det vanskeligere for markedsdeltakere a ta ut spekulasjonsgevinster med
+basis i skjevt fordelt informasjon.”
+
+Det fremgar saledes at et av hovedformalene med regnskapsloven er a bidra til
+
+“informative regnskaper for ulike grupper av regnskapsbrukere”. Regnskapsbrukere vil
+
+omfatte, jf. uttalelsen i proposisjonen, blant andre investorer, kreditorer, ansatte og
+
+lokalsamfunnet.
+
+Det er etter skattekontorets vurdering derfor avgj@rende ved vurdering av om
+
+dispensasjon fra kravet til a utarbeide arsregnskap og/eller arsberetning pa norsk kan
+
+gis, at det ikke foreligger mulige brukere av regnskapsinformasjon som blir vesentlig
+
+bergrt negativt ved en eventuell dispensasjon.
+
+Det er seerlig hensynet til brukerne av regnskapsinformasjon som skal vurderes ved en
+
+dispensasjonssgknad. | denne vurderingen har skattekontoret lagt szerlig vekt pa at
+
+selskapet har norske og utenlandske profesjonelle eiere. Videre er det vektlagt at
+
+selskapet driver virksomhet i en bransje der alle sentrale aktgrer behersker og benytter
+
+engelsk.
+
+Vennligst oppgi var referanse ved henvendelse i saken.
+
+Med hilsen
+
+Lars Waaltorp
+
+Skatteetaten
+
+Dokumentet er elektronisk godkjent og har derfor ikke handskrevne signaturer.
+
+Side 2/2
+
+Docusign Envelope ID: BCACA805-4F34-8A40-83C0-7216E9CDDOE2
+Income statement
+Hima Seafood Rjukan AS
+Amounts in 1000 NOK
+Operating income and operating expenses Note 2025 2024
+Revenue 49 593 0
+Total income 49 393 0
+Raw materials and consumables used 198 268 5 367
+Employee benefits expense 2 2 589 0
+Depreciation and amortisation expenses 3 50 894 19 684
+Other operating expences 82 222 58 880
+Total expenses 333 973 $3 932
+Operating profit -284 380 -83 932
+Financial income and expenses
+Other interest income 462 1 635
+Other financial income 9 0
+Other interest expenses 52 199 31
+Other financial expenses 0 40
+Net financial items -51 728 1 564
+Net profit before tax -336 109 -82 368
+Net profit after tax 4,5 -336 109 -82 368
+Net profit or loss -336 109 -82 368
+Attributable to
+Loss brought forward 336 109 82 368
+Total -336 109 -82 368
+
+Docusign Envelope ID: BCACA805-4F34-8A40-83C0-7216ESCDDOE2
+Balance sheet
+Hima Seafood Rjukan AS
+Amounts in 1000 NOK
+Assets Note 2025 2024
+Non-current assets
+Software 234 0
+Total intangible assets 234 0
+Property, plant and equipment
+Asset under construction 0 1 683 489
+Buildings and fixed installations 3 183 455 1 128 742
+Equipment and other movables 1312 821
+Total property, plant and equipment 3,7 3 184 767 2 813 052
+Total non-current assets 3 185 000 2 $13 052
+Current assets
+Inventories 88 151 36 513
+Debtors
+Accounts receivables 17 415 0
+Other short-term receivables 24 919 59 561
+Total receivables 42 334 59 561
+Cash and cash equivalents 13 621 121 087
+Total current assets 144 106 217 160
+Total assets 3 329 107 3 030 212
+
+Docusign Envelope ID: BCACA805-4F34-8A40-83C0-7216E9CDDOE2
+Balance sheet
+Hima Seafood Rjukan AS
+Amounts in 1000 NOK
+Equity and liabilities Note 2025 2024
+Equity
+Paid-in capital
+Share capital 6 2 764 2 143
+Share premium 1 608 540 1 201 539
+Unregistered capital contribution 227 112 179 485
+Total paid-up equity 1 838 417 1 383 168
+Retained earnings
+Uncovered loss -465 245 -129 137
+Total retained earnings -465 245 -129 137
+Total equity 5 1373171 1 254 031
+Liabilities
+Other non-current liabilities
+Non-current liabilities to group companies 7,8 870 276 660 238
+Other non-current liabilities 7,9 981 606 986 035
+Total non-current liabilities 1 851 882 1 646 272
+Current liabilities
+Trade payables 103 465 128 264
+Public duties payable 239 0
+Other current liabilities 349 1 645
+Total current liabilities 104 053 129 909
+Total liabilities 1 955 936 1 776 182
+Total equity and liabilities 3 329 107 3 030 212
+Oslo, 29.06.2026
+Signed by: The board of Hima Seafood Rjukan AS Can by:
+% Yoye oeusines by: _ ji Ut {
+ah Ma Amit he a CThakrar Olav Ulleren —
+Chairman of the board Member of the board Member of the board
+DocuSigned by: Signed by: Signed by:
+Glormn Morbo bre ' Mn Als Wad ul Ld WVUSUYL
+Lp Be sping ta Simon Nygwstd4ahtinsen
+Member of the board Member of the board General Manager
+
+Docusign Envelope ID: BCACA803-4F34-8A40-83C0-7216ESCDDOE2
+
+Hima Seafood Rjukan AS Notes to the Financial Statements for 2025
+Accounting principles
+The annual accounts have been prepared in conformity with the Accounting Act and NRS 8 - Good accounting practice
+for small companies.
+The company has constructed and in 2025 commenced operations of a land-based trout farming facility in Rjukan, Tinn
+municipality.
+Operating revenues
+Income from the sale of goods is recognised on the date of delivery. Services are posted to income as they are delivered.
+Tax
+The tax charge in the profit and loss account consists of tax payable for the period and the change in
+deferred tax. Deferred tax is calculated at the tax rate at 22% on the basis of tax-reducing and taxincreasing temporary
+differences that exist between accounting and tax values, and the tax loss carried forward at the end of the accounting
+year. Tax-increasing and tax-reducing temporary differences that reverse or may reverse in the same period are set off
+and entered net.
+Deferred tax assets are not recognized in the balance sheet, in accordance with the exemption rule for small companies.
+Classification and valuation of balance sheet items
+Assets intended for permanent ownership or use are classified as fixed assets. Assets related to the operating cycle are
+classified as current assets. Receivables are classified as current assets if they are to be repaid within one year. Similar
+criteria are applied for liabilities. However, the first year's installment on long-term receivables and long-term liabilities is
+not classified as current assets and short-term liabilities.
+Fixed assets
+Land is not depreciated. Fixed assets are capitalized and depreciated linearly over their expected useful life if they have
+an assumed lifespan of more than 3 years and a cost exceeding NOK 30,000. Maintenance of assets is expensed as
+incurred. Enhancements or improvements are added to the asset's cost and depreciated along with the asset. The
+distinction between maintenance and enhancement/improvement is based on the asset's condition at the time of
+purchase. Interest costs related to the production of assets are capitalized. Expenses for leasing assets are expensed.
+Prepayments are recorded as prepaid expenses and allocated over the lease period.
+Impairment of Fixed Assets
+If there is an indication that the carrying value of a fixed asset exceeds its actual value, an impairment test is conducted.
+The test is performed at the lowest level of assets that have independent cash flows. If the carrying value is higher than
+both the selling price and the utility value (present value of continued use/ownership}, an impairment is made to the
+higher of the selling price or utility value. Previous impairments, except for goodwill impairments, are reversed if the
+conditions for the impairment are no longer present.
+
+Docusign Envelope ID: BCACA803-4F34-8A40-83C0-7216ESCDDOE2
+
+Hima Seafood Rju kan AS Notes to the Financial Statements for 2025
+Classification and valuation of current assets
+Current assets and short-term liabilities normally include items that fall due for payment within one year of the balance
+sheet date, as well as items that relate to the stock cycle. Current assets are valued at the lower of acquisition cost and
+fair value.
+Inventories
+Inventories of purchased goods are valued at the lower of acquisition cost, determined using the FIFO principle, and fair
+value. Finished goods manufactured by the company and work in progress are valued at full production cost. Write-dows
+are made for expected osbolescence.
+Estimated biomass
+The stock of live fish cannot be quantified by an exact count as at 31 December. The determination of inventory is based
+on Statistics in which additions, lossess and withdrawals are subject to continuous registration. Weight is based on
+sample-based weight measurements taken on a regular basis.
+Receivables
+Receivables from customers and other receivables are entered at par value after deducting a provision for expected
+losses. The provision for losses is made on the basis of an individual assessment of the respective receivables.
+
+Docusign Envelope ID: BCACA805-4F34-8A40-83C0-7216ESCDDOE2
+Hima Seafood Rjukan AS Notes to the Financial Statements for 2025
+Amounts in 1 000 NOK
+Note 2 Salary cost, number of employees, remuneration etc.
+In 2025, the company employed 0,76 man-years. The company had no employees in 2024.
+Note3 Property, plant and equipment
+Buildings and Total property,
+
+Asset under fixed Equipment and plant and
+Fixed assets construction Land installations other moveables equipment
+Acquisition cost 01.01.2025 1 683 489 0 1153 685 821 2 837995
+Additions 463 016 0 0 764 463 780
+Disposals 0 0 0 0 0
+Transferred -2 146505 17575 2 128 930 0 0
+Acquisition cost 31.12.2025 cost 31.12. 0 17575 3 282615 1585 3301775
+Accumulated depreciation 31.12.2025 0 0 116 735 273 117 008
+Book value as at 31.12.2025 0 17 575 3 165 880 1312 3 184 767
+The year's depreciation 0 0 91 792 273 92 065
+Estimated useful life 20 - 50 years 3 years
+Depreciation differs from the financial statements due to cost allocation to the production of fish. Assets under construction
+consist of planning and development costs related to land-based fish farm. In 2025 the development of the land-based fish farm
+has been completed and taken into use. Thus, depreciation has commenced for the entire fish farm.
+
+Docusign Envelope ID: BCACA805-4F34-8A40-83C0-7216ESCDDOE2
+Hima Seafood Rjukan AS Notes to the Financial Statements for 2025
+
+Note 4 Tax
+This year’s tax expense 2025 2024
+Entered tax on ordinary profit/loss:
+Payable tax 0 0
+Changes in deferred tax assets 0 0
+Tax expense on ordinary profit/loss 0 0
+Taxable income:
+Ordinary profit/loss before tax -336 109 -82 368
+Permanent differences 0 -11
+Changes temporary differences -68 130 -120 003
+Allocation of loss to be brought forward 0 0
+Taxable income: -404 239 -202 382
+Payable tax in the balance:
+Payable tax on this year's result 0 0
+Jotalpayabletaxinthe balance
+The tax effect of temporary differences and loss for to be carried forward that has formed the basis for deferred tax and
+deferred tax advantages, specified on type of temporary differences:
+
+2025 2024 Difference
+Tangible fixed assets 302 969 156 699 -146 270
+Stock -37 606 11 289 48 895
+Accounts receivable 0 0 0
+Other differences 4536 5 431 895
+Total 269 899 173 419 -96 480
+Accumulated loss to be brought forward -726 080 -321 841 404 239
+Disallowed interest deduction carried forward -28 351 0 28 351
+Not included in the deferred tax calculation 484 532 148 422 -336 110
+Basis for calculation of deferred tax 0 0 0
+Deferred tax assets (22%) 0 0 0
+In accordance with the exception rule for small companies, the deferred tax asset is not carried on
+the balance sheet.
+
+Docusign Envelope ID: BCACA805-4F34-8A40-83C0-7216ESCDDOE2
+Hima Seafood Rjukan AS Notes to the Financial Statements for 2025
+Note 5 Equity
+Share Unregistered
+
+Share capital premium  capitalincrease Uncovered loss Total equity
+As of 01.01.2025 2 143 1 201 539 179 485 -129 137 1254031
+Capital increase Nov/Dec 2024 -
+registered 2025 256 179 229 -179 485 0 0
+Capital increase 2025 - resolved and
+registered 365 227 772 0 0 228 137
+Unregistered capital increase* 0 0 227 112 0 227 112
+Result of the year 0 0 0 -336 109 -336 109
+As at 31.12.2025 2764 1608540 227 112 -465 245 1373171
+*As of 31.12.2025, there are three unregistered capital increases. The first was resolved in
+November 2025. It was registered in the Register of Business Enterprises on January 16th, 2026, giving a share capital increase
+of TNOK 0,001 and increase in share premium by TNOK 39 341. The second capital increase was resolved in November 2025 and
+registered in the Register of Business Enterprises on January 16th, 2026. The share capital was increased by TNOK 0,001, and the
+share premium by TNOK 160 896. The third capital increase was resolved in December 2025. It was registered in the Register of
+Business Enterprises on February 17th, 2026, giving a share capital increase of TNOK 43 and increase in share premium by TNOK
+26 831.

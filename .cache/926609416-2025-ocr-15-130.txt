@@ -1,0 +1,435 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 607531
+Virksomheten
+Organisasjonsnummer : 926 609 416
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: VALLE GROUP AS
+Forretningsadresse: Serjordet 11
+3737 SKIEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kjell Valle
+Dato for fastsettelse av arsregnskapet: 24.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 926 609 416
+
+VALLE GROUP AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 4 942 84 198
+
+Sum kostnader 4 943 84 198
+
+Driftsresultat -4 943 -84 198
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Annen rentekostnad 7 639 0
+
+Sum finanskostnader 7 639 0
+
+Netto finans -7 639 fe)
+
+Resultat fer skattekostnad -12 582 -84 198
+
+Arsresultat -12 582 -84 198
+
+Arsresultat etter
+
+minoritetsinteresser -12 582 -84 198
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -12 582 -84 198
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -12 582 -84 198
+
+Sum overferinger og
+
+disponeringer -12 582 -84 198
+Utskriftsdato 30.06.2026 Organisasjonsnr 926 609 416 Side 1 av 3
+
+Organisasjonsnr: 926 609 416
+
+VALLE GROUP AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 133 050 13 000
+
+Sum finansielle
+
+anleggsmidler 133 050 13 000
+
+Sum anleggsmidler 133 050 13 9000
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 385 455
+
+Sum bankinnskudd,
+
+kontanter og lignende 385 455
+
+Sum omlepsmidler 385 455
+
+SUM ELENDELER 133 435 13 455
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptijent egenkapital
+
+Udekket tap 111 852 99 270
+Utskriftsdato 30.06.2026 Organisasjonsnr 926 609 416 Side 2 av 3
+
+Sum opptjent egenkapital -111 852 -99 270
+
+Sum egenkapital -81 852 -69 270
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 210 364 82 725
+
+Sum annen langsiktig gjeld 210 364 82 725
+
+Sum langsiktig gjeld 210 364 82 725
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 4 922 0
+
+Sum kortsiktig gjeld 4 923 0
+
+Sum gjeld 215 287 82 725
+
+SUM EGENKAPITAL OG GJELD 133 435 13 455
+Utskriftsdato 30.06.2026 Organisasjonsnr 926 609 416 Side 3 av 3
+
+Organisasjonsnr: 926 609 416
+
+VALLE GROUP AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Skien
+
+Virksomhetens art
+
+Holdingselskap
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Selv om selskapet har lav egenkapital, eier selskapet verdier som er verdt
+mer enn det som star i balansen.
+
+Derfor mener styret at selskapet kan
+
+drives videre, og regnskapet er laget med utgangspunkt i fortsatt drift.
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Valle Group AS
+(926 609 416)
+Valle Group AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 4942 84198
+Sum driftskostnader 4943 84198
+Driftsresultat -4943 -84 198
+Finanskostnader
+
+Annen rentekostnad 7 639 (@)
+Sum finanskostnader 7 639 0
+Netto finans -7 639 0
+Resultat for skatt -12 582 -84 198
+Arsresultat -12582 -84198
+Overforinger og disponeringer
+
+Udekket tap -12 582 -84 198
+Sum overferinger og disponeringer -12 582 -84198
+
+Valle Group AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anleggsmidler
+
+Investeringer i aksjer og andeler 133 050 13 000
+Sum finansielle anleggsmidler 133 050 13 000
+Sum anleggsmidler 133 050 13 000
+Omlepsmidler
+Bankinnskudd, kontanter ol. 385 455
+Sum omlepsmidler 385 455
+Sum eiendeler 133 435 13 455
+
+Valle Group AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Udekket tap -111 852 -99 270
+Sum opptjent egenkapital -111 852 -99 270
+Sum egenkapital -81852 -69270
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 210 364 82 725
+Sum annen langsiktig gjeld 210 364 82 725
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 4922 0
+Sum kortsiktig gjeld 4923 0
+Sum gjeld 215 287 82 725
+Sum egenkapital og gjeld 133 435 13 455
+
+Valle Group AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Skien
+Virksomhetens art
+Holdingselskap
+Note 2: Usikkerhet rundt fortsatt drift
+Selv om selskapet har lav egenkapital, eier selskapet verdier som er verdt mer enn det som star
+i balansen. Derfor mener styret at selskapet kan drives videre, og regnskapet er laget med
+utgangspunkt i fortsatt drift.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Valle Group AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Bjorn-Erik Setsa <be@setsaa.no>
+Elektronisk signering
+KJELL VALLE
+25.05.1967 - Styreleder
+Y) Signert
+25.06.2026 01:14 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 24.06.2026 23:48:13

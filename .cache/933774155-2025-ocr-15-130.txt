@@ -1,0 +1,422 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 525111
+Virksomheten
+Organisasjonsnummer : 933 774 155
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NAGA D. AS
+Forretningsadresse: Bekveien 2B
+1659 TORP
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Hanne Marie Tegneby
+Dato for fastsettelse av arsregnskapet: 26.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 08.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 933 774 155
+
+NAGA D. AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 0 60
+
+Sum kostnader 0 60
+
+Driftsresultat 0 -60
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Annen rentekostnad 1 90 000 22 478
+
+Sum finanskostnader 90 000 22 478
+
+Netto finans -90 000 -22 478
+
+Resultat fer skattekostnad -90 000 -22 538
+
+Arsresultat -90 000 -22 538
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -90 000 -22 538
+Utskriftsdato 08.06.2026 Organisasjonsnr 933 774 155 Side 1 av 3
+
+Organisasjonsnr: 933 774 155
+
+NAGA D. AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 1 800 000 1 800 000
+
+Sum finansielle
+
+anleggsmidler 1 800 000 1 800 000
+
+Sum anleggsmidler 1 800 000 1 800 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 29 940 29 940
+
+Sum bankinnskudd,
+
+kontanter og lignende 29 940 29 940
+
+Sum omlepsmidler 29 940 29 940
+
+SUM ELENDELER 1 829 940 1 829 940
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 2 30 000 30 000
+
+Annen innskutt egenkapital 2 -5 784 -5 784
+
+Sum innskutt egenkapital 24 216 24 216
+
+Opptjent egenkapital
+
+Udekket tap 2 112 538 22 538
+
+Sum opptjent egenkapital -112 538 -22 538
+Utskriftsdato 08.06.2026 Organisasjonsnr 933 774 155 Side 2 av 3
+
+Sum egenkapital -88 322 1 678
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 1 1 800 000 1 800 000
+
+Sum annen langsiktig gjeld 1 800 000 1 800 000
+
+Kortsiktig gjeld
+
+Kortsiktig konserngjeld 3 5 784 5 784
+
+Annen kortsiktig gjeld 112 478 22 478
+
+Sum kortsiktig gjeld 118 262 28 262
+
+Sum gjeld 1 918 262 1 828 262
+
+SUM EGENKAPITAL OG GJELD 1 829 940 1 829 940
+Utskriftsdato 08.06.2026 Organisasjonsnr 933 774 155 Side 3 av 3
+
+Organisasjonsnr: 933 774 155
+
+NAGA D. AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Finansinntekter
+
+Inntektsfgring av
+
+aksjeutbytte skjer i vedtaksaret.
+
+Skatt
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbare skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de
+midlertidige forskjeller som eksisterer mellom regnskapsmessige og
+skattemessige verdier, samt ligningsmessig underskudd til fremfering ved
+utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige
+forskjeller som reverserer eller kan reverseres i samme periode er utlignet
+og nettofert.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er
+
+eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsle@pet er klassifisert som oml@psmidler. Langsiktig gjeld er gjeld
+som forfaller senere enn ett ar etter transaksjonsdagen. Forste ars avdrag
+pa langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke
+som omlepsmiddel og kortsiktig gjeld.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belgep pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes a vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Selskapet har ikke endret regnskapsprinsipp fra
+
+2024 til 2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+3
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregnskap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Kortsiktig gjeld
+
+Samlet belep - foretak i samme konsern Arets Fjorarets
+
+5784.00 5784.00
+
+Note
+
+1
+Gjeld
+Gjeld som forfaller til betaling mer enn fem ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+Balansefort verdi av de pantsatte eiendeler
+
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+Mer om gjeld
+Langsiktig gjeld i form av selgerkreditt skal ha en rente tilsvarende
+normrenten. Betaling av selgerkreditt og renter skal skje ved utdeling av
+utbytter, salg av aksjer eller etter nermere avtale.
+
+Arsregnskap for
+NAGA D. AS
+933774155
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+NAGA D. AS
+933 774 155
+Resultatregnskap
+
+Note 2025 18.06 -
+
+31.12.2024
+
+Driftskostnader
+Annen driftskostnad 0 -60
+Sum driftskostnader 0 -60
+Driftsresultat 0 -60
+Finanskostnader
+Annen rentekostnad 1 -90 000 -22 478
+Sum finanskostnader -90 000 -22 478
+Netto finans -90 000 -22 478
+Arsresultat -90 000 -22 538
+Overfaringer
+Udekket tap -90 000 -22 538
+Sum overferinger -90 000 -22 538
+
+NAGA D. AS
+933 774 155
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer i aksjer og andeler 1 800 000 1 800 000
+Sum finansielle anleggsmidler 1 800 000 1 800 000
+Sum anleggsmidler 1 800 000 1 800 000
+Omlgpsmidler
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 29 940 29 940
+Sum bankinnskudd, kontanter og lignende 29 940 29 940
+Sum omlgpsmidler 29 940 29 940
+SUM EIENDELER 1 829 940 1 829 940
+
+NAGA D. AS
+933 774 155
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 2 30 000 30 000
+Annen innskutt egenkapital 2 -5 784 -5 784
+Sum innskutt egenkapital 24 216 24 216
+Opptjent egenkapital
+Udekket tap 2 -112 538 -22 538
+Sum opptjent egenkapital -112 538 -22 538
+Sum egenkapital -88 322 1 678
+Gjeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 1 1 800 000 1 800 000
+Sum annen langsiktig gjeld 1 800 000 1 800 000
+Kortsiktig gjeld
+Kortsiktig kKonserngjeld 3 5 784 5 784
+Annen kortsiktig gjeld 112 478 22 478
+Sum kortsiktig gjeld 118 262 28 262
+Sum gjeld 1918 262 1 828 262
+SUM EGENKAPITAL OG GJELD 1 829 940 1 829 940
+TORP, 26.05.2026
+Hanne Marie Tegneby
+styrets leder
+
+NAGA D. AS
+933 774 155
+Noter
+Arten av virksomhet og hvor virksomheten drives
+Selskapets virksomhet er investering i aksjer og eiendom. Selskapet holder til pa Torp.
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Finansinntekter
+Inntektsfgring av aksjeutbytte skjer i vedtaksaret.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt ligningsmessig underskudd til fremforing ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reverseres i samme
+periode er utlignet og nettofart.
+Klassifisering og vurdering av balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen.
+Ferste ars avdrag pa langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlgpsmiddel og
+kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balanseferes til nominelt belap pa
+etableringstidspunktet.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Note 1 - Gjeld og garantiforpliktelser
+Mer om gjeld
+Langsiktig gjeld i form av selgerkreditt skal ha en rente tilsvarende normrenten. Betaling av selgerkreditt og
+renter skal skje ved utdeling av utbytter, salg av aksjer eller etter neermere avtale.
+Note 2 - Egenkapital
+Aksjekapital Annen innsk. EK Udekket tap Sum
+Egenkapital 31.12.2024 30 000 -5 784 -22 538 1678
+Arsresultat 0 0 -90 000 -90 000
+Egenkapital 31.12.2025 30 000 -5 784 -112 538 -88 322
+Mer om egenkapital
+Aksjekapitalen er tapt. Likviditeten er fortsatt god og det er ikke noe som indikerer at driften ikke kan fortsette.
+Eier(mor)selskapet vil om ngdvendig tilfore selskapet likviditet. Styret vurderer at forutsetningene for fortsatt
+drift er til stede og legger det til grunn for sin virksomhet.
+
+NAGA D. AS
+933 774 155
+Note 3 - Konsern, tilknyttet selskap m.v.
+Kortsiktig gjeld
+18.06 -
+2025 31.12.2024
+Samlet belap som gjelder foretak i samme konsern 5 784 5 784
+Antall arsverk
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.

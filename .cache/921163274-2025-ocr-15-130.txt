@@ -1,0 +1,587 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 627646
+Virksomheten
+Organisasjonsnummer : 921 163 274
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SIREN HOLDING AS
+Forretningsadresse: Gideonvegen 1
+6412 MOLDE
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Siren Seyland
+Dato for fastsettelse av arsregnskapet: 29.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 921 163 274
+
+SIREN HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 743 228 4 192 344
+
+Annen driftsinntekt 73 998 121 504
+
+Sum inntekter 3 817 226 4 313 848
+
+Kostnader
+
+Varekostnad 816 251 1 390 083
+
+Lennskostnad 1, 2, 3 2 753 959 1 606 963
+
+Avskrivning pa varige
+
+driftsmidler 4 139 647 93 465
+
+Annen driftskostnad 1 363 465 967 829
+
+Sum kostnader 5 073 322 4 058 340
+
+Driftsresultat -1 256 096 255 508
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 21 523 18 608
+
+Annen finansinntekt 0 2 229
+
+Sum finansinntekter 21 523 20 837
+
+Annen rentekostnad 9 390 10 387
+
+Annen finanskostnad 15 175 10 138
+
+Sum finanskostnader 24 565 20 524
+
+Netto finans -3 042 313
+
+Resultat fer skattekostnad -1 259 137 255 821
+
+Skattekostnad -273 311 55 865
+
+Arsresultat -985 826 199 956
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 0 300 000
+
+Udekket tap -155 189 0
+
+Annen egenkapital -830 637 -100 044
+Utskriftsdato 02.07.2026 Organisasjonsnr 921 163 274 Side 1 av 3
+
+Organisasjonsnr: 921 163 274
+SIREN HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 191 289 0)
+Sum immaterielle eiendeler 191 289 0
+Varige driftsmidler
+Maskiner og anlegg 4 300 906 385 349
+Driftslesere, inventar,
+verkt@y, kontormaskiner,
+ol. 4 526 320 63 075
+Sum varige driftsmidler 827 226 448 425
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 1 000 16 000
+Andre langsiktige
+fordringer 0 54 760
+Sum finansielle
+anleggsmidler 1 000 70 760
+Sum anleggsmidler 1 019 515 519 185
+Omlepsmidler
+Varer
+Varer 575 048 262 318
+Fordringer
+Kundefordringer 0 65 989
+Andre kortsiktige
+fordringer 7 019 264 521
+Sum fordringer 7 019 330 510
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 1 187 202 1 495 110
+Sum bankinnskudd,
+kontanter og lignende 1 187 202 1 495 110
+Sum omlepsmidler 1 769 269 2 087 937
+SUM ELENDELER 2 788 784 2 607 122
+BALANSE - EGENKAPITAL OG
+GJELD
+
+Utskriftsdato 02.07.2026 Organisasjonsnr 921 163 274 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 5 0 530 637
+
+Udekket tap 5 155 189 0
+
+Sum opptjent egenkapital -155 189 530 637
+
+Sum egenkapital -125 189 560 637
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 0 82 022
+
+Sum avsetninger for
+
+forpliktelser 0 82 022
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 284 971 0
+
+@vrig langsiktig gjeld 1 761 518 17 057
+
+Sum annen langsiktig gjeld 2 046 490 17 057
+
+Kortsiktig gjeld
+
+Leverandergjeld 31 233 282 065
+
+Betalbar skatt 0) 9 030
+
+Skyldige offentlige
+
+avgifter 231 204 167 966
+
+Utbytte 0 300 000
+
+Annen kortsiktig gjeld 605 047 1 188 345
+
+Sum kortsiktig gjeld 867 484 1 947 406
+
+Sum gjeld 2 913 974 2 046 485
+
+SUM EGENKAPITAL OG GJELD 2 788 784 2 607 122
+Utskriftsdato 02.07.2026 Organisasjonsnr 921 163 274 Side 3 av 3
+
+Organisasjonsnr: 921 163 274
+
+SIREN HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+er eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett ar. Langsiktig gjeld er gjeld som
+forfaller senere enn ett ar etter transaksjonsdagen. Forste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som
+omlepsmiddel og kortsiktig gjeld.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belep pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes a vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varebeholdninger
+
+Lager av innkj@pte varer er verdsatt
+
+til laveste verdi av anskaffelseskost etter FIFO- prinsippet og virkelig
+verdi. Det foretas nedskrivning for paregnelig ukurans.
+
+Varige
+
+driftsmidler
+
+Varige driftsmidler balansefores og avskrives over
+
+driftsmidlenes levetid dersom de har antatt levetid over 3 ar og har en
+kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidler
+kostnadsferes lepende under driftskostnader, mens pakostninger eller
+forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+Leieavtaler er ikke balansefert. Fordringer og gjeld i utenlandsk
+
+valuta er verdsatt til kursen ved regnskapsarets slutt. Kursgevinster og
+kursstap i utenlandsk valuta fores som finansinntekt og finanskostnad.
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens
+
+betalbare skatt og endring i utsatt skatt. Utsatt skatt er beregnet med 22%
+pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt skattemessig underskudd til
+
+fremfering ved utgangen av regnskapsaret. Skattegkende og skattereduserende
+midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+Selskapet
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Note
+5
+Er det usikkerhet om fortsatt drift?: Ja
+Selskapet har per 31.12.2025 negativ egenkapital og har i lepet av aret gatt
+med underskudd. Dette medforer usikkerhet knyttet til selskapets evne til
+fortsatt drift.
+Aksjoner har imidlertid i 2026 ettergitt lan til selskapet
+pa NOK 500 000. Ettergivelsen er bokfert som innskutt egenkapital og
+styrker selskapets finansielle stilling vesentlig.
+Pa bakgrunn av dette er
+arsregnskapet avlagt under forutsetning om fortsatt drift, jf.
+regnskapsloven § 4-5.
+Note
+2
+Antall Aarsverk i regnskapsaret
+4.37
+Note
+1
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+2283186.00 1274436.00
+Folketrygqdavgift Arets Fljorarets
+332917.00 213393.00
+Pensjonskostnader Arets Fjorarets
+70194.00 48730.00
+Andre ytelser Arets Fjorarets
+67662 .00 70404.00
+Sum lennskostnader Arets Fjorarets
+2753959.00 1606963 .00
+Note
+4
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+925202.00 0.00
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+
+518448.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+1443650.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+616424.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+827226.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+139647.00 0.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjeop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Note
+3
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+Mer om lan og sikkerhetsstillelse
+
+Arsregnskap for
+SIREN HOLDING AS
+921163274
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+Utarbeidet av
+
+Sparebank 1 Regnskapshuset SMN AS
+
+Org.nr. 936 285 066
+
+SIREN HOLDING AS
+921 163 274
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 3 743 228 4 192 344
+Annen driftsinntekt 73 998 121 504
+Sum driftsinntekter 3 817 226 4313 848
+Driftskostnader
+Varekostnad 816 251 1 390 083
+L@nnskostnad 1,2,3 2 753 959 1 606 963
+Avskrivning pa varige driftsmidler 4 139 647 93 465
+Annen driftskostnad 1363 465 967 829
+Sum driftskostnader 5 073 322 4 058 340
+Driftsresultat -1 256 096 255 508
+Finansinntekter
+Annen renteinntekt 21 523 18 608
+Annen finansinntekt 0 2 229
+Sum finansinntekter 21 523 20 837
+Finanskostnader
+Annen rentekostnad 9 390 10 387
+Annen finanskostnad 15175 10 138
+Sum finanskostnader 24 565 20 524
+Netto finans -3 042 313
+Resultat for skattekostnad -1 259 137 255 821
+Skattekostnad -273 311 55 865
+Arsresultat -985 826 199 956
+Overforinger
+Ordinzert utbytte 0 300 000
+Annen egenkapital -830 637 -100 044
+Udekket tap -155 189 0
+Sum overferinger -985 826 199 956
+
+SIREN HOLDING AS
+921 163 274
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 191 289 0
+Sum immaterielle eiendeler 191 289 0
+Varige driftsmidler
+Maskiner og anlegg 4 300 906 385 349
+Driftsigsore, inventar, verktgy, kontormaskiner, ol. 4 526 320 63 075
+Sum varige driftsmidler 827 226 448 425
+Finansielle anleggsmidler
+Investeringer i aksjer og andeler 1 000 16 000
+Andre langsiktige fordringer 0 54 760
+Sum finansielle anleggsmidler 1 000 70 760
+Sum anleggsmidler 1019 515 519 185
+Omlgpsmidler
+Varer
+Varer 575 048 262 318
+Sum varer 575 048 262 318
+Fordringer
+Kundefordringer 0 65 989
+Andre kortsiktige fordringer 7019 264 521
+Sum fordringer 7 019 330 510
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 1 187 202 1 495 110
+Sum bankinnskudd, kontanter og lignende 1 187 202 1495 110
+Sum omlgpsmidler 1 769 269 2 087 937
+SUM EIENDELER 2 788 784 2 607 122
+
+SIREN HOLDING AS
+921 163 274
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 5 0 530 637
+Udekket tap 5 155 189 0
+Sum opptjent egenkapital -155 189 530 637
+Sum egenkapital -125 189 560 637
+Gjeld
+Avsetning og forpliktelser
+Utsatt skatt 0 82 022
+Sum avsetning for forpliktelser 0 82 022
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 284 971 0
+@vrig langsiktig gjeld 1 761 518 17 057
+Sum annen langsiktig gjeld 2 046 490 17 057
+Kortsiktig gjeld
+Leverandgrgjeld 31 233 282 065
+Betalbar skatt 0 9 030
+Skyldige offentlige avgifter 231 204 167 966
+Utbytte 0 300 000
+Annen kortsiktig gjeld 605 047 1 188 345
+Sum kortsiktig gjeld 867 484 1 947 406
+Sum gjeld 2 913 974 2 046 485
+SUM EGENKAPITAL OG GJELD 2 788 784 2 607 122
+MOLDE, 29.05.2026
+Siren Sgyland
+styrets leder / daglig leder
+
+SIREN HOLDING AS
+
+921 163 274
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets! @pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som omlg@psmiddel og kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Varebeholdninger
+
+Lager av innkjg@pte varer er verdsatt til laveste verdi av anskaffelseskost etter FIFO- prinsippet og virkelig verdi.
+Det foretas nedskrivning for paregnelig ukurans.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidler kostnadsfgres Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefert. Fordringer og gjeld i utenlandsk valuta er verdsatt til kursen ved regnskapsarets
+slutt. Kursgevinster og kursstap i utenlandsk valuta feres som finansinntekt og finanskostnad.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremforing ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapet holder til i Molde Kommune og driver med hud, velveere, kroppsbehandlinger, spabehandlinger og
+kosmetiske sykepleie
+
+SIREN HOLDING AS
+
+921 163 274
+
+Note 1 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 2 283 186 1 274 436
+Arbeidsgiveravgift 332 917 213 393
+Pensjonskostnader 70 194 48 730
+Andre relaterte ytelser 67 662 70 404
+sum 2 753 959 1 606 963
+Note 2 - Antall arsverk
+
+Antall arsverk sysselsatt i regnskapsaret: 4,37
+
+Note 3 - Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+
+Note 4 - Varige driftsmidler og immaterielle eiendeler
+
+Varige
+
+oT eriftsmiir
+Anskaffelseskost 01.01. 925 202
+Tilgang i aret 518 448
+Avgang i aret 0
+Anskaffelseskost 31.12. 1 443 650
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -616 424
+Balansefort verdi per 31.12. 827 226
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 139 647
+Note 5 - Usikkerhet om fortsatt drift
+Det er knyttet usikkerhet til fortsatt drift.
+
+Selskapet har per 31.12.2025 negativ egenkapital og har i Igpet av aret gatt med underskudd. Dette medfgrer
+usikkerhet knyttet til selskapets evne til fortsatt drift.
+
+Aksjoneer har imidlertid i 2026 ettergitt lan til selskapet pa NOK 500 000. Ettergivelsen er bokfgrt som innskutt
+
+egenkapital og styrker selskapets finansielle stilling vesentlig.
+
+Pa bakgrunn av dette er arsregnskapet avlagt under forutsetning om fortsatt drift, jf. regnskapsloven § 4-5.

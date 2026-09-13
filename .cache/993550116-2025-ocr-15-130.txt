@@ -1,0 +1,307 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 409997
+Virksomheten
+Organisasjonsnummer : 993 550 116
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: MASTER SURGERY SYSTEMS AS
+Forretningsadresse: c/o Tapperiet Kontorbygg
+Sollistrandsveien 12
+3187 HORTEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Arne Nilsen
+Dato for fastsettelse av Aarsregnskapet: 27.04.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 993 550 116
+
+MASTER SURGERY SYSTEMS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 776 939 3 334 912
+
+Sum inntekter 3 776 939 3 334 912
+
+Kostnader
+
+Varekostnad 1 615 593 2 123 225
+
+Lennskostnad 1 1 079 642 885 172
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 4 785 4 785
+
+Annen driftskostnad 2 996 988 382 631
+
+Sum kostnader 3 697 009 3 395 812
+
+Driftsresultat 79 931 -60 901
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 18 994 17 O61
+
+Sum finansinntekter 18 994 17 061
+
+Nedskrivning av
+
+finansielle eiendeler 2, 3 100 099 0
+
+Annen rentekostnad 1 000 1 530
+
+Annen finanskostnad 16 995 36 585
+
+Sum finanskostnader 118 094 38 116
+
+Netto finans -99 100 -21 055
+
+Resultat fer skattekostnad -19 170 -81 955
+
+Skattekostnad 18 041 -17 096
+
+Arsresultat -37 211 -64 859
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -37 211 -64 859
+
+Sum overferinger og
+
+disponeringer -37 211 -64 859
+Utskriftsdato 02.05.2026 Organisasjonsnr 993 550 116 Side 1 av 3
+
+Organisasjonsnr: 993 550 116
+MASTER SURGERY SYSTEMS AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 107 835 81 523
+Sum immaterielle eiendeler 107 835 81 523
+Varige driftsmidler
+Driftslesere, inventar,
+verkt@y, kontormaskiner
+og lignende 3 589 8 374
+Sum varige driftsmidler 3 589 8 374
+Finansielle anleggsmidler
+Lan til tilknyttet
+selskap og felles
+kontrollert virksomhet 2 100 000 0
+Investeringer 1 aksjer og
+andeler 2, 3 1 100 100
+Sum finansielle
+anleggsmidler 100 O01 100 100
+Sum anleggsmidler 211 425 189 997
+Omlepsmidler
+Varer
+Varer 1 094 478 1 056 613
+Sum varer 1 094 478 1 056 613
+Fordringer
+Kundefordringer 2 544 548 492 189
+Andre fordringer 22 449 21 309
+Sum fordringer 566 996 513 498
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 175 476 105 602
+Sum bankinnskudd,
+kontanter og lignende 175 476 105 602
+Sum omlepsmidler 1 836 951 1 675 713
+SUM ELENDELER 2 048 375 1 865 710
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 02.05.2026 Organisasjonsnr 993 550 116 Side 2 av 3
+
+Innskutt egenkapital
+
+Selskapskapital 400 000 400 000
+Sum innskutt egenkapital 400 000 400 000
+Opptjent egenkapital
+
+Annen egenkapital 971 962 1 009 173
+Sum opptjent egenkapital 971 962 1 009 173
+Sum egenkapital 1 371 962 1 409 173
+Kortsiktig gjeld
+
+Leverandergjeld 270 118 168 722
+Betalbar skatt 44 353 0)
+Skyldige offentlige
+
+avgifter 230 085 183 506
+Annen kortsiktig gjeld 131 857 104 309
+Sum kortsiktig gjeld 676 413 456 537
+Sum gjeld 676 413 456 537
+SUM EGENKAPITAL OG GJELD 2 048 375 1 865 710
+
+Utskriftsdato 02.05.2026 Organisasjonsnr 993 550 116 Side 3 av 3
+
+Organisasjonsnr: 993 550 116
+
+MASTER SURGERY SYSTEMS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+**Arten av virksomheten og hvor den
+
+drives**
+
+Selskapets virksomhet bestar av utvikling, produksjon og
+
+distribusjon av medisinsk teknisk utstyr, salg av relaterte
+konsulenttjenester innenfor omradene produktutvikling, salg og
+forretningsutvikling samt alt som herer naturlig inn under dette, herunder
+deltakelse i andre virksomheter. Drives i Horten
+
+** Klassifisering
+
+K*
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som
+anleggsmidler. Andre eiendeler er klassifisert som omle@psmidler. Fordringer
+med forfall mer enn ett ar etter balansedagen er medtatt som anleggsmidler.
+Gjeld som forfaller senere enn ett ar etter balansedagen er oppfert som
+langsiktig gjeld.
+
+** Varige driftsmidler **
+
+Varige driftsmidler er vurdert
+
+til anskaffelseskost etter fradrag for bedrifts@konomiske avskrivninger som
+er beregnet pa grunnlag av kostpris og antatt levetid.
+
+** Aksjer
+
+*k*
+
+Omlepsaksjer er vurdert til markedsverdi pa balansedagen. Andre aksjer
+
+er oppfert i regnskapet til kostpris. I de tilfeller der den virkelige
+verdien er lavere enn kostprisen og dette ikke er forbigadende, er det
+foretatt nedskrivning.
+
+** Fordringer **
+
+Kundefordringer og andre
+
+fordringer er oppfert til palydende etter fradrag for konstaterte og
+forventede tap.
+
+** Skatter **
+
+Skattekostnaden i resultatregnskapet
+
+omfatter bade periodens betalbar skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet pa grunnlag av midlertidige forskjeller mellom
+regnskapsmessige og skattemessige verdier, samt eventuelt ligningsmessig
+underskudd til fremfering ved utgangen av regnskapsaret. Utsatt skatt er
+avsatt som langsiktig gjeld i balansen. I den grad utsatt skattefordel
+overstiger utsatt skatt, er utsatt skattefordel tatt med i balansen iht.
+god regnskapsskikk.
+
+** Driftsinntekter og kostnader **
+
+Inntektsfoering
+
+folger opptjeningsprinsippet, som normalt vil felge leveringstidspunktet
+for varer og tjenester. Kostnader er tatt med etter
+sammenstillingsprinsippet, det vil si at kostnadene er tatt med i samme
+periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+1.00
+
+Note
+
+2
+
+Fordringer
+
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+
+Mer om fordringer
+
+Selskapet har aksjer i et selskap som har gatt konkurs i 2026. Kundefordring
+
+og lan er avsatt til tap og aksjene er nedskrevet pr 31.12.25.
+
+Note
+
+3
+
+Virkelig verdi og resultatfert verdiendr. i perioden, finansielle instrumenter
+Eiendel Virk. verdi  Verdiendring
+Augere Medical AS 0.00 0.00
+Sum Virk. Verdi Verdiendring
+
+0.00 0.00
+
+Mer om finansielle instrumenter
+
+Selskapet har investert i selskap som er konkurs i 2026, aksjeverdi er satt
+
+til 0,-
+
+Beskrivelse av finansielle derivater

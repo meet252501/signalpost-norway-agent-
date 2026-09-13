@@ -1,0 +1,509 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 404082
+Virksomheten
+Organisasjonsnummer : 950 011 904
+Organisasjonsform: Borettslag
+Foretaksnawn: BORETTSLAGET ARVOLL @ST
+Forretningsadresse: Arbeidersamfunnets plass 1
+0181 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Christopher Hepsa
+Dato for fastsettelse av arsregnskapet: 23.03.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 26.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 950 011 904
+
+BORETTSLAGET ARVOLL @ST
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 1,2 17 809 125 17 194 580
+
+Sum inntekter 17 642 017 17 064 720
+
+Kostnader
+
+Lennskostnad 3 1 348 360 1 357 674
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 4 21 160 13 316
+
+Annen driftskostnad 5,6,7,8,9 9 203 862 8 835 309
+
+Sum kostnader 10 573 384 10 206 298
+
+Driftsresultat 7 235 7421 6 988 283
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 127 651 105 244
+
+Annen rentekostnad 3 560 O71 3 833 710
+
+Netto finans 3 432 419 3 728 466
+
+Arsresultat 3 803 322
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 3 803 322 3 259 817
+
+Sum overferinger og
+
+disponeringer 3 803 322 3 259 817
+Utskriftsdato 26.05.2026 Organisasjonsnr 950 011 904 Side 1 av 3
+
+Organisasjonsnr: 950 011 904
+
+BORETTSLAGET ARVOLL @ST
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Tomter, bygninger og
+
+annen fast eiendom 4 14 922 146 14 922 146
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner
+
+og lignende 4 203 113 18 022
+
+Investeringer i aksjer og
+
+andeler 11 5 850 5 850
+
+Sum anleggsmidler 15 131 109 14 946 018
+
+Omlepsmidler
+
+Varer
+
+Kundefordringer 31 113 31 935
+
+Andre fordringer 204 908 188 560
+
+Bankinnskudd, kontanter
+
+og lignende 4 468 285 3 691 777
+
+Sum omlepsmidler 4 704 306 3 912 273
+
+SUM ELENDELER 19 835 415 18 858 291
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Sum innskutt egenkapital 28 300 28 300
+
+Opptjent egenkapital
+
+Annen egenkapital -50 793 198 -54 596 519
+
+Sum opptjent egenkapital -50 821 498 -54 624 819
+
+Sum egenkapital 12 -50 793 198 -54 596 519
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 13 64 696 779 67 127 829
+
+@vrig langsiktig gjeld 13 5 234 509 5 401 617
+
+Sum langsiktig gjeld 69 931 288 72 529 446
+
+Kortsiktig gjeld
+
+Leverandergjeld 278 686 385 321
+Utskriftsdato 26.05.2026 Organisasjonsnr 950 011 904 Side 2 av 3
+
+Skyldige offentlige
+
+avgifter 50 733 62 067
+Annen kortsiktig gjeld 367 905 477 976
+Sum kortsiktig gjeld 697 324 925 364
+Sum gjeld 70 628 612 73 454 810
+SUM EGENKAPITAL OG GJELD 19 835 415 18 858 291
+POSTER UTENOM BALANSEN
+
+Pantstillelser 14 69 931 288 72 529 446
+
+Utskriftsdato 26.05.2026 Organisasjonsnr 950 011 904 Side 3 av 3
+
+Organisasjonsnr: 950 011 904
+
+BORETTSLAGET ARVOLL @ST
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+1.02
+
+Arsregnskap 2025 Borettslaget Arvoll Ost
+
+Disponible midler
+
+Regnskap Regnskap
+
+2025 2024
+A. Disponible midler fra foregaende arsregnskap 2 986 909 2 156 905
+B. Endring i disponible midler
+Resultat hittil 3 803 322 3 259 817
+Tilbakefgring av avskrivning 21 160 13 316
+Kjg@p / salg anleggsmidler -206 250 0
+Opptak/avdrag langsiktig gjeld -2 431 049 -3 696 583
+Endringer i andre langsiktige poster -167 108 1 253 454
+B. Arets endring disponible midler 1 020 074 830 003
+C. Disponible midler 4 006 982 2 986 909
+Spesifikasjon av disponible midler:
+Omlepsmidler 4 704 306 3912273
+Kortsiktig gjeld -697 324 -925 364
+C. Disponible midler 4 006 982 2 986 909
+Borettslagets disponible midler er de @konomiske midlene som borettslaget har til radighet.
+De defineres som omlg@psmidler fratrukket kortsiktig gjeld.
+32 Borettslaget Arvoll @st Org. nr 950011904
+
+Resultatregnskap 2025 Borettslaget Arvoll Ost
+Note Regnskap Regnskap Budsjett Budsjett
+2025 2024 2025 2026
+INNTEKT
+Leieinntekt
+Innkrevd felleskostnad 4 17 564 792 17 064 720 17 584 873 17 796 513
+Sum leieinntekt 17 564 792 17 064 720 17 584 873 17 796 513
+Andre inntekter
+Diverse inntekt 2 77 225 0 0 0
+Sum annen inntekt 77 225 0 0 0
+Sum inntekt 17 642 017 17 064 720 17 584 873 17 796 513
+KOSTNAD
+Lonnskostnad
+Lennskostnad 3 977 360 986 674 1 093 204 1 047 294
+Styrehonorar 3 371 000 371 000 371 000 371 000
+Av- og nedskrivning
+Avskrivning 4 21 160 13 316 0 26 316
+Driftskostnad
+Energikostnad 2 618 211 2 769 098 3 126 000 2 500 000
+Kostnad eiendom/lokale 5 904 217 829 651 734 000 606 000
+Kommunale avgifter/renovasjon 2 810 326 2 563 753 2 950 000 3 100 000
+Lisens HMS, vedlikehold og andre lisenser. 6 36 802 32 583 33 000 34 000
+Verktey, inventar og driftsmateriell 7 88 049 105 090 41 000 106 500
+Reparasjon og vedlikehold 8 879 376 619 132 696 000 617 000
+Revisjonshonorar 16 765 15 603 16 000 17 000
+Forretningsfgrerhonorar 335 946 323 336 336 000 351 000
+Andre honorar 9 93 980 95 105 95 000 95 000
+Kontorkostnad 57 771 87 274 79 200 44 400
+TV/bredband 524 394 590 382 589 000 627 000
+Kostnad trans.midl/arb.mask/utstyr 41 936 107 633 75 000 105 000
+Kontingent og gaver 70 200 70 200 72 200 81 900
+Forsikring 692 935 608 807 694 200 756 000
+Andre kostnader 10 32 954 17 662 17 500 18 400
+Sum kostnad 10 573 384 10 206 298 11 018 304 10 503 810
+Driftsresultat for IN 7 068 633 6 858 423 6 566 569 7 292 703
+Nedskrivning av IN innbetaling fra eier 167 108 129 860 0 0
+Driftsresultat etter IN 7 235 741 6 988 283 6 566 569 7 292 703
+FINANSPOSTER
+Renteinntekt 127 651 105 244 0 0
+Rentekostnad 3 560 071 3 833 710 3 669 314 3 648 543
+Netto finansposter 3 432 419 3 728 466 3 669 314 3 648 543
+Arsresultat 3 803 322 3 259 817 2 897 255 3 644 160
+Overfort til/fra annen egenkapital 3 803 322 3 259 817 0 0
+SUM OVERFORINGER 3 803 322 3 259 817 0 0
+32 Borettslaget Arvoll @st Org. nr 950011904
+
+Balanse 2025 Borettslaget Arvoll Ost
+
+Note 2025 2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Tomter 4 1 525673 1525673
+Bygninger 4 12 790 000 12 790 000
+Garasjer 4 606 473 606 473
+Andre driftsmidler 4 203 113 18 022
+Finansielle anleggsmidler
+Aksjer og andeler 11 5 850 5 850
+Sum anleggsmidler 15 131 109 14 946 018
+Omlgpsmidler
+Restanse felleskostnader 31 113 30 685
+Kundefordringer 0 1 250
+Forskuddsbetalte kostnader 204 908 188 560
+Innestaende konsernkonto og bank 4 468 285 3691 777
+Sum omlspsmidler 4 704 306 3 912 273
+SUM EIENDELER 19 835 415 18 858 291
+
+32 Borettslaget Arvoll @st Org. nr 950011904
+
+Balanse 2025 Borettslaget Arvoll Ost
+
+Note 2025 2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Andelskapital 28 300 28 300
+Sum innskutt egenkapital 28 300 28 300
+Opptjent egenkapital
+Annen egenkapital -50 821 498 -54 624 819
+Sum opptjent egenkapital -50 821 498 -54 624 819
+Sum egenkapital 12 -50 793 198 -54 596 519
+Gjeld
+Langsiktig gjeld
+Pantegjeld 43 64 696 779 67 127 829
+Borettsinnskudd 932 000 932 000
+IN nedbetalt fellesgjeld 13 4 302 509 4469 617
+Sum langsiktig gjeld 69 931 288 72 529 446
+Kortsiktig gjeld
+Forskuddsbetalt felleskostnad 23 415 12 498
+Leverandgrgjeld 278 686 385 321
+Skyldig off. myndigheter 50 733 62 067
+Palgpne renter 17 867 20 322
+Annen kortsiktig gjeld 326 623 445 156
+Sum kortsiktig gjeld 697 324 925 364
+Sum gjeld 70 628 612 73 454 810
+SUM EGENKAPITAL OG GJELD 19 835 415 18 858 291
+Pantstillelser 14 69 931 288 72 529 446
+Sted: Dato:
+
+Christopher Heps@ Hildegunn Helle Anders Rosten
+Styreleder Styremediem Styremediem
+Ole Andresen Ann-Harriet Kristoffersen
+Styremediem Styremediem
+32 Borettslaget Arvoll @st Org. nr 950011904
+
+Noter arsregnskap 2025 Borettslaget Arvoll Ost
+Note 0 - Regnskapsprinsipper
+Arsregnskapet er utarbeidet i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Nummereringen av noter er basert pa en forhandsdefinert struktur, og enkelte numre utgar dersom de ikke er relevante.
+Klassifisering og vurdering av balanseposter
+Omlgpsmidler og kortsiktig gjeld omfatter poster som forfaller til betaling innen ett ar. @vrige poster er klassifisert som anleggsmiddel/langsiktig gjeld.
+Omlepsmidler vurderes til laveste av anskaffelseskost og virkelig verdi.For a sikre de beste betingelsene for drifts- og sparekontoer, er disse tilknyttet USBL sin
+konsemkontoavtale i henhold til kundeavtalen. Kortsiktig gjeld balanseferes til nominelt belgp pa etableringstidspunktet.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet ikke forventes a4 vaere forbigaende.
+Langsiktig gjeld balansefgres til nominelt belep pa etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Varige driftsmidler
+Varige driftsmidler balanseferes og avskrives over driftsmidlets levetid dersom de har levetid over 3 ar og har en kostpris
+som overstiger kr 50.000,-. Avskrivningssats for bygninger er satt til null i henhold til forskrift om arsregnskap og arsberetning for borettslag.
+Direkte vedlikehold av driftsmidler kostnadsfg@res I@pende under driftskostnader,
+mens pakostninger eller forbedringer tillegges driftsmidler og avskrives ihht driftsmidlets levetid.
+Driftsinntekter
+Felleskostnader bokfgres og inntektsfgres i takt med opptjening.
+Inntektsfgring ved salg av varer/tjenester skjer pa leveringstidspunktet.
+Tjenester inntektsfgres etter hvert som de opptjenes.
+Skattetrekk
+Ved Ignnskjgring overfgres skattetrekk til en felles skattetrekkskonto i Usbl.
+Individuell nedbetaling av fellesgjeld (IN) er behandlet etter gjeldsmetodelasningen.
+Ekstrainnbetalinger fra eiere klassifiseres som forskuddsbetaling av eiers kapitalkostnader,
+og star i balansen under langsiktig gjeld.
+Gjelden til eier vil bli redusert i takt med nedbetalingen av fellesgjelden etter opprinnelig nedbetalingsplan,
+og arlig nedkvittering framkommer i resultatregnskapet som inntekt etter driftsresultat for IN.
+
+32 Borettslaget Arvoll Ost Org. nr. 950011904
+
+Noter arsregnskap 2025 Borettslaget Arvoll Ost
+Note 1 - Innkrevde felleskostnader
+2025 2024
+3600 Innkrevde felleskostn. drift 11 044 440 10 434 528
+3609 Leie parkering 223 150 149 400
+3618 Strom elbil 214 296 194 291
+3650 Innkrevde felleskostn. renter 3 571 749 3 825 041
+3660 Innkrevde felleskostn. avdrag 2 453 240 2 338 101
+3690 Leie basestasjon og tomt for garasjene 57 917 123 360
+Sum 17 564 792 17 064 720
+Note 2 - Andre driftsinntekter
+2025 2024
+3990 Andre driftsinntekter 77 225 0
+Sum 77 225 0
+Inntekt pa konto 3990 gjelder etterfakturering av snamaking 2022-2024 til Arvollgarasjen.
+Note 3 - Lonnskostnader og styrehonorar
+2025 2024
+5100 Fast lgnn til ansatte fra lonnssystemet 594 104 570 379
+5102 Overtid fra lonnssystemet 53 912 86 656
+5120 Timelann fra lannssystemet 8 284 8 284
+5129 Annen Ignn fra lonnssystemet 35 000 35 000
+5150 Palgpne feriepenger 82 956 84 038
+5261 Ulykkesforsikring innberetning fra lannssystemet 1 560 1925
+5280 Andre fordeler fra lonn 4 392 4 392
+5290 MOTPOST ANDRE FORDELER -5 952 -6 317
+5400 Arbeidsgiveravgift 155 595 156 622
+5405 Arb.giv.avg.feriepenger - fra lonnssystemet 11 697 11 849
+5424 AFP pensjon 35 260 33 155
+5425 Innbet. til fellesordn. LO/NHO 552 690
+5330 Honorar tillitsvalgte fra lannssystemet 371 000 371 000
+Sum 1 348 360 1357 674
+Personalkostnader omfatter lgnns- og personalkostnader, samt arbeidsgiveravgift. Antall arsverk sysselsatt: 1,02.
+32 Borettslaget Arvoll Ost Org. nr. 950011904
+
+Note 4 - Varige driftsmidler
+Garasjer Boligeiendom Teknisk anlegg Tomter Garasje nr.2 Vaskemaskiner
+Anskaffelseskostpr01.01: 387098 12790000 85363 1525673 65000 104475
+Arets tilgang : 0 ) 0 0 0 0
+Arets avgang : 0 ) ) ) ) ff)
+Akkumulerte avskrivningerpr31.12, oO OF 730381 OF 0 104475 —
+Akkumulerte nedskrivninger pr.31.12: 0 0 0 0 0 0
+Bokfortverdipr31.12 387098 12790000 12332 1525673 65000 OT
+Aretsavskrivninger: = = = = ti‘ ; ; 3OW*<S~S*é‘ O!”*®”®”®”*~<s;«tC®”:~<zCO!.!.!.!U!U UU
+Anskaffelsesar : 1953 1953 2013 1986 2016 2018
+Antatt levetid i ar : 15 5
+Gressklipper Infrastruktur Ladestasjoner(8 Holms
+EI-bil stk) Feiemaskin
+Anskaffelseskostpr01.01: 187500 154375 114375 #4#+O ©
+Arets tilgang : 0 0 0 206 250
+Arets avgang : ft) ft) ) 0
+Anskaffelseskost pr3112, i (ast‘é‘é ié‘;é‘(ed 87'COO!)}©618487506©6©6148750606©6062500—~C—“‘;CO;!
+Akkumulerte avskrivningerpr31.12, | 187500 OF; 14375 15469 © |
+Akkumulerte nedskrivninger pr.31.12: 0 0 0 0
+Bokfortverdipr31.12 i (ststi‘éOSOSC;*;C;*CO;*~*;*;*«CSACTS!!!!UlUUlUOTE
+Aretsavskrivninger;  sssi‘“‘<Citéi AB
+Anskaffelsesar : 2007 2019 2019 2025
+Antatt levetid i ar : 10 5 10
+Borettslaget bestar av 234 andeler og 7 garasjer.
+Tomtens areal er 29 617 kvm. G.nr. 87, b.nr. 7 og 8 i Oslo kommune. Borettslaget eier tomten.
+Boligselskapets eiendommer er forsikret i lf skadeforsikring. Polise nr. SP586930.
+Note 5 - Kostnad eiendom lokaler
+2025 2024
+“@360Annetrenhold i t—(tstsi‘“‘“‘<‘i‘iziésws™S™~™~™~™~*~*sSsSsSS 8808S O~*~<“i‘~‘~s~s*s‘i
+6361 Fast renhold 486 981 500 080
+6362 Skadedyrutryddelse 15 406 15 248
+6391 Snemaking/streing/feiing 43 499 43 687
+6392 Containerleie/tamming 158 568 105 039
+6393 Blomster/jord, Klipping av gress/hekk 156 671 136 142
+sum 904217—C—( :—i(it:*‘«*‘«
+
+Noter arsregnskap 2025 Borettslaget Arvoll Ost
+Note 6 - Lisens HMS, vedlikehold og andre lisenser
+2025 2024
+6420 Lisenser 20 802 18 583
+6450 Leie parkering 16 000 14 000
+Sum 3568020—~—«<“‘<‘< ;2 CS‘ Rk
+Note 7 - Verktoy, inventar og driftsmateriell
+2025 2024
+6500 Verktgy og redskaper 15191 48 193
+6540 Inventar 26 986 17717
+6550 Lyspzerer, lysrer, sikringer o.1. 440 11 047
+6551 Nokler, laser, navnskilt, postkasser o.1. 18 937 15 047
+6552 Driftsmateriell 17 965 13 086
+6570 Arbeidstey 8 530 0
+Sum 88 049 105 090
+Note 8 - Reparasjoner og vedlikehold
+2025 2024
+6601 Vedlikehold bygg 97 046 81 988
+6602 Vedlikehold VVS 290 106 56 050
+6603 Vedlikehold elektro 341 733 148 518
+6605 Vedlikehold fellesanlegg 53 569 40 632
+6608 Vedlikehold varmeanlegg 0 37 141
+6613 Vedlikehold grentanlegg/lekeplasser/uteomrade 0 31 250
+6616 Vedlikehold vaskeri 31 108 46 750
+6620 Vedlikehold utstyr 0 2 292
+6621 Vedlikehold tekniske anlegg 34 343 0
+6630 Egenandel forsikring 13 000 16 000
+6641 Malerarbeider 5 849 1513
+6645 Tak/blikkenslagerarbeid 0 104 251
+6648 Vedlikehold dgrer og porter 12 623 50 249
+6663 Vedlikehold ventilasjon 0 2500
+Sum 879 376 619 132
+Kostnad pa konto 6602 gjelder i hovesak vedlikehold av radiatorer.
+Kostnad pa konto 6603 gjelder i bytte av armaturer.
+Styret mener at det gjennomferte vedlikeholdet er tilstrekkelig for 4 oppveie verdiforringelse av bygning.
+Note 9 - Andre honorar
+2025 2024
+6714 Tilleggstjenester forretningsferer 93 980 95 105
+Sum 93 980 95 105
+32 Borettslaget Arvoll Ost Org. nr. 950011904
+
+Noter arsregnskap 2025 Borettslaget Arvoll Ost
+Note 10 - Andre kostnader
+2025 2024
+7718 Fellesarrangement 19 453 2 351
+7719 Meter, div. styret 3418 850
+7720 Generalforsamling/Arsmete 3 500 3 500
+7770 Betalingskostnader 1515 1 233
+7773 Omkostninger innkreving 5 074 9 767
+7792 Sredifferanse 0 -1
+7795 Husleietap 7 -39
+Sum 32 954 17 662
+Note 11 - Aksjer og andeler
+Arvoll kabelnett AS, 234 aksjer a’ kr. 25. Bokfert verdi kr. 5.850.
+32 Borettslaget Arvoll Ost Org. nr. 950011904
+
+Noter arsregnskap 2025 Borettslaget Arvoll Ost
+
+Note 12 - Egenkapital
+
+Egenkapital Endringer Egenkapital
+
+per 01.01 per 31.12
+Egenkapital
+Innskutt egenkapital
+Andelskapital 28 300 0 28 300
+Sum innskutt egenkapital 28 300 0 28 300
+Opptjent egenkapital
+Arets resultat -54 624 819 3 803 321 -50 821 498
+Sum opptjent egenkapital -54 624 819 3 803 321 -50 821 498
+Sum egenkapital -54 596 519 3 803 321 -50 793 198
+Balansen i arsregnskapet viser negativ egenkapital, dvs at eiendelens balanseferte verdi er lavere enn balansefgrt verdi av gjelden.
+Dette skyldes at regnskapsloven forutsetter at verdien av bygninger fastsettes pa basis av historisk kost.
+Virkelig verdi av bygningsmassen er vurdert til a vaere h@yere enn den balanseferte verdien av gjelden.
+32 Borettslaget Arvoll Ost Org. nr. 950011904

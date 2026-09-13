@@ -1,0 +1,356 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 468687
+Virksomheten
+Organisasjonsnummer : 989 794 418
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: MAKESTAD OG HARESTAD EIENDOM AS
+Forretningsadresse: Lenningshaugen 2
+5258 BLOMSTERDALEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Torleiv Naa Helle
+Dato for fastsettelse av arsregnskapet: 19.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 26.05.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 794 418
+
+MAKESTAD OG HARESTAD EIENDOM AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 325 848 318 192
+
+Sum inntekter 325 848 318 192
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 56 261 58 605
+
+Annen driftskostnad 89 954 115 073
+
+Sum kostnader 146 215 173 678
+
+Driftsresultat 179 633 144 514
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 26 518 26 243
+
+Annen finansinntekt 2 619 2 443
+
+Sum finansinntekter 29 137 28 686
+
+Annen rentekostnad 21 399 29 934
+
+Sum finanskostnader 21 399 29 934
+
+Netto finans 7 739 -1 249
+
+Resultat fer skattekostnad 187 372 143 265
+
+Skattekostnad 41 222 61 025
+
+Arsresultat 146 150 82 240
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 146 150 82 240
+
+Sum overferinger og
+
+disponeringer 146 150 82 240
+Utskriftsdato 26.05.2026 Organisasjonsnr 989 794 418 Side 1 av 3
+
+Organisasjonsnr: 989 794 418
+
+MAKESTAD OG HARESTAD EIENDOM AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 168 414 209 636
+
+Sum immaterielle eiendeler 168 414 209 636
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 1 608 399 1 664 660
+
+Sum varige driftsmidler 1 608 399 1 664 660
+
+Finansielle anleggsmidler
+
+Andre fordringer 656 100 633 301
+
+Sum finansielle
+
+anleggsmidler 656 100 633 301
+
+Sum anleggsmidler 2 432 913 2 507 597
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre fordringer 28 282 26 226
+
+Sum fordringer 28 282 26 226
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 353 917 250 805
+
+Sum bankinnskudd,
+
+kontanter og lignende 353 917 250 805
+
+Sum omlepsmidler 382 199 277 O31
+
+SUM ELENDELER 2 815 112 2 784 628
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 100 000 100 000
+
+Annen innskutt egenkapital 134 123 134 123
+
+Sum innskutt egenkapital 234 123 234 123
+
+Opptjent egenkapital
+
+Udekket tap 1 133 198 1 279 348
+
+Sum opptjent egenkapital -1 133 198 -1 279 348
+Utskriftsdato 26.05.2026 Organisasjonsnr 989 794 418 Side 2 av 3
+
+Sum egenkapital -899 O75 -1 045 225
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 266 425 384 836
+
+@vrig langsiktig gjeld 3 368 216 3 368 216
+
+Sum annen langsiktig gjeld 3 634 641 3 753 053
+
+Sum langsiktig gjeld 3 634 641 3 753 053
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 33 989 30 754
+
+Skyldige offentlige
+
+avgifter 41 674 40 025
+
+Annen kortsiktig gjeld 3 883 6 022
+
+Sum kortsiktig gjeld 79 545 76 801
+
+Sum gjeld 3 714 187 3 829 853
+
+SUM EGENKAPITAL OG GJELD 2 815 112 2 784 628
+Utskriftsdato 26.05.2026 Organisasjonsnr 989 794 418 Side 3 av 3
+
+Organisasjonsnr: 989 794 418
+
+MAKESTAD OG HARESTAD EIENDOM AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+Noteopplysninger ut over minimumskravene for sma foretak
+2025 2024
+Fordringer
+
+pa nerstaende selskaper:
+
+Eitrheimsveien 52 AS
+
+656 100
+
+609 530
+
+SUM
+
+656 100 609
+530
+
+Gjeld til nerstaende selskaper:
+
+TL Makestad AS
+
+1915 446
+
+1915 446
+
+SUM
+
+1915 446
+
+1915 446
+
+Gjeld til nerstaende parter:
+
+Oddvar Makestad
+
+1 452 771
+
+1 452 771
+
+SUM
+
+1 452 771
+
+1 452 771
+
+VIRKSOMHETENS ART:
+
+Firmaet driver med
+
+utleie av lokaler til neringsdrivende.
+
+Geografisk plassering er i Odda i
+
+Ullensvang Kommune.

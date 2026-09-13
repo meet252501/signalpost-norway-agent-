@@ -1,0 +1,470 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 722043
+Virksomheten
+Organisasjonsnummer : 919 916 729
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: JKT HOLDING AS
+Forretningsadresse: Nygardsvegen 178A
+5350 BRATTHOLMEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Jan Harald Legland
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 919 916 729
+
+JKT HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 1 832 1 688
+
+Sum kostnader 1 832 1 688
+
+Driftsresultat -1 832 -1 688
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 129 562 78 373
+
+Sum finansinntekter 129 562 78 373
+
+Netto finans 129 561 78 373
+
+Resultat fer skattekostnad 127 729 76 685
+
+Skattekostnad 600 371
+
+Arsresultat 127 129 76 314
+
+Overferinger til/fra
+
+annen egenkapital 127 129 76 314
+Utskriftsdato 28.07.2026 Organisasjonsnr 919 916 729 Side 1 av 3
+
+Organisasjonsnr: 919 916 729
+
+JKT HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 3
+
+Investeringer i aksjer og
+
+andeler 4 447 154 150 000
+
+Sum finansielle
+
+anleggsmidler 4 447 154 150 000
+
+Sum anleggsmidler 447 154 150 000
+
+Omlepsmidler
+
+Varer
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 0) 0)
+
+Markedsbaserte aksjer 0) 0
+
+Markedsbaserte obligasjoner 0 0
+
+Andre markedsbaserte
+
+finansielle instrumenter 0 0
+
+Andre finansielle
+
+instrumenter 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 5 316 137 111
+
+Sum bankinnskudd,
+
+kontanter og lignende 5 316 137 111
+
+Sum omlepsmidler 5 316 137 111
+
+SUM ELENDELER 452 470 287 111
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptijent egenkapital
+
+Annen egenkapital 257 869 130 740
+Utskriftsdato 28.07.2026 Organisasjonsnr 919 916 729 Side 2 av 3
+
+Sum opptjent egenkapital 257 869 130 740
+
+Sum egenkapital 287 869 160 740
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 164 OO1 126 OO1
+
+Sum annen langsiktig gjeld 164 001 126 001
+
+Sum langsiktig gjeld 164 001 126 O01
+
+Kortsiktig gjeld
+
+Betalbar skatt 600 371
+
+Sum kortsiktig gjeld 600 371
+
+Sum gjeld 164 601 126 372
+
+SUM EGENKAPITAL OG GJELD 452 470 287 111
+Utskriftsdato 28.07.2026 Organisasjonsnr 919 916 729 Side 3 av 3
+
+Organisasjonsnr: 919 916 729
+
+JKT HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+=== Note 1: Regnskapsprinsipper [[note-1]]
+
+Arsregnskapet er satt opp 1
+
+samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+
+==== Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa
+
+leveringstidspunktet.
+
+Tjenester inntektsfoeres etter hvert som de
+
+leveres.
+
+==== Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt.
+
+Utsatt skatt er
+
+beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier,
+
+samt ligningsmessig
+
+underskudd til fremfering ved utgangen av regnskapsaret.
+Skatteskende og
+
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofert.
+
+==== Klassifisering
+
+og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til
+
+varig elie og bruk.
+
+Anleggsmidler er vurdert til anskaffelseskost.
+
+Varige
+
+driftsmidler balanseferes og avskrives over driftsmidlets skonomiske
+levetid.
+
+Avskrivingsperioden for fast eiendom anskaffet etter 2009 er
+dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner.
+
+Varige driftsmidler nedskrives til gjenvinnbart
+
+belep ved verdifall som forventes ikke 4 vere forbigaende.
+Gjenvinnbart
+
+belep er det heyeste av netto salgsverdi og verdi i bruk.
+
+Verdi i bruk er
+
+naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivingen
+
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlepsmidler
+
+Omlepsmidler og kortsiktig
+
+gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen,
+
+samt poster som knytter seg til varekretslapet.
+
+Omlepsmidler
+
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi.
+Varer
+
+Varer er vurdert til det laveste av anskaffelseskost og netto
+salgsverdi.
+
+==== Fordringer
+
+Kundefordringer og andre fordringer
+
+oppfordres til palydende etter fradrag for avsetning til forventet
+tap.
+
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene.
+
+Note
+
+2
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap for 2025
+Jkt Holding AS
+Orgnr: 919916729
+conta
+
+INNHOLDSLISTE
+Resultat 2... eee B
+Driftsresultater.. 2 ee B
+Finansinntekter og kostnader............ 0.000002 ee eee B
+Arsresultat. 0 eee 8
+Overfgringer. 2... eee B
+Balanse. 2. 2 1. ee ee A
+Anleggsmidler... 2... 0.0.0.0... 00.00 2 ee A
+Omlgpsmidler. 2... ee LA
+Fiendeler.. 2... 2. ee ee A
+Egenkapital .. 2. 2 2. eee A
+Gjeld 2. ee A
+Egenkapitaloggjeld..... 2... 0.0.00... 000 0 ee ee ee SG
+Styret. eee ee ee eS
+Noter. 2. 2 ee eee eee 6
+Note 1: Regnskapsprinsipper ... 2... 0... ee ee ee ee  G
+Note2. 0. ee A
+Note 3: Tilknyttet selskap.. 2... 2 2 2 ee eee eT
+Note 4: Langsiktige aksjeinvesteringer.............. 0.0.0.0. 0 eee eee eee ee i FT
+
+RESULTAT
+
+Driftsresultater
+
+Note 2024 2025
+Driftsinntekter 0 0
+Lonnskostnad 2 0 0
+Annen driftskostnad 1 688 1 832
+Driftskostnader 1 688 1832
+Driftsresultat -1 688 -1 832
+Finansinntekter og kostnader
+
+Note 2024 2025
+Annen finansinntekt 78 373 129 562
+Finansinntekter 78 373 129 562
+Annen finanskostnad 0 0
+Finanskostnader 0 0
+Finansinntekter og kostnader 78 373 129 561
+Arsresultat
+
+Note 2024 2025
+Driftsresultat -1 688 -1 832
+Finansinntekter og kostnader 78 373 129 561
+Resultat for skattekostnad 76 685 127 729
+Skattekostnad 371 600
+Arsresultat 76314 127 129
+Overforinger
+
+2024 2025
+Avsatt til annen egenkapital 76 314 127 129
+Sum overf¢ringer 76314 127 129
+Conta Arsoppgjgr, Jkt Holding AS
+-3-
+
+BALANSE
+
+Anleggsmidler
+
+Note 2024 2025
+Immaterielle eiendeler 0 0
+Varige driftsmidler 0 0
+Investeringer i tilknyttet selskap 3 0 0
+Investeringer i aksjer og andeler 4 150 000 447 154
+Finansielle anleggsmidler 4 150 000 447 154
+Anleggsmidler 150 000 447 154
+Omlgpsmidler
+
+Note 2024 2025
+Fordringer 0 0
+Investeringer 0 0
+Bankinnskudd, kontanter og lignende 137111 5316
+Omlgpsmidler 137111 5316
+Eiendeler
+
+Note 2024 2025
+Anleggsmidler 150 000 447 154
+Omlgpsmidler 137111 5316
+Eiendeler 287 111 452 470
+Egenkapital
+
+Note 2024 2025
+Selskapskapital 30 000 30 000
+Innskutt egenkapital 30 000 30 000
+Annen egenkapital 130 740 257 869
+Opptjent egenkapital 130 740 257 869
+Egenkapital 160 740 287 869
+
+Conta Arsoppgjgr, Jkt Holding AS
+-4-
+
+Gjeld
+Note 2024 2025
+Avsetning for forpliktelser 0 0
+@vrig langsiktig gjeld 126 001 164 001
+Annen langsiktig gjeld 126 001 164 001
+Betalbar skatt 371 600
+Kortsiktig gjeld 371 600
+Gjeld 126 372 164 601
+Egenkapital og gjeld
+Note 2024 2025
+Egenkapital 160 740 287 869
+Gjeld 126 372 164 601
+Egenkapital og gjeld 287 111 452 470
+®ygarden, 30.06.2026
+Styret i Jkt Holding AS
+Jan Harald Legland
+Daglig leder
+Conta Arsoppgjgr, Jkt Holding AS
+-5-
+
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Driftsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som
+de leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring
+ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres i samme periode er utlignet og nettofgrt.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets ¢konomiske
+levetid. Avskrivingsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som
+gjelder rabygget og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til
+gjenvinnbart belgp ved verdifall som forventes ikke a veere forbigaende.
+Gjenvinnbart belgp er det hayeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av
+fremtidige kontantstra@mmer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for
+nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlopsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi
+av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+Conta Arsoppgjgr, Jkt Holding AS
+
+-6-
+
+Fordringer
+Kundefordringer og andre fordringer oppfordres til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 2:
+Note 3: Tilknyttet selskap
+Selskapet har falgende aksjeinvesteringer klassifisert som tilknyttet selskap:
+Selskap Kommune Eierandel % Arsresultat Egenkapital
+Mega Solutions AS @ygarden 3.5 4049 522 11 131 843
+Note 4: Langsiktige aksjeinvesteringer
+Selskapet har aksjeinvesteringer klassifisert som anleggsmidler med fglgende verdier:
+
+Anskaffelseskost Balansefort verdi Arets nedskriving
+Mega Solutions AS 447 154 447 154 0
+
+Conta Arsoppgjgr, Jkt Holding AS
+-7-

@@ -1,0 +1,585 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 347627
+Virksomheten
+Organisasjonsnummer : 991 972 889
+Organisasjonsform: Borettslag
+Foretaksnawn: HVITTINGFOSS SENTRUM BORETTSLAG
+Forretningsadresse: c/o OBOS
+Storgaten 20
+3126 TONSBERG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: OBOS EIENDOMSFORVALTNING AS
+Dato for fastsettelse av Aarsregnskapet: 18.03.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.04.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 991 972 889
+
+HVITTINGFOSS SENTRUM BORETTSLAG
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 1 413 331 1 386 164
+
+Sum inntekter 1 413 331 1 386 164
+
+Kostnader
+
+Lennskostnad 45 640 45 640
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 1
+
+Annen driftskostnad 402 039 352 867
+
+Sum kostnader 447 680 398 507
+
+Driftsresultat 965 651 987 657
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 14 389 14 882
+
+Sum finansinntekter 14 389 14 882
+
+Annen finanskostnad 422 976 447 134
+
+Sum finanskostnader 422 976 447 134
+
+Netto finans -408 587 -432 252
+
+Resultat fer skattekostnad 557 064 555 405
+
+Arsresultat 557 064 555 405
+
+Totalresultat 557 064 555 405
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 557 064 555 405
+
+Sum overferinger og
+
+disponeringer 557 064 555 405
+Utskriftsdato 15.04.2026 Organisasjonsnr 991 972 889 Side 1 av 3
+
+Organisasjonsnr: 991 972 889
+
+HVITTINGFOSS SENTRUM BORETTSLAG
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 19 598 800 19 598 800
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner
+
+og lignende 1
+
+Sum varige driftsmidler 19 598 800 19 598 801
+
+Finansielle anleggsmidler
+
+Andre fordringer 30 477 25 343
+
+Sum finansielle
+
+anleggsmidler 30 477 25 343
+
+Sum anleggsmidler 19 629 277 19 624 144
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre fordringer 7 685
+
+Sum fordringer 0 7 685
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 1 047 156 1 001 097
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 047 156 1 001 097
+
+Sum omlepsmidler 1 047 156 1 008 782
+
+SUM ELENDELER 20 676 433 20 632 926
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Annen innskutt egenkapital 70 000 70 000
+Utskriftsdato 15.04.2026 Organisasjonsnr 991 972 889 Side 2 av 3
+
+Sum innskutt egenkapital 70 000 70 000
+
+Opptijent egenkapital
+
+Annen egenkapital 7 275 250 6 718 186
+
+Sum opptjent egenkapital 7 275 250 6 718 186
+
+Sum egenkapital 7 345 250 6 788 186
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 8 909 201 9 420 381
+
+@vrig langsiktig gjeld 3 948 406 3 943 996
+
+Sum annen langsiktig gjeld 12 857 607 13 364 377
+
+Sum langsiktig gjeld 12 857 607 13 364 377
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 465 226 470 800
+
+Leverandergjeld 4 847 9 562
+
+Annen kortsiktig gjeld 3 503
+
+Sum kortsiktig gjeld 473 576 480 362
+
+Sum gjeld 13 331 183 13 844 740
+
+SUM EGENKAPITAL OG GJELD 20 676 433 20 632 926
+Utskriftsdato 15.04.2026 Organisasjonsnr 991 972 889 Side 3 av 3
+
+Organisasjonsnr: 991 972 889
+
+HVITTINGFOSS SENTRUM BORETTSLAG
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Gig OBOS attning
+-@ by
+_ Z
+eis
+ted
+Arsmote 2026
+Innkalling
+
+Velkommen til arsmete i HVITTINGFOSS SENTRUM BORETTSLAG
+
+Innkallingen inneholder alle sakene som skal behandles pa arsmetet. Styret haper du leser gjennom og viser
+
+din interesse ved 4 delta pa arsmetet.
+
+Dato for arsmetet:
+
+18. mars 2026 kl. 18:00, Kulturhuset.
+
+Hvem kan stemme pa arsmoetet?
+
+Alle eiere har rett til 4 delta i mete med forslags-, tale- og stemmerett.
+
+¢ Eiers ektefelle, samboer eller et annet medlem i husstanden har ogsa rett til 4 veere til stede og til 4 uttale seg.
+
+¢ Enstemme avgis pr. eierandel.
+
+*« Eieren kan ta med seg en radgiver til metet. Radgiveren har bare rett til 4 uttale seg dersom et flertall pa
+arsmatet tillater det.
+
+¢ Eieren kan mete ved fullmektig. Ingen kan vere fullmektig for mer enn én eier, men der flere eier en andel
+sammen kan de ha samme fullmektig. En fullmakt kan trekkes tilbake nar som helst. Styremedlemmer,
+forretningsforer og leier av bolig i borettslaget har ogsa rett til 4 veere til stede i generalforsamlingen og til
+a uttale seg.
+
+Registreringsblanketten leveres i utfylt stand ved inngangen.
+
+Saker til behandling
+
+1. Valg av meteleder
+
+2. Godkjenning av de stemmeberettigede
+
+3. Valg av protokollvitner
+
+4. Godkjenning av meteinnkallingen
+
+5. Arsrapport og arsregnskap
+
+6. Fastsettelse av honorarer
+
+7. Platting
+
+8. Varmepumpe
+
+9. Valg av tillitsvalgte
+
+10. Valg av delegater til OBOS' generalforsamling
+
+Med vennlig hilsen,
+
+Styret i HVITTINGFOSS SENTRUM BORETTSLAG
+
+2 av1/
+
+Sak 1
+Valg av meteleder
+Krav til flertall:
+Alminnelig (50%)
+Metelederen serger for at metet blir avviklet etter lovens regler og er ansvarlig for at det feres protokoll. Hvis
+ikke arsmetet velger en meteleder eller den foreslatte metelederen ikke blir valgt, er det styrets leder som etter
+loven er meteleder.
+Forslag til vedtak
+Johnny Stokke er valgt.
+Sak 2
+Godkjenning av de stemmeberettigede
+Krav til flertall:
+Alminnelig (50%)
+Deltakere i metet er registrert ien frammeteliste etter innleverte registreringsblanketter og fullmakter, og listen
+legges til grunn for opptelling av de stemmeberettigede.
+Forslag til vedtak
+Det ble foreslatt 4 anse de innleverte registreringsblankettene og eventuelt fullmakter som bevis for at
+vedkommende eier er til stede.
+Sak 3
+Valg av protokollvitner
+Krav til flertall:
+Alminnelig (50%)
+Valg av minst én eier til 4 signere protokollen.
+Forslag til vedtak
+Tom Eivind Neverdal og Magnus Visthus er valgt.
+3 av1/
+
+Sak 4
+Godkjenning av meteinnkallingen
+Krav til flertall:
+Alminnelig (50%)
+Det ble foreslatt 4 gSodkjenne den maten arsmetet er innkalt pa.
+Forslag til vedtak
+Meteinnkallingen godkjennes
+Sak 5
+Arsrapport og arsregnskap
+Krav til flertall:
+Alminnelig (50%)
+a) Godkjenning av arsrapport og arsregnskap
+b) Styret foreslar overforing av arets resultat til egenkapital.
+Forslag til vedtak
+Arsrapport og arsregnskap godkjennes. Arets resultat overfores til egenkapital.
+Vedlegg
+1. 3265 Hvittingfoss Sentrum Borettslag Arsregnskap 2025.pdf
+2. 5265 Hvittingfoss sentrum borettslag.pdf
+Sak 6
+Fastsettelse av honorarer
+Krav til flertall:
+Alminnelig (50%)
+Godtgjerelse for styret foreslas satt til kr 40 OOO.
+Forslag til vedtak
+Styrets godtgjorelse settes til 40 OOO
+4av1/
+
+Sak 7
+Platting
+Forslag fremmet av:
+Kari Marit Johannessen
+Krav til flertall:
+Alminnelig (50%)
+Gjore plattingen litt mer attraktiv.
+Litt beplantning rundt og en pergola (skyge)
+for sola.
+Forslag til vedtak
+222?
+Sak 8
+Varmepumpe
+Forslag fremmet av:
+Tove Iren Riis Lian
+Krav til flertall:
+Alminnelig (50%)
+Flere i sameiet ytrer onske om varmepumpe.
+@nsker en bedre I@sning enn den som kom i 2025.
+Forslagsstillere:Kari Marit Johannessen
+Tove Riis Lian
+Forslag til vedtak
+Styret i sameiet gis mandat til 4 finne en lesning pa plasering av varmepumpe pa endevegg i samarbeid med
+leverander.
+Sak 9
+Valg av tillitsvalgte
+Roller og kandidater
+5av1/
+
+Valg av 2 varamedlem Velges for 1 ar
+Felgende stiller til valg som varamedlem:
+* NN
+Velges i arsmete
+* NN
+Velges i arsmete
+Sak 10
+Valg av delegater til OBOS' generalforsamling
+Vi skal velge delegater til OBOS sin generalforsamling. Delegatene og varadelegatene sitter i ett ar.
+Roller og kandidater
+Valg av 1 delegat Velges for 1 ar
+Felgende stiller til valg som delegat:
+e Johnny Stokke
+Valg av 1 varadelegat Velges for 1 ar
+Felgende stiller til valg som varadelegat:
+¢ Tom Eivind Neverdal
+6 av 17
+
+HVITTINGFOSS SENTRUM BORETTSLAG
+ORG.NR. 991972889, KLIENTNR. 3265
+INFORMASJON OM ARSREGNSKAPET
+Regnskapsloven stiller strenge krav til hvordan et regnskap skal fares og presenteres. | tillegg
+krever forskriften om arsregnskap og arsberetning i borettslag at man ma gi mer informasjon.
+Dette innebzerer blant annet at man ma gi informasjon i form av noter, og utarbeide en oversikt
+over de disponible midlene i arsregnskapet. Pa de neste sidene presenteres borettslagets
+resultatregnskap, balanse og tilh@rende noter.
+Boligselskapets resultatregnskap gir imidlertid ikke en fullstendig oversikt over borettslagets
+disponible midler ved arsskiftet. | resultatregnskapet presenteres det en oversikt over
+borettslagets inntekter og kostnader. Det regnskapsmessige overskuddet tar ikke hensyn til en
+del viktige akonomiske forhold som pavirker borettslagets disponible midler. Dette gjelder for
+eksempel opptak og avdrag pa lan, samt kjap og salg av anleggsmidler. Borettslagets
+disponible midler er de akonomiske midlene som borettslaget har til radighet, og de defineres
+som omlgpsmidler fratrukket kortsiktig gjeld. Starrelsen pa de disponible midlene kan blant
+annet benyttes til a vurdere om det er nadvendig a endre sterrelsen pa innkrevde
+felleskostnader som den enkelte beboer betaler, og om det er behov for a ta opp lan eller om
+det er mulighet til a betale ned ekstra pa eksisterende gjeld.
+DISPONIBLE MIDLER
+
+Note 2025 2024
+A. DISP. MIDLER PR. 01.01. 528 419 455 596
+B. ENDRING f DISP. MIDLER:
+Arets resultat (se res.regnskapet) 557 064 555 405
+Tilbakefgring av avskrivning 13 1 0
+Fradrag for avdrag pa langs. lan 15 -511 180 -481 766
+Innsk. gremerk. bankkto -724 -816
+B. ARETS ENDR. I DISP. MIDLER 45 161 72 823
+C. DISP. MIDLER PR. 31.12. 573 580 528 419
+SPESIFIKASJON AV DISPONIBLE MIDLER:
+Omlgpsmidler 1 047 156 1 008 782
+Kortsiktig gjeld -473 576 -480 362
+C. DISP. MIDLER PR. 31.12. 573 580 528 419
+
+Vedlegg1 7 av 17 3265 Hvittingfoss Sentrum Borettslag Arsregnskap 2025. pdf
+LES
+——uaoaarrerwrrv——————————  Pocument IB 09222115557570950252 ———.- jwere\eeoC.0C0O
+
+HVITTINGFOSS SENTRUM BORETTSLAG
+ORG.NR. 991972889, KLIENTNR. 3265
+RESULTATREGNSKAP
+Note Regnskap Regnskap Budsjett Budsjett
+2025 2024 2025 2026
+DRIFTSINNTEKTER:
+Kapitalkostnader 2 934 156 0 0 0
+Innkrevde felleskostnader 2 471 240 1377 628 1 327 000 1 397 000
+Ladeinntekter elbil 7 935 8 536 0 0
+SUM DRIFTSINNTEKTER 1 413 331 1386164 1327 000 1 397 000
+DRIFTSKOSTNADER:
+Personalkostnader 3 -5 640 -5 640 -6 000 -6 000
+Styrehonorar 4 -40 000 -40 000 -40 000 -40 000
+Avskrivninger 13 -1 0 0 0
+Revisjonshonorar 5 -7 406 -5 142 -5 000 -5 150
+Forretningsfererhonorar -89 510 -86 070 -87 000 -90 915
+Konsulenthonorar -938 -813 0 0
+Drift og vedlikehold 6 -34 227 -8 445 -88 000 -88 060
+Forsikringer -64 094 -60 620 -90 000 -100 800
+Kommunale avgifter 7 -122 902 -122 648 -137 000 -148 500
+Energi/fyring 8 -9 919 -10 560 -5 000 -5 000
+Andre driftskostnader 9 -73 043 -58 567 -27 000 -27 000
+SUM DRIFTSKOSTNADER -447 680 -398 507 485 000 -511 425
+DRIFTSRESULTAT FOR IN/ADM.AVT 965 651 987 657 842 000 885 575
+DRIFTSRESULTAT 965 651 987 657 842 000 885 575
+FINANSINNTEKTER/-KOSTNADER:
+Finansinntekter 10 14 389 14 882 5 000 5 000
+Finanskostnader 11 -422 976 -447 134 -449 000 -449 000
+RES. FINANSINNT./-KOSTNADER -408 587 432 252 444 000 -444 000
+ARSRESULTAT 557 064 555 405 398 000 441 575
+Overfgaringer:
+Til annen egenkapital: 557 064 555 405
+Vedlegg1 8 av 17 3265 Hvittingfoss Sentrum Borettslag Arsregnskap 2025. pdf
+LES
+——uaoaarrerwrrv——————————  Pocument IB 09222115557570950252 I rr r'Vep»_l_C_—_—a—oe!?S<_aa—_e_—L_—
+
+HVITTINGFOSS SENTRUM BORETTSLAG
+ORG.NR. 991972889, KLIENTNR. 3265
+BALANSE
+
+Note 2025 2024
+EIENDELER
+ANLEGGSMIDLER
+Bygninger 12 19 248 800 19 248 800
+Tomt 350 000 350 000
+Andre varige driftsmidler 13 0 1
+@remerkede bankinnskudd 30 477 25 343
+SUM ANLEGGSMIDLER 19629 277 19624 144
+OML@PSMIDLER
+Forskuddsbetalte kostnader 0 7 685
+Driftskonto OBOS-banken 678 159 644 536
+Sparekonto OBOS-banken 368 997 356 560
+SUM OML@PSMIDLER 1 047 156 1 008 782
+SUM EIENDELER 20 676 433 20632 926
+EGENKAPITAL OG GJELD
+EGENKAPITAL
+Innskutt egenkapital 14 * 5000 70 000 70 000
+Annen egenkapital 14 7 275 250 6 718 186
+SUM EGENKAPITAL 7 345 250 6 788 186
+GJELD
+LANGSIKTIG GJELD
+Pante- og gjeldsbrevlan 15 8 909 201 9 420 381
+Borettsinnskudd 16 3 920 000 3 920 000
+Annen langsiktig gjeld 28 406 23 996
+SUM LANGSIKTIG GJELD 12857607 13 364 377
+KORTSIKTIG GJELD
+Leverandgrgjeld 4 847 9 562
+Palgpte renter 205 590 229 377
+Palapte avdrag 259 636 241 423
+Annen kortsiktig gjeld 17 3 503 0
+SUM KORTSIKTIG GJELD 473 576 480 362
+SUM EGENKAPITAL OG GJELD 20 676 433 20632 926
+Pantstillelse 18 19600000 19600 000
+Garantiansvar 0 0
+Kongsberg, _.__.2026
+Styret i Hvittingfoss Sentrum Borettslag
+Johnny Stokke Tom Eivind Neverdal Magnus Visthus
+
+Vedlegg1 GS avi7 3265 Hvittingfoss Sentrum Borettslag Arsregnskap 2025.pdf
+LE
+COohhr’—N—_CTD ee Document ID 09222115557570950252 Ore ‘“_=¢0vVOOCOL LLh4SS_oaS_asS_asasasasO—aSs——VG$6——K——
+
+NOTE 1
+REGNSKAPSPRINSIPPER
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser, god regnskaps-
+skikk for sma foretak og etter forskrift om arsregnskap og arsberetning i borettslag.
+INNTEKTER
+Inntektene inntektsfgres etter opptjeningsprinsippet.
+HOVEDREGEL FOR KLASSIFISERING OG VURDERING AV EIENDELER OG GJELD
+Omlgpsmidler og kortsiktig gjeld omfatter poster som forfaller til betaling innen ett ar. Ovrige
+poster er klassifisert som anleggsmidler/langsiktig gjeld. Oml@psmidler vurderes til
+anskaffelseskost. Kortsiktig gjeld balansefgres til nominelt belap pa etableringstidspunktet.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdi-
+fallet ikke forventes a vzere forbigaende. Langsiktig gjeld balansefares til nominelt belap pa
+etableringstidspunktet.
+Bygninger er ikke avskrevet da det er gjennomfert vedlikehold som oppveier for verdi-
+forringelse. Tomter avskrives ikke.
+Andre varige driftsmidler balansefgres og avskrives linezert over driftsmidlenes akonomiske
+levetid.
+SKATTETREKKSKONTO
+Selskapet har egen separat skattetrekkskonto i OBOS-banken. Innskuddet tilhgrer
+myndighetene og kan ikke disponeres fritt.
+INDIVIDUELL NEDBETALING AV FELLESGJELD
+Borettslaget har etablert en ordning med mulighet for individuell nedbetaling av borettslagets
+fellesgjeld. Individuelle nedbetalinger fra andelseiere er behandlet etter
+egenkapitallasningen. Egenkapitallasningen innebzerer at individuelle nedbetalinger fra
+andelseiemes side inntektfgres i selskapet det aret nedbetalingen finner sted, og fares via
+balansen som egenkapital. Individuelle nedbetalinger fra andelseierne gar direkte videre til
+borettslagets langiver via en klientkonto, og pavirker ikke borettslagets likviditet.
+Nedbetalingene gir de andelseiere som har nedbetalt, reduksjon i rente- og avdragsdelen av
+fremtidige felleskostnader.
+Andelseierne som har nedbetalt ekstraordingert, har fatt sikkerhet ved inntrederett i
+pantobligasjonen som borettslagets langiver har tinglyst pa eiendommen. Borettslagets
+beregnede forpliktelse overfor andelseiere som har nedbetalt, fremgar som egenkapital fra
+IN, under noten for annen egenkapital.
+NOTE 2
+INNKREVDE FELLESKOSTNADER
+Felleskostnad 471 240
+Kapitalkostnader IN | 534 009
+Kapitalkostnader IN II 402 633
+Reg.kapitalkostnader IN | -1 409
+Reg.kapitalkostnader IN II -1 076
+Fratrekk kapitalkostnader -934 156
+SUM INNKREVDE FELLESKOSTNADER 471 240
+NOTE 3
+PERSONALKOSTNADER
+Arbeidsgiveravgift -5 640
+SUM PERSONALKOSTNADER -5 640
+Det har verken vzert ansatte eller lonnsutbetalinger i selskapet gjennom aret. Selskapet er
+derav ikke pliktig til a ha tjenestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+Arbeidsgiveravgiften knytter seg til styrehonoraret.
+
+Vedlegg1 10 av 17 3265 Hvittingfoss Sentrum Borettslag Arsregnskap 2025. pdf
+
+——uaoaarrerwrrv——————————  Pocument IB 09222115557570950252 ———.- jwere\eeoC.0C0O

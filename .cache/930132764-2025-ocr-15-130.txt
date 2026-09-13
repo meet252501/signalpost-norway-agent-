@@ -1,0 +1,525 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 730270
+Virksomheten
+Organisasjonsnummer : 930 132 764
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: AS MARKVEIEN 6
+Forretningsadresse: Nedre Gartnergaten 6
+5011 BERGEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ole Jan Strenen
+Dato for fastsettelse av arsregnskapet: 18.06.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 17.08.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 132 764
+
+AS MARKVEIEN 6
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Leieinntekter 5 397 589 5 322 461
+
+Sum inntekter 5 397 589 5 322 461
+
+Kostnader
+
+Lennskostnad 1
+
+Avskrivning pa driftsmidler 2 242 500 242 500
+
+Nedskrivning av varige
+
+driftsmidler og
+
+immaterielle eiendeler 2
+
+Annen driftskostnad 1 873 293 1 754 809
+
+Sum kostnader 2 115 793 1 997 309
+
+Driftsresultat 3 281 795 3 325 152
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+i samme konsern 475 693 723 535
+
+Annen renteinntekt 5 272 1 770
+
+Annen finansinntekt 13 795 14 700
+
+Sum finansinntekter 494 760 740 005
+
+Annen rentekostnad 1 882 497 1 974 101
+
+Sum finanskostnader 1 882 497 1 974 101
+
+Netto finans -1 387 737 -1 234 096
+
+Resultat fer skattekostnad 1 894 058 2 091 056
+
+Skattekostnad pa resultat 3 417 704 460 032
+
+Arsresultat 4 1 476 354 1 631 024
+
+Arsresultat etter
+
+minoritetsinteresser 1 476 354 1 631 024
+
+Totalresultat 1 476 354 1 631 024
+
+Overferinger og
+
+disponeringer
+
+Avsatt til fond for
+
+vurderingsforskjeller 4
+
+Ordinert utbytte 4
+
+Avgitt konsernbidrag 4 1 509 769 1 640 539
+
+Udekket tap 4, 4
+
+Avsatt til annen
+
+egenkapital 4
+
+Overfert fra annen
+
+egenkapital 4 -33 415 -9 515
+Utskriftsdato 17.08.2026 Organisasjonsnr 930 132 764 Side 1 av 4
+
+Mottatt konsernbidrag 4
+
+Sum overferinger og
+
+disponeringer 1 476 354 1 631 024
+Utskriftsdato 17.08.2026 Organisasjonsnr 930 132 764 Side 2 av 4
+
+Organisasjonsnr: 930 132 764
+
+AS MARKVEIEN 6
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3 329 618 321 490
+
+Sum immaterielle eiendeler 329 618 321 490
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 2, 5 27 059 734 27 082 639
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner o.
+
+1. 2 126 103 126 103
+
+Sum varige driftsmidler 2 27 185 837 27 208 742
+
+Sum anleggsmidler 27 515 455 27 530 232
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 6 905
+
+Andre kortsiktige
+
+fordringer 6 119 564 152 500
+
+Konsernfordringer 6 7 599 466 9 173 877
+
+Sum fordringer 7 719 030 9 327 282
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 1 076 263 51 552
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 076 263 51 552
+
+Sum omlepsmidler 8 795 293 9 378 835
+
+SUM ELENDELER 36 310 748 36 909 067
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital (1 000
+
+aksjer a kr 100) 4, 7 100 000 100 000
+
+Beholdning av egne aksjer 4, 7
+
+Overkurs 4
+
+Annen innskutt egenkapital 1 489 800 1 489 800
+
+Sum innskutt egenkapital 1 589 800 1 589 800
+Utskriftsdato 17.08.2026 Organisasjonsnr 930 132 764 Side 3 av 4
+
+Opptjent egenkapital
+
+Fond for
+
+vurderingsforskjeller 4
+
+Annen egenkapital 4 4 045 484 4 078 899
+
+Sum opptjent egenkapital 4 045 484 4 078 899
+
+Sum egenkapital 5 635 284 5 668 699
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Konvertible lan 5
+
+Obligasjonslan 5
+
+Gjeld til
+
+kredittinstitusjoner 5 28 200 000 28 200 000
+
+@vrig langsiktig gjeld 5, 6
+
+Sum annen langsiktig gjeld 28 200 000 28 200 000
+
+Sum langsiktig gjeld 28 200 000 28 200 000
+
+Kortsiktig gjeld
+
+Leverandergjeld 6 445 472 443 456
+
+Betalbar skatt 3
+
+Skyldige offentlige
+
+avgifter 35 264 45 172
+
+Kortsiktig konserngjeld 6 1 935 601 2 103 255
+
+Annen kortsiktig gjeld 6 59 127 448 485
+
+Sum kortsiktig gjeld 2 475 464 3 040 368
+
+Sum gjeld 30 675 464 31 240 368
+
+SUM EGENKAPITAL OG GJELD 36 310 748 36 909 067
+Utskriftsdato 17.08.2026 Organisasjonsnr 930 132 764 Side 4 av 4
+
+Organisasjonsnr: 930 132 764
+
+AS MARKVEIEN 6
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+a Deloitte AS
+Lars Hilles gate 30
+e Postboks 6013,
+Postterminalen
+NO-5008 Bergen
+Norway
++47 55 218100
+www .deloitte.no
+Til generalforsamlingen | AS Markveien 6
+UAVHENGIG REVISORS BERETNING
+Konklusjon
+Vi har revidert arsregnskapet for AS Markveien 6 som bestar av balanse per 31.12 2025, resultatregnskap for
+regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige
+regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e = gir Arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31.12 2025 og av dets
+resultater for regnskapsaret avsluttet per denne datoen i samsvar med regnskapslovens regler og god
+regnskapsskikk i Norge.
+Grunniag for konklusjonen
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare oppgaver og
+plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og plikter ved
+revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i relevante lover og
+forskrifter i Norge og International Code of Ethics for Professional Accountants (inkludert internasjonale
+uavhengighetsstandarder) utstedt av International Ethics Standards Board for Accountants (IESBA-reglene),
+og vi har overholdt vare @vrige etiske forpliktelser i samsvar med disse kravene. Innhentet revisjonsbevis er
+etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var konklusjon.
+Ledeisens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlige for 4 utarbeide arsregnskapet og for at det gir et rettvisende bilde
+i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik
+internkontroll som den finner ngdvendig for 4 kunne utarbeide et arsregnskap som ikke inneholder vesentlig
+feilinformasjon, verken som falge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og opplyse
+om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for
+arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er 4 oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som felge av misligheter eller utilsiktede feil, og 4 avgi en revisjonsberetning som
+inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti for at en
+revisjon utfart i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon kan oppsta
+som falge av misligheter eller utilsiktede feil. Feilinformasjon er 4 anse som vesentlig dersom den enkeltvis
+eller samlet med rimelighet kan forventes 4 pavirke de @konomiske beslutningene som brukerne foretar pa
+grunnlag av arsregnskapet.
+Som del av en revisjon i samsvar med ISA-ene, utaver vi profesjonelt skjgnn og utviser profesjonell skepsis
+gjennom hele revisjonen. | tillegg:
+Deloitte AS and Deloitte Advokatfirma AS are the Norwegian affiliates of Deloitte NSE LLP, a member firm of Deloitte Touche Tohmatsu Limited, a Registrert i Foretaksregisteret
+UK private company limited by guarantee (“DTTL”). DTTL and each of its member firms are legally separate anc indepencent entities. DTTL and Medlemmer av Den norske Revisorforening
+Deloitte NSE LLP do not provide services to clients. Please see www.deloitte.com/about to learn more about our global network of member firms. Organisasjonsnummer: 980 211 282
+Deloitte Norway conducts business through two legally separate and independent limited liability companies; Deloitte AS, providing audit,
+consulting, financial advisory and risk management services, and Deloitte Advokatfirma AS, providing tax anc legal services.
+
+= Uavhengig revisors beretning
+Deloitte. AS Markveien 6
+
+e identifiserer og vurderer vi risikoen for vesentlig feilinformasjon i arsregnskapet, enten det skyldes
+misligheter eller utilsiktede feil. Vi utformer og giennomfgrer revisjonshandlinger for 4 handtere slike
+risikoer, og innhenter revisjonsbevis som er tilstrekkelig og hensiktsmessig som grunnlag for var
+konklusjon. Risikoen for at vesentlig feilinformasjon som falge av misligheter ikke blir avdekket, er
+hg@yere enn for feilinformasjon som skyldes utilsiktede feil, siden misligheter kan innebzere
+samarbeid, forfalskning, bevisste utelatelser, uriktige fremstillinger eller overstyring av internkontroll.
+
+¢ opparbeider vi oss en forstaelse av intern kontroll som er relevant for revisjonen, for 4 utforme
+revisjonshandlinger som er hensiktsmessige etter omstendighetene, men ikke for 4 gi uttrykk for en
+mening om effektiviteten av selskapets interne kontroll.
+
+e evaluerer viom de anvendte regnskapsprinsippene er hensiktsmessige og om regnskapsestimatene
+og tilhgrende noteopplysninger utarbeidet av ledelsen er rimelige.
+
+e konkluderer vi pa om ledelsens bruk av fortsatt drift-forutsetningen er hensiktsmessig, og, basert pa
+innhentede revisjonsbevis, hvorvidt det foreligger vesentlig usikkerhet knyttet til hendelser eller
+forhold som kan skape tvil av betydning om selskapets evne til fortsatt drift. Dersom vi konkluderer
+med at det eksisterer vesentlig usikkerhet, kreves det at vi i revisjonsberetningen henleder
+oppmerksomheten pa tilleggsopplysningene i arsregnskapet, eller, dersom slike tilleggsopplysninger
+ikke er tilstrekkelige, at vi modifiserer var konklusjon. Vare konklusjoner er basert pa revisjonsbevis
+innhentet frem til datoen for revisjonsberetningen. Etterfalgende hendelser eller forhold kan
+imidlertid medfgre at selskapet ikke kan fortsette driften.
+
+e  evaluerer vi den samlede presentasjonen, strukturen og innholdet i arsregnskapet, inkludert
+tilleggsopplysningene, og hvorvidt arsregnskapet gir uttrykk for de underliggende transaksjonene og
+hendelsene pa en mate som gir et rettvisende bilde.
+
+Vi kommuniserer med styret blant annet om det planlagte innholdet i og tidspunkt for revisjonsarbeidet og
+eventuelle vesentlige funn i revisjonen, herunder vesentlige svakheter | intern kontroll som vi avdekker
+gjennom revisjonen.
+Bergen, 18. juni 2026
+Deloitte AS
+Erlend Haug
+statsautorisert revisor
+(elektronisk signert)
+2
+
+Uavhengig revisors beretning
+Name Date
+Haug, Erlend 2026-06-18
+Identification
+-== bankID Haug, Erlend
+_. This document contains electronic signatures using EU-compliant PAdES - PDF
+Signicat o |
+Advanced Electronic Signatures (Regulation (EU) No 910/2014 (elDAS))
+
+Arsregnskap 2025
+AS Markveien 6
+
+AS Markveien 6
+Resultatregnskap
+NOTER DRIFTSINNTEKTER OG DRIFTSKOSTNADER 2025 2024
+Leieinntekter 5 397 589 5 322 461
+Sum driftsinntekter 5 397 589 5 322 461
+2 Avskrivning pa driftsmidler 242 500 242 500
+Annen driftskostnad 1 873 293 1 754 809
+Sum driftskostnader 2 115 793 1 997 309
+Driftsresultat 3 281 795 3 325 152
+FINANSINNTEKTER OG FINANSKOSTNADER
+Renteinntekt fra foretak i samme konsern 475 693 723 535
+Renteinntekt 5272 1770
+Annen finansinntekt 13 795 14 700
+Rentekostnad 1 882 497 1974 101
+Resultat av finansposter -1 387 /37 -1 234 096
+Ordinzert resultat for skattekostnad 1 894 058 2 091 056
+3 Skattekostnad pa resultat 417 704 460 032
+4 Arsresultat 1 476 354 1 631 024
+OVERFORINGER
+4 Overfart fra annen egenkapital 33 415 9515
+4 Avgitt konsernbidrag 1 509 769 1 640 539
+Sum overferinger 1 4/6 354 1 631 024
+
+AS Markveien 6
+Balanse pr. 31. desember
+NOTER EIENDELER 2025 2024
+Anleggsmidier
+Immaterielle eiendeler
+3 Utsatt skattefordel 329 618 321 490
+Sum immaterielle eiendeler 329 618 321 490
+Varige driftsmidler
+2,5 Tomter, bygninger og annen fast eiendom 27 059 734 27 082 639
+2 Driftslosore, inventar, verktoy, kontormaskiner o.I. 126 103 126 103
+2 Sum varige driftsmidler 2/ 185 837 2f 208 /42
+Sum anleggsmidler 27 515 455 27 530 232
+Omlgpsmidier
+Fordringer
+6 Kundefordringer 0 905
+6 Fordring pa konsernselskaper 7 599 466 9173 877
+6 Andre kortsiktige fordringer 119 564 152 500
+Sum fordringer ¢f 719 030 9 327 282
+Bankinnskudd, kontanter o.I. 1 076 263 51 552
+Sum omlgpsmidler 8 795 293 9 378 835
+SUM EIENDELER 36 310 748 36 909 067
+
+AS Markveien 6
+Balanse pr. 31. desember
+NOTER EGENKAPITAL OG GJELD 2025 2024
+Egenkapital
+Innskutt egenkapital
+4,7 Aksjekapital (1 000 aksjer a kr 100) 100 000 100 000
+Annen innskutt egenkapital 1 489 800 1 489 800
+Sum innskutt egenkapital 1 589 800 1 589 800
+Opptjent egenkapital
+4 Annen egenkapital 4 045 484 4078 899
+Sum opptjent egenkapital 4 045 484 4 078 899
+Sum egenkapital 5 635 284 5 668 699
+Gjeld
+Annen langsiktig gjeld
+5 Gjeld til kredittinstitusjoner 28 200 000 28 200 000
+Sum annen langsiktig gjeld 28 200 000 28 200 000
+Kortsiktig gjeld
+6 Leverandgrgjeld 445 472 443 456
+Skyldige offentlige avgifter 35 264 45 172
+6 Gjeld til konsernselskaper 1 935 601 2 103 255
+6 Annen kortsiktig gjeld 59 127 448 485
+Sum kortsiktig gjeld 2 475 464 3 040 368
+Sum gjeld 30 675 464 31 240 368
+SUM EGENKAPITAL OG GJELD 36 310 748 36 909 067
+Bergen, 18. juni 2026
+Ole Jan Strenen
+styrets leder
+
+AS Markveien 6
+
+Noter til regnskapet 2025
+Regnskapsprinsipper
+Arsregnskapet er utarbeidet i samsvar med regnskapsloven av 1998 og god regnskapsskikk for sma foretak i
+Norge.
+Hovedregel for vurdering og klassifisering av eiendeler og gjeld
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer som skal tilbakebetales innen ett ar er klassifisert som omlgpsmidler. Ved
+klassifisering av kortsiktig og langsiktig gjeld er tilsvarende kriterier lagt til grunn.
+Anleggsmidler vurderes til anskaffelseskost, med fradrag for planmessige avskrivninger. Dersom gjenvinn-
+bart belap av anleggsmidler er lavere enn bokfgrt verdi og verdifallet forventes ikke a veere forbigaende, er
+det foretatt nedskrivning til gjenvinnbart belap. Anleggsmidler med begrenset @konomisk levetid avskrives
+planmessig. Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Annen langsiktig gjeld og
+kortsiktig gjeld er vurdert til palydende belap.
+Fordringer
+Kundefordringer og andre fordringer er oppfart til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de enkelte fordringer.
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende inkluderer kontanter, bankinnskudd og andre betalingsmidler med
+forfallsdato som er kortere enn tre maneder fra anskaffelse.
+Kostnader
+Kostnader regnskapsf@res som hovedregel i samme periode som tilngrende inntekt. | de tilfeller det ikke er
+en klar sammenheng mellom utgifter og inntekter fastsettes fordelingen etter skijannsmessige kriterier. Ovrige
+unntak fra sammenstillingsprinsippet er angitt der det er aktuelt.
+Skatter
+Skattekostnaden sammenstilles med regnskapsmessig resultat for skatt. Skatt kKnyttet til egenkapital-
+transaksjoner, for eksempel konsernbidrag, f@res mot egenkapitalen.
+Skattekostnaden bestar av betalbar skatt (skatt pa arets direkte skattepliktige inntekt) og endring i netto utsatt
+skatt. Skattekostnaden fordeles pa ordinzert resultat og virkning av prinsippendring og korrigering av feil i
+henhold til skattegrunnlaget. Utsatt skatt og utsatt skattefordel er presentert netto i balansen.
+Inntekter
+Inntekt regnskapsfgres nar den er opptjent, altsa nar krav pa vederlag oppstar. Dette skjer nar tjenesten ytes,
+i takt med at arbeidet utfares. Inntektene regnskapsf@res med verdien av vederlaget pa transaksjons-
+tidspunktet.
+
+AS Markveien 6
+Noter til regnskapet 2025
+Note 1 Lonnskostnader og ytelser, godtgjorelser til daglig leder og styret
+Selskapet har i 2025 ingen ansatte og har ikke utbetalt I@nn eller andre ytelser til selskapets styre.
+Pensjonsforpliktelser
+Selskapet har ingen ansatte og er ikke pliktig til 4 ha tjenestepensjonsordning etter lov om obligatorisk
+tjenestepensjon.
+Note 2 Anleggsmidler
+Markeveien Sundts veg 3 Andre Str@nevegen Sum
+6 driftsmidler,
+ikke
+avskrivbar
+Anskaffelseskost pr. 01.01.25 12171889 6000000 126103 17368139 35666 131
+Tilgang kjgpte driftsmidler 219 595 219 595
+Anskaffelseskost 31.12.25 12171889 6000000 126103 17587734 35885 726
+Akkumulerte avskrivninger 31.12.25 8 241 889 458 000 8 699 889
+Av- og nedskrivninger pr. 31.12.25 8 241 889 458 000 0 QO 8699 889
+Bokfert verdi 31.12.25 3930000 5542000 126103 17587734 27 185 837
+Arets ordineere avskrivninger 180 000 62 500 242 500
+Avskrivningsplan 05-4% 1% 0% 0%

@@ -1,0 +1,530 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 629388
+Virksomheten
+Organisasjonsnummer : 917 927 502
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SKARBO AS
+Forretningsadresse: Industriveien 33
+9325 BARDUFOSS
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Sidsel Sund Olsen
+Dato for fastsettelse av arsregnskapet: 26.06.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 25.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 917 927 502
+
+SKARBO AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 318 643 272 936
+
+Sum inntekter 318 643 272 936
+
+Kostnader
+
+Lennskostnad 7
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 2 24 900 24 900
+
+Annen driftskostnad 234 541 187 136
+
+Sum kostnader 259 441 212 036
+
+Driftsresultat 59 201 60 900
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 72
+
+Sum finansinntekter 72
+
+Annen rentekostnad 452
+
+Sum finanskostnader 452
+
+Netto finans -380
+
+Resultat fer skattekostnad 58 821 60 900
+
+Skattekostnad pa resultat 3 13 015 13 397
+
+Arsresultat 45 806 47 503
+
+Arsresultat etter
+
+minoritetsinteresser 45 806 47 503
+
+Totalresultat 45 806 47 503
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 4
+
+Konsernbidrag 4
+
+Avgitt konsernbidrag 4
+
+Udekket tap 4, 4
+
+Avsatt til annen
+
+egenkapital 4 45 806 47 503
+
+Overfert fra annen
+
+egenkapital 4
+
+Sum overferinger og
+
+disponeringer 45 806 47 503
+Utskriftsdato 25.07.2026 Organisasjonsnr 917 927 502 Side 1 av 3
+
+Organisasjonsnr: 917 927 502
+
+SKARBO AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3 104 419 101 359
+
+Sum immaterielle eiendeler 104 419 101 359
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 2 183 230 208 130
+
+Maskiner og anlegg 2
+
+Skip og flytende
+
+installasjoner 2
+
+Driftslesere, inventar o.
+
+a. utstyr 2
+
+Sum varige driftsmidler 2 183 230 208 130
+
+Andre langsiktige
+
+fordringer 6
+
+Sum anleggsmidler 287 649 309 489
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 20 654 22 670
+
+Andre kortsiktige
+
+fordringer 49 536 50 197
+
+Konsernfordringer 39 505
+
+Sum fordringer 109 695 72 867
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 472 934 446 851
+
+Sum bankinnskudd,
+
+kontanter og lignende 472 934 446 851
+
+Sum omlepsmidler 582 629 519 718
+
+SUM ELENDELER 870 278 829 207
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4, 5 120 000 120 000
+
+Overkurs 4 145 242 145 242
+Utskriftsdato 25.07.2026 Organisasjonsnr 917 927 502 Side 2 av 3
+
+Sum innskutt egenkapital 265 242 265 242
+
+Opptijent egenkapital
+
+Annen egenkapital 4 86 001 40 195
+
+Sum opptjent egenkapital 86 001 40 195
+
+Sum egenkapital 351 243 305 437
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 6
+
+Langsiktig konserngjeld 6 415 641 366 519
+
+@vrig langsiktig gjeld 6
+
+Sum annen langsiktig gjeld 415 641 366 519
+
+Sum langsiktig gjeld 415 641 366 519
+
+Kortsiktig gjeld
+
+Leverandergjeld 66 059 65 331
+
+Betalbar skatt 3 16 075 16 357
+
+Skyldig offentlige avgifter 21 260 26 441
+
+Utbytte 4
+
+Kortsiktig konserngjeld 6 49 122
+
+Sum kortsiktig gjeld 103 394 157 251
+
+Sum gjeld 519 035 523 770
+
+SUM EGENKAPITAL OG GJELD 870 278 829 207
+Utskriftsdato 25.07.2026 Organisasjonsnr 917 927 502 Side 3 av 3
+
+Organisasjonsnr: 917 927 502
+
+SKARBO AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+SKARBO AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 917 927 502
+
+Resultatregnskap
+SKARBO AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftsinntekt 318 643 272 936
+Sum driftsinntekter 318 643 272 936
+Avskrivning av driftsmidler og immaterielle eiendeler 2 24 900 24 900
+Annen driftskostnad 234 541 187 136
+Sum driftskostnader 259 441 212 036
+Driftsresultat 59 201 60 900
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 72 0
+Annen rentekostnad 452 0
+Resultat av finansposter -380 0
+Resultat for skattekostnad 58 821 60 900
+Skattekostnad pa resultat 3 13015 13 397
+Arsresultat 45 806 47 503
+Overforinger
+
+Avsatt til annen egenkapital 4 45 806 47 503
+Sum overforinger 45 806 47 503
+SKARBO AS Side 2
+
+Balanse
+
+SKARBO AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+immaterielle eiendeler
+Utsatt skattefordel 3 104 419 101 359
+Sum immaterielle eiendeler 104 419 101 359
+Varige driftsmidier
+Tomter, bygninger 0.a. fast eiendom 2 183 230 208 130
+Sum varige driftsmidler 2 183 230 208 130
+Finansielle anleggsmidier
+Sum anleggsmidler 287 649 309 489
+Omlopsmidler
+Varer
+Fordringer
+Kundefordringer 20 654 22 670
+Andre kortsiktige fordringer 49 536 50 197
+Konsernfordringer 39 505 0
+Sum fordringer 109 695 72 867
+investeringer
+Bankinnskudd, kontanter o.!
+Bankinnskudd, kontanter o.l. 472 934 446 851
+Sum bankinnskudd, kontanter o.| 472 934 446 851
+Sum omlepsmidler 582 629 519 718
+Sum eiendeler 870 278 829 207
+SKARBO AS Side 3
+
+Balanse
+SKARBO AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4,5 120 000 120 000
+Overkurs 4 145 242 145 242
+Sum innskutt egenkapital 265 242 265 242
+Opptjent egenkapital
+Annen egenkapital 4 86 001 40 195
+Sum opptjent egenkapital 86 001 40 195
+Sum egenkapital 351 243 305 437
+Gjeld
+Avsetning for forpliktelser
+Annen langsiktig gjeld
+Langsiktig konserngjeld 6 415 641 366 519
+Sum annen langsiktig gjeld 415 641 366 519
+Kortsiktig gjeld
+Leverandorgjeld 66 059 65 331
+Betalbar skatt 3 16 075 16 357
+Skyldig offentlige avgifter 21 260 26 441
+Kortsiktig konserngjeld 6 0 49 122
+Sum kortsiktig gjeld 103 394 157 251
+Sum gjeld 519 035 523 770
+Sum egenkapital og gjeld 870 278 829 207
+Styret i SKARBO AS
+Reier Terje Olsborg Anne Kristin Brekke
+styreleder styremedlem
+Sidsel Sund Olsen Ingvard Brekke
+styremedlem styremedlem
+SKARBO AS Side 4
+
+Noter til regnskapet 2025
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Bruk av estimater
+Utarbeidelse av regnskap i samsvar med regnskapsloven krever bruk av estimater. Videre krever
+anvendelse av selskapets regnskapsprinsipper at ledelsen ma utove skjann.
+Driftsinntekter
+Selskapets inntekter opptjenes ved utleie av fast eiendom og inntektsfores etter opptjeningsprinsippet.
+Klassifisering og vurdering av balanseposter
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Anleggsmidler er vurdert til
+anskaffelseskost. Omlopsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen
+ett ar etter balansedagen. Omlapsmidler vurderes til laveste verdi av anskaffelseskost og antatt virkelig
+verdi.
+Fordringer klassifiseres som omlapsmidler hvis de skal tilbakebetales i lopet av ett ar. For gjeld er analoge
+kriterier lagt til grunn. Forste ars avdrag pa langsiktige fordringer og langsiktig gjeld klassifiseres likevel
+ikke som omlopsmiddel og kortsiktig gjeld.
+Enkelte poster er vurdert etter andre regler.
+Varige driftsmidler
+Varige driftsmidler balansefores og avskrives linezert til restverdi over driftsmidlenes forventede
+utnyttbare levetid. Ved endring i avskrivningsplan fordeles virkningen over gjenvzerende avskrivningstid
+("knekkpunktmetoden"). Vedlikehold av driftsmidler kostnadsfores lapende. Pakostninger eller forbedringer
+tillegges driftsmidlets kostpris og avskrives i takt med driftsmidlet. Skillet mellom vedlikehold og
+pakostning/forbedring regnes i forhold til driftsmidlets stand ved kjap av driftsmidlet. Tomter avskrives
+ikke.
+Nedskrivning av anleggsmidler
+Ved indikasjon pa at balansefart verdi av et anleggsmiddel er hayere enn virkelig verdi, foretas det test for
+verdifall. Testen foretas for det laveste niva av anleggsmidler som har selvstendige kontantstrammer. Hvis
+balansefort verdi er hayere enn bade salgsverdi og gjenvinnbart belop, foretas det nedskrivning til det
+heyeste av salgsverdi og gjenvinnbart belop. Gjenvinnbart belop er det hayeste av netto salgsverdi og
+bruksverdi. Bruksverdi er naverdi av fremtidige kontantstrammer knyttet til eiendelen.
+Tidligere nedskrivninger, med unntak for nedskrivning av goodwill, reverseres hvis grunnlaget for
+nedskrivningen ikke lenger er til stede.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til
+forventet tap. Avsetning for tap gjores pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+| tillegg gjores det for avrige kundefordringer en uspesifisert avsetning for a dekke antatt tap.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt beregnes med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt eventuelt ligningsmessig underskudd til fremforing ved
+utgangen av regnskapsaret. Skatteakende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reversere i samme periode er utlignet og nettofort.
+Oppforing av utsatt skattefordel pa netto skattereduserende forskjeller som ikke er utlignet og underskudd
+til fremforing, er begrunnet med antatt fremtidig inntjening. Utsatt skattefordel som kan balansefores og
+utsatt skatt er oppfort netto i balansen.
+SKARBO AS Side 5
+
+Noter til regnskapet 2025
+Note 1 Virksomhetens art og lokalisering
+SKARBO AS er et selskap der virksomheten omfatter forvaltning av en eiendom beliggende i Malselv
+Kommune. Selskapet ledelse holder til i Malsely kommune.
+Note 2 Anleggsmidler
+Bygninger Sum
+og tomter
+Anskaffelseskost pr. 01.01.25 2 926 889 2 926 889
+= Anskaffelseskost 31.12.25 2 926 889 2 926 889
+Akkumulerte avskrivninger 31.12.25 2 743 659 2 743 659
+= Bokfort verdi 31.12.25 183 230 183 230
+Arets ordineere avskrivninger 24 900 24 900
+Skonomisk levetid 10-60 ar
+@konomisk levetid fra 10 ar og til uendelig for tomt
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfart skatt pa ordinaert resultat:
+Betalbar skatt 16 075 16 357
+Endring i utsatt skattefordel -3 060 -2 960
+Skattekostnad ordinzrt resultat 13015 13 397
+Skattepliktig inntekt:
+Resultat for skatt 58 821 60 900
+Permanente forskjeller 338 0
+Endring i midlertidige forskjeller 13.910 13 452
+Skattepliktig inntekt 73 069 74 352
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 16 075 16 357
+Sum betalbar skatt i balansen 16 075 16 357
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte skattefordeler,
+spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varige driftsmidler -474 631 -460 721 13 910
+Sum -474 631 -460 721 13910
+Grunnlag for utsatt skattefordel -474 631 -460 721 13910
+Utsatt skattefordel (22 %) -104 419 -101 359 3 060
+SKARBO AS Side 6
+
+Noter til regnskapet 2025
+Note 4 Egenkapital
+Aksjekapital Overkurs/Annen Annen Sum egenkapital
+innskutt EK egenkapital
+Pr. 01.01 120 000 145 242 40 195 305 437
+Arets resultat 45 806 45 806
+Pr 31.12 120 000 145 242 86 001 351 243
+Note 5 Antall aksjer, aksjeeiere m
+Aksjekapital Antall Palydende Balansefort
+Ordinzre aksjer 300 400 120 000
+SKARBO AS er ett heleid datterselskap av SOE Holding AS.
+Note 6 Fordringer og gjeld
+2025
+
+Fordringer med forfall > 1 ar 0
+Langsiktig gjeld med forfall >5 ar 0
+Gjeld som er sikret ved pant utgjer kr. 0. Balansefert verdi av de pansatte eiendelene utgjer kr. 0.
+Selskapet har langsiktig gjeld ovenfor morselskapet SOE Holding AS pa tilsammen 415 641 pr 31.12.2025.
+Denne gjelden har fleksibel nedbetalingstid.
+Note 7 Lonnskostnader og antall arsverk.
+Lonnskostnader
+
+2025 2024
+Sum 0 0
+Selskapet har i 2025 sysselsatt 0 arsverk.
+SKARBO AS Side 7
+
+BankiD Qualified Signature
+Finstad, Steinar
+2026-06-29
+° Halogaland Revisjon AS
+Halogaland
+* » Dronningensgate 31
+Revisjon 8514 Narvik
+narvik@halogalandrevisjon.no
+—_— +47 76 96 55 55
+Org.nr: 934 147 014
+OPPDRAGSANSVARLIGE REVISORER
+Statsautoriserte revisorer:
+. . . Tore Aleksander Hanssen,
+Til generalforsamlingen | Mikael Falch Hope og Steinar Finstad.
+Skarbo AS Medlemmer av Den Norske Revisorforening
+REVISORS BERETNING
+Uttalelse om revisjonen av arsregnskapet
+Konklusjon
+Vi har revidert arsregnskapet for Skarbo AS som viser et overskudd pa kr 45.806.-.
+Arsregnskapet bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret avsluttet
+per denne datoen og noter til arsregnskapet, herunder vesentlige opplysninger om regnskapsprinsipper.
+Etter var mening oppfyller arsregnskapet gjeldende lovkrav og gir et rettvisende bilde av selskapets
+finansielle stilling per 31. desember 2025, og av dets resultater for regnskapsaret avsluttet per denne
+datoen i samsvar med regnskapslovens regler og god regnskapsskikk i Norge.
+Grunniag for konklusjonen
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for
+Accountants (IESBA-reglene), og vi har overholdt vare @vrige etiske forpliktelser i samsvar med disse
+kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag
+for var konklusjon.
+Styrets og daglig leders ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlig for 4 utarbeide arsregnskapet og for at det gir et rettvisende
+bilde isamsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig
+for slik intern kontroll som den finner n@dvendig for a kunne utarbeide et arsregnskap som ikke
+inneholder vesentlig feilinformasjon, verken som felge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for
+arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisjon | Skatt og avgift | Radgiving
+
+Halogaland
+Revisjon
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er 4 oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en hgy grad av sikkerhet, men ingen garanti
+for at en revisjon utfort i samsvar med |ISA-ene, alltid vil avdekke vesentlig feilinformasjon.
+Feilinformasjon kan oppsta som fglge av misligheter eller utilsiktede feil. Feilinformasjon er a anse som
+vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke de gkonomiske
+beslutningene som brukerne foretar pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til
+https://revisorforeningen.no/revisjonsberetninger.
+Narvik, 29. juni 2026
+Halogaland Revisjon AS
+Steinar Finstad
+Sfatsautorisert revisor
+elektronisk signert
+Revisjon | Skatt og avgift | Radgiving

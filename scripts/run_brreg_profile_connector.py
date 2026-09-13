@@ -17,15 +17,15 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 
-def extract_brreg_observation(profile: dict) -> dict | None:
-    """Create a brreg platform observation from registry_live evidence."""
+def extract_brreg_observation(profile: dict) -> list[dict]:
+    """Create brreg platform observations from registry_live evidence."""
     org = str(profile.get("organisation_number", ""))
     if not org:
-        return None
+        return []
     
     registry = profile.get("evidence", {}).get("registry_live", {})
     if registry.get("status") != "available":
-        return None
+        return []
     
     value = registry.get("value", {})
     retrieved_at = registry.get("retrieved_at") or datetime.now(UTC).isoformat()
@@ -46,7 +46,9 @@ def extract_brreg_observation(profile: dict) -> dict | None:
     name = value.get("navn") or value.get("name") or profile.get("name", "")
     org_form = value.get("organisasjonsform", {}).get("beskrivelse", "")
     
-    return {
+    obs_list = []
+    
+    profile_obs = {
         "id": f"brreg-profile-{org}",
         "organisation_number": org,
         "platform": "brreg",
@@ -68,6 +70,19 @@ def extract_brreg_observation(profile: dict) -> dict | None:
         "evidence_span": f"{name} ({org_form}) - Brønnøysundregistrene",
         "strategy": "official_registry_profile",
     }
+    obs_list.append(profile_obs)
+    
+    ansatte = value.get("employees")
+    if ansatte is not None:
+        workforce_obs = dict(profile_obs)
+        workforce_obs["id"] = f"brreg-workforce-{org}"
+        workforce_obs["signal_type"] = "workforce_snapshot"
+        workforce_obs["metrics"] = {"workforce_size": int(ansatte)}
+        workforce_obs["evidence_span"] = f"employees: {ansatte}"
+        workforce_obs["strategy"] = "official_registry_workforce"
+        obs_list.append(workforce_obs)
+        
+    return obs_list
 
 
 def main():
@@ -89,7 +104,7 @@ def main():
     for profile in profiles:
         obs = extract_brreg_observation(profile)
         if obs:
-            observations.append(obs)
+            observations.extend(obs)
     
     output_path = Path(args.output)
     output_path.parent.mkdir(parents=True, exist_ok=True)

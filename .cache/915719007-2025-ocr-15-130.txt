@@ -1,0 +1,758 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 714881
+Virksomheten
+Organisasjonsnummer : 915 719 007
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: HELLENVEITEN 19 AS
+Forretningsadresse: c/o Amesto AccountHouse AS
+Smeltedigelen 1
+0195 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Stian Juul Bese Serensen
+Dato for fastsettelse av Aarsregnskapet: 11.06.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 12.08.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 915 719 007
+
+HELLENVEIEN 19 AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Leieinntekt 1 312 688 1 282 477
+
+Sum inntekter 1 312 688 1 282 477
+
+Kostnader
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 1 111 108 115 333
+
+Annen driftskostnad 2 183 897 229 369
+
+Sum kostnader 295 005 344 701
+
+Driftsresultat 1 017 684 937 776
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+1 samme konsern 3 139 748 79 062
+
+Annen renteinntekt 4 983 11 822
+
+Annen finansinntekt 474 1 642
+
+Sum finansinntekter 145 205 92 526
+
+Rentekostnad til foretak
+
+1 samme konsern 3 478 192 420 405
+
+Annen rentekostnad -35 0
+
+Sum finanskostnader 478 157 420 405
+
+Netto finans -332 951 -327 879
+
+Resultat fer skattekostnad 684 732 609 897
+
+Skattekostnad 4, 5 150 641 134 177
+
+Arsresultat 534 092 475 720
+
+Overferinger og
+
+disponeringer
+
+Avgitt konsernbidrag 561 591 507 911
+
+Annen egenkapital -27 499 -32 191
+Utskriftsdato 12.08.2026 Organisasjonsnr 915 719 007 Side 1 av 3
+
+Organisasjonsnr: 915 719 007
+HELLENVEIEN 19 AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 1, 6 5 195 835 5 306 942
+Sum varige driftsmidler 5 195 835 5 306 942
+Finansielle anleggsmidler
+Investering i datterselskap 3 0 0
+Lan til foretak i samme
+konsern 3 3 068 306 1 728 558
+Sum finansielle
+anleggsmidler 3 068 306 1 728 558
+Sum anleggsmidler 8 264 141 7 035 501
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 321 498 131 873
+Andre kortsiktige
+fordringer 175 921 107 859
+Konsernfordringer 3 0 0
+Sum fordringer 497 419 239 732
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 98 235 86 077
+Sum bankinnskudd,
+kontanter og lignende 98 235 86 077
+Sum omlepsmidler 595 654 325 810
+SUM ELENDELER 8 859 795 7 361 311
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 12.08.2026 Organisasjonsnr 915 719 007 Side 2 av 3
+
+Aksjekapital 7, 8 30 000 30 000
+
+Overkurs 8 5 700 5 700
+
+Sum innskutt egenkapital 35 700 35 700
+
+Opptjent egenkapital
+
+Annen egenkapital 8 192 121 219 621
+
+Sum opptjent egenkapital 192 121 219 621
+
+Sum egenkapital 227 821 255 321
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4, 5 69 398 77° =155
+
+Sum avsetninger for
+
+forpliktelser 69 398 77 °=#155
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 3 7 600 420 6 300 582
+
+Sum annen langsiktig gjeld 7 600 420 6 300 582
+
+Kortsiktig gjeld
+
+Leverandergjeld 9 007 36 337
+
+Skyldige offentlige
+
+avgifter 84 044 40 748
+
+Kortsiktig konserngjeld 3 719 988 651 168
+
+Annen kortsiktig gjeld 149 116 0
+
+Sum kortsiktig gjeld 962 155 728 253
+
+Sum gjeld 8 631 973 7 105 990
+
+SUM EGENKAPITAL OG GJELD 8 859 795 7 361 311
+Utskriftsdato 12.08.2026 Organisasjonsnr 915 719 007 Side 3 av 3
+
+Organisasjonsnr: 915 719 007
+
+HELLENVEIEN 19 AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Selskapets virksomhet er drift og utleie
+
+av fast eiendom. Virksomheten drives fra Oslo.
+
+Klassifisering og vurdering
+
+av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller
+
+bruk. Eiendeler som er knyttet til varekretslepet er klassifisert som
+omlepsmidler. Fordringer klassifiseres som omle@psmidler hvis de forfaller
+til betaling innen ett Ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og
+
+virkelig verdi. Kortsiktig gjeld balanseferes til nominelt belep pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes 4 vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer
+
+og andre fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning til forventet tap. Avsetning til tap gje@res pa grunnlag av
+individuelle vurderinger av de enkelte fordringene.
+
+Varige
+
+driftsmidler
+
+Varige driftsmidler balansefores og avskrives over
+
+driftsmidlenes levetid dersom de har antatt levetid over 3 ar og har en
+kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidler
+kostnadsferes lapende under driftskostnader, mens pakostninger eller
+forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+
+2025.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens
+
+betalbare skatt og endring i utsatt skatt. Utsatt skatt er beregnet med 22%
+pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt skattemessig underskudd til
+fremfering ved utgangen av regnskapsaret. Skattegkende og skattereduserende
+midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet
+
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Leieinntekter
+
+Leieinntekter opptjenes og resultatfores 1 takt
+
+med utleieperioden.
+
+Ved avtale om leiefritak i en periode, vanligvis ved
+
+inngaelse av leieavtalen og en periode fremover, fordeles inntekten over
+hele leieperioden slik at det ogsa resultatfores inntekter i den periode
+det etter avtalen ikke er belastet leie.
+
+Erstatninger som foelge av at
+
+leieforhold bringes til oppher fer opprinnelig avtalt utlepstidspunkt,
+inntektsferes med det belep som overstiger den til enhver tid nedvendige
+avsetning til dekning av utleieobjektets driftskostnader for gjenverende
+del av opprinnelig avtalt
+
+leieperiode.
+
+Leietakertilpasninger
+
+Leietakertilpasninger dekket av gardeier
+
+aktiveres og avskrives over resterende leieperiode.
+
+Aktiverte
+
+renter
+
+Eventuelle renter som knytter seg til anlegg under oppfering, blir
+aktivert som en del av kostprisen.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+6
+
+Gjeld
+
+Gjeld som forfaller til betaling mer enn fem Ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+
+Balansefeort verdi av de pantsatte eiendeler
+
+5195835.00
+
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+
+Selskapet har sikkerhetsansvar for lan i morselskapet Wilog II AS med pant i
+fast eiendom pa kr 55.000.000,- 1. prioritet.
+
+Det er pant i kundefordringer
+
+palydende kr. 5.000.000 til fordel for lan i morselskapet.
+
+Mer om gjeld
+
+Til generalforsamlingen i Hellenveien 19 AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet for Hellenveien 19 AS som viser et overskudd pa kr 534.092.
+Arsregnskapet bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret
+avsluttet per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige
+regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025
+og av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfgrt revisjonen i samsvar med International Standards on Auditing (ISA-ene}. Vare
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under "Revisors oppgaver
+og plikter ved revisjonen av arsregnskapet". Vi er uavhengige av selskapet i samsvar med kravene i
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board
+for Accountants (IESBA-reglene}, og vi har overholdt vare gvrige etiske forpliktelser i samsvar med
+disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som
+grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret (ledelsen} er ansvarlig for a utarbeide arsregnskapet og for at det gir et rettvisende bilde i
+samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for
+slik internkontroll som den finner n¢édvendig for a kunne utarbeide et arsregnskap som ikke
+inneholder vesentlig feilinformasjon, verken som fglge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli awiklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en hgy grad av sikkerhet, men ingen garanti
+for at en revisjon utfgrt i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon.
+Feilinformasjon kan oppsta som fglge av misligheter eller utilsiktede feil. Feilinformasjon er a anse
+som vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke de
+ékonomiske beslutningene som brukerne foretar pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til: https://revisorforeningen.no/om-
+revisjon/revisjonsberetning-revisors-oppgaver-og-plikter/
+Side 1 av 2
+Post- og besgksadresse: Medlemmer av Den Norske Revisorforening
+Holbergs gate 21 Bankgiro: Organisasjonsnr:
+0166 Oslo Telefon: +47 23 31 07 20 8397.05.05914 975 800 679 MVA
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures) av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering. SIGNICAT
+
+Alpha Revisjon AS
+Roger Skogly
+statsautorisert revisor
+(elektronisk signert)
+Side 2 av 2
+Post- og besgksadresse: Medlemmer av Den Norske Revisorforening
+Holbergs gate 21 Bankgiro: Organisasjonsnr:
+0166 Oslo Telefon: +47 23 31 07 20 8397.05.05914 975 800 679 MVA
+Dette dokumentet er signert med PAdES-formatet (PDF Advanced Electronic Signatures) av Signicat. Dette sikrer dokumentet og dets vedlegg mot endringer etter signering. SIGNICAT
+
+Elektronisk signatur
+Signert av Dato og tid (UTC+01:00) Central European Time (Berlin) (DD. MM.YYYY HA: MM:SS)
+21.06.2026 12:40:32
+Skogly, Roger Signoturmetode
+(identitet bekreftet med BankiD (NO) Ban k ID (N O )
+=== bankID
+
+Arsregnskap for
+HELLENVEIEN 19 AS
+915719007
+Regnskapsar
+01.01.2025 - 31.12.2025
+A
+:
+
+HELLENVEIEN 19 AS
+
+915 719 007
+
+Resultatregnskap
+
+Note 2025 2024
+
+Driftsinntekter
+
+Leieinntekt 1312 688 1 282 477
+
+Sum driftsinntekter 1312 688 1 282 477
+
+Driftskostnader
+
+Avskrivning pa varige driftsmidler og immaterielle 1 -111 108 -115 333
+
+eiendeler
+
+Annen driftskostnad 2 -183 897 -229 369
+
+Sum driftskostnader -295 005 -344 701
+
+Driftsresultat 1 017 684 937 776
+
+Finansinntekter
+
+Renteinntekt fra foretak i samme konsern 3 139 748 79 062
+
+Annen renteinntekt 4 983 11 822
+
+Annen finansinntekt 474 1 642
+
+Sum finansinntekter 145 205 92 526
+oc
+i
+
+Finanskostnader 2
+
+Rentekostnad til foretak i samme konsern 3 -478 192 -420 405 >
+
+Annen rentekostnad 35 0 $
+
+Sum finanskostnader -478 157 -420 405 =
+6
+
+Netto finans -332 951 -327 879 y
+>
+
+Resultat for skattekostnad 684 732 609 897 =
+aie
+
+Skattekosinad 4,5 -150 641 -134 177 E
+
+Arsresultat 534 092 475 720 mi
+x
+=
+
+Overferinger FS
+
+Avgitt konsernbidrag 561 591 507 911
+
+Annen egenkapital -27 499 -32 191 3
+
+Sum overferinger 534 092 475 720 &
+9
+Ng
+
+HELLENVEIEN 19 AS
+
+915 719 007
+
+Balanse
+
+Note 31.12.2025 31.12.2024
+
+EIENDELER
+
+Anleggsmidler
+
+Varige driftsmidler
+
+Tomter, bygninger og annen fast eiendom 1,6 5 195 835 5 306 942
+
+Sum varige driftsmidler 5 195 835 5 306 942
+
+Finansielle anleggsmidler
+
+Lan til foretak i samme konsern 3 3 068 306 1 728 558
+
+Sum finansielle anleggsmidler 3 068 306 1 728 558
+
+Sum anleggsmidler 8 264 141 7 035 501
+
+Omlgpsmidler
+cm
+
+Fordringer &
+
+Kundefordringer 321 498 131 873 >
+
+Andre kortsiktige fordringer 175 921 107 859 o
+
+Sum fordringer 497 419 239 732 i
+St
+st
+oo
+
+Bankinnskudd, kontanter og lignende rv"
+
+Bankinnskudd, kontanter og lignende 98 235 86 077 8
+
+Sum bankinnskudd, kontanter og lignende 98 235 86 077 <
+)
+IN
+
+Sum omlgpsmidler 595 654 325 810 =
+x
+
+SUM EIENDELER 8 859 795 7 361 311 c
+g
+iss]
+§
+o
+E
+&
+9S
+5
+&
+
+HELLENVEIEN 19 AS
+
+915 719 007
+
+Balanse
+
+Note 31.12.2025 31.12.2024
+
+EGENKAPITAL OG GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 7,8 30 000 30 000
+
+Overkurs 8 5 700 5 700
+
+Sum innskutt egenkapital 35 700 35 700
+
+Opptjent egenkapital
+
+Annen egenkapital 8 192 121 219 621
+
+Sum opptjent egenkapital 192 121 219 621
+
+Sum egenkapital 227 821 255 321
+
+Gjeld
+
+Avsetning og forpliktelser 5
+
+Utsatt skatt 4,5 69 398 77 155 a
+
+Sum avsetning for forpliktelser 69 398 77 155 a
+St
+st
+oo
+
+Annen langsiktig gjeld rv"
+
+Langsiktig konserngjeld 3 7 600 420 6 300 582 8
+
+Sum annen langsiktig gjeld 7 600 420 6 300 582 <
+)
+N
+
+Kortsiktig gjeld =
+
+Leverandergjeld 9 007 36 337 nN
+
+Skyldige offentlige avgifter 84 044 40 748 c
+
+Kortsiktig konserngjeld 3 719 988 651 168 Ee
+
+Annen kortsiktig gjeld 149 116 0 =
+
+Sum kortsiktig gjeld 962 155 728 253 =
+E
+
+Sum gjeld 8 631 973 7 105 990 3
+°
+
+SUM EGENKAPITAL OG GJELD 8 859 795 7 361 311 S
+&
+
+OSLO, 11.06.2026
+
+Stian Juul Boe Sgrensen Finn Erik Reed Jern Bertil Lyshoel
+
+styrets leder styremediem styremediem
+
+Jonas Snefjella Lovas
+
+styremediem
+
+HELLENVEIEN 19 AS
+
+915 719 007
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+
+Selskapets virksomhet er drift og utleie av fast eiendom. Virksomheten drives fra Oslo.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+
+ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+
+a veere forbigaende. Langsiktig gield med unntak av andre avsetninger balansefgres til nominelt belap pa "
+
+etableringstidspunktet. iS
+
+Fordringer 2
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet $
+
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene. c
+XO
+DO
+Ww)
+
+Varige driftsmidler =
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar x
+
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfgres Ig@pende under ¢
+
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med rz)
+
+driftsmidlet. =
+x
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025. s
+E
+
+Skatt 3
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt 2
+
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige S
+
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret. *
+
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Leieinntekter
+
+Leieinntekter opptjenes og resultatfgres i takt med utleieperioden.
+
+Ved avtale om leiefritak i en periode, vanligvis ved inngaelse av leieavtalen og en periode fremover, fordeles
+
+inntekten over hele leieperioden slik at det ogsa resultatfgres inntekter i den periode det etter avtalen ikke er
+
+belastet leie.
+
+Erstatninger som felge av at leieforhold bringes til opphg@r fer opprinnelig avtalt utlapstidspunkt, inntektsfores
+
+med det belgp som overstiger den til enhver tid ngdvendige avsetning til dekning av utleieobjektets
+
+driftskostnader for gjenveerende del av opprinnelig avtalt leieperiode.
+
+Leietakertilpasninger
+
+Leietakertilpasninger dekket av gardeier aktiveres og avskrives over resterende leieperiode.
+
+Aktiverte renter
+
+Eventuelle renter som knytter seg til anlegg under oppforing, blir aktivert som en del av kostprisen.
+
+HELLENVEIEN 19 AS
+915 719 007
+Note 1 - Varige driftsmidler/anleggsmidler
+Tomter,
+bygninger og
+annen fast
+Varige driftsmidler eiendom
+Anskaffelseskost pr 01.01 6 194 092
+Tilgang i aret 0
+Avgang i aret 0
+Anskaffelseskost pr 31.12 6 194 092
+Akkumulert av- og nedskrivninger 01.01 -887 150
+Akkumulert av- og nedskrivninger 31.12 -998 258
+Balansefort verdi pr 31.12 5 195 835
+Arets av- og nedskrivninger 111 108
+@konomisk levetid 0-50
+Avskrivningsplan Lineeer
+Note 2 - Revisjon “
+lead
+N
+Godtgjorelse til revisor 2025 2024 2
+Revisjon 26 931 29 838 =
+Andre tjenester 0 0 $
+Sum godtgjorelse til revisor 26 931 29 838 =
+Note 3 - Konsern, mellomvzrende med selskaper i samme konsern g
+i
+a
+<
+Fordringer 2025 2024 &
+Lan til foretak i samme konsern 3 068 306 1 728 558 FE
+Andre kortsiktig fordringer konsern 0 0
+3 068 306 1 728 558 =
+&
+©
+=
+Gjeld 2025 2024 g
+Langsiktig gjeld fra foretak i samme konsern -7 600 420 -6 300 582
+Annen kortsiktig gjeld konsern -719 988 -651 168
+-8 320 408 -6 951 750
+Mellomveerende renteberegnes arlig med 3 mnd NIBOR pluss p.t. 2,4 % margin

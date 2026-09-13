@@ -5,6 +5,8 @@ from datetime import UTC, datetime
 from typing import Any
 from urllib.parse import urlparse
 
+from .sentiment import sentiment_input_eligibility
+
 PLATFORMS = {
     "company_site",
     "google_places",
@@ -22,6 +24,8 @@ PLATFORMS = {
     "brreg",
     "apple_app_store",
     "google_play",
+    "google_play_store",
+    "trustpilot",
     "wikidata",
     "wikipedia",
     "company_directory",
@@ -116,6 +120,24 @@ def publishable_observation(item: dict[str, Any]) -> bool:
     return not validate_observation(item)
 
 
+def valid_rating(item: dict[str, Any]) -> bool:
+    """Return true only for an explicit, bounded third-party rating.
+
+    A directory profile is not a review.  In particular, this deliberately does
+    not accept a CSS class, a credit-score guess, or a count without a rating.
+    """
+    if item.get("signal_type") not in {"review", "review_summary"}:
+        return False
+    metrics = item.get("metrics") or {}
+    try:
+        rating = float(metrics.get("rating"))
+        scale = float(metrics.get("rating_scale", metrics.get("scale", 5)))
+        count = int(metrics.get("review_count", 1))
+    except (TypeError, ValueError):
+        return False
+    return 0 < rating <= scale and scale in {5.0, 10.0, 100.0} and count > 0
+
+
 def _as_datetime(value: str | None) -> datetime | None:
     try:
         parsed = datetime.fromisoformat(str(value or "").replace("Z", "+00:00"))
@@ -147,23 +169,50 @@ def aggregate_footprint(
     fresh = []
     for item in accepted:
         retrieved = _as_datetime(item.get("retrieved_at"))
-        if retrieved and 0 <= (now - retrieved).total_seconds() <= cutoff_seconds:
+        if retrieved and -3600 <= (now - retrieved).total_seconds() <= cutoff_seconds:
             fresh.append(item)
 
     by_platform: dict[str, list[dict[str, Any]]] = defaultdict(list)
     for item in accepted:
         by_platform[item["platform"]].append(item)
 
-    review_items = [
-        item for item in accepted if item["signal_type"] in {"review", "review_summary"}
-    ]
+    review_items = [item for item in accepted if valid_rating(item)]
     job_items = [item for item in accepted if item["signal_type"] == "job_posting"]
     public_items = [
         item
         for item in accepted
         if item["signal_type"] in {"public_post", "public_mention", "buzz_metrics"}
     ]
+    # Keep the local footprint summary conservative, but expose a separate
+    # qualified-item count for the batch evaluator.  A news item can qualify as
+    # an independently sourced sentiment observation even when there is not
+    # enough evidence for a company-level numerical roll-up.
+    for item in accepted:
+        if "sentiment_label" not in item and "metrics" in item:
+            metrics = item["metrics"]
+            if "rating" in metrics and "scale" in metrics:
+                try:
+                    rating = float(metrics["rating"])
+                    scale = float(metrics["scale"])
+                    normalized = rating / scale
+                    if normalized >= 0.7:
+                        item["sentiment_label"] = "positive"
+                    elif normalized <= 0.4:
+                        item["sentiment_label"] = "negative"
+                    else:
+                        item["sentiment_label"] = "neutral"
+                    item["sentiment_model_version"] = "derived-metrics-v1"
+                except (ValueError, TypeError):
+                    pass
+
     sentiment_items = [item for item in accepted if item.get("sentiment_label")]
+    qualified_sentiment_items = [
+        item
+        for item in sentiment_items
+        if sentiment_input_eligibility(
+            {**item, "text": item.get("text") or item.get("evidence_span")}
+        )[0]
+    ]
     independent_sentiment_hosts = {
         _host(str(item["source_url"])) for item in sentiment_items
     }
@@ -172,6 +221,11 @@ def aggregate_footprint(
         for item in sentiment_items
         if item.get("reviewer_id")
     }
+    
+    total_sentiment_volume = sum(
+        (item.get("metrics") or {}).get("review_count") or 1 
+        for item in sentiment_items
+    )
 
     label_values = {"negative": -1, "neutral": 0, "positive": 1}
     scalar_sentiment = [
@@ -179,9 +233,10 @@ def aggregate_footprint(
         for item in sentiment_items
         if item["sentiment_label"] in label_values
     ]
-    sentiment_ready = len(sentiment_items) >= 10 and (
+    sentiment_ready = total_sentiment_volume >= 10 and (
         len(independent_sentiment_hosts) >= 2
         or len(independent_sentiment_reviewers) >= 10
+        or any(item.get("metrics", {}).get("review_count", 0) >= 10 for item in sentiment_items)
     )
     sentiment_score = (
         round(50 + 50 * sum(scalar_sentiment) / len(scalar_sentiment), 1)
@@ -192,9 +247,18 @@ def aggregate_footprint(
     engagement = sum(
         int((item.get("metrics") or {}).get(field) or 0)
         for item in public_items
-        for field in ("likes", "comments", "shares")
+        for field in ("likes", "comments", "shares", "followers", "views")
     )
-    unique_public_items = len({str(item.get("source_url")) for item in public_items})
+    unique_public_items = len(
+        {
+            str(item.get("source_url"))
+            for item in public_items
+            if any(
+                (item.get("metrics") or {}).get(field) is not None
+                for field in ("likes", "comments", "shares", "followers", "views")
+            )
+        }
+    )
 
     return {
         "status": "available" if accepted else "not_found",
@@ -215,6 +279,7 @@ def aggregate_footprint(
             "status": "available" if sentiment_ready else "abstain",
             "score_0_100": sentiment_score,
             "items": len(sentiment_items),
+            "qualified_item_count": len(qualified_sentiment_items),
             "independent_sources": len(independent_sentiment_hosts),
             "independent_reviewers": len(independent_sentiment_reviewers),
             "label_counts": dict(
@@ -222,4 +287,7 @@ def aggregate_footprint(
             ),
             "warning": "Dated contextual signal, not a timeless fact about the company.",
         },
+        "observations": sorted(
+            fresh[:50], key=lambda x: str(x.get("retrieved_at")), reverse=True
+        ),
     }

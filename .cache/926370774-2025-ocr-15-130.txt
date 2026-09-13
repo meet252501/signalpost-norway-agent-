@@ -1,0 +1,567 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 351199
+Virksomheten
+Organisasjonsnummer : 926 370 774
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NIAM VII PP1 AS
+Forretningsadresse: c/o Niam AS,
+Fridtjof Nansens plass 5
+0160 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Torstein Bomann-Larsen
+Dato for fastsettelse av Aarsregnskapet: 11.03.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.04.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 926 370 774
+
+NIAM VII PP1 AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt
+
+{(leieinntekt) 40 174 456 39 181 823
+
+Sum inntekter 40 174 456 39 181 823
+
+Kostnader
+
+Avskrivning pa driftsmidler 4 7 148 421 5 599 099
+
+Annen driftskostnad 5 3 696 072 34 963 570
+
+Sum kostnader 10 844 493 40 562 669
+
+Driftsresultat 29 329 962 -1 380 846
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap 6
+
+Renteinntekt fra foretak
+
+i samme konsern 6
+
+Annen renteinntekt 57 004 404 777
+
+Annen finansinntekt 46 057 598 100
+
+Sum finansinntekter 103 061 1 002 877
+
+Rentekostnad til foretak
+
+i samme konsern 6 4 332 896 2 127 500
+
+Annen rentekostnad 7 20 223 819 18 217 550
+
+Annen finanskostnad 8 3 542 629 1 980 854
+
+Sum finanskostnader 28 099 343 22 325 904
+
+Netto finans -27 996 283 -21 323 027
+
+Resultat fer skattekostnad 1 333 680 -22 703 873
+
+Skattekostnad pa resultat 9 3 211 067 -4 902 738
+
+Arsresultat 10 -1 877 387 -17 801 135
+
+Arsresultat etter
+
+minoritetsinteresser -1 877 387 -17 801 135
+
+Totalresultat -1 877 387 -17 801 135
+
+Overferinger og
+
+disponeringer
+
+Avgitt konsernbidrag 5 650 000
+
+Overfert fra annen
+
+egenkapital -7 527 387 -17 801 135
+
+Sum overferinger og
+
+disponeringer -1 877 387 -17 801 135
+Utskriftsdato 20.04.2026 Organisasjonsnr 926 370 774 Side 1 av 3
+
+Organisasjonsnr: 926 370 774
+NIAM VII PP1 AS
+BALANSE
+Belep i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 9
+Varige driftsmidler
+Tomter, bygninger o.a.
+fast eiendom 4 508 570 525 515 707 632
+Maskiner og anlegg 4
+Driftslesere, inventar o.
+a. utstyr 4 77 318 88 633
+Sum varige driftsmidler 508 647 843 515 796 265
+Finansielle anleggsmidler
+Lan til foretak i samme
+konsern 6, 8
+Lan til tilknyttet
+selskap og felles
+kontrollert virksomhet 8
+Andre langsiktige
+fordringer 8 387 500 687 500
+Sum finansielle
+anleggsmidler 387 500 687 500
+Sum anleggsmidler 509 035 343 516 483 765
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 603 335 1 283 187
+Fordringer pa selskap i
+samme konsern 6
+Sum fordringer 603 335 1 283 187
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 20 958 630 26 167 295
+Sum bankinnskudd,
+kontanter og lignende 20 958 630 26 167 295
+Sum omlepsmidler 21 561 965 27 450 482
+SUM ELENDELER 530 597 308 543 934 247
+BALANSE - EGENKAPITAL OG
+GJELD
+Utskriftsdato 20.04.2026 Organisasjonsnr 926 370 774 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 1 000 000 1 000 000
+
+Annen innskutt egenkapital 144 530 000 144 530 000
+
+Sum innskutt egenkapital 145 530 000 145 530 000
+
+Opptjent egenkapital
+
+Annen egenkapital -21 662 985 -14 135 598
+
+Sum opptjent egenkapital -21 662 985 -14 135 598
+
+Sum egenkapital 10 123 867 015 131 394 402
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 9 26 118 811 22 907 744
+
+Sum avsetninger for
+
+forpliktelser 26 118 811 22 907 744
+
+Annen langsiktig gjeld
+
+Obligasjonslan 7
+
+Gjeld til
+
+kredittinstitusjoner 7 294 375 000 300 000 000
+
+Langsiktig gjeld til
+
+selskap i samme konsern 6 54 284 204 51 056 425
+
+Sum annen langsiktig gjeld 348 659 204 351 056 425
+
+Sum langsiktig gjeld 374 778 015 373 964 169
+
+Kortsiktig gjeld
+
+Leverandergjeld 1 083 231 1 403 685
+
+Betalbar skatt 9
+
+Skyldig offentlige avgifter 2 795 792 2 251 954
+
+Utbytte 6
+
+Kortsiktig gjeld til
+
+selskap i samme konsern 6 8 747 084 13 152 879
+
+Annen kortsiktig gjeld 19 326 172 21 767 158
+
+Sum kortsiktig gjeld 31 952 279 38 575 676
+
+Sum gjeld 406 730 294 412 539 845
+
+SUM EGENKAPITAL OG GJELD 530 597 308 543 934 247
+Utskriftsdato 20.04.2026 Organisasjonsnr 926 370 774 Side 3 av 3
+
+Organisasjonsnr: 926 370 774
+
+NIAM VII PP1 AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Docusign Envelope ID: B4654A59-711D-4202-98B1-1AFS23CC6C6B
+Niam VII PP1 AS, org.nr. 926 370 774
+Arsregnskap for 2025
+- Resultatregnskap
+- Balanse
+- Noteopplysninger
+
+Docusign Envelope ID: B4654A59-7 11D-4202-98B1-1AF523CC6C6B
+Resultatregnskap
+Niam VII PP1 AS
+
+Note 2025 2024
+Driftsinntekter og driftskostnader
+Annen driftsinntekt (leieinntekt) 40 174 456 39 181 823
+Sum driftsinntekter 40 174 456 39 181 823
+Avskrivning pa driftsmidler 4 7 148 421 5 599 099
+Annen driftskostnad 5 3 696 072 34 963 570
+Sum driftskostnader 10 844 493 40 562 669
+Driftsresultat 29 329 962 -1 380 846
+Finansinntekter og finanskostnader
+Annen renteinntekt 57 004 404 777
+Annen finansinntekt 46 057 598 100
+Rentekostnad til foretak 1 samme konsern 6 4 332 896 2 127 500
+Annen rentekostnad 7 20 223 819 18 217 550
+Annen finanskostnad 8 3 542 629 1 980 854
+Netto finansposter -27 996 283-21 323 027
+Resultat fer skattekostnad 1 333 680 = -22. 703 873
+Skattekostnad pa resultat 9 3 211 067 -4 902 738
+Arsresultat 10 -1877387 = -17801 135
+Overferinger
+Avsatt konsernbidrag 5 650 000 0
+Overfort fra annen egenkapital -7527387  -17 801 135
+Sum overferinger -1877387 = -17 801 135
+
+Docusign Envelope ID: B4654A59-7 11D-4202-98B1-1AF523CC6C6B
+Balanse
+Niam VII PP1 AS
+
+Eiendeler Note 2025 2024
+Anleggsmidler
+
+Tomter, bygninger o.a. fast eiendom 4 508 570525 =515 707 632
+Driftslosgre, inventar 0.a. utstyr 4 77 318 88 633
+Sum varige driftsmidler 508 647 843 515 796 265
+Finansielle anleggsmidler
+
+Andre langsiktige fordringer 8 387 500 687 500
+Sum finansielle anleggsmidler 387 500 687 500
+Sum anleggsmidler 509 035343 =. 516 483 765
+Omlspsmidler
+
+Andre kortsiktige fordringer 603 335 1 283 187
+Sum fordringer 603 335 1 283 187
+Bankinnskudd, kontanter o.1. 20 958 630 26 167 295
+Sum omlepsmidler 21 561 965 27 450 482
+Sum eiendeler 530 597308 543 934 247
+
+Docusign Envelope ID: B4654A59-7 11D-4202-98B1-1AF523CC6C6B
+Balanse
+Niam VII PP1 AS
+
+Egenkapital og gjeld Note 2025 2024
+Innskutt egenkapital
+
+Aksjekapital 1 000 000 1 000 000
+Annen innskutt egenkapital 144530000 144530000
+Sum innskutt egenkapital 145 530000 §=6145 530 000
+Opptjent egenkapital
+
+Annen egenkapital -21 662985 -14 135598
+Sum opptjent egenkapital -21 662 985 = -14 135 598
+Sum egenkapital 10 123 867015 131394 402
+Gjeld
+
+Utsatt skatt 9 26 118 811 22 907 744
+Annen langsiktig gjeld
+
+Gjeld til kredittinstitusjoner 7 294 375000 300000 000
+Langsiktig gjeld til selskap i samme konsern 6 54 284 204 51 056 425
+Sum annen langsiktig gjeld 348 659 204 = 351 056 425
+Kortsiktig gjeld
+
+Leverandorgjeld 1 083 231 1 403 685
+Skyldig offentlige avgifter 2 795 792 2 251 954
+Kortsiktig gjeld til selskap 1 samme konsern 6 8 747 084 13 152 879
+Annen kortsiktig gjeld 19 326 172 21 767 158
+Sum kortsiktig gjeld 31 952 279 38 575 676
+Sum gjeld 406 730 294 §=412 539 845
+Sum egenkapital og gjeld 530 597308 543 934 247
+
+Oslo, 11.03.2026
+Styret i Niam VII PP1 AS
+DocuSigned by: DocuSigned by: DocuSigned by:
+[sin Domavur—l arse | Thomas Fiskerstrand [ Marten Roland
+A72TCSERIDIAdZZ 557B130732974039 ..
+Torstein Bomann-Larsen Thomas Fiskerstrand Morten Roland
+Styreleder Styremedlem Styremedlem
+
+Docusign Envelope ID: B4654A59-7 11D-4202-98B1-1AF523CC6C6B
+Niam VII PP1 AS 926 370 774
+Regnskapsprinsipper
+Niam VII PP1 AS har forretningsadresse 1 Oslo. Selskapets virksomhet bestar 1 4 eie, drifte og leie
+ut fast eiendom. Eiendommen er lokalisert pa Lysaker og virksomheten drives fra selskapets
+forretningsadresse 1 Oslo.
+Selskapet er et heleid datterselskap av Niam VII Holding AS.
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Valuta
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapsarets slutt.
+Driftsinntekter og driftskoatnader
+Leieinntekter bokfgres 1 den periode de palgper. Driftskostnader bokferes i den perioden de paleper.
+Skatt
+Skattekostnaden 1 resultatregnskapet omfatter bade periodens betalbare skatt og endring 1 utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremforing
+ved utgangen av regnskapsaret. Skatteokende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres 1 samme periode er utlignet og nettofort.
+Balansefort utsatt skatt er diskontert som folge av tidligere fusjoner. I skattenoten vises brutto
+(nominell) utsatt skatt, og deretter de elementer som ikke er medtatt. Grunnlaget for disse elementer
+er merverdi tomt og merverdi bygg.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefores og avskrives over driftsmidlets sakonomiske
+levetid. Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som
+gjelder rabygget og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives
+til gjenvinnbart belgp ved verdifall som forventes ikke a vere forbigaende. Gjenvinnbart belep er
+det hgyeste av netto salgsverdi og verdi i bruk. Verdi 1 bruk er naverdi av fremtidige
+kontantstrammer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for nedskrivingen
+ikke lenger er til stede.
+Klassifisering og vurdering av omlepsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslopet. Omlopsmidler vurderes til laveste
+verdi av anskaffelseskost og virkelig verdi.
+Fordringer
+Kundefordringer og andre fordringer oppfores til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjores pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Docusign Envelope ID: B4654A59-7 11D-4202-98B1-1AF523CC6C6B
+Niam VII PP1 AS 926 370 774
+Note 2 Hendelser etter balansedagen og fortsatt drift
+Det har ikke inntruffet hendelser etter utlopet av 2025 som har betydning for vurdering av regnskap og
+stilling pr 31/12-2025.
+Note 3: Lennskostnader, antall ansatte, lan til ansatte
+Selskapet har ingen ansatte og er folgelig ikke pliktig til 4 ha tjenestepensjon etter lov om obligatorisk
+tjenestepensjon.
+Det er ingen ytelser til styret og det foreligger ingen bonusavtaler, lan eller sikkerhetsstillelse til ledende
+personer.
+Note 4 Varige driftsmidler
+Tomter, Leietager- Driftslesere, Totalt
+bygninger o.a._‘tilpasningeri  _—s inventar 0.a.
+fast eiendom arbeid utstyr
+Anskaffelseskost 01.01 576 941 050 14 429 407 112 922 591 483 378
+Tilgang 14 429 407 -14 429 407 0 0
+Avgang 0 0 0 0
+Anskaffelseskost 31.12 591 370 457 0 112 922 591 483 378
+Akk. av-/nedskrivninger -82 799 932 0 -35 603 -82 835 535
+31.12
+Balansefert verdi 31.12 508 570 525 0 77 318 508 647 843
+Arets avskrivning, 7 137 107 0 11 315 7148 421
+nedskrivning og
+reversering
+Avskrivningssats 1% 0% 10%
+Avskrivningsplan Linezr Linezr Linezr
+@konomisk levetid 84 ar 0 ar 10 ar
+Note 5 Andre driftskostnader
+Andre driftskostnader bestar av vedlikehold bygning og tekniske anlegg samt honorarer.
+Ulike honorarer utgjor kr 1 526 742 1 2025 mot kr 1 519 185 1 fjor. Vedlikehold utgjor kr 1 926 329
+12025 mot kr 33 180 1161 fjor.
+
+Docusign Envelope ID: B4654A59-7 11D-4202-98B1-1AF523CC6C6B
+
+Niam VII PP1 AS 926 370 774
+Note 6 Mellomvzerende med selskap i samme konsern
+
+2025 2024
+Fordringer
+Sum 0 0
+Gjeld
+Lan fra foretak 1 samme konsern 1 Gnkl. kurskorreksjon) 54 284 204 51 056 425
+Konsernbidrag avsatt 7 650 000 11 000 000
+Annen kortsiktig gjeld konsern (palepte renter) 1 097 084 2 152 879
+Sum 63 031 288 64 209 304
+Alle konserninterne fordringer og gjeld renteberegnes etter markedsmessige renteniva. Lan fra morselskap er
+i svenske kroner (SEK) med opptakskurs tilsvarende NOK 50 000 000. Forfall er siste bankdag 1 juni 2034.
+Transaksjoner med foretak 1 samme konsern:
+
+2025 2024
+Rentekostnader til foretak 1 samme konsern 4 332 896 2 127 500
+Sum 4 332 896 2 127 500
+Note 7: Lan, pant og garantier
+Lan fra BN Bank pa NOK 294 375 000 er sikret gjennom pant i eiendommen. Lanet lgper 1 inntil
+15.04.2027 og er uten avdrag.
+Det foreligger en rentebytteavtale knyttet til lanet i BN Bank. BN Bank garanterer for selskapets
+forpliktelser overfor Sparebank 1SMN. Verdien av rentebytteavtalen bokfores ikke 1
+selskapsregnskapet. Renter kostnadsfert 1 2025 utgjor NOK 20 221 477. Fastrenteelementet 1
+avtalen utgjor 4,1 %. Avtalen loper til 15.04.2027.
+Note 8 Andre fordringer
+Andre fordringer er aktiverte lanekostnader kr 900 000 med fradrag for amortisering kr 512 500. Arets
+kostnader er kr 300 000.
+
+Docusign Envelope ID: B4654A59-7 11D-4202-98B1-1AF523CC6C6B
+
+Niam VII PP1 AS 926 370 774
+Note 9 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzrt resultat:
+Betalbar skatt 0 71314
+Endring i utsatt skatt 3 211 067 -4 974 052
+Skattekostnad ordinzrt resultat 3 211 067 -4 902 738
+Skattepliktig inntekt:
+Resultat for skatt 1 333 680 -22 703 873
+Permanente forskjeller 0 0
+Endring i midlertidige forskjeller 5 942 248 1 043 948
+Anvendelse av fremforbart underskudd -7 275 928 0
+Skattepliktig inntekt 0 -21 659 925
+Betalbar skatt 1 balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremforing som har gitt opphav til utsatt
+skatt og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Varige driftsmidler 331 819 076 334 195 146 2 376 070
+Langs. fordr. og gjeld i ut. valuta -4 284 204 -1 056 425 3 227 779
+Gevinst — og tapskonto 153 600 192 000 38 400
+Andre forskjeller 387 500 687 500 300 000
+Sum 328 075 973 334 018 221 5 942 248
+Akkumulert fremforbart underskudd -14 383 997 -21 659 925 -7 275 928
+Andre midlertidige forskjeller 1 149914 1 149 914 0
+Avskaret rentefradrag -1 149914 -1 149 914 0
+Inngar ikke 1 beregningen av utsatt skatt -194 970 108 -208 232 188 -13 262 080
+Grunnlag for utsatt skatt 118 721 868 104 126 108 -14 595 760
+Utsatt skatt (22 %) 26 118 811 22 907 744 -3 211 067
+
+Docusign Envelope ID: B4654A59-7 11D-4202-98B1-1AF523CC6C6B
+
+Niam VII PP1 AS 926 370 774
+Note 10 Egenkapital
+
+Aksjekapital Annen Annen Sum
+
+Innskutt egenkapital egenkapital
+egenkapital
+Pr. 31.12.2024 1000000 144530000 = -14135598 — 131 394 402
+Pr 01.01.2025 1000000 = 144530000 8 -14135598 131394 402
+Arets resultat -1 877 387 -1 877 387
+Konsernbidrag avgitt (etter skatt) -5 650 000 -5 650 000
+Pr 31.12.2025 1000000 144530000 -21662985 123 867015
+Aksjekapitalen bestar av:
+Antall Palydende Balansefort
+Ordinzre aksjer 1 1 000 000 1 000 000
+Oversikt over aksjonzrene 1 selskapet pr. 31.12.2025:
+Ordinere aksjer Eierandel Stemmeandel
+
+Niam VII Holding AS... 1 100 % 100 %
+I samsvar med regnskapslovens § 4-5 bekreftes det at forutsetningene om fortsatt drift er lagt til grunn ved
+utarbeidelsen av regnskapet og at denne forutsetningen er til stede.
+Regnskapet til Niam VII PP1 AS inngar 1 konsernregnskapet til Niam VII Luxembourg S.a.r.l. 1
+Luxembourg og kan fas utlevert ved henvendelse dit.
+Adresse: Niam AB, Box 7693, 103 95 Stockholm
+
+Ernst & Young AS Tlf: +47 24 00 24 00
+H ta 9, 7010 Trondhei Wwww.ey.no
+Shape the future Postboks 1299 Pirsenteret, 7462 Trondheim Medlemmer av Den norske Revisorforening
+with confidence
+Til generalforsamlingen i Niam VII PP1 AS
+UAVHENGIG REVISORS BERETNING
+Konklusjon
+Vi har revidert arsregnskapet for Niam VII PP1 AS som bestar av balanse per 31. desember 2025,
+resultatregnskap for regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder et
+sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025 og
+av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med regnskapslovens xs
+regler og god regnskapsskikk i Norge. 2
+wh
+Na)
+Grunnlag for konklusjon N
+St
+tay
+ty
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare é
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og S
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i relevante =
+lover og forskrifter i Norge og International Code of Ethics for Professional Accountants (inkludert N
+internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for Accountants s
+(IESBA-reglene), og vi har overholdt vare @vrige etiske forpliktelser i samsvar med disse kravene. %
+Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var 8
+konklusjon. gy
+3S
+§
+Ledelsens ansvar for arsregnskapet :
+Ps
+Styret (ledelsen) er ansvarlig for 4 utarbeide arsregnskapet og for at det gir et rettvisende bilde i samsvar 8
+med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik g
+internkontroll som den finner ngdvendig for a kunne utarbeide et arsregnskap som ikke inneholder s
+vesentilig feilinformasjon, verken som fglge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for
+arsregnskapet med mindre ledelsen enten har til hensikt 4 avvikle selskapet eller legge ned
+virksomheten, eller ikke har noe realistisk alternativ til dette.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og 4 avgi en revisjonsberetning som
+inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti for at en
+revisjon utfort i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon kan
+oppsta som falge av misligheter eller utilsiktede feil. Feilinformasjon er 4 anse som vesentlig dersom den
+enkeltvis eller samlet med rimelighet kan forventes a pavirke de gkonomiske beslutningene som brukerne
+foretar, pa grunnlag av arsregnskapet.
+Som del av en revisjon i samsvar med ISA-ene, utover vi profesjonelt skjonn og utviser profesjonell
+skepsis gjennom hele revisjonen. | tillegg:
+A member firm of Ernst & Young Global Limited

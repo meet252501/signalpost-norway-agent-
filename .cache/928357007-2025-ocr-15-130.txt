@@ -1,0 +1,342 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 563506
+Virksomheten
+Organisasjonsnummer : 928 357 007
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: CHRIMO HOLDING AS
+Forretningsadresse: Salhusvegen 55
+5131 NYBORG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Morten Adnekvam Hammer
+Dato for fastsettelse av arsregnskapet: 18.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.06.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 928 357 007
+
+CHRIMO HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 1
+
+Annen driftskostnad 23 032 16 775
+
+Sum kostnader 23 032 16 775
+
+Driftsresultat -23 032 -16 775
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 6 32
+
+Sum finansinntekter 6 32
+
+Netto finans 6 32
+
+Resultat fer skattekostnad -23 026 -16 743
+
+Skattekostnad pa resultat 2
+
+Arsresultat 3 -23 026 -16 743
+
+Arsresultat etter
+
+minoritetsinteresser -23 026 -16 743
+
+Totalresultat -23 026 -16 743
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -23 026 -16 743
+
+Sum overferinger og
+
+disponeringer -23 026 -16 743
+Utskriftsdato 20.06.2026 Organisasjonsnr 928 357 007 Side 1 av 3
+
+Organisasjonsnr: 928 357 007
+
+CHRIMO HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 2
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 4 100 000 100 000
+
+Sum finansielle
+
+anleggsmidler 100 000 100 000
+
+Sum anleggsmidler 100 000 100 000
+
+Omlepsmidler
+
+Varer
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 4
+
+Markedsbaserte aksjer 4
+
+Markedsbaserte obligasjoner 4
+
+Andre markedsbaserte
+
+finansielle instrumenter 4
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 156 10 182
+
+Sum bankinnskudd,
+
+kontanter og lignende 156 10 182
+
+Sum omlepsmidler 156 10 182
+
+SUM ELENDELER 100 156 110 182
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 100 000 100 000
+
+Annen innskutt egenkapital -5 570 -5 570
+
+Sum innskutt egenkapital 94 430 94 430
+
+Opptjent egenkapital
+
+Udekket tap 45 274 22 248
+
+Sum opptjent egenkapital -45 274 -22 248
+Utskriftsdato 20.06.2026 Organisasjonsnr 928 357 007 Side 2 av 3
+
+Sum egenkapital 3 49 156 72 182
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Betalbar skatt 2
+
+Annen kortsiktig gjeld 51 000 38 000
+
+Sum kortsiktig gjeld 51 000 38 000
+
+Sum gjeld 51 000 38 000
+
+SUM EGENKAPITAL OG GJELD 100 156 110 182
+Utskriftsdato 20.06.2026 Organisasjonsnr 928 357 007 Side 3 av 3
+
+Organisasjonsnr: 928 357 007
+
+CHRIMO HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Chrimo Holding AS
+Resultatregnskap
+Bal
+Noter til regnskapet
+Org.nr.: 928 357 007
+
+Resultatregnskap
+Chrimo Holding AS
+
+Driftsinntekter og driftskostnader Note 2024 2024
+Annen driftskostnad 23 032 16 775
+Sum driftskostnader 23 032 16 775
+Driftsresultat -23 032 -16 775
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 6 32
+Resultat av finansposter 6 32
+Resultat for skattekostnad -23 026 -16 743
+Arsresultat 3 -23 026 -16 743
+Overferinger
+
+Overfert til udekket tap 23 026 16 743
+Sum overforinger -23 026 -16 743
+Chrimo Holding AS Side 2
+
+Balanse
+Chrimo Holding AS
+
+Eiendeler Note 2025 2024
+Anleggsmidler
+
+Finansielle anleggsmidler
+
+Investeringer i tilknyttet selskap 4 100 000 100 000
+Sum finansielle anleggsmidler 100 000 100 000
+Sum anleggsmidler 100 000 100 000
+Omlg@psmidiler
+
+Bankinnskudd, kontanter o.. 156 10 182
+Sum omlg@psmidler 156 10 182
+Sum eiendeler 100 156 110 182
+Chrimo Holding AS Side 3
+
+Balanse
+Chrimo Holding AS
+
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 100 000 100 000
+Annen innskutt egenkapital -5 570 -5 570
+Sum innskutt egenkapital 94 430 94 430
+Opptjent egenkapital
+
+Udekket tap -45 274 -22 248
+Sum opptjent egenkapital -45 274 -22 248
+Sum egenkapital 3 49 156 72 182
+Annen kortsiktig gjeld 51 000 38 000
+Sum kortsiktig gjeld 51 000 38 000
+Sum gjeld 51 000 38 000
+Sum egenkapital og gjeld 100 156 110 182
+
+Asane, , 16.06.2026
+Styret i Chrimo Holding AS
+Morten Aadnekvam Hammer Christine Aadnekvam Hammer
+styreleder/daglig leder styremediem
+Chrimo Holding AS Side 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+ARTEN AV VIRKSOMHETEN OG HVOR DEN DRIVES
+
+Selskapets virksomhet bestar av investeringer og utvikling av andre selskaper, og drives i Bergen kommune.
+Valuta
+
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapséarets slutt.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skatteskende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofart.
+
+Klassifisering og vurdering av omlgpsmidler
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+Note 1 Lonnskostnader
+
+Chrimo Holding AS har ikke hatt lgnns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+
+Note 2 Skatt
+Arets skattekostnad 2025 2024
+Resultatfort skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzrt resultat 0 0
+Skattepliktig inntekt:
+Resultat fer skatt -23 026 -16 743
+Permanente forskjeller 0 0
+Skattepliktig inntekt -23 026 -16 743
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt og
+utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -50 844 -27 818 23 026
+Inngar ikke i beregningen av utsatt skatt 50 844 27 818 -23 026
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 3 Egenkapital
+Aksjekapital §Overkurs Annen Innskutt Annen Sum
+egenkapital egenkapital egenkapital
+Egenkapital 1.1.2025 100 000 0 -5 570 -22 248 72 182
+Arets resultat -23 026 -23 026
+Pr 31.12.2025 100 000 0 -5 570 -45 274 49 156
+Note 4 Aksjer og andeler i andre foretak m.v.
+Chrimo Holding AS eier 30% av aksjene i Asane Tekniske Gruppe AS, som gir 30% av stemmene i
+selskapet. Asane Tekniske Gruppe AS har forretningskontor i Asane.
+Chrimo Holding AS eier 20% av aksjene i Asane Tekniske Gruppe Elektro AS, som gir 20% av stemmene i
+selskapet. Asane Tekniske Gruppe Elektro AS har forretningskontor i Asane.

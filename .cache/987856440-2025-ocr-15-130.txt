@@ -1,0 +1,487 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 471691
+Virksomheten
+Organisasjonsnummer : 987 856 440
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: HOELS ELEKTRO AS
+Forretningsadresse: Krokeidevegen 71
+5244 FANA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Jan Hoel
+Dato for fastsettelse av arsregnskapet: 20.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 26.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 987 856 440
+
+HOELS ELEKTRO AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 779 192 771 120
+
+Sum inntekter 779 193 771 120
+
+Kostnader
+
+Varekostnad 132 396 185 031
+
+Lennskostnad 3, 4 539 088 491 889
+
+Annen driftskostnad 97 175 81 769
+
+Sum kostnader 768 659 758 689
+
+Driftsresultat 10 534 12 431
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 311 378
+
+Sum finansinntekter 311 378
+
+Sum finanskostnader e) e)
+
+Netto finans 311 378
+
+Resultat fer skattekostnad 10 845 12 809
+
+Arsresultat 10 845 12 809
+
+Arsresultat etter
+
+minoritetsinteresser 10 845 12 809
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 10 845 12 809
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 10 845 12 809
+
+Sum overferinger og
+
+disponeringer 10 845 12 809
+Utskriftsdato 26.05.2026 Organisasjonsnr 987 856 440 Side 1 av 3
+
+Organisasjonsnr: 987 856 440
+
+HOELS ELEKTRO AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Varelager 23 670 8 070
+
+Sum varer 23 670 8 070
+
+Fordringer
+
+Kundefordringer 56 828 37 831
+
+Andre kortsiktige
+
+fordringer 0 839
+
+Sum fordringer 56 828 38 670
+
+Investeringer
+
+Markedsbaserte obligasjoner 581 581
+
+Sum investeringer 581 581
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 103 869 150 389
+
+Sum bankinnskudd,
+
+kontanter og lignende 103 869 150 389
+
+Sum omlepsmidler 184 948 197 710
+
+SUM ELENDELER 184 948 197 710
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 100 000 100 000
+
+Sum innskutt egenkapital 100 000 100 000
+Utskriftsdato 26.05.2026 Organisasjonsnr 987 856 440 Side 2 av 3
+
+Opptjent egenkapital
+
+@reavrunding -1 -2
+
+Udekket tap 1 030 934 1 041 779
+
+Sum opptjent egenkapital -1 030 935 -1 041 781
+
+Sum egenkapital -930 935 -941 781
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 7 775 14 759
+
+Leverandergjeld 11 548 8 169
+
+Skyldig offentlige avgifter 44 008 26 967
+
+Annen kortsiktig gjeld 1 052 552 1 089 596
+
+Sum kortsiktig gjeld 1115 883 1139 491
+
+Sum gjeld 1115 883 1 139 491
+
+SUM EGENKAPITAL OG GJELD 184 948 197 710
+Utskriftsdato 26.05.2026 Organisasjonsnr 987 856 440 Side 3 av 3
+
+Organisasjonsnr: 987 856 440
+
+HOELS ELEKTRO AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Fana
+
+Virksomhetens art
+
+Rengj@ringsvirksomhet, vinduspuss,
+
+elektroreparasjoner, kj@p og salg av handelsvarer, kj@p, salg og utleie av
+
+eiendommer, samt beslektet virksomhet, herunder deltakelse i andre selskap
+med lignende virksomhet.
+Note
+2
+Er det usikkerhet om fortsatt drift?: Nei
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om
+fortsatt drift, da det er
+iverksatt tiltak for 4 styrke selskapets ekonomi.
+Note
+3
+Antall Arsverk i regnskapsaret
+1.00
+Note
+4
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+468594.00 424549.00
+Folketryqdavgift Arets Fjorarets
+66623 .00 65260.00
+Andre ytelser Arets Fjorarets
+3871.00 2080.00
+Sum lonnskostnader Arets Fijorarets
+539088.00 491889.00
+
+Arsregnskap 2025
+Hoels Elektro AS
+(987 856 440)
+Hoels Elektro AS Arsregnskap Side 1 av6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 779 192 771120
+Sum driftsinntekter 779 193 771120
+Driftskostnader
+
+Varekostnad 132 396 185 031
+
+Lennskostnad 3,4 539 088 491 889
+
+Annen driftskostnad 97 175 81 769
+Sum driftskostnader 768 659 758 689
+Driftsresultat 10 534 12 431
+Finansinntekter
+
+Annen renteinntekt 311 378
+Sum finansinntekter 311 378
+Netto finans 311 378
+Resultat for skatt 10 845 12 809
+Arsresultat 10845 12809
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 10 845 12 809
+Sum overferinger og disponeringer 10 845 12 809
+
+Hoels Elektro AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Varelager 23 670 8 070
+Fordringer
+
+Andre kortsiktige fordringer @) 839
+
+Kundefordringer 56 828 37 831
+Sum fordringer 56 828 38 670
+Investeringer
+
+Markedsbaserte obligasjoner 581 581
+Sum investeringer 581 581
+Bankinnskudd, kontanter o.l. 103 869 150 389
+Sum omlepsmidler 184 948 197 710
+Sum eiendeler 184 948 197 710
+
+Hoels Elektro AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+Annen egenkapital -1 -2
+Udekket tap -1030934 -1041779
+Sum opptjent egenkapital -1030935 -1041781
+Sum egenkapital -930935 -941781
+Gijeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner, kortsiktig 7775 14 759
+Leverandergjeld 11 548 8 169
+Skyldig offentlige avgifter 44 008 26 967
+Annen kortsiktig gjeld 1 052 552 1 089 596
+Sum kortsiktig gjeld 1115883 1139491
+Sum gjeld 1115883 1139491
+Sum egenkapital og gjeld 184 948 197 710
+Hoels Elektro AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Fana
+Virksomhetens art
+Rengjoringsvirksomhet, vinduspuss, elektroreparasjoner, kj@p og salg av handelsvarer, kjap,
+salg og utleie av eiendommer, samt beslektet virksomhet, herunder deltakelse i andre selskap
+med lignende virksomhet.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er iverksatt tiltak for a styrke selskapets okonomi.
+Note 3: Arsverk
+Antall arsverk er 1.
+
+Hoels Elektro AS Arsregnskap Side 5 av 6
+
+Note 4: Lonnskostnader
+2025 2024
+Lenn 468 594 424 549
+Arbeidsgiveravgift 66 623 65 260
+Pensjon 0 0
+Andre ytelser 3 871 2 O80
+Sum lonnskostnader 539 088 491 889
+Hoels Elektro AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Hoels Elektro AS <jan@hoelvaskeri.no>
+Elektronisk signering
+JAN HOEL
+09.02.1966 - Daglig leder, Styreleder
+Y) Signert
+23.05.2026 13:06
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 23.05.2026 13:03:52

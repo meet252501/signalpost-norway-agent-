@@ -1,0 +1,506 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 311163
+Enheten
+Organisasjonsnummer : 929 647 785
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: ALEXANDER OLSEN HOLDING AS
+Forretningsadresse: c/O Alexander Olsen
+Knauslia 42
+3261 LARVIK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Alexander Olsen
+Dato for fastsettelse av arsregnskapet: 15.02.2026
+Revisjon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 17.02.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 929 647 785
+
+ALEXANDER OLSEN HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 0 9 000
+
+Sum inntekter 0 9 000
+
+Kostnader
+
+Annen driftskostnad 21 441 8 408
+
+Sum kostnader 21 441 8 408
+
+Driftsresultat -21 441 592
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 50 000 0
+
+Annen renteinntekt 86 0
+
+Sum finansinntekter 50 086 fe)
+
+Sum finanskostnader fe) e)
+
+Netto finans 50 086 e)
+
+Resultat fer skattekostnad 28 645 592
+
+Skattekostnad 0 243
+
+Arsresultat 28 645 349
+
+Arsresultat etter
+
+minoritetsinteresser 28 645 349
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 28 645 349
+
+Overferinger og
+
+disponeringer
+
+Tilleggsutbytte 15 000 0
+
+Overferinger til/fra
+
+annen egenkapital 13 645 348
+
+Sum overferinger og
+
+disponeringer 28 645 349
+Utskriftsdato 17.02.2026 Organisasjonsnr 929 647 785 Side 1 av 3
+
+Organisasjonsnr: 929 647 785
+
+ALEXANDER OLSEN HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 2 30 000 30 000
+
+Lan til foretak i samme
+
+konsern 2 20 000 35 000
+
+Investeringer 1
+
+tilknyttet selskap 2 21 000 24 600
+
+Sum finansielle
+
+anleggsmidler 71 000 89 600
+
+Sum anleggsmidler 71 000 89 600
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 11 844 7 866
+
+Sum bankinnskudd,
+
+kontanter og lignende 11 844 7 866
+
+Sum omlepsmidler 11 844 7 866
+
+SUM EIENDELER 82 844 97 466
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 50 000 50 000
+
+Sum innskutt egenkapital 50 000 50 000
+Utskriftsdato 17.02.2026 Organisasjonsnr 929 647 785 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 30 981 17 336
+
+Sum opptjent egenkapital 30 981 17 336
+
+Sum egenkapital 80 981 67 336
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 1 862 0
+
+Betalbar skatt 0) 130
+
+Annen kortsiktig gjeld 0 30 000
+
+Sum kortsiktig gjeld 1 863 30 130
+
+Sum gjeld 1 863 30 130
+
+SUM EGENKAPITAL OG GJELD 82 844 97 466
+Utskriftsdato 17.02.2026 Organisasjonsnr 929 647 785 Side 3 av 3
+
+Organisasjonsnr: 929 647 785
+
+ALEXANDER OLSEN HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Tjodalyng
+
+Virksomhetens art
+
+Eie, kja@pe og selge aksjer og
+
+selskapsandeler, og virksomhet som star i forbindelse med dette.
+
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00
+Sum Belgp
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+
+Note
+
+2
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregns kap
+
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Ja
+
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a4
+felge unntaksregelen i regnskapslovens § 3-2 (3).
+
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+
+Fordringer
+Samlet belep - foretak i samme konserm Arets Fjorarets
+
+20000.00 35000.00
+
+Samlet belap - tilknyttet selskap Arets Fjorarets
+Samlet belep - foretak i samme konserm Arets Fjorarets
+
+Kortsiktig gjeld
+Samlet belep - foretak i samme konsern Arets Fjorarets
+Samlet belep - felles kontrollert virksomhet Arets Fjorarets
+
+Pantstillelse Belgap
+Note
+Virkelig verdi og resultatfert verdiendr. i perioden, finansielle instrumenter
+Mer om finansielle instrumenter
+Beskrivelse av finansielle derivater
+Beholdning av egqne aksjer Antall Palydende Andel av _aksjek.
+
+Arsregnskap 2025
+Alexander Olsen Holding AS
+(929 647 785)
+& Alexander Olsen Holding AS
+Alexander Olsen Holding AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 0 9 000
+Sum driftsinntekter 0 9 000
+Driftskostnader
+
+Annen driftskostnad 21 441 8 408
+Sum driftskostnader 21 441 8 408
+Driftsresultat -21 441 592
+Finansinntekter
+
+Inntekt pa investering i datterselskap og tilknyttet selskap 50 000 @)
+
+Annen renteinntekt 86 @)
+Sum finansinntekter 50 086 0
+Netto finans 50 086 0
+Resultat for skatt 28 645 592
+Skattekostnad 0 243
+Arsresultat 28645 349
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 13 645 348
+
+Tilleggsutbytte 15 000 @)
+Sum overferinger og disponeringer 28 645 349
+
+Alexander Olsen Holding AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anieggsmidler
+Investeringer i datterselskap 2 30000 30000
+Lan til foretak i samme konsern 2 20000 35000
+Investeringer i tilknyttet selskap 2 21000 24600
+Sum finansielle anleggsmidler 71000 89600
+Sum anleggsmidler 71000 89600
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 11 844 7 866
+Sum omlepsmidler 11844 7866
+Sum eiendeler 82844 97 466
+Alexander Olsen Holding AS Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 50 000 50 000
+Sum innskutt egenkapital 50000 50000
+Opptjent egenkapital
+
+Annen egenkapital 30 981 17 336
+Sum opptjent egenkapital 30981 17336
+Sum egenkapital 80981 67 336
+Gijeld
+Kortsiktig gjeld
+
+Leverandergjeld 1 862 @)
+
+Betalbar skatt @) 130
+
+Annen kortsiktig gjeld O 30000
+Sum kortsiktig gjeld 1863 30130
+Sum gjeld 1863 30130
+Sum egenkapital og gjeld 82844 97 466
+
+Alexander Olsen Holding AS Arsregnskap Side 4 av 6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Tjodalyng
+Virksomhetens art
+Eie, kiope og selge aksjer og selskapsandeler, og virksomhet som star i forbindelse med dette.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Note 2: Konsern
+Virksomheten er et morselskap. Virksomheten utarbeider ikke konsernregnskap, herunder
+konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger 4 falge
+unntaksregelen i regnskapslovens § 3-2 (3).
+Fordringer og gjeld
+Mot foretak i samme konsern 2025 2024
+Fordringer 20 000 35 000
+Kortsiktig gjeld e) @)
+Langsiktig gjeld 0) 0
+
+Alexander Olsen Holding AS Arsregnskap Side 5 av 6
+
+Alexander Olsen Holding AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Alexander Olsen <alexanderolsen@outlook.com>
+Elektronisk signering
+ALEXANDER OLSEN (Styreleder)
+05.08.1992
+© Signert
+15.02.2026 16:34 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 15.02.2026 16:34:03

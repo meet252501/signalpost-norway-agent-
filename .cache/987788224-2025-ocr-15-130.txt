@@ -1,0 +1,362 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 624540
+Virksomheten
+Organisasjonsnummer : 987 788 224
+Organisasjonsform: Norskreg. utenlandsk foretak
+Foretaksnavn: DELANTERO LTD NUF
+Forretningsadresse: Brugata 6
+5523 HAUGESUND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Heidi Kolsta
+Dato for fastsettelse av arsregnskapet: 29.06.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 987 788 224
+
+DELANTERO LTD NUF
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 5 474 2 200
+
+Sum kostnader 5 474 2 200
+
+Driftsresultat -5 474 -2 200
+
+Finansinntekter og
+
+finanskostnader
+
+Verdigkning andre
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 0 96 403
+
+Sum finansinntekter 0 96 403
+
+Verdireduksjon andre
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 62 917 0
+
+Sum finanskostnader 62 917 0
+
+Netto finans -62 917 96 403
+
+Resultat for skattekostnad -68 392 94 203
+
+Skattekostnad -1 326 25 104
+
+Arsresultat -67 066 69 099
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -67 066 69 099
+
+Sum overferinger og
+
+disponeringer -67 066 69 099
+Utskriftsdato 28.07.2026 Organisasjonsnr 987 788 224 Side 1 av 3
+
+Organisasjonsnr: 987 788 224
+
+DELANTERO LTD NUF
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 1 810 484
+
+Sum immaterielle eiendeler 1 810 484
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 87 489 150 406
+
+Sum finansielle
+
+anleggsmidler 87 489 150 406
+
+Sum anleggsmidler 89 299 150 890
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre fordringer 550 10 350
+
+Sum fordringer 550 10 350
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 60 2 534
+
+Sum bankinnskudd,
+
+kontanter og lignende 60 2 534
+
+Sum omlepsmidler 610 12 884
+
+SUM ELENDELER 89 909 163 774
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Opptjent egenkapital
+
+Annen egenkapital 88 009 155 075
+
+Sum opptjent egenkapital 88 009 155 075
+
+Sum egenkapital 88 009 155 075
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 1 899 8 699
+Utskriftsdato 28.07.2026 Organisasjonsnr 987 788 224 Side 2 av 3
+
+Sum annen langsiktig gjeld 1 899 8 699
+Sum langsiktig gjeld 1 899 8 699
+Sum gjeld 1 899 8 699
+SUM EGENKAPITAL OG GJELD 89 909 163 774
+Utskriftsdato 28.07.2026 Organisasjonsnr 987 788 224 Side 3 av 3
+
+Organisasjonsnr: 987 788 224
+
+DELANTERO LTD NUF
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Delantero Ltd NUF
+Arsregnskap 2025
+
+Delantero Ltd NUF Arsregnskap 2025
+org.nr.: 987788224
+1. Resultat og balanse
+2. Noter for innsending
+3. Signering
+&
+Generert av tripletex* 30 06 2026 Side 2 av 6
+
+Delantero Ltd NUF Arsregnskap 2025
+org.nr.: 987788224
+Resultat Noter 2025 2024
+Driftsinntekter og driftskostnader
+Lannskostnad 1 0 0
+Annen driftskostnad 5 474 2 200
+Sum driftskostnader 5 474 2 200
+Driftsresultat -5 474 -2 200
+Finansinntekter og finanskostnader
+Verdigkning av finansielle instrumenter vurdert til virkelig verdi 0 96 403
+Sum finansinntekter 0 96 403
+Verdireduksjon av finansielle instrumenter vurdert til virkelig verdi 62 917 0
+Sum finanskostnader 62 917 0
+Netto finans -62 917 96 403
+Ordinzert resultat for skattekostnad -68 392 94 203
+Skattekostnader
+Skattekostnad pa ordinzert resultat -1 326 25 104
+Arsresultat -67 066 69 099
+Overferinger og disponeringer
+Overferinger til/fra annen egenkapital -67 066 69 099
+Sum overfgringer og disponeringer -67 066 69 099
+Generert av Iripletex™" 30 06 2026 Side 3 av 6
+
+Delantero Ltd NUF Arsregnskap 2025
+org.nr.: 987788224
+Balanse Noter 2025 2024
+EIENDELER
+Anleggsmidler
+Utsatt skattefordel 1810 484
+Sum immaterielle eiendeler 1810 484
+Investeringer i aksjer og andeler 87 489 150 406
+Sum finansielle anleggsmidler 87 489 150 406
+Sum anleggsmidler 89 299 150 890
+Omligpsmidler
+Andre fordringer 550 10 350
+Sum fordringer 550 10 350
+Bankinnskudd, kontanter og lignende 60 2 534
+Sum bankinnskudd, kontanter og lignende 60 2534
+Sum omlgpsmidier 610 12 884
+Sum eiendeler 89 909 163 774
+Generert av Iripletex™" 30 06 2026 Side 4 av 6
+
+Delantero Ltd NUF Arsregnskap 2025
+org.nr.: 987788224
+EGENKAPITAL OG GJELD
+Egenkapital
+Annen Egenkapital 88 009 155 075
+Sum opptjent egenkapital 88 009 155 075
+Sum egenkapital 88 009 155 075
+Langsiktig gjeld
+Avrig langsiktig gjeld 1899 8 699
+Sum annen langsiktig gjeld 1899 8 699
+Sum langsiktig gjeld 1899 8 699
+Gjeld
+Sum gjeld 1899 8 699
+Sum egenkapital og gjeld 89 909 163 774
+Generert av Iripletex™" 30 06 2026 Side 5av 6
+
+Delantero Ltd NUF Arsregnskap 2025
+org.nr.: 987788224
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+** Klassifisering **
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer med forfall mer enn ett ar etter balansedagen er medtatt som anleggsmidler. Gjeld
+som forfaller senere enn ett ar etter balansedagen er oppfart som langsiktig gjeld.
+** Varige driftsmidler **
+Varige driftsmidler er vurdert til anskaffelseskost etter fradrag for bedriftsa@konomiske avskrivninger som er
+beregnet pa grunnlag av kostpris og antatt levetid.
+** Aksjer **
+Omlgpsaksjer er vurdert til markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til kostpris. | de
+tilfeller der den virkelige verdien er lavere enn kostprisen og dette ikke er forbigaende, er det foretatt
+nedskrivning.
+** Fordringer **
+Kundefordringer og andre fordringer er oppfart til palydende etter fradrag for konstaterte og forventede tap.
+** Skatter **
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbar skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet pa grunnlag av midlertidige forskjeller mellom regnskapsmessige og skattemessige verdier,
+samt eventuelt ligningsmessig underskudd til fremfgring ved utgangen av regnskapsaret. Utsatt skatt er avsatt
+som langsiktig gjeld i balansen. | den grad utsatt skattefordel overstiger utsatt skatt, er utsatt skattefordel tatt
+med i balansen iht. god regnskapsskikk.
+** Driftsinntekter og kostnader **
+Inntektsfgring falger opptjeningsprinsippet, som normalt vil falge leveringstidspunktet for varer og tjenester.
+Kostnader er tatt med etter sammenstillingsprinsippet, det vil si at kostnadene er tatt med i samme periode
+som tilhgrende inntekter.
+#1 Antall arsverk
+Antall arsverk i regnskapsaret: 0
+Generert av Iripletex™" 30 06 2026 Side 6av 6

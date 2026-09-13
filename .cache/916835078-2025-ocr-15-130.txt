@@ -1,0 +1,389 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 387656
+Virksomheten
+Organisasjonsnummer : 916 835 078
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: PCT MASKIN AS
+Forretningsadresse: Majorsetervegen 159
+2054 MOGREINA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Petter Christopher Tangen
+Dato for fastsettelse av arsregnskapet: 19.04.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 21.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 916 835 078
+
+PCT MASKIN AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 636 455 986 541
+
+Sum inntekter 636 455 986 541
+
+Kostnader
+
+Lennskostnad 2 316 178 471 001
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 3 34 375
+
+Annen driftskostnad 409 964 461 870
+
+Sum kostnader 760 517 932 871
+
+Driftsresultat -124 062 53 670
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 36 209
+
+Annen finansinntekt 990 1 023
+
+Sum finansinntekter 1 026 1 232
+
+Annen rentekostnad 13 597 1 043
+
+Annen finanskostnad 47
+
+Sum finanskostnader 13 597 1 090
+
+Netto finans -12 571 142
+
+Resultat fer skattekostnad -136 633 53 811
+
+Skattekostnad pa resultat -30 060 11 807
+
+Arsresultat -106 573 42 004
+
+Arsresultat etter
+
+minoritetsinteresser -106 573 42 004
+
+Totalresultat -106 573 42 004
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 42 004
+
+Overfert fra annen
+
+egenkapital -106 573
+
+Sum overferinger og
+
+disponeringer -106 573 42 004
+Utskriftsdato 21.04.2026 Organisasjonsnr 916 835 078 Side 1 av 3
+
+Organisasjonsnr: 916 835 078
+PCT MASKIN AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 54 524 24 464
+Sum immaterielle eiendeler 54 524 24 464
+Varige driftsmidler
+Tomter, bygninger o.a.
+fast eiendom 3
+Maskiner og anlegg 3
+Skip og flytende
+installasjoner 3
+Driftslesere, inventar o.
+a. utstyr 3 240 625
+Sum varige driftsmidler 3 240 625
+Finansielle anleggsmidler
+Andre langsiktige
+fordringer 144 000 192 000
+Sum finansielle
+anleggsmidler 144 000 192 000
+Sum anleggsmidler 439 149 216 464
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 35 000 68 588
+Andre kortsiktige
+fordringer 16 910 24 242
+Sum fordringer 51 910 92 829
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 29 054 163 531
+Sum bankinnskudd,
+kontanter og lignende 29 054 163 531
+Sum omlepsmidler 80 964 256 360
+SUM ELENDELER 520 113 472 824
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 21.04.2026 Organisasjonsnr 916 835 078 Side 2 av 3
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 4 168 889 275 462
+
+Sum opptjent egenkapital 168 889 275 462
+
+Sum egenkapital 198 889 305 462
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 256 O77
+
+Sum annen langsiktig gjeld 256 077
+
+Sum langsiktig gjeld 256 077
+
+Kortsiktig gjeld
+
+Leverandergjeld 6 566 39 740
+
+Skyldig offentlige avgifter 4 579 42 277
+
+Annen kortsiktig gjeld 54 002 85 345
+
+Sum kortsiktig gjeld 65 147 167 362
+
+Sum gjeld 321 224 167 362
+
+SUM EGENKAPITAL OG GJELD 520 113 472 824
+Utskriftsdato 21.04.2026 Organisasjonsnr 916 835 078 Side 3 av 3
+
+Organisasjonsnr: 916 835 078
+
+PCT MASKIN AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+1.00
+
+2026-04-19
+°
+Arsregnskap 2025
+Pct Maskin AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+». Org.nr.: 916 835 078
+
+BankID Qualified Signing
+Tangen, Petter Christopher
+2026-04-19
+RESULTATREGNSKAP |
+PCT MASKIN AS
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 636 455 986 541
+Sum driftsinntekter 636 455 986 541
+Lénnskostnad 2 316 178 471001
+Avskrivning av driftsmidler og immaterielle eiendeler 3 34 375 0
+Annen driftskostnad 409 964 461 870
+Sum driftskostnader 760 517 932 871
+Driftsresultat -124 062 53 670
+FINANSINNTEKTER OG FINANSKOSTNADER
+Annen renteinntekt 36 209
+Annen finansinntekt 990 1 023
+Annen rentekostnad 13 597 1043
+Annen finanskostnad 0 47
+Resultat av finansposter -12 571 142
+Resultat for skattekostnad -136 633 53 811
+Skattekostnad pa resultat -30 060 11 807
+Resultat -106 573 42 004
+EKSTRAORDINAERE INNTEKTER OG KOSTNADER
+Arsresultat -106 573 42 004
+OVERF@RINGER
+Avsatt til annen egenkapital -106 573 42 004
+Sum overfgringer -106 573 42 004
+PCT MASKIN AS SIDE 2
+
+BankID Qualified Signing
+Tangen, Petter Christopher
+2026-04-19
+BALANSE |
+PCT MASKIN AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+Utsatt skattefordel 54 524 24 464
+Sum immaterielle eiendeler 54524 24 464
+VARIGE DRIFTSMIDLER
+Sum varige driftsmidler 3 240 625 0
+FINANSIELLE ANLEGGSMIDLER
+Andre langsiktige fordringer 144 000 192 000
+Sum finansielle anleggsmidler 144 000 192 000
+Sum anleggsmidler 439 149 216 464
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 35 000 68 588
+Andre kortsiktige fordringer 16 910 24 242
+Sum fordringer 51 910 92 829
+INVESTERINGER
+Bankinnskudd, kontanter o.I. 29 054 163 531
+Sum omlgpsmidler 80 964 256 360
+Sum eiendeler 520 113 472 824
+PCT MASKIN AS SIDE 3
+
+BankID Qualified Signing
+Tangen, Petter Christopher
+2026-04-19
+BALANSE |
+PCT MASKIN AS
+
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 4 168 889 275 462
+Sum opptjent egenkapital 168 889 275 462
+Sum egenkapital 198 889 305 462
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Gjeld til kredittinstitusjoner 256 077 0
+Sum annen langsiktig gjeld 256 077 0
+KORTSIKTIG GJELD
+Leverandgrgjeld 6 566 39 740
+Skyldig offentlige avgifter 4579 42 277
+Annen kortsiktig gjeld 54 002 85 345
+Sum kortsiktig gjeld 65 147 167 362
+Sum gjeld 321 224 167 362
+Sum egenkapital og gjeld 520 113 472 824
+
+Mogreina, 22.01.2026
+
+Styret i Pet Maskin AS
+
+Petter Christopher Tangen
+
+styreleder/daglig leder
+
+PCT MASKIN AS SIDE 4
+
+CW) BankID Qualified Signing
+) Tangen, Petter Christopher
+Pct Maskin AS Noter 2025 ames
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets @konomiske levetid.
+Varige driftsmidler nedskrives til gjenvinnbart beldp ved verdifall som forventes ikke a vzere forbigaende.
+Gjenvinnbart belgp er det hgyeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av fremtidige
+kontantstra@mmer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for nedskrivingen ikke
+lenger er til stede.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+FORDRINGER
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Virksomhetens art og lokalisering
+Pct Maskin AS er et selskap der virksomheten omfatter utleie av maskinfgrer. Selskapet er lokalisert i
+Ullensaker kommune.
+Note 2 Lénnskostnader og antall arsverk
+L@NNSKOSTNADER
+2025 2024
+Lénninger 283 104 416 835
+Arbeidsgiveravgift 39 918 58 774
+Andre ytelser -6 844 -4 608
+Sum 316 178 471001
+Selskapet har i 2025 sysselsatt 1 arsverk.
+PCT MASKIN AS SIDE 5
+
+BankID Qualified Signing
+Tangen, Petter Christopher
+Pct Maskin AS Noter 2025 ames
+Note 3 Anleggsmidler
+Maskiner Driftslgs@re, Sum
+og anlegg inventar ol.
+Anskaffelseskost pr. 01.01.25 24 000 24 000
++ Tilgang kjgpte driftsmidler 275 000 275 000
+= Anskaffelseskost 31.12.25 299 000 299 000
+Akkumulerte avskrivninger 31.12.25 58 375 58 375
+= Bokfgrt verdi 31.12.25 240 625 240 625
+Arets ordinzere avskrivninger 34 375 34375
+Dkonomisk levetid 4-5 ar O ar
+Note 4 Fortsatt drift
+Resultatet for 2025 viser et underskudd pa kr. -106 573 etter skatt, mot kr. 42 004 i overskuddi 2024.
+Soliditeten og likviditeten er fortsatt god og det er ikke noe som indikerer at driften ikke kan fortsette. Pct
+Maskin ASs leveranse av maskinsjafgrutleie vil fortsatt veere verdifull. Inntektsregimet for driften gir ikke
+rom for store overskudd. Selv om inntektsrammen for 2025 falt betraktelig sa er det logisk da omsetningen
+ble lavere da eier med vilje tok pa seg mindre jobb, dette varer en periode ut i 2026.
+PCT MASKIN AS SIDE 6

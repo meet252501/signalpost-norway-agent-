@@ -1,0 +1,461 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 602339
+Virksomheten
+Organisasjonsnummer : 933 989 208
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: A-SEAFOOD AS
+Forretningsadresse: Bernt Ankers gate 31
+0183 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Abdilahi Ahmed Osman
+Dato for fastsettelse av arsregnskapet: 26.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.06.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 933 989 208
+
+A-SEAFOOD AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 3, 4 0 17 907
+
+Annen driftskostnad 760 71 027
+
+Sum kostnader 760 88 934
+
+Driftsresultat -760 -88 934
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter e) e)
+
+Sum finanskostnader 0 0
+
+Netto finans e) fe)
+
+Resultat fer skattekostnad -760 -88 934
+
+Arsresultat -760 -88 934
+
+Arsresultat etter
+
+minoritetsinteresser -760 -88 934
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -760 -88 934
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -760 -57 934
+
+Overferinger til/fra
+
+annen egenkapital 0 -31 000
+
+Sum overferinger og
+
+disponeringer -760 -88 934
+Utskriftsdato 30.06.2026 Organisasjonsnr 933 989 208 Side 1 av 3
+
+Organisasjonsnr: 933 989 208
+
+A-SEAFOOD AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 6 188 5 998
+
+Sum fordringer 6 188 5 998
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Sum bankinnskudd,
+
+kontanter og lignende 0 0
+
+Sum omlepsmidler 6 188 5 998
+
+SUM EITENDELER 6 188 5 998
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital -5 784 -5 784
+
+Sum innskutt egenkapital 24 216 24 216
+
+Opptjent egenkapital
+
+Udekket tap 58 694 57 934
+
+Sum opptjent egenkapital -58 694 -57 934
+Utskriftsdato 30.06.2026 Organisasjonsnr 933 989 208 Side 2 av 3
+
+Sum egenkapital -34 478 -33 718
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 fe]
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 40 666 39 716
+
+Sum kortsiktig gjeld 40 666 39 716
+
+Sum gjeld 40 666 39 716
+
+SUM EGENKAPITAL OG GJELD 6 188 5 998
+Utskriftsdato 30.06.2026 Organisasjonsnr 933 989 208 Side 3 av 3
+
+Organisasjonsnr: 933 989 208
+
+A-SEAFOOD AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Selskapets formal er kj@p og salg av sjeomat.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre
+
+drift forutsetter at selskapet
+
+oppnar planlagt inntektsvekst og/eller
+
+tilfersel av finansiering. Arsregnskapet er avlagt under forutsetning
+
+om
+
+fortsatt drift, men det foreligger usikkerhet knyttet til om
+
+forutsetningene oppnas.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+4
+
+Spesifisering av resultatregnskapet
+
+Lennkostnader
+
+Lenn Arets Fjorarets
+0.00
+
+Andre ytelser Arets Fjorarets
+17907.00
+
+Sum legnnskostnader Arets Fjorarets
+17907.00
+
+Arsregnskap 2025
+A-Seafood
+(933 989 208)
+A-Seafood Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Lo@nnskostnad 3,4 (6) 17 907
+
+Annen driftskostnad 760 71 027
+Sum driftskostnader 760 88 934
+Driftsresultat -760 -88934
+Resultat for skatt -760 -88934
+Arsresultat -760 -88 934
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital ie) -31 000
+
+Udekket tap -760 -57 934
+Sum overferinger og disponeringer -760 -88 934
+
+A-Seafood Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Fordringer
+Andre kortsiktige fordringer 6 188 5 998
+Sum fordringer 6 188 5998
+Sum omlepsmidier 6 188 5 998
+Sum eiendeler 6 188 5 998
+A-Seafood Arsregnskap Side 3 av 6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital -5 784 -5 784
+Sum innskutt egenkapital 24 216 24 216
+Opptjent egenkapital
+
+Udekket tap -58 694 -67 934
+Sum opptjent egenkapital -58 694 -57 934
+Sum egenkapital -34478 -33718
+Gijeld
+Kortsiktig gjeld
+
+Gjeld til kredittinstitusjoner, kortsiktig 40 666 39 716
+Sum kortsiktig gjeld 40 666 39 716
+Sum gjeld 40 666 39 716
+Sum egenkapital og gjeld 6 188 5 998
+
+A-Seafood Arsregnskap Side 4 av6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Selskapets formal er kjap og salg av sjomat.
+Note 2: Usikkerhet rundt fortsatt drift
+Selskapet er i en oppstartsfase og har begrenset likviditetsbuffer. Videre drift forutsetter at
+selskapet oppnar planlagt inntektsvekst og/eller tilforsel av finansiering. Arsregnskapet er
+avlagt under forutsetning om fortsatt drift, men det foreligger usikkerhet knyttet til om
+forutsetningene oppnas.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+A-Seafood Arsregnskap Side 5 av 6
+
+Note 4: Lonnskostnader
+2025 2024
+Lenn @) 0
+Arbeidsgiveravgift @) @)
+Pensjon (@] 0
+Andre ytelser 0 17 907
+Sum lonnskostnader 0 17 907
+A-Seafood Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Abdilahi Osman <abdiozman23@gmail.com>
+Elektronisk signering
+ABDILAHI AHMED OSMAN
+08.09.1993 - Styreleder
+Y) Signert
+28.06.2026 21:27 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 28.06.2026 21:26:42

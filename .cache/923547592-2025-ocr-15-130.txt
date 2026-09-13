@@ -1,0 +1,522 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 677443
+Virksomheten
+Organisasjonsnummer : 923 547 592
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MARKEVEIEN 1 B AS
+Forretningsadresse: Solheimsgaten 7C
+5058 BERGEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Tor Arild Bolstad
+Dato for fastsettelse av arsregnskapet: 20.05.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 03.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 923 547 592
+
+MARKEVEIEN 1 B AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Leieinntekt 2 15 941 689 15 551 762
+
+Annen driftsinntekt 2 3 408 909 3 386 460
+
+Sum inntekter 19 350 598 18 938 222
+
+Kostnader
+
+Avskrivning pa varige
+
+driftsmidler 3 3 940 603 3 750 692
+
+Annen driftskostnad 4, 5 5 779 440 6 511 470
+
+Sum kostnader 9 720 043 10 262 162
+
+Driftsresultat 9 630 554 8 676 061
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+1 samme konsern 5 427 485 563 101
+
+Annen renteinntekt 200
+
+Sum finansinntekter 427 485 563 301
+
+Rentekostnad til foretak
+
+1 samme konsern 5 1 071 949 1 627 848
+
+Annen finanskostnad 3 240 545
+
+Sum finanskostnader 1 075 189 1 628 393
+
+Netto finans -647 704 -1 065 092
+
+Resultat fer skattekostnad 8 982 851 7 610 969
+
+Skattekostnad 6 1 976 227 1 674 414
+
+Arsresultat 7 006 624 5 936 555
+
+Arsresultat etter
+
+minoritetsinteresser 7 006 624 5 936 555
+
+Totalresultat 7 006 624 5 936 555
+
+Overferinger og
+
+disponeringer
+
+Konsernbidrag 7, $7 7 006 624 5 936 555
+
+Sum overferinger og
+
+disponeringer 7 006 624 5 936 555
+Utskriftsdato 03.08.2026 Organisasjonsnr 923 547 592 Side 1 av 3
+
+Organisasjonsnr: 923 547 592
+
+MARKEVEIEN 1 B AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 6 4 277 338 3 410 405
+
+Sum immaterielle eiendeler 4 277 338 3 410 405
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 247 322 955 255 819 270
+
+Sum varige driftsmidler 3 247 322 955 255 819 270
+
+Finansielle anleggsmidler
+
+Andre langsiktige
+
+fordringer 7 O91 249 8 196 377
+
+Sum finansielle
+
+anleggsmidler 7 O91 249 8 196 377
+
+Sum anleggsmidler 258 691 542 267 426 052
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 38 036 45 360
+
+Andre kortsiktige
+
+fordringer 4 860 021 1 357 063
+
+Konsernfordringer 5 73 258 2 316 279
+
+Sum fordringer 4 971 314 3 718 702
+
+Sum omlepsmidler 4 971 314 3 718 702
+
+SUM ELENDELER 263 662 856 271 144 754
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 8 150 000 150 000
+
+Overkurs 236 738 284 236 738 284
+
+Sum innskutt egenkapital 236 888 284 236 888 284
+
+Sum egenkapital 7 236 888 284 236 888 284
+
+Kortsiktig gjeld
+
+Kortsiktig konserngjeld 5 26 774 573 33 384 508
+
+Annen kortsiktig gjeld 871 963
+
+Sum kortsiktig gjeld 26 774 573 34 256 471
+Utskriftsdato 03.08.2026 Organisasjonsnr 923 547 592 Side 2 av 3
+
+Sum gjeld 26 774 573 34 256 471
+SUM EGENKAPITAL OG GJELD 263 662 856 271 144 754
+Utskriftsdato 03.08.2026 Organisasjonsnr 923 547 592 Side 3 av 3
+
+Organisasjonsnr: 923 547 592
+
+MARKEVEIEN 1 B AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Resultatregnskap
+Markeveien 1 B AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Leieinntekt 2 15 941 689 15 551 762
+Annen driftsinntekt 2 3 408 909 3 386 460
+Sum driftsinntekter 19 350 598 18 938 222
+Avskrivning pa varige driftsmidler 3 3 940 603 3 750 692
+Annen driftskostnad 4,5 5 779 440 6 511 470
+Sum driftskostnader 9 720 043 10 262 162
+Driftsresultat 9 630 554 8 676 061
+Finansinntekter og finanskostnader
+
+Renteinntekt fra foretak 1 samme konsern 5 427 485 563 101
+Annen renteinntekt 0 200
+Rentekostnad til foretak i samme konsem 5 1 071 949 1 627 848
+Annen finanskostnad 3 240 545
+Resultat av finansposter -647 704 -1 065 092
+Resultat fer skattekostnad 8 982 851 7 610 969
+Skattekostnad 6 1 976 227 1 674 414
+Arsresultat 7 006 624 5 936 555
+Overforinger
+
+Mottatt konsernbidrag uten skattemessig effekt 7 -3 073 669 -2 925 541
+Avgitt konsernbidrag med skattemessig effekt 7 10 080 293 8 862 096
+Sum overforinger 7 006 624 5 936 555
+
+Balanse
+
+Markeveien 1 B AS
+Fiendeler Note 2025 2024
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 6 4 277 338 3 410 405
+Sum immaterielle eiendeler 4 277 338 3 410 405
+Varige driftsmidler
+Tomter, bygninger o.a. fast eiendom 247 322955 255 819 270
+Sum varige driftsmidler 3 247 322955 255 819 270
+Andre langsiktige fordringer 7 091 249 8 196 377
+Sum finansielle anleggsmidler 7 091 249 8 196 377
+Sum anleggsmidler 258 691542 267 426052
+Omlepsmidler
+Fordringer
+Kundefordringer 38 036 45 360
+Fordring pa selskap 1 samme konsern 5 73 258 2 316 279
+Andre kortsiktige fordringer 4 860 021 1 357 063
+Sum fordringer 4 971 314 3 718 702
+Sum omlepsmidler 4 971 314 3 718 702
+Sum eiendeler 263 662 856 271 144 754
+
+Balanse
+Markeveien 1 B AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 8 150 000 150 000
+Overkurs 236 738 284 236 738 284
+Sum inuskutt egenkapital 236 888 284 =. 236 888 284
+Sum egenkapital 7 236 888 284 =. 236 888 284
+Gjeld
+Kortsiktig gjeld
+Gjeld til selskap i samme konsern 5 26 774 573 33 384 508
+Annen kortsiktig gjeld 0 871 963
+Sum kortsiktig gjeld 26 774 573 34 256 471
+Sum gjeld 26 774 573 34 256 471
+Sum egenkapital og gjeld 263 662856 271 144 754
+Bergen, 13.05.2026 ME Z,
+Gro Kristin =a Ole-Christian Knudsen
+styreleder styremedlem
+hans fit Zn
+Hége Kristine Wallge Larg Kristiansen
+styremedlem daglig leder
+
+Markeveien 1B AS Noter til regnskapet 2025
+
+Note 1 Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Leieinntekter
+
+Leieinntekter inntektsfores linezert over kontraktens leieperiode. Dette er leieinntekter fra leieavtaler
+hvor leieinntekten er avtalt som et fast belap elier som en minimumsleie, og leieinntekter hvor
+leieinntekten er basert pa leietakers omsetning (variabelt belap). Opptjent, ikke fakturert
+omsetningsleie som avregnes etterfolgende ar avsettes pr 31.12. Vesentlig leiefritak (leierabatt) som
+er avtalt for en periode inntektsfores som en inntektsreduksjon over hele kontraktens leieperiode.
+Andre driftsinntekter
+
+Andre driftsinntekter bestar av tjenesteelementer i leieavtalene som viderefakturerte felleskostnader
+og markedsfgringstiltak i tillegg til andre eiendomsrelaterte inntekter som er vurdert enkeltvis.
+Andre driftsinntekter inntektsfres etterhvert som de er opptjent, altsa nar krav pa vederlag oppstar.
+Dette skjer nar selskapet har overfert kontroll ti! kunden som normalt er nar tjenesten ytes eller nar
+varen er levert til kunden. Inntektene regnskapsfares med verdien av vederlaget pa
+transaksjonstidspunktet.
+
+Kostnader
+
+Kostnader regnskapsfores som hovedregel i samme periode som tilhgrende inntekt. I de tilfeller det
+ikke er en klar sammenheng mellom utgifler og inntekter fastsettes fordelingen etter skjonnsmessige
+kriterier. Ovrige unntak fra sammenstillingsprinsippet er angitt der det er aktuelt.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores og avskrives linezrt over driftsmidlenes forventede levetid.
+Vedlikehold av driftsmidler kostnadsfgres lopende under driftskostnader. Pakostninger eller
+forbedringer tillegges driftsmidlets kostpris og avskrives i takt med driftsmidlet. Skillet mellom
+vedlikehold og pakostning/forbedring regnes i forhold til driftsmidlets stand ved kjop av
+driftsmidlet.
+
+Skattekostnad
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt eventuelt ligningsmessig underskudd til
+fremforing ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige
+forskjeller som reverserer eller kan reversere i samme periode er utlignet. Oppforing av utsatt
+skattefordel pa netto skattereduserende forskjeller som ikke er utlignet og underskudd til
+fremforing, er begrunnet med antatt fremtidig inntjening. Utsatt skatt og skattefordel som kan
+balansefgres er oppfort netto i balansen.
+
+Side 5
+
+Markeveien 1B AS Noter til regnskapet 2025
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Fordringer klassifiseres
+som omlgpsmidler hvis de skal tilbakebetales i lopet av ett ar etter utbetalingstidspunktet. For gjeld
+er analoge kriterier lagt til grunn.
+
+Omlopsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet.
+
+Anleggsmidler vurderes til anskaffelseskost. Det foretas regnskapsmessige avskrivninger av
+anleggsmidler med begrenset skonomisk levetid. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes 4 vere forbigdende
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfort i balansen til palydende etter fradrag for avsetning
+til forventet tap. Avsetning til tap gjores pa grunnlag av individuelle vurderinger av de enkelte
+fordringene.
+
+Konsernkonto
+
+Selskapet er deltaker i konsernets konsernkontosystem med banken. Selskapets kontoer som inngar
+i konsernkontosystemet og saldo pa disse kontoene representerer et internt mellomvzrende mellom
+konsernkontoinnehaver (DNB Eiendomsholding AS) og den enkelte deltaker.
+Konsernkontosystemet vil derved automatisk etablere laneforhold mellom deltakerne og
+konsernkontoinnehaver. I regnskapet er dermed alle transaksjoner mellom konsernkontoinnehaver
+og deltaker klassifisert som mellomverende.
+
+Note 2 Inntekter
+
+Selskapet driver med utleie av kontorlokaler i Markeveien 1B. All virksomhet foregar i Bergen
+kommune.
+
+Side 6
+
+Markeveien 1 B AS Noter til regnskapet 2025
+Note 3 Varige driftsmidler
+Anlegg under Tomt Teknisk Bygninger Totalt
+utforelse installasjon
+Anskaffelseskost 01.01. 71554940 39739542 46714196 113 216079 271 224 758
+Tilgang i aret 0 0 10435035 61191506 71626541
+Mya justering 0 0 -708 109 = -3. 919 204 _-4 627 313
+Prosjekter pagar -71 554 940 0 0 0 -71 554 940
+Anskaffelseskost 31.12. 0 39739542 56441122 170 488 381 266 669 046
+Akk., avskrivninger og 0 0 -10948382 -4457105 -15 405 486
+nedskrivninger 01.01.
+Arets avskrivninger 0 0 -2386632 -1553971 -3 940 603
+Akk. avskrivninger og 0 0 -13335014 -6011076 -19 346 089
+nedskrivninger 31.12.
+Bokfert verdi 31.12 0 39739542 43106108 164 477 306 247 322 955
+Bygninger behandles i samsvar med evrig eiendomsportefalje i DNB Livsforsikring AS og
+avskrives linezert over en forventet akonomisk levetid pa 100 ar. Tekniske installasjoner avskrives
+linezert over en forventet ekonomisk levetid p4 20 ar. Tomter avskrives ikke.
+Note 4 Lennskostnader, antall ansatte, godtgjgrelser, lan til ansatte m.v.
+Det er ingen ansatte i selskapet. Selskapet er ikke pliktig til 4 ha tjenestepensjonsordning iht lov om
+obligatorisk tjenestepensjon. Det er ikke utbetalt lgnn eller annen godtgjarelse til daglig leder eller
+styret. Det er videre ikke gitt lan/sikkerhetsstillelse til daglig leder, styreleder eller andre
+nzrstaende parter.
+Side 7
+
+Markeveien 1B AS Noter tll regnskapet 2025
+Note 5 Mellomverende og transaksjoner med neerstaende parter
+Forvaltningshonorar:
+Selskapet har en forvaltningsavtale med DNB Neringseiendom AS som inngar i samme konsern.
+Forvaltningsavtalen sikrer selskapet tilgang til DNB Nzringseiendom AS' ressurser innenfor
+eiendomsforvaltning og forretningsdrift, herunder daglig ledelse, gkonomi- og
+regnskapsrapportering, kontraktsforvaltning og vedlikehold og drift av selskapets
+eiendomsportefelje. Avtalen er basert pa markedsmessige vilkar pa avtaletidspunktet.
+Forvaltningshonorar til DNB Neringseiendom AS utgjor kr. 888 443 for 2025 (for 2024 kr
+876 666).
+Leieinntekter:
+Det foreligger avtale om utleie av lokaler til selskaper i samme konsern. Leiebetingelser er fastsatt
+pa grunnlag av markedsmessig vilkar pa avtaletidspunktet. Leieinntekten fra selskaper i samme
+konsern utgjor totalt kr. 68 040 for 2025 (for 2024 kr. 61 412).
+Mellomveerende med selskaper i samme konsern:
+Mellomverende med selskaper i samme konsern renteberegnes i henhold til en referanserente som
+reflekterer gjennomsnittlig markedsrente for den aktuelle perioden.
+Pantstillelse, annen sikkerhetsstillelse og garantier til fordel for selskaper i samme konsern:
+Selskapet er deltaker i konsernets konsernkontosystem med banken hvor morselskapet DNB
+Eiendomsholding AS er hovedkontoinnehaver. Alle deltakeme er solidarisk ansvarlig overfor det til
+en hver tid utestaende pa konsernkontoen.
+
+Side 8
+
+Markeveien 1 B AS Noter til regnskapet 2025
+Note 6 Skattekostnad
+Beregning av utsatt skatt/utsatt skattefordel
+Midlertidige forskjetler 2025 2024
+Netto midlertidige forskjeller knyttet til driftsmidler -19346091 -15 405 488
+Avsk4ret rentefradrag til fremforing -96 355 -96 355
+Grunnlag for utsatt skatt -19 442 446 §=-15 501 843
+Utsatt skatt (22%) -4277338 -3410405
+Utsatt skatt i balansen -4 277338 = -3. 410 405
+Grunnlag for skattekostnad, endring i utsatt skatt og betalbar 2025 2024
+skatt
+Resultat for skattekostnad 8 982 851 7 610 969
+Endring i midlertidige resultatforskjeller 3 940 603 3 750 693
+Grunnlag for betalbar skatt i resultatregnskapet 12923453 =11 361 662
++/+ Mottatt/avgitt konsembidrag -12 923 453-11 361 662
+Skattepliktig inntekt (grunnlag for betalbar skatt) 0 0
+Fordeling av skattekostnaden 2025 2024
+Betalbar skatt (22% grunnlag for betalbar skatt i 2 843 160 2 499 566
+resultatregnskapet)
+Endring i utsatt skatt (22%) -866 933 -825 152
+Skattekostnad 1 976 227 1 674 414
+Betalbar skatt i balansen 2025 2024
+Betalbar skatt (22% av grunnlag for betalbar skatt) 2 843 £60 2 499 566
+Skattevirkning av konsernbidrag -2 843 160 = -2. 499 566
+Betalbar skatt i balansen 0 0
+Side 9
+
+Markeveien 1B AS Noter til regnskapet 2025
+Note7 Egenkapital
+Aksje Overkurs Annen Sum
+— Kapital egenkapital egenkapital
+
+Egenkapital 01.01 150000 236 738 284 0 236 888 284
+Arets resultat 0 0 7006624 7006624
+Avgitt konsernbidrag med skattemessig 0 0 -10080293 -10080 293
+effekt
+
+Mottatt konsernbidrag uten skattemessig 0 0 3 073 669 3 073 669
+effekt
+
+Egenkapital 31.12 150000 236 738 284 0 236 888 284
+Note 8 Aksjekapital og aksjonzrinformasjon
+Aksjekapitalen pa kr 150 000 bestar av 100 aksjer a kr 1 500. Alle aksjene har like rettigheter.
+Selskapet eies av DNB Eiendomsholding AS.
+Morselskapet DNB Eiendomsholding AS har forretningskontor i Bergen og inngar i konsernet til
+DNB Livsforsikring AS. DNB Livsforsikring AS har forretningskontor i Bergen hvor en kan fa
+utlevert konsermregnskap.
+
+Side 10
+
+Statsautoriserte revisorer Foretaksregisteret: NO 976 389 387 MVA
+Ernst & Young AS Tif: +47 24 00 24 00
+Thormahl 53 D, 5006 B Wwww.ey.no
+Shape the future Postboks B16. 58D Bergen wgen Medlemmer av Den norske Revisorforening
+with confidence
+Til generalforsamlingen i Markeveien 1 B AS
+UAVHENGIG REVISORS BERETNING
+Konklusjon
+Vi har revidert arsregnskapet for Markeveien 1 B AS som bestar av balanse per 31. desember 2025,
+resultatregnskap for regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder et
+sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e¢ gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025 og
+av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med regnskapslovens S
+regler og god regnskapsskikk i Norge. B
+Na
+ony
+Grunniag for konklusjon qi
+8
+>
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare S
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og &
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i relevante 3
+lover og forskrifter i Norge og International Code of Ethics for Professional Accountants (inkludert g
+internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for Accountants S
+(IESBA-reglene), og vi har overholdt vare a@vrige etiske forpliktelser i samsvar med disse kravene. %
+Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var e
+konklusjon. zg
+3
+§
+Ledelsens ansvar for arsregnskapet 5
+3
+Styret og daglig leder (ledelsen) er ansvarlige for a utarbeide arsregnskapet og for at det gir et rettvisende iS
+bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig g
+for slik intern kontroll som den finner nadvendig for 4 kunne utarbeide et arsregnskap som ikke s
+inneholder vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for
+arsregnskapet med mindre ledelsen enten har til hensikt a avvikle selskapet eller virksomheten, eller ikke
+har noe annet realistisk alternativ.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som felge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning som
+inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti for at en
+revisjon utfort i samsvar med ISA-ene, alltid vil aydekke vesentlig feilinformasjon. Feilinformasjon kan
+oppsta som falge av misligheter eller utilsiktede feil. Feilinformasjon er a anse som vesentlig dersom den
+enkeltvis eller samlet med rimelighet kan forventes a pavirke de gkonomiske beslutningene som brukerne
+foretar, pa grunnlag av arsregnskapet.
+Som del av en revisjon i samsvar med ISA-ene, utéver vi profesjonelt skjonn og utviser profesjonell
+skepsis gjennom hele revisjonen. | tillegg:
+A member firm of Ernst & Young Global Limited

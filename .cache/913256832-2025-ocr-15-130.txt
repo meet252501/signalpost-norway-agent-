@@ -1,0 +1,428 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 739034
+Virksomheten
+Organisasjonsnummer : 913 256 832
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: DOLLKEN NORDIC AS
+Forretningsadresse: Bogstadveien 66A
+0366 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: BHZRUM REGNSKAP AS
+Dato for fastsettelse av arsregnskapet: 31.07.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 03.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 913 256 832
+
+DOLLKEN NORDIC AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2 7 513 45 702
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 3 13 629 26 900
+
+Annen driftskostnad 36 713 47 114
+
+Sum kostnader 57 856 119 716
+
+Driftsresultat -57 856 -119 716
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 594
+
+Sum finansinntekter 594
+
+Annen rentekostnad 72 149
+
+Annen finanskostnad 256 864
+
+Sum finanskostnader 329 013
+
+Netto finans -329 013 594
+
+Resultat fer skattekostnad 4 -386 869 -119 122
+
+Arsresultat 5 -386 869 -119 122
+
+Arsresultat etter
+
+minoritetsinteresser -386 869 -119 122
+
+Totalresultat -386 869 -119 122
+
+Overferinger og
+
+disponeringer
+
+Overfert fra annen
+
+egenkapital -386 869 -119 122
+
+Sum overferinger og
+
+disponeringer -386 869 -119 122
+Utskriftsdato 03.08.2026 Organisasjonsnr 913 256 832 Side 1 av 3
+
+Organisasjonsnr: 913 256 832
+
+DOLLKEN NORDIC AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Tomter, bygninger o.a.
+
+fast eiendom 3
+
+Maskiner og anlegg 3
+
+Skip og flytende
+
+installasjoner 3
+
+Driftsles@ere, inventar o.
+
+a. utstyr 3 13 008 26 637
+
+Sum varige driftsmidler 3 13 008 26 637
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 1 250 000 756 864
+
+Sum finansielle
+
+anleggsmidler 1 250 000 756 864
+
+Sum anleggsmidler 1 263 008 783 501
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 878 1 582
+
+Konsernfordringer 750 000
+
+Sum fordringer 878 751 582
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 6 122 741 171 755
+
+Sum bankinnskudd,
+
+kontanter og lignende 122 741 171 755
+
+Sum omlepsmidler 123 618 923 337
+
+SUM ELENDELER 1 386 626 1 706 837
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 7 30 000 30 000
+Utskriftsdato 03.08.2026 Organisasjonsnr 913 256 832 Side 2 av 3
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptijent egenkapital
+
+Annen egenkapital 433 211 820 080
+
+Sum opptjent egenkapital 433 211 820 080
+
+Sum egenkapital 5 463 211 850 080
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 4
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 822 149
+
+Sum annen langsiktig gjeld 822 149
+
+Sum langsiktig gjeld 822 149
+
+Kortsiktig gjeld
+
+Leverandergjeld 84 4 137
+
+Betalbar skatt 4
+
+Skyldig offentlige avgifter 1 439
+
+Annen kortsiktig gjeld 101 181 851 181
+
+Sum kortsiktig gjeld 101 265 856 757
+
+Sum gjeld 923 414 856 757
+
+SUM EGENKAPITAL OG GJELD 1 386 626 1 706 837
+Utskriftsdato 03.08.2026 Organisasjonsnr 913 256 832 Side 3 av 3
+
+Organisasjonsnr: 913 256 832
+
+DOLLKEN NORDIC AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+1.00
+
+Arsregnskap 2025
+Dollken Nordic AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 913 256 832
+
+DOLLKEN NORDIC AS |
+RESULTATREGNSKAP
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Lgnnskostnad 2 7513 45 702
+Avskrivning av driftsmidler og immaterielle eiendeler 3 13 629 26 900
+Annen driftskostnad 36 713 47 114
+Sum driftskostnader 57 856 119 716
+Driftsresultat -57 856 -119 716
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 0 594
+Annen rentekostnad 72 149 8)
+Annen finanskostnad 256 864 0
+Resultat av finansposter -329 013 594
+Resultat for skattekostnad 4 -386 869 -119 122
+Resultat -386 869 -119 122
+Arsresultat 5 -386 869 | -119 122
+OVERF@RINGER
+
+Overfgrt fra annen egenkapital 386 869 119 122
+Sum overf¢ringer -386 869 -119 122
+DOLLKEN NORDIC AS SIDE 2
+
+DOLLKEN NORDIC AS |
+BALANSE
+
+EIENDELER Note 2025 2024
+VARIGE DRIFTSMIDLER
+Driftslgsgre, inventar o.a. utstyr 3 13 008 26 637
+Sum varige driftsmidler 3 13 008 26 637
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i aksjer og andeler 1 250 000 756 864
+Sum finansielle anleggsmidler 1 250 000 756 864
+Sum anleggsmidler 1 263 008 783 501
+OML@PSMIDLER
+FORDRINGER
+Andre kortsiktige fordringer 878 1582
+Konsernfordringer 0 750 000
+Sum fordringer 878 751 582
+Bankinnskudd, kontanter o.|. 6 122 741 171 755
+Sum omlgpsmidler 123 618 923 337
+Sum eiendeler 1 386 626 1 706 837
+DOLLKEN NORDIC AS SIDE 3
+
+DOLLKEN NORDIC AS |
+BALANSE
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 5,7 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 433 211 820 080
+Sum opptjent egenkapital 433 211 820 080
+Sum egenkapital 5 463 211 850 080
+GJELD
+AVSETNING FOR FORPLIKTELSER
+Pvrig langsiktig gjeld 822 149 0
+Sum annen langsiktig gjeld 822 149 0
+KORTSIKTIG GJELD
+Leverandgrgjeld 84 4137
+Skyldig offentlige avgifter 0 1 439
+Annen kortsiktig gjeld 101 181 851 181
+Sum kortsiktig gjeld 101 265 856 757
+Sum gjeld 923 414 856 757
+Sum egenkapital og gjeld 1 386 626 1 706 837
+31.07.2026
+Styret i Dallken Nordic AS
+Niels Thomas Brandt Niels Thomas Brandt
+styreleder styreleder
+DOLLKEN NORDIC AS SIDE 4
+
+DOLLKEN NORDIC AS
+
+NOTER TIL ARSREGNSKAP 2025
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets ¢konomiske levetid.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLET
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+FORDRINGER
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Virksomhetens art og lokalisering
+Ddllken Nordic AS er et selskap der virksomheten omfatter Engroshandel med husholdnings-, kontor- og
+butikkmgbler, gulvtepper og belysningsutstyr. Selskapet er lokalisert i Oslo kommune.
+Note 2 Loénnskostnader og ytelser, godtgjgrelser til daglig leder, styret og revisor
+Lénnskostnader 2025 2024
+Lgnninger -732 -1 700
+Arbeidsgiveravgift 928 6 190
+Pensjonskostnader 6585 36 820
+Andre ytelser 732 4392
+Sum 7513 45 702
+Selskapet har i 2025 sysselsatt 1 arsverk.
+PENSJONSFORPLIKTELSER
+Selskapet er ikke pliktig til 4a ha tjenestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+Selskapets pensjonsordninger tilfredsstiller kravene i denne lov.
+DOLLKEN NORDIC AS SIDE S
+
+DOLLKEN NORDIC AS
+NOTER TIL ARSREGNSKAP 2025
+Note 3 Anleggsmidler
+Maskiner Driftsldsore, Sum
+og anlegg inventar ol.
+Anskaffelseskost pr. 01.01.25 67 718 52 008 119 725
+= Anskaffelseskost 31.12.25 67 718 52 008 119 725
+Akkumulerte avskrivninger 31.12.25 67 718 39 000 106 718
+= Bokfort verdi 31.12.25 0 13 008 13 008
+Arets ordinzere avskrivninger 29 13 600 13 629
+Dkonomisk levetid 3 ar 3-5 ar
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat fgr skatt -386 869 -119 122
+Permanente forskjeller 256 864 -594
+Endring i midlertidige forskjeller 1 836 10 053
+Skattepliktig inntekt -128 168 -109 663
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varige driftsmidler -14509 -12 672 1 836
+Sum -14 509 -12 672 1836
+Akkumulert fremfgrbart underskudd -414 721 -286 553 128 168
+Inngar ikke i beregningen av utsatt skatt 429 230 299 225 -130 005
+Utsatt skattefordel (22 %) -94 431 -65 830 28 601
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+DOLLKEN NORDIC AS SIDE 6
+
+DOLLKEN NORDIC AS
+NOTER TIL ARSREGNSKAP 2025
+Note 5 Egenkapital
+Aksjekapital Annen egenkapital Sum egenkapital
+Pr. 31.12.2024 30 000 820 080 850 080
+Pr 01.01.2025 30 000 820 080 850 080
+Arets resultat -386 869 -386 869
+Pr 31.12.2025 30 000 433 211 463 211
+Note 6 Bankinnskudd
+Innestaende midler pa skattetrekkskonto (bundne midler) er pa kr. 66 309.
+Note 7 Aksjonzrer
+AKSJEKAPITALEN | DOLLKEN NORDIC AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+Ordinzre aksjer 1 000 30,0 30 000
+Sum 1 000 30 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+Ordinzre Eierandel
+Niels Thomas Brandt 1 000 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Ver Ordinzre
+Niels Thomas Brandt styreleder 1 000
+Totalt antall aksjer 1000
+DOLLKEN NORDIC AS SIDE 7

@@ -1,0 +1,322 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 528638
+Virksomheten
+Organisasjonsnummer : 934 531 930
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: K. KRISTENSEN INVEST AS
+Forretningsadresse: Stokkalandssvingen 22
+4362 VIGRESTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kathrine Kristensen
+Dato for fastsettelse av arsregnskapet: 06.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 09.06.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 934 531 930
+
+K. KRISTENSEN INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 50 000
+
+Sum inntekter 50 000
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 11 129 12 595
+
+Sum kostnader 11 129 12 595
+
+Driftsresultat -11 129 37 405
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 136
+
+Sum finansinntekter 136
+
+Annen rentekostnad 117
+
+Sum finanskostnader 117
+
+Netto finans 19
+
+Resultat fer skattekostnad -11 110 37 405
+
+Skattekostnad pa resultat 3
+
+Arsresultat 4 -11 110 37 405
+
+Arsresultat etter
+
+minoritetsinteresser -11 110 37 405
+
+Totalresultat -11 110 37 405
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 37 405
+
+Overfert fra annen
+
+egenkapital -11 110
+
+Sum overferinger og
+
+disponeringer -11 110 37 405
+Utskriftsdato 09.06.2026 Organisasjonsnr 934 531 930 Side 1 av 3
+
+Organisasjonsnr: 934 531 930
+K. KRISTENSEN INVEST AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3
+Finansielle anleggsmidler
+Investeringer i aksjer og
+andeler 500 000 500 000
+Sum finansielle
+anleggsmidler 500 000 500 000
+Sum anleggsmidler 500 000 500 000
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 50 000
+Sum fordringer 50 000
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 827 6 621
+Sum bankinnskudd,
+kontanter og lignende 827 6 621
+Sum omlepsmidler 827 56 621
+SUM ELENDELER 500 827 556 621
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5 100 000 100 000
+Beholdning av egne aksjer 5
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+Annen egenkapital 14 827 25 937
+Sum opptjent egenkapital 14 827 25 937
+Sum egenkapital 4 114 827 125 937
+Gjeld
+Langsiktig gjeld
+
+Utskriftsdato 09.06.2026 Organisasjonsnr 934 531 930 Side 2 av 3
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 386 000 425 000
+Sum annen langsiktig gjeld 386 000 425 000
+Sum langsiktig gjeld 386 000 425 000
+Betalbar skatt 3
+
+Sum gjeld 386 000 425 000
+SUM EGENKAPITAL OG GJELD 500 827 556 621
+
+Utskriftsdato 09.06.2026 Organisasjonsnr 934 531 930 Side 3 av 3
+
+Organisasjonsnr: 934 531 930
+
+K. KRISTENSEN INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+K. Kristensen Invest AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 934 531 930
+
+RESULTATREGNSKAP |
+K. KRISTENSEN INVEST AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 0) 50 000
+Sum driftsinntekter 0 50 000
+Annen driftskostnad 11 129 12 595
+Sum driftskostnader 11 129 12 595
+Driftsresultat -11 129 37 405
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen finansinntekt 136 0
+Annen rentekostnad 117 0
+Resultat av finansposter 19 0
+Resultat fgr skattekostnad -11 110 37 405
+Arsresultat 4 | 11. 110] 37 405
+OVERF@RINGER
+
+Avsatt til annen egenkapital 0 37 405
+Overfgrt fra annen egenkapital 11 110 0
+Sum overfgringer -11 110 37 405
+K. KRISTENSEN INVEST AS SIDE 2
+
+BALANSE |
+
+K. KRISTENSEN INVEST AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i aksjer og andeler 500 000 500 000
+Sum finansielle anleggsmidler 500 000 500 000
+Sum anleggsmidler 500 000 500 000
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 0 50 000
+Sum fordringer 0 50 000
+Bankinnskudd, kontanter o.|. 827 6 621
+Sum omlgpsmidler 827 56 621
+Sum eiendeler 500 827 | 556 621|
+K. KRISTENSEN INVEST AS SIDE 3
+
+BALANSE |
+K. KRISTENSEN INVEST AS
+
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 5 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 14 827 25 937
+Sum opptjent egenkapital 14 827 25 937
+Sum egenkapital 4 114 827 125 937
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Pvrig langsiktig gjeld 386 000 425 000
+Sum annen langsiktig gjeld 386 000 425 000
+Sum gijeld 386 000 425 000
+Sum egenkapital og gjeld 500 827 | «556621
+
+Vigrestad, 06.06.2026
+
+Styret i K. Kristensen Invest AS
+Kathrine Kristensen
+
+styreleder/daglig leder
+
+K. KRISTENSEN INVEST AS SIDE 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+Note 1 Virksomhetens art og lokalisering
+
+K. Kristensen Invest AS er et investeringsselskap med formal a investere i aksjer, verdipapirer og delta i
+andre virksomheter. Selskapet er lokalisert i Ha kommune.
+
+Note 2 Lénnskostnader
+K. Kristensen Invest AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen
+slike forpliktelser.
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 5 684
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 5 684
+Skattepliktig inntekt:
+Resultat for skatt -11 110 31621
+Permanente forskjeller 117 -5 784
+Skattepliktig inntekt -10 993 25 837
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 5 684 5 684
+Sum betalbar skatt i balansen 5 684 5 684
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Akkumulert fremfgrbart underskudd -10 993 0 10 993
+Inngar ikke i beregningen av utsatt skatt 10 993 0 -10 993
+Utsatt skattefordel / skatt (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 4 Egenkapital
+Aksjekapital Annen Sum
+egenkapital egenkapital
+Pr. 31.12.2024 100 000 25 937 125 937
+Arets resultat -11 110 -11 110
+Pr 31.12.2025 100 000 14 827 114 827
+
+Note 5 Aksjonzrer
+AKSJEKAPITALEN | K. KRISTENSEN INVEST AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+
+Ordinzre aksjer 100 1 000 100 000
+Sum 100 100 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+
+Ordinzere Eierandel Stemmeandel
+Kathrine Kristensen 100 100 100
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Verv Ordinzere
+Kathrine Kristensen styreleder/daglig leder 100
+Totalt antall aksjer 100

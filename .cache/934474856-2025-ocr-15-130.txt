@@ -1,0 +1,686 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 319812
+Enheten
+Organisasjonsnummer : 934 474 856
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: KP UTVIKLING AS
+Forretningsadresse: c/o Kjetil Pedersen
+@vre Solhellinga 37
+2067 JESSHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Kjetil Pedersen
+Dato for fastsettelse av Aarsregnskapet: 25.02.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollien pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 26.02.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 934 474 856
+
+KP UTVIKLING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 0 0
+
+Annen driftsinntekt 0 0
+
+Sum inntekter 0 e]
+
+Kostnader
+
+Endring i beholdning av
+
+varer under tilvirkning
+
+og ferdig tilvirkede varer 0 0
+
+Endring i beholdning av
+
+egentilvirkede
+
+anleggsmidler 0 0
+
+Varekostnad 0 0
+
+Lennskostnad 2 0 0
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 0 0
+
+Nedskrivning av varige
+
+driftsmidler og
+
+immaterielle eiendeler 0 0
+
+Annen driftskostnad 3 204 7
+
+Sum kostnader 3 204 7
+
+Driftsresultat -3 204 -7
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 0 0
+
+Inntekt pa andre
+
+investeringer 0 0
+
+Renteinntekt fra foretak
+
+1 samme konsern 0 0
+
+Annen renteinntekt 0 0
+
+Annen finansinntekt 375 000 0
+
+Verdigkning av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 0 0
+
+Sum finansinntekter 375 000 0
+
+Verdireduksjon av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi 0 0
+
+Nedskrivning av
+
+finansielle eiendeler 0 0
+
+Rentekostnad til foretak
+
+1 samme konsern 0 0
+Utskriftsdato 26.02.2026 Organisasjonsnr 934 474 856 Side l av 5
+
+Annen rentekostnad 14 583 0
+Annen finanskostnad 0 0
+Sum finanskostnader 14 583 0
+Netto finans 360 417 0
+Resultat for skattekostnad 357 213 -7
+Skattekostnad 0 0
+Arsresultat 357 213 -7
+Minoritetsinteresser 0 0
+Arsresultat etter
+minoritetsinteresser 357 213 -7
+Andre resultatkomponenter
+for IFRS-foretak 0 0
+Sum resultatkomponenter
+for IFRS-foretak 0 0
+Totalresultat 357 213 -7
+Overferinger og
+disponeringer
+Over£—. fond for
+vurderingsforskjeller 0 0
+Ordinert utbytte 0 0
+Tilleggsutbytte 0 0
+Ekstraordinert utbytte 0 0
+Konsernbidrag 0 0
+Avgitt konsernbidrag 0 0
+Fondsemisjon 0 0
+Udekket tap 0 -7
+Overferinger annen
+egenkapital 357 213 0
+Sum overferinger og
+disponeringer 357 213 -7
+Utskriftsdato 26.02.2026 Organisasjonsnr 934 474 856 Side 2 av 5
+
+Organisasjonsnr: 934 474 856
+KP UTVIKLING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Forskning og utvikling 0 0
+Konsesjoner, patenter,
+lisenser, varemerker og
+lignende rettigheter 0 0
+Utsatt skattefordel 0 0)
+Goodwill 0 0
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 0 0
+Maskiner og anlegg 0 0
+Skip, rigger, fly og
+lignende 0 0
+Driftslesere, inventar,
+verktay, kontormaskiner
+og lignende 0 0
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investering i datterselskap 0 0
+Investering i annet
+foretak i samme konsern 0 0)
+Lan til foretak i samme
+konsern 0) 0)
+Investeringer 1
+tilknyttet selskap 0 0
+Lan til tilknyttet
+selskap og felles
+kontrollert virksomhet 0 0
+Investeringer i aksjer og
+andeler 500 000 500 000
+Obligasjoner 0 0
+Andre langsiktige
+fordringer 0 0
+Sum finansielle
+anleggsmidler 500 000 500 000
+Sum anleggsmidler 500 000 500 000
+Omlepsmidler
+Varer
+Varer 0 0
+Sum varer 0 0
+Fordringer
+
+Utskriftsdato 26.02.2026 Organisasjonsnr 934 474 856 Side 3 av 5
+
+Kundefordringer 0 0
+
+Andre kortsiktige
+
+fordringer 3 0 0
+
+Konsernfordringer 0 0
+
+Krav pa innbetaling av
+
+selskapskapital 0 0
+
+Sum fordringer 0 0
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 0) 0)
+
+Markedsbaserte aksjer 0 0
+
+Markedsbaserte obligasjoner 0 0
+
+Andre markedsbaserte
+
+finansielle instrumenter 0 0
+
+Andre finansielle
+
+instrumenter 0 0
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 31 422 24 209
+
+Sum bankinnskudd,
+
+kontanter og lignende 31 422 24 209
+
+Sum omlepsmidler 31 422 24 209
+
+SUM ELENDELER 531 422 524 209
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Beholdning av egne aksjer 0 0
+
+Overkurs 0) 0)
+
+Ikke registrert
+
+kapitalforhayelse 0 0
+
+Annen innskutt egenkapital -5 784 -5 784
+
+Sum innskutt egenkapital 24 216 24 216
+
+Opptjent egenkapital
+
+Fond 0) 0)
+
+Avsatt utbytte 0 0
+
+Annen egenkapital 4 357 206 0
+
+Udekket tap 0 7
+
+Sum opptjent egenkapital 357 206 -7
+
+Minoritetsinteresser 0 0
+
+Sum egenkapital 381 422 24 209
+
+Gjeld
+
+Langsiktig gjeld
+
+Pensjonsforpliktelser 0 0
+Utskriftsdato 26.02.2026 Organisasjonsnr 934 474 856 Side 4 av 5
+
+Utsatt skatt 0) 0
+Andre avsetninger for
+forpliktelser 0 0
+Sum avsetninger for
+forpliktelser 0 0
+Annen langsiktig gjeld
+Konvertible lan 0 0
+Obligasjonslan 0 0
+Gjeld til
+kredittinstitusjoner 0 0
+Langsiktig konserngjeld 0 0
+Ansvarlig lanekapital 0 0
+@vrig langsiktig gjeld 150 000 500 000
+Sum annen langsiktig gjeld 150 000 500 000
+Sum langsiktig gjeld 150 000 500 000
+Kortsiktig gjeld
+Konvertible lan 0 0
+Sertifikatlan 0 0
+Gjeld til
+kredittinstitusjoner(korts1i
+ktig) 0 )
+Leverandergjeld 0 0
+Betalbar skatt 0) 0)
+Skyldig offentlige avgifter 0 0
+Utbytte 0 0
+Kortsiktig konserngjeld 0 0
+Annen kortsiktig gjeld 0 0
+Sum kortsiktig gjeld 0 0
+Sum gjeld 150 000 500 000
+SUM EGENKAPITAL OG GJELD 531 422 524 209
+Utskriftsdato 26.02.2026 Organisasjonsnr 934 474 856 Side 5 av 5
+
+Organisasjonsnr: 934 474 856
+
+KP UTIVIKLING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og NRS 8 - God
+regnskapsskikk for sma foretak.
+
+Arten av virksomheten og hvor den
+
+drives
+
+Selskapets virksomhet bestar av [angi virksomhet], og drives i [angi
+geografisk omrade] .
+
+Valuta
+
+Pengeposter i utenlandsk valuta vurderes iht
+
+kursen ved regnskapsarets slutt.
+
+Driftsinntekter
+
+Inntektsforing ved salg
+
+av varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med Skattesats pa grunnlag av de midlertidige forskjeller som
+eksisterer mellom regnskapsmessige og skattemessige verdier, samt
+ligningsmessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reverseres 1 samme periode er utlignet og
+
+nettofert.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+omfatter eiendeler bestemt til varig eile og bruk. Anleggsmidler er vurdert
+til anskaffelseskost. Varige driftsmidler balanseferes og avskrives over
+driftsmidlets @konomiske levetid. Avskrivningsperioden for fast eiendom
+anskaffet etter 2009 er dekomponert i en del som gjelder rabygget og en del
+som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives
+til gjenvinnbart bel@p ved verdifall som forventes ikke a vere forbigaende.
+Gjenvinnbart belep er det heyeste av netto salgsverdi og verdi i bruk. Verdi
+i bruk er naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivningen reverseres nar grunnlaget for nedskrivningen ikke lenger er
+til stede.
+
+Omlepsmidler og kortsiktig gjeld omfatter normalt poster som
+
+forfaller til betaling innen ett ar etter balansedagen, samt poster som
+knytter seg til varekretslepet. Omlepsmidler vurderes til laveste verdi av
+anskaffelseskost og antatt virkelig verdi.
+
+Aksjer i
+
+datterselskap
+
+Investeringer i datterselskap er vurdert etter kostmetoden
+
+ettersom konsernet samlet ikke overstiger grensen for sma
+
+foretak.
+
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og
+netto salgsverdi.
+Fordringer
+Kundefordringer og andre fordringer oppferes
+til palydende etter fradrag for avsetning til forventet tap. Avsetning til
+tap gj@res pa grunnlag av en individuell vurdering av de enkelte
+fordringene.
+Pensjonsforpliktelser
+Pensjonsforpliktelser finansiert over
+driften er beregnet og balansefoert under avsetning for forpliktelser.
+Pensjonsordninger finansiert via sikrede ordninger er ikke balansefort.
+Pensjonspremien anses i disse tilfeller som pensjonskostnad og
+klassifiseres sammen med lennskostnader.
+Garanti
+Det er avsatt til
+forventede garantikostnader. Garantiavsetningen er i balansen oppfert under
+annen kortsiktig gjeld.
+Note
+4
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+2
+Antall Aarsverk i regnskapsaret
+0.00
+Sum Belgp
+Note
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+0.00 0.00
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+0.00 0.00
+Avgang i aret Varige driftsmidler  Immaterielle eiend.
+0.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+0.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+0.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+
+0.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+0.00 0.00
+@konomisk levetid Immaterielle eiend.
+0
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Kons ernregns kap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belgep - tilknyttet selskap Arets Fjorarets
+Annen langsiktig gjeld
+Samlet belep - foretak i samme konserm Arets Fjorarets
+Samlet bele@p - felles kontrollert virksomhet Arets Fjorarets
+Samlet belep - foretak i samme konserm Arets Fjorarets
+Samlet bele@p - felles kontrollert virksomhet Arets Fjorarets
+Pantstillelse Belgp
+Note
+Fordringer
+
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+
+Mer om fordringer
+
+Note
+
+Virkelig verdi og resultatfoert verdiendr. i perioden, finansielle instrumenter
+
+Mer om finansielle instrumenter
+
+Beskrivelse av finansielle derivater
+
+Note
+
+Beholdning av_egne aksjer Antall Palydende Andel av _ aksjek.
+
+0.00 0.00%
+
+Erverv
+
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+
+Andel av_aksjekapital Egne aksjer I_morselskap
+0.00% 0.00%
+
+Avhendelse
+
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+
+Andel av_aksjekapital Egne aksjer I_morselskap
+0.00% 0.00%
+
+Samvirkeforetak
+
+Vedtektsbestenmelser/arsmetevedtak/forslag til vedtak om medlemskapskonti
+
+Mer om aksjer
+
+Note
+
+3
+
+Lan og sikkerhetsstillelse til medlemmer
+
+Opplysninger om: Medlemmer av:
+
+Rentesats styret Andre organ
+0.00% 0.00%
+
+Mer om lan og sikkerhetsstillelse
+
+Det er ikke gitt lan eller sikkerhetsstillelse til styret eller ledende
+
+personer.
+
+Arsregnskap 2025
+KP UTVIKLING AS
+
+Orgnr: 934474856
+
+Utarbeidet ved hjelp av
+
+DNB Regnskap - levert av Uni Micro
+
+g p Noter 2025 2024
+Driftsinntekter
+Sum driftsinntekt 0 0
+Driftskostnader
+L@nnskostnad 2 0 0
+Annen driftskostnad 3 204 7
+Sum driftskostnad 3 204 7
+Driftsresultat -3 204 -7
+Finansinntekter
+Annen finansinntekt 375 000 0
+Sum finansinntekt 375 000 0
+Finanskostnader
+Annen rentekostnad 14 583 0
+Sum finanskostnader 14 583 0
+Netto finans 360 417 0
+Resultat far skattekostnad 357 213 -7
+Skattekostnad 0 0
+Arsresultat 357 213 -7
+Overfaringer og disponeringer
+Fremfgring av udekket tap 0 -7
+Overferinger annen egenkapital 357 213 0
+Sum overferinger og disponeringer 357 213 -7
+Arsregnskap for KP UTVIKLING AS 2025 Side 1
+
+Noter 2025 2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer i aksjer og andeler 500 000 500 000
+Sum finansielle anleggsmidler 500 000 500 000
+Sum anleggsmidler 500 000 500 000
+Omlgpsmidler
+Fordringer
+Andre kortsiktige fordringer 3 0 6)
+Bankinnskudd, kontanter og lignende 31 422 24 209
+Sum omlgpsmidler 31 422 24 209
+SUM EIENDELER 531 422 524 209
+Arsregnskap for KP UTVIKLING AS 2025 Side 2
+
+Noter 2025 2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 30 000 30 000
+Annen innskutt egenkapital -5 784 —5 784
+Sum innskutt egenkapital 24 216 24 216
+Opptjent egenkapital
+Annen egenkapital 4 357 206 0
+Endringer udekket tap 0 -7
+Sum opptjent egenkapital 357 206 -7
+Sum egenkapital 381 422 24 209
+Gjeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 150 000 500 000
+Sum annen langsiktig gjeld 150 000 500 000
+Sum gjeld 150 000 500 000
+SUM EGENKAPITAL OG GJELD 531 422 524 209
+Kjetil Pedersen
+Daglig leder, Styrets leder
+Arsregnskap for KP UTVIKLING AS 2025 Side 3
+
+Note 1 - Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+
+Arten av virksomheten og hvor den drives
+
+Selskapets virksomhet bestar av [angi virksomhet], og drives i [angi geografisk omrade].
+
+Valuta
+
+Pengeposter i utenlandsk valuta vurderes iht kursen ved regnskapsarets slutt.
+
+Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert som de leveres.
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt
+er beregnet med Skattesats pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt ligningsmessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reverseres i samme periode
+er utlignet og nettofort.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til anskaffelseskost.
+Varige driftsmidler balanseferes og avskrives over driftsmidlets g@konomiske levetid. Avskrivningsperioden for fast
+eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget og en del som gjelder faste tekniske
+installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belop ved verdifall som forventes ikke a vzere
+forbigaende. Gjenvinnbart belep er det heyeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av
+fremtidige kontantstremmer knyttet til eiendelen. Nedskrivningen reverseres nar grunnlaget for nedskrivningen ikke
+lenger er til stede.
+
+Omlepsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter balansedagen,
+samt poster som knytter seg til varekretslapet. Omle@psmidler vurderes til laveste verdi av anskaffelseskost og
+antatt virkelig verdi.
+
+Aksjer i datterselskap
+
+Investeringer i datterselskap er vurdert etter kostmetoden ettersom konsernet samlet ikke overstiger grensen for
+sma foretak.
+
+Varer
+
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til forventet tap. Avsetning til
+tap gj@res pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Pensjonsforpliktelser
+
+Pensjonsforpliktelser finansiert over driften er beregnet og balansefert under avsetning for forpliktelser.
+Pensjonsordninger finansiert via sikrede ordninger er ikke balansefert. Pensjonspremien anses i disse tilfeller som
+pensjonskostnad og klassifiseres sammen med I@nnskostnader.
+
+Garanti
+
+Det er avsatt til forventede garantikostnader. Garantiavsetningen er i balansen oppfert under annen kortsiktig
+gjeld.
+
+Note 2 - Antall arsverk
+
+Selskapet har ingen arsverk i 2025
+
+Note 3 - Lan og sikkerhetsstillelse til ledende personer

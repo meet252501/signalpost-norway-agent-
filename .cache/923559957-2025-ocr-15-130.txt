@@ -1,0 +1,475 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 720550
+Virksomheten
+Organisasjonsnummer : 923 559 957
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NORUS RENEWABLES AS
+Forretningsadresse: Grundingen 6
+0250 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Jgrn Barkenes
+Dato for fastsettelse av arsregnskapet: 27.07.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 923 559 957
+
+NORUS RENEWABLES AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Revenue 2 220 760
+
+Other income 1
+
+Sum inntekter 2 220 760
+
+Kostnader
+
+Employee benefits expense 2
+
+Other expenses 1 232 741 1 047 527
+
+Sum kostnader 1 232 741 1 047 527
+
+Driftsresultat -1 232 741 1173 233
+
+Finansinntekter og
+
+finanskostnader
+
+Renteinntekt fra foretak
+
+1 samme konsern 103 755
+
+Annen renteinntekt 216
+
+Other financial income 41 451 523
+
+Sum finansinntekter 145 421 523
+
+Annen rentekostnad 83 530 181 624
+
+Other financial expenses 3 916 1 485
+
+Sum finanskostnader 87 447 183 109
+
+Netto finans 57 975 -182 586
+
+Resultat fer skattekostnad -1 174 767 990 647
+
+Income tax expense 3
+
+Arsresultat -1 174 767 990 647
+
+Arsresultat etter
+
+minoritetsinteresser -1 174 766 990 647
+
+Totalresultat -1 174 766 990 647
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -1 174 767 990 647
+
+Sum overferinger og
+
+disponeringer -1 174 767 990 647
+Utskriftsdato 28.07.2026 Organisasjonsnr 923 559 957 Side 1 av 3
+
+Organisasjonsnr: 923 559 957
+
+NORUS RENEWABLES AS
+
+BALANSE
+
+Belep i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Finansielle anleggsmidler
+
+Lan til foretak i samme
+
+konsern 4 1 382 924 1 279 169
+
+Sum finansielle
+
+anleggsmidler 1 382 924 1 279 169
+
+Sum anleggsmidler 1 382 924 1 279 169
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Accounts receivables 113 704 2 334 464
+
+Other short-term
+
+receivables 197 663 7 155
+
+Sum fordringer 311 367 2 341 619
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Cash and cash equivalents 398 547 8 907
+
+Sum bankinnskudd,
+
+kontanter og lignende 398 547 8 907
+
+Sum omlepsmidler 709 914 2 350 526
+
+SUM ELENDELER 2 092 838 3 629 695
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Share capital 5, 6 45 658 42 900
+
+Overkurs 6 8 238 061 8 240 850
+
+Sum innskutt egenkapital 8 283 719 8 283 750
+
+Opptjent egenkapital
+
+Other equity 6, 7
+
+Udekket tap 6 8 514 839 7 340 103
+
+Sum opptjent egenkapital -8 514 839 -7 340 103
+
+Sum egenkapital 6 -231 120 943 647
+Utskriftsdato 28.07.2026 Organisasjonsnr 923 559 957 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Leverandergjeld 12 281 144 298
+
+Tax payable 3
+
+Other current liabilities 4 2 311 677 2 541 750
+
+Sum kortsiktig gjeld 2 323 958 2 686 048
+
+Sum gjeld 2 323 958 2 686 048
+
+SUM EGENKAPITAL OG GJELD 2 092 838 3 629 695
+Utskriftsdato 28.07.2026 Organisasjonsnr 923 559 957 Side 3 av 3
+
+Organisasjonsnr: 923 559 957
+
+NORUS RENEWABLES AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Annual Report 2025
+Norus Renewables AS
+Revenue statement
+Balance sheet
+Notes to the Accounts
+Org.no.: 923 559 957
+
+Revenue statement
+Norus Renewables AS
+
+Operating income and operating expenses Note 2025 2024
+Revenue 0 2 220 760
+Total income 0 2 220 760
+Other expenses ] 232 74] 1 047 527
+Total expenses 1 232 741 1 047 527
+Operating profit -1 232 741 1 173 233
+Financial income and expenses
+
+Interest income from group companies 103 755 )
+Other interest income 216 0
+Other financial income 4] 451] 523
+Other interest expenses 83 530 181 624
+Other financial expenses 3916 1 485
+Net financial items 57 975 -182 586
+Net profit before tax -1 174 767 990 647
+Net profit after tax -1 174 767 990 647
+Net profit or loss -1 174 767 990 647
+Attributable to
+
+Loss brought forward 0 990 647
+Loss brought forward 1 174 767 0
+Total -1 174 767 990 647
+Norus Renewables AS Side 2
+
+Balance sheet
+
+Norus Renewables AS
+Assets Note 2025 2024
+Non-current assets
+Non-current financial assets
+Loan to group companies 4 1 382 924 1 279 169
+Total non-current financial assets 1 382 924 1 279 169
+Total non-current assets 1 382 924 1 279 169
+Current assets
+Debtors
+Accounts receivables 113 704 2 334 464
+Other short-term receivables 197 663 7 155
+Total receivables 311 367 2 341 619
+Cash and cash equivalents 398 547 8 907
+Total current assets 709 914 2 350 526
+Total assets 2 092 838 3 629 695
+Norus Renewables AS Page 3
+
+Balance sheet
+Norus Renewables AS
+Equity and liabilities Note 2025 2024
+Paid-in capital
+Share capital 5, 6 45 658 42 900
+Share premium reserve 6 8 238 061 8 240 850
+Total paid-up equity 8 283 719 8 283 750
+Retained earnings
+Uncovered loss 6 -8 514 839 -7 340 103
+Total retained earnings -8 514 839 -7 340 103
+Total equity 6 -231 120 943 647
+Liabilities
+Current liabilities
+Trade payables 12 281 144 298
+Other current liabilities 4 2 311 677 2 541 750
+Total current liabilities 2 323 958 2 686 048
+Total liabilities 2 323 958 2 686 048
+Total equity and liabilities 2 092 838 3 629 695
+Oslo, 21.07.2026
+The board of Norus | AS
+Jorn Barkenaes : A yor
+chairman of the board member of the‘gard/Péneral Manager
+secade Costas Lambros L AY GBir Worimann
+member of the board member of the board
+Norus Renewables AS Page 4
+
+Accounting principles
+
+The annual accounts have been prepared in conformity with the Accounting Act and
+NRS 8 - Good accounting practice for small companies.
+
+Operating revenues
+
+Income from the sale of goods is recognised on the date of delivery. Services are posted
+to income as they are delivered.
+
+Tax
+
+The tax charge in the profit and loss account consists of tax payable for the period and
+the change in deferred tax. Deferred tax is calculated at the tax rate at 22 % on the basis
+of tax-reducing and tax-increasing temporary differences that exist between accounting
+and tax values, and the tax loss carried forward at the end of the accounting year. Tax-
+increasing and tax-reducing temporary differences that reverse or may reverse in the
+same period are set off and entered net.
+
+Classification and valuation of current assets
+
+Current assets and short-term liabilities normally include items that fall due for payment
+within one year of the balance sheet date, as well as items that relate to the stock cycle.
+Current assets are valued at the lower of acquisition cost and fair value.
+
+Receivables
+
+Receivables from customers and other receivables are entered at par value after
+deducting a provision for expected losses. The provision for losses is made on the basis of
+an individual assessment of the respective receivables.
+
+Note 1 Nature of the business and location
+
+Norus Renewables ASis a company whose activities comprise To develop, plan, design,
+construct, operate, maintain, finance, and sell projects involving (i} solar power
+installations, {ii} various energy storage solutions, {iii} solar-powered pumping and water
+purification systems, {iv} solar-powered pumping and irrigation systems, and (v} other
+renewable energy-based projects. The company's activities may also include investments
+in other companies, as well as any other activities related to or supporting the
+aforementioned business operations. The company is located in the municipality of Oslo,
+Norway.
+
+Note 2 Salary costs and benefits
+
+Norus Renewables AS hasn't had any salary costs or benefits in 2025 and there are no
+such obligations.
+
+Note 3 Tax
+This year's tax expense 2025 2024
+Entered tax on ordinary profit/loss:
+Payable tax 0 0
+Changes in deferred tax assets 0 @)
+Tax expense on ordinary profit/loss 0 0
+Taxable income:
+Result before tax -1 174 767 990 647
+Permanent differences ) 0
+Allocation of loss to be brought forward @) -990 647
+Taxable income -1 174 767 0
+Payable tax in the balance:
+Payable tax on this year's result @) 0
+Total payable tax in the balance 0 0
+The tax effect of temporary differences and loss for to be carried forward that has formed
+the basis for deferred tax and deferred tax advantages, specified on type of temporary
+differences
+
+2025 2024 Difference
+Accumulated loss to be brought forward -8 523 440 -7 348 673 1 174 767
+Not included in the deferred tax 8 523 440 7 348 673 -1 174 767
+calculation
+Deferred tax assets (22 %) 0 0 0
+Deferred tax not included in the balance sheet.
+Note 4 Receivables and liabilities
+
+2025 2024
+
+Receivables with a maturity later than one year
+Loan to NorUS Renewable Marocco 1 382 924 1 279 169
+Total 1382924 £1279 169
+Liabilities with a maturity later than one year
+Liabilities to Hartmann Invest AS -2311 677  -2540037
+Total -2311677 -2 540 037
+
+Note 5 Shareholders
+The share capital in Norus Renewables AS as of 31.12 consists of:
+Total Face value Entered
+Ordinary shares 1 141 454 0,0 45 658
+Total 1 141 454 45 658
+Ownership structure
+The largest shareholders in % at year end:
+Ordinary Owner interest
+Hartmann Invest AS 301 236 26,4
+Ringburg Invest AS 194 944 17,]
+JSB Solar Consulting 162 036 14,2
+YLW Consulting 162 036 14,2
+GEO Solar LL 149 555 13,1
+Foi Invest AS 68 954 6,0
+Mohamed Attoumane 42 693 3,7
+Ove Christian Bugge 4] 250 3,6
+Ole Henrik Lund 18 750 1,6
+Total number of shares 1 141 454 100,0
+Face Value per share is NOK 0,04
+Note 6 Equity capital
+Share capital Share Other equity Total equity
+premium capital capital
+Equity capital as at 42 900 8 240 850 -7 340 103 943 647
+01.01.2025
+Capital increase 2758 -2 789 3] 0
+Result for the year -1 174 767 -] 174 767
+Dividend 0 0
+As at 31.12.2025 45 658 8 238 061 -8 514 839 -231 120
+
+Note 7 Going concern
+
+The result for 20245 shows a deficit of NOK - 1 174 736 against surplus NOK 990 647 in 2024.
+The company incurred a loss in 2025, and there is uncertainty related to future revenues
+and profitability. However, the board has evaluated the company's liquidity position, cost
+structure and planned operational measures. During 2025, the shareholders strengthened
+the company's financial position through a debt-to-equity conversion, resulting in an
+increase in both share capital and share premium.
+
+This transaction improved the company's equity position and reduced its debt obligations.
+In addition, board has assessed the company's liquidity position, cost structure, and
+expected future activity. Based on these assessments, together with planned measures to
+improve profitability and secure future revenues, the board expects the company to be
+able to meet its obligations in 2026. Accordingly, the board considers the the conditions
+for going concern are satisfied, and the financial statements have been prepared on tis
+basis.
+
+Annual Report 2025
+Norus Renewables AS
+Revenue statement
+Balance sheet
+Notes to the Accounts
+Org.no.: 923 559 957
+
+Revenue statement
+Norus Renewables AS
+
+Operating income and operating expenses Note 2025 2024
+Revenue 0 2 220 760
+Total income 0 2 220 760
+Other expenses ] 232 74] 1 047 527
+Total expenses 1 232 741 1 047 527
+Operating profit -1 232 741 1 173 233
+Financial income and expenses
+
+Interest income from group companies 103 755 )
+Other interest income 216 0
+Other financial income 4] 451] 523
+Other interest expenses 83 530 181 624
+Other financial expenses 3916 1 485
+Net financial items 57 975 -182 586
+Net profit before tax -1 174 767 990 647
+Net profit after tax -1 174 767 990 647
+Net profit or loss -1 174 767 990 647
+Attributable to
+
+Loss brought forward 0 990 647
+Loss brought forward 1 174 767 0
+Total -1 174 767 990 647
+Norus Renewables AS Side 2

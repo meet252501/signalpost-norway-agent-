@@ -1,0 +1,487 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 575724
+Virksomheten
+Organisasjonsnummer : 933 812 707
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: RIISER AS
+Forretningsadresse: Radarveien 83B
+1152 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Andreas Jergensen Riiser
+Dato for fastsettelse av arsregnskapet: 22.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 23.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 933 812 707
+
+RIISER AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 317 599 958 250
+
+Annen driftsinntekt 0 5 604
+
+Sum inntekter 1 317 599 963 854
+
+Kostnader
+
+Varekostnad 0 11 878
+
+Lennskostnad 2, 3 55 057 29 354
+
+Annen driftskostnad 230 594 197 224
+
+Sum kostnader 285 651 238 456
+
+Driftsresultat 1 031 948 725 398
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 6 0
+
+Sum finansinntekter 6 fe)
+
+Annen finanskostnad 23 447
+
+Sum finanskostnader 23 447
+
+Netto finans -17 -447
+
+Resultat fer skattekostnad 1 031 931 724 951
+
+Skattekostnad 239 281 0
+
+Arsresultat 792 650 724 951
+
+Arsresultat etter
+
+minoritetsinteresser 792 650 724 951
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 792 650 724 951
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 0 680 000
+
+Overferinger til/fra
+
+annen egenkapital 792 650 44 951
+
+Sum overferinger og
+
+disponeringer 792 650 724 951
+Utskriftsdato 23.06.2026 Organisasjonsnr 933 812 707 Side 1 av 3
+
+Organisasjonsnr: 933 812 707
+
+RIISER AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering i annet
+
+foretak i samme konsern 10 000 10 000
+
+Andre langsiktige
+
+fordringer 890 879 0
+
+Sum finansielle
+
+anleggsmidler 900 879 10 9000
+
+Sum anleggsmidler 900 879 10 000
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Kundefordringer 134 500 0
+
+Sum fordringer 134 500 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 78 008 769 347
+
+Sum bankinnskudd,
+
+kontanter og lignende 78 008 769 347
+
+Sum omlepsmidler 212 508 769 347
+
+SUM ELENDELER 1113 387 779 347
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+Utskriftsdato 23.06.2026 Organisasjonsnr 933 812 707 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 837 601 44 951
+
+Sum opptjent egenkapital 837 601 44 951
+
+Sum egenkapital 867 601 74 951
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 0 24 396
+
+Leverandergjeld 6 505 0
+
+Betalbar skatt 239 281 0)
+
+Utbytte 0 680 000
+
+Sum kortsiktig gjeld 245 786 704 396
+
+Sum gjeld 245 786 704 396
+
+SUM EGENKAPITAL OG GJELD 1113 387 779 347
+Utskriftsdato 23.06.2026 Organisasjonsnr 933 812 707 Side 3 av 3
+
+Organisasjonsnr: 933 812 707
+
+RIISER AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Selge varer og tjenester innen
+
+filmproduksjon og annet som naturlig sammenfaller med dette, samt
+
+deltakelse i andre selskaper, investeringer og nerliggende virksomhet.
+Note
+2
+Antall Aarsverk i regnskapsaret
+0.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+0.00 0.00
+Andre ytelser Arets Fjorarets
+55057.00 29354.00
+Sum le@nnskostnader Arets Fjorarets
+55057.00 29354.00
+
+Arsregnskap 2025
+Riiser AS
+(933 812 707)
+Riiser AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 1 317 599 958 250
+
+Annen driftsinntekt @) 5 604
+Sum driftsinntekter 1 317 599 963 854
+Driftskostnader
+
+Varekostnad @) 11 878
+
+Lennskostnad 2,3 55 057 29 354
+
+Annen driftskostnad 230 594 197 224
+Sum driftskostnader 285 651 238 456
+Driftsresultat 1 031 948 725 398
+Finansinntekter
+
+Annen finansinntekt 6 @)
+Sum finansinntekter 6 0
+Finanskostnader
+
+Annen finanskostnad 23 447
+Sum finanskostnader 23 447
+Netto finans -17 -447
+Resultat for skatt 1 031 931 724 951
+Skattekostnad 239 281 0
+Arsresultat 792650 724951
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital 792 650 44951
+
+Ordingert utbytte 0 680 000
+Sum overferinger og disponeringer 792 650 724 951
+
+Riiser AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anieggsmidler
+
+Investeringer i annet foretak i samme konsern 10 000 10 000
+
+Andre langsiktige fordringer 890 879 @)
+Sum finansielle anleggsmidler 900 879 10 000
+Sum anleggsmidler 900 879 10 000
+Omlepsmidler
+Fordringer
+
+Kundefordringer 134 500 @]
+Sum fordringer 134 500 0
+Bankinnskudd, kontanter o.l. 78 008 769 347
+Sum omlepsmidier 212 508 769 347
+Sum eiendeler 1 113 387 779 347
+
+Riiser AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 837 601 44951
+Sum opptjent egenkapital 837 601 44951
+Sum egenkapital 867 601 74951
+Gijeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner, kortsiktig @) 24 396
+Leverandergjeld 6 505 @)
+Betalbar skatt 239 281 ¢)
+Avsatt utbytte (@] 680 000
+Sum kortsiktig gjeld 245 786 704 396
+Sum gjeld 245786 704396
+Sum egenkapital og gjeld 1 113 387 779 347
+Riiser AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Selge varer og tjenester innen filmproduksjon og annet som naturlig sammenfaller med dette,
+samt deltakelse i andre selskaper, investeringer og nzerliggende virksomhet.
+Note 2: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Note 3: Lonnskostnader
+
+2025 2024
+Lenn 6) @)
+Arbeidsgiveravgift @) @)
+Pensjon @) 0
+Andre ytelser 55 057 29 354
+Sum lonnskostnader 55 057 29 354
+Riiser AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Andreas J. Riiser <andreas@riiser.net>
+Elektronisk signering
+ANDREAS JORGENSEN RIISER
+17.03.1979 - Daglig leder, Styreleder
+Y) Signert
+22.06.2026 18:32 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 22.06.2026 18:29:18

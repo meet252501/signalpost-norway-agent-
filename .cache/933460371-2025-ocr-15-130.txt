@@ -1,0 +1,284 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 686339
+Virksomheten
+Organisasjonsnummer : 933 460 371
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: S. ANDREASSEN HOLDING AS
+Forretningsadresse: Holteveien 48
+3158 ANDEBU
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Sondre Andreassen
+Dato for fastsettelse av Aarsregnskapet: 29.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 18.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 933 460 371
+
+S. ANDREASSEN HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 2 23 393 10 851
+
+Sum kostnader 23 393 10 851
+
+Driftsresultat -23 393 -10 851
+
+Annen finansinntekt 3
+
+Annen finanskostnad 33 182 21 821
+
+Netto finans -33 182 -21 818
+
+Resultat fer skattekostnad -56 575 -32 669
+
+Arsresultat -56 575 -32 669
+
+Overferinger og
+
+disponeringer
+
+Overferinger annen
+
+egenkapital 4 -56 575 -32 669
+
+Sum overferinger og
+
+disponeringer -56 575 -32 669
+Utskriftsdato 18.07.2026 Organisasjonsnr 933 460 371 Side 1 av 3
+
+Organisasjonsnr: 933 460 371
+
+S. ANDREASSEN HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 5 800 000 800 000
+
+Sum finansielle
+
+anleggsmidler 800 000 800 000
+
+Sum anleggsmidler 800 000 800 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre fordringer 6 125 395
+
+Sum fordringer 125 395
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Sum bankinnskudd,
+
+kontanter og lignende 257 168
+
+Sum omlepsmidler 257 125 563
+
+SUM ELENDELER 800 257 925 563
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4, 7 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 4 -89 244 -32 669
+
+Sum opptjent egenkapital -89 244 -32 669
+
+Sum egenkapital -59 244 -2 669
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 369 556 458 232
+
+Sum annen langsiktig gjeld 369 556 458 232
+Utskriftsdato 18.07.2026 Organisasjonsnr 933 460 371 Side 2 av 3
+
+Kortsiktig gjeld
+
+Leverandergjeld 6 1 656
+
+Annen kortsiktig gjeld 6 488 289 470 000
+
+Sum kortsiktig gjeld 489 945 470 000
+
+Sum gjeld 859 501 928 232
+
+SUM EGENKAPITAL OG GJELD 800 257 925 563
+Utskriftsdato 18.07.2026 Organisasjonsnr 933 460 371 Side 3 av 3
+
+Organisasjonsnr: 933 460 371
+
+S. ANDREASSEN HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+S. Andreassen Holding AS
+
+Org.nr: 933 460 371
+Noter til regnskapet for 2025
+Note 1 - Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+Selskapet driver med aksjer og verdipapirer. Virksomheten drives fra Sandefjord.
+Datterselskap/tilknyttet selskap
+Datterselskapet og tilknyttede selskaper vurderes etter kostmetoden i selskapsregnskapet. Investeringen er
+vurdert til anskaffelseskost for aksjene med mindre nedskrivning har vzert nédvendig. Det er foretatt
+nedskrivning til virkelig verdi nar verdifall skyldes arsaker som ikke kan antas a vere forbigaende og det ma
+anses ngdvendig etter god regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke
+lenger er til stede.
+Utbytte og andre utdelinger er inntektsfg@rt samme ar som det er avsatt i datterselskapet. Overstiger utbytte
+andel av tilbakeholdt resultat etter kjgpet, representerer den overskytende del tilbakebetaling av investert
+kapital, og utdelingene er fratrukket investeringens verdi i balansen.
+Klassifisering og vurdering av balanseposter
+Omlgpsmidler og kortsiktig gjeld omfatter poster som forfaller til betaling innen ett ar etter balansedagen,
+samt poster som knytter seg til varekretslg@pet. Ovrige poster er klassifisert som anleggsmiddel/langsiktig
+gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til
+nominelt belgp pa etableringstidspunktet.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi ved verdifall som ikke forventes
+a vere forbigaende. Anleggsmidler med begrenset gkonomisk levetid avskrives planmessig. Langsiktig gjeld
+balansef¢gres til nominelt belgp pa etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfgrt i balansen til palydende etter fradrag for avsetning til
+forventet tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene. |
+tillegg gjgres det for gvrige kundefordringer en uspesifisert avsetning for a dekke antatt tap.
+Skatter
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen av
+regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er utlignet og nettofgrt. Netto utsatt skattefordel balansefgres i den grad det er
+sannsynlig at denne kan bli nyttiggjort.
+Note 2 - Lgnnskostnader, antall ansatte og Ian til ansatte
+
+Selskapet har i regnskapsaret sysselsatt totalt O arsverk.
+Selskapet er ikke pliktig til a ha tjenestepensjonsordning etter lov om obligatorisk tjenestepensjon.
+Selskapet har fravalgt revisjon og har derfor ingen kostnader knyttet til dette.
+
+S. Andreassen Holding AS
+Org.nr: 933 460 371
+Noter til regnskapet for 2025
+Note 3 - Skatt
+Beregning av arets skattegrunnlag: 2025 2024
+Ordinzert resultat for skattekostnad -56 575 -32 669
+Arets skattegrunnlag -56 575 -32 669
+Oversikt over midlertidige forskjeller 2025 2024
+Akkumulert fremfgrbart underskudd fgr konsernbidrag -89 244 -32 669
+Netto midlertidige forskjeller pr 31.12 -89 244 -32 669
+Forskjeller som ikke inngar i utsatt skatt/-skattefordel -89 244 -32 669
+Sum 0 0
+Forklaring til hvorfor arets skattekostnad ikke utgjor 22% av resultat
+for skatt 2025
+22% skatt av resultat for skatt -12 446
+Beregnet skattekostnad -12 446
+Effektiv skattesats *} 22%
+*) Skattekostnad i forhold til resultat fér skatt
+Note 4 - Egenkapital
+Aksjekapital Annen Sum
+egenkapital
+Egenkapital 01.01.2025 30 000 -32 669 -2 669
+Arsresultat 0 56575 56575
+Egenkapital 31.12.2025 30 000 -89 244 -59 244
+Note 5 - Datterselskap, tilknyttet selskap m v
+Navn pa morselskap Forretningskontor
+S. Andreassen Holding AS Holteveien 48 3158 Andebu Sandefjord
+Eier- Bokfgrt verdi
+Selskap Ervervet Kontor andel pr. 31.12
+Kodal Bil AS 07.05.2024 Sandefjord 100 % 800 000
+
+S. Andreassen Holding AS
+Org.nr: 933 460 371
+Noter til regnskapet for 2025
+Note 6 - Mellomvzerende med selskap i samme konsern og tilknyttet selskap
+Fordringer 2025 2024
+Lan til foretak i samme konsern (datter} 0 125 395
+Gjeld 2025 2024
+Gjeld til foretak i asmme konsern (datter} -18 289 0
+Note 7 - Aksjekapital og aksjonzrinformasjon
+Aksjekapitalen bestar av:
+Antall Palydende Balansefort
+Ordinzre aksjer 300 100 30 000
+Oversikt over aksjonzrene i selskapet pr. 31.12:
+Ordinzere Eier- Stemme-
+aksjer andel andel
+Sondre Andreassen 150 50 % 50 %
+Tone Andreassen 150 50 % 50 %
+Sum 300 100 % 100 %

@@ -1,0 +1,517 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 475131
+Virksomheten
+Organisasjonsnummer : 930 579 459
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: FOKUS INSPECTION AS
+Forretningsadresse: c/o Radu Gabriel Costin
+General Ruges vei 1
+4309 SANDNES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Radu Gabriel Costin
+Dato for fastsettelse av Aarsregnskapet: 25.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.05.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 579 459
+
+FOKUS INSPECTION AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 148 975 160 045
+
+Sum inntekter 148 975 160 045
+
+Kostnader
+
+Lennskostnad 2,3 127 700 275 202
+
+Annen driftskostnad 23 004 62 509
+
+Sum kostnader 150 704 337 711
+
+Driftsresultat -1 729 -177 666
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 13 849
+
+Sum finansinntekter 13 849
+
+Netto finans 13 849
+
+Resultat fer skattekostnad -1 716 -176 817
+
+Arsresultat -1 716 -176 817
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -1 716 -160 727
+
+Overferinger annen
+
+egenkapital 0 -16 090
+
+Sum overferinger og
+
+disponeringer -1 716 -176 817
+Utskriftsdato 27.05.2026 Organisasjonsnr 930 579 459 Side 1 av 3
+
+Organisasjonsnr: 930 579 459
+
+FOKUS INSPECTION AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum anleggsmidler
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 36 281 0
+
+Andre kortsiktige
+
+fordringer 4 0 0
+
+Sum fordringer 36 281 fe]
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 23 646 44 940
+
+Sum bankinnskudd,
+
+kontanter og lignende 23 646 44 940
+
+Sum omlepsmidler 59 927 44 940
+
+SUM EILENDELER 59 927 44 940
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Annen innskutt egenkapital -5 570 -5 570
+
+Sum innskutt egenkapital 24 430 24 430
+
+Opptjent egenkapital
+
+Annen egenkapital 5 0 0
+
+Udekket tap 17 806 16 090
+
+Sum opptjent egenkapital -17 806 -16 090
+
+Sum egenkapital 6 624 8 340
+
+Kortsiktig gjeld
+
+Leverandergjeld 440 1 134
+
+Betalbar skatt -1 033 -1 033
+
+Skyldig offentlige avgifter 42 376 17 450
+
+Annen kortsiktig gjeld 11 520 19 049
+
+Sum kortsiktig gjeld 53 303 36 600
+Utskriftsdato 27.05.2026 Organisasjonsnr 930 579 459 Side 2 av 3
+
+Sum gjeld 53 303 36 600
+SUM EGENKAPITAL OG GJELD 59 927 44 940
+Utskriftsdato 27.05.2026 Organisasjonsnr 930 579 459 Side 3 av 3
+
+Organisasjonsnr: 930 579 459
+
+FOKUS INSPECTION AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og NRS 8 - God
+regnskapsskikk for sma foretak.
+
+Arten av virksomheten og hvor den
+
+drives
+
+Selskapets virksomhet bestar av [angi virksomhet], og drives i [angi
+geografisk omrade] .
+
+Valuta
+
+Pengeposter i utenlandsk valuta vurderes iht
+
+kursen ved regnskapsarets slutt.
+
+Driftsinntekter
+
+Inntektsforing ved salg
+
+av varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med Skattesats pa grunnlag av de midlertidige forskjeller som
+eksisterer mellom regnskapsmessige og skattemessige verdier, samt
+ligningsmessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reverseres 1 samme periode er utlignet og
+
+nettofert.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+omfatter eiendeler bestemt til varig eile og bruk. Anleggsmidler er vurdert
+til anskaffelseskost. Varige driftsmidler balanseferes og avskrives over
+driftsmidlets @konomiske levetid. Avskrivningsperioden for fast eiendom
+anskaffet etter 2009 er dekomponert i en del som gjelder rabygget og en del
+som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives
+til gjenvinnbart bel@p ved verdifall som forventes ikke a vere forbigaende.
+Gjenvinnbart belep er det heyeste av netto salgsverdi og verdi i bruk. Verdi
+i bruk er naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivningen reverseres nar grunnlaget for nedskrivningen ikke lenger er
+til stede.
+
+Omlepsmidler og kortsiktig gjeld omfatter normalt poster som
+
+forfaller til betaling innen ett ar etter balansedagen, samt poster som
+knytter seg til varekretslepet. Omlepsmidler vurderes til laveste verdi av
+anskaffelseskost og antatt virkelig verdi.
+
+Aksjer i
+
+datterselskap
+
+Investeringer i datterselskap er vurdert etter kostmetoden
+
+ettersom konsernet samlet ikke overstiger grensen for sma
+
+foretak.
+
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og
+netto salgsverdi.
+Fordringer
+Kundefordringer og andre fordringer oppferes
+til palydende etter fradrag for avsetning til forventet tap. Avsetning til
+tap gj@res pa grunnlag av en individuell vurdering av de enkelte
+fordringene.
+Pensjonsforpliktelser
+Pensjonsforpliktelser finansiert over
+driften er beregnet og balansefoert under avsetning for forpliktelser.
+Pensjonsordninger finansiert via sikrede ordninger er ikke balansefort.
+Pensjonspremien anses i disse tilfeller som pensjonskostnad og
+klassifiseres sammen med lennskostnader.
+Garanti
+Det er avsatt til
+forventede garantikostnader. Garantiavsetningen er i balansen oppfert under
+annen kortsiktig gjeld.
+Note
+5
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+2
+Antall Arsverk i regnskapsaret
+0.10
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+107520.00 235872.00
+Folketrygqdavgift Arets Fjorarets
+15160.00 33258.00
+Pensjonskostnader Arets Fjorarets
+0.00 0.00
+Andre ytelser Arets Fjorarets
+5020.00 6072.00
+Sum lennskostnader Arets Fjorarets
+127700.00 275202.00
+Note
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Avgang i aret Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+@konomisk levetid Immaterielle eiend.
+)
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Kons ernregnskap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Note
+Beholdning av eqne aksjer Antall Palydende Andel av _aksjek.
+0.00 0.00%
+Erverv
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Andel av_aksjekapital Egne aksjer I_morselskap
+0.00% 0.00%
+
+Avhendelse
+
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+
+Andel av aksjekapital Egne aksjer I_morselskap
+0.00% 0.00%
+
+Samvirkeforetak
+
+Vedtektsbestemmelser/arsmotevedtak/forslag til vedtak om medlemskapskonti
+
+Mer om aksjer
+
+Note
+
+4
+
+Lan og sikkerhetsstillelse til medlemmer
+
+Opplysninger om: Medlemmer av:
+
+Rentesats styret Andre organ
+0.00% 0.00%
+
+Mer om lan og sikkerhetsstillelse
+
+Det er ikke gitt lan eller sikkerhetsstillelse til styret eller ledende
+
+personer.
+
+Arsregnskap 2025
+
+FOKUS INSPECTION AS
+
+Orgnr: 930579459
+
+Utarbeidet ved hjelp av
+
+SpareBank 1 Regnskap - levert av Uni Micro
+
+g p Noter 2025 2024
+Driftsinntekter
+Salgsinntekt 148 975 160 045
+Sum driftsinntekt 148 975 160 045
+Driftskostnader
+Lennskostnad 2,0 127 700 275 202
+Annen driftskostnad 23 004 62 509
+Sum driftskostnad 150 704 337 711
+Driftsresultat -1 729 -177 666
+Finansinntekter
+Annen finansinntekt 13 849
+Sum finansinntekt 13 849
+Netto finans 13 849
+Resultat for skattekostnad -1 716 -176 817
+Skattekostnad 0 0
+Arsresultat -1716 -176 817
+Overferinger og disponeringer
+Fremfering av udekket tap -1 716 -160 727
+Overferinger annen egenkapital 0 —16 090
+Sum overferinger og disponeringer -1 716 —176 817
+Arsregnskap for FOKUS INSPECTION AS 2025 Side 1
+
+Noter 2025 2024
+EIENDELER
+Omlgpsmidler
+Fordringer
+Kundefordringer 36 281 0
+Andre kortsiktige fordringer 4 0 0
+Sum fordringer 36 281 0
+Bankinnskudd, kontanter og lignende 23 646 44 940
+Sum omlepsmidler 59 927 44 940
+SUM EIENDELER 59 927 44 940
+Arsregnskap for FOKUS INSPECTION AS 2025 Side 2
+
+Noter 2025 2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 30 000 30 000
+Annen innskutt egenkapital -5 570 -5 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+Annen egenkapital 5 0 0
+Endringer udekket tap -17 806 —16 090
+Sum opptjent egenkapital -17 806 —16 090
+Sum egenkapital 6 624 8 340
+Gjeld
+Kortsikktig gjeld
+Leverandergijeld 440 1 134
+Betalbar skatt -1 033 —-1 033
+Skyldig offentlige avgifter 42 3/6 17 450
+Annen kortsiktig gjeld 11 520 19 049
+Sum kortsiktig gjeld 53 303 36 600
+Sum gjeld 53 303 36 600
+SUM EGENKAPITAL OG GJELD 59 927 44 940
+Radu Gabriel Costin
+Daglig leder, Styrets leder
+Arsregnskap for FOKUS INSPECTION AS 2025 Side 3
+
+Note 1 - Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Arten av virksomheten og hvor den drives
+
+Selskapets virksomhet bestar av [angi virksomhet], og drives i [angi geografisk omrade].
+
+Valuta
+
+Pengeposter i utenlandsk valuta vurderes iht kursen ved regnskapsarets slutt.
+
+Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert som de
+leveres.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med Skattesats pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofart.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til anskaffelseskost.
+Varige driftsmidler balansefgres og avskrives over driftsmidlets @konomiske levetid. Avskrivningsperioden for
+fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belap ved verdifall som forventes ikke a
+veere forbigaende. Gjenvinnbart belgp er det hgyeste av netto salgsverdi og verdi i bruk. Verdi i bruk er
+naverdi av fremtidige kontantstrammer knyttet til eiendelen. Nedskrivningen reverseres nar grunnlaget for
+nedskrivningen ikke lenger er til stede.
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og antatt virkelig verdi.
+
+Aksjer i datterselskap
+
+Investeringer i datterselskap er vurdert etter kostmetoden ettersom konsernet samlet ikke overstiger grensen
+for sma foretak.
+
+Varer
+
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Pensjonsforpliktelser
+
+Pensjonsforpliktelser finansiert over driften er beregnet og balansefert under avsetning for forpliktelser.
+Pensjonsordninger finansiert via sikrede ordninger er ikke balansefert. Pensjonspremien anses i disse tilfeller
+som pensjonskostnad og klassifiseres sammen med I@nnskostnader.
+
+Garanti
+
+Det er avsatt til forventede garantikostnader. Garantiavsetningen er i balansen oppfert under annen kortsiktig
+gjeld.
+
+Note 2 - Antall arsverk
+
+Selskapet har 0.10 arsverk i 2025
+
+Note 3 - Lonn
+Lennskostnader 2025 2024
+Lenn 107 520 235 872
+Arbeidsgiveravgift 15 160 33 258
+Pensjonskostnader 0 0
+Andre ytelser 5 020 6 072
+Sum Ignnskostnader 127 700 2/5 202
+Mer om l@nn
+
+Note 4 - Lan og sikkerhetsstillelse til ledende personer
+Mer om Ian og sikkerhetsstillelse
+Det er ikke gitt lan eller sikkerhetsstillelse til styret eller ledende personer.
+
+Note 5 - Usikkerhet om fortsatt drift
+
+Forutsetning for fortsatt drift er lagt til grunn for arsregnskapet

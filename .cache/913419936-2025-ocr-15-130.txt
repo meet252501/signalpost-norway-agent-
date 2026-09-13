@@ -1,0 +1,405 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 579401
+Virksomheten
+Organisasjonsnummer : 913 419 936
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: CYBER COMPUTING AS
+Forretningsadresse: Me@llergata 37
+0179 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Roger Lillefosse
+Dato for fastsettelse av arsregnskapet: 22.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 24.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 913 419 936
+
+CYBER COMPUTING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Sum kostnader 0 0
+
+Driftsresultat e) e)
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader e) e)
+
+Netto finans 0 0
+
+Resultat fer skattekostnad 0 i¢)
+
+Arsresultat 0 i¢)
+
+Arsresultat etter
+
+minoritetsinteresser 0 0
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat i¢) i¢)
+
+Overfoeringer og
+
+disponeringer
+
+Sum overferinger og
+
+disponeringer 0 0
+Utskriftsdato 24.06.2026 Organisasjonsnr 913 419 936 Side 1 av 3
+
+Organisasjonsnr: 913 419 936
+
+CYBER COMPUTING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 2 219 2 219
+
+Sum bankinnskudd,
+
+kontanter og lignende 2 219 2 219
+
+Sum omlepsmidler 2 219 2 219
+
+SUM EITENDELER 2 219 2 219
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Udekket tap 387 052 387 052
+
+Sum opptjent egenkapital -387 052 -387 052
+Utskriftsdato 24.06.2026 Organisasjonsnr 913 419 936 Side 2 av 3
+
+Sum egenkapital -357 052 -357 052
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 228 932 228 932
+
+Sum annen langsiktig gjeld 228 932 228 932
+
+Sum langsiktig gjeld 228 932 228 932
+
+Kortsiktig gjeld
+
+Leverandergjeld 109 117 109 117
+
+Skyldig offentlige avgifter 2 539 2 539
+
+Annen kortsiktig gjeld 18 683 18 683
+
+Sum kortsiktig gjeld 130 339 130 339
+
+Sum gjeld 359 271 359 271
+
+SUM EGENKAPITAL OG GJELD 2 219 2 219
+Utskriftsdato 24.06.2026 Organisasjonsnr 913 419 936 Side 3 av 3
+
+Organisasjonsnr: 913 419 936
+
+CYBER COMPUTING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: @vre Ervik
+
+Virksomhetens art
+
+Databehandling, datalagring og
+
+tilknyttede tjenester.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Det er usikkert om selskapet kan fortsette som for. Arsregnskapet er derfor
+laget uten a legge til grunn
+
+fortsatt drift. Styret vil likevel gj@re det
+
+de kan for a drive videre, hvis det lar seg gjore.
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Cyber Computing AS (tid! Tomrer vedl)
+(913 419 936)
+Cyber Computing AS (tid! Tomrer ved) Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Arsresultat fe) fe)
+Cyber Computing AS (tid! Tomrer ved) Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 2 219 2 219
+Sum omlepsmidier 2219 2219
+Sum eiendeler 2 219 2 219
+Cyber Computing AS (tid! Tomrer ved) Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Udekket tap -387052 -387052
+Sum opptjent egenkapital -387052 -387 052
+Sum egenkapital -357 052 -357 052
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 228 932 228 932
+Sum annen langsiktig gjeld 228 932 228 932
+Kortsiktig gjeld
+
+Leverandergjeld 109 117 109 117
+
+Skyldig offentlige avgifter 2 539 2 539
+
+Annen kortsiktig gjeld 18 683 18 683
+Sum kortsiktig gjeld 130 339 130 339
+Sum gjeld 359271 359271
+Sum egenkapital og gjeld 2 219 2 219
+
+Cyber Computing AS (tid! Tomrer ved) Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+@vre Ervik
+Virksomhetens art
+Databehandling, datalagring og tilknyttede tjenester.
+Note 2: Usikkerhet rundt fortsatt drift
+Det er usikkert om selskapet kan fortsette som for. Arsregnskapet er derfor laget uten a legge
+til grunn fortsatt drift. Styret vil likevel gjore det de kan for 4 drive videre, hvis det lar seg gjore.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Cyber Computing AS (tid! Tomrer ved) Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Roger Lillefosse <rogerlillefosse@gmail.com>
+Elektronisk signering
+ROGER LILLEFOSSE
+29.04.1972 - Styreleder
+Y) Signert
+23.06.2026 13:06 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 22.06.2026 18:07:39

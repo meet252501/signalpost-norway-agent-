@@ -1,0 +1,429 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 612320
+Virksomheten
+Organisasjonsnummer : 927 073 242
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: FRS INVEST AS
+Forretningsadresse: Vallegata 12C
+0454 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Finn Richard Szczesny
+Dato for fastsettelse av arsregnskapet: 29.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 927 073 242
+
+FRS INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 1 335 0
+
+Sum kostnader 1 335 0
+
+Driftsresultat -1 335 0
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 0 0
+
+Resultat fer skattekostnad -1 335 0
+
+Arsresultat -1 335 0
+
+Arsresultat etter
+
+minoritetsinteresser -1 335 fe)
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -1 335 0
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -1 335 0
+
+Sum overferinger og
+
+disponeringer -1 335 0
+Utskriftsdato 01.07.2026 Organisasjonsnr 927 073 242 Side 1 av 3
+
+Organisasjonsnr: 927 073 242
+
+FRS INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering i annet
+
+foretak i samme konsern 17 420 17 420
+
+Investeringer i aksjer og
+
+andeler 70 000 0)
+
+Sum finansielle
+
+anleggsmidler 87 420 17 420
+
+Sum anleggsmidler 87 420 17 420
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 3 219 4 554
+
+Sum bankinnskudd,
+
+kontanter og lignende 3 219 4 554
+
+Sum omlepsmidler 3 219 4 554
+
+SUM EIENDELER 90 639 21 974
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Overkurs -5 656 -5 656
+
+Sum innskutt egenkapital 24 344 24 344
+Utskriftsdato 01.07.2026 Organisasjonsnr 927 073 242 Side 2 av 3
+
+Opptjent egenkapital
+
+Udekket tap 3 705 2 370
+
+Sum opptjent egenkapital -3 705 -2 370
+
+Sum egenkapital 20 639 21 974
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 70 000 0
+
+Sum kortsiktig gjeld 70 000 0
+
+Sum gjeld 70 000 0
+
+SUM EGENKAPITAL OG GJELD 90 639 21 974
+Utskriftsdato 01.07.2026 Organisasjonsnr 927 073 242 Side 3 av 3
+
+Organisasjonsnr: 927 073 242
+
+FRS INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Investere i selskaper og eiendom og alt
+
+annet som naturlig faller sammen med dette, herunder 4 delta i andre
+
+selskaper med lignende virksomhet, kja@p og salg av aksjer, eller pa annen
+mate gj@re seg interessert i andre foretagende.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om
+fortsatt drift, da det er
+
+iverksatt tiltak for 4 styrke selskapets ekonomi.
+
+Note
+
+3
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Frs Invest AS
+(927 073 242)
+Frs Invest AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 1335 @)
+Sum driftskostnader 1335 0
+Driftsresultat -1 335 6)
+Resultat for skatt -1 335 0
+Arsresultat -1 335 0
+Overforinger og disponeringer
+
+Udekket tap -1 335 0)
+Sum overferinger og disponeringer -1 335 0
+
+Frs Invest AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anieggsmidler
+Investeringer i annet foretak i samme konsern 17420 17420
+Investeringer i aksjer og andeler 70 O00 @)
+Sum finansielle anleggsmidler 87420 17420
+Sum anleggsmidler 87420 17420
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 3 219 4554
+Sum omlepsmidier 3219 4554
+Sum eiendeler 90639 21974
+Frs Invest AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Overkurs -5 656 -5 656
+Sum innskutt egenkapital 24344 24344
+Opptjent egenkapital
+
+Udekket tap -3 705 -2 370
+Sum opptjent egenkapital -3705 -2370
+Sum egenkapital 20639 21974
+Gijeld
+Kortsiktig gjeld
+
+Annen kortsiktig gjeld 70 O00 @)
+Sum kortsiktig gjeld 70 000 0
+Sum gjeld 70 000 0
+Sum egenkapital og gjeld 90639 21974
+
+Frs Invest AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Investere i selskaper og eiendom og alt annet som naturlig faller sammen med dette, herunder
+4 delta i andre selskaper med lignende virksomhet, kjap og salg av aksjer, eller pa annen mate
+gj@re seg interessert i andre foretagende.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er iverksatt tiltak for a styrke selskapets okonomi.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Frs Invest AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Finn Szczesny <finnrichard@gmail.com>
+Elektronisk signering
+FINN RICHARD SZCZESNY
+09.04.1988 - Daglig leder, Styreleder
+Y) Signert
+30.06.2026 00:58 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 30.06.2026 00:56:04

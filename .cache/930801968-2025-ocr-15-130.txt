@@ -1,0 +1,483 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 754971
+Virksomheten
+Organisasjonsnummer : 930 801 968
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: M1KAL AS
+Forretningsadresse: HO202
+Ravnedalsveien 13
+4616 KRISTIANSAND 5S
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Mikal Kloster Hegeland
+Dato for fastsettelse av Aarsregnskapet: 02.07.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.08.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 801 968
+
+MIKAL AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 600 095 517 138
+
+Annen driftsinntekt 11 000 155 503
+
+Sum inntekter 611 095 672 641
+
+Kostnader
+
+Varekostnad 37 709 6 322
+
+Lennskostnad 3, 4 375 685 198 883
+
+Annen driftskostnad 234 533 432 152
+
+Sum kostnader 647 927 637 357
+
+Driftsresultat -36 832 35 284
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 2 001 628
+
+Annen finansinntekt 490 1 551
+
+Sum finansinntekter 2 491 2 179
+
+Annen rentekostnad 1 871 0
+
+Annen finanskostnad 275 221
+
+Sum finanskostnader 2 146 221
+
+Netto finans 345 1 958
+
+Resultat fer skattekostnad -36 487 37 242
+
+Skattekostnad 0 6 125
+
+Arsresultat -36 487 31 117
+
+Arsresultat etter
+
+minoritetsinteresser -36 487 31 117
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -36 487 31 117
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -36 487 0
+
+Overferinger til/fra
+
+annen egenkapital 0 31 117
+
+Sum overferinger og
+
+disponeringer -36 487 31 117
+Utskriftsdato 15.08.2026 Organisasjonsnr 930 801 968 Side 1 av 3
+
+Organisasjonsnr: 930 801 968
+
+MIKAL AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Kundefordringer 22 128 125 938
+
+Sum fordringer 22 128 125 938
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 66 332 90 108
+
+Sum bankinnskudd,
+
+kontanter og lignende 66 332 90 108
+
+Sum omlepsmidler 88 460 216 046
+
+SUM ELENDELER 88 460 216 046
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Udekket tap 57 408 20 921
+
+Sum opptjent egenkapital -57 408 -20 921
+Utskriftsdato 15.08.2026 Organisasjonsnr 930 801 968 Side 2 av 3
+
+Sum egenkapital -27 408 9 079
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 fe]
+
+Kortsiktig gjeld
+
+Leverandergjeld 12 229 846
+
+Betalbar skatt 0) 6 125
+
+Skyldig offentlige avgifter 29 869 19 350
+
+Annen kortsiktig gjeld 73 770 180 646
+
+Sum kortsiktig gjeld 115 868 206 967
+
+Sum gjeld 115 868 206 967
+
+SUM EGENKAPITAL OG GJELD 88 460 216 046
+Utskriftsdato 15.08.2026 Organisasjonsnr 930 801 968 Side 3 av 3
+
+Organisasjonsnr: 930 801 968
+
+MIKAL AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Drive en kommersiell og kunstnerisk
+
+virksomhet som fokuserer pa tjenester og varer innen foto, video, mote,
+
+markedsfering og konsulentvirksomhet, samt utfere fagarbeid som temring.
+Virksomheten skal ogsA ha som mal Aa eie/drive kjg@p og salg av eiendom.
+Note
+2
+Ex det usikkerhet om fortsatt drift?: Ja
+ikke usikkerhet
+Note
+3
+Antall Aarsverk i regnskapsaret
+1.00
+Note
+4
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+320682.00 169157.00
+Folketrygqdavqift Arets Fjorarets
+45216.00 23851.00
+Andre ytelser Arets Fjorarets
+9787.00 5875.00
+Sum lennskostnader Arets Fjorarets
+375685.00 198883.00
+
+Arsregnskap 2025
+mikal AS
+(930 801 968)
+mikal AS Arsregnskap Side 1 av 6
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 600095 517138
+
+Annen driftsinntekt 11 000 155 503
+Sum driftsinntekter 611095 672641
+Driftskostnader
+
+Varekostnad 37 709 6 322
+
+Lennskostnad 3,4 375 685 198 883
+
+Annen driftskostnad 234 533 432 152
+Sum driftskostnader 847 927 637 357
+Driftsresultat -36 832 35 284
+Finansinntekter
+
+Annen renteinntekt 2 OO1 628
+
+Annen finansinntekt 490 1551
+Sum finansinntekter 2 491 2179
+Finanskostnader
+
+Annen rentekostnad 1 871 @)
+
+Annen finanskostnad 275 221
+Sum finanskostnader 2 146 221
+Netto finans 345 1958
+Resultat for skatt -36 487 37 242
+Skattekostnad 0 6125
+Arsresultat -36 487 31117
+Overferinger og disponeringer
+
+Overforinger til/fra annen egenkapital @) 31117
+
+Udekket tap -36 487 @)
+Sum overferinger og disponeringer -36 487 31117
+
+mikal AS Arsregnskap Side 2 av 6
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Fordringer
+Kundefordringer 22128 125938
+Sum fordringer 22128 125938
+Bankinnskudd, kontanter o.l. 66 332 90 108
+Sum omlepsmidler 88460 216046
+Sum eiendeler 88 460 216046
+mikal AS Arsregnskap Side 3 av6
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Udekket tap -57 408 -20921
+Sum opptjent egenkapital -57 408 -20 921
+Sum egenkapital -27 408 9079
+Gijeld
+Kortsiktig gjeld
+Leverandergjeld 12 229 846
+Betalbar skatt e) 6125
+Skyldig offentlige avgifter 29 869 19 350
+Annen kortsiktig gjeld 73770 180646
+Sum kortsiktig gjeld 115868 206967
+Sum gjeld 115868 206967
+Sum egenkapital og gjeld 88460 216046
+mikal AS Arsregnskap Side 4 av6
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Drive en kommersiell og kunstnerisk virksomhet som fokuserer pa tjenester og varer innen foto,
+video, mote, markedsforing og konsulentvirksomhet, samt utfore fagarbeid som temring.
+Virksomheten skal ogsa ha som mal a eie/drive kjop og salg av eiendom.
+Note 2: Usikkerhet rundt fortsatt drift
+ikke usikkerhet
+Note 3: Arsverk
+Antall arsverk er 1.
+
+mikal AS Arsregnskap Side 5 av 6
+
+Note 4: Lonnskostnader
+2025 2024
+Lenn 320 682 169 157
+Arbeidsgiveravgift 45 216 23 851
+Pensjon 0 0
+Andre ytelser 9 787 5 875
+Sum lonnskostnader 375 685 198 883
+mikal AS Arsregnskap Side 6 av 6
+
+Arsregnskap 2025
+Opprettet av Mikal Heegeland <mikalhageland@gmail.com>
+Elektronisk signering
+MIKAL KLOSTER HAGELAND
+01.12.2002 - Daglig leder, Styreleder
+Y) Signert
+17.07.2026 14:47 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 02.07.2026 14:00:29

@@ -1,0 +1,394 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 314601
+Enheten
+Organisasjonsnummer : 933 539 431
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: VADHEIM INFOHUB AS
+Forretningsadresse: St. Helenas plass 9
+6996 VADHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Tormod Krogh
+Dato for fastsettelse av arsregnskapet: 18.02.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 21.02.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 933 539 431
+
+VADHEIM INFOHUB AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREKNESKAP
+
+Inntekter
+
+Salgsinntekt 21 668
+
+Annen driftsinntekt 390 000 132 500
+
+Sum inntekter 411 668 132 500
+
+Kostnader
+
+Lennskostnad 1 43 877
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 2 82 000 27 900
+
+Annen driftskostnad 222 193 34 162
+
+Sum kostnader 348 069 62 062
+
+Driftsresultat 63 599 70 438
+
+Finansinntekter og
+
+finanskostnader
+
+Anna renteinntekt 43 65
+
+Sum finansinntekter 43 65
+
+Annan rentekostnad 101 253 67 736
+
+Sum finanskostnader 101 253 67 736
+
+Netto finans -101 210 -67 671
+
+Resultat fer skattekostnad -37 611 2 767
+
+Skattekostnad pa resultat -609 609
+
+Arsresultat -37 002 2 158
+
+Arsresultat etter
+
+minoritetsinteresser -37 002 2 158
+
+Totalresultat -37 002 2 158
+
+Overferingar og
+
+disponeringar
+
+Avsatt til annen
+
+egenkapital -37 002 2 158
+
+Sum overferingar og
+
+disponeringar -37 002 2 158
+Utskriftsdato 21.02.2026 Organisasjonsnr 933 539 431 Side 1 av 3
+
+Organisasjonsnr: 933 539 431
+
+VADHEIM INFOHUB AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIGEDELAR
+
+Anleggsmiddel
+
+Imnaterielle eigedelar
+
+Varige driftsmiddel
+
+Tomter, bygninger o.a.
+
+fast eiendom 2 1 941 100 2 023 100
+
+Maskiner og anlegg 2
+
+Skip og flytende
+
+installasjoner 2
+
+Driftsles@ere, inventar o.
+
+a. utstyr 2
+
+Sum varige driftsmiddel 2 1 941 100 2 023 100
+
+Sum anleggsmiddel 1 941 100 2 023 100
+
+Omlepsmiddel
+
+Varer
+
+Krav
+
+Kundefordringer 18 750
+
+Andre kortsiktige
+
+fordringer 13 662 25 990
+
+Sum krav 13 662 44 740
+
+Bankinnskot, kontantar og
+
+liknande
+
+Bankinnskudd, kontanter o.
+
+1. 43 98 594
+
+Sum bankinnskot,
+
+kontantar og liknande 43 98 594
+
+Sum omlepsmiddel 13 705 143 334
+
+SUM ELGEDELAR 1 954 805 2 166 434
+
+BALANSE - EIGENKAPITAL OG
+
+GJELD
+
+Eigenkapital
+
+Innskoten eigenkapital
+
+Aksjekapital 600 000 600 000
+
+Sum innskoten eigenkapital 600 000 600 000
+
+Opptent eigenkapital
+
+Annen egenkapital 3 -41 128 -4 126
+
+Sum opptent eigenkapital -41 128 -4 126
+Utskriftsdato 21.02.2026 Organisasjonsnr 933 539 431 Side 2 av 3
+
+Sum eigenkapital 558 872 595 874
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsett skatt 609
+
+Sum avsetjingar for plikter 609
+
+Anna langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjonar 1 393 470 1 462 500
+
+Sum anna langsiktig gjeld 1 393 470 1 462 500
+
+Sum langsiktig gjeld 1 393 470 1 463 109
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 1 194 729
+
+Skyldig offentlige avgifter 1 270 44 222
+
+Annen kortsiktig gjeld 62 500
+
+Sum kortsiktig gjeld 2 463 107 451
+
+Sum gjeld 1 395 933 1 570 560
+
+SUM EIGENKAPITAL OG GJELD 1 954 805 2 166 434
+Utskriftsdato 21.02.2026 Organisasjonsnr 933 539 431 Side 3 av 3
+
+Organisasjonsnr: 933 539 431
+
+VADHEIM INFOHUB AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+
+Note
+
+Tal pa arsverk i rekneskapsaret
+
+0.00
+Sum Belgap
+
+Balansefort verdi 31.12. Varige driftsmiddel  Immaterielle eiged.
+
+Kons ernrekneskap
+
+Morselskapet sitt namn
+
+Forretningskontor for morselskapet
+
+Grunn til at dotterselskap ikkje er tatt med i konsolideringa
+Samla_ belep - tilknytt selskap Arets Fjorarets
+Samla_ belgep - foretak i samme konsern Arets Fjorarets
+Samla_ beloap - foretak i samme konsern Arets Fjorarets
+Samla _ belep - felles kontrollert verksemd Arets Fjorarets
+Pantstillingar Belgp
+Behaldning av_eigne aksjar Tal pa aksjar Palydande Andel av aksjek.
+
+Arsregnskap 2025
+Vadheim Infohub AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 933 539 431
+
+RESULTATREGNSKAP |
+VADHEIM INFOHUB AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 21 668 0
+Annen driftsinntekt 390 000 132 500
+Sum driftsinntekter 411 668 132 500
+Lgnnskostnad 1 43 877 0
+Avskrivning av driftsmidler og immaterielle eiendeler 2 82 000 27 900
+Annen driftskostnad 222 193 34 162
+Sum driftskostnader 348 069 62 062
+Driftsresultat 63 599 70 438
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 43 65
+Annen rentekostnad 101 253 67 736
+Resultat av finansposter -101 210 -67 671
+Resultat for skattekostnad -37 611 2 767
+Skattekostnad pa resultat -609 609
+Arsresultat -37 002 | 2.158
+OVERF@RINGER
+
+Avsatt til annen egenkapital -37 002 2 158
+Sum overfgringer -37 002 2158
+VADHEIM INFOHUB AS SIDE 2
+
+BALANSE |
+
+VADHEIM INFOHUB AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+Tomter, bygninger o.a. fast eiendom 2 1941 100 2 023 100
+Sum varige driftsmidler 2 1 941 100 2 023 100
+FINANSIELLE ANLEGGSMIDLER
+Sum anleggsmidler 1 941 100 2 023 100
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 0 18 750
+Andre kortsiktige fordringer 13 662 25 990
+Sum fordringer 13 662 44 740
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 43 98 594
+Sum omlgpsmidler 13 705 143 334
+Sum eiendeler 1954 805 2 166 434
+VADHEIM INFOHUB AS SIDE 3
+
+BALANSE |
+VADHEIM INFOHUB AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 600 000 600 000
+Sum innskutt egenkapital 600 000 600 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 3 -41 128 -4 126
+Sum opptjent egenkapital -41 128 -4 126
+Sum egenkapital 558 872 595 874
+GJELD
+AVSETNING FOR FORPLIKTELSER
+Utsatt skatt 0 609
+ANNEN LANGSIKTIG GJELD
+Gjeld til kredittinstitusjoner 1393 470 1 462 500
+Sum annen langsiktig gjeld 1 393 470 1 462 500
+KORTSIKTIG GJELD
+Leverandgrgjeld 1194 729
+Skyldig offentlige avgifter 1270 44 222
+Annen kortsiktig gjeld 0 62 500
+Sum kortsiktig gjeld 2 463 107 451
+Sum gjeld 1395 933 1570 560
+Sum egenkapital og gjeld 1954 805 2 166 434
+17.01.2026
+Styret i Vadheim Infohub AS
+Tormod Krogh
+styreleder
+VADHEIM INFOHUB AS SIDE 4
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets dkonomiske levetid.
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belgp ved
+verdifall som forventes ikke a veere forbigaende. Gjenvinnbart belgp er det hgyeste av netto salgsverdi og
+verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstr@mmer knyttet til eiendelen. Nedskrivingen
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Oml¢psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+FORDRINGER
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Loénnskostnader
+Vadheim Infohub AS har kun uvesentlige Ignns- eller personalkostnader i 2025 og det foreligger pensjons
+forpliktelser.
+Note 2 Anleggsmidler
+Bygninger Sum
+og tomter
+Anskaffelseskost pr. 01.01.25 2 051 000 2 051 000
+= Anskaffelseskost 31.12.25 2 051 000 2 051 000
+Akkumulerte avskrivninger 31.12.25 109 900 109 900
+= Bokfgrt verdi 31.12.25 1 941 100 1 941 100
+Arets ordinzere avskrivninger 82 000 82 000
+Dkonomisk levetid 25 ar
+
+Note 3 Fortsatt drift
+Resultatet for 2025 viser et underskot pa kr. -37 002 etter skatt, . Soliditeten og likviditeten er fortsatt
+tilfredstillande og det er ikke noe som indikerer at driften ikke kan fortsette.

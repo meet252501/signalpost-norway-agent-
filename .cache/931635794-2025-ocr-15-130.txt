@@ -1,0 +1,402 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 667134
+Virksomheten
+Organisasjonsnummer : 931 635 794
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: PG-BYGG AS
+Forretningsadresse: Nordstrandsvegen 13
+6823 SANDANE
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Pieter Koopmans
+Dato for fastsettelse av arsregnskapet: 15.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 11.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 931 635 794
+
+PG-BYGG AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREKNESKAP
+
+Inntekter
+
+Salgsinntekt 1 6 862 O71 6 004 552
+
+Annen driftsinntekt 75 35
+
+Sum inntekter 6 862 146 6 004 587
+
+Kostnader
+
+Varekostnad 6 287 924 5 355 183
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 2 85 700 85 700
+
+Annen driftskostnad 3 400 058 730 533
+
+Sum kostnader 6 773 682 6 171 415
+
+Driftsresultat 88 464 -166 828
+
+Finansinntekter og
+
+finanskostnader
+
+Anna renteinntekt 2 473 1 691
+
+Sum finansinntekter 2 473 1 691
+
+Annan rentekostnad 28 996 32 969
+
+Sum finanskostnader 28 996 32 969
+
+Netto finans -26 523 -31 278
+
+Resultat fer skattekostnad 4, 5 61 942 -198 107
+
+Skattekostnad pa resultat 4 5 738
+
+Arsresultat 6 56 204 -198 107
+
+Arsresultat etter
+
+minoritetsinteresser 56 204 -198 107
+
+Totalresultat 56 204 -198 107
+
+Overferingar og
+
+disponeringar
+
+Udekt tap 56 204 -198 107
+
+Sum overferingar og
+
+disponeringar 56 204 -198 107
+Utskriftsdato 11.07.2026 Organisasjonsnr 931 635 794 Side 1 av 3
+
+Organisasjonsnr: 931 635 794
+PG-BYGG AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIGEDELAR
+Anleggsmiddel
+Imnaterielle eigedelar
+Utsett skattefordel 4
+Varige driftsmiddel
+Tomter, bygninger o.a.
+fast eiendom 2
+Maskiner og anlegg 2 217 957 303 657
+Skip og flytende
+installasjoner 2
+Driftslesere, inventar o.
+a. utstyr 2
+Sum varige driftsmiddel 2 217 957 303 657
+Sum anleggsmiddel 217 957 303 657
+Omlepsmiddel
+Varer
+Krav
+Kundefordringer 318 136 277 726
+Andre kortsiktige
+fordringer 52 879 35 637
+Sum krav 371 015 313 363
+Bankinnskot, kontantar og
+liknande
+Bankinnskudd, kontanter o.
+1. 264 073 99 030
+Sum bankinnskot,
+kontantar og liknande 264 073 99 030
+Sum omlepsmiddel 635 088 412 393
+SUM EIGEDELAR 853 045 716 050
+BALANSE - EIGENKAPITAL OG
+GJELD
+Eigenkapital
+Innskoten eigenkapital
+Aksjekapital 6, 7 30 000 30 000
+Behaldning av eigne aksjar 7
+Sum innskoten eigenkapital 30 000 30 000
+Opptent eigenkapital
+Annen egenkapital 5
+
+Utskriftsdato 11.07.2026 Organisasjonsnr 931 635 794 Side 2 av 3
+
+Udekt tap 6 275 O57 331 261
+
+Sum opptent eigenkapital -275 057 -331 261
+
+Sum eigenkapital 6 -245 057 -301 261
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsett skatt 4
+
+Anna langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjonar 282 182 331 187
+
+Langsiktig konserngjeld 40 000
+
+Sum anna langsiktig gjeld 322 182 331 187
+
+Sum langsiktig gjeld 322 182 331 187
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 714 913 685 788
+
+Betalbar skatt 4 5 738
+
+Annen kortsiktig gjeld 55 269 335
+
+Sum kortsiktig gjeld 775 920 686 123
+
+Sum gjeld 1 098 102 1 017 311
+
+SUM EIGENKAPITAL OG GJELD 853 045 716 050
+Utskriftsdato 11.07.2026 Organisasjonsnr 931 635 794 Side 3 av 3
+
+Organisasjonsnr: 931 635 794
+
+PG-BYGG AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Tal pa Aarsverk i rekneskapsaret
+
+0.00
+
+ay BankID Qualified Signing
+Kvamme, Geirmund
+2026-05-12
+Cy) BankID Qualified Signing
+Koopmans, Pieter
+2026-05-12
+°
+Arsregnskap 2025
+Pg-Bygg AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 931 635 794
+
+RESULTATREGNSKAP |
+PG-BYGG AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 1 6 862 071 6 004 552
+Annen driftsinntekt 75 35
+Sum driftsinntekter 6 862 146 6 004 587
+Varekostnad 6 287 924 5 355 183
+Avskrivning av driftsmidler og immaterielle eiendeler 2 85 700 85 700
+Annen driftskostnad 3 400 058 730 533
+Sum driftskostnader 6 773 682 6171415
+Driftsresultat 88 464 -166 828
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 2 473 1691
+Annen rentekostnad 28 996 32 969
+Resultat av finansposter -26 523 -31 278
+Resultat for skattekostnad 4,5 61 942 -198 107
+Skattekostnad pa resultat 4 5 738 0
+Arsresultat 6 | = 56. 204, -198 107
+OVERF@RINGER
+
+Avsatt til dekning av tidligere udekket tap 56 204 0
+Overfgrt til udekket tap 0 198 107
+Sum overf¢ringer 56 204 -198 107
+PG-BYGG AS SIDE 2
+
+BALANSE |
+PG-BYGG AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+Maskiner og anlegg 2 217 957 303 657
+Sum varige driftsmidler 2 217 957 303 657
+FINANSIELLE ANLEGGSMIDLER
+Sum anleggsmidler 217 957 303 657
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 318 136 277726
+Andre kortsiktige fordringer 52 879 35 637
+Sum fordringer 371 015 313 363
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 264 073 99 030
+Sum omlgpsmidler 635 088 412 393
+Sum eiendeler 853 045 716 050
+PG-BYGG AS SIDE 3
+
+BALANSE |
+PG-BYGG AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 6,7 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+OPPTJENT EGENKAPITAL
+Udekket tap 6 -275 057 -331 261
+Sum opptjent egenkapital -275 057 -331 261
+Sum egenkapital 6 -245 057 -301 261
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Gjeld til kredittinstitusjoner 282 182 331 187
+Langsiktig konserngjeld 40 000 0
+Sum annen langsiktig gjeld 322 182 331 187
+KORTSIKTIG GJELD
+Leverandgrgjeld 714 913 685 788
+Betalbar skatt 4 5 738 0
+Annen kortsiktig gjeld 55 269 335
+Sum kortsiktig gjeld 775 920 686 123
+Sum gijeld 1098 102 1 017 311
+Sum egenkapital og gjeld 853 045 716 050
+Sandane , 12.05.2026
+Styret i Pg-Bygg AS
+Geirmund Kvamme Pieter Koopmans
+styreleder styremedlem/daglig leder
+PG-BYGG AS SIDE 4
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets @konomiske levetid.
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart beldp ved
+verdifall som forventes ikke a vzere forbigaende. Gjenvinnbart belg@p er det hayeste av netto salgsverdi og
+verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstra@mmer knyttet til eiendelen. Nedskrivingen
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+FORDRINGER
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Virksomhetens art og lokalisering
+Pg-Bygg AS er et selskap der virksomheten omfatter Oppfgring av bygninger. Selskapet er lokalisert i
+Gloppen kommune.
+Note 2 Anleggsmidler
+Maskiner Sum
+og anlegg
+Anskaffelseskost pr. 01.01.25 428 357 428 357
+= Anskaffelseskost 31.12.25 428 357 428 357
+Akkumulerte avskrivninger 31.12.25 210 400 210 400
+= Bokfort verdi 31.12.25 217 957 217 957
+Arets ordinzere avskrivninger 85 700 85 700
+Pkonomisk levetid Sar
+
+Note 3 Lénnskostnader
+Pg-Bygg AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 5 738 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 5 738 0
+Skattepliktig inntekt:
+Resultat far skatt 61 942 -198 107
+Permanente forskjeller 0 0
+Endring i midlertidige forskjeller 24 640 325 358
+Anvendelse av fremfgrbart underskudd -60 502 -127 252
+Skattepliktig inntekt 26 080 0
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 5 738 0
+Sum betalbar skatt i balansen 5 738 0
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte skattefordeler,
+spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Varige driftsmidler 24 601 49 242 24 640
+Fordringer -320 000 -320 000 8)
+Sum -295 399 -270 758 24 640
+Akkumulert fremfgrbart underskudd 0 -60 502 -60 502
+Inngar ikke i beregningen av utsatt skatt 295 399 331 261 35 862
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 5 Fortsatt drift
+Resultatet for 2025 viser et resultat pa kr. 56 204 etter skatt. Egenkapitalen er tapt.
+Underskuddet i 2024 skyldes avsetning for tap pa fordring, men antar at deler av dette vil bli
+innbetalt i 2025.
+Aktiviteten i selskapet er god, og styret vurderer at forutsetningene for fortsatt drift er til stede. Termin 1
+2026 viser et foreldpig overskudd pa kr 207 498,15 som underbygger god aktivitet i selskapet.
+
+Note 6 Egenkapital
+Aksje- Udekket
+kapital tap Sum
+Pr. 31.12.2024 30000 -331261 -301 261
+Pr. 01.01.2025 30000 -331261 -301 261
+Arets overskudd 56 204 56 204
+Pr. 31.12.2025 30000 -275057 -245057
+Note 7 Aksjonzrer
+AKSJEKAPITALEN | PG-BYGG AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+Ordinzre aksjer 300 100,0 30 000
+Sum 300 30 000
+EIERSTRUKTUR
+De stgrste aksjonzrene i % pr. 31.12 var:
+Ordinzre Eierandel Stemmeandel
+Ahda Holding AS 150 50,0 50,0
+Geirmund Kvamme 150 50,0 50,0
+Totalt antall aksjer 300 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Verv Ordinzere
+Geirmund Kvamme styreleder 150
+Totalt antall aksjer 150

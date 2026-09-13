@@ -136,6 +136,12 @@ def fetch(profile: dict, cache_dir: Path) -> tuple[list[dict], dict]:
                 **common,
                 "id": f"fagfolk-review-{org}-{digest[:16]}",
                 "signal_type": "review_summary",
+                "sentiment_label": (
+                    "positive" if rating >= 3.5
+                    else "neutral" if rating >= 2.5
+                    else "negative"
+                ),
+                "sentiment_model_version": "google-places-rating-v1",
                 "strategy": "places_rating_reviews",
             },
             {
@@ -178,11 +184,14 @@ def main() -> None:
     parser.add_argument("--report", required=True)
     parser.add_argument("--workers", type=int, default=16)
     args = parser.parse_args()
-    wanted = [
-        line.strip()
-        for line in Path(args.organisations).read_text(encoding="utf-8").splitlines()
-        if line.strip()
-    ]
+    wanted = []
+    for line in Path(args.organisations).read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line: continue
+        try:
+            wanted.append(str(json.loads(line)["organisation_number"]))
+        except Exception:
+            wanted.append(line)
     profiles = {
         str(row["organisation_number"]): row
         for row in (

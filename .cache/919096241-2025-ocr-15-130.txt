@@ -1,0 +1,343 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 401527
+Virksomheten
+Organisasjonsnummer : 919 096 241
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: JILLEVIK AS
+Forretningsadresse: Retingavegen 340
+5216 LEPS@Y
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Robert Dale
+Dato for fastsettelse av arsregnskapet: 26.04.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 919 096 241
+
+JILLEVIK AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 1 48 255 5 005
+
+Sum kostnader 48 255 5 005
+
+Driftsresultat -48 255 -5 005
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 68 297 28 238
+
+Sum finansinntekter 68 297 28 238
+
+Netto finans 68 297 28 238
+
+Resultat fer skattekostnad 2 20 042 23 234
+
+Skattekostnad pa resultat 2 6 539 5 111
+
+Arsresultat 3 13 503 18 123
+
+Arsresultat etter
+
+minoritetsinteresser 13 503 18 123
+
+Totalresultat 13 503 18 123
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 3 13 503 18 123
+
+Sum overferinger og
+
+disponeringer 13 503 18 123
+Utskriftsdato 28.04.2026 Organisasjonsnr 919 096 241 Side 1 av 3
+
+Organisasjonsnr: 919 096 241
+
+JILLEVIK AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 2
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 4 12 411 154 12 396 154
+
+Sum finansielle
+
+anleggsmidler 12 411 154 12 396 154
+
+Sum anleggsmidler 12 411 154 12 396 154
+
+Omlepsmidler
+
+Varer
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 603 353 812 149
+
+Sum bankinnskudd,
+
+kontanter og lignende 603 353 812 149
+
+Sum omlepsmidler 603 353 812 149
+
+SUM ELENDELER 13 014 507 13 208 303
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 3 183 203 183 203
+
+Overkurs 3 8 235 203 8 235 203
+
+Sum innskutt egenkapital 8 418 406 8 418 406
+
+Opptjent egenkapital
+
+Annen egenkapital 3 4 589 562 784 786
+
+Sum opptjent egenkapital 4 589 562 784 786
+
+Sum egenkapital 3 13 007 968 9 203 192
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 2
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 5 4 000 000
+
+Sum annen langsiktig gjeld 4 000 000
+Utskriftsdato 28.04.2026 Organisasjonsnr 919 096 241 Side 2 av 3
+
+Sum langsiktig gjeld 4 000 000
+
+Kortsiktig gjeld
+
+Betalbar skatt 2 6 539 5 111
+
+Sum kortsiktig gjeld 6 539 5 111
+
+Sum gjeld 6 539 4 005 111
+
+SUM EGENKAPITAL OG GJELD 13 014 507 13 208 303
+Utskriftsdato 28.04.2026 Organisasjonsnr 919 096 241 Side 3 av 3
+
+Organisasjonsnr: 919 096 241
+
+JILLEVIK AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+RESULTATREGNSKAP |
+JILLEVIK AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 1 48 255 5 005
+Sum driftskostnader 48 255 5 005
+Driftsresultat -48 255 -5 005
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 68 297 28 238
+Resultat av finansposter 68 297 28 238
+Resultat fr skattekostnad 2 20 042 23 234
+Skattekostnad pa resultat 2 6539 5111
+Resultat 13 503 18 123
+Arsresultat Re 13503R 18.123)
+OVERF@RINGER
+
+Avsatt til annen egenkapital 3 13 503 18 123
+Sum overf¢ringer 13 503 18 123
+JILLEVIK AS SIDE 1
+
+BAAN
+JILLEVIK AS
+
+EIENDELER Note 31.12.2023 31.12.2022
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i tilknyttet selskap 4 12 411 154 12 396 154
+Sum finansielle anleggsmidler 12 411 154 12 396 154
+Sum anleggsmidler 12 411 154 12 396 154
+OML@PSMIDLER
+FORDRINGER
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 603 353 812 149
+Sum omlgpsmidler 603 353 812 149
+Sum eiendeler
+JILLEVIK AS SIDE 2
+
+BALANSE |
+JILLEVIK AS
+EGENKAPITAL OG GJELD Note 31.12.2023 31.12.2022
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 3 183 203 183 203
+Overkurs 3 8 235 203 8 235 203
+Sum innskutt egenkapital 8 418 406 8 418 406
+OPPTJENT EGENKAPITAL
+Annen egenkapital 3 4589 562 784 786
+Sum opptjent egenkapital 4589 562 784 786
+Sum egenkapital 3 13 007 968 9 203 192
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+PDvrig langsiktig gjeld 5 0 4 000 000
+Sum annen langsiktig gjeld 0 4 000 000
+KORTSIKTIG GJELD
+Betalbar skatt 2 6539 5111
+Sum kortsiktig gjeld 6 539 5111
+Sum gjeld 6539 4005 111
+Sum egenkapital og gjeld 13 014 507 13 208 303
+Lepsay, 26.04.2026
+Styret i Jillevik AS
+Robert Dale
+styreleder/daglig leder
+JILLEVIK AS SIDE 3
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+AKSJER | TILKNYTTET SELSKAP
+
+Tilknyttet selskap vurderes etter kostmetoden. Investeringen er vurdert til anskaffelseskost for aksjene
+med mindre nedskrivning har vzert nédvendig. Det er foretatt nedskrivning til virkelig verdi nar verdifall
+skyldes arsaker som ikke kan forventes a vere forbigaende og det ma anses ngdvendig etter god
+regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke lenger er til stede..
+Virksomhetens art og lokalisering
+
+Jillevik AS er et selskap der virksomheten omfatter investering i aksjer. Selskapet er lokalisert i
+Bjgrnafjorden kommune.
+
+Note 1 Lénnskostnader
+Jillevik AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Note 2 Skatt
+Arets skattekostnad 2025 2024
+Resultatfert skatt pa ordineert resultat:
+Betalbar skatt 6 539 5111
+Enaring i utsatt skattefordel ¢) ¢)
+Skattekostnad ordincert resultat 6 539 5111
+Skattepliktig inntekt:
+Resultat for skatt 20 042 23 234
+Permanente forskjeller 9 680 ¢)
+Skattepliktig inntekt 29 722 23 234
+Betalbar skatt i balansen:
+Betalbar skatt pd drets resultat 6 539 § 111
+Sum betalbar skatt i balansen 6 539 5111
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til Utsatt skatt og Utsatte skattefordeler,
+spesifisert pd typer av midlertidige forskjeller
+2025 2024 Endring
+Utsatt skatt (22 %) 0 0 0
+Note 3 Egenkapital
+Aksjekapital Overkurs Annen Sum
+egenkapital egenkapital
+Pr. 31.12.2024 183203 8235203 784 786 9 203 192
+Arets resultat 13 503 13 503
+Fusjon med Regttingen Holding 2 AS 3 791 273 3 791 273
+Pr 31.12.2025 183 203 8235203 4589 562 13 007 968
+Det har i 2025 veert gjennomf¢grt en mor-datterfusjon med Rgttingen Holding 2 AS med regnskapsmessig og
+skattemessig kontinuitet og effekt fra 1.1.2025. Ved fusjon har Jillevik AS blitt tilfgrt netto egenkapital pa
+kr 3 791 273, bestaende av egenkapital i Rattingen Holding 2 AS pr 1.1.25, fratrukket kostpris pa
+kr 300 000 som Jillevik AS kjgpte aksjene for, samt fratrukket tilleggsutbytte pa kr 2 050 000 utdelt til eier
+av Rgttingen Holding 2 AS fgr overdragelse av aksjene.
+
+Note 4 Tilknyttet selskap
+
+Jillevik AS eier 50% av aksjene i Dales Rederi AS. Aksjenes kostpris tilsvarer balansefgrt verdi pa kr
+
+12 396 154
+
+Jillevik AS har gjennom fusjon med Rgttingen Holding 2 AS ervervet 50% av aksjene i Dales Eiendom AS.
+Aksjenes kostpris fra Rottingen Holding 2 AS pa kr 15 000 er viderefgrt og tilsvarer balansefgrt verdi pr
+31.12.
+
+Note 5 Langsiktig gjeld
+
+Tidligere mellomregning med R¢ttingen Holding 2 AS pa kr 4 mill er nullet som del av fusjonsprosessen i
+2025

@@ -1,0 +1,353 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 425020
+Virksomheten
+Organisasjonsnummer : 923 766 545
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: RYKENE HARSTUDIO AS
+Forretningsadresse: Presteveien 29
+4821 RYKENE
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ecit Normann & @ygarden AS
+Dato for fastsettelse av arsregnskapet: 04.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 07.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 923 766 545
+
+RYKENE HARSTUDIO AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 339 397 1 164 468
+
+Sum inntekter 1 339 397 1 164 468
+
+Kostnader
+
+Varekostnad 176 169 147 285
+
+Lennskostnad 1 919 744 716 966
+
+Annen driftskostnad 286 089 264 151
+
+Sum kostnader 0 0
+
+Driftsresultat -42 604 36 066
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 574 482
+
+Sum finansinntekter 0 0
+
+Annen rentekostnad 315 2 682
+
+Sum finanskostnader fe) e)
+
+Netto finans 0 e)
+
+Resultat fer skattekostnad -42 345 33 867
+
+Skattekostnad 2 7 457
+
+Arsresultat -42 345 26 410
+
+Totalresultat -42 345 26 410
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -42 345 26 410
+
+Sum overferinger og
+
+disponeringer -42 345 26 410
+Utskrifttsdato 07.05.2026 Organisasjonsnr 923 766 545 Side 1 av 3
+
+Organisasjonsnr: 923 766 545
+
+RYKENE HARSTUDIO AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Varer 107 400 110 100
+
+Sum varer 214 800 220 200
+
+Fordringer
+
+Andre fordringer 2 428 2 660
+
+Sum fordringer 2 428 2 660
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 245 060 177 692
+
+Sum bankinnskudd,
+
+kontanter og lignende 245 060 177 692
+
+Sum omlepsmidler 354 888 290 451
+
+SUM ELENDELER 354 888 290 451
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 3 30 000 30 000
+
+Annen innskutt egenkapital 0 0
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptijent egenkapital
+
+Annen egenkapital 35 020 77 365
+Utskriftsdato 07.05.2026 Organisasjonsnr 923 766 545 Side 2 av 3
+
+Sum opptjent egenkapital 35 020 77 365
+
+Sum egenkapital 65 020 107 365
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 20 036 9 426
+
+Betalbar skatt 2 7 457
+
+Skyldige offentlige
+
+avgifter 141 978 95 268
+
+Annen kortsiktig gjeld 127 854 70 935
+
+Sum kortsiktig gjeld 289 868 183 086
+
+Sum gjeld 289 868 183 086
+
+SUM EGENKAPITAL OG GJELD 354 888 290 451
+Utskriftsdato 07.05.2026 Organisasjonsnr 923 766 545 Side 3 av 3
+
+Organisasjonsnr: 923 766 545
+RYKENE HARSTUDIO AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+1
+Antall Aarsverk i regnskapsaret
+1.00
+Note
+1
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+765645.00 592038.00
+Folketryqdavgift Arets Fjorarets
+112882.00 87974.00
+Pensjonskostnader Arets Fljorarets
+34937.00 31874.00
+Andre ytelser Arets Fljorarets
+6280.00 5080.00
+Sum lennskostnader Arets Fljorarets
+919744.00 716966.00
+
+Rykene Harstudio AS
+Arsregnskap for 2025
+---- ECIT Normann & @ygarden AS — Autorisert reqnskapsforerselskap - Tif. 37073030 ——
+
+RESULTATREGNSKAP
+Note 2025 2024
+
+Salgsinntekt 1 339 397 1 164 468
+Sum driftsinntekt 1 339 397 1 164 468
+Varekostnad 176 169 147 285
+Lgnnskostnad 1 919 744 716 966
+Annen driftskostnad 286 089 264 151
+Driftsresultat -42 604 36 066
+Renteinntekt 574 482
+Rentekostnad 315 2 682
+Ordinert resultat for skattekostnad -42 345 33 867
+Skattekostnad pa ordinzert resultat 2 0 7 457
+Ordinzert resultat 42345 = 26 410
+Arsresultat -42 345 26 410
+Overferinger
+Overfert annen egenkapital -42 345 26 410
+Sum overfgringer -42 345 26 410
+
+RYKENE HARSTUDIO AS
+
+BALANSE
+Note 2025 2024
+Eiendeler
+Omlopsmidler
+Varer
+Varer 107 400 110 100
+Sum varer 107 400 110 100
+Fordringer
+Andre fordringer 2 428 2 660
+Sum fordringer 2 428 2 660
+Bankinnskudd og kontanter 245 060 177 692
+Sum omispsmidler 354 888 290 451
+Sum eiendeler 354 888 290 451
+RYKENE HARSTUDIO AS
+
+BALANSE
+Note 2025 2024
+
+Egenkapital og gjeld
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 3 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 35 020 77 365
+Sum opptjent egenkapital 35 020 77 365
+Sum egenkapital 65 020 107 365
+Gjeld
+Kortsiktig gjeld
+Leverandergjeld 20 036 9 426
+Betalbar skatt 2 0 ? 457
+Skyldige offentlige avgifter 141 978 95 268
+Annen kortsiktig gjeld 127 854 70 935
+Sum kortsiktig gjeld 289 868 183 086
+Sum gjeid 289 868 183 086
+Sum egenkapital og gjeld 354 888 290 451
+Rykene, 28.04.2026
+
+Styret for RYKENE HARSTUDIO AS
+
+Deudedn \rydah
+
+Bente Lill Trydal
+Styrets leder
+RYKENE HARSTUDIO AS
+
+NOTER TIL REGNSKAPET FOR 2025
+Arten av virksomheten og hvor den drives
+Selskapets virksomhet selger frisgrtjenester.
+Selskapet ligger pa Rykene 1 Arendal kommune, og kundene er fra nezrmiljget.
+Regnskapsprinsipper.
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk.
+Unntaksregler som gjelder for sma foretak er som hovedregel anvendt.
+Foretakets regnskap er utarbeidet under forutsetning om fortsatt drift.
+Varer
+Varer vurderes til laveste av anskaffelseskost og virkelig verdi. Det er i 2025
+ikke vert behov for ukuransnedskrivning.
+Fordringer
+Andre fordringer oppfores til palydende etter fradrag for avsetning til forventet tap.
+Fordringer er vurdert til palydende.
+Note 1. Ansatte.
+2025 2024
+Lenn 765.645 592.038
+| Arbeidsgiveravgift 112.882 87.974
+Pensjonskostnader 34.937 31.874
+Andre ytelser 6.280 5.080
+Sum lonnskostnader 919.744 716.966
+Det har i 2025 veert sysselsatt 1 arsverk. Det er ikke utbetalt godtgjgrelse til styret.
+Note 2. Skatter.
+Arets underskudd /underskudd til fremforing 42.345
+Betalbar skatt 0
+22% utsatt skattefordel av underskudd til fremfgring, kr 9.316. er ikke balansefort.
+Note 3. Aksjekapital.
+Aksjekapital bestar av 30 aksjer a kr 1.000.
+Selskapet har ikke egne aksjer.
+Note 4. Lan og sikkerhetsstillelser til ledende personer.
+Der er ingen lan og sikkerhetsstillelser til ledende personer, aksjonzr, ansatte m.v.
+RYKENE HARSTUDIO AS

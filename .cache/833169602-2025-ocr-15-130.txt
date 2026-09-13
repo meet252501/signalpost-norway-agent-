@@ -1,0 +1,258 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 728602
+Virksomheten
+Organisasjonsnummer : 833 169 602
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: FAGMONT@REN SANDER EIDSTUMO AS
+Forretningsadresse: Sunnlandsvegen 46B
+7032 TRONDHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: FOLKELIG REGNSKAP AS
+Dato for fastsettelse av arsregnskapet: 12.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 30.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 833 169 602
+
+FAGMONT@REN SANDER EIDSTUMO AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 0 288 290
+
+Sum inntekter 0 288 290
+
+Kostnader
+
+Lennskostnad 1 0 51 117
+
+Annen driftskostnad 20 874 273 353
+
+Sum kostnader 20 874 324 470
+
+Driftsresultat -20 874 -36 180
+
+Annen rentekostnad 14 8 660
+
+Sum finanskostnader 14 8 660
+
+Netto finans -14 -8 660
+
+Resultat for skattekostnad -20 888 -44 840
+
+Skattekostnad -4 595 -9 865
+
+Arsresultat -16 293 -34 975
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -16 293 -34 975
+
+Sum overferinger og
+
+disponeringer -16 293 -34 975
+Utskriftsdato 30.07.2026 Organisasjonsnr 833 169 602 Side 1 av 3
+
+Organisasjonsnr: 833 169 602
+
+FAGMONT@REN SANDER EIDSTUMO AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 14 460 9 865
+
+Sum immaterielle eiendeler 14 460 9 865
+
+Sum anleggsmidler 14 460 9 865
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 234 363 234 363
+
+Sum fordringer 234 363 234 363
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 20 9 734
+
+Sum bankinnskudd,
+
+kontanter og lignende 20 9 734
+
+Sum omlepsmidler 234 382 244 097
+
+SUM ELENDELER 248 842 253 962
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Annen innskutt egenkapital -5 784 -5 784
+
+Sum innskutt egenkapital 24 216 24 216
+
+Opptjent egenkapital
+
+Udekket tap 51 269 34 975
+
+Sum opptjent egenkapital -51 269 -34 975
+
+Sum egenkapital -27 053 -10 759
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 252 618 241 444
+
+Sum annen langsiktig gjeld 252 618 241 444
+
+Sum langsiktig gjeld 252 618 241 444
+Utskriftsdato 30.07.2026 Organisasjonsnr 833 169 602 Side 2 av 3
+
+Kortsiktig gjeld
+
+Leverandergjeld 17 800 17 800
+Skyldige offentlige
+
+avgifter 677 677
+Annen kortsiktig gjeld 4 800 4 800
+Sum kortsiktig gjeld 23 277 23 277
+Sum gjeld 275 895 264 721
+SUM EGENKAPITAL OG GJELD 248 842 253 962
+
+Utskriftsdato 30.07.2026 Organisasjonsnr 833 169 602 Side 3 av 3
+
+Organisasjonsnr: 833 169 602
+
+FAGMONT@REN SANDER EIDSTUMO AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00

@@ -1,0 +1,405 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 561684
+Virksomheten
+Organisasjonsnummer : 928 675 998
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: CIOL AS
+Forretningsadresse: Radhusplassen 27
+1430 As
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Truls Johan Bigrnstad
+Dato for fastsettelse av arsregnskapet: 17.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 928 675 998
+
+CIOL AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 105 084
+
+Annen driftsinntekt 1 949 888 3 455 332
+
+Sum inntekter 2 054 972 3 455 332
+
+Kostnader
+
+Varekostnad 738 896 1 467 139
+
+Lennskostnad 2 567 754 841 184
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 3 176 800
+
+Annen driftskostnad 570 817 720 023
+
+Sum kostnader 2 054 267 3 028 346
+
+Driftsresultat 705 426 986
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 7 723 10 039
+
+Annen finansinntekt 376
+
+Sum finansinntekter 7 723 10 416
+
+Annen finanskostnad 982 1 233
+
+Sum finanskostnader 982 1 233
+
+Netto finans 6 741 9 183
+
+Resultat fer skattekostnad 4 7 445 436 169
+
+Skattekostnad pa resultat 4
+
+Arsresultat 7 445 436 169
+
+Arsresultat etter
+
+minoritetsinteresser 7 445 436 169
+
+Totalresultat 7 445 436 169
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 5 7 445 436 169
+
+Sum overferinger og
+
+disponeringer 5 7 445 436 169
+Utskriftsdato 20.06.2026 Organisasjonsnr 928 675 998 Side 1 av 3
+
+Organisasjonsnr: 928 675 998
+CIOL AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 4
+Varige driftsmidler
+Tomter, bygninger o.a.
+fast eiendom 3
+Maskiner og anlegg 1 274 091 884 250
+Skip og flytende
+installasjoner 3
+Driftslesere, inventar o.
+a. utstyr 3
+Sum varige driftsmidler 3 1 274 091 884 250
+Sum anleggsmidler 1 274 091 884 250
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 76 250 348 791
+Andre kortsiktige
+fordringer 6 806 956 310 216
+Sum fordringer 7 883 206 659 007
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 568 177 2 044 511
+Sum bankinnskudd,
+kontanter og lignende 568 177 2 044 511
+Sum omlepsmidler 1 451 383 2 703 518
+SUM ELENDELER 2 725 474 3 587 768
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 8 90 000 90 000
+Beholdning av egne aksjer 8
+Overkurs 540 000 540 000
+Sum innskutt egenkapital 630 000 630 000
+Opptjent egenkapital
+
+Utskriftsdato 20.06.2026 Organisasjonsnr 928 675 998 Side 2 av 3
+
+Udekket tap 511 377 518 822
+
+Sum opptjent egenkapital -511 377 -518 822
+
+Sum egenkapital 5 118 623 111 178
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+Konvertible lan 2 000 000 2 000 000
+
+Sum annen langsiktig gjeld 2 000 000 2 000 000
+
+Sum langsiktig gjeld 2 000 000 2 000 000
+
+Kortsiktig gjeld
+
+Leverandergjeld 115 233 570 790
+
+Betalbar skatt 4
+
+Skyldig offentlige avgifter 19 088 181 726
+
+Annen kortsiktig gjeld 472 529 724 074
+
+Sum kortsiktig gjeld 606 850 1 476 590
+
+Sum gjeld 2 606 850 3 476 590
+
+SUM EGENKAPITAL OG GJELD 2 725 474 3 587 768
+Utskriftsdato 20.06.2026 Organisasjonsnr 928 675 998 Side 3 av 3
+
+Organisasjonsnr: 928 675 998
+
+CIOL AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.20
+
+Arsregnskap 2025
+Ciol AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 928 675 998
+
+RESULTATREGNSKAP |
+CIOL AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 1 105 084 0
+Annen driftsinntekt 1 949 888 3 455 332
+Sum driftsinntekter 2 054 972 3 455 332
+Varekostnad 738 896 1 467 139
+Lénnskostnad 2 567 754 841 184
+Avskrivning av driftsmidler og immaterielle eiendeler 3 176 800 0
+Annen driftskostnad 570 817 720 023
+Sum driftskostnader 2 054 267 3 028 346
+Driftsresultat 705 426 986
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 7723 10 039
+Annen finansinntekt 0 376
+Annen finanskostnad 982 1 233
+Resultat av finansposter 6741 9 183
+Resultat for skattekostnad 4 7 445 436 169
+Arsresultat 7 445 436 169
+OVERF@RINGER
+
+Avsatt til dekning av tidligere udekket tap 7445 436 169
+Sum overf¢ringer 5 7 445 436 169
+CIOL AS SIDE 2
+
+BALANSE |
+CIOL AS
+
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+VARIGE DRIFTSMIDLER
+Maskiner og anlegg 1274091 884 250
+Sum varige driftsmidler 3 1274091 884 250
+Sum anleggsmidler 1274091 884 250
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 76 250 348 791
+Andre kortsiktige fordringer 6 806 956 310 216
+Sum fordringer 7 883 206 659 007
+Bankinnskudd, kontanter o.|. 568 177 2 044511
+Sum omlgpsmidler 1 451 383 2 703 518
+Sum eiendeler 2725 474 3 587 768
+CIOL AS SIDE 3
+
+BALANSE |
+CIOL AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 8 90 000 90 000
+Overkurs 540 000 540 000
+Sum innskutt egenkapital 630 000 630 000
+OPPTJENT EGENKAPITAL
+Udekket tap -511 377 -518 822
+Sum opptjent egenkapital -511 377 -518 822
+Sum egenkapital 5 118 623 111178
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+Konvertible lan 2 000 000 2 000 000
+Sum annen langsiktig gjeld 2 000 000 2 000 000
+KORTSIKTIG GJELD
+Leverandgrgjeld 115 233 570 790
+Skyldig offentlige avgifter 19 088 181 726
+Annen kortsiktig gjeld 472 529 724074
+Sum kortsiktig gjeld 606 850 1 476 590
+Sum gjeld 2 606 850 3 476 590
+Sum egenkapital og gjeld 2725 474 3 587 768
+As, 17.06.2026
+Styret i Ciol AS
+Magnus Frydenlund Thor Bjarne Mosaker Truls Johan Bigrnstad
+styreleder styremedilem daglig leder
+CIOL AS SIDE 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+DRIFTSINNTEKTER
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets @konomiske levetid.
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart beldp ved
+verdifall som forventes ikke a vzere forbigaende. Gjenvinnbart belg@p er det hayeste av netto salgsverdi og
+verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstra@mmer knyttet til eiendelen. Nedskrivingen
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+FORDRINGER
+
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Note 1 Virksomhetens art og lokalisering
+
+Ciol AS er et selskap der virksomheten omfatter Engroshandel med kjemiske produkter. Selskapet er
+lokalisert i As kommune.
+
+Note 2 Lénnskostnader og ytelser, godtgj@relser til daglig leder, styret og revisor
+L@NNSKOSTNADER
+2025 2024
+Lénninger 456 739 745 305
+Arbeidsgiveravgift 102 514 93 331
+Pensjonskostnader 0 -1070
+Andre ytelser 8500 3617
+Sum 567 754 841 184
+Selskapet har i 2025 sysselsatt 1 arsverk.
+Note 3 Anleggsmidler
+Maskiner Sum
+og anlegg
+Anskaffelseskost pr. 01.01.25 884 250 884 250
++ Tilgang kj@pte driftsmidler 566 641 566 641
+= Anskaffelseskost 31.12.25 1 450 891 1 450 891
+Akkumulerte avskrivninger 31.12.25 176 800 176 800
+= Bokfort verdi 31.12.25 1 274091 1274091
+Arets ordinzere avskrivninger 176 800 176 800
+Dkonomisk levetid Sar
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt 7 445 436 169
+Permanente forskjeller -416 818 -298 162
+Anvendelse av fremfgrbart underskudd 0 -138 008
+Skattepliktig inntekt -409 372 0
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+
+Akkumulert fremfgrbart underskudd -1 601 039 -1 191 667 409 372
+Inngar ikke i beregningen av utsatt skatt 1601 039 1 191 667 -409 372
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+Note 5 Egenkapital
+Aksjekapital Overkurs Udekket tap Sum
+egenkapital
+Pr. 31.12.2022 90 000 540 000 -518 822 111 178
+Arets resultat 7 445 7 445
+Pr 31.12.2025 90 000 540 000 -511 377 118 623
+Note 6 Skattefunn
+Selskapet har fatt innvilget offentlige tilskudd i forbindelse med Skattefunn-ordningen med NOK 411 289.
+Totalbelgpet er oppfgrt som annen kortsiktig fordring, og skattefunn. Tilskuddet er betinget av endelig
+godkjennelse fra ligningsmyndighetene. Totale FoU kostnader i 2025, vedrgrende tilskuddsberettigede
+prosjekter belgper seg til NOK 2 164 677.
+Note 7 Lan og sikkerhetsstillelse til ledende personer
+Selskapet har ikke gitt lan eller sikkerhetsstillelse til ledende personer, aksjeeiere med videre.
+Note 8 Aksjonzerer
+AKSJEKAPITALEN I CIOL AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+Ordinzre aksjer 600 000 0,15 90 000
+Sum 600 000 90 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+Ordinzere Eierandel Stemmeandel
+Ard Innovation AS 450 000 75,0 75,0
+Lobla Invest AS 150 000 25,0 25,0
+Totalt antall aksjer 600 000 100,0 100,0

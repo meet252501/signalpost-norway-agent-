@@ -1,0 +1,384 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 622069
+Virksomheten
+Organisasjonsnummer : 989 156 780
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: R@D GARD HOLDING AS
+Forretningsadresse: Gullfunnet 50
+1570 DILLING
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Johnny Trandem
+Dato for fastsettelse av Aarsregnskapet: 26.06.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 23.07.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 156 780
+
+R@D GARD HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Annen driftskostnad 2 41 601 78 535
+
+Sum kostnader 41 601 78 535
+
+Driftsresultat -41 601 -78 535
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap 3
+
+Annen renteinntekt 144 215 157 527
+
+Annen finansinntekt 3 457 590 820 196
+
+Verdigkning
+
+markedsbaserte omlepsmidler 3 190 136
+
+Sum finansinntekter 601 805 1 167 858
+
+Nedskrivning av
+
+finansielle eiendeler 3 129 204 6 951
+
+Annen rentekostnad 70 350 95 337
+
+Sum finanskostnader 199 554 102 288
+
+Netto finans 402 251 1 065 570
+
+Resultat fer skattekostnad 360 650 987 035
+
+Skattekostnad pa resultat 4
+
+Arsresultat 360 650 987 035
+
+Arsresultat etter
+
+minoritetsinteresser 360 650 987 035
+
+Totalresultat 360 650 987 035
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 500 000 500 000
+
+Avsatt til annen
+
+egenkapital 487 035
+
+Overfert fra annen
+
+egenkapital -139 350
+
+Sum overferinger og
+
+disponeringer 360 650 987 035
+Utskriftsdato 23.07.2026 Organisasjonsnr 989 156 780 Side 1 av 3
+
+Organisasjonsnr: 989 156 780
+
+R@D GARD HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 3, 5 6 338 098 6 338 098
+
+Investeringer i aksjer og
+
+andeler 3 485 863 512 183
+
+Sum finansielle
+
+anleggsmidler 6 823 961 6 850 281
+
+Sum anleggsmidler 6 823 961 6 850 281
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 6 775 855 975 855
+
+Sum fordringer 775 855 975 855
+
+Investeringer
+
+Markedsbaserte aksjer 3 3 655 208 2 641 034
+
+Markedsbaserte obligasjoner 3 708 696
+
+Andre finansielle
+
+instrumenter 500 500
+
+Sum investeringer 3 655 708 3 350 230
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 3 3 143 066 3 628 511
+
+Sum bankinnskudd,
+
+kontanter og lignende 3 143 066 3 628 511
+
+Sum omlepsmidler 7 574 629 7 954 595
+
+SUM ELENDELER 14 398 589 14 804 876
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 7 100 000 100 000
+
+Overkurs 7 538 020 538 020
+
+Sum innskutt egenkapital 638 020 638 020
+Utskriftsdato 23.07.2026 Organisasjonsnr 989 156 780 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 7 11 396 115 11 535 465
+
+Sum opptjent egenkapital 11 396 115 11 535 465
+
+Sum egenkapital 7 12 034 135 12 173 485
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 5 1 037 868 1 302 876
+
+Sum annen langsiktig gjeld 1 037 868 1 302 876
+
+Sum langsiktig gjeld 1 037 868 1 302 876
+
+Kortsiktig gjeld
+
+Betalbar skatt 4
+
+Utbytte 500 000 500 000
+
+Annen kortsiktig gjeld 6 826 586 828 515
+
+Sum kortsiktig gjeld 1 326 586 1 328 515
+
+Sum gjeld 2 364 454 2 631 391
+
+SUM EGENKAPITAL OG GJELD 14 398 589 14 804 876
+Utskriftsdato 23.07.2026 Organisasjonsnr 989 156 780 Side 3 av 3
+
+Organisasjonsnr: 989 156 780
+
+R@D GARD HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+/ ON
+Sf \
+Arsregnskap 2025
+Red Gard Holding AS
+—
+/ \
+| \
+
+
+Resultatregnskap
+Red Gard Holding AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Sum driftsinntekter 0 0
+Annen driftskostnad 2 41 601 78 535
+Sum driftskostnader 41 601 78 535
+Driftsresultat -41 601 -78 535
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 144 215 157 527
+Annen finansinntekt 3 457 590 820 196
+Verdigkning markedsbaserte omlapsmidler 3 0 190 136
+Nedskrivning av finansielle eiendeler 3 129 204 6 951
+Annen rentekostnad 70 350 95 337
+Resultat av finansposter 402 251 1 065 570
+Resultat for skattekostnad 360 650 987 035
+Resultat 360 650 987 035
+Arsresultat 360 650 987 035
+Overferinger
+
+Avsatt til utbytte 500 000 500 000
+Avsatt til annen egenkapital 0 487 035
+Overfert fra annen egenkapital 139 350 0
+Sum overforinger 360 650 987 035
+Red Gard Holding AS Side 2
+
+
+Balanse
+Red Gard Holding AS
+
+Eiendeler Note 2025 2024
+
+Varige driftsmidler
+
+Finansielle driftsmidler
+
+Investeringer i datterselskap 3,5 6 338 098 6 338 098
+
+Investeringer i aksjer og andeler 3 485 863 512 183
+
+Sum finansielle anleggsmidler 6 823 961 6 850 281
+
+Sum anleggsmidier 6 823 961 6 850 281
+
+Omlepsmidler
+
+Fordringer
+
+Andre kortsiktige fordringer 6 775 855 975 855
+
+Sum fordringer 775 855 975 855
+
+Markedsbaserte aksjer 3 3 655 208 2 641 034
+
+Markedsbaserte obligasjoner 3 0 708 696
+
+Andre finansielle instrumenter 500 500
+
+Sum investeringer 3 655 708 3 350 230
+
+Bankinnskudd, kontanter o.l. 3 3 143 066 3 628 511
+
+Sum omlspsmidler 7 574 629 7 954 595
+
+Sum eiendeler 14 398 589 14 804 876
+| Red Gard Holding AS Side 3
+
+
+Balanse
+Rod Gard Holding AS
+Egenkapital og gjeld Note 2025 2024
+Innskutt egenkapital
+Aksjekapital 7 100 000 100 000
+Overkurs 7 538 020 538 020
+Sum innskutt egenkapital 638 020 638 020
+Opptjent egenkapital
+Annen egenkapital 7 11 396 115 11 535 465
+Sum opptjent egenkapital 11 396 115 11 535 465
+Sum egenkapital 7 12 034 135 12 173 485
+Gjeld
+Annen langsiktig gjeld
+Gjeld til kredittinstitusjoner 5 1 037 868 1 302 876
+Sum annen langsiktig gjeld 1 037 868 1 302 876
+Kortsiktig gjeld
+Utbytte 500 000 500 000
+Annen kortsiktig gjeld 6 826 586 828 515
+Sum kortsiktig gjeld 1326 586 1 328 515
+Sum gjeld 2 364 454 2 631 391
+Sum egenkapital og gjeld 14 398 589 14 804 876
+Moss, 19.05.2026
+Styret i Rad Gard Holding AS y
+Geir Upgaker Johnny Trandem Ole Christian Trandéay’
+Styreleder Daglig leder/Styremediem Styremediem
+
+Red Gard Holding AS Side 4
+
+
+Noter til regnskapet for 2025
+for
+Red Gard Holding AS
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk
+for sma foretak.
+Valuta
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapsarets slutt.
+Driftsinntekter og -kostnader
+Inntektsfgring ved salg skjer pa leveringstidspunktet. Tjenester inntektsfores etter hvert
+som de leveres. Kostnader medtas i samme periode som inntektene de refererer til.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring |
+utsatt skatt. Utsatt skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller
+som eksisterer mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig
+underskudd til fremfgring ved utgangen av regnskapsaret. Skatteakende og
+skattereduserende midlertidige forskjeller som reverserer eller kan reverseres i samme
+periode er utlignet og nettofart.
+Aksjer i datterselskap
+Investeringer i datterselskap er vurdert etter kostmetoden ettersom konsernet samlet ikke
+overstiger grensen for sma foretak.
+Det er ikke utarbeidet konsernregnskap.
+Andre anleggsaksjer og andeler
+Anleggs-aksjer og andeler balansefgres til anskaffelseskost. Investeringene blir
+nedskrevet til virkelig verdi dersom verdifallet ikke er forbigaende. Mottatt utbytte og andre
+overskudds-utdelinger fra selskapene inntektsfores som annen finansinntekt.
+Note 2 Lonnsutgifter og godtgjorelse til revisor
+Selskapet har ingen ansatte og det utbetales ikke szerskilt godtgjrelse ti! styret i morselskapet.
+Det er kostnadsfert til sammen kr. 18125 inki. mva_ i honorar til revisor.
+

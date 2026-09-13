@@ -1,0 +1,269 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 479177
+Virksomheten
+Organisasjonsnummer : 888 567 232
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: AAS ELEKTRONIKK AS
+Forretningsadresse: Natvigveien 17
+4823 NEDENES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Landbs Regnskap AS
+Dato for fastsettelse av arsregnskapet: 22.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 888 567 232
+
+AAS ELEKTRONIKK AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 425 713 562 350
+
+Sum inntekter 1 425 713 562 350
+
+Kostnader
+
+Lennskostnad 2,3 1 009 245 228 159
+
+Annen driftskostnad 220 183 154 567
+
+Sum kostnader 1 229 428 382 726
+
+Driftsresultat 196 285 179 624
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 1 762
+
+Sum finansinntekter 1 762
+
+Annen rentekostnad 105 268
+
+Sum finanskostnader 105 268
+
+Netto finans 1 657 -268
+
+Resultat fer skattekostnad 197 942 179 356
+
+Arsresultat 197 942 179 356
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 53 282 179 356
+
+Overferinger til/fra
+
+annen egenkapital 144 660
+
+Sum overferinger og
+
+disponeringer 197 942 179 356
+Utskriftsdato 27.05.2026 Organisasjonsnr 888 567 232 Side 1 av 3
+
+Organisasjonsnr: 888 567 232
+
+AAS ELEKTRONIKK AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum anleggsmidler
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 132 094 114 750
+
+Andre fordringer 18 496
+
+Sum fordringer 150 590 114 750
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 613 479 164 500
+
+Sum bankinnskudd,
+
+kontanter og lignende 613 479 164 500
+
+Sum omlepsmidler 764 069 279 250
+
+SUM ELENDELER 764 069 279 250
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Annen innskutt egenkapital 0 0
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 144 660 -53 282
+
+Sum opptjent egenkapital 144 660 -53 282
+
+Sum egenkapital 174 660 -23 282
+
+Kortsiktig gjeld
+
+Leverandergjeld 20 963 3 478
+
+Skyldige offentlige
+
+avgifter 454 603 194 312
+
+Annen kortsiktig gjeld 113 843 104 742
+
+Sum kortsiktig gjeld 589 409 302 532
+
+Sum gjeld 589 409 302 532
+Utskriftsdato 27.05.2026 Organisasjonsnr 888 567 232 Side 2 av 3
+
+SUM EGENKAPITAL OG GJELD 764 069 279 250
+Utskriftsdato 27.05.2026 Organisasjonsnr 888 567 232 Side 3 av 3
+
+Organisasjonsnr: 888 567 232
+
+AAS ELEKTRONIKK AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Virksomheten driver teknisk kosulentvirksomhet, med tilholdssted i Arendal.
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven 1998. Det er
+utarbeidet etter norske regnskapsstandarder. I utgangspunktet er det
+reglene for regnskapsoppstilling for sma foretak som er
+
+benyttet.
+
+Hovedregel for vurdering og klassifisering av eiendeler og
+
+gjeld.
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som
+anleggsmidler. Andre eiendeler er klassifisert som omlepsmidler. Fordringer
+som skal tilbakebetales innen et ar er uansett klassifisert som
+omlepsmidler. Ved klassifiseringen av kortsiktig og langsiktig gjeld er
+analoge kriterier lagt til grunn.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt mottatt belep pa etableringstidspunktet. Kortsiktig gjeld
+oppskrives ikke til virkelig verdi som falge av renteendring. Enkelte
+poster er vurdert etter andre regler, og redegje@res for nedenfor.
+Fordringer
+
+Kundefordringer og andre fordringer oppferes til palydende
+
+etter fradrag for avsetning til forventet tap. Avsetning til tap gj@res pa
+grunnlag av en individuell vurdering av de enkelte fordringene. I tillegg
+gjeres det for @vrige kundefordringer en uspesifisert avsetning for a dekke
+antatt tap.
+
+Skatter
+
+Skatter kostnadsfores nar de paleper, det vil si at
+
+skattekostnaden er knyttet til det regnskapsmessige resultat for skatt.
+Skattekostnaden bestar av betalbar skatt (skatt pa arets skattepliktige
+inntekt) og endring i netto utsatt skatt. Skattekostnaden fordeles pa
+ordinert resultat og resultat av ekstraordinere poster i henhold til
+skattegrunnlaget. Utsatt skatt er presentert netto i balansen.
+
+Note
+
+1
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+1.00
+
+Note
+
+2
+
+Spesifisering av resultatregnskapet
+Lennkostnader
+
+Note
+
+3
+
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+Mer om lan og sikkerhetsstillelse

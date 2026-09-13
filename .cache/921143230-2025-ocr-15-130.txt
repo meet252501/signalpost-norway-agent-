@@ -1,0 +1,643 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 691657
+Virksomheten
+Organisasjonsnummer : 921 143 230
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: CLUB HOUSE AS
+Forretningsadresse: Kongens gate 22
+1530 MOSS
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ruben André Celius Berg
+Dato for fastsettelse av arsregnskapet: 14.07.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 921 143 230
+
+CLUB HOUSE AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 881 828 0
+
+Annen driftsinntekt 139 679 1 112 626
+
+Sum inntekter 1 021 507 1 112 626
+
+Kostnader
+
+Avskrivning pa varige
+
+driftsmidler 3 133 334 505 712
+
+Nedskrivning av varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 190 951 183 334
+
+Annen driftskostnad 774 443 5 864 332
+
+Sum kostnader 1 098 728 6 553 378
+
+Driftsresultat -77 221 -5 440 752
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 1 217 5 835
+
+Sum finansinntekter 1 217 5 835
+
+Annen finanskostnad 5 882 2 666
+
+Sum finanskostnader 5 882 2 666
+
+Netto finans -4 665 3 169
+
+Resultat fer skattekostnad -81 886 -5 437 583
+
+Skattekostnad -739 933
+
+Arsresultat -81 886 -4 697 650
+
+Arsresultat etter
+
+minoritetsinteresser -81 886 -4 697 650
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -81 886 -4 697 650
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -81 886 -4 697 650
+
+Sum overferinger og
+
+disponeringer -81 886 -4 697 650
+Utskriftsdato 20.07.2026 Organisasjonsnr 921 143 230 Side 1 av 3
+
+Organisasjonsnr: 921 143 230
+
+CLUB HOUSE AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Konsesjoner, patenter,
+
+lisenser o.1. 3 36 262 352 929
+
+Sum immaterielle eiendeler 36 262 352 929
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Andre langsiktige
+
+fordringer 6 019 163 3 259 094
+
+Sum finansielle
+
+anleggsmidler 6 019 163 3 259 094
+
+Sum anleggsmidler 6 055 425 3 612 023
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 87 457 4 806 762
+
+Sum fordringer 87 457 4 806 762
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 167 202 316 027
+
+Sum bankinnskudd,
+
+kontanter og lignende 167 202 316 027
+
+Sum omlepsmidler 254 659 5 122 789
+
+SUM ELENDELER 6 310 084 8 734 812
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+Utskriftsdato 20.07.2026 Organisasjonsnr 921 143 230 Side 2 av 3
+
+Annen innskutt egenkapital 6 413 791 6 413 791
+
+Sum innskutt egenkapital 6 443 791 6 443 791
+
+Opptjent egenkapital
+
+Udekket tap 10 437 276 10 355 391
+
+Sum opptjent egenkapital -10 437 276 -10 355 391
+
+Sum egenkapital -3 993 485 -3 911 600
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 4 729 266 12 435 759
+
+Sum annen langsiktig gjeld 4 729 266 12 435 759
+
+Sum langsiktig gjeld 4 729 266 12 435 759
+
+Kortsiktig gjeld
+
+Kortsiktig konserngjeld 4 5 480 808 0
+
+Annen kortsiktig gjeld 93 495 210 653
+
+Sum kortsiktig gjeld 5 574 303 210 653
+
+Sum gjeld 10 303 569 12 646 412
+
+SUM EGENKAPITAL OG GJELD 6 310 084 8 734 812
+Utskriftsdato 20.07.2026 Organisasjonsnr 921 143 230 Side 3 av 3
+
+Organisasjonsnr: 921 143 230
+
+CLUB HOUSE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven
+
+og god regnskapsskikk for sma foretak. Regnskapet bygger pa historisk kost
+-prinsippet , og er satt opp basert pa fortsatt drift . For beskrivelse av
+de benyttede regnskapsprinsipper vises til avsnittene nedenfor og til de
+enkelte notene, der prinsippene er
+
+nermere beskrevet .
+
+Selskapet er et
+
+datterselskap i konsern pr. 31.12.2025. Morselskapet og konsernspissen er
+Berg Holding HR Datter AS (100%). Selskapet falger ogsa regnskapslovens
+regler og god regnskapsskikk for sma foretak.
+
+Morselskapet og
+
+konsernspissen utarbeider ikke konsernregnskap, jf. unntaksreglene som
+gjelder for sma foretak. Alle selskapene i konsernet har forretningsadresse
+Kongensgate 22, 1530 Moss.
+
+DRIFTSINNTEKTER
+
+Inntektsfering ved salg av varer
+
+skjer pa leveringstidspunktet . Tjenester inntektsfores etter hvert som de
+leveres.
+
+SKATT
+
+Skattekostnaden i resultat regnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt eller
+utsatt skattefordel er beregnet med 22 % pa grunnlag av de midlertidige
+forskjeller som eksisterer mellom regnskapsmessige og skattemessige
+verdier, samt ligningsmessig underskudd t il
+
+fremfering ved utgangen av
+
+regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller
+som reverserer eller kan reverseres 1 samme periode er utlignet og
+nettofert.
+
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER
+
+Anleggsmidler
+
+omfatter eiendeler bestemt t il varig eie og bruk. Anleggsmidler er vurdert
+til anskaffelseskost . Varige driftsmidler balansefores og avskrives over
+driftsmidlets @konomiske levetid. Avskrivningsperioden for fast eiendom
+anskaffet et ter 2009 er dekomponert i en del som gjelder rabygget og en
+del som gjelder faste tekniske installasjoner. Varige driftsmidler
+nedskrives til gjenvinnbart belgp ved verdifall som forventes ikke a vere
+forbigaende. Gjenvinnbart belep er det heyeste av netto salgsverdi og verdi
+i bruk. Verdi i bruk er naverdi av fremtidige kontantstremmer knyttet t il
+eiendelen. Nedskrivingen reverseres nar grunnlaget for nedskrivingen ikke
+lenger er til stede.
+
+KLASSIFISERING OG VURDERING AV OM
+
+L@PSMIDLER
+
+Omlepsmidler og kortsiktig gjeld omfatter normalt poster som
+
+forfaller til betaling innen ett ar etter balansedagen, samt poster som
+knytter seg til varekretsle@pet . Omlepsmidler vurderes til laveste verdi av
+
+anskaffelseskost og virkelig verdi.
+
+FORDRINGER
+
+Kundefordringer og andre
+
+fordringer oppferes t il palydende et ter fradrag for avsetning til
+forventet tap. Avsetning til tap gjo@res pa grunnlag av en individuell
+vurdering av de enkelte fordringene.
+
+ENDRING AV
+
+REGNSKAPS PRINSIPP
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+
+2025
+
+Virksomhetens sted: Son
+
+Virksomhetens art
+
+Utvikling og drift av
+
+spill.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Selskapets aksjekapital er tapt. Selskapet har et underskudd for Aaret, og
+det udekkede tapet skyldes i forste
+
+rekke nedskrivninger pa langsiktige
+
+fordringer og FoU i tidligere ar. Fortsatt drift anses likevel forsvarlig,
+da
+
+konserngjelden, som i det vesentligste er til et s@sterselskap og
+morselskapet, langt overstiger det
+
+udekkede tapet. Selskapet tilfores ogsa
+
+ytterligere kapital fra morselskapet ved behov. Blant annet skal
+mottatt
+
+konsernbidrag fra et sesterselskap avregnes i 2026.
+
+Imidlertid vil styret
+
+gj@re oppmerksom pa at kan foreligge usikkerhet knyttet til selskapets
+drift pa litt
+
+lengre sikt. Selskapets inntektskilder er provisjoner fra
+
+spill. Det vil vere usikkerhet knyttet til nylig innferte
+regulatoriske
+
+endringer fra myndighetenes side. De nye reguleringene avviker i betydelig
+grad fra de
+
+rammevilkar som er gitt tilsvarende aktgrer innen samme
+
+bransje, og medferer en skjev
+
+konkurransesituasjon som vesentlig svekker
+
+selskapets driftsgrunnlag. Dette vil svekke selskapets
+inntektskilder.
+
+Styret understreker at utfordringene utelukkende er et resultat av de
+nevnte
+
+regelendringene, og anser det som viktig A tydeliggjare dette
+forholdet i arsregnskapet.
+
+Note
+
+5
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+3
+
+Varige driftsmidler og immaterielle eiendeler
+
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+1147139.00 6847609.00
+Anskaffelseskost 31.12. Varige driftsmidler  Immaterielle eiend.
+1147139.00 6847609.00
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+1147139.00 6811347.00
+Balansefort verdi 31.12. Varige driftsmidler  Immaterielle eiend.
+0.00 36262.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+7618.00 316667.00
+@konomisk levetid Immaterielle eiend.
+72 maneder
+Avskrivningsplan Immaterielle eiendeler
+Lineer
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Note
+4
+Konsern, tilknyttet selskap m.v.
+Investering som regnskapsferes etter egenkapitalmetoden
+Kons ernregnskap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Ja
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a
+falge unntaksregelen i regnskapslovens § 3-2 (3).
+Kortsiktig gjeld
+Samlet bele@p - foretak i samme konserm Arets Fjorarets
+5480808.00
+
+Arsregnskap 2025
+Club House AS
+(921 143 230)
+Club House AS Arsregnskap Side 1 av 7
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 881 828 @)
+
+Annen driftsinntekt 139 679 1112 626
+Sum driftsinntekter 1 021 507 1112 626
+Driftskostnader
+
+Avskrivning pa varige driftsmidler 3 133 334 505 712
+
+Nedskrivning pa varige driftsmidler 3 190 951 183 334
+
+Annen driftskostnad 774 443 5 864 332
+Sum driftskostnader 1 098 728 6 553 378
+Driftsresultat -77 221 -5 440 752
+Finansinntekter
+
+Annen finansinntekt 1217 5 835
+Sum finansinntekter 1217 5 835
+Finanskostnader
+
+Annen finanskostnad 5 882 2 666
+Sum finanskostnader 5 882 2 666
+Netto finans -4 665 3169
+Resultat for skatt -81 886 -5 437 583
+Skattekostnad 0 -739 933
+Arsresultat -81 886 -4697 650
+Overferinger og disponeringer
+
+Udekket tap -81 886 -4 697 650
+Sum overferinger og disponeringer -81 886 -4 697 650
+
+Club House AS Arsregnskap Side 2 av 7
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Immaterielle eiendeler
+
+Konsesjoner, patenter, lisenser ol. 3 36 262 352 929
+Sum immaterielle eiendeler 36 262 352 929
+Finansielle anieggsmidler
+
+Andre langsiktige fordringer 6 019 163 3 259 094
+Sum finansielle anleggsmidler 6 019 163 3 259 094
+Sum anleggsmidler 6 055 425 3 612 023
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 87 457 4 806 762
+Sum fordringer 87 457 4806 762
+Bankinnskudd, kontanter ol. 167 202 316 027
+Sum omlepsmidler 254 659 5 122 789
+Sum eiendeler 6 310 084 8 734 812
+
+Club House AS Arsregnskap Side 3 av 7
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+
+Annen innskutt egenkapital 6 413 791 6 413 791
+Sum innskutt egenkapital 6 443 791 6 443 791
+Opptjent egenkapital
+
+Udekket tap -10 437 276 -10 355 391
+Sum opptjent egenkapital -10 437 276 -10 355 391
+Sum egenkapital -3 993 485 -3 911 600
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 4 729 266 12 435 759
+Sum annen langsiktig gjeld 4729 266 12 435 759
+Kortsiktig gjeld
+
+Konserngjeld, kortsiktig 4 5 480 808 0
+
+Annen kortsiktig gjeld 93 495 210653
+Sum kortsiktig gjeld 5 574 303 210 653
+Sum gjeld 10 303 569 12 646 412
+Sum egenkapital og gjeld 6 310 084 8 734 812
+
+Club House AS Arsregnskap Side 4 av 7
+
+Noter
+Note 1: Regnskapsprinsipper
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma
+foretak. Regnskapet bygger pa historisk kost -prinsippet , og er satt opp basert pa fortsatt drift
+. For beskrivelse av de benyttede regnskapsprinsipper vises til avsnittene nedenfor og til de
+enkelte notene, der prinsippene er nzermere beskrevet .
+Selskapet er et datterselskap i konsern pr. 31.12.2025. Morselskapet og konsernspissen er
+Berg Holding HR Datter AS (100%). Selskapet folger ogsa regnskapslovens regler og god
+regnskapsskikk for sma foretak. Morselskapet og konsernspissen utarbeider ikke
+konsernregnskap, jf. unntaksreglene som gjelder for sma foretak. Alle selskapene i konsernet
+har forretningsadresse Kongensgate 22, 1530 Moss.
+DRIFTSINNTEKTER Inntektsforing ved salg av varer skjer pa leveringstidspunktet . Tjenester
+inntektsfores etter hvert som de leveres.
+SKATT Skattekostnaden i resultat regnskapet omfatter bade periodens betalbare skatt og
+endring i utsatt skatt. Utsatt skatt eller utsatt skattefordel er beregnet med 22 % pa grunnlag
+av de midlertidige forskjeller som eksisterer mellom regnskapsmessige og skattemessige
+verdier, samt ligningsmessig underskudd t il fremforing ved utgangen av regnskapsaret.
+Skatteokende og skattereduserende midlertidige forskjeller som reverserer eller kan reverseres
+i samme periode er utlignet og nettofort.
+KLASSIFISERING OG VURDERING AV ANLEGGSMIDLER Anleggsmidler omfatter eiendeler
+bestemt t il varig eie og bruk. Anleggsmidler er vurdert til anskaffelseskost . Varige driftsmidler
+balansefores og avskrives over driftsmidlets okonomiske levetid. Avskrivningsperioden for fast
+eiendom anskaffet et ter 2009 er dekomponert i en del som gjelder rabygget og en del som
+gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belop ved
+verdifall som forventes ikke a veere forbigaende. Gjenvinnbart belop er det heyeste av netto
+salgsverdi og verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstrommer knyttet t il
+eiendelen. Nedskrivingen reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+KLASSIFISERING OG VURDERING AV OM L@PSMIDLER Oml@psmidler og kortsiktig gjeld
+omfatter normalt poster som forfaller til betaling innen ett ar etter balansedagen, samt poster
+som knytter seg til varekretslopet . Omla@psmidler vurderes til laveste verdi av anskaffelseskost
+og virkelig verdi.
+FORDRINGER Kundefordringer og andre fordringer oppfores t il palydende et ter fradrag for
+avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av en individuell vurdering av de
+enkelte fordringene.
+ENDRING AV REGNSKAPSPRINSIPP Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+2025
+Virksomhetens sted
+Son
+Virksomhetens art
+Utvikling og drift av spill.
+
+Club House AS Arsregnskap Side 5 av 7
+
+Note 2: Usikkerhet rundt fortsatt drift
+Selskapets aksjekapital er tapt. Selskapet har et underskudd for 4ret, og det udekkede tapet
+skyldes i forste rekke nedskrivninger pa langsiktige fordringer og FoU i tidligere ar. Fortsatt drift
+anses likevel forsvarlig, da konserngjelden, som i det vesentligste er til et sosterselskap og
+morselskapet, langt overstiger det udekkede tapet. Selskapet tilfores ogsa ytterligere kapital
+fra morselskapet ved behov. Blant annet skal mottatt konsernbidrag fra et sosterselskap
+avregnes i 2026. Imidlertid vil styret gjare oppmerksom pa at kan foreligge usikkerhet knyttet til
+selskapets drift pa litt lengre sikt. Selskapets inntektskilder er provisjoner fra spill. Det vil veere
+usikkerhet knyttet til nylig innforte regulatoriske endringer fra myndighetenes side. De nye
+reguleringene awiker i betydelig grad fra de rammevilkar som er gitt tilsvarende aktorer innen
+samme bransje, og medforer en skjev konkurransesituasjon som vesentlig svekker selskapets
+driftsgrunnlag. Dette vil svekke selskapets inntektskilder. Styret understreker at utfordringene
+utelukkende er et resultat av de nevnte regelendringene, og anser det som viktig 4 tydeliggjore
+dette forholdet i arsregnskapet.
+Note 3: Anleggsmidler
+Immaterielle
+Varige driftsmidler eiendeler
+Anskaffelseskost 01.01 1147139 6 847 609
++ Kjop og annen tilgang i ar ie) @)
+- Salg og annen avgang i ar ie) @)
+= Anskaffelseskost 31. desember 1147139 6 847 609
+- Sum avskrivninger og nedskrivninger 1147139 6 811 347
+= Balansefort verdi per 31.12. ¢) 36 262
+Arets avskrivninger og nedskrivninger 7 618 316 667
+@konomisk levetid pa immaterielle eiendeler 72 maneder
+Avskrivningsplan pa immaterielle eiendeler Linezer
+Note 4: Konsern
+Virksomheten er et datterselskap. Virksomheten utarbeider ikke konsernregnskap, herunder
+konsolidering av datter.
+Arsaken til at det ikke utarbeides konsernregnskap er at foretaket velger a folge
+unntaksregelen i regnskapslovens § 3-2 (3).
+Fordringer og gjeld
+Mot foretak i samme konsern 2025 2024
+Fordringer @) @)
+Kortsiktig gjeld 5 480 808 @)
+Langsiktig gjeld 0 0
+Club House AS Arsregnskap Side 6 av 7
+
+Note 5: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+Club House AS Arsregnskap Side 7 av 7
+
+Arsregnskap 2025
+Opprettet av Hans Berg <hans@son.no>
+Elektronisk signering
+RUBEN ANDRE CELIUS BERG
+01.08.1978 - Daglig leder, Styreleder
+Y) Signert
+15.07.2026 05:49 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 14.07.2026 23:33:14

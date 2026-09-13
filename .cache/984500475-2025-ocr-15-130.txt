@@ -1,0 +1,269 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 421282
+Virksomheten
+Organisasjonsnummer : 984 500 475
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SEPARTECH AS
+Forretningsadresse: Verkstedveien 29
+1424 SKI
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Gerd Helgheim Slemdal
+Dato for fastsettelse av arsregnskapet: 04.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 06.05.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 984 500 475
+
+SEPARTECH AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 87 500 0
+
+Sum inntekter 87 500 0
+
+Kostnader
+
+Lennskostnad 1 2 040 2 538
+
+Annen driftskostnad 123 100 6 188
+
+Sum kostnader 125 140 8 726
+
+Driftsresultat -37 640 -8 726
+
+Netto finans
+
+Resultat for skattekostnad -37 640 -8 726
+
+Arsresultat -37 640 -8 726
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -37 640 -8 726
+
+Sum overferinger og
+
+disponeringer -37 640 -8 726
+Utskriftsdato 06.05.2026 Organisasjonsnr 984 500 475 Side 1 av 3
+
+Organisasjonsnr: 984 500 475
+
+SEPARTECH AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 2 1 367 826 1 367 826
+
+Sum finansielle
+
+anleggsmidler 1 367 826 1 367 826
+
+Sum anleggsmidler 1 367 826 1 367 826
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 109 375 0
+
+Sum fordringer 109 375 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 4 521 7 411
+
+Sum bankinnskudd,
+
+kontanter og lignende 4 521 7 411
+
+Sum omlepsmidler 113 896 7 411
+
+SUM ELENDELER 1 481 722 1 375 237
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 350 000 350 000
+
+Sum innskutt egenkapital 350 000 350 000
+
+Opptjent egenkapital
+
+Annen egenkapital 199 220 236 860
+
+Sum opptjent egenkapital 199 220 236 860
+
+Sum egenkapital 549 220 586 860
+
+Kortsiktig gjeld
+
+Leverandergjeld 50 250 0
+
+Skyldige offentlige
+
+avgifter 11 825 0
+Utskriftsdato 06.05.2026 Organisasjonsnr 984 500 475 Side 2 av 3
+
+Annen kortsiktig gjeld 870 427 788 377
+Sum kortsiktig gjeld 932 502 788 377
+Sum gjeld 932 502 788 377
+SUM EGENKAPITAL OG GJELD 1 481 722 1 375 237
+Utskriftsdato 06.05.2026 Organisasjonsnr 984 500 475 Side 3 av 3
+
+Organisasjonsnr: 984 500 475
+
+SEPARTECH AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+Virkelig verdi og resultatfert verdiendr. i perioden, finansielle instrumenter
+Eiendel Virk. verdi  Verdiendring
+Aksjer 3353545.00 0.00
+Sum Virk. Verdi  Verdiendring
+3353545.00 0.00
+Mer om finansielle instrumenter
+Beskrivelse av finansielle derivater
+Note
+0
+Gjeld
+Gjeld som forfaller til betaling mer enn fem ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+Balansefert verdi av de pantsatte eiendeler
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+Mer om gjeld
+Det er gjeld til eier/innehaver av selskapet. Det er ikke satt noe
+betalings plan for tilbakebetaling pa naverende tidspunkt

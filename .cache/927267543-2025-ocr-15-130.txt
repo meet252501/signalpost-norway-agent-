@@ -1,0 +1,433 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 421034
+Virksomheten
+Organisasjonsnummer : 927 267 543
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: EHI HARMONI AS
+Forretningsadresse: C/o Ernst H. Isaksen
+Orrheyflaten 12
+5918 FREKHAUG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ernst Henning Isaksen
+Dato for fastsettelse av Aarsregnskapet: 04.05.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 09.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 927 267 543
+
+EHI HARMONI AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 59 791 95 869
+
+Sum inntekter 59 791 95 869
+
+Kostnader
+
+Lennskostnad 1
+
+Annen driftskostnad 12 285 11 778
+
+Sum kostnader 12 285 11 778
+
+Driftsresultat 47 506 84 091
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 377 449
+
+Annen finansinntekt 2 350 119 16 401
+
+Verdigkning
+
+markedsbaserte omlepsmidler 2 75 197
+
+Sum finansinntekter 425 693 16 850
+
+Verdireduksjon
+
+markedsbaserte omlepsmidler 2
+
+Annen rentekostnad 4 757
+
+Annen finanskostnad 2 2 405 38 033
+
+Sum finanskostnader 7 162 38 033
+
+Netto finans 418 531 -21 183
+
+Resultat fer skattekostnad 466 037 62 908
+
+Skattekostnad pa resultat 3 14 663 16 056
+
+Arsresultat 4 451 374 46 852
+
+Arsresultat etter
+
+minoritetsinteresser 451 374 46 852
+
+Totalresultat 451 374 46 852
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 451 374 46 852
+
+Sum overferinger og
+
+disponeringer 451 374 46 852
+Utskriftsdato 09.06.2026 Organisasjonsnr 927 267 543 Side 1 av 3
+
+Organisasjonsnr: 927 267 543
+EHI HARMONI AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 3
+Finansielle anleggsmidler
+Investering i datterselskap 5
+Investering i annet
+foretak i samme konsern 5
+Investeringer 1
+tilknyttet selskap 5
+Investeringer i aksjer og
+andeler 5 110 501 110 501
+Obligasjoner 5
+Andre langsiktige
+fordringer 5
+Sum finansielle
+anleggsmidler 110 501 110 501
+Sum anleggsmidler 110 501 110 501
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 59 791 95 869
+Sum fordringer 59 791 95 869
+Investeringer
+Markedsbaserte aksjer 2 603 709 189 563
+Sum investeringer 603 709 189 563
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 17 675 10 762
+Sum bankinnskudd,
+kontanter og lignende 17 675 10 762
+Sum omlepsmidler 681 174 296 193
+SUM ELENDELER 791 675 406 694
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Utskriftsdato 09.06.2026 Organisasjonsnr 927 267 543 Side 2 av 3
+
+Aksjekapital 6 30 000 30 000
+
+Beholdning av egne aksjer 6
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 747 012 295 638
+
+Sum opptjent egenkapital 747 012 295 638
+
+Sum egenkapital 4 777 012 325 638
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 65 000
+
+Sum annen langsiktig gjeld 65 000
+
+Sum langsiktig gjeld 65 000
+
+Kortsiktig gjeld
+
+Betalbar skatt 3 14 663 16 056
+
+Sum kortsiktig gjeld 14 663 16 056
+
+Sum gjeld 14 663 81 056
+
+SUM EGENKAPITAL OG GJELD 791 675 406 694
+Utskriftsdato 09.06.2026 Organisasjonsnr 927 267 543 Side 3 av 3
+
+Organisasjonsnr: 927 267 543
+
+EHI HARMONI AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+ron Torvund Revisjon AS
+To rvu n d Re VIS} on A S Kanalveien 52c
+Revisjon - Skatt - Radgivning 5068 Bergen
+NO 993 550 914 MVA
+Medlem av Den norske Revisorforening
+Til generalforsamlingen i EHI Harmoni AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert EHI Harmoni AS' arsregnskap som viser et overskudd pa NOK 451 374. Arsregnskapet
+bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret avsluttet per denne
+datoen og noter til arsregnskapet, herunder et sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+e oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025, og
+av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med regnskapslovens
+regler og god regnskapsskikk i Norge.
+Grunniag for konklusjonen
+Vi har gjennomfgrt revisjonen i samsvar med den internasjonale revisjonsstandarden for revisjon av
+regnskap til mindre komplekse enheter (ISA for MKE}. Vare oppgaver og plikter i henhold til ISA for MKE
+er beskrevet nedenfor under Revisors oppgaver og plikter ved revisjonen av arsregnskapet. Vi er
+uavhengige av selskapet slik det kreves i lov, forskrift og International Code of Ethics for Professional
+Accountants (inkludert internasjonale uavhengighetsstandarder) utstedt av the International Ethics
+Standards Board for Accountants (IESBA-reglene}, og vi har overholdt vare gvrige etiske forpliktelser i
+samsvar med disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og
+hensiktsmessig som grunnlag for var konklusjon.
+Styrets og daglig leders ansvar for arsregnskapet
+Styret og daglig leder (ledelsen} er ansvarlige for a utarbeide arsregnskapet og for at det gir et
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa
+ansvarlig for slik internkontroll som den finner nédvendig for a kunne utarbeide et arsregnskap som ikke
+inneholder vesentlig feilinformasjon, verken som fglge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn
+for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Kristian Torvund M: +47 97 50 35 11 F: kristian@torvundrevisjon.no
+Side 1 av 2
+
+Torvund Revisjon AS
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning som
+inneholder var konklusjon. Betryggende sikkerhet er en h@y grad av sikkerhet, men ingen garanti for at
+en revisjon utfgrt i samsvar med ISA for MKE, alltid vil avdekke vesentlig feilinformasjon. Feilinformasjon
+kan oppsta som fglge av misligheter eller utilsiktede feil. Feilinformasjon blir vurdert som vesentlig
+dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke gkonomiske beslutninger som
+brukerne foretar basert pa arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+https://revisorforeningen.no/revisjonsberetninger
+Bergen, 04. mai 2026
+Torvund Revisjon AS
+Kristian Torvund
+Statsautorisert revisor
+
+Side 2 av 2
+
+Arsregnskap 2025
+Ehi Harmoni AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 927 267 543
+
+RESULTATREGNSKAP |
+EH!I HARMONI AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 59 791 95 869
+Sum driftsinntekter 59 791 95 869
+Annen driftskostnad 12 285 11 778
+Sum driftskostnader 12 285 11 778
+Driftsresultat 47 506 84 091
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 377 449
+Annen finansinntekt 2 350 119 16 401
+Verdigkning markedsbaserte omlgpsmidler 2 75 197 0
+Annen rentekostnad 4757 0
+Annen finanskostnad 2 2 405 38 033
+Resultat av finansposter 418 531 -21 183
+Resultat for skattekostnad 466 037 62 908
+Skattekostnad pa resultat 3 14 663 16 056
+Resultat 451 374 46 852
+Arsresultat 4 451 374 46 852
+OVERF@RINGER
+
+Avsatt til annen egenkapital 451 374 46 852
+Sum overfgringer 451 374 46 852
+EHI HARMONI AS SIDE 2
+
+BALANSE |
+
+EHI HARMONI AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+Investeringer i aksjer og andeler 5 110 501 110 501
+Sum finansielle anleggsmidler 110 501 110 501
+Sum anleggsmidler 110 501 110 501
+OML@PSMIDLER
+FORDRINGER
+Kundefordringer 59 791 95 869
+Sum fordringer 59 791 95 869
+INVESTERINGER
+Markedsbaserte aksjer 2 603 709 189 563
+Sum investeringer 603 709 189 563
+Bankinnskudd, kontanter o.|. 17 675 10 762
+Sum omlgpsmidler 681 174 296 193
+Sum eiendeler 791 675 406 694
+EHI HARMONI AS SIDE 3
+
+BALANSE |
+EHI HARMONI AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 6 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 747 012 295 638
+Sum opptjent egenkapital 747 012 295 638
+Sum egenkapital 4 777 012 325 638
+GJELD
+Gjeld til kredittinstitusjoner 0 65 000
+Sum annen langsiktig gjeld 0 65 000
+KORTSIKTIG GJELD
+Betalbar skatt 3 14 663 16 056
+Sum kortsiktig gjeld 14 663 16 056
+Sum gijeld 14 663 81 056
+Sum egenkapital og gjeld 791 675 406 694
+Bergen, 04.05.2026
+Styret i Ehi Harmoni AS
+Ernst Henning Isaksen
+styreleder
+EHI HARMONI AS SIDE 4
+
+EHI HARMONI AS 927 267 543
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Selskapet far provisjon fra spill i bingohaller, basert pa netto fortjeneste, og investerer i markedsbaserte
+aksjer.
+DRIFTSINNTEKTER
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gijeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+FORDRINGER
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 1 Lénnskostnader
+Ehi Harmoni AS har ikke hatt Ignns- eller personalkostnader i 20250g det foreligger heller ingen slike
+forpliktelser.
+Note 2 Markedsbaserte verdipapirer
+
+Anskaffelses Markeds Balansefort
+
+kost verdi verdi
+
+Omlg¢psmidler 519 087 603 709 603 709
+Selskapet benytter markedsverdi som prinsipp. Arets tap ved realisasjon av aksjer er NOK 2 405, arets
+gevinst er NOK 58 287.
+Verdigkning urealiserte aksjer er NOK 75 197.
+EH! HARMONI AS SIDE S
+
+EHI HARMONI AS 927 267 543
+Note 3 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 14 663 16 056
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 14 663 16 056
+Skattepliktig inntekt:
+Resultat for skatt 466 037 62 908
+Permanente forskjeller -399 388 10 072
+Skattepliktig inntekt 66 649 72 980
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 14 663 16 056
+Sum betalbar skatt i balansen 14 663 16 056
+Skatteeffekten av midlertidige forskjeller som har gitt opphav til utsatt skatt og utsatte skattefordeler,
+spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Utsatt skatt (22 %) 0 0 0
+Note 4 Egenkapital
+Aksje- Annen
+kapital egenkapital Sum
+Pr. 31.12.2024 30 000 295638 325638
+Pr. 01.01.2025 30 000 295638 325638
+Arets overskudd 451374 451374
+Pr. 31.12.2025 30 000 747012 +=777012
+Note 5 Langsiktige verdipapirer
+Anskaffelses Balansefort
+kost verdi
+ANLEGGSMIDLER
+Arken Bingo AS 1 1
+Fyllingsdalen Bingo AS 110 500 110 500
+Sum 110 501 110 501
+EH! HARMONI AS SIDE 6
+
+EHI HARMONI AS 927 267 543
+Note 6 Aksjonzrer
+AKSJEKAPITALEN | EHI HARMONI AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+
+Ordinzere aksjer 100 300,0 30 000
+Sum 100 30 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+
+Ordinzre Eierandel Stemmeandel
+Ernst Henning Isaksen 100 100,0 100,0
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Verv Ordinzere
+Ernst Henning Isaksen styreleder 100
+Totalt antall aksjer 100
+EHI HARMONI AS SIDE 7

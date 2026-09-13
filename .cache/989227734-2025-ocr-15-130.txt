@@ -1,0 +1,408 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 527611
+Virksomheten
+Organisasjonsnummer : 989 227 734
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: KARE NAGLESTAD AS
+Forretningsadresse: c/o Kare Naglestad
+Iveland
+4525 KONSMO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Lyder Naglestad
+Dato for fastsettelse av Aarsregnskapet: 04.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 08.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 989 227 734
+
+KARE NAGLESTAD AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 15 831 15 946
+
+Sum kostnader 15 831 15 946
+
+Driftsresultat -15 831 -15 946
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 6 936 24 666
+
+Annen finansinntekt 3 2 598 11 195
+
+Sum finansinntekter 9 534 35 861
+
+Annen rentekostnad 50
+
+Annen finanskostnad 3 6 237 5 736
+
+Sum finanskostnader 6 287 5 736
+
+Netto finans 3 247 30 125
+
+Resultat fer skattekostnad -12 583 14 179
+
+Skattekostnad pa resultat 4 2 456
+
+Arsresultat -12 583 11 723
+
+Arsresultat etter
+
+minoritetsinteresser -12 583 11 723
+
+Totalresultat -12 583 11 723
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 5
+
+Avsatt til/fra annen
+
+egenkapital 5 -12 583 11 723
+
+Sum overferinger og
+
+disponeringer -12 583 11 723
+Utskriftsdato 08.06.2026 Organisasjonsnr 989 227 734 Side 1 av 3
+
+Organisasjonsnr: 989 227 734
+
+KARE NAGLESTAD AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4
+
+Finansielle anleggsmidler
+
+Investering i annet
+
+foretak i samme konsern 3
+
+Investeringer 1
+
+tilknyttet selskap 3 3.120 425 3.120 425
+
+Investeringer 1 aksjer og
+
+andeler 3 1137 242 1 134 644
+
+Andre langsiktige
+
+fordringer 3 1 544 628 1 550 865
+
+Sum finansielle
+
+anleggsmidler 5 802 295 5 805 934
+
+Sum anleggsmidler 5 802 295 5 805 934
+
+Omlepsmidler
+
+Varer
+
+Andre kortsiktige
+
+fordringer 6
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 81 604 212 373
+
+Sum bankinnskudd,
+
+kontanter og lignende 81 604 212 373
+
+Sum omlepsmidler 81 604 212 373
+
+SUM ELENDELER 5 883 899 6 018 307
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital (1 000
+
+aksjer 4 kr 100 ) 5, 6 100 000 100 000
+
+Overkurs 5 439 000 439 000
+
+Sum innskutt egenkapital 539 000 539 000
+
+Opptjent egenkapital
+
+Annen egenkapital 5 5 053 657 5 066 241
+
+Sum opptjent egenkapital 5 053 657 5 066 241
+Utskriftsdato 08.06.2026 Organisasjonsnr 989 227 734 Side 2 av 3
+
+Sum egenkapital 5 592 657 5 605 241
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 6 289 992 407 486
+
+Sum annen langsiktig gjeld 289 992 407 486
+
+Sum langsiktig gjeld 289 992 407 486
+
+Kortsiktig gjeld
+
+Leverandergjeld 1 250 3 125
+
+Betalbar skatt 4 2 456
+
+Foreslatt utbytte 5
+
+Sum kortsiktig gjeld 1 250 5 581
+
+Sum gjeld 291 242 413 067
+
+SUM EGENKAPITAL OG GJELD 5 883 899 6 018 307
+Utskriftsdato 08.06.2026 Organisasjonsnr 989 227 734 Side 3 av 3
+
+Organisasjonsnr: 989 227 734
+
+KARE NAGLESTAD AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+BankID Qualified Signing
+Naglestad, Lyder
+2026-06-04
+Cy) BankID Qualified Signing
+(ay Naglestad, Ranveig
+2026-06-05
+PROTOKOLL FRA GENERALFORSAMLING
+|
+KARE NAGLESTAD AS
+Ordinzer generalforsamling ble avholdt den 04.06.2026
+Tilstede var Lyder Naglestad og Ranveig Naglestad.
+100 % av aksjene var saledes representert.
+TIL BEHANDLING FORELA:
+1. VALG AV M@TELEDER OG PERSONER TIL A UNDERSKRIVE PROTOKOLLEN.
+Lyder Naglestad ble valgt til a lede m@tet og til a underskrive protokollen sammen med Ranveig Naglestad.
+2. GODKJENNELSE AV INNKALLINGEN
+Det fremkom ingen bemerkninger til innkallelsen, og denne ble saledes godkjent.
+3. REGNSKAP FOR 2025
+Regnskapet for perioden ble presentert og gjennomgatt sammen med tilhgrende noter.
+Regnskapet ble enstemmig godtatt.
+4. VALG
+Det ble gjenvalg pa styret.
+5. EVENTUELT
+Det forela ikke flere saker til behandling og generalforsamlingen ble hevet og protokollen underskrevet.
+lveland, 04.06.2026
+Digitalt signert Digitalt signert
+Lyder Naglestad Ranveig Naglestad
+
+Arsregnskap 2025
+Kare Naglestad AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 989 227 734
+
+KARE NAGLESTAD AS |
+RESULTATREGNSKAP
+NOTER DRIFTSINNTEKTER OG DRIFTSKOSTNADER 2025 2024
+2 Légnnskostnad 0 8)
+Annen driftskostnad 15 831 15 946
+Sum driftskostnader 15 831 15 946
+Driftsresultat -15 831 -15 946
+FINANSINNTEKTER OG FINANSKOSTNADER
+Annen renteinntekt 6 936 24 666
+3 Annen finansinntekt 2 598 11 195
+Annen rentekostnad -50 0
+3 Annen finanskostnad -§ 237 -5 736
+Netto finansresultat 3 247 30 125
+Ordinert resultat for skattekostnad -12 583 14 179
+4 Skattekostnad pa resultat 0 -2 456
+Resultat -12 583 11 723
+ARSRESULTAT -12 583 11 723
+OVERF@RINGER
+5 Avsatt til/fra annen egenkapital -12 583 11 723
+Sum overfgringer | 12.583] 11 723
+
+BALANSE PR. 31.DESEMBER
+NOTER EIENDELER 2025 2024
+FINANSIELLE ANLEGGSMIDLER
+3 Investeringer i tilknyttet selskap 3 120 425 3 120425
+3 Investeringer i aksjer og andeler 1137 242 1 134 644
+3 Andre langsiktige fordringer 1 544 628 1550 865
+Sum finansielle anleggsmidler 5 802 295 5 805 934
+Sum anleggsmidler 5 802 295 5 805 934
+OML@PSMIDLER
+FORDRINGER
+Bankinnskudd, kontanter o.1. 81 604 212 373
+Sum omlgpsmidler 81 604 212 373
+SUM EIENDELER
+GJELD OG EGENKAPITAL
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+5,6 Selskapskapital (1 000 aksjer 4 kr 100 } 100 000 100 000
+5 Overkurs 439 000 439 000
+Sum innskutt egenkapital 539 000 539 000
+OPPTJENT EGENKAPITAL
+5 Annen egenkapital 5 053 657 5 066 241
+Sum opptjent egenkapital 5 053 657 5 066 241
+Sum egenkapital 5 592 657 5 605 241
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+6 Pvrig langsiktig gjeld 289 992 407 486
+Sum annen langsiktig gjeld 289 992 407 486
+KORTSIKTIG GJELD
+Leverandgrgjeld 1250 3125
+4 Betalbar skatt 0 2 456
+Sum kortsiktig gjeld 1250 5581
+Sum gjeld 291 242 413 067
+SUM GJELD OG EGENKAPITAL
+lveland, 04.06.2026
+Styret i Kare Naglestad AS
+Lyder Naglestad
+styreleder
+
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+SKATT
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Note 1 Virksomhetens art og lokalisering
+Kare Naglestad AS er et selskap der virksomheten omfatter investering i andre selskaper og investeringer i
+andre finansielle instrumenter. Selskapet er lokalisert i Lyngdal kommune.
+Note 2 Lénnskostnader
+Kare Naglestad AS har ikke hatt lgnns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+Note 3 Aksjer og andeler i andre foretak m.v.
+Anskaffelseskost Balansefgrt verdi
+
+BB Bygg AS 40 40
+Naglestad Bruk Eiendom AS 500 000 3 120 385
+Sum 500 040 3 120 425
+
+BB Bygg AS Naglestad Bruk Eiendom AS
+Forretningskontor Lyngdal Lyngdal
+Eierandel 40% 50%
+Stemmeandel 40% 50%
+Antall aksjer/andeler 40 50
+EK pr 31.12.2025 -2.361.766 3.851.312
+Resultat 2025 -15.593 575.832
+Fordring/gjeld 1 841 918 326 416
+Rente mellomvezerende 0 0
+Selskapet har i 2025 nedskrevet verdi av fordring pa BB Bygg AS med NOK 6 237.
+Totalt nedskrevet pa fordring NOK 623 706
+Selskapet har investeringer i fondsandeler i Norne Securities.
+Investeringene er bokfgrt til kostpris NOK 1 137 242
+Det er i 2025 bokfgrt finansinntekter pa NOK 2 598 knyttet til disse investeringene.
+
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 2 456
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 2 456
+Skattepliktig inntekt:
+Resultat fgr skatt -12 583 14179
+Permanente forskjeller -2 548 -11 195
+Endring i midlertidige forskjeller 6 237 11 103
+Anvendelse av fremfgrbart underskudd 0 -2 924
+Skattepliktig inntekt -8 894 11 163
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 2 456
+Sum betalbar skatt i balansen 0 2 456
+Note 5 Egenkapital
+Aksjekapital Overkurs Annen EK Sum
+egenkapital
+Pr. 01.01 2025 100 000 439 000 5 066 241 5 605 241
+Arets resultat -12 583 -12 583
+Pr 31.12.2025 100 000 439 000 5 053 657 5592 657
+Note 6 Aksjonzerer
+AKSJEKAPITALEN | KARE NAGLESTAD AS PR. 31.12 BESTAR AV:
+Antall Palydende Bokfort
+Ordinzre aksjer 1 000 100,0 100 000
+Sum 1000 100 000
+EIERSTRUKTUR
+De stgrste aksjonzerene i % pr. 31.12 var:
+Ordinzere Eierandel Stemmeandel
+Kare Naglestad 1 000 100,0 100,0
+Aksjonzer har til gode NOK 289.791 av selskapet. Belgpet er ikke renteberegnet.

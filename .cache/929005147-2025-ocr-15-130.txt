@@ -1,0 +1,439 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 507946
+Virksomheten
+Organisasjonsnummer : 929 005 147
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SMURF AS
+Forretningsadresse: Voldstadbakken 58
+2742 GRUA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ole-Christian Olsen
+Dato for fastsettelse av arsregnskapet: 31.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 929 005 147
+
+SMURF AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 4 926 6 880
+
+Sum kostnader 4 926 6 880
+
+Driftsresultat -4 926 -6 880
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 6 341 0
+
+Sum finansinntekter 6 341 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 6 341 fe)
+
+Resultat fer skattekostnad 1 415 -6 880
+
+Arsresultat 1 415 -6 880
+
+Arsresultat etter
+
+minoritetsinteresser 1 415 -6 880
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 1 415 -6 880
+
+Overferinger og
+
+disponeringer
+
+Udekket tap ) -6 880
+
+Overferinger til/fra
+
+annen egenkapital 1 415 0
+
+Sum overferinger og
+
+disponeringer 1 415 -6 880
+Utskriftsdato 02.06.2026 Organisasjonsnr 929 005 147 Side 1 av 3
+
+Organisasjonsnr: 929 005 147
+
+SMURF AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 3 085 475 2 856 916
+
+Sum finansielle
+
+anleggsmidler 3 085 475 2 856 916
+
+Sum anleggsmidler 3 085 475 2 856 916
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 3 336 1 769
+
+Sum fordringer 3 336 1 769
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 8 960 152 671
+
+Sum bankinnskudd,
+
+kontanter og lignende 8 960 152 671
+
+Sum omlepsmidler 12 296 154 440
+
+SUM ELENDELER 3 097 771 3 011 356
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+Utskriftsdato 02.06.2026 Organisasjonsnr 929 005 147 Side 2 av 3
+
+Opptjent egenkapital
+
+@reavrunding -1 -1
+
+Udekket tap 17 228 18 643
+
+Sum opptjent egenkapital -17 229 -18 644
+
+Sum egenkapital 12 771 11 356
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 3 085 000 3 000 000
+
+Sum annen langsiktig gjeld 3 085 000 3 000 000
+
+Sum langsiktig gjeld 3 085 000 3 000 000
+
+Kortsiktig gjeld
+
+Sum kortsiktig gjeld 0 0
+
+Sum gjeld 3 085 000 3 000 000
+
+SUM EGENKAPITAL OG GJELD 3 097 771 3 011 356
+Utskriftsdato 02.06.2026 Organisasjonsnr 929 005 147 Side 3 av 3
+
+Organisasjonsnr: 929 005 147
+
+SMURF AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Grua
+
+Virksomhetens art
+
+Investering.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om
+fortsatt drift, da det er
+
+iverksatt tiltak for 4 styrke selskapets ekonomi.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Smurf AS
+(929 005 147)
+Smurf AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 4926 6 880
+Sum driftskostnader 4926 6 880
+Driftsresultat -4926 -6 880
+Finansinntekter
+
+Annen renteinntekt 6 341 @)
+Sum finansinntekter 6 341 0
+Netto finans 6 341 0
+Resultat for skatt 1 415 -6 880
+Arsresultat 1415 -6880
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 1 415 @)
+
+Udekket tap fe) -6 880
+Sum overferinger og disponeringer 1 415 -6 880
+
+Smurf AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anieggsmidler
+
+Investeringer i aksjer og andeler 3 085 475 2 856 916
+Sum finansielle anleggsmidler 3085 475 2856916
+Sum anleggsmidler 3085475 2856916
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 3 336 1 769
+Sum fordringer 3 336 1 769
+Bankinnskudd, kontanter o.l. 8 960 152 671
+Sum omlepsmidler 12 296 154 440
+Sum eiendeler 3097771 3011356
+
+Smurf AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+
+Annen egenkapital -1 -1
+
+Udekket tap -17 228 -18 643
+Sum opptjent egenkapital -17 229 -18 644
+Sum egenkapital 12771 11 356
+Gijeld
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 3 085 000 3 000 COO
+Sum annen langsiktig gjeld 3085000 3000000
+Sum gjeld 3085000 3000000
+Sum egenkapital og gjeld 3097771 3011356
+
+Smurf AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Grua
+Virksomhetens art
+Investering.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er iverksatt tiltak for a styrke selskapets okonomi.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Smurf AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Ole Christian Olsen <ole.christian@voldstadbakken.com>
+Elektronisk signering
+OLE-CHRISTIAN OLSEN KRISTIN FINANGER
+14.03.1974 - Styreleder 23.02.1977 - Styremediem
+Y) Signert Y) Signert
+31.05.2026 19:10 31.05.2026 19:14
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 31.05.2026 19:09:47

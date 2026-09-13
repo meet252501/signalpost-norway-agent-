@@ -1,0 +1,609 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 383499
+Virksomheten
+Organisasjonsnummer : 920 891 438
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: CEEDR NORWAY AS
+Forretningsadresse: Holbergs gate 19
+0166 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ole Borgersen
+Dato for fastsettelse av arsregnskapet: 15.04.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 18.04.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 920 891 438
+
+CEEDR NORWAY AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 936 411 6 223 329
+
+Sum inntekter 3 936 411 6 223 329
+
+Kostnader
+
+Varekostnad 888 126 3 072 O51
+
+Lennskostnad 1, 2 1 942 572 2 315 678
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 16 667 16 667
+
+Annen driftskostnad 1 033 343 1 441 234
+
+Sum kostnader 3 880 708 6 845 630
+
+Driftsresultat 55 703 -622 301
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 1 768 991
+
+Annen finansinntekt 4 967 18 807
+
+Sum finansinntekter 6 735 19 798
+
+Annen rentekostnad 5 449 746
+
+Annen finanskostnad 10 830 27 108
+
+Sum finanskostnader 16 279 27 855
+
+Netto finans -9 544 -8 057
+
+Resultat fer skattekostnad 46 158 -630 358
+
+Arsresultat 46 158 -630 358
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 46 158 -630 358
+Utskriftsdato 18.04.2026 Organisasjonsnr 920 891 438 Side 1 av 3
+
+Organisasjonsnr: 920 891 438
+CEEDR NORWAY AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Driftslesere, inventar,
+verkt@y, kontormaskiner,
+ol. 16 667 33 333
+Sum varige driftsmidler 16 667 33 333
+Finansielle anleggsmidler
+Lan til foretak i samme
+konsern 3 0) 142 827
+Andre langsiktige
+fordringer 78 998 78 112
+Sum finansielle
+anleggsmidler 78 998 220 940
+Sum anleggsmidler 95 665 254 273
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 1 307 371 1 018 563
+Andre kortsiktige
+fordringer 6 052 39 452
+Konsernfordringer 3 25 000 25 000
+Sum fordringer 1 338 423 1 083 015
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 437 718 140 187
+Sum bankinnskudd,
+kontanter og lignende 437 718 140 187
+Sum omlepsmidler 1776 141 1 223 202
+SUM ELENDELER 1 871 806 1 477 475
+BALANSE - EGENKAPITAL OG
+GJELD
+
+Utskriftsdato 18.04.2026 Organisasjonsnr 920 891 438 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Udekket tap 4 683 530 729 689
+
+Sum opptjent egenkapital -683 530 -729 689
+
+Sum egenkapital -653 530 -699 689
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 3 328 723 247 456
+
+Sum annen langsiktig gjeld 328 723 247 456
+
+Kortsiktig gjeld
+
+Leverandergjeld 1 647 522 1 389 467
+
+Skyldige offentlige
+
+avgifter 338 227 227 079
+
+Kortsiktig konserngjeld 3 0 20 000
+
+Annen kortsiktig gjeld 210 865 293 162
+
+Sum kortsiktig gjeld 2 196 613 1 929 707
+
+Sum gjeld 2 525 336 2 177 164
+
+SUM EGENKAPITAL OG GJELD 1 871 806 1 477 475
+Utskriftsdato 18.04.2026 Organisasjonsnr 920 891 438 Side 3 av 3
+
+Organisasjonsnr: 920 891 438
+
+CEEDR NORWAY AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsf@ring fra salg av
+
+varer skjer ved levering. Tjenester regnes som inntekt etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er
+
+eliendeler som er ment for permanent eierskap eller bruk. Eiendeler som er
+knyttet til varesyklusen klassifiseres som omlepsmidler. Fordringer
+klassifiseres som oml@psmidler dersom de forfaller til betaling innen ett
+ar etter transaksjonsdatoen. Pa samme mate klassifiseres gjeld som
+kortsiktig hvis gjelden skal betales innen ett ar. Langsiktig gjeld er
+gjeld som forfaller senere enn ett ar etter transaksjonsdatoen. Imidlertid
+klassifiseres ikke forstears hovedstol pa langsiktige fordringer og
+langsiktige forpliktelser som oml@psmidler og kortsiktige forpliktelser.
+Omlepsmidler verdsettes til lavere anskaffelseskostnad og virkelig verdi.
+Kortsiktige forpliktelser regnes pa balansen til det nominelle belepet pa
+etableringstidspunktet. Anleggsmidler verdsettes til anskaffelseskostnad.
+Anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+skrives ned til virkelig verdi ved et verdifall som ikke forventes 4 vere
+midlertidig. Langsiktige forpliktelser, med unntak av andre avsetninger,
+regnes pa balansen til det nominelle bel@pet pa etableringstidspunktet.
+Fordringer
+
+Fordringer og andre fordringer er oppfert pa balansen til
+
+palydende verdi etter fradrag for forventede tap. Avsatt for tap gjores
+basert pa individuelle vurderinger av de individuelle fordringene.
+Eiendom, anlegg og utstyr
+
+Anleggsmidler regnes pa balansen og avskrives
+
+over levetiden til anleggsmidlene dersom de har en antatt nyttetid pa mer
+enn 3 ar og har en kostpris over kr 30 000. Direkte vedlikehold av
+anleggsmidler fores kontinuerlig under driftskostnader, mens kostnader
+eller forbedringer legges til anleggets kostpris og avskrives i takt med
+anleggsmidlen.
+
+I tillegg er falgende regnskapsprinsipper
+
+anvendt :
+
+Leieavtaler regnes ikke pa balansen. Fordringer og forpliktelser
+denominert i utenlandsk valuta verdsettes til valutakursen ved slutten av
+regnskapsaret. Valutagevinster og valutatap i utenlandsk valuta regnskapes
+som finansielle inntekter og finansielle utgifter.
+
+Selskapet har ikke
+
+endret sin regnskapspolicy fra 2024 til 2025.
+
+Note
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Regnskapene er utarbeidet basert pa antakelsen om bekymring. Styret mener at
+denne antakelsen er til stede basert pa betydelig forbedring i driften fra
+oktober 2025, positiv resultatutvikling og et budsjett som viser overskudd
+for hele aret.
+
+Selskapet hadde tidligere svak lennsomhet og negativ
+
+egenkapital, hvor morselskapet bidro med kapitalen som var nedvendig for a
+opprettholde driften. I lepet av 2025 har imidlertid situasjonen forbedret
+seg betydelig, spesielt fra oktober, som falge av @kt kundetilgang, heyere
+turnover og positive resultater store deler av perioden.
+
+@kningen i kunder
+
+og stabile inntektsstremmer indikerer at selskapet har oppnadd en
+berekraftig drift. Styret mener at selskapet har god evne til a tale
+normale svingninger, og at dets g@konomiske berekraft na er
+tilfredsstillende.
+
+Likviditeten er god, og selskapet star ikke lenger
+
+overfor likviditetsutfordringer. Budsjettet viser positiv kontantstrem fra
+driften, og lepende kostnader dekkes av inntektene.
+
+Selskapets egenkapital
+
+er fortsatt negativ, men utviklingen er tydelig positiv. Med et forventet
+overskudd pa omtrent NOK 324 000 for aret, antar styret at egenkapitalen
+vil vere gjenopprettet til et positivt niva innen arets slutt, forutsatt at
+budsjettet realiseres.
+
+Foalgende tiltak har bidratt til forbedringen:
+
+-@kt
+
+salgsaktivitet som har brakt flere nye kunder
+
+-Stabilisering og @kning i
+
+inntektsnivaer
+
+-Lepende kontroll og optimalisering av kostnader
+
+-Fokusere
+
+pa lennsom drift og bedre ressursutnyttelse
+
+Tiltakene vil bli viderefert
+
+for a sikre fortsatt positive utviklinger.
+
+Videre drift avhenger
+
+av:
+
+-Manedlig omsetning holdes pa omtrent NOK 446 000 eller heyere
+
+-At
+
+kostnadsnivaet holdes innenfor budsjetterte grenser
+
+-At kundeportefeljen
+
+vedlikeholdes og videreutvikles
+
+-At selskapet opprettholder et positivt
+
+resultat gjennom hele aret
+
+Med presentasjonen av regnskapene viser
+
+selskapet en stabil og forbedret drift. Budsjettet for inneverende ar viser
+positive resultater og tilfredsstillende likviditet gjennom hele pericden,
+med noen kortere perioder med lavere resultater.
+
+Styret anser budsjettet
+
+som realistisk basert pa signerte avtaler og utvikling i kundeportefeljen.
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+2.00
+
+Note
+
+2
+
+Spesifisering av resultatregnskapet
+
+Lennkostnader
+Lenn Arets Fjorarets
+1652901.00 1899690.00
+Folketrygqdavgqift Arets Fjorarets
+241161.00 307306.00
+Pensjonskostnader Arets Fjorarets
+45365.00 93901.00
+Andre ytelser Arets Fjorarets
+3145.00 14781.00
+Sum lennskostnader Arets Fjorarets
+1942572.00 2315678.00
+
+Arsregnskap for
+THE ENGINE NORWAY AS
+920891438
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+THE ENGINE NORWAY AS
+920 891 438
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 3 936 411 6 223 329
+Sum driftsinntekter 3 936 411 6 223 329
+Driftskostnader
+Varekostnad 888 126 3 072 051
+L@nnskostnad 1,2 1 942 572 2 315678
+Avskrivning pa varige driftsmidler og immaterielle 16 667 16 667
+eiendeler
+Annen driftskostnad 1 033 343 1 441 234
+Sum driftskostnader 3 880 708 6 845 630
+Driftsresultat 55 703 -622 301
+Finansinntekter
+Annen renteinntekt 1 768 991
+Annen finansinntekt 4 967 18 807
+Sum finansinntekter 6 735 19 798
+Finanskostnader
+Annen rentekostnad 5 449 746
+Annen finanskostnad 10 830 27 108
+Sum finanskostnader 16 279 27 855
+Netto finans -9 544 -8 057
+Arsresultat 46 158 -630 358
+Overforinger
+Udekket tap 46 158 -630 358
+Sum overferinger 46 158 -630 358
+
+THE ENGINE NORWAY AS
+920 891 438
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Driftslgs@re, inventar, verktoy, kontormaskiner, ol. 16 667 33 333
+Sum varige driftsmidler 16 667 33 333
+Finansielle anleggsmidler
+Lan til foretak i samme konsern 3 0 142 827
+Andre langsiktige fordringer 78 998 78112
+Sum finansielle anleggsmidler 78 998 220 940
+Sum anleggsmidler 95 665 254 273
+Omlgpsmidler
+Fordringer
+Kundefordringer 1 307 371 1 018 563
+Kortsiktige kKonsernfordringer 3 25 000 25 000
+Andre kortsiktige fordringer 6 052 39 452
+Sum fordringer 1 338 423 1 083 015
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 437 718 140 187
+Sum bankinnskudd, kontanter og lignende 437 718 140 187
+Sum omlgpsmidler 1776 141 1 223 202
+SUM EIENDELER 1 871 806 1 477 475
+
+THE ENGINE NORWAY AS
+920 891 438
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 4 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Udekket tap 4 683 530 729 689
+Sum opptjent egenkapital -683 530 -729 689
+Sum egenkapital -653 530 -699 689
+Gjeld
+Annen langsiktig gjeld
+Langsiktig konserngjeld 3 328 723 247 456
+Sum annen langsiktig gjeld 328 723 247 456
+Kortsiktig gjeld
+Leverandgrgjeld 1 647 522 1 389 467
+Skyldige offentlige avgifter 338 227 227079
+Kortsiktig konserngjeld 3 0 20 000
+Annen kortsiktig gjeld 210 865 293 162
+Sum kortsiktig gjeld 2 196 613 1 929 707
+Sum gjeld 2 525 336 2 177 164
+SUM EGENKAPITAL OG GJELD 1 871 806 1 477 475
+OSLO, 15.04.2026
+Nicolay Jernberg Valgeir Gudmundur Gudmundur Hrafn Palsson
+styrets leder / daglig leder Magnusson styremediem
+
+styremediem
+
+THE ENGINE NORWAY AS
+
+920 891 438
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapet tilbyr konsulenttjenester innen annonsering, merkevarestrategi og digitale tjenester, inkludert
+innholdsmarkedsfering, native advertising, inbound marketing samt reklame- og sgketjenester.
+Forretningsadressen er i Oslo.
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfering fra salg av varer skjer ved levering. Tjenester regnes som inntekt etter hvert som de leveres.
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler som er ment for permanent eierskap eller bruk. Eiendeler som er knyttet til
+varesyklusen klassifiseres som omlgpsmidler. Fordringer klassifiseres som omlgpsmidier dersom de forfaller til
+betaling innen ett ar etter transaksjonsdatoen. Pa samme mate klassifiseres gjeld som kortsiktig hvis gjelden
+skal betales innen ett ar. Langsiktig gjeld er gield som forfaller senere enn ett ar etter transaksjonsdatoen.
+Imidlertid klassifiseres ikke forstears hovedstol pa langsiktige fordringer og langsiktige forpliktelser som
+omlg@psmidler og kortsiktige forpliktelser.
+
+Omlgpsmidler verdsettes til lavere anskaffelseskostnad og virkelig verdi. Kortsiktige forpliktelser regnes pa
+balansen til det nominelle belgpet pa etableringstidspunktet. Anleggsmidler verdsettes til anskaffelseskostnad.
+Anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene skrives ned til virkelig verdi ved et
+verdifall som ikke forventes a veere midlertidig. Langsiktige forpliktelser, med unntak av andre avsetninger,
+regnes pa balansen til det nominelle belopet pa etableringstidspunktet.
+
+Fordringer
+
+Fordringer og andre fordringer er oppfert pa balansen til palydende verdi etter fradrag for forventede tap. Avsatt
+for tap gjgres basert pa individuelle vurderinger av de individuelle fordringene.
+
+Eiendom, anlegg og utstyr
+
+Anleggsmidler regnes pa balansen og avskrives over levetiden til anleggsmidlene dersom de har en antatt
+nyttetid pa mer enn 3 ar og har en kostpris over kr 30 000. Direkte vedlikehold av anleggsmidler fores
+kontinuerlig under driftskostnader, mens kostnader eller forbedringer legges til anleggets kostpris og avskrives i
+takt med anleggsmidlen.
+
+I tillegg er falgende regnskapsprinsipper anvendat:
+
+Leieavtaler regnes ikke pa balansen. Fordringer og forpliktelser denominert i utenlandsk valuta verdsettes til
+valutakursen ved slutten av regnskapsaret. Valutagevinster og valutatap i utenlandsk valuta regnskapes som
+finansielle inntekter og finansielle utgifter.
+
+Selskapet har ikke endret sin regnskapspolicy fra 2024 til 2025.
+
+THE ENGINE NORWAY AS
+920 891 438
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 2
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 1 652 901 1 899 690
+Arbeidsgiveravgift 241 161 307 306
+Pensjonskostnader 45 365 93 901
+Andre relaterte ytelser 3 145 14 781
+Sum 1 942 572 2 315 678
+Note 3 - Gruppe, tilknyttede selskaper, osv.
+The Engine Norway AS er et heleid datterselskap av The Engine Iceland ehf.
+Note 4 - Egenkapital
+Aksjekapital Udekket tap sum
+Egenkapital 31.12.2024 30 000 -729 689 -699 689
+Arsresultat 0 46 158 46 158
+Egenkapital 31.12.2025 30 000 -683 530 -653 530
+Usikkerhet om fortsatt drift
+Det er knyttet usikkerhet til fortsatt drift.
+Regnskapene er utarbeidet basert pa antakelsen om bekymring. Styret mener at denne antakelsen er til stede
+basert pa betydelig forbedring i driften fra oktober 2025, positiv resultatutvikling og et budsjett som viser
+overskudd for hele aret.
+Selskapet hadde tidligere svak Ig@nnsomhet og negativ egenkapital, hvor morselskapet bidro med kapitalen som
+var ngdvendig for a opprettholde driften. | |Iapet av 2025 har imidlertid situasjonen forbedret seg betydelig,
+spesielt fra oktober, som falge av okt kundetilgang, hoyere turnover og positive resultater store deler av
+perioden.
+@kningen i kunder og stabile inntektsstrammer indikerer at selskapet har oppnadd en beerekraftig drift. Styret
+mener at selskapet har god evne til a tale normale svingninger, og at dets gkonomiske beerekraft na er
+tilfredsstillende.
+Likviditeten er god, og selskapet star ikke lenger overfor likviditetsutfordringer. Budsjettet viser positiv
+kontantstrem fra driften, og |g@pende kostnader dekkes av inntektene.
+Selskapets egenkapital er fortsatt negativ, men utviklingen er tydelig positiv. Med et forventet overskudd pa
+omtrent NOK 324 000 for aret, antar styret at egenkapitalen vil veere gjenopprettet til et positivt niva innen arets
+slutt, forutsatt at budsjettet realiseres.
+Fglgende tiltak har bidratt til forbedringen:
+-@kt salgsaktivitet som har brakt flere nye kunder
+-Stabilisering og @kning i inntektsnivaer
+-Lgpende kontroll og optimalisering av kostnader
+-Fokusere pa I@nnsom drift og bedre ressursutnyttelse
+Tiltakene vil bli viderefgrt for a sikre fortsatt positive utviklinger.
+
+THE ENGINE NORWAY AS
+
+920 891 438
+
+Videre drift avhenger av:
+
+-Manedlig omsetning holdes pa omtrent NOK 446 000 eller hgyere
+
+-At kostnadsnivaet holdes innenfor budsjetterte grenser
+
+-At kundeportefaljen vedlikeholdes og videreutvikles
+
+-At selskapet opprettholder et positivt resultat gijennom hele aret
+
+Med presentasjonen av regnskapene viser selskapet en stabil og forbedret drift. Budsjettet for innevaerende ar
+viser positive resultater og tilfredsstillende likviditet giennom hele perioden, med noen kortere perioder med
+lavere resultater.
+
+Styret anser budsjettet som realistisk basert pa signerte avtaler og utvikling i kundeportefaljen.
+
+THE ENGINE NORWAY AS
+920 891 438
+Kontantstromoppstilling
+
+Note 2025 2024
+Kontantstrommer fra operasjonelle aktiviteter
+Resultat for skattekostnad 46 158 -630 358
+- Periodens betalte skatt 0 17 435
++ Ordineere avskrivninger 16 667 16 667
++/- Endring i kundefordringer -288 808 115 506
++/- Endring i leverandgrgjeld 258 055 614 670
++/- Endring i andre tidsavgrensningsposter 42 251 -256 655
+= Netto kontantstrom fra operasjonelle aktiviteter 74 323 -157 605
+Kontantstrommer fra investeringsaktiviteter
+- Utbetalinger ved kjgp av varige driftsmidier 0 50 000
+- Utbetalinger ved kj@p av andre investeringer -141 941 -172 509
+= Netto kontantstrom fra investeringsaktiviteter 141 941 122 509
+Kontantstrommer fra finansieringsaktiviteter
+- Utbetalinger ved nedbetaling av langsiktig gjeld -81 267 100 000
+= Netto kontantstrom fra finansieringsaktiviteter 81 267 -100 000
+= Netto endring i kontanter mv 297 531 -135 096
++ Beholdning av kontanter ved arets begynnelse 140 187 275 284
+= Kontantbeholdning ved arets utgang 437 718 140 187
+Kontantbeholdning mv framkommer slik:
+Kontanter og bankinnskudd ved arets utgang 356 543 101 003
+Skattetrekkinnskudd o.|. ved arets utgang 81175 39 185
+= Beholdning av kontanter mv ved arets utgang 437 718 140 187

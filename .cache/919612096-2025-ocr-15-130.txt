@@ -1,0 +1,647 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 647082
+Virksomheten
+Organisasjonsnummer : 919 612 096
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: TRONDHJEMSVEGEN 11 GJ@VIK AS
+Forretningsadresse: Storgata 18B
+2815 GJOVIK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Tormod Bakke
+Dato for fastsettelse av arsregnskapet: 03.07.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 919 612 096
+
+TRONDHJEMSVEGEN 11 GJ@VIK AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 1 853 399 1 626 514
+
+Sum inntekter 1 853 399 1 626 514
+
+Kostnader
+
+Lennskostnad 3 31 943
+
+Avskrivning pa driftsmidler 4 298 500 298 500
+
+Annen driftskostnad 2 136 151 4 111 166
+
+Sum kostnader 2 466 594 4 409 666
+
+Driftsresultat -613 195 -2 783 152
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 4 151 1 296
+
+Sum finansinntekter 4 151 1 296
+
+Annen rentekostnad 267 325 209 639
+
+Sum finanskostnader 267 325 209 639
+
+Netto finans -263 174 -208 343
+
+Resultat fer skattekostnad -876 369 -2 991 495
+
+Skattekostnad pa resultat 5 -191 130 -658 129
+
+Arsresultat -685 239 -2 333 366
+
+Arsresultat etter
+
+minoritetsinteresser -685 239 -2 333 366
+
+Totalresultat -685 239 -2 333 366
+
+Overferinger og
+
+disponeringer
+
+Konsernbidrag -494 487 -2 153 315
+
+Overfert annen egenkapital 6 -190 752 -180 O51
+
+Sum overferinger og
+
+disponeringer -685 239 -2 333 366
+Utskriftsdato 28.07.2026 Organisasjonsnr 919 612 096 Side 1 av 3
+
+Organisasjonsnr: 919 612 096
+TRONDHJEMSVEGEN 11 GJ@VIK AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 5 477 047 425 388
+Sum immaterielle eiendeler 477 047 425 388
+Varige driftsmidler
+Tomter, bygninger o.a.
+fast eiendom 4 23 905 581 24 193 680
+Maskiner og anlegg 4
+Skip og flytende
+installasjoner 4
+Driftslesere, inventar o.
+a. utstyr 4 22 987 33 387
+Sum varige driftsmidler 4 23 928 568 24 227 067
+Finansielle anleggsmidler
+Lan til foretak i samme
+konsern 7
+Sum anleggsmidler 24 405 615 24 652 455
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 199 956 65 665
+Andre kortsiktige
+fordringer 108 368 76 188
+Fordringer konsernselskap 10 633 958 2 760 660
+Sum fordringer 942 282 2 902 513
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 922 476 2 062 263
+Sum bankinnskudd,
+kontanter og lignende 922 476 2 062 263
+Sum omlepsmidler 1 864 758 4 964 776
+SUM ELENDELER 26 270 372 29 617 231
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 28.07.2026 Organisasjonsnr 919 612 096 Side 2 av 3
+
+Aksjekapital 6, 8 30 000 30 000
+
+Beholdning av egne aksjer 8
+
+Annen innskutt egenkapital 6 3 658 804 3 164 317
+
+Sum innskutt egenkapital 6 3 688 804 3 194 317
+
+Opptjent egenkapital
+
+Annen egenkapital 9 446 138 10 131 377
+
+Sum opptjent egenkapital 9 446 138 10 131 377
+
+Sum egenkapital 6 13 134 942 13 325 694
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 5
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 7
+
+Gjeld konsernselskap 7, 9 3 907 747 5 408 407
+
+@vrig langsiktig gjeld 7, 9 5 852 144 5 584 836
+
+Sum annen langsiktig gjeld 9 759 891 10 993 243
+
+Sum langsiktig gjeld 9 759 891 10 993 243
+
+Kortsiktig gjeld
+
+Leverandergjeld 370 312 2 423 840
+
+Betalbar skatt 5
+
+Skyldig offentlige avgifter -6 3 554
+
+Gjeld konsernselskap 9 2 560 804 2 568 950
+
+Annen kortsiktig gjeld 444 429 301 950
+
+Sum kortsiktig gjeld 3 375 540 5 298 294
+
+Sum gjeld 13 135 430 16 291 537
+
+SUM EGENKAPITAL OG GJELD 26 270 372 29 617 231
+Utskriftsdato 28.07.2026 Organisasjonsnr 919 612 096 Side 3 av 3
+
+Organisasjonsnr: 919 612 096
+
+TRONDHJEMSVEGEN 11 GJ@VIK AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+BDO AS
+Tordenskjoldsgt. 13-15
+Til generalforsamlingen i Trondhjemsvegen 11 Gjovik AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet til Trondhjemsvegen 11 Gjavik AS.
+Arsregnskapet bestar av: Etter var mening:
+e Balanse per 31. desember e Oppfyller arsregnskapet gjeldende lovkrav, og
+2025 e Gir arsregnskapet et rettvisende bilde av
+e Resultatregnskap for 2025 selskapets finansielle stilling per 31. desember
+e Noter til arsregnskapet, 2025 og av dets resultater for regnskapsaret
+herunder et sammendrag av avsluttet per denne datoen i samsvar med
+viktige regnskapsprinsipper. regnskapslovens regler og god regnskapsskikk i
+Norge.
+S
+S
+‘
+. iS
+Grunnlag for konklusjonen x
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare S
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og N
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i i
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants xu
+{inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board FS
+for Accountants (IESBA-reglene), og vi har overholdt vare ovrige etiske forpliktelser i samsvar med Ms
+disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som a
+grunnlag for var konklusjon. g
+is]
+iS
+Ledelsens ansvar for arsregnskapet 2
+a
+Styret og daglig leder (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir et 8
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er g
+ogsa ansvarlig for slik intern kontroll som den finner nadvendig for a kunne utarbeide et arsregnskap £
+som ikke inneholder vesentlig feilinformasjon, verken som folge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og a avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti
+for at en revisjon utfort i samsvar med |SA-ene, alltid vil avdekke vesentlig feilinformasjon.
+Feilinformasjon kan oppsta som folge av misligheter eller utilsiktede feil. Feilinformasjon er a anse
+som vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke de
+skonomiske beslutningene som brukerne foretar pa grunnlag av arsregnskapet.
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 1 av 2
+
+|BDO
+
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+
+https: //revisorforeningen. no/revisjonsberetninger
+
+BDO AS
+
+Anita Nereng Gunby
+
+statsautorisert revisor
+
+(elektronisk signert)
+S
+S
+>
+S
+iS
+&
+=
+N
+g
+St
+hd
+=
+3
+>
+~
+x=
+RS
+Ne
+-
+BS
+MH
+S
+=
+a
+FS
+bead
+uv
+=
+a
+=
+9
+Q
+9°
+v
+=
+c
+@
+
+BDO AS, et norsk aksjeselskap, er deltaker i BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 2 av 2
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Anita Nereng Gunby
+Partner
+Serienummer: bankid.no no_bankid:95 78-5 995-4-241073 QES
+IP: 188.95.XXX.XXX
+2026-07-03 12:18:51 UTC
+==pankin &%
+is)
+S
+>
+*
+S
+S
+7
+N
+g
++
+?
+:
+S)
+S
+~
+=
+RS
+re
+£
+Sy
+Ps
+g
+x
+3
+£
+=
+v
+&
+3
+x
+S)
+Q
+Ss)
+v
+=
+<
+&
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.
+
+Arsregnskap 2025
+Trondhjemsvegen 11 Gjovik AS
+Resultat E
+Balanse 8
+Noter :
+Org.nr.: 919 612 096
+
+Resultatregnskap
+Trondhjemsvegen 11 Gjovik AS
+Note 2025 2024
+Driftsinntekter og driftskostnader
+Annen driftsinntekt 1 853 399 1 626 514
+Sum driftsinntekter 1 853 399 1 626 514
+Lonnskostnad 3 31 943 0
+Avskrivning pa driftsmidler 4 298 500 298 500
+Annen driftskostnad 2 136 151 4111 166
+Sum driftskostnader 2 466 594 4 409 666
+Driftsresultat -613 195 -2 783 152 >
+Finansinntekter og finanskostnader =
+Annen renteinntekt 4151 1 296 5
+Annen rentekostnad 267 325 209 639 es
+Resultat av finansposter -263 174 -208 343 =
+EOS NE END OD a
+a
+Resultat for skattekostnad -876 369 -2 991 495 e
+Skattekostnad pa resultat 5 -191 130 -658 129 i
+Arsresultat -685 239 -2 333 366 FS
+5
+Overforinger e
+Mottatt konsernbidrag 494 487 2 153 315 3
+Overfort annen egenkapital 6 -190 752 -180 051 §
+Sum overferinger -685 239 -2 333 366 E
+TOV FSF £999 BOD <
+°
+&
+$end
+g
+Trondhjemsvegen 11 Gjovik AS Side 2
+
+Balanse
+Note 2025 2024
+Eiendeler
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 5 477 047 425 388
+Sum immaterielle eiendeler 477 047 425 388
+Varige driftsmidler
+Tomter, bygninger 0.a. fast eiendom 4 23 905 581 24 193 680
+Driftslosore, inventar o.a. utstyr 4 22 987 33 387
+Sum varige driftsmidler 4 23 928 568 24 227 067
+Sum anleggsmidler 24 405 615 24 652 455
+FEE EEE =
+Omlepsmidler S
+©
+&
+Fordringer ¥
+Kundefordringer 199 956 65 665 5
+Andre kortsiktige fordringer 108 368 76 188 x
+Fordringer konsernselskap 10 633 958 2 760 660 i
+Sum fordringer 942 282 2 902 513 8
+iy
+NN
+Bankinnskudd, kontanter o.I. S
+Bankinnskudd, kontanter o.|. 922 476 2 062 263 &
+Sum bankinnskudd, kontanter o.l. 922 476 2 062 263 &
+FFE ES NE OS S
+§
+Sum omlopsmidler 1 864 758 4 964 776 :
+wa
+S
+————— ——— aa)
+Sum eiendeler 26 270 372 29 617 231 2
+~eemere ee ©
+g
+Trondhjemsvegen 11 Gjovik AS Side 3
+
+Balanse
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 6, 8 30 000 30 000
+Annen innskutt egenkapital 6 3 658 804 3 164 317
+Sum innskutt egenkapital 6 3 688 804 3 194 317
+Opptjent egenkapital
+Annen egenkapital 9 446 138 10 131 377
+Sum opptjent egenkapital 9 446 138 10 131 377
+Sum egenkapital 6 13 134 942 13 325 694
+Gjeld
+:
+Annen langsiktig gjeld S
+Gjeld konsernselskap 7,9 3 907 747 5 408 407 9
+@vrig langsiktig gjeld 7,9 5 852 144 5 584 836 9
+Sum annen langsiktig gjeld 9 759 891 10 993 243 5
+x
+Kortsiktig gjeld i
+Leverandargjeld 370 312 2 423 840 8
+Skyldig offentlige avgifter -6 3 554 q
+Gjeld konsernselskap 9 2 560 804 2 568 950 S
+Annen kortsiktig gjeld 444 429 301 950 &
+Sum kortsiktig gjeld 3 375 540 5 298 294 &
+_7sAeerr OC vee <
+§
+Sum gjeld 13 135 430 16 291 537
+ees OO eee =
+wa
+S
+Sum egenkapital og gjeld 26 270 372 29 617 231 3
+FO IM SIE FAO EOE &
+é
+Styret i Trondhjemsvegen 11 Gjovik AS
+Tormod Bakke Ingerid Bakke
+styreleder/daglig leder styremedlem
+Mona Bakke Amundsen Heidi Bakke
+styremedlem styremedlem
+Trondhjemsvegen 11 Gjovik AS Side 4
+
+Noter til regnskapet 2025
+
+Note 1 Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+
+Driftsinntekter
+
+Inntektsforing ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfores etter hvert som de
+
+leveres.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremforing ved utgangen av
+
+regnskapsaret. Skatteokende og skattereduserende midlertidige forskjeller som reverserer eller kan
+
+reverseres i samme periode er utlignet og nettofort.
+
+Klassifisering og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+
+anskaffelseskost. Varige driftsmidler balansefores og avskrives over driftsmidlets oakonomiske levetid.
+
+Avskrivningsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget
+
+og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belap S
+
+ved verdifall som forventes ikke a vere forbigaende. Gjenvinnbart belap er det hayeste av netto salgsverdi 5
+
+og verdi i bruk. Verdi i bruk er naverdi av fremtidige kontantstrammer knyttet til eiendelen. Nedskrivingen 5
+
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede. 5
+ce
+
+Klassifisering og vurdering av omlopsmidler §
+
+Omlepsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter q
+
+balansedagen, samt poster som knytter seg til varekretslopet. Omlopsmidler vurderes til laveste verdi av i
+
+anskaffelseskost og virkelig verdi. 2
+Wal
+iy
+
+Fordringer e
+
+Kundefordringer og andre fordringer oppfares til palydende etter fradrag for avsetning til forventet tap. Ss
+
+Avsetning til tap gjores pa grunnlag av en individuell vurdering av de enkelte fordringene. =
+:
+§
+5
+
+Note 2 Virksomhetens art og lokalisering E
+S
+aa)
+
+Trondhjemsvegen 11 Gjovik AS er et selskap der virksomheten omfatter utleie og utvikling av fast g
+
+eiendom. Selskapet er lokalisert i Gjovik kommune. Ss
+
+Note 3 Lonnskostnader
+
+Trondhjemsvegen 11 Gjavik AS har ikke noen ansatte og er falgelig ikke pliktig til a ha
+
+tjenestepensjonsordning. Det er ikke utbetalt lonn eller honorar til styret i 2025.
+
+Trondhjemsvegen 11 Gjovik AS Side 5
+
+Noter til regnskapet 2025
+Note 4 Anleggsmidler
+Bygninger Driftslosore, Sum
+og tomter inventar ol.
+Anskaffelseskost pr. 01.01.25 26 388 180 73 287 26 461 467
+= Anskaffelseskost 31.12.25 26 388 180 73 287 26 461 467
+Av- og nedskrivninger pr. 01.01.25 2 194 500 39 900 2 234 400
++ Arets ordinzere avskrivninger 288 100 10 400 298 500
+= Av- og nedskrivninger pr. 31.12.25 2 482 600 50 300 2 532 900
+= Bokfort verdi 31.12.25 23 905 580 22 987 23 928 567
+Skonomisk levetid 15-50 ar 7 ar
+=
+Note 5 Skatt 2
+x
+A)
+Arets skattekostnad 2025 2024 3
+Resultatfort skatt pa ordinaert resultat: &
+Betalbar skatt 0 0 5
+Endring i utsatt skattefordel -191 130 -658 129 =
+Skattekostnad ordinzrt resultat -191 130 -658 129 i
+a]
+Sy
+Skattepliktig inntekt: 4
+Resultat for skatt -876 369 -2 991 495 S
+Permanente forskjeller 7 599 0 &
+Endring i midlertidige forskjeller 234 812 230 835 g
+Mottatt konsernbidrag 633 958 2 760 660 =
+Skattepliktig inntekt 0 0 2
+a
+wa
+Betalbar skatt i balansen: 8
+Betalbar skatt pa arets resultat -139 471 -607 345 Z
+Betalbar skatt pa mottatt konsernbidras 139 471 607 345 rd
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremforing som har gitt opphav til utsatt skatt
+og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varige driftsmidler -2 168 395 -1 933 583 234 812
+Sum -2 168 395 -1 933 583 234 812
+Grunnlag for utsatt skattefordel -2 168 395 -1 933 583 234 812
+Utsatt skattefordel (22 %) -477 047 -425 388 51 659
+Trondhjemsvegen 11 Gjovik AS Side 6
+
+Noter til regnskapet 2025
+Note 6 Egenkapital
+Aksjekapital Annen innskutt Annen Sum egenkapital
+egenkapital egenkapital
+Pr. 31.12.2024 30 000 3 164 317 10 131 377 13 325 694
+Arets resultat 0 0 -685 239 -685 239
+Mottatt_konsernbidrag 494 487 0 494 487
+Pr. 31.12.2025 30 000 3 658 804 9 446 138 13 134 942
+Note 7 Fordringer, gjeld, pantstillelser og garantier m.v
+2025 2024
+Fordringer med forfall senere enn ett ar 0 0
+Langsiktig gjeld med forfall senere enn fem ar 0 0 =
+©
+Gjeld som er sikret ved pant o.I. 2025 2024 5
+$
+Gjeld til kredittinstitusjoner 0 0 =
+Sum 0 0 3
+at
+i)
+vA
+x
+o
+~
+S
+2
+Note 8 Aksjonzrer s
+§
+Aksjekapitalen i Trondhjemsvegen 11 Gjovik AS pr. 31.12 bestar av: 2
+Antall Palydende Bokfort =
+Ordinzere aksjer 30 1 000,0 30 000 3
+Sum 30 30 000 e
+g
+Eierstruktur
+De storste aksjonzrene i % pr. 31.12 var:
+Ordinzwre Eierandel Stemmeandel
+Torm Holding AS 30 100,0 100,0
+Trondhjemsvegen 11 Gjovik AS Side 7

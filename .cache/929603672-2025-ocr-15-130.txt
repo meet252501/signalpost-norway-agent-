@@ -1,0 +1,429 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 539184
+Virksomheten
+Organisasjonsnummer : 929 603 672
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: HBIF2022 AS
+Forretningsadresse: c/o Flow Group Norge AS
+Stokkamyrveien 13
+4313 SANDNES
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Eivind Thoreid Torgersen
+Dato for fastsettelse av Aarsregnskapet: 09.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 13.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 929 603 672
+
+HBIF2022 AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 484 906 6 977 660
+
+Annen driftsinntekt 2 015 35
+
+Sum inntekter 3 486 921 6 977 695
+
+Kostnader
+
+Endring i beholdning av
+
+varer under tilvirkning
+
+og ferdig tilvirkede varer 77 767
+
+Varekostnad 1 093 222 2 553 227
+
+Lennskostnad 2 3 039 223 4 346 798
+
+Avskrivning av
+
+driftsmidler og
+
+immaterielle eiendeler 3 6 059 6 059
+
+Annen driftskostnad 1 454 596 1 818 482
+
+Sum kostnader 5 670 867 8 724 565
+
+Driftsresultat -2 183 946 -1 746 870
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 3 192 18 695
+
+Annen finansinntekt 13 028
+
+Sum finansinntekter 16 220 18 695
+
+Annen rentekostnad 143 014 39 843
+
+Annen finanskostnad 23 879
+
+Sum finanskostnader 166 893 39 843
+
+Netto finans -150 674 -21 148
+
+Resultat fer skattekostnad -2 334 619 -1 768 019
+
+Skattekostnad pa resultat 4 -513 616 -388 964
+
+Arsresultat 5 -1 821 003 -1 379 O55
+
+Arsresultat etter
+
+minoritetsinteresser -1 821 003 -1 379 055
+
+Totalresultat -1 821 003 -1 379 O55
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -1 821 003 -1 379 055
+
+Sum overferinger og
+
+disponeringer -1 821 003 -1 379 055
+Utskriftsdato 13.06.2026 Organisasjonsnr 929 603 672 Side 1 av 3
+
+Organisasjonsnr: 929 603 672
+HBIF2022 AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 4 454 343
+Sum immaterielle eiendeler 454 343
+Varige driftsmidler
+Tomter, bygninger o.a.
+fast eiendom 3
+Maskiner og anlegg 3
+Skip og flytende
+installasjoner 3
+Driftslesere, inventar o.
+a. utstyr 3 6 059
+Sum varige driftsmidler 3 6 059
+Finansielle anleggsmidler
+Lan til foretak i samme
+konsern 6
+Sum anleggsmidler 460 402
+Omlepsmidler
+Varer
+Sum varer 77 #767
+Fordringer
+Kundefordringer 6, 7 638 669 375 210
+Andre kortsiktige
+fordringer 6, 7 37 482 133 677
+Konsernfordringer 4 399 814 1 384 625
+Sum fordringer 5 075 965 1 893 512
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 8 33 692 104 842
+Sum bankinnskudd,
+kontanter og lignende 33 692 104 842
+Sum omlepsmidler 5 109 657 2 076 121
+SUM ELENDELER 5 109 657 2 536 523
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+
+Utskriftsdato 13.06.2026 Organisasjonsnr 929 603 672 Side 2 av 3
+
+Innskutt egenkapital
+Aksjekapital 9 100 000 100 000
+Beholdning av egne aksjer 9
+Annen innskutt egenkapital 4 810 910 1 379 055
+Sum innskutt egenkapital 4 910 910 1 479 055
+Opptjent egenkapital
+Annen egenkapital 10 -1 610 852
+Udekket tap 3 200 058 1 379 055
+Sum opptjent egenkapital -4 810 910 -1 379 055
+Sum egenkapital 5 100 000 100 000
+Gjeld
+Langsiktig gjeld
+Utsatt skatt 4
+Annen langsiktig gjeld
+Konvertible lan 7
+Obligasjonslan 7
+Gjeld til
+kredittinstitusjoner 6, 7
+Langsiktig konserngjeld 6, 7
+Kortsiktig gjeld
+Leverandergjeld 6 183 782 269 896
+Betalbar skatt 4
+Skyldig offentlige avgifter 176 137 235 643
+Kortsiktig konserngjeld 4 378 666 1 639 921
+Annen kortsiktig gjeld 6 271 072 291 063
+Sum kortsiktig gjeld 6 5 009 657 2 436 523
+Sum gjeld 5 009 657 2 436 523
+SUM EGENKAPITAL OG GJELD 5 109 657 2 536 523
+POSTER UTENOM BALANSEN
+Garantistillelser 7
+Pantstillelser 7
+
+Utskriftsdato 13.06.2026 Organisasjonsnr 929 603 672 Side 3 av 3
+
+Organisasjonsnr: 929 603 672
+
+HBIF2022 AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+ay Malle, Rasmus
+: Band Qua Signing
+Cy) Doe Oe Go Merethe Berge
+Arsregnskap 2025
+Hbif2022 AS
+Resultatregnskap
+Noter til regnekapet
+Org.nr.: 929 603 672
+
+RESULTATREGNSKAP |
+HBIF2022 AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Salgsinntekt 3 484 906 6 977 660
+Annen driftsinntekt 2015 35
+Sum driftsinntekter 3 486 921 6 977 695
+Varekostnad 1093 222 2 553 227
+End. beh. varer u.tilv. og ferdigvarer 77 767 0
+Lgnnskostnad 2 3 039 223 4 346 798
+Avskrivning av driftsmidler og immaterielle eiendeler 3 6 059 6 059
+Annen driftskostnad 1 454 596 1 818 482
+Sum driftskostnader 5 670 867 8 724 565
+Driftsresultat -2 183 946 -1 746 870
+FINANSINNTEKTER OG FINANSKOSTNADER
+
+Annen renteinntekt 3192 18 695
+Annen finansinntekt 13 028 8)
+Annen rentekostnad 143 014 39 843
+Annen finanskostnad 23 879 0
+Resultat av finansposter -150 674 -21 148
+Resultat for skattekostnad -2 334619 -1 768 019
+Skattekostnad pa resultat 4 -513 616 -388 964
+Arsresultat 5 -1 821 003 -1 379055
+OVERF@RINGER
+
+Overfgrt til udekket tap 1 821 003 1379055
+Sum overf¢ringer -1 821 003 -1 379 055
+HBIF2022 AS SIDE 2
+
+BALANSE |
+HBIF2022 AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+Utsatt skattefordel 4 0 454 343
+Sum immaterielle eiendeler 0 454 343
+VARIGE DRIFTSMIDLER
+Driftslgsgre, inventar o.a. utstyr 3 0 6 059
+Sum varige driftsmidler 3 0 6 059
+Sum anleggsmidler 0 460 402
+OML@PSMIDLER
+Lager av varer og annen beholdning 0 77 767
+FORDRINGER
+Kundefordringer 6,7 638 669 375 210
+Andre kortsiktige fordringer 6,7 37 482 133 677
+Konsernfordringer 4 399 814 1 384 625
+Sum fordringer 5 075 965 1 893 512
+Bankinnskudd, kontanter o.|. 8 33 692 104 842
+Sum omlgpsmidler 5 109 657 2076121
+Sum eiendeler 5 109 657 2 536 523
+HBIF2022 AS SIDE 3
+
+BALANSE |
+HBIF2022 AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 9 100 000 100 000
+Annen innskutt egenkapital 4 810910 1 379 055
+Sum innskutt egenkapital 4910 910 1 479 055
+OPPTJENT EGENKAPITAL
+Annen egenkapital 10 -1 610 852 0
+Udekket tap -3 200 058 -1 379 055
+Sum opptjent egenkapital -4 810 910 -1 379 055
+Sum egenkapital 5 100 000 100 000
+GJELD
+KORTSIKTIG GJELD
+Leverandgrgjeld 6 183 782 269 896
+Skyldig offentlige avgifter 176 137 235 643
+Konserngjeld 4 378 666 1 639 921
+Annen kortsiktig gjeld 6 271 072 291 063
+Sum kortsiktig gjeld 6 5 009 657 2 436 523
+Sum gjeld 5 009 657 2 436 523
+Sum egenkapital og gjeld 5 109 657 2 536 523
+09.06.2026
+Styret i Hbif2022 AS
+Siv Merethe Berge Résland Rasmus Meller
+styremedilem styreleder
+HBIF2022 AS SIDE 4
+
+Noter til regnskapet 2025
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Driftsinntekter
+Inntektsfaring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfares etter hvert som de leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige og
+skattemessige verdier, samt ligningsmessig underskudd til fremforing ved utgangen av regnskapsaret. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan reverseres i samme periode er utlignet og nettofart.
+Klassifisering og vurdering av omiepsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter balansedagen, samt
+poster som knytter seg til varekretslapet. Omlg@psmidler vurderes til laveste verdi av anskaffelseskost og virkelig verdi.
+Fordringer
+Kundefordringer og andre fordringer oppfares til palydende etter fradrag for avsetning til forventet tap. Avsetning til tap
+gj@res pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Konsernregnskap
+Flow Elektro Bergen AS inngar i konsernet Flow Group AS.
+Konsemregskapet kan fas utlevert ved a henvende seg til Flow Group AS sitt forretningskontor:
+Flow Group AS, Kirkeveien 137,1344 Haslum
+Note 1 Virksomhetens art og lokalisering
+Hbif2022 AS er et selskap der virksomheten omfatter elektrotjenester til private og offentlige kunder. Selskapet er
+lokalisert i Sandnes kommune.
+Hbif2022 AS Side 5
+
+Noter til regnskapet 2025
+Note 2 Lonnskostnader og antall arsverk
+Lennskostnader
+2025 2024
+L@nninger 2 525 610 3 609 994
+Arbeidsgiveravgift 389 303 552 119
+Pensjonskostnader 89 746 141 080
+Andre ytelser 34 564 43 605
+Sum 3 039 223 4 346 798
+Selskapet har pr. 31.12.2025 sysselsatt 0 arsverk.
+Pensjonsforpliktelser
+Selskapet er pliktig til a ha tienestepensjonsordning etter lov om obligatorisk tienestepensjon.
+Selskapets pensjonsordninger tilfredsstiller kravene i denne lov.
+Note 3 Anleggsmidler
+Driftslesere, Sum
+inventar ol.
+Anskaffelseskost pr. 01.01.25 18 177 18 177
+= Anskaffelseskost 31.12.25 18 177 18 177
+Akkumulerte avskrivninger 31.12.25 18 177 18 177
+= Bokfert verdi 31.12.25 0 0
+Arets ordingere avskrivninger 6 059 6 059
+@konomisk levetid Oar
+Hbif2022 AS Side 6
+
+Noter til regnskapet 2025
+Note 4 Skatt
+Arets skattekostnad 2025 2024
+Resultatfart skatt pa ordingert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel -513 616 -388 964
+Skattekostnad ordinzrt resultat -513 616 -388 964
+Skattepliktig inntekt:
+Resultat for skatt -2 334 619 -1 768 019
+Permanente forskjeller 0 0
+Endring i midlertidige forskjeller 6 059 -6 665
+Mottatt konsernbidrag 4 399 814 0
+Anvendelse av fremfarbart underskudd -2 071 254 0
+Skattepliktig inntekt 0 -1 774 684
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat -967 959 0
+Betalbar skatt pa mottatt konsernbidrag 967 959 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremfgring som har gitt opphav til utsatt skatt og utsatte
+skattefordeler, spesifisert pa typer av midlertidige forskjeller
+2025 2024 Endring
+Varige driftsmidler 0 6 059 6 059
+Sum 0 6 059 6 059
+Akkumulert fremfgrbart underskudd -1 -2 071 255 -2 071 254
+Grunnlag for utsatt skattefordel -1 -2 065 195 -2 065 195
+Utsatt skattefordel (22 %) 0 -454 343 -454 343
+Note 5 Egenkapital
+Aksjekapital Overkurs Annen Innskutt Annen sum
+egenkapital egenkapital egenkapital
+Pr. 31.12.2024 100 000 0 1 379 055 -1 379 055 100 000
+Arets resultat -1 821 003 -1 821 003
+Konsernbidrag mottatt 3 431 855 3 431 855
+Konsernbidrag avgitt -1 610 852 -1 610 852
+Pr 31.12.2025 100 000 0 4810 910 -4 810 910 100 000
+Note 6 Mellomvzrende med selskap i samme konsern
+2025 2024
+Fordringer
+Kundefordringer konsem 543 845 0
+Andre kortsiktige fordringer konsem 4 399 814 1 384 625
+Sum 4 943 659 1 384 625
+Gjeld
+Leverandgrgjeld innen konsern 80 259 -23 336
+Annen kortsiktig gjeld konsem 4 378 666 1 639 921
+Sum 4 458 925 1 616 585
+Hbif2022 AS Side 7
+
+Noter til regnskapet 2025
+Note 7 Pantstillelser og garantier
+FLOW Group AS konsem er tildelt en fellesbevilgning med ramme pr. 31.12.2025 pa kr 33 633 000.
+Samlet trekk pa konsernkontoordningen utgjar kr 24 659 628 pr. 31.12.2025
+Selskapet inngar i konsernkontoordningen med morselskapet FLOW Group AS som hovedkontoinnehaver.
+Disponert innestaende belap pa konsermkonto inngar som mellomvzerende med morselskap.
+Pr. 31.12.2025 har selskapet innestaende kr -2 767 813. Total bevilget kreditt pa selskapsniva er kr 2 900 000.
+Falgende eiendeler er stilt som sikkerhet for konsernets bevilgning pa totalt kr 33 633 000
+Bokfert verdi av pantsikrede eiendeler 2025 2024
+Kundefordringer 638 669 142 280
+Sum 638 669 142 280
+Note 8 Bankinnskudd
+Innestaende midler pa skattetrekkskonto (bundne midler) er pa kr. 33 692.
+Note 9 Aksjonzrer
+Aksjekapitalen i Hbif2022 AS pr. 31.12 bestar av:
+Antall Palydende Bokfert
+
+Ordinzere aksjer 10 000 10 100 000
+Sum 10 000 100 000
+Eierstruktur
+Aksjongerer i % pr. 31.12:
+
+Ordinzre Eierandel Stemmeandel
+FLOW Group AS 10 000 100,0 100,0
+Note 10 Fortsatt drift
+Resultatet for 2025 viser et underskudd pa kr. -1 821 003 etter skatt, mot kr. -1 379 055 i 2024. Soliditeten og likviditeten
+er fortsatt god og det er ikke noe som indikerer at driften ikke kan fortsette. Styret har lagt forutsetningen om fortsatt drift
+til grunn ved utarbeidelsen av arsregnskapet da prognoser for inntjening kommende ar viser en positiv utvikling og
+likviditet vil sikres sikret gjennom tilfersel av nadvendig kapital ved behov. Selskapet har gjennom aret fatt tilfort likviditet
+gjennom mottatt konsembidrag fra Flow Group AS.
+Hbif2022 AS Side 8

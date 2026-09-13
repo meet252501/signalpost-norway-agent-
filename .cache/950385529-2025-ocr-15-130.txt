@@ -1,0 +1,508 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 349533
+Virksomheten
+Organisasjonsnummer : 950 385 529
+Organisasjonsform: Borettslag
+Foretaksnawn: STORGARDEN BORETTSLAG
+Forretningsadresse: v/OBOS
+Hammersborg torg 1
+0179 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: OBOS EIENDOMSFORVALTNING AS
+Dato for fastsettelse av Aarsregnskapet: 18.03.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 20.04.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 950 385 529
+
+STORGARDEN BORETTSLAG
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 34 461 042 31 559 492
+
+Sum inntekter 34 461 042 31 559 492
+
+Kostnader
+
+Lennskostnad 2 483 965 2 407 449
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 312 132 315 702
+
+Annen driftskostnad 21 531 010 21 121 097
+
+Sum kostnader 24 327 107 23 844 248
+
+Driftsresultat 10 133 935 7 #715 245
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 17 004 14 158
+
+Sum finansinntekter 17 004 14 158
+
+Annen finanskostnad 2 216 498 2 555 180
+
+Sum finanskostnader 2 216 498 2 555 180
+
+Netto finans -2 199 494 -2 541 021
+
+Resultat fer skattekostnad 7 934 441 5 174 223
+
+Arsresultat 7 934 441 5 174 223
+
+Totalresultat 7 934 441 5 174 223
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 7 934 441 5 174 223
+
+Sum overferinger og
+
+disponeringer 7 934 441 5 174 223
+Utskriftsdato 20.04.2026 Organisasjonsnr 950 385 529 Side 1 av 3
+
+Organisasjonsnr: 950 385 529
+STORGARDEN BORETTSLAG
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 77 963 185 77 963 185
+Driftslesere, inventar,
+verktay, kontormaskiner
+og lignende 808 961 1 121 093
+Sum varige driftsmidler 78 772 147 79 084 278
+Finansielle anleggsmidler
+Andre fordringer 299 798 122 548
+Sum finansielle
+anleggsmidler 299 798 122 548
+Sum anleggsmidler 79 O71 945 79 206 827
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Kundefordringer 35
+Andre fordringer 1 054 697 891 617
+Sum fordringer 1 054 732 891 617
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 4 740 185 2 246 712
+Sum bankinnskudd,
+kontanter og lignende 4 740 185 2 246 712
+Sum omlepsmidler 5 794 916 3.138 329
+SUM ELENDELER 84 866 862 82 345 156
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 20.04.2026 Organisasjonsnr 950 385 529 Side 2 av 3
+
+Annen innskutt egenkapital 55 100 55 100
+
+Sum innskutt egenkapital 55 100 55 100
+
+Opptjent egenkapital
+
+Annen egenkapital 39 903 754 31 969 313
+
+Sum opptjent egenkapital 39 903 754 31 969 313
+
+Sum egenkapital 39 958 854 32 024 413
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 37 992 299 43 446 702
+
+@vrig langsiktig gjeld 5 213 059 4 691 497
+
+Sum annen langsiktig gjeld 43 205 358 48 138 199
+
+Sum langsiktig gjeld 43 205 358 48 138 199
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 10 595 13 295
+
+Leverandergjeld 1 329 540 1 476 310
+
+Skyldige offentlige
+
+avgifter 144 648 139 033
+
+Annen kortsiktig gjeld 217 867 553 906
+
+Sum kortsiktig gjeld 1 702 650 2 182 544
+
+Sum gjeld 44 908 008 50 320 743
+
+SUM EGENKAPITAL OG GJELD 84 866 862 82 345 156
+Utskriftsdato 20.04.2026 Organisasjonsnr 950 385 529 Side 3 av 3
+
+Organisasjonsnr: 950 385 529
+
+STORGARDEN BORETTSLAG
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+2.00
+
+Gig OBOS attning
+-@ Ne:
+_ Z
+eis
+ted
+Arsmote 2026
+Innkalling
+
+Velkommen til Arsmete i STORGARDEN BORETTSLAG
+
+Innkallingen inneholder alle sakene som skal behandles pa arsmetet. Styret haper du leser gjennom og viser
+
+din interesse ved 4 delta pa arsmetet.
+
+Dato for arsmetet:
+
+18. mars 2026 kl. 18:00, Manglerud Kirke, storsalen.
+
+Hvem kan stemme pa arsmoetet?
+
+Alle eiere har rett til 4 delta i mete med forslags-, tale- og stemmerett.
+
+¢ Eiers ektefelle, samboer eller et annet medlem i husstanden har ogsa rett til 4 veere til stede og til 4 uttale seg.
+
+¢ Enstemme avgis pr. eierandel.
+
+*« Eieren kan ta med seg en radgiver til metet. Radgiveren har bare rett til 4 uttale seg dersom et flertall pa
+arsmatet tillater det.
+
+¢ Eieren kan mete ved fullmektig. Ingen kan vere fullmektig for mer enn én eier, men der flere eier en andel
+sammen kan de ha samme fullmektig. En fullmakt kan trekkes tilbake nar som helst. Styremedlemmer,
+forretningsforer og leier av bolig i borettslaget har ogsa rett til 4 veere til stede i generalforsamlingen og til
+a uttale seg.
+
+Registreringsblanketten leveres i utfylt stand ved inngangen.
+
+Saker til behandling
+
+1. Valg av meteleder
+
+2. Godkjenning av de stemmeberettigede
+
+3. Valg av protokollvitner
+
+4. Godkjenning av meteinnkallingen
+
+5. Arsrapport og arsregnskap
+
+6. Fastsettelse av honorarer
+
+7. Kameraovervakning av parkeringsplasser
+
+8. Endre vedtektene: Begrense styrets mulighet til 4 justere garasjeleien
+
+9. Utrede stey fra reranlegg
+
+10. Vinduer og balkongderer (utredning/tilbud)
+
+11. Valg av tillitsvalgte
+
+12. Valg av delegater til OBOS' generalforsamling
+
+Med vennlig hilsen,
+
+Styret i STORGARDEN BORETTSLAG
+
+Z2av23
+
+Sak 1
+Valg av meteleder
+Krav til flertall:
+Alminnelig (50%)
+Metelederen serger for at metet blir avviklet etter lovens regler og er ansvarlig for at det feres protokoll. Hvis
+ikke arsmetet velger en meteleder eller den foreslatte metelederen ikke blir valgt, er det styrets leder som etter
+loven er meteleder.
+Forslag til vedtak
+Jardar Bakke er valgt.
+Sak 2
+Godkjenning av de stemmeberettigede
+Krav til flertall:
+Alminnelig (50%)
+Deltakere i metet er registrert ien frammeteliste etter innleverte registreringsblanketter og fullmakter, og listen
+legges til grunn for opptelling av de stemmeberettigede.
+Forslag til vedtak
+Det ble foreslatt 4 anse de innleverte registreringsblankettene og eventuelt fullmakter som bevis for at
+vedkommende eier er til stede.
+Sak 3
+Valg av protokollvitner
+Krav til flertall:
+Alminnelig (50%)
+Valg av minst én eier til 4 signere protokollen.
+Forslag til vedtak
+Velges i arsmetet
+3av23
+
+Sak 4
+Godkjenning av meteinnkallingen
+Krav til flertall:
+Alminnelig (50%)
+Det ble foreslatt 4 gSodkjenne den maten arsmetet er innkalt pa.
+Forslag til vedtak
+Meteinnkallingen godkjennes
+Sak 5
+Arsrapport og arsregnskap
+Krav til flertall:
+Alminnelig (50%)
+a) Godkjenning av arsrapport og arsregnskap
+b) Styret foreslar overforing av arets resultat til egenkapital.
+Forslag til vedtak
+Arsrapport og arsregnskap godkjennes. Arets resultat overfores til egenkapital.
+Vedlegg
+1.635 Storgarden Borettslag - revisjonsberetning 2025.pdf
+2.63 Arsregnskap 2025.pdf
+Sak 6
+Fastsettelse av honorarer
+Krav til flertall:
+Alminnelig (50%)
+Godtgjorelse for styret foreslas satt til kr 600 000,-
+Forslag til vedtak
+Styrets godtgjorelse settes til GOO O00,-
+4av23
+
+Sak 7
+Kameraovervakning av parkeringsplasser
+Forslag fremmet av:
+Tatiana Markidonova
+Krav til flertall:
+To tredjedels (67%)
+Jeg har nylig opplevd at bilen min ble pakjert mens den sted parkert pa borettslagets parkeringsomrade.-
+Skaden omfatter odelagt skiltholder, Nissan-emblem og skader pa stetfangeren. Ingen har tatt kontakt eller
+meldt ifra om hendelsen. Tidligere har bilen min ogsa blitt pafert riper uten at ansvarlig har meldt seg. Selv
+om skadene da var mindre, viser dette et menster som gir grunn til bekymring. Min sak er dessverre ikke unik.
+Jeg har tidligere sett innlegg og henvendelser fra andre beboere som har opplevd lignende hendelser, der
+biler har blitt skadet pa parkeringsplassen uten at skadevolder har meldt seg. Dette skaper utrygghet blant
+beboere og gir en opplevelse av at det ikke er trygt 4 parkere kjoretoy i borettslaget.
+Styrets innstilling
+Kameraovervakning er underlagt strenge regler, og som utgangspunkt ma opptak slettes etter 1 uke. Vier derfor
+avhengig av a fa beskjed om slike skadetilfeller tidsnok for 4 kunne sikre opptak. Dette er ogsa ferste gangen
+naveerende styre har opplevd en slik situasjon. Vi vurderer det derfor som at nytten av en slik overvakning er
+liten.
+Et estimat pa kostnad for kameraovervakning er 200.000 kr
+Styrets innstilling er at forslaget avvises
+Forslag til vedtak
+Jeg onsker at arsmetet tar stilling til om kameraovervaking av felles parkeringsomrader kan vzere et egnet
+tiltak for a forebygge skadeverk, oke tryggheten og bidra til oppklaring ved hendelser.
+Sak 8
+Endre vedtektene: Begrense styrets mulighet til a justere garasjeleien
+Forslag fremmet av:
+Morten René L Stremsborg
+Sakens flertallskrav:
+To tredjedels (67%)
+Forslagenes flertallskrav:
+Alminnelig (50%)
+Styret i et borettslag kan i utgangspunktet endre felleskostnadene ved behov for a dekke lIopende utgifter,
+vedlikehold og nedvendige tiltak, uten 4 be om godkjenning fra arsmetet/generalforsamlingen hver gang. Dette
+er en del av styrets ansvar for forsvarlig drift, men ekningen ma vzere saklig begrunnet i faktiske kostnader jf.
+Burettslagslova, herunder likhetsprinsippet og selvkostprinsippet.
+
+5av 23
+
+Styret hevet garasjeleien f.o.m. jan. 2026 med 66,67% uten begrunnelse annet enn a sammenligne tallet
+med privatbedrifter, og borettslag som ikke fikk ladeanlegg gratis. Okningen star i sterk kontrast til feks.
+fellesvaskeriene, der pris er frosset, og alt vedlikehold dekkes av felleskostnadene. Styret nevner snemaking,
+men samtidig vises det til at garasjene ikke er egne andeler jf. Kartverket. Snomaking ligger i fellesutgiftene
+fordelt pa andelsbrek pa lik linje med parkeringsplassene. Driftskostnader pa garasjer er vedlikehold, og
+strom v/bruk. Man kan trygt si at det arbeides med solide marginer da styret jan. 2026 kunne senke
+garasjebudsjettet/leien med hele 20%. Pa 79 garasjer utgjer dette en nedjustering fra 474.000 til 387100 d.a@
+(est. 379.200 for 2027).
+De siste 10 ar er det for <2 mill. malt, lagt nytt taktekke og montert nye garasjeporter. Det siste fordi
+det var billigere enn a vedlikeholde de gamle. Det ble montert stramskinner og sikringsskap til ladeanlegg
+(gratis), individuelle elbilladere (som beboer selv betaler) og LED lamper utenders (27.450/~1,89% av total
+ordresum). Alt fremlagt og godkjent i arsmeter, og for lengst «nedbetalt». Jeg stiller meg helt utenforstaende
+til prisekningen.
+Styrets innstilling
+Garasjeprisene ble sist justert i 2014 med virkning 2015, og de ble dajustert opp til 300 kroner. Hvis man bruker
+SSB sin priskalkulator og velger 300 kroner i januar 2015 justert opp til desember 2025 (siste tilgjengelige tall)
+havner man pa 423 kroner. Styrets endelige endring til 400 kr/maned var derfor i trad med @kning basert
+pa KPI. Styret soker a4 forvalte garasjeanlegget pa vegne av borettslaget og vi lytter til beboerenes innspill, og
+derfor gikk vi ogsa tilbake pa den opprinnelige ekningen til 500 kr. Vi anser det derfor som unedvendig a lase
+handlingsrommet til styret i vedtektene
+Styrets innstilling at at forslaget avvises.
+a)
+Saken har flere forslag til vedtak. Forst stemmer du for eller mot saken:
+¢ For Endre vedtektene: Begrense styrets mulighet til a justere garasjeleien
+* Mot Endre vedtektene: Begrense styrets mulighet til 4 justere garasjeleien
+b)
+Hvilket av forslagene stemmer du for dersom det skulle bli flertall for saken?
+1. Det nedfelles i vedtektene at endring av garasjeleie ma dokumenteres av styret og godkjennes av arsmetet.
+2. Alternativt; det nedfelles i vedtektene at garasjeleie indeksreguleres arlig i trad med konsumprisindeksen
+(KPI) for 4 folge den generelle prisstigningen
+Sak 9
+Utrede stoy fra reranlegg
+Forslag fremmet av:
+Liv -Janne Vals@e Agledahl
+Krav til flertall:
+Alminnelig (50%)
+
+6av 23
+
+Stey fra reranlegg og bekymring om sterre skader senere, samt forslag om videre utredning Steyen fra
+reranlegget ble meldt skriftlig til styret oktober 2023. Lyden begynte svakt et ars tid for det. Nabo over herer
+ogsa lyden. Denne lyden var ikke der da jeg flyttet inn i 2016, derfor ma det ha skjedd noe med rerene de
+senere arene. Kan kjenne vibrasjon i rerene nar lyden er der. Den kommer natt og dag og ikke til faste tider.
+Men morgen og kveld ganske regelmessig. Noen ganger heyt og noen ganger lavt. Ca 8-15 ganger per dag og
+fra noen sekunder til flere minutter og opp mot en time. Har blitt hoyere og oftere i lopet av arene. Styret,
+fagpersoner og vaktmestere har sett pa saken nai ett ars tid og har kommet frem til at rorsystemet fungerer
+slik det skal, men de har ikke funnet ut av noen feil som forklarer hva lyden kommer av og har avsluttet saken.
+Selv om styret vurderer at anlegget fungerer som normalt, kan slik stey indikere forhold som over tid kan fore
+til skader pa felles anlegg og medfere verdiforringelse av leiligheten(e). Vil vise frem to videocer av lyden slik at
+forsamlingen kan fa here
+Styrets innstilling
+Vi har allerede brukt utallige timer og ressurser pa a finne feil ved anlegget. Per dags dato har kostnadene til
+fagfolk belepet seg til 64845 kroner, ikke medregnet tid brukt av vare egne vaktmestere.
+Styret tar henvendelser knyttet til stay og bomiljo pa sterste alvor, og vi felger rutinemessig opp tips og klager
+med nedvendige undersekelser. | denne saken er det imidlertid gjiennomfert de tiltak og kontroller som med
+rimelighet kan forventes, og det vurderes at det ikke foreligger ytterligere tiltak 4 iverksette.
+Styrets innstilling at at forslaget avvises.
+Forslag til vedtak
+Generalforsamlingen ber styret serge for videre faglig utredning av reranlegget for 4 avklare arsak til stoy og
+eventuell risiko for fremtidige skader og verdiforringelser.
+Sak 10
+Vinduer og balkongderer (utredning/tilbud)
+Forslag fremmet av:
+Miranda Saliu
+Krav til flertall:
+Alminnelig (50%)
+Vinduer og balkongderer fremstar som svzert gamle (antatt fra 1970—80-tallet), og det oppleves betydelig
+varmetap/trekk. | tillegg er de visuelt slitne/stygge, noe som pavirker bade bokvalitet og inntrykket av bygget.-
+Jeg onsker derfor at borettslaget vurderer en samlet losning.
+Styrets innstilling
+Styret giorde en vurdering av tilstand og fremtidig vedlikehold for noen ar siden og det ble opprettet en
+vedlikeholdsplan som inkluderer utskiftning av vinduer og balkongderer. Dette er planlagt til 2031, etter at
+vatromsrehabiliteringen er nedbetalt.
+Styrets innstilling er at forslaget avvises og styret folger eksisterende vedlikeholdsplan
+
+Jav23
+
+Forslag til vedtak
+Generalforsamlingen ber styret om a: Innhente en tilstandsvurdering av vinduer og balkongderer i
+borettslaget, og Innhente minimum to tilbud pa eventuell utskiftning/rehabilitering, inkludert forslag
+tilstandard (utseende/utforelse), kostnadsestimat og finansieringsalternativer, og legge saken frem for
+beslutning pa neste generalforsamling eller ved behov pa ekstraordinzer generalforsamling
+Sak 11
+Valg av tillitsvalgte
+Roller og kandidater
+Valg av 1 styreleder Velges for 2 ar
+Felgende stiller til valg som styreleder:
+
+¢ Harald Paulsen
+Valg av 2 styremedlem Velges for 2 ar
+Felgende stiller til valg som styremediem:
+
+¢ Ibrahim Temel
+
+¢ Melina Ehsani
+Valg av 3 varamedlem Velges for 1 ar
+Felgende stiller til valg som varamedlem:
+
+¢ Aneta Vera
+
+¢ Salar Pooriyan
+
+¢ Usman Mohammed Farooq
+Valg av 2 valgkomite Velges for 1 ar
+Felgende stiller til valg som valgkomite:
+
+¢ Morten Nygaard
+
+¢ Rune Sagen
+Sak 12
+Valg av delegater til OBOS' generalforsamling
+Vi skal velge delegater til OBOS sin generalforsamling. Delegatene og varadelegatene sitter i ett ar.
+Roller og kandidater
+Valg av 1 delegat Velges for 1 ar
+Kandidater velges i metet
+
+8 av 23
+
+Valg av 1 varadelegat Velges for 1 ar
+Kandidater velges i metet
+9av 23
+
+Styrets arsrapport
+Styret i Storgarden Borettslag bestar av 5 medlemmer, hvorav 3 kvinner og 2 menn. De fleste leilighetstyper
+er representert - bade heyblokk, lavblokk og 4-roms over to plan.
+Styret har siden forrige arsmete avholdt 14 styremeter. Vi har fulgt neye med pa borettslagets ekonomi og vi
+har na fatt oss en buffer pa over 3 millioner, som er i trad med OBOS sine anbefalinger.
+Siden forrige arsmete har vi pabegynt vedlikehold i lavblokkene. Fremover er det planlagt a skifte ut lekestativ
+i Havredalen og utfore videre nedvendig vedlikehold innvendig og utvendig.
+En av vare kjzere vaktmestere har planlagt 4 pensjonere seg i lopet av 2026, og vi har allerede startet jakten pa
+en erstatning. Vi haper forst og fremst a finne en ny vaktmester som bor i borettslaget. En stillingsannonse er
+under utarbeidelse og det vil bli lyst ut internt i borettslaget forst.
+
+10 av 23

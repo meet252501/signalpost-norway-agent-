@@ -1,0 +1,435 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 367471
+Virksomheten
+Organisasjonsnummer : 923 094 377
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: CELAR INVEST AS
+Forretningsadresse: @vre Hunsdalsvei 482
+4534 MARNARDAL
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Cecilie Larsen
+Dato for fastsettelse av Aarsregnskapet: 23.03.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 23.04.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 923 094 377
+
+CELAR INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 6 262 5
+
+Sum kostnader 6 262 5
+
+Driftsresultat -6 262 -5
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap 500 000 650 000
+
+Sum finansinntekter 500 000 650 000
+
+Netto finans 500 000 650 000
+
+Resultat fer skattekostnad 493 739 649 995
+
+Skattekostnad pa resultat 3
+
+Arsresultat 4 493 739 649 995
+
+Arsresultat etter
+
+minoritetsinteresser 493 739 649 995
+
+Totalresultat 493 739 649 995
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 493 739 649 995
+
+Sum overferinger og
+
+disponeringer 493 739 649 995
+Utskriftsdato 23.04.2026 Organisasjonsnr 923 094 377 Side 1 av 3
+
+Organisasjonsnr: 923 094 377
+
+CELAR INVEST AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 3
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 5 30 000 30 000
+
+Investering i annet
+
+foretak i samme konsern 5
+
+Sum finansielle
+
+anleggsmidler 30 000 30 000
+
+Sum anleggsmidler 30 000 30 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Konsernfordringer 500 000 650 000
+
+Sum fordringer 500 000 650 000
+
+Investeringer
+
+Aksjer og andeler i
+
+foretak i samme konsern 5
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 258 899 15 161
+
+Sum bankinnskudd,
+
+kontanter og lignende 258 899 15 161
+
+Sum omlepsmidler 758 899 665 161
+
+SUM ELENDELER 788 899 695 161
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 7 744 649 650 911
+
+Sum opptjent egenkapital 744 649 650 911
+Utskriftsdato 23.04.2026 Organisasjonsnr 923 094 377 Side 2 av 3
+
+Sum egenkapital 4 774 649 680 911
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 3
+
+Annen langsiktig gjeld
+
+Kortsiktig gjeld
+
+Betalbar skatt 3
+
+Annen kortsiktig gjeld 14 250 14 250
+
+Sum kortsiktig gjeld 14 250 14 250
+
+Sum gjeld 14 250 14 250
+
+SUM EGENKAPITAL OG GJELD 788 899 695 161
+Utskriftsdato 23.04.2026 Organisasjonsnr 923 094 377 Side 3 av 3
+
+Organisasjonsnr: 923 094 377
+
+CELAR INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+oY ‘elle Revisj AS
+Velle KRevisjon
+Til generalforsamlingen 1 Celar Invest AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert Celar Invest AS sitt arsregnskap som bestar av balanse per 31. desember 2025,
+resultatregnskap for regnskapsaret avsluttet per denne datoen og noter til arsregnskapet, herunder et
+sammendrag av viktige regnskapsprinsipper.
+Etter var mening
+¢ oppfyller arsregnskapet gjeldende lovkrav, og
+e gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember 2025 og av
+dets resultat for regnskapsaret avsluttet per denne datoen 1 samsvar med regnskapslovens regler og
+god regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gyennomfort revisjonen 1 samsvar med de internasjonale revisjonsstandardene International Standards
+on Auditing (ISA-ene). Vare oppgaver og plikter 1 henhold til disse standardene er beskrevet nedenfor under
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet slik det kreves 1
+lov, forskrift og International Code of Ethics for Professional Accountants (inkludert internasjonale
+uavhengighetsstandarder) utstedt av the International Ethics Standards Board for Accountants (ESBA-
+reglene), og vi har overholdt vare ovrige etiske forpliktelser i samsvar med disse kravene. Innhentet
+revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Ledelsen er ansvarlig for a utarbeide arsregnskapet og for at det gir et rettvisende bilde 1 samsvar med
+regnskapslovens regler og god regnskapsskikk 1 Norge. Ledelsen er ogsa ansvarlig for slik intern kontroll
+som den finner nedvendig for 4 kunne utarbeide et arsregnskap som ikke inneholder vesentlig
+feilinformasjon, verken som folge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og opplyse
+om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn for
+arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er 4 oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som folge av misligheter eller utilsiktede feil, og 4 avgi en revisjonsberetning som
+inneholder var konklusjon. Betryggende sikkerhet er en hey grad av sikkerhet, men ingen garanti for at en
+revisjon utfort 1 samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon som eksisterer.
+Feilinformasjon kan oppsta som felge av misligheter eller utilsiktede feil. Feilinformasjon blir vurdert som
+vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes a pavirke gkonomiske beslutninger
+som brukerne foretar basert pa arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+www.vellerevisjon.no
+Besoksadresse: Postadresse: Org.nr: 992 985 135 MVA
+Nedre Skayen Vei 16, 0276 OSLO Leirvikodden Il TIf-40 299 299
+Leirvikodden 11, 4513 MANDAL 4513 MANDAL Epost:post@vellerevisjon.no
+Mediem av Den Norske Revisorforening
+
+T - -
+v Velle CVIS)JOTI
+r L_
+Mandal, 24. mars 2026
+Velle Revisjon AS org-nr 992 985 135
+Sindre Velle
+Statsautorisert revisor
+Besoksadresse: Postadresse: Org.nr: 992 985 135 MVA
+Nedre Skayen Vei 16, 0276 OSLO Leirvikodden Il TIf-40 299 299
+Leirvikodden 11, 4513 MANDAL 4513 MANDAL Epost:post@vellerevisjon.no
+Mediem av Den Norske Revisorforening
+
+Arsregnskap 2025
+Celar Invest AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+A Org.nr.: 923 094 377
+
+RESULTATREGNSKAP |
+CELAR INVEST AS
+
+DRIFTSINNTEKTER OG DRIFTSKOSTNADER Note 2025 2024
+Annen driftskostnad 6 262 5
+Sum driftskostnader 6 262 5
+Driftsresultat -6 262 -5
+FINANSINNTEKTER OG FINANSKOSTNADER
+Inntekt pa investering i datterselskap 500 000 650 000
+Resultat av finansposter 500 000 650 000
+Resultat fr skattekostnad 493 739 649 995
+Resultat 493 739 649 995
+EKSTRAORDINAERE INNTEKTER OG KOSTNADER
+Arsresultat 4 493 739 649 995
+OVERF@RINGER
+Avsatt til annen egenkapital 493 739 649 995
+Sum overfgringer 493 739 649 995
+CELAR INVEST AS SIDE 2
+
+BALANSE |
+
+CELAR INVEST AS
+EIENDELER Note 2025 2024
+ANLEGGSMIDLER
+IMMATERIELLE EIENDELER
+VARIGE DRIFTSMIDLER
+FINANSIELLE ANLEGGSMIDLER
+Investeringer i datterselskap 5 30 000 30 000
+Sum finansielle anleggsmidler 30 000 30 000
+Sum anleggsmidler 30 000 30 000
+OML@PSMIDLER
+FORDRINGER
+Konsernfordringer 500 000 650 000
+Sum fordringer 500 000 650 000
+INVESTERINGER
+Bankinnskudd, kontanter o.|. 258 899 15 161
+Sum omlgpsmidler 758 899 665 161
+Sum eiendeler 788 899 | 695161,
+CELAR INVEST AS SIDE 3
+
+BALANSE |
+
+CELAR INVEST AS
+EGENKAPITAL OG GJELD Note 2025 2024
+EGENKAPITAL
+INNSKUTT EGENKAPITAL
+Aksjekapital 6 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+OPPTJENT EGENKAPITAL
+Annen egenkapital 7 744 649 650 911
+Sum opptjent egenkapital 744 649 650 911
+Sum egenkapital 4 774 649 680 911
+GJELD
+AVSETNING FOR FORPLIKTELSER
+ANNEN LANGSIKTIG GJELD
+KORTSIKTIG GJELD
+Annen kortsiktig gjeld 14 250 14 250
+Sum kortsiktig gjeld 14 250 14 250
+Sum gjeld 14 250 14 250
+Sum egenkapital og gjeld 788 899 | 695161,
+
+Marnardal, 23.03.2026
+
+Styret i Celar Invest AS
+
+Cecilie Larsen
+styreleder
+
+CELAR INVEST AS SIDE 4
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+SKATT
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring ved utgangen
+av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofgrt.
+
+KLASSIFISERING OG VURDERING AV OML@PSMIDLER
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+
+Note 1 Virksomhetens art og lokalisering
+
+Celar Invest AS er et selskap der virksomheten omfatter . Selskapet er lokalisert i Lindesnes kommune.
+Note 2 Lénnskostnader
+
+Celar Invest AS har ikke hatt Ignns- eller personalkostnader i 2025 og det foreligger heller ingen slike
+forpliktelser.
+
+Note 3 Skatt
+
+Arets skattegrunnlag 2025 2024
+
+Sum skattekostnad 0 0
+
+Beregning av arets skattegrunnlag: 2025 2024
+
+Ordinzert resultat for skattekostnad 493 739 649 995
+
+Permanente forskjeller -500 000 -650 000
+
+Arets skattegrunnlag -6 262 5
+
+Betalbar skatt i balansen: 2025 2024
+
+Sum betalbar skatt i balansen 0 0
+
+Oversikt over midlertidige forskjeller: 2025 2024 Endring
+Sum 0 0 0
+Akkumulert fremfgrbart underskudd -22171 -15 909 6 262
+Inngar ikke i beregningen av utsatt skatt 22171 15 909 -6 262
+Sum 0 0 0
+Utsatt skattefordel (22 %) 0 0 0
+Forklaring til hvorfor arets skattekostnad 2025 2024
+
+ikke utgj@r 22 % av resultat for skatt:
+
+Resultat far skatt 493 739 649 995
+22 % skatt av resultat for skatt 108 622 142 999
+Permanente forskjeller 22 % -110 000 -143 000
+Beregnet skattekostnad -1378 -1
+Effektiv skattesats -0,3 % 0,0 %
+Note 4 Egenkapital
+Aksje- Annen
+kapital egenkapital Sum
+Pr. 31.12.2024 30 000 650 911 680 911
+Pr. 01.01.2025 30 000 650911 680911
+Arets overskudd 493739 493739
+Tilleggsutbytte -400 000 -400 000
+Pr. 31.12.2025 30 000 744649 774649
+Note 5 Datterselskap, TS og FKV
+Kontor- Eier- Egenkapital Resultat
+kommune andel
+DS/FKV/TS
+Mandal Blomster AS MARNARD 100,0 % 620 329 579 483
+AL
+Sum 620 329 579 483
+Sum verdipapirer 620 329 579 483
+Note 6 Aksjonzerer
+AKSJEKAPITALEN | CELAR INVEST AS PR. 31.12.2025 BESTAR AV:
+Antall Palydende Bokfgrt
+Ordinzre aksjer 30 1 000,0 30 000
+Sum 30 30 000
+EIERSTRUKTUR
+Sum Eierandel Stemmeandel
+Cecilie Larsen 30 100,00 100,00
+Totalt antall aksjer 30 100,00 100,00
+AKSJER EIET AV MEDLEMMER | STYRET OG DAGLIG LEDER:
+Navn Verv Sum
+Cecilie Larsen styreleder 30
+Totalt antall aksjer 30
+
+Note 7 Fortsatt drift
+
+Resultatet for 2025 viser et overskudd pa kr. 493 739 etter skatt, mot kr. 649 995 j 2024. Soliditeten og
+likviditeten er fortsatt god og det er ikke noe som indikerer at driften ikke kan fortsette. Styret vurderer at
+forutsetningene for fortsatt drift er til stede og legger det til grunn for sin virksomhet.

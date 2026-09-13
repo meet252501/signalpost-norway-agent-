@@ -1,0 +1,650 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 680211
+Virksomheten
+Organisasjonsnummer : 922 575 452
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: FJELLVANT HOLDING AS
+Forretningsadresse: Vikelvfaret 12
+7054 RANHEIM
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Bjarme Fjerli
+Dato for fastsettelse av Aarsregnskapet: 30.06.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 03.08.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 922 575 452
+
+FJELLVANT HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 2 99 129 74 977
+
+Sum kostnader 99 129 74 977
+
+Driftsresultat -99 129 -74 977
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 960 000 7 440 000
+
+Annen renteinntekt 426 322 354 914
+
+Annen finansinntekt 819 0
+
+Sum finansinntekter 1 387 141 7 794 914
+
+Annen finanskostnad 489 917 0
+
+Sum finanskostnader 489 917 e)
+
+Netto finans 897 223 7 #794 914
+
+Resultat fer skattekostnad 798 094 7 #719 937
+
+Skattekostnad 3 72 127 37 848
+
+Arsresultat 725 967 7 682 089
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 3 000 000 4 000 000
+
+Annen egenkapital -2 274 033 3 682 089
+Utskriftsdato 03.08.2026 Organisasjonsnr 922 575 452 Side 1 av 3
+
+Organisasjonsnr: 922 575 452
+FJELLVANT HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investering i datterselskap 4 6 655 714 6 655 714
+Investeringer 1
+tilknyttet selskap 5 790 000 1 280 000
+Lan til tilknyttet
+selskap og felles
+kontrollert virksomhet 6 6 130 000 6 130 000
+Andre langsiktige
+fordringer 6, 7 158 000 200 000
+Sum finansielle
+anleggsmidler 13 733 714 14 265 714
+Sum anleggsmidler 13 733 714 14 265 714
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 7 4 610 490 4 563 036
+Konsernfordringer 2 460 000 7 440 000
+Sum fordringer 7 070 490 12 003 036
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 3 690 741 1 465 949
+Sum bankinnskudd,
+kontanter og lignende 3 690 741 1 465 949
+Sum omlepsmidler 10 761 231 13 468 985
+SUM ELENDELER 24 494 945 27 734 699
+BALANSE - EGENKAPITAL OG
+GJELD
+
+Utskriftsdato 03.08.2026 Organisasjonsnr 922 575 452 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 8, 9 104 174 104 174
+
+Overkurs 8 821 075 821 075
+
+Sum innskutt egenkapital 925 249 925 249
+
+Opptjent egenkapital
+
+Annen egenkapital 8 17 800 153 20 074 186
+
+Sum opptjent egenkapital 17 800 153 20 074 186
+
+Sum egenkapital 18 725 402 20 999 435
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 10 2 695 416 2 695 416
+
+Sum annen langsiktig gjeld 2 695 416 2 695 416
+
+Kortsiktig gjeld
+
+Betalbar skatt 3 72 127 37 848
+
+Skyldige offentlige
+
+avgifter 0 0
+
+Utbytte 3 000 000 4 000 000
+
+Kortsiktig konserngjeld 2 000 2 000
+
+Sum kortsiktig gjeld 3 074 127 4 039 848
+
+Sum gjeld 5 769 543 6 735 264
+
+SUM EGENKAPITAL OG GJELD 24 494 945 27 734 699
+Utskriftsdato 03.08.2026 Organisasjonsnr 922 575 452 Side 3 av 3
+
+Organisasjonsnr: 922 575 452
+
+FJELLVANT HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Eiendeler som er knyttet til varekretslopet er klassifisert som
+omlepsmidler. Fordringer klassifiseres som omlg@psmidler hvis de forfaller
+til betaling innen ett ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar
+etter transaksjonsdagen. Ferste ars avdrag pa langsiktige fordringer og
+langsiktig gjeld klassifiseres likevel ikke som oml@psmiddel og kortsiktig
+gjeld.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og virkelig
+
+verdi. Kortsiktig gjeld balanseferes til nominelt belap pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes a vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer
+
+og andre fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning til forventet tap. Avsetning til tap gj@res pa grunnlag av
+individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er falgende
+
+regnskapsprinsipper anvendt:
+
+Kostmetoden er benyttet for investeringer i
+
+datterselskap/tilknyttet selskap. Utbytte er inntektsfert samme Ar som det
+er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at
+bele@pet vil mottas. Ved utbytte som overstiger andel av tilbakeholdt
+resultat etter kj@pet representerer den overskytende del tilbakebetaling av
+investert kapital, og er fratrukket investeringens verdi i balansen.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens
+
+betalbare skatt og endring i utsatt skatt. Utsatt skatt er beregnet med 22%
+pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt skattemessig underskudd til
+fremfering ved utgangen av regnskapsaret. Skattegkende og skattereduserende
+midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet
+
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+1
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+6
+
+Fordringer
+
+Fordringer som forfaller senere enn ett Ar etter regnskapsarets slutt
+6288000.00
+
+Mer om fordringer
+
+Lan til tilknyttet selskap - Fordring pa Lagerseksjoner Trendelag AS:
+5.640.000
+
+Lan til tilknyttet selskap - Fordring pa Lagerseksjoner Nord
+Norge AS: 490.000
+
+Note
+
+10
+
+Gjeld
+
+Gjeld som forfaller til betaling mer enn fem Ar etter regnskapsarets slutt
+Gjeld sikret ved pant eller lignende sikkerhet i eiendeler
+Balansefert verdi av de pantsatte eiendeler
+
+Summen av garantiforpliktelser som ikke er regnskapsfert
+Garantiforpliktelser som er sikret ved pant
+
+Mer om gjeld
+
+Gjeld til Pro Invenia AS: 490.000
+
+Gjeld til Tess Invest AS: 588.000
+
+Gjeld
+
+til Norsk Betong og Tilslagslabratorium AS: 1.617.416
+
+Note
+
+7
+
+Lan og sikkerhetsstillelse til medlemmer
+
+Opplysninger om: Medlemmer av:
+
+Mer om lan og sikkerhetsstillelse
+
+Fordring pa Pro Invenia AS: 5.750.000
+
+Fordring pa Lager seksjoner Trendelag
+
+AS og Lager seksjoner Nord Norge AS - Pal@pt rente : 360.490
+
+Arsregnskap for
+FJELLVANT HOLDING AS
+9225/5452
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+FJELLVANT HOLDING AS
+922 575 452
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad 2 -99 129 -14977
+Sum driftskostnader -99 129 -74977
+Driftsresultat -99 129 -74 977
+Finansinntekter
+Inntekt pa investering i datterselskap og tilknyttet 960 000 7 440 000
+selskap
+Annen renteinntekt 426 322 354 914
+Annen finansinntekt 819 0
+Sum finansinntekter 1 387 141 7 794 914
+Finanskostnader
+Annen finanskostnad -489 917 0
+Sum finanskostnader -489 917 0
+Netto finans 897 223 7 794 914
+Resultat for skattekostnad 798 094 7 719 937
+Skattekostnad 3 -{2 127 -37 848
+Arsresultat 725 967 7 682 089
+Overforinger
+Ordinzert utbytte 3 000 000 4 000 000
+Annen egenkapital -2 274 033 3 682 089
+Sum overferinger 725 967 7 682 089
+
+FJELLVANT HOLDING AS
+922 575 452
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investering i datterselskap 4 6 655 714 6 655 714
+Investeringer i tilknyttet selskap 5 790 000 1 280 000
+Lan til tilknyttet selskap og felles kontrollert virksomhet 6 6 130 000 6 130 000
+Andre langsiktige fordringer 6,7 158 000 200 000
+Sum finansielle anleggsmidler 13 733 714 14 265 714
+Sum anleggsmidler 13 733 714 14 265 714
+Omlgpsmidler
+Fordringer
+Kortsiktige kKonsernfordringer 2 460 000 7 440 000
+Andre kortsiktige fordringer q 4610 490 4 563 036
+Sum fordringer 7 070 490 12 003 036
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 3 690 741 1 465 949
+Sum bankinnskudd, kontanter og lignende 3 690 741 1 465 949
+Sum omlgpsmidler 10 761 231 13 468 985
+SUM EIENDELER 24 494 945 27 734 699
+
+FJELLVANT HOLDING AS
+922 575 452
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 8,9 104 174 104 174
+Overkurs 8 821075 821075
+Sum innskutt egenkapital 925 249 925 249
+Opptjent egenkapital
+Annen egenkapital 8 17 800 153 20 074 186
+Sum opptjent egenkapital 17 800 153 20 074 186
+Sum egenkapital 18 725 402 20 999 435
+Gjeld
+Annen langsiktig gjeld
+@vrig langsiktig gjeld 10 2 695 416 2 695 416
+Sum annen langsiktig gjeld 2 695 416 2 695 416
+Kortsiktig gjeld
+Betalbar skatt 3 72127 37 848
+Skyldige offentlige avgifter 0 0
+Utbytte 3 000 000 4 000 000
+Kortsiktig konserngjeld 2 000 2 000
+Sum kortsiktig gjeld 3 074 127 4039 848
+Sum gjeld 5 769 543 6 735 264
+SUM EGENKAPITAL OG GJELD 24 494 945 27 734 699
+RANHEIM, 30.06.2026
+Ingebrigt Bjgrseth Tor Einar Skjervold Roger Stalheim
+styrets leder styremediem styremediem
+
+FJELLVANT HOLDING AS
+
+922 575 452
+
+Noter
+
+Arten av virksomhet og hvor virksomheten drives
+
+Selskapets virksomhet er et holdingselskap som har til formal a eie aksjer i andre selskaper, samt investering i
+andre virksomheter. Virksomheten drives fra Vikelvfaret 12 pa Ranheim.
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som oml@psmiddel og kortsiktig gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Kostmetoden er benyttet for investeringer i datterselskap/tilknyttet selskap. Utbytte er inntektsfart samme ar
+som det er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at belgpet vil mottas. Ved utbytte
+som overstiger andel av tilbakeholdt resultat etter kijapet representerer den overskytende del tilbakebetaling av
+investert kapital, og er fratrukket investeringens verdi i balansen.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Antall arsverk
+
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+
+Note 2 - Revisjon
+
+Mer om ytelser til revisjon
+
+Kostnadsfert honorar til revisor i 2025 var 33.153,-
+
+FJELLVANT HOLDING AS
+922 575 452
+Note 3 - Spesifisering av skatt
+Skattekostnad 2025 2024
+Betalbar skatt pa alminnelig inntekt 12127 37 848
+Skattekostnad 72 127 37 848
+Skattepliktig inntekt
+Resultat for skatt 798 094 7 719 937
+Permanente forskjeller -470 245 -7 440 000
+- Anvendelse av fremfgrbart underskudd 0 -107 903
+Skattepliktig inntekt 327 849 172 034
+Betalbar skatt i balansen
+Betalbar skatt pa arets resultat 72 127 37 848
+Betalbar skatt i balansen 72 127 37 848
+Note 4 - Investeringer i datterselskaper
+Eier- Stemme-
+Selskapsnavn Forretningskontor andel(%) rett(%) Bokfertverdi Arsresultat Egenkapital
+Pro Invenia AS Ranheim 100,00 100,00 792935 3890180 21 488 805
+Norsk Betong og Ranheim 96,00 96,00 4256779 1231358 7304773
+Tilslagslabratorium AS
+Green Move AS Ranheim 100,00 100,00 106 000 75 347
+Fjellvant Eiendom AS Ranheim 100,00 100,00 1500000 823 1471875
+Sum 6 655 714
+Note 5 - Investeringer i tilknyttede selskaper
+Eier- Stemme-
+Selskapsnavn Forretningskontor andel (%) rett(%) Bokfertverdi Arsresultat Egenkapital
+Lagerseksjoner Tr@ndelag AS Ranheim 49,00 49,00 490000 -38/70424 7123068
+Skillhouse AS Ranheim 30,00 30,00 300 000 331 522 650 180
+Sum 790 000
+Note 6 - Fordringer
+Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt 6 288 000
+Mer om fordringer
+Lan til tilknyttet selskap - Fordring pa Lagerseksjoner Tr@ndelag AS: 5.640.000
+Lan til tilknyttet selskap - Fordring pa Lagerseksjoner Nord Norge AS: 490.000
+Note 7 - Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+Mer om Ian og sikkerhetsstillelse
+Fordring pa Pro Invenia AS: 5.750.000
+Fordring pa Lager seksjoner Tr@éndelag AS og Lager seksjoner Nord Norge AS - Palgpt rente : 360.490
+
+FJELLVANT HOLDING AS
+922 575 452
+
+Note 8 - Egenkapital
+
+Opptjent
+Aksjekapital Overkurs egenkapital Sum
+Egenkapital 31.12.2024 104 174 821075 20 074 186 20 999 435
+Arsresultat 0 0 125 967 125 967
+Avsatt utbytte 0 0 -3 000 000 -3 000 000
+Egenkapital 31.12.2025 104 174 821 075 17 800 153 18 725 402
+Note 9 - Aksjekapital
+Aksjenes
+
+Aksjeklasse Antall aksjer palydende Bokfort verdi
+Ordinzere 52 087 2 104 174
+Aksjonzrer Antall aksjer Eierandel % Aksjeklasse
+BIFF HOLDING AS 18 180 34,90 Ordineere
+NETT PASSLE AS 18 180 34,90 Ordineere
+TESS INVEST AS 15 727 30,19 Ordineere
+Totalt antall aksjer 52 087 100
+
+Note 10 - Gjeld og garantiforpliktelser
+
+Mer om gjeld
+Gjeld til Pro Invenia AS: 490.000
+Gjeld til Tess Invest AS: 588.000
+Gjeld til Norsk Betong og Tilslagslabratorium AS: 1.617.416
+
+BDO AS
+Stokmoveien 2
+7501 Stjordal
+Til generalforsamlingen i Fjellvant Holding AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet til Fjellvant Holding AS.
+Arsregnskapet bestar av: Etter var mening:
+e Balanse per 31. desember e Oppfyller arsregnskapet gjeldende lovkrav, og
+2025 * Gir arsregnskapet et rettvisende bilde av
+e Resultatregnskap for 2025 selskapets finansielle stilling per 31. desember
+e Noter til arsregnskapet, 2025 og av dets resultater for regnskapsaret
+herunder et sammendrag av | avsluttet per denne datoen i samsvar med
+viktige regnskapsprinsipper. regnskapslovens regler og god regnskapsskikk i
+Norge. 9
+=
+ro)
+an
+Grunnlag for konkiusjonen 8
+Vi har gjennomfgrt revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare :
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver &
+og plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i S
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants =
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board S
+for Accountants (IESBA-reglene), og vi har overholdt vare avrige etiske forpliktelser i samsvar med IS
+disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som =
+grunnlag for var konktusjon. %
+€
+au
+Ledelsens ansvar for arsregnskapet §
+—————e_—rsvrrerero ee 2
+Styret (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir et rettvisende bilde i a
+e @
+samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for =
+slik intern kontroll som den finner nedvendig for 4 kunne utarbeide et arsregnskap som ikke “
+inneholder vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil.
+Ved utarbeidetsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift
+og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli awiklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er 4 oppna betryggende sikkerhet for at arsregnskapet som hethet ikke inneholder
+vesentlig feilinformasjon, verken som falge av mistigheter eller utilsiktede feil, og 4 avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hay grad av
+sikkerhet, men ingen garanti for at en revisjon utfert i samsvar med ISA-ene, alltid vil aydekke
+vesentlig feilinformasjon. Feilinformasjon kan oppsta som falge av misligheter eller utilsiktede feit.
+Feilinformasjon er a anse som vesentlig dersom den enkettvis eller samlet med rimelighet kan
+forventes a pavirke de akonomiske beslutningene som brukerne foretar pa grunnlag av
+arsregnskapet.
+BDO AS, et norsk aksjeselskap, er deltaker 1 BDO Intemational Limited, et engelsk selskap med begrenset ansvar, og er en del av
+det internasjonale nettverket BDO, som best4r av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 1 av 2
+
+|BDO
+
+For videre beskrivelse av revisors oppgaver og plikter vises det til:
+
+https: / /revisorforeningen.no/revisjonsberetninger
+
+BDO AS
+
+Ingeborg Hukkelas
+
+statsautorisert revisor
+
+(elektronisk signert}
+2
+=
+G
+<=
+a
+S
+Q
+mi
+fa]
+isa
+ral
+>
+=
+s
+wt
+ER
+$
+rr
+ake
+S
+s
+2
+g
+Q
+Ls)
+<3)
+c
+c
+2
+
+BDO AS, et norsk aksjeselskap, er deltaker 1 BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MVA. side 2 av 2

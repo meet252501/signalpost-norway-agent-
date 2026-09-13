@@ -1,0 +1,461 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 305779
+Enheten
+Organisasjonsnummer : 936 056 210
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ASPERIA AS
+Forretningsadresse: Fayegata 21
+3011 DRAMMEN
+Regnskapsar
+Arsregnskapets periode: 12.08.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Petra Malnar
+Dato for fastsettelse av arsregnskapet: 07.02.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 09.02.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 936 056 210
+
+ASPERIA AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 216 477
+
+Sum inntekter 216 477
+
+Kostnader
+
+Lennskostnad 2, 3 120 778
+
+Annen driftskostnad 68 106
+
+Sum kostnader 188 884
+
+Driftsresultat 27 593
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 31
+
+Sum finansinntekter 31
+
+Annen finanskostnad 4 681
+
+Sum finanskostnader 4 681
+
+Netto finans -4 650
+
+Resultat fer skattekostnad 22 943
+
+Skattekostnad 3 617
+
+Arsresultat 19 326 0
+
+Arsresultat etter
+
+minoritetsinteresser 19 326
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0
+
+Totalresultat 19 326
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 19 326
+
+Sum overferinger og
+
+disponeringer 19 326
+Utskrifttsdato 09.02.2026 Organisasjonsnr 936 056 210 Side 1 av 3
+
+Organisasjonsnr: 936 056 210
+
+ASPERIA AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0
+
+Sum anleggsmidler 0
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0
+
+Fordringer
+
+Sum fordringer 0
+
+Investeringer
+
+Sum investeringer 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 57 501
+
+Sum bankinnskudd,
+
+kontanter og lignende 57 501
+
+Sum omlepsmidler 57 501
+
+SUM ELENDELER 57 501
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000
+
+Annen innskutt egenkapital -6 500
+
+Sum innskutt egenkapital 23 500
+
+Opptjent egenkapital
+
+Annen egenkapital 19 326
+
+Sum opptjent egenkapital 19 326
+Utskriftsdato 09.02.2026 Organisasjonsnr 936 056 210 Side 2 av 3
+
+Sum egenkapital 42 826
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0
+
+Sum langsiktig gjeld 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 723
+
+Betalbar skatt 3 617
+
+Skyldig offentlige avgifter 7 425
+
+Annen kortsiktig gjeld 2 910
+
+Sum kortsiktig gjeld 14 675
+
+Sum gjeld 14 675
+
+SUM EGENKAPITAL OG GJELD 57 500
+Utskriftsdato 09.02.2026 Organisasjonsnr 936 056 210 Side 3 av 3
+
+Organisasjonsnr: 936 056 210
+
+ASPERIA AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Drammen
+
+Virksomhetens art
+
+Selge varer og tjenester innen
+
+programvare - og annet som naturlig sammenfaller med dette - samt
+
+deltakelse i andre selskaper, investeringer og nerliggende virksomhet.
+Note
+2
+Antall Aarsverk i regnskapsaret
+1.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+102550.00
+Folketryqdavgift Arets Fjorarets
+14836.00
+Pensjonskostnader Arets Fjorarets
+3392.00
+Sum lennskostnader Arets Fjorarets
+120778.00
+Note
+Ekstraordinere inntekter og kostnader
+Sum Belgp
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+Kons ernregnskap
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Samlet belap - tilknyttet selskap Arets Fjorarets
+Samlet belg@p - foretak i samme konserm Arets Fjorarets
+
+Samlet belep - foretak i samme konserm Arets Fjorarets
+Samlet belep - felles kontrollert virksomhet Arets Fjorarets
+Pantstillelse Belap
+Beholdning av_egne aksjer Antall Palydende Andel av_aksjek.
+
+Arsregnskap 2025
+Asperia AS
+(936 056 210)
+Asperia AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025
+Driftsinntekter
+
+Salgsinntekt 216 477
+Sum driftsinntekter 216 477
+Driftskostnader
+
+L@nnskostnad 2,3 120778
+
+Annen driftskostnad 68 106
+Sum driftskostnader 188 884
+Driftsresultat 27 593
+Finansinntekter
+
+Annen finansinntekt 31
+Sum finansinntekter 31
+Finanskostnader
+
+Annen finanskostnad 4681
+Sum finanskostnader 4681
+Netto finans -4 650
+Resultat for skatt 22 943
+Skattekostnad 3617
+Arsresultat 19 326
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 19 326
+Sum overferinger og disponeringer 19 326
+
+Asperia AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025
+Omlepsmidler
+Bankinnskudd, kontanter o.l. 57 501
+Sum omlepsmidier 57 501
+Sum eiendeler 57 501
+Asperia AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 30 000
+Annen innskutt egenkapital -6 500
+Sum innskutt egenkapital 23 500
+Opptjent egenkapital
+Annen egenkapital 19 326
+Sum opptjent egenkapital 19 326
+Sum egenkapital 42 826
+Gijeld
+Kortsiktig gjeld
+Leverandergjeld 723
+Betalbar skatt 3617
+Skyldig offentlige avgifter 7 425
+Annen kortsiktig gjeld 2910
+Sum kortsiktig gjeld 14675
+Sum gjeld 14675
+Sum egenkapital og gjeld 57 501
+Asperia AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Drammen
+Virksomhetens art
+Selge varer og tjenester innen programvare - og annet som naturlig sammenfaller med dette -
+samt deltakelse i andre selskaper, investeringer og nzerliggende virksomhet.
+Note 2: Arsverk
+Antall arsverk er 1.
+Note 3: Lonnskostnader
+
+2025
+Lenn 102 550
+Arbeidsgiveravgift 14 836
+Pensjon 3 392
+Andre ytelser 0
+Sum lonnskostnader 120778
+Asperia AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Petra Malnar <petra7malnar@gmail.com>
+Elektronisk signering
+Petra Malnar (Daglig leder, Styreleder)
+19.02.1987
+© Signert
+07.02.2026 13:50 === bankID
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 07.02.2026 13:50:39

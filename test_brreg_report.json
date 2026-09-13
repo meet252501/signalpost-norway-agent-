@@ -1,0 +1,6 @@
+{
+  "connector": "brreg_registry_profile_v1",
+  "profiles_checked": 1000,
+  "observations": 1144,
+  "claim_boundary": "Observations from already-fetched Brreg public API data. No additional HTTP requests."
+}

@@ -1,0 +1,323 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 640190
+Virksomheten
+Organisasjonsnummer : 889 556 692
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MARLO AS
+Forretningsadresse: Tryms vel 6
+1445 DROBAK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Hans Kristian Heier
+Dato for fastsettelse av Aarsregnskapet: 30.06.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 04.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 889 556 692
+
+MARLO AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 697 463 1 751 944
+
+Annen driftsinntekt 645 617 597 695
+
+Sum inntekter 2 343 080 2 349 639
+
+Kostnader
+
+Varekostnad 557 698
+
+Lennskostnad 2 1 173 049 1 196 931
+
+Avskrivning 3 16 444 17 096
+
+Annen driftskostnad 497 251 615 641
+
+Sum kostnader 1 686 744 2 387 366
+
+Driftsresultat 656 336 -37 727
+
+Annen finansinntekt 9 039 23 247
+
+Nedskrivning av
+
+finansielle eiendeler -150 000
+
+Annen finanskostnad 128 341 297 994
+
+Netto finans -119 302 -124 747
+
+Resultat fer skattekostnad 537 034 -162 474
+
+Arsresultat 537 034 -162 474
+
+Overferinger og
+
+disponeringer
+
+Overferinger annen
+
+egenkapital 4 537 034 -162 474
+
+Sum overferinger og
+
+disponeringer 537 034 -162 474
+Utskriftsdato 04.07.2026 Organisasjonsnr 889 556 692 Side 1 av 3
+
+Organisasjonsnr: 889 556 692
+
+MARLO AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner ol 3 12 175 28 619
+
+Sum varige driftsmidler 12 175 28 619
+
+Finansielle anleggsmidler
+
+Investering i datterselskap 5 30 644 30 644
+
+Investeringer i aksjer og
+
+andeler 6 1 583 978 1 583 978
+
+Sum finansielle
+
+anleggsmidler 1 614 622 1 614 622
+
+Sum anleggsmidler 1 626 797 1 643 241
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 2 109 321 1 836 596
+
+Andre fordringer 46 801 64 034
+
+Sum fordringer 2 156 122 1 900 630
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Sum bankinnskudd,
+
+kontanter og lignende 208 189 223 110
+
+Sum omlepsmidler 2 364 311 2 123 740
+
+SUM ELENDELER 3 991 108 3 766 981
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 4 150 000 150 000
+
+Sum innskutt egenkapital 150 000 150 000
+
+Opptjent egenkapital
+
+Annen egenkapital 4 1 066 385 529 350
+
+Sum opptjent egenkapital 1 066 385 529 350
+
+Sum egenkapital 1 216 385 679 350
+Utskriftsdato 04.07.2026 Organisasjonsnr 889 556 692 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 7 505 235 503 247
+
+Sum annen langsiktig gjeld 505 235 503 247
+
+Kortsiktig gjeld
+
+Leveranderg)jeld 368 398 51 261
+
+Skyldige offentlige
+
+avgifter 94 749 72 492
+
+Annen kortsiktig gjeld 5 1 806 341 2 460 630
+
+Sum kortsiktig gjeld 2 269 488 2 584 383
+
+Sum gjeld 2 774 723 3 087 630
+
+SUM EGENKAPITAL OG GJELD 3 991 108 3 766 980
+Utskriftsdato 04.07.2026 Organisasjonsnr 889 556 692 Side 3 av 3
+
+Organisasjonsnr: 889 556 692
+
+MARLO AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+2.00
+
+Marlo AS
+Org.nr: 889 556 692
+
+Noter til regnskapet for 2025
+Note 1 - Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+Virksomhetens Art
+Selskapets formal er konsulent- og programvare aktiviteter innenfor maritim virksomhet, transport, logistikk
+og annen tilhgrende virksomhet. Selskapet er hjemmehg¢grende i Drdbak.
+Neerstaende parter
+Heleid datterselskaper og selskaper hvor Marlo AS har eierandeler er definert som nzerstaende.
+Transaksjoner mellom nzerstaende parter er utfgrt i henhold til vanlig forretningsmessige vilkar.
+Salgsinntekter
+Inntekter fra salg av varer resultatfgres nar levering har funnet sted og det vesentligste av risiko og
+avkastning er overfgrt.
+Inntekter fra salg av tjenester og langsiktige tilvirkingsprosjekter resultatfgres i takt med prosjektets
+fullfgringsgrad, nar utfallet av transaksjonen kan estimeres pa en palitelig mate. Fremdriften males som
+palgpte timer i forhold til totalt estimerte timer. Nar transaksjonens utfall ikke kan estimeres palitelig, vil
+kun inntekter tilsvarende palgpte prosjektkostnader inntektsfgres. | den perioden det blir identifisert at et
+prosjekt vil gi et negativt resultat, vil det estimerte tapet pa kontrakten bli resultatfgrt i sin helhet.
+Klassifisering og vurdering av balanseposter
+Omlgpsmidler og kortsiktig gjeld omfatter poster som forfaller til betaling innen ett ar etter balansedagen,
+samt poster som knytter seg til varekretslgpet. O@vrige poster er klassifisert som anleggsmiddel/langsiktig
+gjeld.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til
+nominelt belgp pa etableringstidspunktet.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Anleggsmidler med begrenset gkonomisk levetid avskrives planmessig. Langsiktig gjeld
+balansef¢gres til nominelt belgp pa etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfgrt i balansen til palydende etter fradrag for avsetning til
+forventet tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene. |
+tillegg gjgres det for gvrige kundefordringer en uspesifisert avsetning for a dekke antatt tap.
+Valuta
+Pengeposter i utenlandsk valuta er vurdert til kursen ved regnskapsarets slutt.
+Varige driftsmidler
+Varige driftsmidler balansefgres og avskrives linezert over driftsmidlets forventede levetid. Vesentlige
+driftsmidler som bestar av betydelige komponenter med ulik levetid er dekomponert med ulik
+avskrivningstid for de ulike komponentene. Direkte vedlikehold av driftsmidler kostnadsfgres lgpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet. Dersom gjenvinnbart belgp av driftsmiddelet er lavere enn balansefgrt verdi foretas
+nedskrivning til gjenvinnbart belgp. Gjenvinnbart bel@p er det hgyeste av netto salgsverdi og verdi i bruk.
+Verdi i bruk er naverdien av de fremtidige kontantstr@mmene som eiendelen forventes a generere.
+Skatter
+Skattekostnaden i resultatregnskapet omfatter periodens betalbare skatt. Utsatt skatt bokfgres ikke.
+
+Side 1
+
+Marlo AS
+Org.nr: 889 556 692
+Noter til regnskapet for 2025
+Note 2 - Lgnnskostnader, antall ansatte og Ian til ansatte
+Lgnnskostnader 2025 2024
+Lénninger 920 928 951 855
+Arbeidsgiveravgift 156 895 160 259
+Pensjonskostnader 76 344 76 421
+Andre ytelser 18 884 8 396
+Sum 1173 051 1 196 931
+Selskapet har i regnskapsaret sysselsatt totalt 2 arsverk.
+Selskapet har fravalgt revisjon og har derfor ingen kostnader knyttet til dette.
+Note 3 - Varige driftsmidler
+Driftslds¢re, Sum
+inventar,
+verktgy mm.
+Anskaffelseskost 01.01. 793 052 793 052
+Anskaffelseskost 31.12. 793 052 793 052
+Akk.avskrivning 01.01 -780 877 -780 877
+Balansefgrt pr. 31.12. 12 175 12 175
+Arets avskrivninger 16 444 16 444
+Pkonomisk levetid Sar
+Avskrivningsplan Linezer
+Note 4 - Egenkapital
+Aksjekapital Annen Sum
+egenkapital
+Egenkapital 01.01.2025 150 000 529 350 679 350
+Arsresuttat 005870385587 035
+Egenkapital 31.12.2025 0005800001 066385 1216 385
+Side 2
+
+Marlo AS
+Org.nr: 889 556 692
+Noter til regnskapet for 2025
+Note 5 - Datterselskap, tilknyttet selskap m v
+Konsernregnskapet inngar i konsolideringen til morselskapet
+Navn pa morselskap Forretningskontor
+Marlo AS Tryms vei 6 1445 HEER 0215 Frogn
+Eier- Gjeld
+Selskap andel pr. 31.12.25
+Marlo Consult LDA 52% 262 697
+Note 6 - Aksjer i andre selskaper
+Selskap Bokfgrt verdi
+Mixmove AS 1 583 978
+Note 7 - Fordringer og gjeld
+Langsiktig gjeld med forfall senere enn 5 ar 2025 2024
+Factoringgjeld til Svea NUF 505 235 503 247
+Side 3

@@ -1,0 +1,577 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 598023
+Virksomheten
+Organisasjonsnummer : 932 089 343
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: ALEKSANDER FISKERISELSKAP AS
+Forretningsadresse: Laukhellaveien 154
+9303 SILSAND
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Arnstein Voll
+Dato for fastsettelse av arsregnskapet: 24.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 29.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 932 089 343
+
+ALEKSANDER FISKERISELSKAP AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 256 585 353 334
+
+Annen driftsinntekt 25 000 12 500
+
+Sum inntekter 281 585 365 $34
+
+Kostnader
+
+Varekostnad 68 216 33 543
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 210 867 167 487
+
+Annen driftskostnad 324 453 140 499
+
+Sum kostnader 603 535 341 529
+
+Driftsresultat -321 950 24 306
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 12 054 20 787
+
+Sum finansinntekter 12 054 20 787
+
+Annen rentekostnad 119 766 121 253
+
+Sum finanskostnader 119 766 121 253
+
+Netto finans -107 712 -100 466
+
+Resultat fer skattekostnad -429 662 -76 160
+
+Skattekostnad 4
+
+Arsresultat -429 662 -76 160
+
+Totalresultat -429 662 -76 160
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 5 -429 662 -76 160
+
+Sum overferinger og
+
+disponeringer -429 662 -76 160
+Utskriftsdato 29.06.2026 Organisasjonsnr 932 089 343 Side 1 av 3
+
+Organisasjonsnr: 932 089 343
+
+ALEKSANDER FISKERISELSKAP AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Maskiner og anlegg 3 76 437 102 644
+
+Skip, rigger, fly og
+
+lignende 3 2 324 651 2 455 005
+
+Driftslesere, inventar,
+
+verktey, kontormaskiner
+
+og lignende 3 97 685 151 991
+
+Sum varige driftsmidler 2 498 773 2 709 640
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 2 498 773 2 709 640
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre fordringer 51 023 45 355
+
+Sum fordringer 51 023 45 355
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 62 322 174 665
+
+Sum bankinnskudd,
+
+kontanter og lignende 62 322 174 665
+
+Sum omlepsmidler 113 346 220 020
+
+SUM ELENDELER 2 612 119 2 929 660
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 5,6 50 000 50 000
+Utskriftsdato 29.06.2026 Organisasjonsnr 932 089 343 Side 2 av 3
+
+Annen innskutt egenkapital 0 0
+
+Sum innskutt egenkapital 50 000 50 000
+
+Opptjent egenkapital
+
+Udekket tap 5 566 958 137 296
+
+Sum opptjent egenkapital -566 958 -137 296
+
+Sum egenkapital -516 958 -87 296
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 7 3 113 905 2 994 139
+
+Sum annen langsiktig gjeld 3 113 905 2 994 139
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 15 172 22 817
+
+Sum kortsiktig gjeld 15 172 22 817
+
+Sum gjeld 3 129 077 3 016 956
+
+SUM EGENKAPITAL OG GJELD 2 612 119 2 929 660
+Utskriftsdato 29.06.2026 Organisasjonsnr 932 089 343 Side 3 av 3
+
+Organisasjonsnr: 932 089 343
+
+ALEKSANDER FISKERISELSKAP AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven 1998. Det er
+utarbeidet etter norske regnskapsstandarder. I utgangspunktet er det
+reglene for regnskapsoppstilling for sma foretak som er
+
+benyttet.
+
+Hovedregel for vurdering og klassifisering av eiendeler og
+
+gjeld.
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som
+anleggsmidler. Andre eiendeler er klassifisert som omle@psmidler. Fordringer
+som skal tilbakebetales innen et ar er uansett klassifisert som
+omlepsmidler. Ved klassifiseringen av kortsiktig og langsiktig gjeld er
+analoge kriterier lagt til grunn.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet
+forventes ikke a vere forbigaende. Anleggsmidler med begrenset skonomisk
+levetid avskrives planmessig. Langsiktig gjeld balansefores til nominelt
+mottatt belep pa etableringstidspunktet. Langsiktig gjeld oppskrives ikke
+til virkelig verdi som felge av renteendring.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt mottatt belgep pa etableringstidspunktet.
+Kortsiktig gjeld oppskrives ikke til virkelig verdi som falge av
+renteendring. Enkelte poster er vurdert etter andre regler, og redegjores
+for nedenfor.
+
+Inntektsfoering
+
+Inntektsfering ved salg av varer skjer pa
+
+leveringstidspunktet. Tjenester inntektsferes i takt med utferelsen.
+Andelen av salgsinntekter som knytter seg til fremtidige serviceytelser,
+balansefores som uopptjent inntekt ved salget og inntektsfores deretter 1
+takt med levering av ytelsene.
+
+Varige driftsmidler
+
+Varige driftsmidler
+
+avskrives over forventet ekonomisk levetid. Avskrivningene er som
+hovedregel fordelt lineert over antatt okonomisk
+
+levetid.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppferes til
+
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap
+gj@res pa grunnlag av en individuell vurdering av de enkelte fordringene. I
+tillegg gj@res det for @vrige kundefordringer en uspesifisert avsetning for
+a dekke antatt tap.
+
+Skatter
+
+Skatter kostnadsfores nar de paleper, det vil
+
+si at skattekostnaden er knyttet til det regnskapsmessige resultat for
+skatt.
+
+Skattekostnaden bestar av betalbar skatt (skatt pa arets
+skattepliktige inntekt) og endring i netto utsatt skatt. Skattekostnaden
+fordeles pa ordinert resultat og resultat av ekstraordinere poster i
+henhold til skattegrunnlaget. Utsatt skattefordel bokfores ikke i
+balansen.
+
+Selskapet driver fiskerivirksomhet og drives fra Senja kommune.
+Note
+
+1
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Spesifisering av resultatregnskapet
+
+Lennkostnader
+
+Note
+
+3
+
+Lan og sikkerhetsstillelse til medlemmer
+
+Opplysninger om: Medlemmer av:
+
+Mer om lan og sikkerhetsstillelse
+
+____ fesoppsiorsrapport SCE
+BankID Qualified Signature
+Soo oa be Oksander
+Aleksander Fiskeriselskap AS
+2025
+Utarbeidet av: Kelmer AS Org.nr: 988573108
+——”—~=<C*“‘(;””””*«CeK Sander FiskeriselskapAS  Org.nmr. 932089343  .
+
+Resultatregnskap Podetsen Roger
+BankID Qualified Signature
+e e Pedersen, Aleksander
+Aleksander Fiskeriselskap AS 2026-06-26
+Note 2025 2024
+Salgsinntekter 256 585 353 334
+Andre driftsinntekter 25 000 12 500
+Sum driftsinntekter 281 585 365 834
+Varekostnad 68 216 33 543
+Avskrivning varige driftsmidler 3 210 867 167 487
+Annen driftskostnad 324 453 140 499
+Sum driftskostnad 603 535 341 529
+Driftsresultat -321 950 24 306
+Annen renteinntekt 12 054 20 787
+Sum finansinntekter 12 054 20 787
+Annen rentekostnad 119 766 121 253
+Sum finanskostnader 119 766 121 253
+Sum netto finansposter -107 712 -100 466
+Ordinzrt resultat for skattekostnad =-429 662 -76 160
+Skattekostnad pa ordinzrt resultat 4 0 0
+Ordinzrt resultat -429 662 -76 160
+Arsresultat -429 662 -76 160
+Overfort til udekKet tap 5 -429 662 -76 160
+Sum disponert -429 662 -76 160
+Aleksander Fiskeriselskap AS Org. nr. 932089343
+
+OC  Balanse © BankID Qualified Signature
+Ped Ri
+alanse Pedersen, Roger
+BankID Qualified Signature
+e e Pedersen, Aleksander
+Aleksander Fiskeriselskap AS 2026-06-26
+
+Note 2025 2024
+Eiendeler
+Anleggsmidler
+Varige driftsmidler
+Maskiner og anlegg 3 16 437 102 644
+Skip,rigger,fly o.1. 3 2 324 651 2 455 005
+Driftslosore, inventar, verktey o.1. 3 97 685 151 991
+Sum varige driftsmidler 2 498 773 2 109 640
+Sum anleggsmidler 2 498 773 2 109 640
+Omlepsmidler
+Fordringer
+Andre fordringer §1 023 45 355
+Sum fordringer 51 023 45 355
+Bankinnskudd,kontanter o.1. 62 322 174 665
+Sum omlepsmidler 113 346 220 020
+Sum eiendeler 2612119 2 929 660
+
+Aleksander Fiskeriselskap AS Org. nr. 932089343
+
+Bal BankID Qualified Signature
+Ped Ri
+alanse Pedersen, Roger
+BankID Qualified Signature
+e e Pedersen, Aleksander
+Aleksander Fiskeriselskap AS 2026-06-26
+Note 2025 2024
+Egenkapital og gjeld
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 5,6 50 000 50 000
+Sum innskutt egenkapital 50 000 50 000
+Opptjent egenkapital
+Udekket tap 5 -566 958 -137 296
+Sum opptjent egenkapital -566 958 -137 296
+Sum egenkapital -516 958 -87 296
+Gjeld
+Langsiktig gjeld
+@vrig langsiktig gjeld 7 3 113 905 2994 139
+Sum annen langsiktig gjeld 3 113 905 2 994 139
+Kortsiktig gjeld
+Leverandergjeld 15 172 22 817
+Sum kortsiktig gjeld 15 172 22 817
+Sum gjeld 3129 077 3 016 956
+Sum egenkapital og gjeld 2612119 2 929 660
+Finnsnes, 24.06.2026
+Aleksander Fiskeriselskap AS
+Aleksander Pedersen Roger Pedersen
+Styrets leder/Daglig leder Styremedlem
+Aleksander Fiskeriselskap AS Org. nr. 932089343
+
+BankID Qualified Signature
+Pedersen, Roger
+2026-06-24
+BankID Qualified Signature
+Pedersen, Aleksander
+ar 2026-06-26
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven 1998. Det er utarbeidet etter norske regnskapsstandarder. |
+
+utgangspunktet er det reglene for regnskapsoppsiilling for sma foretak som er benyttet.
+
+Hovedregel for vurdering og Klassifisering av eiendeler og gjeld.
+
+Eiendeler bestemt til varig eie eller bruk er Klassifisert som anleggsmidier. Andre eiendeler er Klassifisert som
+
+omlgpsmidier. Fordringer som skal tilbakebetales innen et ar er uansett klassifisert som omlapsmidier. Ved
+
+Klassifiseringen av kortsiktig og langsiktig gjeld er analoge kriterier lagt til grunn.
+
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet forventes ikke a veere
+
+forbigaende. Anleggsmidler med begrenset ekonomisk levetid avskrives planmessig. Langsiktig gjeld balanseferes til
+
+nominelt mottatt belop pa etableringstidspunktet. Langsiktig gjeld oppskrives ikke til virkelig verdi som felge av
+
+renteendring.
+
+Omlepsmidier vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt mottatt
+
+belap pa etableringstidspunktet. Kortsiktig gield oppskrives ikke til virkelig verdi som felge av renteendring. Enkelte
+
+poster er vurdert etter andre regler, og redegjores for nedenfor.
+
+Inntektsfaring
+
+Inntektsfaring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfares i takt med utferelsen. Andelen av
+
+salgsinntekter som knytter seg til fremtidige serviceytelser, balanseferes som uopptient inntekt ved salget og
+
+inntektsferes deretter i takt med levering av ytelsene.
+
+Varige driftsmidler
+
+Varige driftsmidler avskrives over forventet a@konomisk levetid. Avskrivningene er som hovedregel fordelt linezert over
+
+antatt @konomisk levetid.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppfares til palydende etter fradrag for avsetning til forventet tap. Avsetning til tap
+
+gja@res pa grunnlag av en individuell vurdering av de enkelte fordringene. | tillegg gjares det for avrige kundefordringer
+
+en uspesifisert avsetning for 4 dekke antatt tap.
+
+Skatter
+
+Skatter kosinadsfares nar de palaper, det vil si at skattekostnaden er knyttet til det regnskapsmessige resultat for skatt.
+
+Skattekostnaden bestar av betalbar skatt (skatt pa arets skattepliktige inntekt) og endring i netto utsatt skatt.
+
+Skattekostnaden fordeles pa ordinzert resultat og resultat av ekstraordinzere poster i henhold til skattegrunnlaget. Utsatt
+
+skattefordel bokfares ikke i balansen.
+
+Selskapet driver fiskerivirksomhet og drives fra Senja kommune.
+
+0) BankID Qualified Signature
+Pedersen, Roger
+yy 2026-06-24
+BankID Qualified Signature
+Pedersen, Aleksander
+2026-06-26
+Note 1 Arsverk, lenn og ytelser
+Antall arsverk i regnskapsaret: 0
+Note 2 Lan/sikkerhet ledende
+Det er ikke gitt lan eller sikkerhetsstillelse til ledende personer, aksjeeiere m.v
+Note 3 Varige driftsmidler
+Skip Maskiner og Sum
+anlegg
+Anskaffelseskost 01.01. 2 607 085 293 951 2 901 036
+Akk. av- og nedskrivninger 31.12. 282 434 119 829 402 263
+Regnskapsmessig verdi 2 324 651 174 121 2 498 772
+Arets avskrivninger 130 354 80 512 210 866
+@konomisk levetid 20 ar 5 ar
+Avskrivningsplan 5% 20%
+Note 4 Skatt
+Arets skattekostnad fremkommer slik
+2025 2024
+Beregning av skattepliktig inntekt
+2025 2024
+Resultat for skatter -429 662 -76 160
+Endringer midlertidige forskjeller -104 832 -205 155
+Arets skattegrunnlag -534 494 -281 315
+Skyldig betalbar skatt 0 0
+Spesifikasjoner av grunnlag utsatt skatt
+Forskjeller som utlignes
+2025 2024 Endring
+Anleggsmidler 677 276 572 444 104 832
+Fremferbart underskudd -1 244 234 -709 740 -534 494
+Sum -566 958 -137 296 -429 662
+Utsatt skatt (+) / utsatt skattefordel {-) -124 731 -30 205 -94 526
+Utsatt skatt balansefort 0 0 0
+
+BankID Qualified Signature
+Pedersen, Roger
+2026-06-24
+BankID Qualified Signature
+Pedersen, Aleksander
+2026-06-26
+Note 5 Egenkapital
+Aksjekapital Udekket tap Sum
+Egenkapital 01.01. 50 000 -137 296 -87 296
+Arets resultat 0 -429 662 -429 662
+Egenkapital 31.12. 50 000 -566 958 -516 958
+Arsregnskapet er avlagt under forutsetning av fortsatt drift.
+Resultatregnskapet viser et underskudd pa kr 429 662, og en egenkapital pa kr -516 958. Hele
+egenkapitalen er tapt. Hovedarsaken til det negative resultatet er faeerre dogn i fiske enn planlagt,
+samtidig som selskapet ble belastet med hoye vedlikeholdskostnader pa baten. Det planlegges langt
+flere dogn i fiske 1 2026 enn 12025, og det forventes at selskapet skal levere overskudd allerede 1
+2026. Selskapets eneste kreditor er R-P Invest AS, og de garanterer for at selskapet klarer a gjore opp
+sine forpliktelser.
+Note 6 Aksjekapital og aksjonzerinformasjon
+Aksjekapitalen i selskapet pr 31.12 bestar av:
+Antall Palydende Balansefert
+Aksjer 50 1 000 50 000
+Eierstruktur
+De storste aksjonzerene i selskapet pr. 31.12 var:
+Antall Eierandel Stemmeandel
+Aleksander Pedersen 50 100,00% 100,00%
+Note 7 Langsiktig gjeld
+Selskapet har felgende langsiktig gjeld:
+R-P Invest AS kr 3 113 905
+Lanet er langsiktig, og renteberegnes med 4%.

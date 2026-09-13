@@ -1,0 +1,550 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 581933
+Virksomheten
+Organisasjonsnummer : 986 308 970
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: GURIASEN AS
+Forretningsadresse: Gamle Kirkeplass 7
+3019 DRAMMEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Torkel Knudsen
+Dato for fastsettelse av arsregnskapet: 22.06.2026
+Revis jon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 14.07.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 986 308 970
+
+GURIASEN AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Avkastning pa
+
+finansinvesteringer 2 3 184 320 8 310 560
+
+Annen driftsinntekt 43 500
+
+Sum inntekter 3 184 320 8 354 060
+
+Kostnader
+
+Lennskostnad 3 145 510 148 330
+
+Negativ avkastning pa
+
+finansinvesteringer 2
+
+Annen driftskostnad 1 109 594 1 108 O17
+
+Sum kostnader 1 255 104 1 256 347
+
+Driftsresultat 1 929 215 7 O97 714
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 1 361 741 1197 684
+
+Sum finansinntekter 1 361 741 1197 684
+
+Annen rentekostnad 515 197 714 140
+
+Annen finanskostnad 8 719 820
+
+Sum finanskostnader 9 235 O17 714 140
+
+Netto finans -7 873 277 483 544
+
+Resultat fer skattekostnad -5 944 062 7 581 257
+
+Skattekostnad pa resultat 4
+
+Arsresultat -5 944 062 7 581 257
+
+Arsresultat etter
+
+minoritetsinteresser -5 944 062 7 581 257
+
+Totalresultat -5 944 062 7 581 257
+
+Overferinger og
+
+disponeringer
+
+Avsatt til annen
+
+egenkapital 7 581 257
+
+Overfert fra annen
+
+egenkapital -5 944 062
+
+Sum overferinger og
+
+disponeringer 5 -5 944 062 7 581 257
+Utskriftsdato 14.07.2026 Organisasjonsnr 986 308 970 Side 1 av 3
+
+Organisasjonsnr: 986 308 970
+
+GURIASEN AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 6 15 850 152 15 850 152
+
+Sum varige driftsmidler 15 850 152 15 850 152
+
+Finansielle anleggsmidler
+
+Andre langsiktige
+
+fordringer 7 12 428 674 22 322 640
+
+Sum finansielle
+
+anleggsmidler 12 428 674 22 322 640
+
+Sum anleggsmidler 28 278 826 38 172 792
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 284 887 31 232
+
+Andre kortsiktige
+
+fordringer 87 645
+
+Sum fordringer 284 887 118 877
+
+Investeringer
+
+Omlepsaksjer og -aksjefond 8 58 311 830 56 906 906
+
+Andeler i deltakerligende
+
+selskaper 8 282 379 493 648
+
+Obligasjoner og
+
+pengemarkedsfond 8 3 187 353 4 781 011
+
+Andre finansielle
+
+instrumenter 8 2 193 159 2 193 159
+
+Sum investeringer 63 974 721 64 374 724
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 1 503 O17 1 738 745
+
+Sum bankinnskudd,
+
+kontanter og lignende 1 503 017 1 738 745
+
+Sum omlepsmidler 65 762 625 66 232 346
+
+SUM ELENDELER 94 041 451 104 405 138
+Utskriftsdato 14.07.2026 Organisasjonsnr 986 308 970 Side 2 av 3
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 27 864 259 27 864 259
+
+Annen innskutt egenkapital 3 000 000 3 000 000
+
+Sum innskutt egenkapital 30 864 259 30 864 259
+
+Opptjent egenkapital
+
+Annen egenkapital 54 515 811 60 459 872
+
+Sum opptjent egenkapital 54 515 811 60 459 872
+
+Sum egenkapital 5 85 380 070 91 324 131
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 7 8 317 348 12 687 849
+
+Sum annen langsiktig gjeld 8 317 348 12 687 849
+
+Sum langsiktig gjeld 8 317 348 12 687 849
+
+Kortsiktig gjeld
+
+Leverandergjeld 5 297 21 656
+
+Betalbar skatt 4
+
+Annen kortsiktig gjeld 338 737 371 502
+
+Sum kortsiktig gjeld 344 033 393 158
+
+Sum gjeld 8 661 381 13 081 007
+
+SUM EGENKAPITAL OG GJELD 94 041 451 104 405 138
+Utskriftsdato 14.07.2026 Organisasjonsnr 986 308 970 Side 3 av 3
+
+Organisasjonsnr: 986 308 970
+
+GURIASEN AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+BankID Qualified Signature
+) Holm, Gerhard
+2026-06-18
+BankID Qualified Signature
+(ay Wiman, Jenny Kristina
+2026-06-18
+BankID Qualified Signature
+) Wiman, Klaus Fredrik
+2026-06-18
+BankID Qualified Signature
+Thorkildsen, Per Helmer
+re) 2026-06-19
+BankID Qualified Signature
+Arsregnska 5 O eae
+2026-06-19
+Guriasen AS
+org. nr. 986 308 970
+Utarbeidet av Formue Accounting AS
+
+Guriasen AS
+RESULTATREGNSKAP 01.01. - 31.12.
+
+Note 2025 2024
+DRIFTSINNTEKTER
+Avkastning pa finansinvesteringer 2 3 184 320 8 310560
+Annen driftsinntekt 0 43 500
+SUM DRIFTSINNTEKT 3 184 320 8 354 060
+DRIFTSKOSTNADER
+Lgnnskostnad 3 (145 510) (148 330)
+Annen driftskostnad (1 109 594) (1 108 017)
+SUM DRIFTSKOSTNAD (1 255 104) (1 256 347)
+DRIFTSRESULTAT 1929 215 7 097 714
+FINANSPOSTER
+Annen renteinntekt 1361 741 1 197 684
+Annen rentekostnad (S15 197) (714 140)
+Annen finanskostnad (8 719 820) 0
+SUM FINANSPOSTER (7 873 277) 483 544
+ORDINART RESULTAT FOR SKATTEKOSTNAD (5 944 062) 7 581 257
+Skattekostnad pa resultat 4 0 0
+ARSRESULTAT (5 944 062) 7 581 257
+DISPONERING (DEKNING) AV ARSRESULTATET
+Avsatt til annen egenkapital ) 7 581 257
+Overfgrt fra annen egenkapital (S 944 062) 0
+SUM DISPONERT (DEKKET) 5 (5 944 062) 7 581 257
+
+Guriasen AS
+BALANSE PR. 31.12.
+
+Note 2025 2024
+EIENDELER
+ANLEGGSMIDLER
+Varige driftsmidler
+Tomter, bygninger og annen fast eiendom 6 15 850 152 15 850 152
+Sum varige driftsmidler 15 850 152 15 850 152
+Finansielle anleggsmidler
+Andre langsiktige fordringer 7 12 428 674 22 322 640
+Sum finansielle anleggsmidler 12 428 674 22 322 640
+SUM ANLEGGSMIDLER 28 278 826 38 172 792
+OML@PSMIDLER
+Fordringer
+Kundefordringer 284 887 31 232
+Andre kortsiktige fordringer 0 87 645
+Sum fordringer 284 887 118 877
+Finansielle oml@psmidler
+Oml@psaksjer og -aksjefond 8 58 311 830 56 906 906
+Andeler i deltakerligende selskaper 8 282 379 493 648
+Obligasjoner og pengemarkedsfond 8 3 187 353 4781011
+Andre finansielle instrumenter 8 2 193 159 2 193 159
+Sum finansielle oml¢@psmidler 63 974721 64 374 724
+Bankinnskudd, kontanter o.1. 1 503 017 1 738 745
+SUM OML@PSMIDLER 65 762 625 66 232 346
+SUM EIENDELER 94041451 104405 138
+
+Guriasen AS
+BALANSE PR. 31.12.
+Note 2025 2024
+EGENKAPITAL OG GJELD
+EGENKAPITAL
+Innskutt egenkapital
+Aksjekapital 27 864 259 27 864 259
+Annen innskutt egenkapital 3 000 000 3 000 000
+Sum innskutt egenkapital 30 864 259 30 864 259
+Opptjent egenkapital
+Annen egenkapital 54515 811 60 459 872
+Sum opptjent egenkapital 54 515 811 60 459 872
+SUM EGENKAPITAL 5 85 380 070 91 324 131
+GJELD
+Annen langsiktig gjeld
+Ovrig langsiktig gjeld 7 8 317 348 12 687 849
+Sum annen langsiktig gjeld 8 317 348 12 687 849
+Kortsiktig gjeld
+Leverandgrgjeld 5 297 21656
+Annen kortsiktig gjeld 338 737 371 502
+Sum kortsiktig gjeld 344 033 393 158
+SUM GJELD 8 661 381 13 081 007
+SUM EGENKAPITAL OG GJELD 94041451 104 405 138
+Oslo, 16.06.2026
+Gerhard Holm Klaus Fredrik Wiman Per Helmer Thorkildsen
+Styrets leder Styremedlem Styremedlem
+Jenny Kristina Wiman Torkel Knudsen
+Styremedlem daglig leder
+
+Guriasen AS
+
+NOTER TIL ARSREGNSKAPET 2025
+REGNSKAPSPRINSIPPER
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som omlgpsmidler. Fordringer som skal tilbakebetales innen ett ar, er uansett
+klassifisert som oml@psmidler. Ved klassifisering av kortsiktig og langsiktig gjeld er tilsvarende
+kriterier lagt til grunn.
+Anleggsmidler
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet
+forventes ikke a vere forbigaende. Nedskrivingen reverseres nar grunnlaget for nedskrivingen ikke
+lenger er til stede. Anleggsmidler med begrenset ¢konomisk levetid avskrives planmessig.
+Langsiktig gjeld balansefgres til nominelt mottatt beldp pa etableringstidspunktet.
+Omlg@psmidler
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansef¢res til nominelt mottatt beldép pa etableringstidspunktet.
+Investeringer i aksjer, andeler og andre finansielle instrumenter
+Kortsiktige plasseringer (aksjer, andeler mv. vurdert som oml@psmidler) vurderes til laveste av
+anskaffelseskost og virkelig verdi pa balansedagen. For verdipapirer som er en del av en
+veldiversifisert portefalje med innslag av ulike aktivaklasser der portefgljen forvaltes samlet med
+hensyn pa risiko og avkastning, benyttes laveste verdis prinsipp samlet for portefgljen.
+Inntektsfgring av avkastning pa investeringer
+Avkastning pa investering i aksjer, andeler og andre finansielle instrumenter, samt mottatt utbytte
+og andre utdelinger, inngar i avkastning pa finansinvesteringer under driftsinntekter. Avkastning
+inkluderer bade realiserte og urealiserte resultatfgrte beldp, renter pa obligasjoner og
+pengemarkedsfond og valutaendringer knyttet til investeringer. Negativ avkastning (resultatfgrte
+tap og nedskriving) kommer til fradrag. Netto negativ avkastning inngar i negativ avkastning pa
+finansinvesteringer under driftskostnader.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt/skattefordel er beregnet med 22% pa grunnlag av de midlertidige forskjeller
+som eksisterer mellom regnskapsmessige og skattemessige verdier. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode er
+utlignet. Utsatt skattefordel er i samsvar med god regnskapsskikk for sma foretak unnlatt
+balansefgrt.
+
+Guriasen AS
+
+NOTER TIL ARSREGNSKAPET 2025
+NOTE 1 VIRKSOMHETEN
+Selskapets virksomhet er forvaltning av finansielle eiendeler, eiendom samt investering i unoterte
+selskaper. Selskapets hovedkontor er i Drammen.
+NOTE 2 SAMMENSLATTE POSTER
+Positiv / Negativ avkastning finansinvesteringer 2025 2024
+Mottatt utbytte / renter obligasjoner og pengemarkedsfond 0 2 562 820
+Realisert gevinst / tap finansinvesteringer 3 184 320 5 747 740
+Sum 3 184 320 8 310 560
+NOTE 3 LONNSKOSTNADER, GODTGJ@RELSER MM
+Lénnskostnader 2025 2024
+Lénninger 107 180 130 705
+Arbeidsgiveravgift 18 330 17 625
+Andre ytelser 20 000 0
+Sum 145 510 148 330
+Selskapet har i 2025 sysselsatt O arsverk.
+
+Guriasen AS
+NOTER TIL ARSREGNSKAPET 2025
+
+NOTE 4 SKATT
+Arets skattekostnad 2025 2024
+Resultatfgrt skatt pa ordinzert resultat:
+Betalbar skatt 0 0
+Endring i utsatt skattefordel 0 0
+Skattekostnad ordinzert resultat 0 0
+Skattepliktig inntekt:
+Resultat for skatt -5 944 062 7 581 257
+Permanente forskjeller 5 673 999 -7 593 230
+Endring i midlertidige forskjeller -17 338 -65 173
+Skattepliktig inntekt -287 400 -77:145
+Betalbar skatt i balansen:
+Betalbar skatt pa arets resultat 0 0
+Sum betalbar skatt i balansen 0 0
+Skatteeffekten av midlertidige forskjeller og underskudd til fremf@ring som har gitt opphav til
+utsatt skatt og utsatte skattefordeler, spesifisert pa typer av midlertidige forskjeller
+
+2025 2024 Endring
+Gevinst — og tapskonto -69 352 -86 690 -17 338
+Sum -69 352 -86 690 -17 338
+Andeler -2 796 444 -3 162 118 -365 674
+Akkumulert fremfg¢rbart underskudd -7 064 669 -6 777 269 287 400
+Inngar ikke i beregningen av utsatt skatt 9 930 465 10 026 077 95 611
+Utsatt skattefordel (22 %) 0 0 0
+| henhold til God regnskapsskikk for sma foretak balansefgres ikke utsatt skattefordel.
+
+Guriasen AS
+NOTER TIL ARSREGNSKAPET 2025
+NOTE 5 EGENKAPITAL
+Annen innskutt Annen Sum
+Egenkapital Aksjekapital egenkapital egenkapital egenkapital
+01.01.2025 27 864 259 3 000 000 60 459 872 91 324 131
+Arets resultat 0 0 -5 944 062 -5 944 062
+31.12.2025 27 864 259 3 000 000 54515 811 85 380 070
+NOTE 6 VARIGE DRIFTSMIDLER
+Tomter Sum
+Anskaffelseskost pr. 01.01.25 15 850 152 15 850 152
+= Anskaffelseskost 31.12.25 15 850 152 15 850 152
+= Bokfort verdi 31.12.25 15 850 152 15 850 152
+Selskapet eier kun ubebygde, ikke avskrivbare tomter
+NOTE 7 FORDRINGER OG GJELD
+2025 2024
+Fordringer med forfall senere enn ett ar
+Andre langsiktige fordringer 12428674 22322 640
+Sum 12428674 22322 640
+Langsiktig gjeld med forfall senere enn 5 ar
+Annen langsiktig gjeld 8317348 12687 849
+Sum 8317348 12687 849
+Andre langisktige fordringer bestar av to lan med saldo inkl akkumulerte renter pr 31.12.2025 pa hhv kr
+8 719 821, laneopptak i 2022, og kr 12 428 673 med laneopptak i 2024. Begge lanene er avdragsfrie i 10 ar
+etter utbetaling. Lanet pa kr 8 719 821 er regnskapsmessig nedskrevet til kr 1 pr 31.12.2025.
+Langsiktig gjeld bestar av gjeld til aksjonzer. Gjelden renteberegnes med den til enhver tids gjeldende
+skjermingsrente.
+
+Guriasen AS
+NOTER TIL ARSREGNSKAPET 2025
+NOTE 8 INVESTERINGER I AKSJER, ANDELER OG ANDRE FINANSIELLE INSTRUMENTER
+Balansefort Virkelig
+
+Anskaffelses verdi verdi Uinnkalt
+Investeringer kost 31.12.2025 31.12.2025 ansvar*)
+Oml@psaksjer og -aksjefond 58 311 830 58 311830 80021 720 7 472 235
+Andeler i deltakerlignede selskaper 282 379 282 379 400 876 893 225
+Obligasjoner og pengemarkedsfond 3 187 353 3187353 12816 887 0
+Andre finansielle instrumenter 2 193 159 2 193 159 8 064 404 0
+Sum 63 974721 63974721 101 303 887 8 365 460
+*) Uinnkalt ansvar er pa tidspunktet for avleggelse av regnskapet.
+
+BDO AS
+Bygdoy allée 2
+IS Postboks 1704 Vika
+0121 Oslo
+Til generalforsamlingen i Guriasen AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet til Guriasen AS.
+Arsregnskapet bestar av: Etter var mening:
+e Balanse per 31. desember e Oppfyller arsregnskapet gjeldende lovkrav, og
+2025 e Gir arsregnskapet et rettvisende bilde av
+e Resultatregnskap for 2025 selskapets finansielle stilling per 31. desember
+e Noter til arsregnskapet, 2025 og av dets resultater for regnskapsaret
+herunder et sammendrag av avsluttet per denne datoen i samsvar med
+viktige regnskapsprinsipper. regnskapslovens regler og god regnskapsskikk i
+Norge. ~
+A
+3
+is
+es
+Grunnlag for konklusjonen =
+Vi har gjennomfert revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare =
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver =
+og plikter ved revisjonen av arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i *
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants <
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board e
+for Accountants (IESBA-reglene), og vi har overholdt vare avrige etiske forpliktelser i samsvar med s
+disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som *
+grunnlag for var konklusjon. =
+&
+g
+Ledelsens ansvar for arsregnskapet é
+ca k= a 3
+Styret og daglig leder (ledelsen) er ansvarlig for a utarbeide arsregnskapet og for at det gir et a
+rettvisende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er S
+ogsa ansvarlig for slik intern kontroll som den finner nedvendig for a kunne utarbeide et arsregnskap &
+som ikke inneholder vesentlig feilinformasjon, verken som falge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift
+og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er 4 oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder
+vesentlig feilinformasjon, verken som folge av misligheter eller utilsiktede feil, og a avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hey grad av
+sikkerhet, men ingen garanti for at en revisjon utfort i samsvar med ISA-ene, alltid vil avdekke
+vesentlig feilinformasjon. Feilinformasjon kan oppsta som falge av misligheter eller utilsiktede feil.
+Feilinformasjon er a anse som vesentlig dersom den enkeltvis eller samlet med rimelighet kan
+forventes a pavirke de gkonomiske beslutningene som brukerne foretar pa grunnlag av
+arsregnskapet.
+BDO AS, et norsk aksjeselskap, er deltaker 1 BDO International Limited, et engelsk selskap med begrenset ansvar, og er en del av
+det internasjonale nettverket BDO, som bestar av uavhengige selskaper i de enkelte land. Foretaksregisteret: NO 993 606 650 MYA. side 1 av 2

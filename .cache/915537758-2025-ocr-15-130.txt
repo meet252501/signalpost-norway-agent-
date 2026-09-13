@@ -1,0 +1,599 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 506985
+Virksomheten
+Organisasjonsnummer : 915 537 758
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: CROSSEYE AS
+Forretningsadresse: c/o Thomas Reitan
+Mostargata 130
+7300 ORKANGER
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Grethe Sterseth
+Dato for fastsettelse av Aarsregnskapet: 28.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 915 537 758
+
+CROSSEYE AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 14 325 13 481
+
+Sum kostnader 14 325 13 481
+
+Driftsresultat -14 325 -13 481
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 0 0
+
+Resultat fer skattekostnad -14 325 -13 481
+
+Arsresultat -14 325 -13 481
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -14 325 -13 481
+Utskriftsdato 02.06.2026 Organisasjonsnr 915 537 758 Side 1 av 3
+
+Organisasjonsnr: 915 537 758
+
+CROSSEYE AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 1 400 000 400 000
+
+Lan til tilknyttet
+
+selskap og felles
+
+kontrollert virksomhet 1, 2 35 000 35 000
+
+Sum finansielle
+
+anleggsmidler 435 000 435 000
+
+Sum anleggsmidler 435 000 435 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 230 0
+
+Sum bankinnskudd,
+
+kontanter og lignende 230 0
+
+Sum omlepsmidler 230 0
+
+SUM ELENDELER 435 230 435 000
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Annen innskutt egenkapital -5 666 -5 666
+
+Sum innskutt egenkapital 24 334 24 334
+Utskriftsdato 02.06.2026 Organisasjonsnr 915 537 758 Side 2 av 3
+
+Opptjent egenkapital
+
+Udekket tap 103 864 89 539
+
+Sum opptjent egenkapital -103 864 -89 539
+
+Sum egenkapital -79 530 -65 205
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 486 954 486 724
+
+Sum annen langsiktig gjeld 486 954 486 724
+
+Kortsiktig gjeld
+
+Leverandergjeld 27 806 13 481
+
+Sum kortsiktig gjeld 27 806 13 481
+
+Sum gjeld 514 760 500 205
+
+SUM EGENKAPITAL OG GJELD 435 230 435 000
+Utskriftsdato 02.06.2026 Organisasjonsnr 915 537 758 Side 3 av 3
+
+Organisasjonsnr: 915 537 758
+
+CROSSEYE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Eiendeler som er knyttet til varekretslopet er klassifisert som
+omlepsmidler. Fordringer klassifiseres som omlg@psmidler hvis de forfaller
+til betaling innen ett ar etter transaksjonsdagen. Tilsvarende
+klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar
+etter transaksjonsdagen. Ferste ars avdrag pa langsiktige fordringer og
+langsiktig gjeld klassifiseres likevel ikke som oml@psmiddel og kortsiktig
+gjeld.
+
+Omlepsmidler vurderes til laveste av anskaffelseskost og virkelig
+
+verdi. Kortsiktig gjeld balanseferes til nominelt belap pa
+etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige
+anleggsmidler avskrives etter en fornuftig avskrivningsplan. Anleggsmidlene
+nedskrives til virkelig verdi ved verdifall som ikke forventes a vere
+forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefores
+til nominelt belep pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer
+
+og andre fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning til forventet tap. Avsetning til tap gj@res pa grunnlag av
+individuelle vurderinger av de enkelte fordringene.
+
+Selskapet har ikke
+
+endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+1
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Kons ernregnskap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belep - tilknyttet selskap Arets Fjorarets
+35000.00 35000.00
+Note
+2
+Fordringer
+Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt
+35000.00
+Mer om fordringer
+
+Arsregnskap for
+CROSSEYE AS
+915537758
+Regnskapsar
+01.01.2025 - 31.12.2025
+S
+Ss
+=
+a
+S
+
+CROSSEYE AS
+
+915 537 758
+
+Resultatregnskap
+
+Note 2025 2024
+
+Driftskostnader
+
+Annen driftskostnad -14 325 -13 481
+
+Sum driftskostnader -14 325 -13 481
+
+Driftsresultat -14 325 -13 481
+
+Arsresultat -14 325 -13 481
+
+Overforinger
+
+Udekket tap -14 325 -13 481
+
+Sum overferinger -14 325 -13 481
+ai
+m3
+N
+>
+=
+=
+=
+=
+=
+Nal
+NY
+9
+g
+Lx]
+£
+o
+S
+2
+9
+Q
+9
+Q
+
+CROSSEYE AS
+
+915 537 758
+
+Balanse
+
+Note 31.12.2025 31.12.2024
+
+EIENDELER
+
+Anleggsmidler
+
+Finansielle anleggsmidler
+
+Investeringer i tilknyttet selskap 1 400 000 400 000
+
+Lan til tilknyttet selskap og felles kontrollert virksomhet 1,2 35 000 35 000
+
+Sum finansielle anleggsmidler 435 000 435 000
+
+Sum anleggsmidler 435 000 435 000
+
+Omlgpsmidler
+
+Bankinnskudd, kontanter og lignende
+
+Bankinnskudd, kontanter og lignende 230 0
+
+Sum bankinnskudd, kontanter og lignende 230 0 <
+
+Sum omlgpsmidler 230 0 a
+=
+om
+
+SUM EIENDELER 435 230 435 000 =
+&
++
+=
+S
+4
+3
+=
+=
+=
+‘al
+NY
+2
+$
+Ls]
+§
+o
+E
+2
+je)
+Q
+So
+&
+
+CROSSEYE AS
+
+915 537 758
+
+Balanse
+
+Note 31.12.2025 31.12.2024
+
+EGENKAPITAL OG GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Annen innskutt egenkapital -5 666 -5 666
+
+Sum innskutt egenkapital 24 334 24 334
+
+Opptjent egenkapital
+
+Udekket tap -103 864 -89 539
+
+Sum opptjent egenkapital -103 864 -89 539
+
+Sum egenkapital -79 530 -65 205
+
+Gjeld 5
+
+Annen langsiktig gjeld a
+
+@vrig langsiktig gjeld 486 954 486 724 -
+
+Sum annen langsiktig gjeld 486 954 486 724 >
+oc
+Ly
+
+Kortsiktig gjeld ul
+
+Leverandgrgjeld 27 806 13 481 g
+
+Sum kortsiktig gjeld 27 806 13 481
+=
+
+Sum gjeld 514 760 500 205 s
+=
+
+SUM EGENKAPITAL OG GJELD 435 230 435 000 iS
+oO
+$
+
+ORKANGER, 28.05.2026 E
+bag
+E
+a
+3
+
+Thomas Reitan 2
+
+styrets leder / daglig leder S
+ag
+
+CROSSEYE AS
+915 537 758
+Noter
+Arten av virksomhet og hvor virksomheten drives
+Selskapets virksomhet er utleie, drift og oppfering av eiendom og andre produkter/tjenester som naturlig hgrer
+sammen med dette, herunder a delta i andre selskap med lignende virksomhet, og kjgp og salg av aksjer eller
+pa annen mate gj@re seg interessert i andre foretak. Driften er i Orkland Kommune.
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets! @pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar. Langsiktig gjeld er gjeld som forfaller senere enn ett ar etter transaksjonsdagen. Ferste ars avdrag pa a
+langsiktige fordringer og langsiktig gjeld klassifiseres likevel ikke som oml@psmiddel og kortsiktig gjeld. a
+=
+om
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt =
+belap pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives &
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes ui
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa g
+etableringstidspunktet. =
+=
+Fordringer =
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet ys
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene. S
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025. Es
+bag
+: E
+Antall arsverk 2
+Q
+Selskapet har ikke hatt ansatte i Iopet av regnskapsaret. :
+ag
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+Note 1 - Konsern, tilknyttet selskap m.v.
+Fordringer
+2025 2024
+Samlet belgp som gjelder tilknyttet selskap 35 000 35 000
+Note 2 - Fordringer
+Fordringer som forfaller senere enn ett ar etter regnskapsarets slutt 35 000
+
+Signaturene i dette dokumentet er juridisk bindende. Dokument signert med "Penneo™ - sikker digital
+signatur”. De signerende parter sin identitet er registrert, og er listet nedenfor.
+"Med min signatur bekrefter jeg alle datoer og innholdet i dette dokument.”
+Thomas Reitan Thomas Reitan
+Daglig leder Styreleder
+Serienummer: bankid.no no_bankid:95 78-5 995-4-844993 QES Serienummer: bankid.no no_bankid:9578-5995-4-844993 QES
+IP: 83.223.XXX.XXX IP: 83.223. XXX.XXX
+2026-05-31 12:25:36 UTC 2026-05-31 12:25:36 UTC
+==pankin &% =pankin &
+a
+*
+S
+we
+=
+=
+re
++
+5
+S
+a
+:
+=
+=
+=
+KO
+N
+2
+g
+x
+3
+£
+=
+v
+&
+3
+x
+S)
+Q
+is)
+v
+<
+=
+wv
+ag
+Dette dokumentet er signert digitalt via Penneo.com. De signerte dataene er Slik kan du bekrefte at dokumentet er originalt
+validert ved hjelp av den matematiske hashverdien av det originale dokumentet. Nar du apner dokumentet i Adobe Reader, kan du se at det er sertifisert
+All kryptografisk bevisforing er innebygd i denne PDF-en for fremtidig validering. av Penneo A/S. Dette beviser at innholdet i dokumentet ikke har blitt
+endret siden tidspunktet for signeringen. Bevis for de individuelle
+Dette dokumentet er forseglet med et kvalifisert elektronisk segl. For mer signaterenes digitale signaturer er vedlagt dokumentet.
+informasjon om Penneos kvalifiserte tillitstjenester, se https://eutl.penneo.com.
+Du kan bekrefte de kryptografiske bevisene ved hjelp av Penneos
+validator, https://penneo.com/validator, eller andre
+valideringsverktay for digitale signaturer.
+
+Arsregnskap for
+CROSSEYE AS
+915537758
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+CROSSEYE AS
+915 537 758
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -14 325 -13 481
+Sum driftskostnader -14 325 -13 481
+Driftsresultat -14 325 -13 481
+Arsresultat -14 325 -13 481
+Overforinger
+Udekket tap -14 325 -13 481
+Sum overferinger -14 325 -13 481
+
+CROSSEYE AS
+915 537 758
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investeringer i tilknyttet selskap 1 400 000 400 000
+Lan til tilknyttet selskap og felles kontrollert virksomhet 1,2 35 000 35 000
+Sum finansielle anleggsmidler 435 000 435 000
+Sum anleggsmidler 435 000 435 000
+Omlgpsmidler
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 230 0
+Sum bankinnskudd, kontanter og lignende 230 0
+Sum omlgpsmidler 230 0
+SUM EIENDELER 435 230 435 000

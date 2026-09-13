@@ -1,0 +1,475 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 622499
+Virksomheten
+Organisasjonsnummer : 922 613 095
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: SHTRE HOLDINGS AS
+Forretningsadresse: Persokkrossen 17
+4046 HAFRSFJORD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Geirmund Setre
+Dato for fastsettelse av arsregnskapet: 26.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 922 613 095
+
+SZATRE HOLDINGS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Salgsinntekt 1
+
+Kostnader
+
+Lennskostnad 2
+
+Annen driftskostnad 9 439 9 557
+
+Sum kostnader 9 439 9 557
+
+Driftsresultat -9 439 -9 557
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 5 308
+
+Annen finansinntekt 3 1 719 543
+
+Verdigkning
+
+markedsbaserte omlepsmidler 3 168 709
+
+Sum finansinntekter 1 888 252 5 308
+
+Verdireduksjon
+
+markedsbaserte omlepsmidler 3
+
+Nedskrivning av
+
+finansielle eiendeler 3
+
+Nedskrivning av andre
+
+finansielle anleggsmidler 3
+
+Annen finanskostnad 3
+
+Netto finans 1 888 252 5 308
+
+Resultat for skattekostnad 1 878 814 -4 249
+
+Skattekostnad pa resultat 4 4 347 -935
+
+Arsresultat 1 874 467 -3 314
+
+Arsresultat etter
+
+minoritetsinteresser 1 874 467 -3 314
+
+Totalresultat 1 874 467 -3 314
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 5 1 180 000
+
+Avsatt til annen
+
+egenkapital 5 694 467
+
+Overfert fra annen
+
+egenkapital 5 -3 314
+
+Sum overferinger og
+
+disponeringer 1 874 467 -3 314
+Utskriftsdato 01.07.2026 Organisasjonsnr 922 613 095 Side 1 av 3
+
+Organisasjonsnr: 922 613 095
+
+SZATRE HOLDINGS AS
+
+BALANSE
+
+Belep i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 4 479 4 826
+
+Sum immaterielle eiendeler 479 4 826
+
+Finansielle anleggsmidler
+
+Investering 1 datterselskap 3
+
+Investering i annet
+
+foretak i samme konsern 3
+
+Investeringer 1
+
+tilknyttet selskap 3 5 358 933 6 112 533
+
+Investeringer i aksjer og
+
+andeler 3
+
+Obligasjoner 3
+
+Sum finansielle
+
+anleggsmidler 5 358 933 6 112 533
+
+Sum anleggsmidler 5 359 412 6 117 359
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 66 809
+
+Sum fordringer 66 809
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 3
+
+Markedsbaserte aksjer 3 1 618 210
+
+Markedsbaserte obligasjoner 3
+
+Andre markedsbaserte
+
+finansielle instrumenter 3
+
+Andre finansielle
+
+instrumenter 3
+
+Sum investeringer 1 618 210
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 79 484 178 472
+
+Sum bankinnskudd,
+
+kontanter og lignende 79 484 178 472
+
+Sum omlepsmidler 1 697 694 245 281
+
+SUM ELENDELER 7 057 107 6 362 640
+Utskriftsdato 01.07.2026 Organisasjonsnr 922 613 095 Side 2 av 3
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 5, 6 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+Annen egenkapital 5 7 027 107 6 332 640
+
+Sum opptjent egenkapital 7 027 107 6 332 640
+
+Sum egenkapital 7 O57 107 6 362 640
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 4
+
+Annen langsiktig gjeld
+
+Betalbar skatt 4
+
+Sum gjeld
+
+SUM EGENKAPITAL OG GJELD 7 O57 107 6 362 640
+Utskriftsdato 01.07.2026 Organisasjonsnr 922 613 095 Side 3 av 3
+
+Organisasjonsnr: 922 613 095
+
+SZATRE HOLDINGS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+SELSKAPSDOKUMENTER:
+| ANLEDNING ORDINAER GENERALFORSAMLING
+l
+SATRE HOLDINGS AS
+Doc ID: ae8f0e5e91 7a677f836 1edd283f4eac01 1dbfe57
+
+PROTOKOLL FRA STYREM@TE | SAETRE HOLDINGS AS
+Den 26. juni 2026 ble det avholdt styrem@te i Szetre Holdings AS pa selskapets kontor.
+Deltakende var:
+e Geirmund Sztre, Styreleder
+Styret var dermed beslutningsdyktig. Styrets leder ledet mgtet.
+Det var ingen innvendinger til innkallingen eller dagsordenen. Mgtet ble erklzert for lovlig satt.
+Fglgende saker forela til behandling:
+1. Arsregnskap
+Det ble fremlagt forslag til arsregnskap. Styret vedtok enstemmig forslaget til arsregnskap.
+Det foreslas at selskapets overskudd for aret 2025, NOK 1 874 467, skal disponeres som spesifisert i
+arsregnskapet.
+Styret besluttet a fremlegge arsregnskapet m.v. for generalforsamlingen til godkjenning.
+2. Honorar til styret
+Styret foreslar at det ikke betales godtgjgrelse til styret for ut@velsen av styrevervet for 2025.
+3. Innkalling til generalforsamling
+Styret besluttet enstemmig a innkalle til ordinzer generalforsamling i selskapet for behandling av de
+angitte saker. Generalforsamlingen innkalles til den 26. juni 2026.
+Alle beslutninger var enstemmige.
+Det forela ingen flere saker til behandling. Mgtet ble hevet.
+Stavanger, 26. juni 2026
+Styret i Szetre Holdings AS
+Ceti rrunel Sete
+ Geirmund Szetre
+Styreleder
+Doc ID: ae8f0e5e91 7a677f836 1edd283f4eac01 1dbfe57
+
+PROTOKOLL FRA ORDINAER GENERALFORSAMLING | SATRE HOLDINGS AS
+Den 26. juni 2026 ble det avholdt ordinzer generalforsamling i Sazetre Holdings AS pa selskapets
+kontor.
+Deltakende var:
+a ee
+a a
+Samtlige aksjer og stemmer var representert.
+Fglgende saker ble behandlet:
+1. Apning av generalforsamlingen
+Generalforsamlingen ble apnet av styrets leder.
+2. Valg av m¢teleder
+Geirmund Sztre ble valgt til a lede metet.
+3. Godkjennelse av innkallingen
+Innkallingen ble godkjent.
+4. Valg av representant til a signere protokollen sammen med m¢telederen
+Geirmund Szetre var eneste fremm@tte og signerer derfor protokollen alene.
+5. Godkjennelse av arsregnskap
+Utkast til arsregnskap er tilsendt aksjeeierne forut for generalforsamlingen.
+Utkastet til arsregnskap m.v. ble gjennomgatt.
+Generalforsamlingen besluttet a godkjenne arsregnskapet for sist regnskapsar.
+Generalforsamlingen besluttet, i samsvar med styrets forslag, at selskapets overskudd for aret 2025,
+NOK 1 874 467, skal disponeres som spesifisert i arsregnskapet.
+Generalforsamlingens beslutninger var enstemmige.
+6. Fastsettelse av honorar til styret
+Generalforsamlingen besluttet, i samsvar med styrets forslag, at det ikke betales godtgjgrelse til
+styret for utgvelsen av styrevervet for 2025.
+Beslutningen var enstemmig.
+
+Doc ID: ae8f0e5e91 7a677f836 1edd283f4eac01 1dbfe57
+
+Det forela ingen flere saker til behandling. Generalforsamlingen ble hevet.
+Stavanger, 26. juni 2026
+Gettmunel See tre
+Geirmund Sztre
+Moteleder
+Doc ID: ae8f0e5e91 7a677f836 1edd283f4eac01 1dbfe57
+
+»€ Dropbox Sign Audit trail
+Title Arsregnskap 2025 med protokoller - Seetre Holdings AS
+File name Arsregnskap...ings_AS.pdf and 1 other
+Document ID ae&f0e5e9 1 7a677f8361edd283f4eac01 1dbfe57
+Audit trail date format MM /DD/YYYY
+Status # Signed
+Document History
+CG 06 / 26 / 2026 Sent for signature to Geirmund Seetre
+SENT 05:41:56 UTC (geirmund@marwell-tech.no) from post@relevantregnskap.no
+IP: 77.110.205.62
+<> 06 / 26 / 2026 Viewed by Geirmund Sestre (geirmund@marwell-tech.no)
+VIEWED 06:02:48 UTC IP: 46.46.234.168
+be 06 / 26 / 2026 Signed by Geirmund Szetre (geirmund@marwell-tech.no)
+SIGNED 06:07:16 UTC IP: 46.46.234.168
+o 06 / 26 / 2026 The document has been completed.
+COMPLETED 06:07:16 UTC
+Powered by }€ Dropbox Sign
+
+Arsregnskap 2025
+Sztre Holdings AS
+Resultatregnskap
+Balanse
+Noter til regnskapet
+Org.nr.: 922 613 095
+Doc ID: ae8f0e5e917a677f8361 edd283f4deac01 1dbfe57
+
+Resultatregnskap
+Seetre Holdings AS
+
+Driftsinntekter og driftskostnader Note 2025 2024
+Annen driftskostnad 9 439 9 557
+Sum driftskostnader 9 439 9 557
+Driftsresultat -9 439 -9 557
+Finansinntekter og finanskostnader
+
+Annen renteinntekt 0 5 308
+Annen finansinntekt 3 1719 543 0
+Verdigkning markedsbaserte omlgpsmidler 3 168 709 0
+Resultat av finansposter 1 888 252 5 308
+Resultat for skattekostnad 1 878 814 -4 249
+Skattekostnad pa resultat 4 4 347 -935
+Resultat 1 874 467 -3 314
+Arsresultat 1 874 467 -3 314
+Overforinger
+
+Tilleggsutbytte 5 1 180 000 0
+Avsatt til annen egenkapital 5 694 467 0
+Overfort fra annen egenkapital 5 0 3314
+Sum overferinger 1 874 467 -3 314
+Szetre Holdings AS Side 2
+
+Doc ID: ae8f0e5e91 7a677f8361 edd283f4eac01 1dbfe57
+
+Balanse
+Seetre Holdings AS
+Eiendeler Note 2025 2024
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 4 479 4 826
+Sum immaterielle eiendeler 479 4 826
+Finansielle anleggsmidler
+Investeringer i tilknyttet selskap 3 5 358 933 6 112 533
+Sum finansielle anleggsmidler § 358 933 6 112 533
+Sum anleggsmidler 5 359 412 6 117 359
+Omlepsmidler
+Fordringer
+Andre kortsiktige fordringer 0 66 809
+Sum fordringer 0 66 809
+Investeringer
+Markedsbaserte aksjer 3 1618 210 0
+Sum investeringer 1618 210 0
+Bankinnskudd, kontanter 0.1. 79 484 178 472
+Sum omlepsmidier 1 697 694 245 281
+Sum eiendeler 7 057 107 6 362 640
+Szetre Holdings AS Side 3
+Doc ID: ae8f0e5e91 7a677f8361 edd283f4eac01 1dbfe57
+
+Balanse
+
+Seetre Holdings AS
+Egenkapital og gjeld Note 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 5,6 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 5 7 027 107 6 332 640
+Sum opptjent egenkapital 7 027 107 6 332 640
+Sum egenkapital 7 057 107 6 362 640
+Sum egenkapital og gjeld 7 057 107 6 362 640
+
+Stavanger, 26.06.2026
+
+Styret i Seetre Holdings AS
+Geirmund Szetre
+Styreleder
+Szetre Holdings AS Side 4
+Doc ID: ae8f0e5e91 7a677f8361 edd283f4eac01 1dbfe57
+
+Note 1 Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Selskapets virksomhet er kjap, salg og eie av aksjer i petroleumsnzeringen samt konsulentvirksomhet.
+Virksomheten drives i Stavanger.
+Valuta
+Pengeposter i utenlandsk valuta vurderes iht. kursen ved regnskapsarets slutt.
+Driftsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Skatteskende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofart.
+Klassifisering og vurdering av omleapsmidler
+Omlepsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslopet. Omlepsmidier vurderes til laveste verdi av
+anskaffelseskost og virkelig verdi.
+Aksjer i datterselskap og tilknyttede selskap
+Investeringer i datterselskap og tilknyttede selskap vurderes etter kostmetoden i selskapsregnskapet.
+Investeringen er vurdert til anskaffelseskost for aksjene med mindre nedskrivning har vzert nedvendig. Det er
+foretatt nedskrivning til virkelig verdi nar verdifall skyldes arsaker som ikke kan forventes a vzere forbigaende
+og det ma anses na@dvendig etter god regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for
+nedskrivning ikke lenger er til stede.
+Utbytte, konsernbidrag og andre utdelinger fra datterselskap er inntektsfort samme ar som det er avsatt i
+givers regnskap. Overstiger utbytte / konsernbidraget andelen av opptjent resultat etter
+anskaffelsestidspunktet, representerer den overskytende del tilbakebetaling av investert kapital, og
+utdelingene er fratrukket investeringens verdi i balansen til morselskapet.
+Markedsbaserte aksjer og andeler
+Investeringer i markedsbaserte aksjer og andeler regnskapsfgres til markedsverdi. Urealisert gevinst-/tap per
+balansedagen regnskapsfg@res som verdiendring markedsbaserte aksjer.
+Andre langsiktige investeringer
+Andre langsiktige investeringer vurderes etter kostmetoden i selskapsregnskapet. Investeringen er vurdert til
+anskaffelseskost for aksjene med mindre nedskrivning har vazert nadvendig. Det er foretatt nedskrivning til
+virkelig verdi nar verdifall skyldes arsaker som ikke kan forventes a veere forbigaende og det ma anses
+ngdvendig etter god regnskapsskikk. Nedskrivninger er reversert nar grunnlaget for nedskrivning ikke lenger
+er til stede. FIFO prinsippet anvendes ved realisasjon av aksjer.
+
+Doc ID: ae8f0e5e91 7a677f8361 edd283f4eac01 1dbfe57

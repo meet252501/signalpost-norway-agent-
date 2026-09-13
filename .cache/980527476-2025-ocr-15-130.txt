@@ -1,0 +1,315 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 327585
+Enheten
+Organisasjonsnummer : 980 527 476
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: LINK REKRUTTERING AS
+Forretningsadresse: @stensje@veien 43
+0667 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Terje Mikal Strom
+Dato for fastsettelse av arsregnskapet: 24.02.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollen pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 05.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 980 527 476
+
+LINK REKRUTITERING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 861 386 1 798 577
+
+Annen driftsinntekt -104 183
+
+Sum inntekter 1 861 386 1 694 394
+
+Kostnader
+
+Lennskostnad 3, 3, 3 1 330 228 1 093 156
+
+Avskrivning 4 13 426 20 601
+
+Annen driftskostnad 3 488 658 510 127
+
+Sum kostnader 1 832 312 1 623 884
+
+Driftsresultat 29 074 70 510
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 605
+
+Sum finansinntekter 605
+
+Annen finanskostnad 31 043 34 343
+
+Sum finanskostnader 31 043 34 343
+
+Netto finans -31 043 -33 738
+
+Ordinart resultat fer
+
+skattekostnad -1 969 36 772
+
+Skattekostnad pa ordinert
+
+resultat 7 -433 8 090
+
+Ordinart resultat etter
+
+skattekostnad -1 536 28 682
+
+Arsresultat -1 536 28 682
+
+Overferinger og
+
+disponeringer
+
+Overferinger annen
+
+egenkapital 6 -1 536 28 682
+
+Sum overferinger og
+
+disponeringer -1 536 28 682
+Utskriftsdato 05.03.2026 Organisasjonsnr 980 527 476 Side 1 av 3
+
+Organisasjonsnr: 980 527 476
+
+LINK REKRUTITERING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 7 103 840 103 407
+
+Sum immaterielle eiendeler 103 840 103 407
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verkt@y, kontormaskiner ol 4 13 425
+
+Sum varige driftsmidler 13 425
+
+Finansielle anleggsmidler
+
+Andre fordringer 35 900 35 900
+
+Sum finansielle
+
+anleggsmidler 35 900 35 900
+
+Sum anleggsmidler 139 740 152 732
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 360 500 273 375
+
+Andre fordringer 104 O11 45 600
+
+Sum fordringer 464 511 318 975
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Sum bankinnskudd,
+
+kontanter og lignende 5, 5 11 854
+
+Sum omlepsmidler 476 365 318 975
+
+SUM ELENDELER 616 105 471 707
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 2, 6 36 000 36 000
+
+Sum innskutt egenkapital 36 000 36 000
+
+Opptjent egenkapital
+
+Annen egenkapital 6 78 041 79 577
+
+Sum opptjent egenkapital 78 041 79 577
+
+Sum egenkapital 114 041 115 577
+Utskriftsdato 05.03.2026 Organisasjonsnr 980 527 476 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld -5 094 -5 956
+
+Sum annen langsiktig gjeld -5 094 -5 956
+
+Sum langsiktig gjeld -5 094 -5 956
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 59 140 81 500
+
+Leverandergjeld 188 387 114 652
+
+Skyldige offentlige
+
+avgifter 5 150 693 125 097
+
+Annen kortsiktig gjeld 108 938 40 837
+
+Sum kortsiktig gjeld 507 158 362 086
+
+Sum gjeld 502 064 356 130
+
+SUM EGENKAPITAL OG GJELD 616 105 471 707
+Utskriftsdato 05.03.2026 Organisasjonsnr 980 527 476 Side 3 av 3
+
+Organisasjonsnr: 980 527 476
+LINK REKRUTITERING AS
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+2
+Antall aksjer og aksjeeiere
+Aksjeklasse Ant. aksjer Palydende Bokfert verdi
+Ordinere aksjer 360.00 100.00 36000.00
+Aksjeeiere - fritekst Antall Eierandel Aksjeklasse
+Terje M. Stream 360.00 100.00% Ordinere
+aksjer
+Sum Sum _antall Sum eierandel
+360.00 100.00%
+Note
+Antall Aarsverk i regnskapsaret
+Virksomheten har hatt felgende antall Arsverk:
+2.00
+
+Link Rekruttering AS
+Org.nr: 980 527 476
+Noter til regnskapet for 2025
+Note 1 - Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+Salgsinntekter
+Inntekter fra salg av varer resultatfgres nar levering har funnet sted og det vesentligste av risiko og
+avkastning er overfgrt.
+Varige driftsmidier
+Varige driftsmidler balansefgres og avskrives linezert over driftsmidlets forventede levetid.
+Kundefordringer og andre fordringer
+Kundefordringer og andre fordringer oppf¢res til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Note 2 - Aksjekapital og aksjonzrinformasjon
+Aksjekapitalen bestar av:
+Antall Palydende Balansefort
+Ordinzre aksjer 360 100 36 000
+Oversikt over aksjonzerene i selskapet pr. 31.12:
+Ordinzre Eier- Stemme-
+aksjer andel andel
+Terje M. Stram 360 100 % 100 %
+Note 3 - Lénnskostnader, antall ansatte og lan til ansatte
+Lgnnskostnader 2025
+Lé@nninger 1 018 054
+Arbeidsgiveravgift 162 421
+Pensjonskostnader 128 746
+Andre ytelser 3 483
+Sum 1 312 704
+Selskapet har i regnskapsaret sysselsatt totalt 2 arsverk.
+Ytelser til ledende personer
+Andre
+Lénn Pensjons utgifter godtgjgrelser
+Daglig leder 588 989 99 623 43 638
+Selskapet har fravalgt revisjon og har derfor ingen kostnader knyttet til dette.
+
+Link Rekruttering AS
+Org.nr: 980 527 476
+Noter til regnskapet for 2025
+Note 4 - Varige driftsmidler
+Datautstyr Driftslds@re, Sum
+inventar,
+verktgy mm.
+Anskaffelseskost 01.01. 106 914 106 800 213 714
+Anskaffelseskost 31.12. 106 914 106 800 213 714
+Akk.avskrivning 31.12. -106 914 -106 800 -213 714
+Balansefgrt pr. 31.12. 0 0 0
+Arets avskrivninger 10 132 3 296 13 428
+Note 5 - Bankinnskudd
+2025
+Bundne skattetrekksmidler 11 854
+Note 6 - Egenkapital
+Aksjekapital Annen Sum
+egenkapital
+Egenkapital 01.01.2025 36 000 79577 115577
+Arsresultat 0 -1 536 -1536
+Egenkapital 31.12.2025 36 000 78041 114 041
+Note 7 - Skatt
+Arets skattekostnad fordeler seg pa: 2025
+Endring utsatt skatt -433
+Arets totale skattekostnad -433
+Beregning av arets skattegrunnlag: 2025
+Ordinzert resultat for skattekostnad -1 969
+Endring i midlertidige forskjeller -5 614
+Arets skattegrunnlag -7 583

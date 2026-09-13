@@ -1,0 +1,481 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 490964
+Virksomheten
+Organisasjonsnummer : 921 871 813
+Organisasjonsform: Eierseksjonssameie
+Foretaksnawn: SAMEIET STADIONKVARTALET 4
+Forretningsadresse: c/o Boligbyggelaget Usbl
+Nedre Storgate 15
+3015 DRAMMEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Svein Olav Ringnes
+Dato for fastsettelse av Aarsregnskapet: 20.05.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.06.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 921 871 813
+
+SAMEIET STADIONKVARTALET 4
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Annen driftsinntekt 1 1 270 792 1 207 420
+
+Sum inntekter 1 270 792 1 207 420
+
+Kostnader
+
+Lennskostnad 2 84 890 74 165
+
+Annen driftskostnad 3,4,5,6,7 1 022 661 956 788
+
+Sum kostnader 1 107 551 1 030 955
+
+Driftsresultat 163 241 176 465
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 41 615 35 936
+
+Netto finans -41 615 -35 936
+
+Arsresultat 204 857 212 401
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 11 204 857 212 401
+
+Sum overferinger og
+
+disponeringer 204 857 212 401
+Utskriftsdato 27.06.2026 Organisasjonsnr 921 871 813 Side 1 av 2
+
+Organisasjonsnr: 921 871 813
+
+SAMEIET STADIONKVARTALET 4
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Andre fordringer i) 920 453 739 608
+
+Sum anleggsmidler 920 453 739 608
+
+Omlepsmidler
+
+Varer
+
+Kundefordringer 36 414 29 752
+
+Andre fordringer 25 052 20 242
+
+Bankinnskudd, kontanter
+
+og lignende 311 252 271 828
+
+Sum omlepsmidler 372 718 321 822
+
+SUM ELENDELER 1 293 171 1 061 429
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Opptjent egenkapital
+
+Fond 920 453 739 608
+
+Annen egenkapital 275 815 251 804
+
+Sum opptjent egenkapital 1 196 268 991 412
+
+Sum egenkapital 10 1196 268 991 412
+
+Kortsiktig gjeld
+
+Leverandergjeld 68 981 66 128
+
+Annen kortsiktig gjeld 27 921 3 889
+
+Sum kortsiktig gjeld 96 903 70 O17
+
+Sum gjeld 96 903 70 O17
+
+SUM EGENKAPITAL OG GJELD 1 293 171 1 061 429
+Utskriftsdato 27.06.2026 Organisasjonsnr 921 871 813 Side 2 av 2
+
+Organisasjonsnr: 921 871 813
+
+SAMEIET STADIONKVARTALET 4
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+2
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025 Sameiet Stadionkvartalet 4
+
+Arbeidskapital
+
+Regnskap Regnskap
+
+2025 2024
+A. Arbeidskapital fra foregaende arsregnskap 251 804 263 067
+B. Endring i arbeidskapital
+Resultat 204 857 212 401
+Endringer i andre langsiktige poster -180 846 -223 664
+B. Endring arbeidskapital 24 011 -11 263
+C. Arbeidskapital 275 815 251 804
+Spesifiksjon av arbeidskapital
+Omlgpsmidler 372 718 321 822
+Kortsiktiggjeld -96 903 -70 017
+C Arbeidskapital 275 815 251 804
+Sameiets arbeidskapital er de gkonomiske midlene som de har til radighet pr. 31.12
+De defineres som oml@psmidler fratrukket kortsiktig gjeld.
+1558 Sameiet Stadionkvartalet 4 Org. nr 921871813
+
+Resultatregnskap 2025 Sameiet Stadionkvartalet 4
+Note Regnskap Regnskap Budsjett Budsjett
+2025 2024 2025 2026
+INNTEKT
+Leieinntekt
+Innkrevd felleskostnad 4 1 270792 1 207 420 1 278 863 1 328 811
+Sum leieinntekt 1270 792 1 207 420 1 278 863 1 328 811
+Suminntektt = = 4270792. 1207420 1278863 1328811
+KOSTNAD
+Lonnskostnad
+Lannskostnad 2 10 490 9 165 9 450 11 000
+Styrehonorar 2 74 400 65 000 67 000 78 100
+Driftskostnad
+Energikostnad 281 765 272 375 322 000 290 000
+Kostnad eiendom/lokaler 3 159 993 196 220 182 500 255 000
+Kommunale avgifter/renovasjon 131 250 118 628 137 000 141 000
+Lisens HMS, vedlikehold og andre lisenser. 4 11 214 11 528 14 000 12 000
+Verktoy, inventar og driftsmateriell 5 961 1 372 0 0
+Reparasjon og vedlikehold 6 192 105 134 053 302 700 260 900
+Revisjonshonorar 6 168 5519 6 000 7 000
+Forretningsfgrerhonorar 35 525 34 191 35 500 37 000
+Andre honorar 7 32 166 9 956 8 000 47 000
+Kontorkostnad 2428 2 932 5 000 3 500
+TV/bredband 95 037 100 974 104 700 96 000
+Kontingenter og gaver 2 200 2 959 2 500 2500
+Forsikringer 68 505 62 905 68 500 72 000
+Andre kostnader 8 3 344 3176 5 000 5 000
+Sum kostnad 1107 551 1030 955 1 269 850 1318000
+Driftsresultat 163 241 176 465 9013 10 811
+FINANSPOSTER
+Renteinntekt 41615 35 936 0 0
+Netto finansposter -41 615 -35 936 0 0
+Arsresultat 204 857 212 401 9 013 10 811
+Andre overfgringer 11 180 846 223 664 0 0
+Overfert sameiekapital 24 011 -11 263 0 0
+SUM OVERFORINGER 204 857 212 401 0 0
+1558 Sameiet Stadionkvartalet 4 Org. nr 921871813
+
+Balanse 2025 Sameiet Stadionkvartalet 4
+Note 2025 2024
+
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+@remerkede bankinnskudd g 920 453 739 608
+Sum anleggsmidler 920 453 739 608
+Omlopsmidler
+Kundefordringer 36 414 29 752
+Andre kortsiktige fordringer 5 144 0
+Forskuddsbetalte kostnader 19 908 20 242
+Innestaende konsernkonto og bank 311 252 271 828
+Sum omlgpsmidler 372718 321 822
+SUM EIENDELER 1293 171 1061 429
+
+1558 Sameiet Stadionkvartalet 4 Org. nr 921871813
+
+Balanse 2025 Sameiet Stadionkvartalet 4
+
+Note 2025 2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Opptjent egenkapital
+@remerket avsetning 920 453 739 608
+Annen egenkapital 275 815 251 804
+Sum opptjent egenkapital 1 196 268 991 412
+Sum egenkapital 10 1 196 268 991 412
+Gjeld
+Kortsiktig gjeld
+Leverandergjeld 68 981 66 128
+Annen kortsiktig gjeld 27 921 3 889
+Sum kortsiktig gjeld 96 903 70017
+Sum gjeld 96 903 70017
+SUM EGENKAPITAL OG GJELD 1293 171 1061 429
+Sted: Dato:
+
+Svein Olav Ringnes Vivian Engen Iversen Jon Vardal
+Styreleder Styremediem Styremediem
+Annar Skevik
+Styremediem
+1558 Sameiet Stadionkvartalet 4 Org. nr 921871813
+
+Noter arsregnskap 2025 Sameiet Stadionkvartalet 4
+Note 0 - Regnskapsprinsipp
+Arsregnskapet er utarbeidet i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Nummereringen av noter er basert pa en forhandsdefinert struktur, og enkelte numre utgar dersom de ikke er relevante.
+Klassifisering og vurdering av balanseposter
+Omlgpsmidler og kortsiktig gjeld omfatter poster som forfaller til betaling innen ett ar. @vrige poster er klassifisert som anleggsmiddel/langsiktig gjeld.
+Omlepsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. For a sikre de beste betingelsene for drifts- og sparekontoer, er disse tilknyttet USBL sin
+konsemkontoavtale i henhold til kundeavtalen. Kortsiktig gjeld balanseferes til nominelt belgp pa etableringstidspunktet.
+Fordringer
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Driftsinntekter
+Felleskostnader bokfgres og inntektsfores i takt med opptjening.
+Inntektsfering ved salg av varer/ tjenester skjer pa leveringstidspunktet.
+Tjenesten inntektsfgres etterhvert som de opptjenes.
+Skattetrekk
+Ved Ignnskjgring overfgres skattetrekk til en felles skattetrekkskonto i Usbl.
+Sameiet bestar av 25 seksjoner.
+Eiendommer er oppfert pa g.nr.213, b.nr 539 i Drammen kommune. Eiertomt pa 1 678,8 kvm.
+Sameiets eiendommer er forsikret gjennom If Skadeforsikring polise nr.$P1974983.
+
+1558 Sameiet Stadionkvartalet 4 Org. nr. 921871813
+
+Noter arsregnskap 2025 Sameiet Stadionkvartalet 4
+Note 1 - Innkrevde felleskostnader
+2025 2024
+3600 Innkrevde felleskostn. drift 1172 892 1 106 520
+3618 Leietillegg stream 1 200 1 200
+3620 Leietillegg Kabel-TV/intemett 96 700 99 700
+Sum 1 270 792 1 207 420
+Note 2 - Lonnskostnader og styrehonorar
+2025 2024
+5400 Arbeidsgiveravgift 10 490 9165
+5330 Honorar tillitsvalgte fra lannssystemet 74 400 65 000
+Sum 84 890 74 165
+Personalkostnader omfatter lgnns- og personalkostnader, samt arbeidsgiveravgift. Antall arsverk sysselsatt: 0
+Note 3 - Kostnad eiendom/lokaler
+2025 2024
+6310 Faste kostnader innleid vaktmestertjeneste 56 003 53 082
+6341 Brannalarm 19078 17 761
+6360 Annet renhold 7 466 36 515
+6361 Fast renhold 60 193 60 669
+6364 Matteleie 9213 24 888
+6392 Containerleie/tamming 3613 0)
+6393 Blomster/jord, Klipping av gress/hekk 4 426 3 305
+Sum 159 993 196 220
+Note 4 - Lisens HMS, vedlikehold og andre lisenser
+2025 2024
+6420 Bevar HMS/Vedlikehold,Booklt24 og E-post 11 214 11 528
+Sum 11 214 11 528
+Note 5 - Verktoy, inventar og driftsmateriell
+2025 2024
+6551 Nokler, laser, navnskilt, postkasser o.l. 961 0
+6552 Driftsmateriell a) 1372
+sum 961 1372
+1558 Sameiet Stadionkvartalet 4 Org. nr. 921871813
+
+Noter arsregnskap 2025 Sameiet Stadionkvartalet 4
+Note 6 - Reparasjon og vedlikehold
+2025 2024
+6601 Vedlikehold bygg 18 813 2 982
+6602 Vedlikehold VVS 2 938 0
+6603 Vedlikehold elektro 5 829 808
+6611 Vedlikehold heiser 74 467 35 767
+6613 Vedlikehold grentanlegg/lekeplasser/uteomrade 8 469 0
+6617 Vedlikehold brannvemutstyr 12518 16991
+6621 Vedlikehold tekniske anlegg 43 330 42176
+6630 Egenandel forsikring 12 000 0
+6641 Malerarbeider 0 133
+6643 Glassarbeid/Vindu 0 5 722
+6648 Vedlikehold derer 13741 29 473
+Sum 192 105 134 053
+Note 7 - Andre honorarer
+2025 2024
+6714 Tilleggstjenester forretningsferer 5 255 9 956
+6720 Juridisk honorar 26 912 0
+Sum 32 166 9 956
+6714 gjelder adm.kostnader ifm div.viderefakturering og tilrettelegge trykk til innkalling.
+6720 gjelder bistand ifm reklamasjon mot utbygger.
+Note 8 - Andre kostnader
+2025 2024
+7770 Betalingskostnader 1190 981
+7773 Omkostninger innkreving 2 154 2195
+Sum 3 344 3176
+Note 9 - @remerkede midler
+@remerkede midler er avsatt til fremtidig vedlikehold
+1558 Sameiet Stadionkvartalet 4 Org. nr. 921871813
+
+Noter arsregnskap 2025 Sameiet Stadionkvartalet 4
+Note 10 - Egenkapital
+Egenkapital Endringer Egenkapital
+per 01.01 per 31.12
+Egenkapital
+Innskutt egenkapital
+Opptjent egenkapital
+Fond 739 608 180 845 920 453
+Arets resultat 251 804 24 011 275 815
+Sum opptjent egenkapital 991 412 204 856 1196 268
+Sum egenkapital 991 412 204 856 1196 268
+Note 11 - Andre overforinger
+Andre overfgringer gjelder avsetning til vedlikeholdsfond.
+1558 Sameiet Stadionkvartalet 4 Org. nr. 921871813
+
+Resultat og balanse med noter for Sameiet Stadionkvartalet 4.
+Dokumentet er signert elektronisk av:
+For Sameiet Stadionkvartalet 4
+Styreleder Svein Olav Ringnes (sign. ) 15.04.2026
+Styremedlem Annar Skevik (sign.) 01.04.2026
+Styremedlem Vivian Engen Iversen (sign.) 11.03.2026
+Styremedlem Jon Vardal (sign.) 23.03.2026
+
+KPMG AS Telephone +47 45 40 40 63
+Dr. Hansteins gate 9 Internet www.kpmg.no
+3044 Drammen Enterprise 935 174 627 MVA
+Til Arsmetet i Sameiet Stadionkvartalet 4
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert arsregnskapet for Sameiet Stadionkvartalet 4 som bestar av balanse per 31. desember
+2025, resultatregnskap for regnskapsaret avsluttet per denne datoen og noter til arsregnskapet,
+herunder et sammendrag av viktige regnskapsprinsipper.
+; =
+Etter var mening $
+e oppfyller arsregnskapet gjeldende lovkrav, og :
+e gir arsregnskapet et rettvisende bilde av sameiets finansielle stilling per 31. desember 2025, ay
+og av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med &
+regnskapslovens regler og god regnskapsskikk i Norge. 2
+K
+Grunnlag for konklusjonen =
+1S a)
+Vi har gjennomfart revisjonen i samsvar med International Standards on Auditing (ISA-ene). Vare 8
+oppgaver og plikter i henhold til disse standardene er beskrevet nedenfor under Revisors oppgaver og =
+plikter ved revisjonen av arsregnskapet. Vi er uavhengige av sameiet i samsvar med kravene | <
+relevante lover og forskrifter i Norge og International Code of Ethics for Professional Accountants =
+(inkludert internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for g
+Accountants (IESBA-reglene), og vi har overholdt vare avrige etiske forpliktelser i samsvar med disse S
+kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som grunnlag 5
+for var konklusjon. E
+S
+Ovrig informasjon 5
+bag
+Styret (ledelsen) er ansvarlig for avrig informasjon som er publisert sammen med arsregnskapet. &
+@vrig informasjon omfatter informasjon i arsrapporten bortsett fra arsregnskapet og den tilherende
+revisjonsberetningen. @vrig informasjon omfatter ogsa budsjettall som er presentert sammen med
+arsregnskapet. Var konklusjon om arsregnskapet ovenfor dekker ikke ovrig informasjon.
+| forbindelse med revisjonen av arsregnskapet er det var oppgave a lese ovrig informasjon. Formalet
+er a vurdere hvorvidt det foreligger vesentlig inkonsistens mellom den @vrige informasjonen og
+arsregnskapet og den kunnskap vi har opparbeidet oss under revisjonen av arsregnskapet, eller
+hvorvidt avrig informasjon ellers fremstar som vesentlig feil. Vi har plikt til 4 rapportere dersom evrig
+informasjon fremstar som vesentlig feil. Vi har ingenting a rapportere i sa henseende.
+Ledelsens ansvar for arsregnskapet
+Ledelsen er ansvarlig for 4 utarbeide arsregnskapet og for at det gir et rettvisende bilde i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig for slik intern
+kontroll som den finner nedvendig for 4 kunne utarbeide et arsregnskap som ikke inneholder vesentlig
+feilinformasjon, verken som felge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til sameiets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges til grunn
+Offices in
+© KPMG AS, a Norwegian limited liability company and a member firm of the KPMG global organization of independent member Oslo Hamar
+firms affiliated with KPMG International Limited, a private English company limited by guarantee. All rights reserved. Arendal Kristiansand
+Bergen Stavanger
+Statsautoriserte revisorer - medlemmer avy Den norske Revisorforening Drammen Trondheim
+Elverum
+
+for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at Arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som falge av misligheter eller utilsiktede feil, og 4 avgi en revisjonsberetning
+som inneholder var konklusjon. Betryggende sikkerhet er en hay grad av sikkerhet, men ingen garanti
+for at en revisjon utfort i samsvar med ISA-ene, alltid vil avdekke vesentlig feilinformasjon.
+Feilinformasjon kan oppsta som felge av misligheter eller utilsiktede feil. Feilinformasjon er 4 anse
+som vesentlig dersom den enkeltvis eller samlet med rimelighet kan forventes 4 pavirke de
+akonomiske beslutningene som brukerne foretar pa grunnlag av arsregnskapet.
+Som del av en revisjon i samsvar med ISA-ene, utover vi profesjonelt skjann og utviser profesjonell
+skepsis gjennom hele revisjonen. | tillegg:
+e identifiserer og vurderer vi risikoen for vesentlig feilinformasjon i arsregnskapet, enten det
+skyldes misligheter eller utilsiktede feil. Vi utformer og gjennomfgrer revisjonshandlinger for a
+handtere slike risikoer, og innhenter revisjonsbevis som er tilstrekkelig og hensiktsmessig som
+grunnlag for var konklusjon. Risikoen for at vesentlig feilinformasjon som felge av misligheter
+ikke blir avdekket, er hayere enn for feilinformasjon som skyldes utilsiktede feil, siden
+misligheter kan innebaere samarbeid, forfalskning, bevisste utelatelser, uriktige fremstillinger
+eller overstyring av intern kontroll. S
+So
+=
+e opparbeider vi oss en forstaelse av intern kontroll som er relevant for revisjonen, for a utforme 2
+revisjonshandlinger som er hensiktsmessige etter omstendighetene, men ikke for a gi uttrykk x
+for en mening om effektiviteten av sameiets interne kontroll. S
+Sa)
+NY
+QO
+e evaluerer vi om de anvendte regnskapsprinsippene er hensiktsmessige og om nN
+regnskapsestimatene og tilharende noteopplysninger utarbeidet av ledelsen er rimelige. =
+a
+N
+e konkluderer vi pa om ledelsens bruk av fortsatt drift-forutsetningen er hensiktsmessig, og, S
+basert pa innhentede revisjonsbevis, hvorvidt det foreligger vesentlig usikkerhet knyttet til y
+hendelser eller forhold som kan skape tvil av betydning om sameiets evne til fortsatt drift. <
+Dersom vi konkluderer med at det eksisterer vesentlig usikkerhet, kreves det at vi i =
+revisjonsberetningen henleder oppmerksomheten pa tilleggsopplysningene i arsregnskapet, £
+eller, dersom slike tilleggsopplysninger ikke er tilstrekkelige, at vi modifiserer var konklusjon. ©
+Vare konklusjoner er basert pa revisjonsbevis innhentet frem til datoen for o
+revisjonsberetningen. Etterfalgende hendelser eller forhold kan imidlertid medfgre at sameiet E
+ikke kan fortsette driften. &
+So
+e evaluerer vi den samlede presentasjonen, strukturen og innholdet i arsregnskapet, inkludert E
+tileggsopplysningene, og hvorvidt arsregnskapet gir uttrykk for de underliggende
+transaksjonene og hendelsene pa en mate som gir et rettvisende bilde.
+Vi kommuniserer med styret blant annet om det planlagte innholdet i og tidspunkt for revisjonsarbeidet
+og eventuelle vesentlige funn i revisjonen, herunder vesentlige svakheter | intern kontroll som vi
+avdekker gjennom revisjonen.
+Drammen
+KPMG AS
+Daniel Walstad Nyberg
+Statsautorisert revisor
+(elektronisk signert)
+2

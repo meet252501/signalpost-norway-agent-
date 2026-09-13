@@ -1,0 +1,572 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 477260
+Virksomheten
+Organisasjonsnummer : 930 456 632
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NOMA NORGE HOLDING AS
+Forretningsadresse: 4. Strem terrasse 13
+3046 DRAMMEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Trine Nilsen
+Dato for fastsettelse av Aarsregnskapet: 21.05.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 24.06.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 456 632
+
+NOMA NORGE HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 0 0
+
+Sum inntekter 0 0
+
+Kostnader
+
+Lennskostnad 2, 3 5 000 0
+
+Annen driftskostnad 4 160 352 73 #757
+
+Sum kostnader 165 352 73 #757
+
+Driftsresultat -165 352 -73 757
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 754 384 76 022
+
+Annen renteinntekt 49 444 345
+
+Annen finansinntekt 136 625 334 473
+
+Verdigkning av
+
+finansielle instrumenter
+
+vurdert til virkelig verdi -98 821 98 821
+
+Sum finansinntekter 841 633 509 661
+
+Annen rentekostnad 11 762 -1
+
+Annen finanskostnad 34 340 15 583
+
+Sum finanskostnader 46 102 15 581
+
+Netto finans 795 530 494 079
+
+Resultat fer skattekostnad 630 178 420 322
+
+Arsresultat 630 178 420 322
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 650 000 300 000
+
+Tilleggsutbytte 300 000 0
+
+Ekstraordinert utbytte 0 300 000
+
+Udekket tap -319 822 -179 678
+Utskriftsdato 24.06.2026 Organisasjonsnr 930 456 632 Side 1 av 3
+
+Organisasjonsnr: 930 456 632
+
+NOMA NORGE HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering 1 datterselskap 696 000 696 000
+
+Sum finansielle
+
+anleggsmidler 696 000 696 000
+
+Sum anleggsmidler 696 000 696 000
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 374 0
+
+Konsernfordringer 11 032 374 8 663 386
+
+Sum fordringer 11 032 747 8 663 386
+
+Investeringer
+
+Markedsbaserte aksjer 5 7 269 303 7 356 002
+
+Sum investeringer 7 269 303 7 356 002
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 442 218 104 487
+
+Sum bankinnskudd,
+
+kontanter og lignende 442 218 104 487
+
+Sum omlepsmidler 18 744 269 16 123 875
+
+SUM ELENDELER 19 440 269 16 819 875
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 6 60 000 60 000
+
+Overkurs 6 16 635 361 16 635 361
+
+Annen innskutt egenkapital 6 0 0
+
+Sum innskutt egenkapital 16 695 361 16 695 361
+Utskriftsdato 24.06.2026 Organisasjonsnr 930 456 632 Side 2 av 3
+
+Opptjent egenkapital
+
+Udekket tap 6 525 308 205 486
+
+Sum opptjent egenkapital -525 308 -205 486
+
+Sum egenkapital 16 170 053 16 489 875
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Utbytte 650 000 300 000
+
+Kortsiktig konserngjeld 2 590 216 0
+
+Annen kortsiktig gjeld 30 000 30 000
+
+Sum kortsiktig gjeld 3 270 216 330 000
+
+Sum gjeld 3 270 216 330 000
+
+SUM EGENKAPITAL OG GJELD 19 440 269 16 819 875
+Utskriftsdato 24.06.2026 Organisasjonsnr 930 456 632 Side 3 av 3
+
+Organisasjonsnr: 930 456 632
+
+NOMA NORGE HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.Selskapet har ikke endret regnskapsprinsipp
+fra 2024 til 2025.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler
+
+som er knyttet til varekretslopet er klassifisert som omlepsmidler.
+Fordringer klassifiseres som omle@psmidler hvis de forfaller til betaling
+innen ett ar etter transaksjonsdagen.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belgep pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belgep pa
+etableringstidspunktet.
+
+Verdipapirportefeljen vurderes til historisk
+
+kostpris og skrives ned dersom virkelig verdi av den er lavere enn
+historisk kostpris.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gje@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+Forsikret pensjonsforpliktelse er ikke balansefort - kostnaden er
+
+lik premien. Leieavtaler er ikke balansefert. Kostmetoden er benyttet for
+investeringer i datterselskap/tilknyttet selskap. Utbytte er inntektsfort
+samme ar som det er avsatt i datterselskap/tilknyttet selskap, dersom det
+er sannsynlig at belepet vil mottas. Ved utbytte som overstiger andel av
+tilbakeholdt resultat etter kj@pet representerer den overskytende del
+tilbakebetaling av investert kapital, og er fratrukket investeringens verdi
+i balansen.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Spesifisering av resultatregnskapet
+
+Lennkostnader
+
+Andre ytelser Arets Fjorarets
+5000.00 0.00
+
+Sum lennskostnader Arets Fjorarets
+5000.00 0.00
+
+Arsregnskap for
+NOMA NORGE HOLDING AS
+930456632
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+NOMA NORGE HOLDING AS
+930 456 632
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Lg@nnskostnad 2,3 5 000 0
+Annen driftskostnad 4 160 352 73 757
+Sum driftskostnader 165 352 73 757
+Driftsresultat -165 352 -73 757
+Finansinntekter
+Inntekt pa investering i datterselskap og tilknyttet 754 384 76 022
+selskap
+Annen renteinntekt 49 444 345
+Annen finansinntekt 136 625 334 473
+Verdigkning av finansielle instrumenter vurdert til -98 821 98 821
+virkelig verdi
+Sum finansinntekter 841 633 509 661
+Finanskostnader
+Annen rentekostnad 11 762 -1
+Annen finanskostnad 34 340 15 583
+Sum finanskostnader 46 102 15 581
+Netto finans 795 530 494 079
+Resultat for skattekostnad 630 178 420 322
+Skattekostnad 0 0
+Arsresultat 630 178 420 322
+Overforinger
+Ordinzert utbytte 650 000 300 000
+Tilleggsutbytte 300 000 0
+Ekstraordinzert utbytte 0 300 000
+Udekket tap -319 822 -179 678
+Sum overferinger 630 178 420 322
+
+NOMA NORGE HOLDING AS
+930 456 632
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investering i datterselskap 696 000 696 000
+Sum finansielle anleggsmidler 696 000 696 000
+Sum anleggsmidler 696 000 696 000
+Omlgpsmidler
+Fordringer
+Kortsiktige kKonsernfordringer 11 032 374 8 663 386
+Andre kortsiktige fordringer 374 0
+Sum fordringer 11 032 747 8 663 386
+Investeringer
+Markedsbaserte aksjer 5 7 269 303 7 356 002
+Sum investeringer 7 269 303 7 356 002
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 442 218 104 487
+Sum bankinnskudd, kontanter og lignende 442 218 104 487
+Sum omlgpsmidler 18 744 269 16 123 875
+SUM EIENDELER 19 440 269 16 819 875
+
+NOMA NORGE HOLDING AS
+930 456 632
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 6 60 000 60 000
+Overkurs 6 16 635 361 16 635 361
+Sum innskutt egenkapital 16 695 361 16 695 361
+Opptjent egenkapital
+Udekket tap 6 525 308 205 486
+Sum opptjent egenkapital -525 308 -205 486
+Sum egenkapital 16 170 053 16 489 875
+Gjeld
+Kortsiktig gjeld
+Utbytte 650 000 300 000
+Kortsiktig konserngjeld 2 590 216 0
+Annen kortsiktig gjeld 30 000 30 000
+Sum kortsiktig gjeld 3 270 216 330 000
+Sum gjeld 3 270 216 330 000
+SUM EGENKAPITAL OG GJELD 19 440 269 16 819 875
+DRAMMEN, 21.05.2026
+Trine Nilsen
+styrets leder
+
+NOMA NORGE HOLDING AS
+
+930 456 632
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet til varekretslgpet er klassifisert som oml@psmidler. Fordringer klassifiseres som
+
+omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+
+etableringstidspunktet.
+
+Verdipapirportefeljen vurderes til historisk kostpris og skrives ned dersom virkelig verdi av den er lavere enn
+historisk kostpris.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Forsikret pensjonsforpliktelse er ikke balansefert - kostnaden er lik premien. Leieavtaler er ikke balansefart.
+Kostmetoden er benyttet for investeringer i datterselskap/tilknyttet selskap. Utbytte er inntektsfort samme ar
+
+som det er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at belgpet vil mottas. Ved utbytte
+
+som overstiger andel av tilbakeholdt resultat etter kjopet representerer den overskytende del tilbakebetaling av
+investert kapital, og er fratrukket investeringens verdi i balansen.
+
+Note 1 - Arten av virksomhet og hvor virksomheten drives
+
+Selskapets virksomhet er a investere i aksjer og verdipapirer. Selskapets lokaler er i Drammen Kommune.
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 0 0
+Arbeidsgiveravgift 0 0
+Pensjonskostnader 0 0
+Andre relaterte ytelser 5 000 0
+Sum 5 000 0
+Note 3 - Antall arsverk
+
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+
+NOMA NORGE HOLDING AS
+
+930 456 632
+
+Note 4 - Spesifisering av skatt
+Skattepliktig inntekt 2025 2024
+Resultat for skatt 630 178 420 322
+Permanente forskjeller -734 562 -470 535
+- Anvendelse av fremfgrbart underskudd 0 -25 809
++/- Mottatt/avgitt konsernbidrag 104 384 76 022
+Skattepliktig inntekt 0 0
+Note 5 - Markedsbaserte aksjer
+
+Selskapet bruker kostprisprinsippet ved vurderinger av investeringer i andre selskaper.
+
+| ar
+
+Balansefart verdi pr 31.12 7 269 303
+
+Anskaffelseskost pr 31.12 7 269 303
+
+Note 6 - Egenkapital
+
+Opptjent
+Aksjekapital Overkurs egenkapital Udekket tap sum
+
+Egenkapital 31.12.2024 60 000 16 635 361 0 -205 486 16 489 875
+Arsresultat 0 0 950 000 -319 822 630 178
+Avsatt utbytte 0 0 -650 000 0 -650 000
+Tilleggsutbytte i lapet av 0 0 -300 000 0 -300 000
+aret, basert pa siste
+
+fastsatte regnskap
+Egenkapital 31.12.2025 60 000 16 635 361 0 -525 308 16 170 053
+Mer om egenkapital
+
+Arsregnskapet er avlagt under forutsetning om fortsatt drift. Styret bekrefter at denne forutsetning er tilstede.
+
+Sant =
+revisjon
+
+UAVHENGIG REVISORS BERETNING
+Til generalforsamlingen i Noma Norge Holding AS
+Konklusjon
+Vi har revidert Noma Norge Holding AS’ arsregnskap som viser et overskudd pa kr 630 178.
+Arsregnskapet bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret
+avsluttet per denne datoen, og noter til Aarsregnskapet, herunder et sammendrag av viktige
+regnskapsprinsipper.
+Etter var mening
+
+*  oppfyller arsregnskapet gjeldende lovkrav, og
+
+* gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 31. desember
+
+2025 og av dets resultat for regnskapsaret avsluttet per denne datoen i samsvar med
+regnskapslovens regler og god regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfert revisjonen i samsvar med den internasjonale revisjonsstandarden for revisjon
+av regnskap til mindre komplekse enheter (ISA for MKE). Vare oppgaver og plikter i henhold til ISA
+for MKE er beskrevet nedenfor under Revisors oppgaver og plikter ved revisjonen av
+arsregnskapet. Vi er uavhengige av selskapet i samsvar med kravene i relevante lover og
+forskrifter i Norge og International Code of Ethics for Professional Accountants (inkludert
+internasjonale uavhengighetsstandarder) utstedt av International Ethics Standards Board for
+Accountants (IESBA-reglene), og vi har overholdt vare avrige etiske forpliktelser i samsvar med
+disse kravene. Innhentet revisjonsbevis er etter var vurdering tilstrekkelig og hensiktsmessig som
+grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret (ledelsen) er ansvarlig for 4 utarbeide arsregnskapet og for at det gir et rettvisende bilde i
+samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa ansvarlig
+for slik intern kontroll som den finner nedvendig for a kunne utarbeide et arsregnskap som ikke
+inneholder vesentlig feilinformasjon, verken som felge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift
+og opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fortsatt drift skal legges
+til grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og plikter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder
+vesentilig feilinformasjon, verken som fglge av misligheter eller utilsiktede feil, og a avgi en
+revisjonsberetning som inneholder var konklusjon. Betryggende sikkerhet er en hay grad av
+sikkerhet, men ingen garanti for at en revisjon utfart i samsvar med ISA for MKE, alltid vil avdekke
+vesentilig feilinformasjon som eksisterer. Feilinformasjon kan oppsta som falge av misligheter eller
+‘Hovedkontor:  ~~—~—SMBesoksadresse: =  SantRevisjonAS |
+Frognerstranda 2 Frognerstranda 2 Org. nr.: NO 996 123 O57 MVA
+0250 Oslo 0250 Oslo Telefon: 913 19 913
+E-post: post@santrevisjon.no
+Medlemmer av Den norske Revisorforening
+
+revi sjo n
+utilsiktede feil. Feilinformasjon blir vurdert som vesentlig dersom den enkeltvis eller samlet med
+rimelighet kan forventes a pavirke gkonomiske beslutninger som brukerne foretar basert pa
+arsregnskapet.
+
+For videre beskrivelse av revisors oppgaver og plikter vises det til
+https://revisorforeningen.no/revisjonsberetninger
+Oslo, 26. mai 2026
+Sant ReviSj6r AS
+My
+Lafs”"Angermo
+£° — statsautorisert revis¢r
+Side 2 av 2
+
+Arsregnskap for
+NOMA NORGE HOLDING AS
+930456632
+Regnskapsar
+01.01.2025 - 31.12.2025

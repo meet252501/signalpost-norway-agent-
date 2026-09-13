@@ -1,0 +1,473 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 474947
+Virksomheten
+Organisasjonsnummer : 925 037 621
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: TANNLEGE GAUTE SIVERTSEN AS
+Forretningsadresse: c/o Gaute Sivertsen
+Flugheimsvegen 42
+6857 SOGNDAL
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Gaute Sivertsen
+Dato for fastsettelse av Aarsregnskapet: 01.05.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.05.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 925 037 621
+
+TANNLEGE GAUTE SIVERTSEN AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 2 547 O17 2 229 992
+
+Sum inntekter 2 547 017 2 229 992
+
+Kostnader
+
+Varekostnad 5 124
+
+Lennskostnad 1 884 767 974 088
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 7 453 12 777
+
+Annen driftskostnad 178 541 184 229
+
+Sum kostnader 1 075 885 1171 093
+
+Driftsresultat 1 471 132 1 058 899
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 20 549 46 492
+
+Sum finansinntekter 20 549 46 492
+
+Annen rentekostnad 3 307 53
+
+Sum finanskostnader 3 307 53
+
+Netto finans 17 241 46 439
+
+Resultat fer skattekostnad 1 488 373 1 105 337
+
+Skattekostnad 328 170 243 175
+
+Arsresultat 1 160 203 862 162
+
+Totalresultat 1 160 203 862 162
+
+Overferinger og
+
+disponeringer
+
+Ordinert utbytte 1 040 000 1 668 285
+
+Konsernbidrag 118 118 66 390
+
+Overferinger til/fra
+
+annen egenkapital 2 085 -872 513
+
+Sum overferinger og
+
+disponeringer 1 160 203 862 162
+Utskriftsdato 27.05.2026 Organisasjonsnr 925 037 621 Side 1 av 3
+
+Organisasjonsnr: 925 037 621
+
+TANNLEGE GAUTE SIVERTSEN AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Utsatt skattefordel 82
+
+Sum immaterielle eiendeler 82 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verkt@y, kontormaskiner
+
+og lignende 12 777 20 230
+
+Sum varige driftsmidler 12 777 20 230
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 12 859 20 230
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre fordringer 1 572 515 218 464
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 90 056 2 115 015
+
+Sum bankinnskudd,
+
+kontanter og lignende 90 056 2 115 015
+
+Sum omlepsmidler 1 662 571 2 333 479
+
+SUM ELENDELER 1 675 430 2 353 709
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Annen innskutt egenkapital 0 0
+
+Sum innskutt egenkapital 30 000 30 000
+Utskriftsdato 27.05.2026 Organisasjonsnr 925 037 621 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 2 085
+
+Sum opptjent egenkapital 2 085
+
+Sum egenkapital 32 085 30 000
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 318
+
+Sum avsetninger for
+
+forpliktelser 0 318
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Betalbar skatt 295 255 209 241
+
+Skyldige offentlige
+
+avgifter 54 322 46 567
+
+Kortsiktig konserngjeld 1 191 433 1 810 649
+
+Annen kortsiktig gjeld 102 335 256 934
+
+Sum kortsiktig gjeld 1 643 345 2 323 391
+
+Sum gjeld 1 643 345 2 323 709
+
+SUM EGENKAPITAL OG GJELD 1 675 430 2 353 709
+Utskriftsdato 27.05.2026 Organisasjonsnr 925 037 621 Side 3 av 3
+
+Organisasjonsnr: 925 037 621
+
+TANNLEGE GAUTE SIVERTSEN AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Noter til arsregnskapet
+
+Note 1 Regnskapsprinsipper
+
+Arsregnskapet er
+
+satt opp 1 samsvar med regnskapsloven 1998. Det er utarbeidet etter norske
+regnskapsstandarder. I utgangspunktet er det reglene for
+regnskapsoppstilling for sma foretak som er benyttet.
+
+Hovedregel for
+
+vurdering og klassifisering av eiendeler og gjeld.
+
+Eiendeler bestemt til
+
+varig elie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som omlepsmidler. Fordringer som skal tilbakebetales innen et
+ar er uansett klassifisert som omlepsmidler. Ved klassifiseringen av
+kortsiktig og langsiktig gjeld er analoge kriterier lagt til
+
+grunn.
+
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til
+
+virkelig verdi nar verdifallet forventes ikke 4a vere forbigaende.
+Anleggsmidler med begrenset @konomisk levetid avskrives planmessig.
+Langsiktig gjeld balansefores til nominelt mottatt belep pa
+etableringstidspunktet. Langsiktig gjeld oppskrives ikke til virkelig verdi
+som falge av renteendring.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt mottatt belep pa etableringstidspunktet. Kortsiktig gjeld
+oppskrives ikke til virkelig verdi som falge av renteendring. Enkelte
+poster er vurdert etter andre regler, og redegje@res for nedenfor.
+
+Varige
+
+driftsmidler
+
+Varige driftsmidler avskrives over forventet gokonomisk
+
+levetid. Avskrivningene er som hovedregel fordelt lineert over antatt
+@konomisk levetid.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppferes
+
+til palydende etter fradrag for avsetning til forventet tap. Avsetning til
+tap gj@res pa grunnlag av en individuell vurdering av de enkelte
+fordringene. I tillegg gj@res det for @vrige kundefordringer en
+uspesifisert avsetning for a dekke antatt tap.
+
+Skatter
+
+Skatter
+
+kostnadsfores nar de paleper, det vil si at skattekostnaden er knyttet til
+det regnskapsmessige resultat for skatt.
+
+Skattekostnaden bestar av
+
+betalbar skatt (skatt pa arets skattepliktige inntekt) og endring i netto
+utsatt skatt. Skattekostnaden fordeles pa ordinert resultat og resultat av
+ekstraordinere poster i henhold til skattegrunnlaget. Utsatt skatt og
+utsatt skattefordel er presentert netto i balansen.
+Note
+1
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+2
+Antall Arsverk i regnskapsaret
+1.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+886313.00 720791.00
+Folketrygqdavgift Arets Fjorarets
+83341.00 57946.00
+Andre ytelser Arets Fljorarets
+4434.00 6357.00
+Sum_ lennskostnader Arets Fjorarets
+974088.00 785094.00
+Note
+3
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+Mer om lan og sikkerhetsstillelse
+
+Arsregnskap
+Tannlege Gaute Sivertsen AS
+2025
+
+Resultatregnskap
+Tannlege Gaute Sivertsen AS
+
+Note 2025 2024
+Salgsinntekter 2547 O17 2 229 992
+Sum driftsinntekter 2547017 2 229 992
+Varekostnad 5 124 0
+Lennskostnad 1 884 767 974 088
+Avskrivning varige driftsmidler 7453 12 TTT
+Annen driftskostnad 178 541 184 229
+Sum driftskostnad 1 075 885 1171 093
+Driftsresultat 1 471 132 1 058 899
+Annen renteinntekt 20 549 46 492
+Sum finansinntekter 20 549 46 492
+Annen rentekKostnad 3 307 53
+Sum finanskostnader 3307 53
+Sum netto finansposter 17 241 46 439
+Ordinzrt resultat for skattekostnad 1 488 373 1 105 337
+Skattekostnad pa ordinzert resultat 328 170 243 175
+Ordinzrt resultat 1 160 203 862 162
+Arsresultat 1 160 203 862 162
+Overfert annen egenkapital 2085 -872 513
+Avsatt til konsernbidrag 118118 66 390
+Avsatt til utbytte 1 040 000 1 668 285
+Sum disponert 1 160 203 862 162
+
+Tannlege Gaute Sivertsen AS Org-nr. 925037621
+
+Balanse
+Tannlege Gaute Sivertsen AS
+
+Note 2025 2024
+Eiendeler
+Utsatt skattefordel 82 0
+Sum immaterielle eiendeler 82 0
+Driftslesere, inventar, verktoy o.1. lATTT 20 230
+Sum varige driftsmidler 12777 20 230
+Sum anleggsmidler 12 859 20 230
+Omlepsmidler
+Fordringer
+Andre fordringer 1 872515 218 464
+Bankinnskudd, Kontanter o.1. 90 056 2115015
+Sum omlepsmidler 1 662 571 2 333 479
+Sum eiendeler 1 675 430 2 353 709
+Egenkapital og gjeld
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 2085 0
+Sum opptjent egenkapital 2085 0
+Sum egenkapital 32 085 30 000
+Utsatt skatt 0 318
+Sum avsetninger for forpliktelser 0 318
+Kortsiktig gjeld
+Betalbar skatt 295 255 209 241
+Skyldige offentlige avgifter 54 322 46 S67
+Utbytte 1 040 000 1 668 285
+Kortsiktig konsemgjeld 151 433 142 364
+Annen kortsiktig gjeld 102 335 256 934
+Sum kortsiktig gjeld 1 643 345 2 323 391
+Sum gjeld 1 643 345 2 323 709
+Sum egenkapital og gjeld 1 675 430 2 353 709
+
+sogndal, 22.05.2026
+Styret for Tannlege Gaute Sivertsen AS
+Gaute Sivertsen
+Styrets leder
+
+—“Fannlege Gaute Sivertsen AS) Org-nr. 925037621 tsti(‘SOSCSCS™S
+
+Noter til arsregnskapet
+
+Note 1 Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven 1998. Det er utarbeidet etter norske regnskapsstandarder. |
+utgangspunktet er det reglene for regnskapsoppstilling for sma foretak som er benyttet.
+
+Hovedregel for vurdering og klassifisering av eiendeler og gjeld.
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer som skal tilbakebetales innen et ar er uansett klassifisert som omlg@psmidler. Ved
+
+klassifis eringen av kortsiktig og langsiktig gjeld er analoge kriterier lagt til grunn.
+
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet forventes ikke a veere
+forbigaende. Anleggsmidler med begrenset gkonomisk levetid avskrives planmessig. Langsiktig gjeld balansefgres til
+nominelt mottatt belgp pa etableringstidspunktet. Langsiktig gjeld oppskrives ikke til virkelig verdi som felge av
+renteendring.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt mottatt
+belgp pa etableringstidspunktet. Kortsiktig gjeld oppskrives ikke til virkelig verdi som felge avrenteendring. Enkelte
+poster er vurdert etter andre regler, og redegjgres for nedenfor.
+
+Varige drifts midler
+
+Varige driftsmidler avskrives over forventet @konomisk levetid. Avskrimingene er som hovedregel fordelt lineaert over antatt
+ekonomisk levetid.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til forventet tap. Avsetning til tap
+gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene. | tillegg gjgres det for @wige kundefordringer en
+uspesifisert avsetning for a dekke antatt tap.
+
+Skatter
+
+Skatter kostnadsferes nar de palgper, det vil si at skattekostnaden er knyttet til det regnskapsmessige resultat fer skatt.
+Skattekostnaden bestar av betalbar skatt (skatt pa arets skattepliktige inntekt) og endring i netto utsatt skatt.
+Skattekostnaden fordeles pa ordinaert resultat og resultat av ekstraordinzere poster i henhold til skattegrunnlaget. Utsatt
+skatt og utsatt skattefordel er presentert netto i balansen.
+
+Note 1 Arsverk, Ignn og ytelser
+Antall arsverk iregnskapsaret: 1
+Lonnskostnader
+
+Arets Fjorarets
+Lenn 886 313 720 791
+Folketrygdavgift 83 341 57 946
+Pensjonskostnader
+Andre ytelser 4 434 6 357
+Sum lIonnskostnader 974 088 785 094
+Note 2 Lan/sikkerhet ledende
+Det er ikke gitt lan eller sikkerhetsstillelse til ledende personer, aksjeeiere m.v

@@ -36,7 +36,13 @@ def write_jsonl(path: Path, rows: list[dict]) -> None:
             handle.write(
                 json.dumps(row, ensure_ascii=False, separators=(",", ":")) + "\n"
             )
-    temporary.replace(path)
+    for _ in range(10):
+        try:
+            temporary.replace(path)
+            break
+        except PermissionError:
+            import time
+            time.sleep(0.5)
 
 
 def main() -> None:
@@ -130,6 +136,12 @@ def main() -> None:
             if profile_complete_for_modules(item, [m for m in requested_modules if m != "external_footprint"])
         }
         resumed_profiles = len(state)
+    for profile in profiles:
+        org = profile["organisation_number"]
+        if org in state:
+            merged = dict(profile)
+            merged.update(state[org])
+            state[org] = merged
     pending_profiles = [
         profile for profile in profiles if profile["organisation_number"] not in state
     ]

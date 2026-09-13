@@ -1,0 +1,356 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 708806
+Virksomheten
+Organisasjonsnummer : 998 315 417
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: VESTFOLD BUDSERVICE AS
+Forretningsadresse: Mester Mortens vei 1C
+3123 TONSBERG
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Holmestrand Regnskapssentral AS
+Dato for fastsettelse av arsregnskapet: 22.07.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 23.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 998 315 417
+
+VESTFOLD BUDSERVICE AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 3 144 359 3 073 996
+
+Annen driftsinntekt 145 5 000
+
+Sum inntekter 3 144 504 3 078 996
+
+Kostnader
+
+Varekostnad 3 800 113 398
+
+Lennskostnad 1, 2 1 295 911 1 304 287
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 95 235 83 570
+
+Annen driftskostnad 1 401 610 1 575 226
+
+Sum kostnader 2 796 556 3 076 480
+
+Driftsresultat 347 949 2 515
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 968 2 098
+
+Annen finansinntekt 109 0
+
+Sum finansinntekter 1 O77 2 098
+
+Annen rentekostnad 29 785 38 370
+
+Annen finanskostnad -10 0
+
+Sum finanskostnader 29 775 38 370
+
+Netto finans -28 698 -36 272
+
+Resultat fer skattekostnad 319 251 -33 756
+
+Skattekostnad 70 475 -7 426
+
+Arsresultat 248 776 -26 330
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital 248 776 -26 330
+
+Sum overferinger og
+
+disponeringer 248 776 -26 330
+Utskriftsdato 23.07.2026 Organisasjonsnr 998 315 417 Side 1 av 3
+
+Organisasjonsnr: 998 315 417
+
+VESTFOLD BUDSERVICE AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Tomter, bygninger og
+
+annen fast eiendom 3 0 0
+
+Maskiner og anlegg 3 0 0
+
+Skip, rigger, fly og
+
+lignende 3 0 0
+
+Driftsles@ere, inventar,
+
+verktay, kontormaskiner
+
+og lignende 3 353 292 369 102
+
+Sum varige driftsmidler 353 292 369 102
+
+Sum anleggsmidler 353 292 369 102
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 213 965 201 144
+
+Andre fordringer -6 473 100 783
+
+Sum fordringer 207 492 301 927
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 370 900 316 348
+
+Sum bankinnskudd,
+
+kontanter og lignende 370 900 316 348
+
+Sum omlepsmidler 578 392 618 275
+
+SUM ELENDELER 931 684 987 377
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 50 000 50 000
+
+Overkurs 34 560 34 560
+
+Sum innskutt egenkapital 84 560 84 560
+
+Opptjent egenkapital
+
+Annen egenkapital 604 808 356 033
+
+Sum opptjent egenkapital 604 808 356 033
+Utskriftsdato 23.07.2026 Organisasjonsnr 998 315 417 Side 2 av 3
+
+Sum egenkapital 689 368 440 593
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 19 556 11 400
+
+Sum avsetninger for
+
+forpliktelser 19 556 11 400
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 260 052 365 867
+
+Sum annen langsiktig gjeld 260 052 365 867
+
+Sum langsiktig gjeld 279 608 377 267
+
+Kortsiktig gjeld
+
+Leverandergjeld 72 321 126 321
+
+Betalbar skatt 61 877 -442
+
+Skyldige offentlige
+
+avgifter 146 884 197 398
+
+Utbytte -100 000 0
+
+Annen kortsiktig gjeld -218 373 -153 759
+
+Sum kortsiktig gjeld -37 292 169 518
+
+Sum gjeld 242 316 546 785
+
+SUM EGENKAPITAL OG GJELD 931 684 987 377
+Utskriftsdato 23.07.2026 Organisasjonsnr 998 315 417 Side 3 av 3
+
+Organisasjonsnr: 998 315 417
+
+VESTFOLD BUDSERVICE AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+* *Virksomhet * *
+
+Virksomheten holder til i
+
+Tensberg og leverer i hovedsak transporttjenester til sine kunder.
+
+*k*
+
+Klassifisering **
+
+Eiendeler bestemt til varig eie eller bruk er
+
+klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlepsmidler. Fordringer med forfall mer enn ett Ar etter balansedagen er
+medtatt som anleggsmidler. Gjeld som forfaller senere enn ett Ar etter
+balansedagen er oppfert som langsiktig gjeld.
+
+** Varige driftsmidler
+
+*K*
+
+Varige driftsmidler er vurdert til anskaffelseskost etter fradrag for
+bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av kostpris og
+antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til markedsverdi pa
+
+balansedagen. Andre aksjer er oppfert i regnskapet til kostpris. I de
+tilfeller der den virkelige verdien er lavere enn kostprisen og dette ikke
+er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+*k*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+K*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering felger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilhe@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+2.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+1057830.00 1053914.00
+Folketrygqdavqift Arets Fjorarets
+152799.00 158818.00
+Pensjonskostnader Arets Fjorarets
+25848.00 24289.00
+Andre ytelser Arets Fjorarets
+59434.00 67265.00
+Sum lennskostnader Arets Fjorarets
+1295911.00 1304287.00
+Note
+3
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+501420.00 0.00
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+79425.00 0.00
+Avgang i aret Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+580845.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+227553.00 0.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+353292.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+95235.00 0.00
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler

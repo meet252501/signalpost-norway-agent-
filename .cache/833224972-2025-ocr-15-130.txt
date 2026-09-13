@@ -1,0 +1,633 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 667910
+Virksomheten
+Organisasjonsnummer : 833 224 972
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: STOREBRAND AIF AS
+Forretningsadresse: Professor Kohts vei 9
+1366 LYSAKER
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kari Harm
+Dato for fastsettelse av Aarsregnskapet: 09.04.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 01.08.2026
+Postadresse: Postboks 900, 8910 Brenneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 833 224 972
+
+STOREBRAND AIF AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 11 084 911 5 478 171
+
+Sum kostnader 11 084 911 5 478 171
+
+Driftsresultat -11 084 911 -5 478 171
+
+Finansinntekter og
+
+finanskostnader
+
+Inntekt pa investering i
+
+datterselskap og
+
+tilknyttet selskap 116 058 871 55 982 701
+
+Annen finansinntekt 2 438 734 1 629 293
+
+Sum finansinntekter 0 0
+
+Annen rentekostnad 63 754 994 33 648 472
+
+Annen finanskostnad 204 660 188 430
+
+Sum finanskostnader e) e)
+
+Netto finans 54 537 951 23 775 092
+
+Resultat fer skattekostnad 43 453 040 18 296 921
+
+Skattekostnad 9 559 669 4 024 050
+
+Arsresultat 33 893 371 14 272 871
+
+Totalresultat 33 893 371 14 272 871
+
+Overferinger og
+
+disponeringer
+
+Konsernbidrag 33 893 371 68 619 833
+
+Overferinger til/fra
+
+annen egenkapital -54 346 962
+
+Sum overferinger og
+
+disponeringer 33 893 371 14 272 871
+Utskriftsdato 01.08.2026 Organisasjonsnr 833 224 972 Side 1 av 3
+
+Organisasjonsnr: 833 224 972
+
+STOREBRAND AIF AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Investering 1 datterselskap 1 593 139 338 1 593 139 338
+
+Sum finansielle
+
+anleggsmidler 1 593 139 338 1 593 139 338
+
+Sum anleggsmidler 1 593 139 338 1 593 139 338
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Kundefordringer 116 058 871 106 886 397
+
+Andre fordringer 24 616 31 716
+
+Sum fordringer 116 083 487 106 918 113
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 62 417 239 27 259 472
+
+Sum bankinnskudd,
+
+kontanter og lignende 62 417 239 27 259 472
+
+Sum omlepsmidler 178 500 726 134 177 585
+
+SUM ELENDELER 1 771 640 063 1 727 316 922
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 60 000 60 000
+
+Overkurs 699 964 216 699 964 216
+
+Annen innskutt egenkapital 0 0
+
+Sum innskutt egenkapital 660 773 617 660 773 617
+Utskriftsdato 01.08.2026 Organisasjonsnr 833 224 972 Side 2 av 3
+
+Annen egenkapital -39 250 599 -39 250 599
+
+Sum egenkapital 660 773 617 660 773 617
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Langsiktig konserngjeld 1 000 000 000 1 000 000 000
+
+@vrig langsiktig gjeld -2 968 750 -3 823 750
+
+Sum annen langsiktig gjeld 997 031 250 996 176 250
+
+Sum langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 15 107
+
+Kortsiktig konserngjeld 112 072 873 68 619 833
+
+Annen kortsiktig gjeld 1 747 216 1 747 222
+
+Sum kortsiktig gjeld 113 835 196 70 367 O55
+
+Sum gjeld 1110 866 446 1 066 543 305
+
+SUM EGENKAPITAL OG GJELD 1 771 640 063 1 727 316 922
+Utskriftsdato 01.08.2026 Organisasjonsnr 833 224 972 Side 3 av 3
+
+Organisasjonsnr: 833 224 972
+
+STOREBRAND AIF AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven 1998. Det er
+utarbeidet etter norske regnskapsstandarder. I utgangspunktet er det
+reglene for regnskapsoppstilling for sma foretak som er
+
+benyttet.
+
+Hovedregel for vurdering og klassifisering av eiendeler og
+
+gjeld.
+
+Eiendeler bestemt til varig eie eller bruk er klassifisert som
+anleggsmidler. Andre eiendeler er klassifisert som omle@psmidler. Fordringer
+som skal tilbakebetales innen et ar er uansett klassifisert som
+omlepsmidler. Ved klassifiseringen av kortsiktig og langsiktig gjeld er
+analoge kriterier lagt til grunn.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi nar verdifallet
+forventes ikke a vere forbigaende. Anleggsmidler med begrenset skonomisk
+levetid avskrives planmessig. Langsiktig gjeld balansefores til nominelt
+mottatt belep pa etableringstidspunktet. Langsiktig gjeld oppskrives ikke
+til virkelig verdi som felge av renteendring.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt mottatt belgep pa etableringstidspunktet.
+Kortsiktig gjeld oppskrives ikke til virkelig verdi som falge av
+renteendring. Enkelte poster er vurdert etter andre regler, og redegjores
+for nedenfor.
+
+Varige driftsmidler
+
+Varige driftsmidler avskrives over
+
+forventet @konomisk levetid. Avskrivningene er som hovedregel fordelt
+lineert over antatt skonomisk levetid.
+
+Fordringer
+
+Kundefordringer og andre
+
+fordringer oppferes til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene. I tillegg gj@res det for a@vrige kundefordringer en
+uspesifisert avsetning for a dekke antatt tap.
+
+Skatter
+
+Skatter
+
+kostnadsfores nar de paleper, det vil si at skattekostnaden er knyttet til
+det regnskapsmessige resultat for skatt.
+
+Skattekostnaden bestar av
+
+betalbar skatt (skatt pa arets skattepliktige inntekt) og endring i netto
+utsatt skatt. Skattekostnaden fordeles pa ordinert resultat og resultat av
+ekstraordinere poster i henhold til skattegrunnlaget. Utsatt skatt og
+utsatt skattefordel er presentert netto i balansen.
+
+Note
+
+1
+
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+2
+
+Spesifisering av resultatregnskapet
+Lennkostnader
+
+Note
+
+3
+
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+Mer om lan og sikkerhetsstillelse
+
+<P Admincontrol
+List of Signatures © page 11
+Stb AIF Arsregnskap - Morselskap 2025.pdf
+
+Name Method Signed at
+
+Baltzersen, Anne-Kristine BANKID 2026-03-25 12:11 GMT+01
+
+Lind, Tore BANKID 2026-03-25 12:09 GMT+01
+
+Rebbestad, Gro Opsanger BANKID 2026-03-25 22:42 GMT+01
+iz J 4 This file is sealed with a digital signature. The seal is a guarantee for the authenticity of the dacument.
+4 a External reference: D8376E4C53DD4A14832D64BFC409BDB6
+
+Storebrand AIF AS
+Arsrapport for 2025
+
+er
+
+“alan
+
+ard | OR
+
+Foto: Kari Harm C&D Storebrand
+S A “This file is sealed with a digital signature.
+: <> 4 The Seal is @ guarantee for the authenticity
+
+oe = D8370L4C53DD4A 14832D64BF C409BDBE
+
+Storebrand AIF AS
+Resultatregnskap
+1. januar - 31. desember
+NOK Note 2025 2024
+Andre driftsinntekter - -
+Sum driftsinntekter - -
+Administrasjonskostnader 2,6 11043121 5 478171
+Andre driftskostnader 41791 -
+Sum driftskostnader 11 084911 5 478171
+Driftsresultat -11 084 911 -5 478171
+Finansinntekter 3 2 438 734 1 629 293
+Inntekt pa investering i datterselskap 116 058 871 55 982 701
+Finanskostnader 3 -63 959 654 -33 836 902
+Resultat for skatt 43 453 040 18 296 921
+Skattekostnad 10 -9 559 669 -4 024 050
+Resultat etter skatt 33 893 371 14 272 871
+Arets resultat 33 893 371 14 272 871
+2 “This file is sealed with a digital signature.
+I _: The seal is a guarantee for the authenticity
+are of the document,
+ore Document ID:
+D8376E4C53DD4A14832D64BFC409BDB6
+
+Storebrand AIF AS
+Balanseoppstilling
+EIENDELER Note 31.12.2025 31.12.2024
+MNOK
+Anleggsmidler
+Investeringer i datterselskap 5 1593 139 338 1593 139 338
+Sum anleggsmidler 1593 139 338 1 593 139 338
+Omlgpsmidler
+Fordring pa konsernselskap 7 116 058 871 106 886 397
+Andre kortsiktige fordringer 7 24 616 31716
+Bankinnskudd 62 417 239 27 259 472
+Sum omlgpsmidler 178 500 726 134 177 585
+SUM EIENDELER 1771 640 063 1727 316 922
+EGENKAPITAL OG GJELD Note 31.12.2025 31.12.2024
+MNOK
+Egenkapital
+Innskutt egenkapital
+Akjekapital 4 60 000 60 000
+Overkurs 699 964 216 699 964 216
+Sum innskutt egenkapital 700 024 216 700 024 216
+Opptient egenkapital
+Annen egenkapital -39 250 599 -39 250 599
+Sum opptjent egenkapital -39 250 599 -39 250 599
+Sum egenkapital 4 660 773 617 660 773 617
+Gjeld
+Langsiktig gjeld
+Langsiktig gjeld 8 997 031 250 996 176 250
+Sum langsiktig gjeld 997 031 250 996 176 250
+Kortsiktig gjeld
+Leverandergjeld og annen kortsiktig gjeld 9 1762 323 1747 222
+Avsatt konsernbidrag 10 112 072 873 68 619 833
+Sum kortsiktig gjeld 113 835 196 70 367 055
+Sum gield 1110 866 446 1 066 543 305
+SUM EGENKAPITAL OG GJELD 1771 640 063 1727 316 922
+NETTO EIENDELER 660 773 617 660 773 617
+Styreti Storebrand AIF AS
+Lysaker 20. mars 2026
+Anne-Kristine Baltzersen (sign.)
+Styrets leder
+
+Tore Lind (sign.) Gro Opsanger Rebbestad (sign.)
+Styremedlem Styremedlem
+
+& “*. This file is sealed with a digital signature,
+
+I _: The seal is a guarantee for the authenticity
+
+are of the document,
+
+“meee” Dagument ID:
+D8376E4C53DD4A14832D64BFC409BDB6
+
+Storebrand AIF AS
+
+Innholdsfortegnelse noter:
+
+Note 1: Selskapsinformasjon og regnskapsprinsipper
+
+Note 2: Administrasjonskostnader
+
+Note 3: Netto finansposter
+
+Note 4: Egenkapital og aksjonzerinformasjon
+
+Note 5: Datterselskap
+
+Note 6: Nezerstaende parter
+
+Note 7: Kundefordringer og andre kortsiktige fordringer
+
+Note 8: Langsiktig gjeld
+
+Note 9: Leverandgrgjeld og annen kortsiktig gjeld
+
+Note 10: Skatt
+2 “*. This file is sealed with a digital signature.
+i AY | The seal is a guarantee for the authenticity
+% are ? of the document.
+
+ore Document ID:
+D8376E4C53DD4A14832D64BFC409BDB6
+
+Storebrand AIF AS
+Note 1: Selskapsinformasjon og regnskapsprinsipper
+Storebrand AIF AS ble stiftet 1. mars 2024.
+Arsregnskapet er satt opp i samsvar med regnskapsloven av 1998 og god regnskapsskikk for sma foretak i Norge.
+Hovedregel for vurdering og klassifisering av eiendeler og gjeld
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisertsom omlgpsmidler.
+Fordringer som skal tilbakebetales innen et ar er klassifisert som omlgpsmidler. Ved klassifisering av kortsiktig og langsiktig
+gjeld er tilsvarende kriterier lagt til grunn.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til gienvinnbart belgp dersom dette er lavere enn bokfert verdi, og
+verdifallet forventes ikke a vzere forbigaende. Anleggsmidler med begrenset gkonomisk levetid avskrives planmessig.
+Annen langsiktig gjeld og kortsiktig gjeld er vurdert til palydende belgp.
+Aksjer og andeler i tilknyttet selskap og datterselskap
+Investeringeri datterselskaper vurderes etter kostmetoden. Investeringene blir nedskrevet til virkelig verdi dersom verdifallet
+ikke er forbigaende og det ma anses n@dvendig etter god regnskapsskikk. Utdelinger fra datterselskapene inntektsfares som
+annen finansinntekt. Dersom utdelingen overstiger andel av tilbakeholdt resultat ansees det overskytende som tilbakebetaling
+av investert kapital og reduserer kostprisen.
+Inntekter
+Inntekter regnskapsfgres nar det er opptjent og krav pa vederlag oppstar. Konsembidrag fra datterselskap regnskapsfares i
+samme periode som det avsettes i datterselskapets regnskap. Inntekten regnskapsferes med verdien av vederlaget pa
+transaksjonstidspunktet
+Fordringer
+Kundefordringer og andre fordringer er oppfart til palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjgres
+pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Bankinnskudd, kontanter og kontantstremoppstilling
+Bankinnskudd, kontanter og lignende inkluderer kontanter, bankinnskudd og andre betalingsmidler med forfallsdato som er
+kortere enn tre maneder fra anskaffelse. Kontantstramoppstillingen utarbeides etter den indirekte metode.
+Kostnader
+Kostnader regnskapsfgres som hovedregel i samme periode som tilhgrende inntekt. Kostnader ifom utleiehonorar periodiseres
+over lgpetid pa tilhgrende inngatt leiekontrakt. I de tilfeller det ikke er en klar sammenheng mellom utgifter og inntekter
+fastsettes fordelingen etter skignnsmessige kriterier. @vrige unntak fra sammenstillingsprinsippet er angitt der det er aktuelt.
+Gjeld
+Langsiktig obligasjonsgjeld klassifiseres som langsiktig gjeld i balansen og males til amortisert kost ved bruk av effektiv rente-
+metoden. Ved fgrste gangs innregning males obligasjonsgjelden til virkelig verdi med fradrag for transaksjonskostnader som er
+direkte henfgrbare til utstedelsen av gjelden.
+Obligasjonsgjelden presenteres i balansen netto av eventuelle tilknyttede kostnader, og periodens rentekostnad beregnes ved bruk
+av effektiv rente-metoden.
+Opplysninger om obligasjonsgjelden, inkludert forfallsstruktur, rentesatser, og eventuelle sikkerheter, gis i noter til regnskapet for a
+gi en fullstendig oversikt over selskapets langsiktige finansielle forpliktelser.
+Skatter
+Skattekostnaden sammenstilles med regnskapsmessig resultat far skatt. Skatt knyttet til egenkapitaltransaksjoner er fart mot
+egenkapitalen. Skattekostnaden bestar av betalbar skatt (skatt pa arets direkte skattepliktige inntekt) og endring i netto utsatt
+skatt. Skattekostnaden er fordelt pa ordinzert resultat og resultat av ekstraordinzere poster i henhold til skattegrunnlaget.
+Eventuell utsatt skatt og utsatt skattefordel er presentert netto i balansen.
+& “This file is sealed with a digital signature.
+I _: The seal is a guarantee for the authenticity
+are of the document,
+ore Document ID:
+D8376E4C53DD4A14832D64BFC409BDB6
+
+Storebrand AIF AS
+
+Note 2: Administrasjonskostnader
+
+Administrasjonskostnader
+
+NOK Note 2025 2024
+
+Forvaltningshonorar *) 12 10 280 325 5 085 000
+
+Godtgjgrelse til revisor 263 024 46 250
+
+Andre honorarer *) 12 432 649 346 921
+
+Utleiehonorar 67123 0
+
+Sum 11 043.121 5 478 171
+
+*) Belgpene inkluderer honorar til nzerstaende part (note 12).
+
+Spesifikasjon revisjonshonorar:
+
+NOK 2025 2024
+
+Lovpalagt revisjon 87500 -
+
+Andre attestasjonstjenester 175524 46 250
+
+Andre tjenester utenfor revisjon - -
+
+Skatteradgivning - -
+
+Sum 263 024 46 250
+
+Ytelser til ledende ansatte
+
+Selskapet har ingen egne ansatte og er ikke pliktig til a ha obligatorisk tjenestepensjon. Storebrand AIF kjgper alle
+
+administrative tjenester fra Storebrand Real Estate AS. Informasjonsplikten for Storebrand AIF konsern
+
+vedrgrende godtgjgrelse til forvalterens ansatte er dekket i forvaltningsselskapet Storebrand Asset Management
+
+AS’ arsrapport frem til 31. oktober 2025 ogi Storebrand Real Estate AS’ arsrapport fra 1. november - 31.
+
+desember 2025.
+
+Styret er virksomhetens gverste ledelse, og representerer investorfelleskapet. Styrevervet er personlig. Det er ikke
+
+utbetalt styrehonorar i 2025.
+
+Styret (NOK) Godtgjorelse Tjenestetid fra
+
+Anne-Kristine Baltzersen fe) 16.05.2024
+
+Tore Lind 0 03.11.2025
+
+Gro Opsanger Rebbestad fe) 02.12.2025
+
+Sum 2025 oO
+
+Sum 2024 0
+
+1) Det er ingen styremedlemmer, varamedlemmer, samt nzermeste familie og selskaper som eer andeler der
+
+vedkommende har bestemmende innflytelse, jamfer regnskapsloven 8 7-26.
+& “This file is sealed with a digital signature.
+I _: The seal is a guarantee for the authenticity
+are of the document,
+
+ore Document ID:
+D8376E4C53DD4A14832D64BFC409BDB6
+
+Storebrand AIF AS
+
+Note 3: Netto finansposter
+
+I tabellen nedenfor falger en spesifikasjon av finansinntekter og finanskostnader:
+
+Finansinntekter
+
+NOK Note 2025 2024
+
+Renteinntekter bankinnskudd 2 438 734 1629 293
+
+Inntekt pa investering i datterselskap 116 058 871 55 982 701
+
+Andre finansinntekter -
+
+Sum finansinntekter 118 497 605 57 611 994
+
+Finanskostnader
+
+NOK 2025 2024
+
+Rentekostnader 63 754 994 33 648 472
+
+Andre finanskostnader 204 660 188 430
+
+Sum finanskostnader 63 959 654 33 836 902
+
+Netto finansposter 54 537 951 23 775 092
+“This file is sealed with a digital signature.
+I _: The seal is a guarantee for the authenticity
+are of the document,
+
+“ence Document ID:
+D8376E4C53DD4A14832D64BFC409BDB6
+
+Storebrand AIF AS
+Note 4: Oppstilling av endringer i egenkapitalen
+Annen innskutt Sum innskutt
+NOK Note Aksjekapital Overkurs kapital egenkapital
+Egenkapital 01.01.2025 60 000 699 964 216 0 700 024 216
+0
+Egenkapital pr. 31.12.2025 60 000 699 964 216 o 700 024 216
+Annen opptjent Sum opptjent
+NOK Note egenkapital egenkapital Total egenkapital
+Egenkapital 01.01.2025 -39 250599 -39 250 599 660 773 617
+Totalresultat for perioden 33 893371 33 893 371 33 893 371
+Avgitt konsembidrag -33 893 371 -33 893 371 -33 893 371
+Egenkapital pr. 31.12.2025 -39 250599 -39 250 599 660 773 617
+Alle aksjer og stemmerettigheter er holdt ay Storebrand Asset Management AS. Aksjekapital per 31.12.25 var NOK 60.000 fordelt pa 2.999 A-aksjer og
+1B aksje, hver palydende NOK 20. A-aksjer har ikke stemmerett. B-aksjen har stemmerett.
+& “*. This file is sealed with a digital signature,
+I _: The seal is a guarantee for the authenticity
+are of the document,
+ore Document ID:
+D8376E4C53DD4A14832D64BFC409BDB6

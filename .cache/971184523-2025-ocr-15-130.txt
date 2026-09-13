@@ -1,0 +1,226 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 681929
+Virksomheten
+Organisasjonsnummer : 971 184 523
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ENDOW INVEST AS
+Forretningsadresse: Operagata 49
+0194 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: RAJA NASIR HUSSAIN
+Dato for fastsettelse av arsregnskapet: 30.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 971 184 523
+
+ENDOW INVEST AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 0 126 752
+
+Sum inntekter 0 126 752
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 9 849 106 387
+
+Sum kostnader 9 849 106 387
+
+Driftsresultat -9 849 20 364
+
+Annen rentekostnad 0 21 185
+
+Sum finanskostnader e) 21 185
+
+Netto finans 0 -21 185
+
+Resultat fer skattekostnad -9 849 -820
+
+Skattekostnad -2 347 0
+
+Arsresultat -7 502 -820
+
+Overferinger og
+
+disponeringer
+
+Overferinger til/fra
+
+annen egenkapital -7 502 -820
+
+Sum overferinger og
+
+disponeringer -7 502 -820
+Utskriftsdato 15.07.2026 Organisasjonsnr 971 184 523 Side 1 av 3
+
+Organisasjonsnr: 971 184 523
+ENDOW INVEST AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 2 347
+Sum immaterielle eiendeler 2 347
+Finansielle anleggsmidler
+Lan til foretak i samme
+konsern 442 549 442 549
+Andre fordringer 4 889 4 889
+Sum finansielle
+anleggsmidler 447 438 447 438
+Sum anleggsmidler 449 785 447 438
+Omlepsmidler
+Varer
+Fordringer
+Andre fordringer -1 881 -1 881
+Sum fordringer -1 881 -1 881
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 172 1 215
+Sum bankinnskudd,
+kontanter og lignende 172 1 215
+Sum omlepsmidler -1 709 -666
+SUM ELENDELER 448 076 446 772
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 100 000 100 000
+Sum innskutt egenkapital 100 000 100 000
+Opptjent egenkapital
+Annen egenkapital 272 677 280 179
+Sum opptjent egenkapital 272 677 280 179
+Sum egenkapital 372 677 380 179
+Gjeld
+
+Utskriftsdato 15.07.2026 Organisasjonsnr 971 184 523 Side 2 av 3
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 6 929 0
+Sum annen langsiktig gjeld 6 929 0
+Sum langsiktig gjeld 6 929 0
+Kortsiktig gjeld
+
+Leveranderg)jeld 1 878 0
+Annen kortsiktig gjeld 66 593 66 593
+Sum kortsiktig gjeld 68 471 66 593
+Sum gjeld 75 400 66 593
+SUM EGENKAPITAL OG GJELD 448 076 446 772
+
+Utskriftsdato 15.07.2026 Organisasjonsnr 971 184 523 Side 3 av 3
+
+Organisasjonsnr: 971 184 523
+
+ENDOW INVEST AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00

@@ -1,0 +1,462 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 344694
+Virksomheten
+Organisasjonsnummer : 916 804 261
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: JB HOLDING AS
+Forretningsadresse: Biest@a 6
+4878 GRIMSTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Trond-Willi Isaksen
+Dato for fastsettelse av arsregnskapet: 18.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 19.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 916 804 261
+JB HOLDING AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Kostnader
+Lennskostnad 2,3 11 905
+Annen driftskostnad 10 240
+Sum kostnader 22 145
+Driftsresultat -22 145 0
+Finansinntekter og
+finanskostnader
+Inntekt pa investering i
+datterselskap og
+tilknyttet selskap -9 210
+Inntekt pa andre
+investeringer 9 632
+Annen finansinntekt 41 874
+Sum finansinntekter 42 297
+Netto finans 42 297 0
+Resultat for skattekostnad 20 152
+Skattekostnad 4 340
+Arsresultat 15 812
+Overferinger til/fra
+annen egenkapital 15 812
+Utskriftsdato 19.03.2026 Organisasjonsnr 916 804 261 Side 1 av 3
+
+Organisasjonsnr: 916 804 261
+
+JB HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investeringer 1
+
+tilknyttet selskap 4,5 40 000
+
+Andre fordringer 5 446
+
+Sum finansielle
+
+anleggsmidler 5 40 000 5 446
+
+Sum anleggsmidler 40 000 5 446
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Andre fordringer 65 992
+
+Sum fordringer 65 992
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 0) 0)
+
+Markedsbaserte aksjer 0 0
+
+Markedsbaserte obligasjoner 0 0
+
+Andre markedsbaserte
+
+finansielle instrumenter 0 0
+
+Andre finansielle
+
+instrumenter 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 2 195 154 3 284 046
+
+Sum bankinnskudd,
+
+kontanter og lignende 2 195 154 3 284 046
+
+Sum omlepsmidler 2 195 154 3 350 038
+
+SUM ELENDELER 2 235 154 3 355 484
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 54 148 108 296
+
+Sum innskutt egenkapital 54 148 108 296
+Utskriftsdato 19.03.2026 Organisasjonsnr 916 804 261 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 1 897 166 3.138 528
+Sum opptjent egenkapital 1 897 166 3 138 528
+Sum egenkapital 1 951 314 3 246 824
+Kortsiktig gjeld
+
+Leveranderg)jeld -250
+Betalbar skatt 4 340 29 679
+Annen kortsiktig gjeld 279 500 79 230
+Sum kortsiktig gjeld 283 840 108 659
+Sum gjeld 283 840 108 659
+SUM EGENKAPITAL OG GJELD 2 235 154 3 355 484
+
+Utskriftsdato 19.03.2026 Organisasjonsnr 916 804 261 Side 3 av 3
+
+Organisasjonsnr: 916 804 261
+
+JB HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+=== Note 1: Regnskapsprinsipper [[note-1]]
+
+Arsregnskapet er satt opp 1
+
+samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+
+==== Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa
+
+leveringstidspunktet.
+
+Tjenester inntektsfoeres etter hvert som de
+
+leveres.
+
+==== Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt.
+
+Utsatt skatt er
+
+beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier,
+
+samt ligningsmessig
+
+underskudd til fremfering ved utgangen av regnskapsaret.
+Skatteskende og
+
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofert.
+
+==== Klassifisering
+
+og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til
+
+varig elie og bruk.
+
+Anleggsmidler er vurdert til anskaffelseskost.
+
+Varige
+
+driftsmidler balanseferes og avskrives over driftsmidlets skonomiske
+levetid.
+
+Avskrivingsperioden for fast eiendom anskaffet etter 2009 er
+dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner.
+
+Varige driftsmidler nedskrives til gjenvinnbart
+
+belep ved verdifall som forventes ikke 4 vere forbigaende.
+Gjenvinnbart
+
+belep er det heyeste av netto salgsverdi og verdi i bruk.
+
+Verdi i bruk er
+
+naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivingen
+
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlepsmidler
+
+Omlepsmidler og kortsiktig
+
+gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen,
+samt poster som knytter seg til varekretslapet.
+Omlepsmidler
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto
+salgsverdi.
+==== Fordringer
+Kundefordringer og andre fordringer
+oppfordres til palydende etter fradrag for avsetning til forventet
+tap.
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene.
+Note
+2
+Antall Arsverk i regnskapsaret
+0.00
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+0.00 0.00
+Folketrygdavgift Arets Fjorarets
+0.00 0.00
+Pensjonskostnader Arets Fljorarets
+0.00 0.00
+Andre ytelser Arets Fjorarets
+11905.00 0.00
+Sum lgnnskostnader Arets Fljorarets
+11905.00 0.00
+
+Arsregnskap for 2025
+Jb Holding AS
+Orenr: 916804261
+conta
+
+INNHOLDSLISTE
+Resultat 0... ccc cece ce eee ence eee eee e ee eeeeeeeeeeeeee
+Driftsresultater. 0... ccc ccc cee eee e ence eee eeeeneeeeeeen ld
+Finansinntekter og kostnader ........ 0c. ccc cece cect cece cee ceeeeeeeseed
+Arsresultat.. 0.0... 0 ccc ccc ccc ccc cece cece cee ceeseuseuseuseesseeneeees 3
+OVELPOLINGEr . ce cee cence eee eee e ee eeeeeneseteeead
+SE) =
+Anlegesmidler......... ccc ccc cece ccc c eee tee cee ee eeceesetceeeeseeaa $d
+Oml@psmidler ........ 0. ccc cc cece cece cee eee teen tee eeeeseeeead$d
+Fiendeler .... 0. cc ccc ccc ccc ence eee cece eee en eee eeeeeeeeeeea a A
+Egenkapital .... 0... ccc cc ccc ccc cece cece eee e tee eeeeetenceeeeead
+(=) (0 a
+Egenkapital og gjeld.... 6.0... cc ccc cece cee cee ee tee eeeeneeeeeeD
+Styret 20. ccc ccc cece cece ence eee ee eee teeeeeeeeeeeeeeeeeeaD
+Ce =)
+Note 1: Regnskapsprinsipper......... 00. c cece ccc c eee cee eeeeeee esac
+Note 2: Arsverk ......c ccc ceccececceuceucecceceuceuceccecceceuceucee Td
+Note 3: Lannskostnader ... 20... cc ccc cece cece cece cece eeeeeeaa F
+Note 4: Tilknyttet selskap.. 0.0... 0... cece cece ccc e cece cee ceeeeeeceea A
+Note 5: Langsiktige aksjeinvesteringer. .......... cece cece eee e cee eeeeeee J
+
+RESULTAT
+
+Driftsresultater
+
+Note 2024 2025
+Driftsinntekter 0 0
+Lennskostnad 2,3 ie) 11 905
+Annen driftskostnad ie) 10 240
+Driftskostnader 0 22 145
+Driftsresultat 0 -22 145
+Finansinntekter og kostnader
+
+Note 2024 2025
+Inntekt pa andre investeringer 0 9 632
+Annen finansinntekt 0 41 874
+Finansinntekter 0 42 297
+Finanskostnader 0 0
+Finansinntekter og kostnader 0 42 297
+Arsresultat
+
+Note 2024 2025
+Driftresutat 8 5
+Finansinntekter og kostnader 0 42 297
+Resultat for skattekostnad 0 20 152
+Skattekostnad 0 4 340
+Arsresultat 0 15 812
+Overferinger
+
+2024 2025
+Sum overforinger 0 15 812
+Conta Arsoppgiar, Jb Holding AS
+-3-
+
+BALANSE
+
+Anleggsmidier
+
+Note 2024 2025
+Immaterielle eiendeler 0 0
+Varige driftsmidler 0 0
+Investeringer i tilknyttet selskap 4,5 ie) 40 000
+Andre fordringer 5 446 fe)
+Finansielle anleggsmidler 5 5 446 40 000
+Anleggsmidler 5 446 40 000
+Omlgpsmidler
+
+Note 2024 2025
+Fordringer 65 992 0
+Investeringer 0 0
+Bankinnskudd, kontanter og lignende 3 284 046 2195 154
+Omlgpsmidler 3 350 038 2 195 154
+Eiendeler
+
+Note 2024 2025
+Anleggsmider sss 85 40.000
+Omlgpsmidler 3 350 038 2 195 154
+Eiendeler 3 355 484 2 235 154
+Egenkapital
+
+Note 2024 2025
+Sebkapskapital = 08296 DB
+Innskutt egenkapital 108 296 54 148
+Annen egenkapital 3 138 528 1 897 166
+Opptjent egenkapital 3 138 528 1 897 166
+Egenkapital 3 246 824 1 951 314
+
+Conta Arsoppgiar, Jb Holding AS
+-4-
+
+Gjeld
+
+Note 2024 2025
+Avsetning for forpliktelser 0 0
+Annen langsiktig gjeld 0 0
+Leverandergjeld -250 ie)
+Betalbar skatt 29 679 4 340
+Annen kortsiktig gjeld 79 230 279 500
+Kortsiktig gjeld 108 659 283 840
+Gjeld 108 659 283 840
+Egenkapital og gjeld
+
+Note 2024 2025
+Egenkapital 3 246 824 1 951 314
+Gjeld 108 659 283 840
+Egenkapital og gjeld 3 355 484 2 235 154
+
+Grimstad, 18.03.2026
+Styret i Jb Holding AS
+Trond-Willi lsaksen
+Styreleder
+Julie Fanay Bardsen
+Styremedlem
+Conta Arsoppgiar, Jb Holding AS
+-5-
+
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Driftsinntekter
+Inntektsfering ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfores etter hvert som
+de leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfe@ring ved
+utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reverseres i samme periode er utlignet og nettofart.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets @konomiske levetid.
+Avskrivingsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder
+rabygget og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til
+gjenvinnbart belap ved verdifall som forventes ikke a vere forbigaende.
+Gjenvinnbart belap er det hayeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av
+fremtidige kontantstrammer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for
+nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av oml@psmidler
+Omle@psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Omlapsmidler vurderes til laveste verdi
+av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+Fordringer
+Kundefordringer og andre fordringer oppfordres til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjares pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Conta Arsoppgiar, Jb Holding AS
+
+-6-
+
+Note 2: Arsverk
+Selskapet har sysselsatt O arsverk i 2025.
+Note 3: Lannskostnader
+2024 2025
+
+Lenn 0 i¢)
+Arbeidsgiveravgift 9) 9)
+Pensjon 9) 0
+Andre ytelser ie) 11 905
+Sum f°) 11 905
+Note 4: Tilknyttet selskap
+Selskapet har falgende aksjeinvesteringer klassifisert som tilknyttet selskap:
+Selskap Kommune Eierandel % Arsresultat Egenkapital
+CROSSFIT GRIMSTAD AS Grimstad 36.36 416 802 779 134
+Note 5: Langsiktige aksjeinvesteringer
+Selskapet har aksjeinvesteringer klassifisert som anleggsmidler med folgende verdier:
+
+Anskaffelseskost Balansefert verdi Arets nedskriving
+CROSSFIT GRIMSTAD AS 40 000 40 000 0
+
+Conta Arsoppgiar, Jb Holding AS
+-7-

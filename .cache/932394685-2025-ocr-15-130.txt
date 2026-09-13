@@ -1,0 +1,340 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 480821
+Virksomheten
+Organisasjonsnummer : 932 394 685
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: NUMMER TI AS
+Forretningsadresse: Kommanderkaptein Klincks vei 1
+3183 HORTEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Stig Arne Caray Jakovesi
+Dato for fastsettelse av arsregnskapet: 25.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt everste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 27.05.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 932 394 685
+
+NUMMER TI AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 585 246 557 143
+
+Sum inntekter 585 246 557 143
+
+Kostnader
+
+Varekostnad 264 006 276 068
+
+Lennskostnad 3, 4 5 606 1 419
+
+Avskrivning pa varige
+
+driftsmidler 5 4 176 866
+
+Annen driftskostnad 319 323 399 193
+
+Sum kostnader 593 111 677 546
+
+Driftsresultat -7 865 -120 403
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 2 25
+
+Sum finansinntekter 2 25
+
+Annen rentekostnad 0 -11
+
+Sum finanskostnader 0 -11
+
+Netto finans 2 36
+
+Resultat fer skattekostnad -7 863 -120 367
+
+Arsresultat -7 863 -120 367
+
+Arsresultat etter
+
+minoritetsinteresser -7 863 -120 367
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -7 863 -120 367
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -7 863 -120 367
+
+Sum overferinger og
+
+disponeringer -7 863 -120 367
+Utskriftsdato 27.05.2026 Organisasjonsnr 932 394 685 Side 1 av 3
+
+Organisasjonsnr: 932 394 685
+NUMMER TI AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Goodwill 5 295 000 295 000
+Sum immaterielle eiendeler 295 000 295 000
+Varige driftsmidler
+Driftslesere, inventar,
+verkt@y, kontormaskiner 5 243 000 246 464
+Sum varige driftsmidler 243 000 246 464
+Finansielle anleggsmidler
+Andre langsiktige
+fordringer 196 366 0
+Sum finansielle
+anleggsmidler 196 366 0
+Sum anleggsmidler 734 366 541 464
+Omlepsmidler
+Varer
+Sum varer 0 0
+Fordringer
+Kundefordringer 251 0
+Andre kortsiktige
+fordringer 4 536 13 013
+Sum fordringer 4 787 13 013
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter o.
+1. 2 999 13 365
+Sum bankinnskudd,
+kontanter og lignende 2 999 13 365
+Sum omlepsmidler 7 786 26 378
+SUM ELENDELER 742 152 567 842
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 27.05.2026 Organisasjonsnr 932 394 685 Side 2 av 3
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+@reavrunding -1 1
+
+Udekket tap 153 250 145 388
+
+Sum opptjent egenkapital -153 251 -145 387
+
+Sum egenkapital -123 251 -115 387
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 775 0
+
+@vrig langsiktig gjeld 846 368 644 286
+
+Sum annen langsiktig gjeld 847 143 644 286
+
+Sum langsiktig gjeld 847 143 644 286
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 1 186 0
+
+Leverandergjeld 17 074 38 943
+
+Sum kortsiktig gjeld 18 260 38 943
+
+Sum gjeld 865 403 683 229
+
+SUM EGENKAPITAL OG GJELD 742 152 567 842
+Utskriftsdato 27.05.2026 Organisasjonsnr 932 394 685 Side 3 av 3
+
+Organisasjonsnr: 932 394 685
+
+NUMMER TI AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Horten
+
+Virksomhetens art
+
+Take Away. Cafedrift. Varm og kald mat.
+
+Utleie av lokaler (lukket selskap). Filippinsk mat. Lunch tilbud.
+
+Note
+2
+Er det usikkerhet om fortsatt drift?: Ja
+Det er usikkert om selskapet kan fortsette som for. Arsregnskapet er derfor
+laget uten a legge til grunn
+fortsatt drift. Styret vil likevel gj@re det
+de kan for a drive videre, hvis det lar seg gjore.
+Note
+3
+Antall Arsverk i regnskapsaret
+0.00
+Note
+4
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+0.00 0.00
+Andre ytelser Arets Fjorarets
+5606.00 1419.00
+Sum lennskostnader Arets Fjorarets
+5606.00 1419.00
+Note
+5
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+247330.00 295000.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+247330.00 295000.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+4330.00
+Balansefert verdi 31.12. Varige driftsmidler Immaterielle eiend.
+243000.00 295000.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+3464.00
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler

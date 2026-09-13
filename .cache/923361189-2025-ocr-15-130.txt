@@ -1,0 +1,583 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 371145
+Virksomheten
+Organisasjonsnummer : 923 361 189
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: OTHESA AS
+Forretningsadresse: Bolignummer HO0101
+Malmveien 3B
+3031 DRAMMEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Andreas Harket
+Dato for fastsettelse av Aarsregnskapet: 07.04.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsferer har i
+lepet av regnskapsaret bistatt ved den
+lepende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 11.04.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 923 361 189
+
+OTHESA AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 592 951 1 470 641
+
+Annen driftsinntekt 942 848 601 259
+
+Sum inntekter 2 535 799 2 071 900
+
+Kostnader
+
+Varekostnad 593 22 739
+
+Lennskostnad 1, 2 1 582 840 1 598 089
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 2 200 9 699
+
+Annen driftskostnad 607 145 507 219
+
+Sum kostnader 2 192 778 2 137 746
+
+Driftsresultat 343 021 -65 846
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 24 82
+
+Annen finansinntekt 11 946 0
+
+Sum finansinntekter 11 970 82
+
+Annen rentekostnad 5 396 2 483
+
+Annen finanskostnad 63 51
+
+Sum finanskostnader 5 459 2 534
+
+Netto finans 6 511 -2 452
+
+Resultat fer skattekostnad 349 532 -68 297
+
+Skattekostnad 24 135 0
+
+Arsresultat 325 396 -68 297
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 192 277 -68 297
+
+Annen egenkapital 133 120 0
+Utskriftsdato 11.04.2026 Organisasjonsnr 923 361 189 Side 1 av 3
+
+Organisasjonsnr: 923 361 189
+OTHESA AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 3 0 0
+Driftslesere, inventar,
+verkt@y, kontormaskiner,
+ol. 3 10 998 13 197
+Sum varige driftsmidler 10 998 13 197
+Finansielle anleggsmidler
+Andre langsiktige
+fordringer 8 000 8 000
+Sum finansielle
+anleggsmidler 8 000 8 000
+Sum anleggsmidler 18 998 21 197
+Omlepsmidler
+Varer
+Varer 41 965 6 665
+Fordringer
+Kundefordringer 53 607 9 371
+Andre kortsiktige
+fordringer 8 441 15 030
+Sum fordringer 62 048 24 401
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 388 692 121 234
+Sum bankinnskudd,
+kontanter og lignende 388 692 121 234
+Sum omlepsmidler 492 705 152 300
+SUM ELENDELER 511 702 173 497
+BALANSE - EGENKAPITAL OG
+GJELD
+
+Utskriftsdato 11.04.2026 Organisasjonsnr 923 361 189 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 30 000 30 000
+
+Annen innskutt egenkapital -5 570 -5 570
+
+Sum innskutt egenkapital 24 430 24 430
+
+Opptjent egenkapital
+
+Annen egenkapital 133 120 0
+
+Udekket tap 0 192 277
+
+Sum opptjent egenkapital 133 120 -192 277
+
+Sum egenkapital 157 550 -167 847
+
+Gjeld
+
+Langsiktig gjeld
+
+Utsatt skatt 437 0)
+
+Sum avsetninger for
+
+forpliktelser 437 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 62 958 36 167
+
+Betalbar skatt 23 698 0)
+
+Skyldige offentlige
+
+avgifter 105 431 104 141
+
+Annen kortsiktig gjeld 161 629 201 036
+
+Sum kortsiktig gjeld 353 715 341 344
+
+Sum gjeld 354 153 341 344
+
+SUM EGENKAPITAL OG GJELD 511 702 173 497
+Utskriftsdato 11.04.2026 Organisasjonsnr 923 361 189 Side 3 av 3
+
+Organisasjonsnr: 923 361 189
+
+OTHESA AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Selskapsinformasjon
+
+Othesa AS er et norskt
+
+aksjeselskap som driver med musikalsketjenester og fotterapi.
+
+Selskapet har
+
+tilholdssted i Drammen.
+
+Salgsinntekter
+
+Inntektsforing ved salg av varer
+
+skjer pa leveringstidspunktet. Tjenester inntektsfores etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er
+
+eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretslepet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett ar.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varebeholdninger
+
+Lager av innkj@pte varer er verdsatt
+
+til laveste verdi av anskaffelseskost etter FIFO- prinsippet og virkelig
+verdi. Det foretas nedskrivning for paregnelig ukurans.
+
+Varige
+
+driftsmidler
+
+Varige driftsmidler balansefores og avskrives over
+
+driftsmidlenes levetid dersom de har antatt levetid over 3 ar og har en
+kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidler
+kostnadsfores lepende under driftskostnader, mens pakostninger eller
+forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forevrig er falgende regnskapsprinsipper
+
+anvendt :
+
+FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler, laveste verdis prinsipp for markedsbaserte
+finansielle omle@psmidler. Leieavtaler er ikke balansefort. Fordringer og
+gjeld i utenlandsk valuta er verdsatt til kursen ved regnskapsarets slutt.
+Kursgevinster og kursstap 1 utenlandsk valuta fores som finansinntekt og
+finanskostnad.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt skattemessig
+underskudd til fremfgring ved utgangen av regnskapsaret. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er fastsatt og skattevirkningen er beregnet pa
+nettogrunnlaget.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+2025.
+Note
+1
+Antall Arsverk i regnskapsaret
+2.00
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fjorarets
+1309889.00 1339476.00
+Folketryqdavgift Arets Fljorarets
+190042.00 193200.00
+Pensjonskostnader Arets Fjorarets
+37933.00 29696.00
+Andre ytelser Arets Fjorarets
+44975.00 35717.00
+Sum lennskostnader Arets Fjorarets
+1582840.00 1598089.00
+Note
+3
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+57592.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+57592.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+46595.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+10997.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+2200.00 0.00
+
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjeop
+
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap for
+OTHESA AS
+923361189
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+OTHESA AS
+923 361 189
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1 592 951 1470 641
+Annen driftsinntekt 942 848 601 259
+Sum driftsinntekter 2 535 799 2 071 900
+Driftskostnader
+Varekostnad -593 -22 139
+L@nnskostnad 1,2 -1 582 840 -1 598 089
+Avskrivning pa varige driftsmidler og immaterielle 3 -2 200 -9 699
+eiendeler
+Annen driftskostnad -607 145 -507 219
+Sum driftskostnader -2 192 778 -2 137 746
+Driftsresultat 343 021 -65 846
+Finansinntekter
+Annen renteinntekt 24 82
+Annen finansinntekt 11 946 0
+Sum finansinntekter 11970 82
+Finanskostnader
+Annen rentekostnad -5 396 -2 483
+Annen finanskostnad -63 -51
+Sum finanskostnader -5 459 -2 534
+Netto finans 6 511 -2 452
+Resultat for skattekostnad 349 532 -68 297
+Skattekostnad -24 135 0
+Arsresultat 325 396 -68 297
+Overforinger
+Annen egenkapital 133 120 0
+Udekket tap 192 277 -68 297
+Sum overferinger 325 396 -68 297
+
+OTHESA AS
+923 361 189
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Driftslgs@re, inventar, verktoy, kontormaskiner, ol. 3 10 998 13 197
+Sum varige driftsmidler 10 998 13 197
+Finansielle anleggsmidler
+Andre langsiktige fordringer 8 000 8 000
+Sum finansielle anleggsmidler 8 000 8 000
+Sum anleggsmidler 18 998 21 197
+Omlgpsmidler
+Varer
+Varer 41 965 6 665
+Sum varer 41 965 6 665
+Fordringer
+Kundefordringer 53 607 9 371
+Andre kortsiktige fordringer 8 441 15 030
+Sum fordringer 62 048 24 401
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 388 692 121 234
+Sum bankinnskudd, kontanter og lignende 388 692 121 234
+Sum omlgpsmidler 492 705 152 300
+SUM EIENDELER 511 702 173 497
+
+OTHESA AS
+923 361 189
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 30 000 30 000
+Annen innskutt egenkapital -5 570 -5 570
+Sum innskutt egenkapital 24 430 24 430
+Opptjent egenkapital
+Annen egenkapital 133 120 0
+Udekket tap 0 -192 277
+Sum opptjent egenkapital 133 120 -192 277
+Sum egenkapital 157 550 -167 847
+Gjeld
+Avsetning og forpliktelser
+Utsatt skatt 437 0
+Sum avsetning for forpliktelser 437 0
+Kortsiktig gjeld
+Leverandgrgjeld 62 958 36 167
+Betalbar skatt 23 698 0
+Skyldige offentlige avgifter 105 431 104 141
+Annen kortsiktig gjeld 161 629 201 036
+Sum kortsiktig gjeld 353 715 341 344
+Sum gjeld 354 153 341 344
+SUM EGENKAPITAL OG GJELD 511 702 173 497
+DRAMMEN, 07.04.2026
+Andreas Harket Elin Winge Harket
+styrets leder styremediem
+
+OTHESA AS
+
+923 361 189
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Selskapsinformasjon
+
+Othesa AS er et norskt aksjeselskap som driver med musikalsketjenester og fotterapi.
+
+Selskapet har tilholdssted i Drammen.
+
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belap pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gield med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Varebeholdninger
+
+Lager av innkjgpte varer er verdsatt til laveste verdi av anskaffelseskost etter FIFO- prinsippet og virkelig verdi.
+Det foretas nedskrivning for paregnelig ukurans.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidler kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Forovrig er folgende regnskapsprinsipper anvenct:
+
+FIFOQ-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler, laveste verdis prinsipp for
+markedsbaserte finansielle omlgpsmidler. Leieavtaler er ikke balansefert. Fordringer og gjeld i utenlandsk
+valuta er verdsatt til kursen ved regnskapsarets slutt. Kursgevinster og kursstap i utenlandsk valuta fores som
+finansinntekt og finanskostnad.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremforing ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+OTHESA AS
+923 361 189
+Note 1 - Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 2
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 1 309 889 1 339 476
+Arbeidsgiveravgift 190 042 193 200
+Pensjonskostnader 37 933 29 696
+Andre relaterte ytelser 44 975 35 717
+Sum 1 582 840 1 598 089
+Note 3 - Varige driftsmidler og immaterielle eiendeler
+Varige
+driftsmidler
+Anskaffelseskost 01.01. 57 592
+Tilgang i aret 0
+Avgang i aret 0
+Anskaffelseskost 31.12. 57 592
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -46 595
+Balansefort verdi per 31.12. 10 997
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 2 200
+
+Arsregnskap for
+923361189
+Regnskapsar
+01.01.2025 - 31.12.2025
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/document-check/0e333886-5e30-406e-b1 eb-d73280ca96ae www. vismasign.com
+
+OTHESA AS
+923 361 189
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1 592 951 1470 641
+Annen driftsinntekt 942 848 601 259
+Sum driftsinntekter 2 535 799 2 071 900
+Driftskostnader
+Varekostnad -593 -22 139
+Lgnnskostnad 1,2 -1 582 840 -1 598 089
+Avskrivning pa varige driftsmidler og immaterielle 3 -2 200 -9 699
+eiendeler
+Annen driftskostnad -607 145 -507 219
+Sum driftskostnader -2 192 778 -2 137 746
+Driftsresultat 343 021 -65 846
+Finansinntekter
+Annen renteinntekt 24 82
+Annen finansinntekt 11 946 0
+Sum finansinntekter 11970 82
+Finanskostnader
+Annen rentekostnad -5 396 -2 483
+Annen finanskostnad -63 -51
+Sum finanskostnader -5 459 -2 534
+Netto finans 6 511 -2 452
+Resultat for skattekostnad 349 532 -68 297
+Skattekostnad -24 135 0
+Arsresultat 325 396 -68 297
+Overforinger
+Annen egenkapital 133 120 0
+Udekket tap 192 277 -68 297
+Sum overferinger 325 396 -68 297
+
+Electronically signed / Sahkdisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet $ visma sign
+https://sign.visma.net‘nb/document-check/0e333886-5e30-406e-b1 eb-d73280ca96ae www. vismasign.com

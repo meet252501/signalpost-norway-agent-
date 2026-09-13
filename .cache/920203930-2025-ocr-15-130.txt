@@ -1,0 +1,237 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 334188
+Enheten
+Organisasjonsnummer : 920 203 930
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: MKG HOLDING AS
+Forretningsadresse: c/o Knut Gullesen
+Sykehusgata 49
+8613 MO I RANA
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet til selskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av representant for selskapet: Knut Gullesen
+Dato for fastsettelse av Aarsregnskapet: 06.03.2026
+Revisjon
+Selskapet har besluttet at Aarsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Det er ikke krav til at arsregnskapet m.v. som sendes til Regnskapsregisteret
+er undertegnet. Kontrollien pa at dette er utfert ligger hos revisor/enhetens
+e@verste organ. Sikkerheten ivaretas ved at innsender har rolle/rettighet
+for innsending av arsregnskapet via Altinn, og ved at det bekreftes at
+arsregnskapet er fastsatt av kompetent organ.
+Brenneysundregistrene, 11.03.2026
+Postadresse: Postboks 900, 8910 Brénneysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 920 203 930
+
+MKG HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 24 359 311 967
+
+Sum inntekter 24 359 311 967
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 13 702 11 680
+
+Sum kostnader 13 702 11 680
+
+Driftsresultat 10 657 300 287
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 6 47
+
+Sum finansinntekter 6 47
+
+Netto finans 6 47
+
+Resultat fer skattekostnad 10 663 300 335
+
+Skattekostnad 2 346 62 261
+
+Arsresultat 8 317 238 074
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 243 905 2 486
+
+Overferinger til/fra
+
+annen egenkapital -235 588 235 588
+
+Sum overferinger og
+
+disponeringer 8 317 238 074
+Utskriftsdato 11.03.2026 Organisasjonsnr 920 203 930 Side 1 av 3
+
+Organisasjonsnr: 920 203 930
+
+MKG HOLDING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 58 797 300 432
+
+Sum bankinnskudd,
+
+kontanter og lignende 58 797 300 432
+
+Sum omlepsmidler 58 797 300 432
+
+SUM ELENDELER 58 797 300 432
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Overkurs -5 570 -5 570
+
+Sum innskutt egenkapital 24 430 24 430
+
+Opptjent egenkapital
+
+Annen egenkapital 0 235 588
+
+Udekket tap 422 240 666 145
+
+Sum opptjent egenkapital -422 240 -430 557
+
+Sum egenkapital -397 810 -406 127
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+@vrig langsiktig gjeld 446 000 646 000
+
+Sum annen langsiktig gjeld 446 000 646 000
+
+Sum langsiktig gjeld 446 000 646 000
+
+Kortsiktig gjeld
+
+Leverandergjeld 10 625 0
+
+Betalbar skatt 2 346 62 261
+
+Skyldige offentlige
+
+avgifter -1 O77 -1 701
+Utskriftsdato 11.03.2026 Organisasjonsnr 920 203 930 Side 2 av 3
+
+Annen kortsiktig gjeld -1 287 0
+Sum kortsiktig gjeld 10 607 60 560
+Sum gjeld 456 607 706 560
+SUM EGENKAPITAL OG GJELD 58 797 300 432
+Utskriftsdato 11.03.2026 Organisasjonsnr 920 203 930 Side 3 av 3
+
+Organisasjonsnr: 920 203 930
+
+MKG HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak. ** Klassifisering ** Eiendeler bestemt til
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som omle@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld. ** Varige
+driftsmidler ** Varige driftsmidler er vurdert til anskaffelseskost etter
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid. ** Aksjer ** Omlepsaksjer er vurdert til
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning. ** Fordringer **
+Kundefordringer og andre fordringer er oppfert til palydende etter fradrag
+for konstaterte og forventede tap. ** Skatter ** Skattekostnaden 1
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk. **
+Driftsinntekter og kostnader ** Inntektsforing folger
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+0
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Egenkapial er tapt, men gjelden nansieres av lan fra eierene. Det foreligger
+planer om videre lennsom drift av selskapet.
+
+Note
+
+1
+
+Antall Arsverk i regnskapsaret
+
+0.00

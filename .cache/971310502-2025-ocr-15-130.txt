@@ -1,0 +1,502 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 462572
+Virksomheten
+Organisasjonsnummer : 971 310 502
+Organisasjonsform: Samvirkeforetak
+Foretaksnavn: KLOAKKRENSEANLEGGET
+MYKINGOMRADET SA
+Forretningsadresse: v/Sparebankl Regnskapsh. Valhall AS
+Halandvegen 3B
+3540 NESBYEN
+Regnskapsar
+Arsregnskapets periocde: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet: Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Ole Arne Bugen
+Dato for fastsettelse av arsregnskapet: 29.03.2026
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 15.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 971 310 502
+
+KLOAKKRENSEANLEGGET
+
+MYKINGOMRADET SA
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 1 325 665 1 293 224
+
+Sum inntekter 1 325 665 1 293 224
+
+Kostnader
+
+Lennskostnad 2 534 491 440 040
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 3 110 358 123 183
+
+Annen driftskostnad 839 575 907 850
+
+Sum kostnader 1 484 424 1 471 074
+
+Driftsresultat -158 759 -177 850
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 139 414 135 433
+
+Annen finansinntekt 5 789 5 386
+
+Sum finansinntekter 145 203 140 819
+
+Annen rentekostnad 0 1 247
+
+Sum finanskostnader e) 1 247
+
+Netto finans 145 203 139 572
+
+Resultat fer skattekostnad -13 557 -38 278
+
+Skattekostnad 4 20 404 16 158
+
+Arsresultat -33 961 -54 436
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -33 961 -17 601
+
+Annen egenkapital 0 -36 835
+Utskriftsdato 15.06.2026 Organisasjonsnr 971 310 502 Side 1 av 3
+
+Organisasjonsnr: 971 310 502
+KLOAKKRENS EANLEGGET
+MYKINGOMRADET SA
+BALANSE
+Belop i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Tomter, bygninger og
+annen fast eiendom 3 982 240 1 071 535
+Driftslesere, inventar,
+verktey, kontormaskiner,
+ol. 3 39 968 61 031
+Sum varige driftsmidler 1 022 208 1 132 566
+Finansielle anleggsmidler
+Sum finansielle
+anleggsmidler 0 0
+Sum anleggsmidler 1 022 208 1 132 566
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 2 460 31 145
+Andre kortsiktige
+fordringer 91 697 79 828
+Sum fordringer 94 157 110 973
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 3 534 545 3 362 731
+Sum bankinnskudd,
+kontanter og lignende 3 534 545 3 362 731
+Sum omlepsmidler 3 628 703 3 473 704
+SUM ELENDELER 4 650 910 4 606 269
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+
+Utskriftsdato 15.06.2026 Organisasjonsnr 971 310 502 Side 2 av 3
+
+Selskapskapital 126 255 126 255
+
+Annen innskutt egenkapital 4 430 300 4 349 900
+
+Sum innskutt egenkapital 4 556 555 4 476 155
+
+Opptjent egenkapital
+
+Udekket tap 51 561 17 601
+
+Sum opptjent egenkapital -51 561 -17 601
+
+Sum egenkapital 4 504 993 4 458 554
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 45 608 68 531
+
+Betalbar skatt 4 20 404 16 158
+
+Skyldige offentlige
+
+avgifter 39 029 24 543
+
+Annen kortsiktig gjeld 40 877 38 485
+
+Sum kortsiktig gjeld 145 918 147 716
+
+Sum gjeld 145 918 147 716
+
+SUM EGENKAPITAL OG GJELD 4 650 911 4 606 270
+Utskriftsdato 15.06.2026 Organisasjonsnr 971 310 502 Side 3 av 3
+
+Organisasjonsnr: 971 310 502
+
+KLOAKKRENSEANLEGGET
+
+MYKINGOMRADET SA
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Salgsinntekter
+
+Inntektsfg@ring ved salg av
+
+varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+er eliendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til
+varekretsloapet er klassifisert som omle@psmidler. Fordringer klassifiseres
+som omlepsmidler hvis de forfaller til betaling innen ett ar etter
+transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett 4r.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Varige anleggsmidler avskrives etter en
+fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi
+ved verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belep pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er
+
+oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gj@res pa grunnlag av individuelle vurderinger av de
+enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefores
+
+og avskrives over driftsmidlenes levetid dersom de har antatt levetid over
+3 ar og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av
+driftsmidler kostnadsferes lepende under driftskostnader, mens pakostninger
+eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt skattemessig
+underskudd til fremfering ved utgangen av regnskapsaret. Skattegkende og
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reversere i samme periode er fastsatt og skattevirkningen er beregnet pa
+nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+
+2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.50
+
+Note
+2
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fijorarets
+462754.00 385648.00
+Folketryqdavgift Arets Fjorarets
+49052.00 40879.00
+Andre ytelser Arets Fjorarets
+22685.00 13514.00
+Sum le@nnskostnader Arets Fjorarets
+534491.00 440040.00
+Mer om arsverk og lenn
+Ovennenvte lenn er inkludert styrehonorar til styrets medlemmer med totalt
+kr. 67 000. Herav utgj@r honorar til styrets leder kr 22.000,-. For 2024
+var totalt styrehonorar kr 36 000,- og herav kr 14.000,- til styrets leder.
+Note
+3
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler  Immaterielle eiend.
+2428313 .00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+2428313 .00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+1406105.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+1022208.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler  Immaterielle eiend.
+110358.00 0.00
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap for
+KLOAKKRENSEANLEGGET MYKINGOMRADET
+SA
+971310502
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+KLOAKKRENSEANLEGGET MYKINGOMRADET SA
+971 310 502
+Resultatregnskap
+
+Note 2025 2024
+Driftsinntekter
+Salgsinntekt 1 1 325 665 1 293 224
+Sum driftsinntekter 1325 665 1 293 224
+Driftskostnader
+Lennskostnad 2 -534 491 -440 040
+Avskrivning pa varige driftsmidler og immaterielle 3 -110 358 -123 183
+eiendeler
+Annen driftskostnad -839 575 -907 850
+Sum driftskostnader -1 484 424 -1 471 074
+Driftsresultat -158 759 -177 850
+Finansinntekter
+Annen renteinntekt 139 414 135 433
+Annen finansinntekt 5 789 5 386
+Sum finansinntekter 145 203 140 819
+Finanskostnader
+Annen rentekostnad 0 -1 247
+Sum finanskostnader 0 -1 247
+Netto finans 145 203 139 572
+Resultat for skattekostnad -13 557 -38 278
+Skattekosinad 4 -20 404 -16 158
+Arsresultat -33 961 -54 436
+Overforinger
+Annen egenkapital 0 -36 835
+Udekket tap -33 961 -17 601
+Sum overferinger -33 961 -54 436
+
+KLOAKKRENSEANLEGGET MYKINGOMRADET SA
+971 310 502
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Tomter, bygninger og annen fast eiendom 3 982 240 1071 535
+Driftslgs@re, inventar, verktgy, kontormaskiner, ol. 3 39 968 61 031
+Sum varige driftsmidler 1 022 208 1 132 566
+Sum anleggsmidler 1 022 208 1132 566
+Omlgpsmidler
+Fordringer
+Kundefordringer 2 460 31 145
+Andre kortsiktige fordringer 91 697 79 828
+Sum fordringer 94 157 110 973
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 3 534 545 3 362 731
+Sum bankinnskudd, kontanter og lignende 3 534 545 3 362 731
+Sum omlgpsmidler 3 628 703 3 473 704
+SUM EIENDELER 4650 910 4 606 269
+
+KLOAKKRENSEANLEGGET MYKINGOMRADET SA
+971 310 502
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 126 255 126 255
+Annen innskutt egenkapital 4 430 300 4 349 900
+Sum innskutt egenkapital 4 556 555 4 476 155
+Opptjent egenkapital
+Udekket tap -51 561 -17 601
+Sum opptjent egenkapital -51 561 -17 601
+Sum egenkapital 4 504 993 4 458 554
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 45 608 68 531
+Betalbar skatt 4 20 404 16 158
+Skyldige offentlige avgifter 39 029 24 543
+Annen kortsiktig gjeld 40 877 38 485
+Sum kortsiktig gjeld 145 918 147 716
+Sum gjeld 145 918 147 716
+SUM EGENKAPITAL OG GJELD 4650 911 4 606 270
+NESBYEN, 05.03.2026
+Torfinn Buargy Knut Gudbrandsrud Oddvar Holm
+styrets leder styremediem styremediem
+Rune Owrenn Ihle J@rgen Haraldseth
+styremediem styremediem
+
+KLOAKKRENSEANLEGGET MYKINGOMRADET SA
+
+971 310 502
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Salgsinntekter
+
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som de
+leveres.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets! @pet er
+klassifisert som omlgpsmidler. Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett
+ar etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen
+ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gield med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Varige driftsmidler
+
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidier kostnadsfores Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note 1 - Salgsinntekt
+
+Renseanlegget er dimensjonert for 1500 PE (Personekvivalenter) , hvor 1 PE utgj@r en andel.
+
+Hver hytte krever 3 andeler. Per arsskiftet 2024/2025 var det solgt 1421 andeler. Av disse var
+
+1251 andeler tilkoblet og 170 andeler var ikke tilkoblet.
+
+Det ble fakturert med kr 1287,50 (inkl. mva) pr. PE som var i bruk, mens for PE som ikke er i
+
+bruk ble det fakturert 1/3 pr. PE og varme senger tilhorende neering (Ranten og Fagerhey) ble
+
+det fakturert 0,5 PE pr. seng.
+
+KLOAKKRENSEANLEGGET MYKINGOMRADET SA
+971 310 502
+Note 2 - Lonnskostnader
+Spesifikasjon av lonnskostnader 2025 2024
+Lenn 462 754 385 648
+Arbeidsgiveravgift 49 052 40 879
+Pensjonskostnader 0 0
+Andre relaterte ytelser 22 685 13 514
+sum 534 491 440 040
+Mer om arsverk og Ionn
+Ovennenvte Ignn er inkludert styrehonorar til styrets medlemmer med totalt kr. 67 000. Herav utgj@r honorar til
+styrets leder kr 22.000,-. For 2024 var totalt styrehonorar kr 36 000,- og herav kr 14.000,- til styrets leder.
+Note 3 - Varige driftsmidler og immaterielle eiendeler
+Varige
+driftsmidler
+Anskaffelseskost 01.01. 2 428 313
+Tilgang i aret 0
+Avgang i aret 0
+Anskaffelseskost 31.12. 2 428 313
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -1 406 105
+Balansefort verdi per 31.12. 1 022 208
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 110 358
+Note 4 - Spesifisering av skatt
+Skattekostnad 2025 2024
+Betalbar skatt pa alminnelig inntekt 6 098 2215
+Formuesskatt 14 306 13 943
+Skattekostnad 20 404 16 158
+Skattepliktig inntekt
+Resultat for skatt -13 557 -38 278
+Permanente forskjeller 0 576
++/- Endring i midlertidige forskjeller 41 274 47770
+Skattepliktig inntekt 27 717 10 068
+Betalbar skatt i balansen
+Betalbar skatt pa arets resultat 6 098 2215
+Formuesskatt 14 306 13 943
+Betalbar skatt i balansen 20 404 16 158
+Antall arsverk
+Antall arsverk sysselsatt i regnskapsaret: 0,5
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.

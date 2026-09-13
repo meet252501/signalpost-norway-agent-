@@ -1,0 +1,435 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 586359
+Virksomheten
+Organisasjonsnummer : 924 579 889
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: THIS IS NARVIK AS
+Forretningsadresse: Falkbergets vei 25
+8517 NARVIK
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Kevin Jakobsen
+Dato for fastsettelse av arsregnskapet: 31.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 25.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 924 579 889
+
+THIS IS NARVIK AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 1 25 000 25 000
+
+Annen driftskostnad 28 883 15 009
+
+Sum kostnader 53 883 40 009
+
+Driftsresultat -53 883 -40 009
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 148 275
+
+Sum finansinntekter 148 275
+
+Sum finanskostnader e) e)
+
+Netto finans 148 275
+
+Resultat fer skattekostnad -53 735 -39 734
+
+Arsresultat -53 735 -39 734
+
+Annen egenkapital -53 735 -39 734
+Utskriftsdato 25.06.2026 Organisasjonsnr 924 579 889 Side 1 av 3
+
+Organisasjonsnr: 924 579 889
+
+THIS IS NARVIK AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verkt@y, kontormaskiner,
+
+ol. 1 57 292 82 292
+
+Sum varige driftsmidler 57 292 82 292
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 fe]
+
+Sum anleggsmidler 57 292 82 292
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 12 830 26 484
+
+Sum bankinnskudd,
+
+kontanter og lignende 12 830 26 484
+
+Sum omlepsmidler 12 830 26 484
+
+SUM ELENDELER 70 122 108 776
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 2, 3 300 000 300 000
+
+Sum innskutt egenkapital 300 000 300 000
+
+Opptjent egenkapital
+
+Annen egenkapital 3 0 -192 287
+
+Udekket tap 3 246 021 0
+Utskriftsdato 25.06.2026 Organisasjonsnr 924 579 889 Side 2 av 3
+
+Sum opptjent egenkapital -246 021 -192 287
+
+Sum egenkapital 53 979 107 713
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 fe]
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Leverandergjeld 16 144 1 063
+
+Sum kortsiktig gjeld 16 144 1 063
+
+Sum gjeld 16 144 1 063
+
+SUM EGENKAPITAL OG GJELD 70 122 108 776
+Utskriftsdato 25.06.2026 Organisasjonsnr 924 579 889 Side 3 av 3
+
+Organisasjonsnr: 924 579 889
+
+THIS IS NARVIK AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk.
+
+Eiendeler som er knyttet til varekretslopet er klassifisert som
+omlepsmidler. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden
+forfaller til betaling innen ett Ar.
+
+Omlepsmidler vurderes til laveste av
+
+anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til
+nominelt belgep pa etableringstidspunktet. Anleggsmidler vurderes til
+anskaffelseskost. Varige anleggsmidler avskrives etter en fornuftig
+avskrivningsplan. Anleggsmidlene nedskrives til virkelig verdi ved
+verdifall som ikke forventes 4 vere forbigaende. Langsiktig gjeld med
+unntak av andre avsetninger balansefores til nominelt belgep pa
+etableringstidspunktet.
+
+Varige driftsmidler
+
+Varige driftsmidler
+
+balanseferes og avskrives over driftsmidlenes levetid dersom de har antatt
+levetid over 3 ar og har en kostpris som overstiger kr 30 000. Direkte
+vedlikehold av driftsmidler kostnadsfores lopende under driftskostnader,
+mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og
+avskrives i takt med driftsmidlet.
+
+Forevrig er foalgende
+
+regnskapsprinsipper anvendt:
+
+Leieavtaler er ikke balansefort.
+
+Selskapet
+
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Selskapet har mindre enn 50% egenkapital og Aksjekapitalen ansees som delvis
+tapt.
+
+Styret er i arbeidet med endring av drift noe som skal fore til sterre
+inntjening og bedre resultater. Styret mener at fremtiden i bedriften ser
+god ut.
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Note
+
+1
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+200000.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+200000.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+142708.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+57292 .00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+25000.00 0.00
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap for
+THIS IS NARVIK AS
+924579889
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+THIS IS NARVIK AS
+924 579 889
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Avskrivning pa varige driftsmidler og immaterielle 1 -25 000 -25 000
+eiendeler
+Annen driftskostnad -28 883 -15 009
+Sum driftskostnader -53 883 -40 009
+Driftsresultat -53 883 -40 009
+Finansinntekter
+Annen renteinntekt 148 275
+Sum finansinntekter 148 275
+Netto finans 148 275
+Arsresultat -53 735 -39 734
+Overforinger
+Annen egenkapital -53 735 -39 734
+Sum overferinger -53 735 -39 734
+
+THIS IS NARVIK AS
+924 579 889
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Varige driftsmidler
+Driftslgs@re, inventar, verktoy, kontormaskiner, ol. 1 57 292 82 292
+Sum varige driftsmidler 57 292 82 292
+Sum anleggsmidler 57 292 82 292
+Omlgpsmidler
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 12 830 26 484
+Sum bankinnskudd, kontanter og lignende 12 830 26 484
+Sum omlgpsmidler 12 830 26 484
+SUM EIENDELER 70 122 108 776
+
+THIS IS NARVIK AS
+924 579 889
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 2,3 300 000 300 000
+Sum innskutt egenkapital 300 000 300 000
+Opptjent egenkapital
+Annen egenkapital 3 0 -192 287
+Udekket tap 3 -246 021 0
+Sum opptjent egenkapital -246 021 -192 287
+Sum egenkapital 53 979 107 713
+Gjeld
+Kortsiktig gjeld
+Leverandgrgjeld 16 144 1 063
+Sum kortsiktig gjeld 16 144 1 063
+Sum gjeld 16 144 1 063
+SUM EGENKAPITAL OG GJELD 70 122 108 776
+NARVIK, 31.05.2026
+Trond Indresand Helene Hgiem-Jakobsen Kevin Jakobsen
+styrets leder styremediem styremediem / daglig leder
+
+THIS IS NARVIK AS
+924 579 889
+Noter
+Arten av virksomhet og hvor virksomheten drives
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+Anleggsmidler er eiendeler bestemt til varig eie eller bruk. Eiendeler som er knyttet til varekrets!@pet er
+klassifisert som omlgpsmidler. Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling
+innen ett ar.
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Varige anleggsmidler avskrives
+etter en fornuftig avskrivningsplan. Anleggsmidliene nedskrives til virkelig verdi ved verdifall som ikke forventes
+a veere forbigaende. Langsiktig gjeld med unntak av andre avsetninger balansefgres til nominelt belap pa
+etableringstidspunktet.
+Varige driftsmidler
+Varige driftsmidler balansefgres og avskrives over driftsmidlenes levetid dersom de har antatt levetid over 3 ar
+og har en kostpris som overstiger kr 30 000. Direkte vedlikehold av driftsmidler kostnadsfgres Igpende under
+driftskostnader, mens pakostninger eller forbedringer tillegges driftsmidlets kostpris og avskrives i takt med
+driftsmidlet.
+Forevrig er folgende regnskapsprinsipper anvendt:
+Leieavtaler er ikke balansefart.
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+Note 1 - Varige driftsmidler og immaterielle eiendeler
+Varige
+driftsmidler
+Anskaffelseskost 01.01. 200 000
+Tilgang i aret 0
+Avgang i aret 0
+Anskaffelseskost 31.12. 200 000
+Samlede avskrivninger, nedskrivninger og reverseringer av nedskrivninger -142 708
+Balansefort verdi per 31.12. 57 292
+Avskrivninger, nedskrivninger og reverseringer av nedskrivninger i regnskapsaret 25 000
+Note 2 - Aksjekapital
+Aksjenes
+Aksjeklasse Antall aksjer palydende Bokfert verdi
+A-aksjer 100 3 000 300 000
+Aksjonzerer Antall aksjer Eierandel % Aksjeklasse
+KEVIN JAKOBSEN 48 48,00 A-aksjer
+TROND INDRESAND 48 48,00 A-aksjer
+HELENE H@IEMJAKOBSEN 4 4,00 A-aksjer
+Totalt antall aksjer 100 100
+
+THIS IS NARVIK AS
+924 579 889
+Note 3 - Egenkapital
+Opptjent
+Aksjekapital egenkapital Udekket tap sum
+Egenkapital 31.12.2024 300 000 -192 287 0 107 713
+Arsresultat 0 -53 735 0 -53 735
+Andre endringer 0 246 021 -246 021 0
+Egenkapital 31.12.2025 300 000 0 -246 021 53 979
+Antall arsverk
+Selskapet har ikke hatt ansatte i Iopet av regnskapsaret.
+Spesifisering av skatt
+Skattepliktig inntekt 2025 2024
+Resultat for skatt -53 735 39 734
++/- Endring i midlertidige forskjeller 12 829 8 986
+Skattepliktig inntekt -40 905 48 720
+Midlertidige forskjeller - utsatt skatt/skattefordel
+Utsatt skatt/utsatt skattefordel i balansen avsettes pa grunnlag av forskjeller mellom regnskapsmessige og
+skattemessige verdier i henhold til norsk regnskapsstandard for skatt.
+Midlertidige skatteskende og skattereduserende forskjeller som kan utlignes er nettofert.
+Midlertidige forskjeller knyttet til: 01.01.2025 31.12.2025 Endring
+Anleggsmidler 31 581 18 752 12 829
+Fremferbart underskudd -234 188 -275 093 40 905
+Netto forskjeller -202 607 -256 341 53 735
+Skattereduserende forskjeller som ikke kan utlignes 202 607 256 341 -53 735
+Sum midlertidige forskjeller som inngar i grunnlag for 0 0 0
+utsatt skatt/skattefordel
+Utsatt skatt 31.12.2025 basert pa 22 % 0 0 0
+Usikkerhet om fortsatt drift
+Det er knyttet usikkerhet til fortsatt drift.
+Selskapet har mindre enn 50% egenkapital og Aksjekapitalen ansees som delvis tapt.
+Styret er i arbeidet med endring av drift noe som skal fore til storre inntjening og bedre resultater. Styret mener
+at fremtiden i bedriften ser god ut.

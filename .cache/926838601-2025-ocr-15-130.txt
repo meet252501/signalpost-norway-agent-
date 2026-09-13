@@ -1,0 +1,416 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 509490
+Virksomheten
+Organisasjonsnummer : 926 838 601
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ACADEMY OF TRIBES AS
+Forretningsadresse: Bjerregaards gate 28A
+0172 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Eric Andreas Helsem Schaumburg
+Dato for fastsettelse av arsregnskapet: 01.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 02.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 926 838 601
+
+ACADEMY OF TRIBES AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 11 843 8 561
+
+Sum kostnader 11 843 8 561
+
+Driftsresultat -11 843 -8 561
+
+Finansinntekter og
+
+finanskostnader
+
+Sum finansinntekter 0 e)
+
+Sum finanskostnader 0 0
+
+Netto finans 0 0
+
+Resultat fer skattekostnad -11 843 -8 561
+
+Arsresultat -11 843 -8 561
+
+Arsresultat etter
+
+minoritetsinteresser -11 843 -8 561
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat -11 843 -8 561
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -11 843 -8 561
+
+Sum overferinger og
+
+disponeringer -11 843 -8 561
+Utskriftsdato 02.06.2026 Organisasjonsnr 926 838 601 Side 1 av 3
+
+Organisasjonsnr: 926 838 601
+
+ACADEMY OF TRIBES AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Andre kortsiktige
+
+fordringer 372 372
+
+Sum fordringer 372 372
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Sum bankinnskudd,
+
+kontanter og lignende 0 0
+
+Sum omlepsmidler 372 372
+
+SUM ELENDELER 372 372
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+
+Opptjent egenkapital
+
+@reavrunding 1 1
+
+Udekket tap 71 061 59 217
+
+Sum opptjent egenkapital -71 060 -59 216
+Utskriftsdato 02.06.2026 Organisasjonsnr 926 838 601 Side 2 av 3
+
+Sum egenkapital -41 060 -29 216
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Sum langsiktig gjeld 0 fe]
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 27 688 15 052
+
+Skyldig offentlige avgifter 3 852 4 644
+
+Annen kortsiktig gjeld 9 892 9 892
+
+Sum kortsiktig gjeld 41 432 29 588
+
+Sum gjeld 41 432 29 588
+
+SUM EGENKAPITAL OG GJELD 372 372
+Utskriftsdato 02.06.2026 Organisasjonsnr 926 838 601 Side 3 av 3
+
+Organisasjonsnr: 926 838 601
+
+ACADEMY OF TRIBES AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Oslo
+
+Virksomhetens art
+
+Radgivning, coaching, informasjonsdeling.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Ja
+
+Det er usikkert om selskapet kan fortsette som for. Arsregnskapet er derfor
+laget uten a legge til grunn
+
+fortsatt drift. Styret vil likevel gj@re det
+
+de kan for a drive videre, hvis det lar seg gjore.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Academy Of Tribes AS
+(926 838 601)
+Academy Of Tribes AS Arsregnskap Side 1 av5
+
+Resultatregnskap Noter 2025 2024
+Driftskostnader
+
+Annen driftskostnad 11 843 8 561
+Sum driftskostnader 11 843 8 561
+Driftsresultat -11843 -8561
+Resultat for skatt -11843 -8561
+Arsresultat -11843 -8561
+Overforinger og disponeringer
+
+Udekket tap -11 843 -8 561
+Sum overferinger og disponeringer -11 843 -8 561
+
+Academy Of Tribes AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Omlepsmidler
+Fordringer
+Andre kortsiktige fordringer 372 372
+Sum fordringer 372 372
+Sum omlepsmidier 372 372
+Sum eiendeler 372 372
+Academy Of Tribes AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+Aksjekapital (selskapskapital) 30 000 30 000
+Sum innskutt egenkapital 30 000 30 000
+Opptjent egenkapital
+Annen egenkapital 1 1
+Udekket tap -71 061 -59 217
+Sum opptjent egenkapital -71060 -59216
+Sum egenkapital -41060 -29216
+Gijeld
+Kortsiktig gjeld
+Gjeld til kredittinstitusjoner, kortsiktig 27 688 15 052
+Skyldig offentlige avgifter 3 852 4644
+Annen kortsiktig gjeld 9 892 9 892
+Sum kortsiktig gjeld 41 432 29 588
+Sum gjeld 41 432 29 588
+Sum egenkapital og gjeld 372 372
+Academy Of Tribes AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Oslo
+Virksomhetens art
+Radgivning, coaching, informasjonsdeling.
+Note 2: Usikkerhet rundt fortsatt drift
+Det er usikkert om selskapet kan fortsette som for. Arsregnskapet er derfor laget uten a legge
+til grunn fortsatt drift. Styret vil likevel gjore det de kan for 4 drive videre, hvis det lar seg gjore.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Academy Of Tribes AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Eric Schaumburg <schaumburg.eric@gmail.com>
+Elektronisk signering
+ERIC ANDREAS HELSEM SCHAUMBURG
+12.09.1992 - Daglig leder, Styreleder
+Y) Signert
+01.06.2026 01:09
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 01.06.2026 01:07:49

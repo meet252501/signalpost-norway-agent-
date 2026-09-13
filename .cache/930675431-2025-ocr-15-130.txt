@@ -1,0 +1,457 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 702227
+Virksomheten
+Organisasjonsnummer : 930 675 431
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: GJ GRANDE HOLDING AS
+Forretningsadresse: Steinskarveien 2
+7153 GARTEN
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Ja
+Konsernregnskap lagt ved: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Geir Johan Grande
+Dato for fastsettelse av Aarsregnskapet: 30.06.2026
+Revisjon
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lgpet av regnskapsaret bistatt ved den
+le@pende regnskapsferingen eller utfert
+andre tjenester for selskapet enn a4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 08.08.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 930 675 431
+
+GJ GRANDE HOLDING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 40 235 39 484
+
+Sum kostnader 40 235 39 484
+
+Driftsresultat -40 235 -39 484
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 151 602
+
+Sum finansinntekter 151 602
+
+Sum finanskostnader 0 0
+
+Netto finans 151 602
+
+Resultat fer skattekostnad -40 084 -38 882
+
+Arsresultat -40 084 -38 882
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -40 084 -38 882
+Utskriftsdato 08.08.2026 Organisasjonsnr 930 675 431 Side 1 av 3
+
+Organisasjonsnr: 930 675 431
+GJ GRANDE HOLDING AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum immaterielle eiendeler 0 0
+Varige driftsmidler
+Sum varige driftsmidler 0 0
+Finansielle anleggsmidler
+Investering 1 datterselskap 14 373 000 13 373 000
+Investering i annet
+foretak i samme konsern 1 0) 0)
+Sum finansielle
+anleggsmidler 14 373 000 13 373 000
+Sum anleggsmidler 14 373 000 13 373 000
+Omlepsmidler
+Varer
+Fordringer
+Konsernfordringer 1 1 913 246 2 812 246
+Sum fordringer 1 913 246 2 812 246
+Investeringer
+Sum investeringer 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 90 938 232 021
+Sum bankinnskudd,
+kontanter og lignende 90 938 232 021
+Sum omlepsmidler 2 004 184 3 044 268
+SUM ELENDELER 16 377 184 16 417 268
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 2 35 000 35 000
+Overkurs 2 15 995 000 15 995 000
+Sum innskutt egenkapital 16 030 000 16 030 000
+Opptjent egenkapital
+
+Utskriftsdato 08.08.2026 Organisasjonsnr 930 675 431 Side 2 av 3
+
+Annen egenkapital 2 0 0
+
+Udekket tap 2 183 897 143 814
+
+Sum opptjent egenkapital -183 897 -143 814
+
+Sum egenkapital 15 846 103 15 886 186
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Kortsiktig konserngjeld 1 474 962 474 962
+
+Annen kortsiktig gjeld 56 120 56 120
+
+Sum kortsiktig gjeld 531 082 531 082
+
+Sum gjeld 531 082 531 082
+
+SUM EGENKAPITAL OG GJELD 16 377 184 16 417 268
+Utskriftsdato 08.08.2026 Organisasjonsnr 930 675 431 Side 3 av 3
+
+Organisasjonsnr: 930 675 431
+
+GJ GRANDE HOLDING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak og avlagt under forutsetning om fortsatt
+drift.
+
+Klassifisering og vurdering av balanseposter
+
+Fordringer
+
+klassifiseres som omlepsmidler hvis de forfaller til betaling innen ett ar
+etter transaksjonsdagen. Tilsvarende klassifiseres gjeld som kortsiktig
+hvis gjelden forfaller til betaling innen ett 4r.
+
+Omlepsmidler vurderes
+
+til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balansefores til nominelt belep pa etableringstidspunktet. Anleggsmidler
+vurderes til anskaffelseskost. Langsiktig gjeld med unntak av andre
+avsetninger balansefores til nominelt belep pa etableringstidspunktet.
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til
+
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap
+gj@res pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+Forevrig er falgende regnskapsprinsipper anvendt:
+
+Kostmetoden er benyttet
+
+for investeringer i datterselskap/tilknyttet selskap. Utbytte er
+inntektsfert samme Ar som det er avsatt i datterselskap/tilknyttet selskap,
+dersom det er sannsynlig at bel@pet vil mottas. Ved utbytte som overstiger
+andel av tilbakeholdt resultat etter kj@pet representerer den overskytende
+del tilbakebetaling av investert kapital, og er fratrukket investeringens
+verdi i balansen.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til
+
+2025.
+
+Note
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Note
+
+1
+
+Konsern, tilknyttet selskap m.v.
+
+Investering som regnskapsferes etter egenkapitalmetoden
+
+Konsernregnskap
+
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Konsern, tilknyttet selskap m.v. - fordringer og gjeld
+Fordringer
+Samlet belep - foretak i samme konserm Arets Fjorarets
+1913246.00 2812246.00
+Kortsiktig gjeld
+Samlet belep - foretak i samme konsern Arets Fjorarets
+474962 .00 474962 .00
+Samlet forpliktelse til fordel for foretak i samme konsern
+Mer om tilknyttet selskap/datterselskap
+Selskapet kommer inn under reglene om sma selskaper, definert i
+regnskapslovens § 1-6, og har med hjemmel i regnskapslovens § 3-2, 3.ledd
+unnlatt a utarbeide konsernregnskap.
+Kostmetoden er benyttet for
+investeringer i datterselskap/tilknyttet selskap.
+
+' @ Systemrevis) on Fosen AS @ Afjord @ Indre Fosen ® @riand
+REVISJON, REGNSKAP OG @KONOMISK RADGIVNING Ovre Arnes 2 Radhusvn. 20 Maren Juets gt 1
+7170 Afjord 7100 Rissa 7130 Brekstad
+Tif. 72 53 16 22 TIf. 73 85 10.20 Tlf. 72 51 3120
+Til generalforsamlingen i Gj Grande Holding AS
+Uavhengig revisors beretning
+Konklusjon
+Vi har revidert 4arsregnskapet for Gj Grande Holding AS som viser et underskudd pa kr 40.084. Ars-
+regnskapet bestar av balanse per 31. desember 2025, resultatregnskap for regnskapsaret avsluttet
+per denne datoen og noter til arsregnskapet, herunder et sammendrag av viktige regnskapsprinsip-
+per.
+Etter var mening
+e oppfylier arsregnskapet gjeldende lovkrav, og
+e = gir arsregnskapet et rettvisende bilde av selskapets finansielle stilling per 34. desember 2025
+og av dets resultater for regnskapsaret avsluttet per denne datoen i samsvar med regnskaps-
+lovens regler og god regnskapsskikk i Norge.
+Grunnlag for konklusjonen
+Vi har gjennomfgrt revisjonen i samsvar med den internasjonale revisjonsstandarden for revisjon av
+regnskap til mindre komplekse enheter (ISA for MKE). Vare oppgaver og plikter i henhold til ISA for
+MKE er beskrevet nedenfor under Revisors oppgaver og plikter ved revisjonen av arsregnskapet. Vi er
+uavhengige av selskapet i samsvar med kravene i relevante lover og forskrifter i Norge og Internatio-
+nal Code of Ethics for Professional Accountants {inkludert internasjonale uavhengighetsstandarder)
+utstedt av International Ethics Standards Board for Accountants (IESBA-reglene}, og vi har overholdt
+vare @vrige etiske forpliktelser i samsvar med disse kravene. Innhentet revisjonsbevis er etter var vur-
+dering tilstrekkelig og hensiktsmessig som grunnlag for var konklusjon.
+Ledelsens ansvar for arsregnskapet
+Styret og daglig leder (ledelsen) er ansvarlige for 4 utarbeide arsregnskapet og for at det gir et rettvi-
+sende bilde i samsvar med regnskapslovens regler og god regnskapsskikk i Norge. Ledelsen er ogsa
+ansvarlig for slik internkontroll som den finner nédvendig for 4 kunne utarbeide et arsregnskap som
+ikke inneholder vesentlig feilinformasjon, verken som fdlge av misligheter eller utilsiktede feil.
+Ved utarbeidelsen av arsregnskapet ma ledelsen ta standpunkt til selskapets evne til fortsatt drift og
+opplyse om forhold av betydning for fortsatt drift. Forutsetningen om fartsatt drift skal legges til
+grunn for arsregnskapet sa lenge det ikke er sannsynlig at virksomheten vil bli avviklet.
+Revisors oppgaver og pilkter ved revisjonen av arsregnskapet
+Vart mal er a oppna betryggende sikkerhet for at arsregnskapet som helhet ikke inneholder vesentlig
+feilinformasjon, verken som fdlge av misligheter eller utilsiktede feil, og 4 avgi en revisjonsberetning
+som innehalder var konklusjon. Betryggende sikkerhet er en hgy grad av sikkerhet, men ingen garanti
+for at en revisjon utfgrt i samsvar med ISA for MKE, alltid vil avdekke vesentlig feilinformasjon. Feilin-
+formasjon kan oppsta som f¢lge av misligheter eller utilsiktede feil. Feilinformasjon er 4 anse som ve-
+sentlig dersom den enkeltvis eller samlet med rimelighet kan forventes 4 pavirke de gkonomiske be-
+slutningene som brukerne foretar, pa grunnlag av arsregnskapet.
+For videre beskrivelse av revisors oppgaver og plikter vises det til https://revisorforeningen.no/om-
+revision/revisionsberetning-revisors-oppeaver-og-plikter/.
+ee
+Ansvartige revisorer: Stig-Roar Gutteivik Henrik Janvik Ragnar Hods Systemrevisjon Fosen AS
+Org. nr. NO 980 545 717
+Autorisert stigroar@systemrevisjon. ne henrik@systemrevisjon.no ragnar@systemrevisjon. no Bankkto. 4213 08 91289
+Regnskapsfarerselskap Mobil 994 65 932 Mobil = 98111 952 Mobil 913 50 952
+Meadlemmer av www.systemrevisjon.no
+Den norske Revisorforening
+
+@ Systemrevisjon Fosen AS BAfjord  — Windre Fosen i @rland
+REVISJON, REGNSKAP OG @KONOMISK RADGIVNING Bvre Arnes 2 Radhusvn. 20 Maren Juels gt 1
+7170 Afjord 7100 Rissa 7130 Brekstad
+Tlf. 72 53 46 22 JUf, 73 8510 20 Tif. 72 513120
+Afjord, 30. juni 2026
+Systemrevisjon Fosen AS
+¢ lL.
+Roenall Hoas
+statsautorisert revisor
+Ansvarlige revisorer: Stig-Roar Guttelvik Henrik Jonvik Ragnar Hoas |  $ystemrevisjon Fosen AS
+Org. nr. NO 980 545 717
+Autorisert stigroar@systemrevisjor.no henrik@systemrevisjon.no ragnar@systemrevisjon.no Bankkto. 4213 08 91289
+Regnskapsfererselskap Mobil 994 65 932 Mobil 98111 952 Mobil 913 50 952
+Mediemmer av www. systemrevisjon.no
+Den norske Revisorforening
+
+Arsregnskap for
+GJ GRANDE HOLDING AS
+930675431
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+Utarbeidet av
+
+Sparebank 1 Regnskapshuset SMN AS
+
+Org.nr. 936 285 066
+
+GJ GRANDE HOLDING AS
+930 675 431
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -40 235 -39 484
+Sum driftskostnader -40 235 -39 484
+Driftsresultat -40 235 -39 484
+Finansinntekter
+Annen renteinntekt 151 602
+Sum finansinntekter 151 602
+Netto finans 151 602
+Arsresultat -40 084 -38 882
+Overforinger
+Udekket tap -40 084 -38 882
+Sum overferinger -40 084 -38 882
+
+GJ GRANDE HOLDING AS
+930 675 431
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Anleggsmidler
+Finansielle anleggsmidler
+Investering i datterselskap 14 373 000 13 373 000
+Sum finansielle anleggsmidler 14 373 000 13 373 000
+Sum anleggsmidler 14 373 000 13 373 000
+Omlgpsmidler
+Fordringer
+Kortsiktige kKonsernfordringer 1 1 913 246 2 812 246
+Sum fordringer 1913 246 2 812 246
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 90 938 232 021
+Sum bankinnskudd, kontanter og lignende 90 938 232 021
+Sum omlgpsmidler 2 004 184 3 044 268
+SUM EIENDELER 16 377 184 16 417 268
+
+GJ GRANDE HOLDING AS
+930 675 431
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 2 35 000 35 000
+Overkurs 2 15 995 000 15 995 000
+Sum innskutt egenkapital 16 030 000 16 030 000
+Opptjent egenkapital
+Udekket tap 2 -183 897 -143 814
+Sum opptjent egenkapital -183 897 -143 814
+Sum egenkapital 15 846 103 15 886 186
+Gjeld
+Kortsiktig gjeld
+Kortsiktig konserngjeld 1 474 962 474 962
+Annen kortsiktig gjeld 56 120 56 120
+Sum kortsiktig gjeld 531 082 531 082
+Sum gjeld 531 082 531 082
+SUM EGENKAPITAL OG GJELD 16 377 184 16 417 268
+GARTEN, 30.06.2026
+Geir Johan Grande John Gunnar Stream Roger Restad
+styrets leder / daglig leder styremediem styremediem
+
+GJ GRANDE HOLDING AS
+
+930 675 431
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak og avlagt
+under forutsetning om fortsatt drift.
+
+Klassifisering og vurdering av balanseposter
+
+Fordringer klassifiseres som omlgpsmidler hvis de forfaller til betaling innen ett ar etter transaksjonsdagen.
+Tilsvarende klassifiseres gjeld som kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefores til nominelt
+belgp pa etableringstidspunktet. Anleggsmidler vurderes til anskaffelseskost. Langsiktig gjeld med unntak av
+andre avsetninger balansefgres til nominelt belap pa etableringstidspunktet.
+
+Fordringer
+
+Kundefordringer og andre fordringer er oppfert i balansen til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av individuelle vurderinger av de enkelte fordringene.
+
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+Kostmetoden er benyttet for investeringer i datterselskap/tilknyttet selskap. Utbytte er inntektsfort samme ar
+som det er avsatt i datterselskap/tilknyttet selskap, dersom det er sannsynlig at belgpet vil mottas. Ved utbytte
+som overstiger andel av tilbakeholdt resultat etter kjopet representerer den overskytende del tilbakebetaling av
+investert kapital, og er fratrukket investeringens verdi i balansen.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Arten av virksomhet og hvor virksomheten drives
+
+Gj Grande Holding AS gjer investeringer i andre selskap. Selskapet har sin virksomhet pa Uthaug i @rland
+Kommune.
+
+GJ GRANDE HOLDING AS
+930 675 431
+Antall arsverk
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.
+Lan og sikkerhetsstillelse til ledende personer, eiere med videre
+Det er ikke gitt lan eller sikkerhetsstillelse til medlemmer av styrende organer.
+Note 1 - Konsern, tilknyttet selskap m.v.
+Fordringer
+2025 2024
+Samlet belap som gjelder foretak i samme konsern 1 913 246 2 812 246
+Kortsiktig gjeld
+2025 2024
+Samlet belgp som gjelder foretak i samme konsern 474 962 474 962
+Mer om tilknyttet selskap/datterselskap
+Selskapet kommer inn under reglene om sma selskaper, definert i regnskapslovens § 1-6, og har med hjemmel
+i regnskapslovens § 3-2, 3.ledd unnlatt 4 utarbeide konsernregnskap.
+Kostmetoden er benyttet for investeringer i datterselskap/tilknyttet selskap.
+Note 2 - Egenkapital
+Aksjekapital Overkurs Udekket tap sum
+Egenkapital 31.12.2024 35 000 15 995 000 -143 814 15 886 186
+Arsresultat 0 0 -40 084 -40 084
+Egenkapital 31.12.2025 35 000 15 995 000 -183 897 15 846 103

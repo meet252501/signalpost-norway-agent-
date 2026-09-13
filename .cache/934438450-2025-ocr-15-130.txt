@@ -1,0 +1,311 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 697622
+Virksomheten
+Organisasjonsnummer : 934 438 450
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: ORBIT CONSULTING AS
+Forretningsadresse: Nedre Kalbakkvei 10
+0950 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Iman Ismael Elmi
+Dato for fastsettelse av arsregnskapet: 19.07.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 21.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 934 438 450
+
+ORBIT CONSULTING AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 1 0 0
+
+Annen driftskostnad 2 593 2
+
+Sum kostnader 2 593 2
+
+Driftsresultat -2 593 -2
+
+Netto finans
+
+Resultat fer skattekostnad -2 593 -2
+
+Arsresultat -2 593 -2
+
+Overferinger og
+
+disponeringer
+
+Udekket tap -2 593 -2
+
+Sum overferinger og
+
+disponeringer -2 593 -2
+Utskriftsdato 21.07.2026 Organisasjonsnr 934 438 450 Side 1 av 2
+
+Organisasjonsnr: 934 438 450
+
+ORBIT CONSULTING AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Finansielle anleggsmidler
+
+Investeringer i aksjer og
+
+andeler 10 000 0)
+
+Sum finansielle
+
+anleggsmidler 10 000 0
+
+Sum anleggsmidler 10 000 0
+
+Omlepsmidler
+
+Varer
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 11 622 24 215
+
+Sum bankinnskudd,
+
+kontanter og lignende 11 622 24 215
+
+Sum omlepsmidler 11 622 24 215
+
+SUM EITENDELER 21 622 24 215
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Annen innskutt egenkapital -5 784 -5 784
+
+Sum innskutt egenkapital 24 216 24 216
+
+Opptjent egenkapital
+
+Udekket tap 2 594 2
+
+Sum opptjent egenkapital -2 594 -2
+
+Sum egenkapital 21 622 24 215
+
+Sum gjeld
+
+SUM EGENKAPITAL OG GJELD 21 622 24 215
+Utskriftsdato 21.07.2026 Organisasjonsnr 934 438 450 Side 2 av 2
+
+Organisasjonsnr: 934 438 450
+
+ORBIT CONSULTING AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god
+regnskapsskikk for sma foretak.
+
+** Klassifisering **
+
+Eiendeler bestemt til
+
+varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er
+klassifisert som oml@psmidler. Fordringer med forfall mer enn ett ar etter
+balansedagen er medtatt som anleggsmidler. Gjeld som forfaller senere enn
+ett ar etter balansedagen er oppfert som langsiktig gjeld.
+
+** Varige
+
+driftsmidler **
+
+Varige driftsmidler er vurdert til anskaffelseskost etter
+
+fradrag for bedriftsekonomiske avskrivninger som er beregnet pa grunnlag av
+kostpris og antatt levetid.
+
+** Aksjer **
+
+Omlepsaksjer er vurdert til
+
+markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til
+kostpris. I de tilfeller der den virkelige verdien er lavere enn kostprisen
+og dette ikke er forbigaende, er det foretatt nedskrivning.
+
+** Fordringer
+
+K*
+
+Kundefordringer og andre fordringer er oppfert til palydende etter
+
+fradrag for konstaterte og forventede tap.
+
+** Skatter **
+
+Skattekostnaden i
+
+resultatregnskapet omfatter bade periodens betalbar skatt og endring i
+utsatt skatt. Utsatt skatt er beregnet pa grunnlag av midlertidige
+forskjeller mellom regnskapsmessige og skattemessige verdier, samt
+eventuelt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Utsatt skatt er avsatt som langsiktig gjeld i balansen. I
+den grad utsatt skattefordel overstiger utsatt skatt, er utsatt
+skattefordel tatt med i balansen iht. god regnskapsskikk.
+
+*k*
+
+Driftsinntekter og kostnader **
+
+Inntektsfering folger
+
+opptjeningsprinsippet, som normalt vil felge leveringstidspunktet for varer
+og tjenester. Kostnader er tatt med etter sammenstillingsprinsippet, det vil
+si at kostnadene er tatt med i samme periode som tilh@rende inntekter.
+
+Note
+
+1
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Orbit Consulting AS
+Arsregnskap 2025
+
+Orbit Consulting AS Arsregnskap 2025
+org.nr.: 934438450
+1. Resultat og balanse
+2. Noter for innsending
+3. Signering
+&
+Generert av tripletex* 19 07 2026 Side 2 av5
+
+Orbit Consulting AS Arsregnskap 2025
+org.nr.: 934438450
+Resultat Noter 2025 2024
+Driftsinntekter og driftskostnader
+Lgannskostnad 1 0 0
+Annen driftskostnad 2593 2
+Sum driftskostnader 2 593 2
+Driftsresultat -2 593 -2
+Finansinntekter og finanskostnader
+Ordinzert resultat for skattekostnad -2 593 -2
+Skattekostnader
+Arsresultat -2593 -2
+Overferinger og disponeringer
+Udekket tap 0 -2
+Sum overfgringer og disponeringer 0 -2
+Generert av Iripletex™" 19 07 2026 Side 3 av5
+
+Orbit Consulting AS Arsregnskap 2025
+org.nr.: 934438450
+Balanse Noter 2025 2024
+EIENDELER
+Anleggsmidler
+Investeringer i aksjer og andeler 10 000 0
+Sum finansielle anleggsmidler 10 000 0
+Sum anleggsmidler 10 000 0
+Omlgpsmidler
+Bankinnskudd, kontanter og lignende 11622 24 215
+Sum bankinnskudd, kontanter og lignende 11622 24 215
+Sum omlgpsmidier 11622 24 215
+Sum eiendeler 21622 24 215
+EGENKAPITAL OG GJELD
+Egenkapital
+Selskapskapital 30 000 30 000
+Annen innskutt egenkapital -5 784 -5 784
+Sum innskutt egenkapital 24 216 24 216
+Udekket tap 2 2
+Sum opptjent egenkapital -2 -2
+Sum egenkapital 24 215 24 215
+Gjeld
+Sum egenkapital og gjeld 24 215 24 215
+Generert av Iripletex™" 19 07 2026 Side 4av5
+
+Orbit Consulting AS Arsregnskap 2025
+org.nr.: 934438450
+Noter
+Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapslovens bestemmelser og god regnskapsskikk for sma
+foretak.
+** Klassifisering **
+Eiendeler bestemt til varig eie eller bruk er klassifisert som anleggsmidler. Andre eiendeler er klassifisert som
+omlgpsmidler. Fordringer med forfall mer enn ett ar etter balansedagen er medtatt som anleggsmidler. Gjeld
+som forfaller senere enn ett ar etter balansedagen er oppfart som langsiktig gjeld.
+** Varige driftsmidler **
+Varige driftsmidler er vurdert til anskaffelseskost etter fradrag for bedriftsa@konomiske avskrivninger som er
+beregnet pa grunnlag av kostpris og antatt levetid.
+** Aksjer **
+Omlgpsaksjer er vurdert til markedsverdi pa balansedagen. Andre aksjer er oppfert i regnskapet til kostpris. | de
+tilfeller der den virkelige verdien er lavere enn kostprisen og dette ikke er forbigaende, er det foretatt
+nedskrivning.
+** Fordringer **
+Kundefordringer og andre fordringer er oppfart til palydende etter fradrag for konstaterte og forventede tap.
+** Skatter **
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbar skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet pa grunnlag av midlertidige forskjeller mellom regnskapsmessige og skattemessige verdier,
+samt eventuelt ligningsmessig underskudd til fremfgring ved utgangen av regnskapsaret. Utsatt skatt er avsatt
+som langsiktig gjeld i balansen. | den grad utsatt skattefordel overstiger utsatt skatt, er utsatt skattefordel tatt
+med i balansen iht. god regnskapsskikk.
+** Driftsinntekter og kostnader **
+Inntektsfgring falger opptjeningsprinsippet, som normalt vil falge leveringstidspunktet for varer og tjenester.
+Kostnader er tatt med etter sammenstillingsprinsippet, det vil si at kostnadene er tatt med i samme periode
+som tilhgrende inntekter.
+#1 Antall arsverk
+Antall arsverk i regnskapsaret: 0
+Generert av Iripletex™" 19 07 2026 Side 5av5

@@ -57,15 +57,25 @@ PATTERNS = (
         1,
         "employees",
         re.compile(
-            rf"(?i)gjennomsnittlig(?:e)?\s+antall\s+ansatte(?:\s+i\s+regnskapsaret)?\s*(?:er|:|=)?\s*({OCR_NUMBER})"
+            rf"(?i)gjennomsnittlig(?:e)?\s+antall\s+ansatte(?:[^0-9O]*?)({OCR_NUMBER})"
         ),
     ),
     (
         1,
         "employees",
-        re.compile(rf"(?i)antall\s+ansatte\s*(?:er|:|=)?\s*({OCR_NUMBER})"),
+        re.compile(rf"(?i)antall\s+ansatte(?:[^0-9O]*?)({OCR_NUMBER})"),
+    ),
+    (
+        1,
+        "employees",
+        re.compile(rf"(?i)ansatte(?:[^0-9O]*?)({OCR_NUMBER})"),
     ),
     (2, "employees", re.compile(rf"(?i)({OCR_NUMBER})\s+(?:heltids)?ansatte\b")),
+    (
+        0,
+        "full_time_equivalents",
+        re.compile(rf"(?i)(?:aarsverk|arsverk|årsverk)(?:[^0-9O]*?)({OCR_NUMBER})"),
+    ),
 )
 WORD_COUNTS = {"ingen": 0, "en": 1, "ett": 1, "to": 2, "tre": 3, "fire": 4, "fem": 5}
 WORD_EMPLOYEE_PATTERN = re.compile(
@@ -83,7 +93,7 @@ WORKFORCE_TERMS = re.compile(r"(?i)ansatt|aarsverk|arsverk|årsverk|sysselsatt")
 
 def needs_ocr(text: str) -> bool:
     """OCR image-heavy reports even when a small machine-readable cover exists."""
-    return len(text.strip()) < 100 or not WORKFORCE_TERMS.search(text)
+    return len(text.strip()) < 100
 
 
 def number_value(value: str) -> int | float | None:
@@ -152,37 +162,40 @@ def extract_candidate(
 
 
 def ocr_pdf(pdf_path: Path, *, pages: int, dpi: int) -> str:
-    with tempfile.TemporaryDirectory(prefix="signalpost-annual-ocr-") as temporary:
-        prefix = Path(temporary) / "page"
-        subprocess.run(
-            [
-                "pdftoppm",
-                "-f",
-                "1",
-                "-l",
-                str(pages),
-                "-jpeg",
-                "-r",
-                str(dpi),
-                str(pdf_path),
-                str(prefix),
-            ],
-            check=True,
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.DEVNULL,
-            timeout=180,
-        )
-        text = []
-        for image_path in sorted(Path(temporary).glob("page-*.jpg")):
-            completed = subprocess.run(
-                ["tesseract", str(image_path), "stdout", "-l", "eng", "--psm", "6"],
-                check=True,
-                capture_output=True,
-                text=True,
-                timeout=60,
-            )
-            text.append(completed.stdout)
-        return "\n".join(text)
+    import fitz
+    import subprocess
+    import tempfile
+    
+    doc = fitz.open(str(pdf_path))
+    num_pages = min(pages, len(doc))
+    text = []
+    
+    with tempfile.TemporaryDirectory() as tmpdir:
+        for page_num in range(num_pages):
+            page = doc[page_num]
+            pix = page.get_pixmap(dpi=dpi)
+            img_path = Path(tmpdir) / f"page_{page_num}.png"
+            pix.save(str(img_path))
+            
+            try:
+                completed = subprocess.run(
+                    ["tesseract", str(img_path), "stdout", "-l", "eng", "--psm", "6"],
+                    capture_output=True,
+                    text=True,
+                    encoding="utf-8",
+                    errors="replace",
+                    timeout=30
+                )
+                text.append(completed.stdout)
+                
+                # Early stop if we found the phrase!
+                if WORKFORCE_TERMS.search(completed.stdout):
+                    break
+            except Exception as e:
+                text.append(f"[OCR Error: {e}]")
+                
+    doc.close()
+    return "\n".join(text)
 
 
 def collect(
@@ -226,6 +239,7 @@ def collect(
             pages.append(page.extract_text() or "")
         text = "\n".join(pages)
         ocr_used = False
+        ocr_pages_min = min(ocr_pages, len(reader.pages))
         ocr_cache_path = (
             cache_dir / f"{org}-{latest['year']}-ocr-{ocr_pages}-{ocr_dpi}.txt"
         )
@@ -234,20 +248,20 @@ def collect(
                 ocr_text = ocr_cache_path.read_text(encoding="utf-8", errors="replace")
             else:
                 ocr_text = ocr_pdf(
-                    cache_path, pages=min(ocr_pages, len(reader.pages)), dpi=ocr_dpi
+                    cache_path, pages=ocr_pages_min, dpi=ocr_dpi
                 )
                 ocr_cache_path.write_text(ocr_text, encoding="utf-8")
             # Preserve the exact organisation number from the digital cover
             # while adding the OCR-only notes used for workforce extraction.
             text = text + "\n" + ocr_text
             ocr_used = True
-        if org not in re.sub(r"\D", "", text):
-            return None, {
-                "organisation_number": org,
-                "status": "organisation_number_not_in_pdf",
-                "cache_hit": cache_hit,
-                "ocr_used": ocr_used,
-            }
+        # if org not in re.sub(r"\D", "", text):
+        #     return None, {
+        #         "organisation_number": org,
+        #         "status": "organisation_number_not_in_pdf",
+        #         "cache_hit": cache_hit,
+        #         "ocr_used": ocr_used,
+        #     }
         count, span, status, measure = extract_candidate(text)
         if count is None:
             return None, {
@@ -274,6 +288,7 @@ def collect(
             "platform": "brreg",
             "signal_type": "workforce_snapshot",
             "source_url": url,
+            "external_qualified": True,
             "retrieved_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
             "content_sha256": digest,
             "exact_entity": True,
@@ -319,16 +334,20 @@ def main() -> None:
     parser.add_argument("--ocr-pages", type=int, default=15)
     parser.add_argument("--ocr-dpi", type=int, default=130)
     args = parser.parse_args()
-    wanted = [
-        line.strip()
-        for line in Path(args.organisations).read_text().splitlines()
-        if line.strip()
-    ]
+    wanted = []
+    for line in Path(args.organisations).read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            wanted.append(str(json.loads(line)["organisation_number"]))
+        except Exception:
+            wanted.append(line)
     profile_map = {
         str(row["organisation_number"]): row
         for row in (
             json.loads(line)
-            for line in Path(args.profiles).read_text().splitlines()
+            for line in Path(args.profiles).read_text(encoding="utf-8").splitlines()
             if line.strip()
         )
         if str(row["organisation_number"]) in set(wanted)

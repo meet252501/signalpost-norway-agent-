@@ -1,0 +1,422 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 581936
+Virksomheten
+Organisasjonsnummer : 833 480 332
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: RING RISIKO AS
+Forretningsadresse: Thurmanns gate 10A
+0461 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Erlend Ringstad
+Dato for fastsettelse av arsregnskapet: 23.06.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 25.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 833 480 332
+
+RING RISIKO AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Kostnader
+
+Lennskostnad 2 0 0
+
+Annen driftskostnad 2 478 6 031
+
+Sum kostnader 2 478 6 O31
+
+Driftsresultat -2 478 -6 031
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 4 022 868
+
+Sum finansinntekter 4 022 868
+
+Netto finans 4 022 868
+
+Resultat fer skattekostnad 1 544 -5 163
+
+Arsresultat 1 544 -5 163
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 0 -5 163
+
+Overferinger annen
+
+egenkapital 1 544 0
+
+Sum overferinger og
+
+disponeringer 1 544 -5 163
+Utskriftsdato 25.06.2026 Organisasjonsnr 833 480 332 Side 1 av 3
+
+Organisasjonsnr: 833 480 332
+RING RISIKO AS
+BALANSE
+Belsp i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Sum anleggsmidler
+Omlepsmidler
+Varer
+Fordringer
+Andre kortsiktige
+fordringer 3 0 0
+Sum fordringer 0 0
+Investeringer
+Andre finansielle
+instrumenter 1 000 000 1 000 000
+Sum investeringer 1 000 000 1 000 000
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 96 381 94 837
+Sum bankinnskudd,
+kontanter og lignende 96 381 94 837
+Sum omlepsmidler 1 096 381 1 094 837
+SUM ELENDELER 1 096 381 1 094 837
+BALANSE - EGENKAPITAL OG
+GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 30 000 30 000
+Overkurs 1 070 000 1 070 000
+Sum innskutt egenkapital 1 100 000 1 100 000
+Opptjent egenkapital
+Annen egenkapital 4 0 0
+Udekket tap 3 619 5 163
+Sum opptjent egenkapital -3 619 -5 163
+Sum egenkapital 1 096 381 1 094 837
+Sum gjeld
+
+Utskriftsdato 25.06.2026 Organisasjonsnr 833 480 332 Side 2 av 3
+
+SUM EGENKAPITAL OG GJELD 1 096 381 1 094 837
+Utskriftsdato 25.06.2026 Organisasjonsnr 833 480 332 Side 3 av 3
+
+Organisasjonsnr: 833 480 332
+
+RING RISIKO AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og NRS 8 - God
+regnskapsskikk for sma foretak.
+
+Arten av virksomheten og hvor den
+
+drives
+
+Selskapets virksomhet bestar av [angi virksomhet], og drives i [angi
+geografisk omrade] .
+
+Valuta
+
+Pengeposter i utenlandsk valuta vurderes iht
+
+kursen ved regnskapsarets slutt.
+
+Driftsinntekter
+
+Inntektsforing ved salg
+
+av varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert
+som de leveres.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt. Utsatt skatt er
+beregnet med Skattesats pa grunnlag av de midlertidige forskjeller som
+eksisterer mellom regnskapsmessige og skattemessige verdier, samt
+ligningsmessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reverseres 1 samme periode er utlignet og
+
+nettofert.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler
+
+omfatter eiendeler bestemt til varig eile og bruk. Anleggsmidler er vurdert
+til anskaffelseskost. Varige driftsmidler balanseferes og avskrives over
+driftsmidlets @konomiske levetid. Avskrivningsperioden for fast eiendom
+anskaffet etter 2009 er dekomponert i en del som gjelder rabygget og en del
+som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives
+til gjenvinnbart bel@p ved verdifall som forventes ikke a vere forbigaende.
+Gjenvinnbart belep er det heyeste av netto salgsverdi og verdi i bruk. Verdi
+i bruk er naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivningen reverseres nar grunnlaget for nedskrivningen ikke lenger er
+til stede.
+
+Omlepsmidler og kortsiktig gjeld omfatter normalt poster som
+
+forfaller til betaling innen ett ar etter balansedagen, samt poster som
+knytter seg til varekretslepet. Omlepsmidler vurderes til laveste verdi av
+anskaffelseskost og antatt virkelig verdi.
+
+Aksjer i
+
+datterselskap
+
+Investeringer i datterselskap er vurdert etter kostmetoden
+
+ettersom konsernet samlet ikke overstiger grensen for sma
+
+foretak.
+
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og
+netto salgsverdi.
+Fordringer
+Kundefordringer og andre fordringer oppferes
+til palydende etter fradrag for avsetning til forventet tap. Avsetning til
+tap gj@res pa grunnlag av en individuell vurdering av de enkelte
+fordringene.
+Pensjonsforpliktelser
+Pensjonsforpliktelser finansiert over
+driften er beregnet og balansefoert under avsetning for forpliktelser.
+Pensjonsordninger finansiert via sikrede ordninger er ikke balansefort.
+Pensjonspremien anses i disse tilfeller som pensjonskostnad og
+klassifiseres sammen med lennskostnader.
+Garanti
+Det er avsatt til
+forventede garantikostnader. Garantiavsetningen er i balansen oppfert under
+annen kortsiktig gjeld.
+Note
+4
+Er det usikkerhet om fortsatt drift?: Nei
+Note
+2
+Antall Arsverk i regnskapsaret
+0.00
+Note
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Tilgang i aret Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Avgang i aret Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+0.00 0.00
+
+@konomisk levetid Immaterielle eiend.
+0
+Anskaffelseskost - balanseferte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjop
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+Kons ernregns kap
+Virksomheten inngar i konsolideringen til morselskapets konsernregnsk.: Nei
+Morselskapet sitt navn
+Forretningskontor for morselskapet
+Datterselskap er utelatt fra konsolideringen: Nei
+Begrunnelse for at datterselskap er utelatt fra konsolideringen
+Note
+Beholdning av eqne aksjer Antall Palydende Andel av _aksjek.
+0.00 0.00%
+Erverv
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Andel av _aksjekapital Egne aksjer I_morselskap
+0.00% 0.00%
+Avhendelse
+Endringer i beholdning av aksjer i lepet av regnskapsaret
+Andel av aksjekapital Egne aksjer I_morselskap
+0.00% 0.00%
+Samvirkeforetak
+Vedtektsbestemmelser/arsmoetevedtak/forslag til vedtak om medlemskapskonti
+Mer om aksjer
+Note
+3
+Lan og sikkerhetsstillelse til medlemmer
+Opplysninger om: Medlemmer av:
+
+Rentesats styret Andre organ
+0.00% 0.00%
+Mer om 14n og sikkerhetsstillelse
+Det er ikke gitt lan eller sikkerhetsstillelse til styret eller ledende
+personer.
+
+Arsregnskap 2025
+RING RISIKO AS
+
+Orgnr: 833480332
+
+Utarbeidet ved hjelp av
+
+DNB Regnskap - levert av Uni Micro
+
+g p Noter 2025 2024
+Driftsinntekter
+Sum driftsinntekt 0 0
+Driftskostnader
+L@nnskostnad 2 0 0
+Annen driftskostnad 2478 6 031
+Sum driftskostnad 2478 6 031
+Driftsresultat -2 478 -6 031
+Finansinntekter
+Annen finansinntekt 4 022 868
+Sum finansinntekt 4 022 868
+Netto finans 4 022 868
+Resultat fer skattekostnad 1 544 -5 163
+Skattekostnad 0 0
+Arsresultat 1544 -5 163
+Overferinger og disponeringer
+Fremfering av udekket tap 0 -5 163
+Overferinger annen egenkapital 1 544 0
+Sum overferinger og disponeringer 1 544 -5 163
+Arsregnskap for RING RISIKO AS 2025 Side 1
+
+Noter 2025 2024
+EIENDELER
+Omlgpsmidler
+Fordringer
+Andre kortsiktige fordringer 3 0 0
+Investeringer
+Andre finansielle instrumenter 1 000 000 1 000 000
+Sum investeringer 1 000 000 1 000 000
+Bankinnskudd, kontanter og lignende 96 381 94 837
+Sum omlepsmidler 1 096 381 1 094 837
+SUM EIENDELER 1 096 381 1 094 837
+Arsregnskap for RING RISIKO AS 2025 Side 2
+
+Noter 2025 2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Selskapskapital 30 000 30 000
+Overkurs 1070 000 1 070 000
+Sum innskutt egenkapital 1 100 000 1 100 000
+Opptjent egenkapital
+Annen egenkapital 4 0 0
+Endringer udekket tap -3 619 —-5 163
+Sum opptjent egenkapital -3 619 -5 163
+Sum egenkapital 1 096 381 1 094 837
+SUM EGENKAPITAL OG GJELD 1 096 381 1 094 837
+Enlend Ringstad
+Styrets leder
+Arsregnskap for RING RISIKO AS 2025 Side 3
+
+Note 1 - Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma foretak.
+Arten av virksomheten og hvor den drives
+
+Selskapets virksomhet bestar av [angi virksomhet], og drives i [angi geografisk omrade].
+
+Valuta
+
+Pengeposter i utenlandsk valuta vurderes iht kursen ved regnskapsarets slutt.
+
+Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsferes etter hvert som de
+leveres.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med Skattesats pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfering ved utgangen av
+regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofart.
+
+Klassifisering og vurdering av balanseposter
+
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til anskaffelseskost.
+Varige driftsmidler balansefgres og avskrives over driftsmidlets @konomiske levetid. Avskrivningsperioden for
+fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner. Varige driftsmidler nedskrives til gjenvinnbart belap ved verdifall som forventes ikke a
+veere forbigaende. Gjenvinnbart belgp er det hgyeste av netto salgsverdi og verdi i bruk. Verdi i bruk er
+naverdi av fremtidige kontantstrammer knyttet til eiendelen. Nedskrivningen reverseres nar grunnlaget for
+nedskrivningen ikke lenger er til stede.
+
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Oml@psmidler vurderes til laveste verdi av
+anskaffelseskost og antatt virkelig verdi.
+
+Aksjer i datterselskap
+
+Investeringer i datterselskap er vurdert etter kostmetoden ettersom konsernet samlet ikke overstiger grensen
+for sma foretak.
+
+Varer
+
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+Fordringer
+
+Kundefordringer og andre fordringer oppferes til palydende etter fradrag for avsetning til forventet tap.
+Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+Pensjonsforpliktelser
+
+Pensjonsforpliktelser finansiert over driften er beregnet og balansefert under avsetning for forpliktelser.
+Pensjonsordninger finansiert via sikrede ordninger er ikke balansefert. Pensjonspremien anses i disse tilfeller
+som pensjonskostnad og klassifiseres sammen med I@nnskostnader.
+
+Garanti
+
+Det er avsatt til forventede garantikostnader. Garantiavsetningen er i balansen oppfert under annen kortsiktig
+gjeld.
+
+Note 2 - Antall arsverk
+
+Selskapet har ingen arsverk i 2025
+
+Note 3 - Lan og sikkerhetsstillelse til ledende personer
+Mer om Ian og sikkerhetsstillelse
+Det er ikke gitt lan eller sikkerhetsstillelse til styret eller ledende personer.
+Note 4 - Usikkerhet om fortsatt drift
+Forutsetning for fortsatt drift er lagt til grunn for arsregnskapet

@@ -1,0 +1,549 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 360742
+Virksomheten
+Organisasjonsnummer : 928 580 121
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: OSLO BYGGDRIFT AS
+Forretningsadresse: Statsrad Mathiesens vei 2C
+0598 OSLO
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Stian Lillelid
+Dato for fastsettelse av arsregnskapet: 28.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 31.03.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 928 580 121
+
+OSLO BYGGDRIFT AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 1 560 324 943 577
+
+Annen driftsinntekt 841
+
+Sum inntekter 1 560 324 944 418
+
+Kostnader
+
+Varekostnad 660 450 337 991
+
+Lennskostnad 2,3 375 719 241 132
+
+Avskrivning pa varige
+
+driftsmidler og
+
+immaterielle eiendeler 4 93 415 43 603
+
+Annen driftskostnad 373 409 341 810
+
+Sum kostnader 1 502 993 964 536
+
+Driftsresultat 57 331 -20 118
+
+Finansinntekter og
+
+finanskostnader
+
+Annen finansinntekt 1 470 66
+
+Sum finansinntekter 1 470 66
+
+Netto finans 1 470 66
+
+Resultat fer skattekostnad 58 801 -20 052
+
+Skattekostnad 14 114 933
+
+Arsresultat 44 687 -20 985
+
+Overferinger til/fra
+
+annen egenkapital 17 469 -20 985
+Utskriftsdato 31.03.2026 Organisasjonsnr 928 580 121 Side 1 av 3
+
+Organisasjonsnr: 928 580 121
+
+OSLO BYGGDRIFT AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Varige driftsmidler
+
+Driftslesere, inventar,
+
+verktay, kontormaskiner
+
+og lignende 4 102 897 45 437
+
+Sum varige driftsmidler 4 102 897 45 437
+
+Sum anleggsmidler 102 897 45 437
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Kundefordringer 6 966
+
+Sum fordringer 6 966
+
+Investeringer
+
+Aksjer og andeler 1
+
+foretak i samme konsern 0) 0)
+
+Markedsbaserte aksjer 0 0
+
+Markedsbaserte obligasjoner 0 0
+
+Andre markedsbaserte
+
+finansielle instrumenter 0 0
+
+Andre finansielle
+
+instrumenter 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 241 955 62 547
+
+Sum bankinnskudd,
+
+kontanter og lignende 241 955 62 547
+
+Sum omlepsmidler 241 955 69 512
+
+SUM ELENDELER 344 852 114 949
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Sum innskutt egenkapital 30 000 30 000
+Utskriftsdato 31.03.2026 Organisasjonsnr 928 580 121 Side 2 av 3
+
+Opptjent egenkapital
+
+Annen egenkapital 52 085 34 616
+Udekket tap 27 218
+Sum opptjent egenkapital 52 085 7 399
+Sum egenkapital 82 085 37 399
+Kortsiktig gjeld
+
+Leveranderg)jeld 8 030 12 847
+Betalbar skatt 32 730 17 067
+Skyldige offentlige
+
+avgifter 182 886 24 740
+Annen kortsiktig gjeld 39 120 22 896
+Sum kortsiktig gjeld 262 766 77 551
+Sum gjeld 262 766 77 551
+SUM EGENKAPITAL OG GJELD 344 852 114 949
+
+Utskriftsdato 31.03.2026 Organisasjonsnr 928 580 121 Side 3 av 3
+
+Organisasjonsnr: 928 580 121
+
+OSLO BYGGDRIFT AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+=== Note 1: Regnskapsprinsipper [[note-1]]
+
+Arsregnskapet er satt opp 1
+
+samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+
+==== Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa
+
+leveringstidspunktet.
+
+Tjenester inntektsfoeres etter hvert som de
+
+leveres.
+
+==== Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt.
+
+Utsatt skatt er
+
+beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier,
+
+samt ligningsmessig
+
+underskudd til fremfering ved utgangen av regnskapsaret.
+Skatteskende og
+
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofert.
+
+==== Klassifisering
+
+og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til
+
+varig elie og bruk.
+
+Anleggsmidler er vurdert til anskaffelseskost.
+
+Varige
+
+driftsmidler balanseferes og avskrives over driftsmidlets skonomiske
+levetid.
+
+Avskrivingsperioden for fast eiendom anskaffet etter 2009 er
+dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner.
+
+Varige driftsmidler nedskrives til gjenvinnbart
+
+belep ved verdifall som forventes ikke 4 vere forbigaende.
+Gjenvinnbart
+
+belep er det heyeste av netto salgsverdi og verdi i bruk.
+
+Verdi i bruk er
+
+naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivingen
+
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlepsmidler
+
+Omlepsmidler og kortsiktig
+
+gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen,
+samt poster som knytter seg til varekretslapet.
+Omlepsmidler
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto
+salgsverdi.
+==== Fordringer
+Kundefordringer og andre fordringer
+oppfordres til palydende etter fradrag for avsetning til forventet
+tap.
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene.
+Note
+2
+Antall Arsverk i regnskapsaret
+0.20
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+319120.00 199896.00
+Folketrygdavgift Arets Fjorarets
+44996.00 28185.00
+Pensjonskostnader Arets Fljorarets
+0.00 0.00
+Andre ytelser Arets Fjorarets
+11603 .00 13051.00
+Sum lgnnskostnader Arets Fljorarets
+375719.00 241132.00
+Note
+4
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+138112.00
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+
+150875.00
+Avgang i aret Varige driftsmidler Immaterielle eiend.
+75000.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+213987.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+45851.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+138682.00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+65169.00
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap for 2025
+OSLO BYGGDRIFT AS
+Orenr: 928580121
+conta
+
+INNHOLDSLISTE
+Resultat 2... ccc ccc ene eee eee eee ee en een eeeeeeead
+Driftsresultater.. 0... ccc ccc cence ee eee eee eeeeeeeeeneae
+Finansinntekter og kostnader ........ 0c. ccc cece cect cece cee ceeeeeeeseed
+Arsresultat....... 0. cc ccc cccccccceceucececeecuceeeususeeeusseseeeesed
+OVELPOLINGEr . ce cee cence eee eee e ee eeeeeneseteeead
+=) Fe) 0) =
+Anlegesmidler......... ccc ccc cece ccc c eee tee cee ee eeceesetceeeeseeaa $d
+Oml@psmidler ........ 0. ccc cc cece cece cee eee teen tee eeeeseeeead$d
+Fiendeler ... 0... ccc ccc ccc cece eee ence eee ee eee eeeeeessennaac $d
+Egenkapital .... 0... ccc cc ccc ccc cece cece eee e tee eeeeetenceeeeead
+(=) (6 a
+Egenkapital og gjeld.... 6.0... cc ccc cece cee cee ee tee eeeeneeeeeeD
+Styret 20. ccc ccc cece cece ence eee ee eee teeeeeeeeeeeeeeeeeeaD
+C0) = ga
+Note 1: Regnskapsprinsipper......... 00. c cece ccc c eee cee eeeeeee esac
+Note 2: Arsverk .... ccc ccc ccccececcecececeucececcuceceucuceccececeea 7
+Note 3: Lonnskostnader ........ 0. ccc ccc cece eee ee cece eceeeeeeeaa D
+Note 4: Anleggsmidler. ......... 0c ccc cece cee cee ce eee ceeceeceeeceaa D
+
+RESULTAT
+
+Driftsresultater
+
+Note 2024 2025
+Salgsinntekt 943 577 1 560 324
+Annen driftsinntekt 841 ie)
+Driftsinntekter 944 418 1 560 324
+Varekostnad 337 991 660 450
+Lennskostnad 2,3 241 132 375 719
+Avskrivning 4 43 603 93 415
+Annen driftskostnad 341 810 373 409
+Driftskostnader 964 536 1 502 993
+Driftsresultat -20 118 57 331
+Finansinntekter og kostnader
+
+Note 2024 2025
+Finansinntekter 66 1470
+Finanskostnader 0 0
+Finansinntekter og kostnader 66 1470
+Arsresultat
+
+Note 2024 2025
+Driftresutat = 09 5783
+Finansinntekter og kostnader 66 1470
+Resultat for skattekostnad -20 052 58 801
+Skattekostnad 933 14 114
+Arsresultat -20 985 44 687
+Overforinger
+
+2024 2025
+Avsatt til annen egenkapital 0 17 469
+Overfart fra annen egenkapital -20 985 ie)
+Sum overfgringer -20 985 44 687
+Conta Arsoppgjar, OSLO BYGGDRIFT AS
+-3-
+
+BALANSE
+
+Anleggsmidier
+
+Note 2024 2025
+Immaterielle eiendeler 0 0
+Driftslgs@re, inventar, verktey, kontormaskiner og 4 45 437 102 897
+lignende
+Varige driftsmidler 4 45 437 102 897
+Finansielle anleggsmidler 0 0
+Anleggsmidler 45 437 102 897
+Omlgpsmidler
+
+Note 2024 2025
+Fordringer 6 966 0
+Investeringer 0 0
+Bankinnskudd, kontanter og lignende 62 547 241 955
+Omlgpsmidler 69 512 241 955
+Eiendeler
+
+Note 2024 2025
+Anlegesmidler = ssststsi<—sSS 587 102.897
+Omlgpsmidler 69 512 241 955
+Eiendeler 114 949 344 852
+Egenkapital
+
+Note 2024 2025
+Scbkapskapitd == 0000S 830.000
+Innskutt egenkapital 30 000 30 000
+Udekket tap -27 218 i@)
+Annen egenkapital 34 616 52 085
+Opptjent egenkapital 7 399 52 085
+Egenkapital 37 399 82 085
+
+Conta Arsoppgjar, OSLO BYGGDRIFT AS
+-4-
+
+Gjeld
+
+Note 2024 2025
+Avsetning for forpliktelser 0 0
+Annen langsiktig gjeld 0 0
+Leverandgrgjeld 12 847 8 030
+Betalbar skatt 17 067 32 730
+Skyldig offentlige avgifter 24 740 182 886
+Annen kortsiktig gjeld 22 896 39 120
+Kortsiktig gjeld 77551 262 766
+Gjeld 77551 262 766
+Egenkapital og gjeld
+
+Note 2024 2025
+Egenkapita = 8789982085
+Gjeld 77551 262 766
+Egenkapital og gjeld 114 949 344 852
+
+Oslo, 28.03.2026
+Styret i OSLO BYGGDRIFT AS
+Stian Lillelid Styrets leder
+Trond Lillelid Styremedlem
+Conta Arsoppgjar, OSLO BYGGDRIFT AS
+-5-
+
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Driftsinntekter
+Inntektsfering ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfores etter hvert som
+de leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt.
+Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfe@ring ved
+utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som reverserer
+eller kan reverseres i samme periode er utlignet og nettofart.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets @konomiske levetid.
+Avskrivingsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som gjelder
+rabygget og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til
+gjenvinnbart belap ved verdifall som forventes ikke a vere forbigaende.
+Gjenvinnbart belap er det hayeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av
+fremtidige kontantstrammer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for
+nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av oml@psmidler
+Omle@psmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslapet. Omlapsmidler vurderes til laveste verdi
+av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+Fordringer
+Kundefordringer og andre fordringer oppfordres til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjares pa grunnlag av en individuell vurdering av de enkelte fordringene.
+
+Conta Arsoppgjar, OSLO BYGGDRIFT AS
+
+-6-
+
+Note 2: Arsverk
+Selskapet har sysselsatt 0.20 arsverk i 2025.
+Note 3: Lonnskostnader
+
+2024 2025
+ton Gog ggg 31910
+Arbeidsgiveravgift 28 185 44 996
+Pensjon ie) ie)
+Andre ytelser 13 051 11 603
+Sum 241 132 375 719
+Note 4: Anleggsmidler
+Varige driftsmidler
+Transportmidler
+Tilgang i aret + 0
+Avgang I aret - 75 000
+Anskaffelseskost 31.12 = 0
+Akkumulerte avskrivninger 01.01 35 715
+Arets ordinzere avskrivninger + 0
+Tilbakefart avskrivning ved avgang - 35 715
+Akkumulerte avskrivninger 31.12 = 0
+Bokfart verdi 31.12 0
+@konomisk levetid 5 ar
+
+Conta Arsoppgjar, OSLO BYGGDRIFT AS
+-7-
+
+Maskiner og anlegg
+
+Tilgang i aret + 150 875
+Avgang i aret - 0
+Anskaffelseskost 31.12 = 213 987
+Akkumulerte avskrivninger 01.01 29 454
+Arets ordinzere avskrivninger + 45 851
+Tilbakefort avskrivning ved avgang - ie)
+Akkumulerte avskrivninger 31.12 = 75 305
+Bokfert verdi 31.12 138 682
+@konomisk levetid 0 ar
+Sum
+
+Anskaffelseskost 01.01 138 112
+Tilgang i aret + 150 875
+Avgang I aret - 75 000
+Anskaffelseskost 31.12 al 213 987
+Akkumulerte avskrivninger 01.01 65 169
+Arets ordinzere avskrivninger + 45 851
+Tilbakefort avskrivning ved avgang - 35 715
+Akkumulerte avskrivninger 31.12 = 75 305
+Bokfert verdi 31.12 138 682
+@konomisk levetid -
+
+Conta Arsoppgjar, OSLO BYGGDRIFT AS
+-§-

@@ -1,0 +1,480 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 707247
+Virksomheten
+Organisasjonsnummer : 929 589 637
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: TRIPPELR AS
+Forretningsadresse: Roresanden 109
+4885 GRIMSTAD
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Stig Renning
+Dato for fastsettelse av arsregnskapet: 24.03.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 22.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 929 589 637
+
+TRIPPELR AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Salgsinntekt 287 273 251 277
+
+Annen driftsinntekt 0 70
+
+Sum inntekter 287 273 251 347
+
+Kostnader
+
+Annen driftskostnad 188 817 237 977
+
+Sum kostnader 188 817 237 977
+
+Driftsresultat 98 456 13 370
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 0 6 694
+
+Sum finansinntekter 0 6 694
+
+Annen rentekostnad 25 450 39 190
+
+Sum finanskostnader 25 450 39 190
+
+Netto finans -25 450 -32 496
+
+Resultat fer skattekostnad 73 006 -19 126
+
+Arsresultat 73 006 -19 126
+
+Arsresultat etter
+
+minoritetsinteresser 73 006 -19 126
+
+Sum resultatkomponenter
+
+for IFRS-foretak 0 0
+
+Totalresultat 73 006 -19 126
+
+Overferinger og
+
+disponeringer
+
+Udekket tap 0) -19 126
+
+Overferinger til/fra
+
+annen egenkapital 73 006 0
+
+Sum overferinger og
+
+disponeringer 73 006 -19 126
+Utskriftsdato 22.07.2026 Organisasjonsnr 929 589 637 Side 1 av 3
+
+Organisasjonsnr: 929 589 637
+
+TRIPPELR AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Andre langsiktige
+
+fordringer 38 796 38 796
+
+Sum finansielle
+
+anleggsmidler 38 796 38 796
+
+Sum anleggsmidler 38 796 38 796
+
+Omlepsmidler
+
+Varer
+
+Sum varer 0 0
+
+Fordringer
+
+Kundefordringer 6 125 3 885
+
+Andre kortsiktige
+
+fordringer 49 373 53 731
+
+Sum fordringer 55 498 57 616
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter o.
+
+1. 203 818 157 103
+
+Sum bankinnskudd,
+
+kontanter og lignende 203 818 157 103
+
+Sum omlepsmidler 259 316 214 719
+
+SUM ELENDELER 298 112 253 515
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital
+
+(selskapskapital) 150 000 150 000
+
+Sum innskutt egenkapital 150 000 150 000
+Utskriftsdato 22.07.2026 Organisasjonsnr 929 589 637 Side 2 av 3
+
+Opptjent egenkapital
+
+@reavrunding 33 799 1
+
+Udekket tap 466 092 539 098
+
+Sum opptjent egenkapital -432 293 -539 097
+
+Sum egenkapital -282 293 -389 097
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 536 638 595 437
+
+Sum annen langsiktig gjeld 536 638 595 437
+
+Sum langsiktig gjeld 536 638 595 437
+
+Kortsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner,
+
+kortsiktig 30 789 30 789
+
+Leverandergjeld 5 246 8 654
+
+Annen kortsiktig gjeld 7 732 7 732
+
+Sum kortsiktig gjeld 43 767 47 175
+
+Sum gjeld 580 405 642 612
+
+SUM EGENKAPITAL OG GJELD 298 112 253 515
+Utskriftsdato 22.07.2026 Organisasjonsnr 929 589 637 Side 3 av 3
+
+Organisasjonsnr: 929 589 637
+
+TRIPPELR AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 -
+God
+
+regnskapsskikk for sma foretak.
+
+Inntektsfering ved salg av varer og
+
+tjenester skjer pa leveringstidspunkt.
+
+Utgifter kostnadsferes i samme
+
+periode som tilherende inntekt.
+
+Anleggsmidler vurderes til
+
+anskaffelseskost, men nedskrives til virkelig verdi
+
+dersom verdifallet er
+
+betydelig og ikke forventes 4 vere forbigaende. Varige
+driftsmidler
+
+balansefores og avskrives over driftsmiddelets levetid
+Omlepsmidler
+
+vurderes til laveste av anskaffelseskost og virkelig verdi.
+Markedsbaserte
+
+aksjer vurderes likevel til markedspris. Kundefordringer og
+andre
+
+fordringer er oppfert i balansen til palydende etter fradrag for
+avsetning
+
+til forventet tap. Avsetning til tap gjgres pa grunnlag av
+individuelle
+
+vurderinger av de enkelte fordringer.
+
+Skattekostnaden i resultatregnskapet
+
+omfattes av periodens beregnede skatt.
+
+Utsatt skatt er beregnet med 22 % pa
+
+grunnlag av de midlertidige forskjellene
+
+mellom regnskapsmessige og
+
+skattemessige verdier, samt selskapets fremforbare
+underskudd ved utgangen
+
+av regnskapsaret. Utsatt skattefordel balansefores
+
+ikke i henhold til
+
+unntaksreglene for sma foretak.
+
+Forevrig er folgende regnskapsprinsipper
+
+anvendt :
+
+* FIFO-metoden for tilordning av anskaffelseskost for ombyttbare
+finansielle eiendeler
+
+* Leieavtaler er ikke balanseferte
+
+Virksomhetens
+
+sted: Grimstad
+
+Virksomhetens art
+
+Vaskeri.
+
+Note
+
+2
+
+Er det usikkerhet om fortsatt drift?: Nei
+
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om
+fortsatt drift, da det er
+
+iverksatt tiltak for 4 styrke selskapets ekonomi.
+
+Note
+
+3
+
+Antall Aarsverk i regnskapsaret
+
+0.00
+
+Arsregnskap 2025
+Trippel R AS
+(929 589 637)
+Trippel p
+Trippel R AS Arsregnskap Side 1 av 5
+
+Resultatregnskap Noter 2025 2024
+Driftsinntekter
+
+Salgsinntekt 287 273 251 277
+
+Annen driftsinntekt (@) 70
+Sum driftsinntekter 287 273 251 347
+Driftskostnader
+
+Annen driftskostnad 188 817 237 977
+Sum driftskostnader 188 817 237 977
+Driftsresultat 98 456 13 370
+Finansinntekter
+
+Annen renteinntekt (@) 6694
+Sum finansinntekter 0 6694
+Finanskostnader
+
+Annen rentekostnad 25 450 39 190
+Sum finanskostnader 25 450 39 190
+Netto finans -25 450 -32 496
+Resultat for skatt 73 006 -19 126
+Arsresultat 73006 -19126
+Overforinger og disponeringer
+
+Overforinger til/fra annen egenkapital 73 006 @)
+
+Udekket tap (@) -19 126
+Sum overferinger og disponeringer 73 006 -19 126
+
+Trippel R AS Arsregnskap Side 2 av 5
+
+Balanse - Eiendeler Noter 2025 2024
+Anleggsmidler
+Finansielle anieggsmidler
+
+Andre langsiktige fordringer 38 796 38 796
+Sum finansielle anleggsmidler 38 796 38 796
+Sum anleggsmidler 38 796 38 796
+Omlepsmidler
+Fordringer
+
+Andre kortsiktige fordringer 49 373 63 731
+
+Kundefordringer 6125 3 885
+Sum fordringer 55 498 57 616
+Bankinnskudd, kontanter o.l. 203 818 157 103
+Sum omlepsmidier 259316 214719
+Sum eiendeler 298112 253515
+
+Trippel R AS Arsregnskap Side 3 av 5
+
+Balanse - Egenkapital og gjeld Noter 2025 2024
+Egenkapital
+Innskutt egenkapital
+
+Aksjekapital (selskapskapital) 150 000 150 000
+Sum innskutt egenkapital 150 000 150 000
+Opptjent egenkapital
+
+Annen egenkapital 33 799 1
+
+Udekket tap -466 092 -539098
+Sum opptjent egenkapital -432 293 -539097
+Sum egenkapital -282 293 -389 097
+Gijeld
+Annen langsiktig gjeld
+
+Gjeld til kredittinstitusjoner, langsiktig 536 638 595 437
+Sum annen langsiktig gjeld 536 638 595 437
+Kortsiktig gjeld
+
+Gjeld til kredittinstitusjoner, kortsiktig 30 789 30 789
+
+Leverande@rgjeld 5 246 8 654
+
+Annen kortsiktig gjeld 7 732 7 732
+Sum kortsiktig gjeld 43 767 47175
+Sum gjeld 580 405 642 612
+Sum egenkapital og gjeld 298112 253515
+
+Trippel R AS Arsregnskap Side 4 av 5
+
+Noter
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for
+sma foretak.
+Inntektsforing ved salg av varer og tjenester skjer pa leveringstidspunkt. Utgifter kostnadsfores
+isamme periode som tilharende inntekt.
+Anleggsmidler vurderes til anskaffelseskost, men nedskrives til virkelig verdi dersom verdifallet
+er betydelig og ikke forventes a veere forbigdende. Varige driftsmidler balansefores og
+avskrives over driftsmiddelets levetid
+Oml@psmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Markedsbaserte aksjer
+vurderes likevel til markedspris. Kundefordringer og andre fordringer er oppfert i balansen til
+palydende etter fradrag for avsetning til forventet tap. Avsetning til tap gjores pa grunnlag av
+individuelle vurderinger av de enkelte fordringer.
+Skattekostnaden i resultatregnskapet omfattes av periodens beregnede skatt. Utsatt skatt er
+beregnet med 22 % pa grunnlag av de midlertidige forskjellene mellom regnskapsmessige og
+skattemessige verdier, samt selskapets fremforbare underskudd ved utgangen av
+regnskapsaret. Utsatt skattefordel balansefores ikke i henhold til unntaksreglene for sma
+foretak.
+Forevrig er folgende regnskapsprinsipper anvendt:
+
+e FIFO-metoden for tilordning av anskaffelseskost for ombyttbare finansielle eiendeler
+
+e Leieavtaler er ikke balanseforte
+Virksomhetens sted
+Grimstad
+Virksomhetens art
+Vaskeri.
+Note 2: Usikkerhet rundt fortsatt drift
+Styret vurderer det som riktig 4 avlegge arsregnskapet under forutsetning om fortsatt drift, da
+det er iverksatt tiltak for a styrke selskapets okonomi.
+Note 3: Arsverk
+Antall arsverk er O. Selskapet har ikke hatt ansatte dette regnskapsaret.
+
+Trippel R AS Arsregnskap Side 5 av 5
+
+Arsregnskap 2025
+Opprettet av Stig Ronning <info@trippelr.no>
+Elektronisk signering
+STIG RONNING VIBECHE RONNING
+23.09.1975 - Daglig leder 23.04.1974 - Styreleder
+Y) Signert Y) Signert
+19.05.2026 16:01 22.05.2026 16:21
+Dokumentet er digitalt signert med Fiken Signering
+Dokumentet er signert med Fikens digitale signaturtjeneste. Signaturen er juridisk bindende og viser at
+innholdet ikke er endret etter signering. Dokumentet kan verifiseres i Adobe Reader, der det vil fremga at
+dokumentet er signert med Fiken Signering.
+£ fiken Generert: 19.05.2026 16:00:47

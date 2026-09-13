@@ -1,0 +1,331 @@
+oe
+= a .
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 520817
+Virksomheten
+Organisasjonsnummer : 995 097 346
+Organisasjonsform: Aksjeselskap
+Foretaksnawn: ENGINEERING SOLUTIONS AS
+Forretningsadresse: Eivindsholvegen 8
+4345 BRYNE
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Bjarme Hugo Hartvedt
+Dato for fastsettelse av arsregnskapet: 20.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert arsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 04.06.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 995 097 346
+
+ENGINEERING SOLUTIONS AS
+
+RESULTATREGNSKAP
+
+Belep i: NOK Note 2025 2024
+
+RESULTATREGNSKAP
+
+Inntekter
+
+Sum inntekter fe) fe)
+
+Kostnader
+
+Annen driftskostnad 8 490 1 231
+
+Sum kostnader 8 490 1 231
+
+Driftsresultat -8 490 -1 231
+
+Finansinntekter og
+
+finanskostnader
+
+Annen renteinntekt 80 742 58 810
+
+Sum finansinntekter 80 742 58 810
+
+Annen rentekostnad 0 99
+
+Sum finanskostnader 0 99
+
+Netto finans 80 742 58 711
+
+Resultat fer skattekostnad 72 252 57 480
+
+Skattekostnad 15 895 12 667
+
+Arsresultat 56 357 44 813
+
+Annen egenkapital 56 357 44 813
+Utskriftsdato 04.06.2026 Organisasjonsnr 995 097 346 Side 1 av 3
+
+Organisasjonsnr: 995 097 346
+
+ENGINEERING SOLUTIONS AS
+
+BALANSE
+
+Belsp i: NOK Note 2025 2024
+
+BALANSE - EIENDELER
+
+Anleggsmidler
+
+Immaterielle eiendeler
+
+Sum immaterielle eiendeler 0 0
+
+Varige driftsmidler
+
+Sum varige driftsmidler 0 0
+
+Finansielle anleggsmidler
+
+Sum finansielle
+
+anleggsmidler 0 0
+
+Sum anleggsmidler 0 0
+
+Omlepsmidler
+
+Varer
+
+Fordringer
+
+Sum fordringer 0 0
+
+Investeringer
+
+Sum investeringer 0 0
+
+Bankinnskudd, kontanter
+
+og lignende
+
+Bankinnskudd, kontanter
+
+og lignende 2 043 254 1 983 670
+
+Sum bankinnskudd,
+
+kontanter og lignende 2 043 254 1 983 670
+
+Sum omlepsmidler 2 043 254 1 983 670
+
+SUM ELENDELER 2 043 254 1 983 670
+
+BALANSE - EGENKAPITAL OG
+
+GJELD
+
+Egenkapital
+
+Innskutt egenkapital
+
+Aksjekapital 100 000 100 000
+
+Annen innskutt egenkapital 1 799 104 1 799 104
+
+Sum innskutt egenkapital 1 899 104 1 899 104
+
+Opptjent egenkapital
+
+Annen egenkapital 128 255 71 899
+
+Sum opptjent egenkapital 128 255 71 899
+
+Sum egenkapital 2 027 359 1 971 003
+Utskriftsdato 04.06.2026 Organisasjonsnr 995 097 346 Side 2 av 3
+
+Gjeld
+
+Langsiktig gjeld
+
+Sum avsetninger for
+
+forpliktelser 0 0
+
+Annen langsiktig gjeld
+
+Sum annen langsiktig gjeld 0 0
+
+Kortsiktig gjeld
+
+Betalbar skatt 15 895 12 667
+
+Sum kortsiktig gjeld 15 895 12 667
+
+Sum gjeld 15 895 12 667
+
+SUM EGENKAPITAL OG GJELD 2 043 254 1 983 670
+Utskriftsdato 04.06.2026 Organisasjonsnr 995 097 346 Side 3 av 3
+
+Organisasjonsnr: 995 097 346
+
+ENGINEERING SOLUTIONS AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp 1 samsvar med regnskapsloven og god
+regnskapsskikk for sma foretak.
+
+Klassifisering og vurdering av
+
+balanseposter
+
+Eiendeler som er knyttet til varekretslepet er klassifisert
+
+som omlepsmidler. Tilsvarende klassifiseres gjeld som kortsiktig hvis
+gjelden forfaller til betaling innen ett 4r.
+
+Omlepsmidler vurderes til
+
+laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld
+balanseferes til nominelt belep pa etableringstidspunktet.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens
+
+betalbare skatt og endring i utsatt skatt. Utsatt skatt er beregnet med 22%
+pa grunnlag av de midlertidige forskjeller som eksisterer mellom
+regnskapsmessige og skattemessige verdier, samt skattemessig underskudd til
+fremfering ved utgangen av regnskapsaret. Skattegkende og skattereduserende
+midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet
+
+har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Note
+
+Antall Arsverk i regnskapsaret
+
+0.00
+
+Arsregnskap for
+ENGINEERING SOLUTIONS AS
+995097346
+Regnskapsar
+01.01.2025 - 31.12.2025
+
+ENGINEERING SOLUTIONS AS
+995 097 346
+Resultatregnskap
+
+Note 2025 2024
+Driftskostnader
+Annen driftskostnad -8 490 -1 231
+Sum driftskostnader -8 490 -1 231
+Driftsresultat -8 490 -1 231
+Finansinntekter
+Annen renteinntekt 80 742 58 810
+Sum finansinntekter 80 742 58 810
+Finanskostnader
+Annen rentekostnad 0 -99
+Sum finanskostnader 0 -99
+Netto finans 80 742 58 711
+Resultat for skattekostnad 72 252 57 480
+Skattekosinad -15 895 -12 667
+Arsresultat 56 357 44 813
+Overfaringer
+Annen egenkapital 56 357 44 813
+Sum overferinger 56 357 44 813
+
+ENGINEERING SOLUTIONS AS
+995 097 346
+Balanse
+
+Note 31.12.2025 31.12.2024
+EIENDELER
+Omlgpsmidler
+Bankinnskudd, kontanter og lignende
+Bankinnskudd, kontanter og lignende 2 043 254 1 983 670
+Sum bankinnskudd, kontanter og lignende 2 043 254 1 983 670
+Sum omlgpsmidler 2 043 254 1 983 670
+SUM EIENDELER 2 043 254 1 983 670
+
+ENGINEERING SOLUTIONS AS
+995 097 346
+Balanse
+
+Note 31.12.2025 31.12.2024
+EGENKAPITAL OG GJELD
+Egenkapital
+Innskutt egenkapital
+Aksjekapital 100 000 100 000
+Annen innskutt egenkapital 1 799 104 1 799 104
+Sum innskutt egenkapital 1 899 104 1 899 104
+Opptjent egenkapital
+Annen egenkapital 128 255 71 899
+Sum opptjent egenkapital 128 255 71 899
+Sum egenkapital 2 027 359 1 971 003
+Gjeld
+Kortsiktig gjeld
+Betalbar skatt 15 895 12 667
+Sum kortsiktig gjeld 15 895 12 667
+Sum gjeld 15 895 12 667
+SUM EGENKAPITAL OG GJELD 2 043 254 1 983 670
+BRYNE, 20.05.2026
+Bjarne Hugo Hartvedt
+styrets leder / daglig leder
+
+ENGINEERING SOLUTIONS AS
+
+995 097 346
+
+Noter
+
+Regnskapsprinsipper
+
+Arsregnskapet er satt opp i samsvar med regnskapsloven og god regnskapsskikk for sma foretak.
+Klassifisering og vurdering av balanseposter
+
+Eiendeler som er knyttet til varekretsl@pet er klassifisert som omlgpsmidler. Tilsvarende klassifiseres gjeld som
+kortsiktig hvis gjelden forfaller til betaling innen ett ar.
+
+Omlgpsmidler vurderes til laveste av anskaffelseskost og virkelig verdi. Kortsiktig gjeld balansefgres til nominelt
+belgp pa etableringstidspunktet.
+
+Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt skatt. Utsatt
+skatt er beregnet med 22% pa grunnlag av de midlertidige forskjeller som eksisterer mellom regnskapsmessige
+og skattemessige verdier, samt skattemessig underskudd til fremfering ved utgangen av regnskapsaret.
+Skattegkende og skattereduserende midlertidige forskjeller som reverserer eller kan reversere i samme periode
+er fastsatt og skattevirkningen er beregnet pa nettogrunnlaget.
+
+Selskapet har ikke endret regnskapsprinsipp fra 2024 til 2025.
+
+Antall arsverk
+
+Selskapet har ikke hatt ansatte i Iapet av regnskapsaret.

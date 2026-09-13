@@ -1,0 +1,547 @@
+oe
+= a Ll
+== Bronnoysundregistrene
+ARSREGNSKAP FOR REGNSKAPSARET 2025 - GENERELL INFORMASJON
+Journalnummer: 2026 721236
+Virksomheten
+Organisasjonsnummer : 929 383 818
+Organisasjonsform: Aksjeselskap
+Foretaksnavn: AE FISK AS
+Forretningsadresse: Horvereidvegen 135
+7970 KOLVEREID
+Regnskapsar
+Arsregnskapets periode: 01.01.2025 - 31.12.2025
+Konsern
+Morselskap i konsern: Nei
+Regnskapsregler
+Regler for sma foretak benyttet: Ja
+Benyttet ved utarbeidelsen av
+arsregnskapet : Regnskapslovens alminnelige regler
+Arsregnskapet fastsatt av kompetent organ
+Bekreftet av: Inger Margrethe Hesta@
+Dato for fastsettelse av arsregnskapet: 07.05.2026
+Revis jon
+Selskapet har besluttet at arsregnskapet
+ikke skal revideres: Ja
+Arsregnskapet er utarbeidet av ekstern
+autorisert regnskapsforer: Ja
+Ekstern autorisert regnskapsfoerer har i
+lepet av regnskapsaret bistatt ved den
+l@pende regnskapsf@eringen eller utfert
+andre tjenester for selskapet enn 4
+utarbeide arsregnskapet: Ja
+Grunnlag for avgivelse
+Ar 2025: Arsregnskap er elektronisk innlevert.
+Ar 2024: Tall er hentet fra elektronisk innlevert Aarsregnskap fra 2025.
+Virksomheten sitt overste organ er ansvarlig for at arsregnskapet er signert.
+Det er mulig a levere arsregnskap uten signatur fordi sikkerheten for rett
+rapportering er ivaretatt ved at innsenderen har rolle/rettighet for innsending
+i Altinn. Navnet pa representanten, som bekrefter at arsregnskapet er godkjent,
+er i tillegg oppgitt.
+Brenneysundregistrene, 28.07.2026
+Brenneysundregistrene
+Postadresse: Postboks 900, 8910 Breénngysund
+Telefon: 75 00 75 00
+E-post: firmapost@brreg.no Internett: www.brreg.no
+Organisasjonsnummer: 974 760 673
+
+Organisasjonsnr: 929 383 818
+AE FISK AS
+RESULTATREGNSKAP
+Belep i: NOK Note 2025 2024
+RESULTATREGNSKAP
+Inntekter
+Salgsinntekt 546 179 487 425
+Sum inntekter 546 179 487 425
+Kostnader
+Varekostnad 4 113
+Lennskostnad 2,3 230 631 13 028
+Avskrivning pa varige
+driftsmidler og
+immaterielle eiendeler 4 152 709 151 049
+Annen driftskostnad 268 669 332 163
+Sum kostnader 652 008 500 352
+Driftsresultat -105 829 -12 927
+Finansinntekter og
+finanskostnader
+Inntekt pa andre
+investeringer 2 133 2 110
+Annen finansinntekt 3 729
+Sum finansinntekter 2 133 5 839
+Annen finanskostnad 138 972 135 763
+Sum finanskostnader 138 972 135 763
+Netto finans -136 839 -129 924
+Resultat fer skattekostnad -242 668 -142 $851
+Skattekostnad -274 027 1 555
+Arsresultat 31 359 -144 406
+Overferinger og
+disponeringer
+Udekket tap 144 406 -144 406
+Overferinger til/fra
+annen egenkapital -113 046
+
+Utskriftsdato 28.07.2026 Organisasjonsnr 929 383 818 Side 1 av 3
+
+Organisasjonsnr: 929 383 818
+AE FISK AS
+BALANSE
+Belep i: NOK Note 2025 2024
+BALANSE - EIENDELER
+Anleggsmidler
+Immaterielle eiendeler
+Utsatt skattefordel 274 027
+Sum immaterielle eiendeler 274 027
+Varige driftsmidler
+Skip, rigger, fly og
+lignende 4 1 886 586 2 024 553
+Driftslesere, inventar,
+verktey, kontormaskiner
+og lignende 4 16 095 15 157
+Sum varige driftsmidler 4 1 902 682 2 039 710
+Sum anleggsmidler 2 176 709 2 039 710
+Omlepsmidler
+Varer
+Fordringer
+Kundefordringer 258 125
+Andre fordringer 120 799 37 000
+Sum fordringer 378 924 37 000
+Investeringer
+Aksjer og andeler 1
+foretak i samme konsern 0 0
+Markedsbaserte aksjer 0 0
+Markedsbaserte obligasjoner 0 0
+Andre markedsbaserte
+finansielle instrumenter 0 0
+Andre finansielle
+instrumenter 0 0
+Bankinnskudd, kontanter
+og lignende
+Bankinnskudd, kontanter
+og lignende 9 850 4
+Sum bankinnskudd,
+kontanter og lignende 9 850 4
+Sum omlepsmidler 388 774 37 004
+SUM ELENDELER 2 565 483 2 076 714
+BALANSE - EGENKAPITAL OG
+GJELD
+
+Utskriftsdato 28.07.2026 Organisasjonsnr 929 383 818 Side 2 av 3
+
+Egenkapital
+
+Innskutt egenkapital
+
+Selskapskapital 30 000 30 000
+
+Annen innskutt egenkapital -33 570 -50 570
+
+Sum innskutt egenkapital -3 570 -20 570
+
+Opptjent egenkapital
+
+Annen egenkapital 84 429 -112 973
+
+Udekket tap 144 406
+
+Sum opptjent egenkapital 84 429 -257 379
+
+Sum egenkapital 80 859 -277 949
+
+Gjeld
+
+Langsiktig gjeld
+
+Annen langsiktig gjeld
+
+Gjeld til
+
+kredittinstitusjoner 1 672 603 1 724 299
+
+@vrig langsiktig gjeld 60 597 97
+
+Sum annen langsiktig gjeld 1 733 200 1 724 396
+
+Sum langsiktig gjeld 1 733 200 1 724 396
+
+Kortsiktig gjeld
+
+Leverandergjeld 79 694 59 482
+
+Betalbar skatt 8 902
+
+Skyldige offentlige
+
+avgifter 69 755 -8 903
+
+Annen kortsiktig gjeld 593 073 579 689
+
+Sum kortsiktig gjeld 751 424 630 268
+
+Sum gjeld 2 484 624 2 354 663
+
+SUM EGENKAPITAL OG GJELD 2 565 483 2 076 714
+Utskriftsdato 28.07.2026 Organisasjonsnr 929 383 818 Side 3 av 3
+
+Organisasjonsnr: 929 383 818
+
+AE FISK AS
+
+NOTEOPPLYSNINGER - SELSKAP - alle poster oppgitt i hele tall
+Note
+
+1
+
+Regnskapsprinsipper
+
+=== Note 1: Regnskapsprinsipper [[note-1]]
+
+Arsregnskapet er satt opp 1
+
+samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+
+==== Driftsinntekter
+
+Inntektsfering ved salg av varer skjer pa
+
+leveringstidspunktet.
+
+Tjenester inntektsfoeres etter hvert som de
+
+leveres.
+
+==== Skatt
+
+Skattekostnaden i resultatregnskapet omfatter bade
+
+periodens betalbare skatt og endring i utsatt skatt.
+
+Utsatt skatt er
+
+beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier,
+
+samt ligningsmessig
+
+underskudd til fremfering ved utgangen av regnskapsaret.
+Skatteskende og
+
+skattereduserende midlertidige forskjeller som reverserer eller kan
+reverseres i samme periode er utlignet og nettofert.
+
+==== Klassifisering
+
+og vurdering av anleggsmidler
+
+Anleggsmidler omfatter eiendeler bestemt til
+
+varig elie og bruk.
+
+Anleggsmidler er vurdert til anskaffelseskost.
+
+Varige
+
+driftsmidler balanseferes og avskrives over driftsmidlets skonomiske
+levetid.
+
+Avskrivingsperioden for fast eiendom anskaffet etter 2009 er
+dekomponert i en del som gjelder rabygget og en del som gjelder faste
+tekniske installasjoner.
+
+Varige driftsmidler nedskrives til gjenvinnbart
+
+belep ved verdifall som forventes ikke 4 vere forbigaende.
+Gjenvinnbart
+
+belep er det heyeste av netto salgsverdi og verdi i bruk.
+
+Verdi i bruk er
+
+naverdi av fremtidige kontantstremmer knyttet til eiendelen.
+Nedskrivingen
+
+reverseres nar grunnlaget for nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlepsmidler
+
+Omlepsmidler og kortsiktig
+
+gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen,
+samt poster som knytter seg til varekretslapet.
+Omlepsmidler
+vurderes til laveste verdi av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto
+salgsverdi.
+==== Fordringer
+Kundefordringer og andre fordringer
+oppfordres til palydende etter fradrag for avsetning til forventet
+tap.
+Avsetning til tap gj@res pa grunnlag av en individuell vurdering av de
+enkelte fordringene.
+Note
+2
+Antall Arsverk i regnskapsaret
+0.50
+Note
+3
+Spesifisering av resultatregnskapet
+Lennkostnader
+Lenn Arets Fljorarets
+0.00 0.00
+Folketrygdavgift Arets Fjorarets
+0.00 0.00
+Pensjonskostnader Arets Fljorarets
+0.00 0.00
+Andre ytelser Arets Fjorarets
+230631.00 13028.00
+Sum lgnnskostnader Arets Fljorarets
+230631.00 13028.00
+Note
+4
+Varige driftsmidler og immaterielle eiendeler
+Anskaffelseskost 01.01. Varige driftsmidler Immaterielle eiend.
+2190759.00
+Tilgang i aret Varige driftsmidler  Immaterielle eiend.
+
+4600.00
+Avgang i aret Varige driftsmidler Immaterielle eiend.
+0.00
+Anskaffelseskost 31.12. Varige driftsmidler Immaterielle eiend.
+2195359.00
+Samlede av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+152709.00
+Balansefort verdi 31.12. Varige driftsmidler Immaterielle eiend.
+1891602 .00
+Arets av-/nedskrivn. Varige driftsmidler Immaterielle eiend.
+151049.00
+Anskaffelseskost - balanseforte lanekostnader, egentilvirkede anleggsmidler
+Goodwill spesifisert for hvert enkelt virksomhetskjep
+Avskrivningsplan for goodwill som er lenger enn fem ar - begrunnelse
+Mer om varige driftsmidler/immaterielle eiendeler
+
+Arsregnskap for 2025
+Ae Fisk AS
+Orgnr: 929383818
+conta
+
+INNHOLDSLISTE
+Resultat 2... eee B
+Driftsresultater.. 2 ee B
+Finansinntekter og kostnader............ 0.000002 ee eee B
+Arsresultat. 0 eee eee 8
+Overfgringer. 2... eee B
+Balanse. 2. 2 1. ee ee A
+Anleggsmidler... 2... 0.0.0.0... 00.00 2 ee A
+Omlgpsmidler. 2... ee LA
+Fiendeler.. 2... 2. ee ee A
+Egenkapital .. 2. 2 2. eee A
+Gjeld 2. ee A
+Egenkapitaloggjeld..... 2... 0.0.00... 000 0 ee ee ee SG
+Styret. eee ee ee eS
+Noter. 2. 2 ee eee eee 6
+Note 1: Regnskapsprinsipper ... 2... 0... ee ee ee ee  G
+Note 2:Arsverk 20. 0 eee eee 7
+Note 3:L@nnskostnader .... 2... 0.2.20... eee eT
+Note 4: Anleggsmidiler ... 2... 2... 2. ee ee eT
+
+RESULTAT
+
+Driftsresultater
+
+Note 2024 2025
+Salgsinntekt 487 425 546 179
+Driftsinntekter 487 425 546 179
+Varekostnad 4113 ")
+Lonnskostnad 2,3 13 028 230 631
+Avskrivning 4 151 049 152 709
+Annen driftskostnad 332 163 268 669
+Driftskostnader 500 352 652 008
+Driftsresultat -12 927 -105 829
+Finansinntekter og kostnader
+
+Note 2024 2025
+Inntekt pa andre investeringer 2110 2133
+Annen finansinntekt 3729 0
+Finansinntekter 5 839 2 133
+Annen finanskostnad 135 763 138 972
+Finanskostnader 135 763 138 972
+Finansinntekter og kostnader -129 924 -136 839
+Arsresultat
+
+Note 2024 2025
+Driftsresultat -12 927 -105 829
+Finansinntekter og kostnader -129 924 -136 839
+Resultat for skattekostnad -142 851 -242 668
+Skattekostnad 1555 -274 027
+Arsresultat -144 406 31359
+Overforinger
+
+2024 2025
+Avsatt til dekning av tidligere udekket tap 0 144 406
+Avsatt til annen egenkapital 0 -113 046
+Overfort til udekket tap -144 406 0
+Sum overf¢ringer -144 406 31359
+Conta Arsoppgjgr, Ae Fisk AS
+-3-
+
+BALANSE
+
+Anleggsmidler
+
+Note 2024 2025
+Utsatt skattefordel 0 274 027
+Immaterielle eiendeler 0 274 027
+Skip, rigger, fly og lignende 4 2 024 553 1 886 586
+Driftslasere, inventar, verktay, kontormaskiner og 4 15 157 16095
+lignende
+Varige driftsmidler 4 2 039710 1 902 682
+Finansielle anleggsmidler 0 0
+Anleggsmidler 2 039710 2 176 709
+Omlgpsmidler
+
+Note 2024 2025
+Kundefordringer 0 258 125
+Andre fordringer 37 000 120 799
+Fordringer 37 000 378 924
+Investeringer 0 0
+Bankinnskudd, kontanter og lignende 4 9 850
+Omlgpsmidler 37 004 388 774
+Eiendeler
+
+Note 2024 2025
+Anleggsmidler 2 039710 2 176 709
+Omlgpsmidler 37 004 388 774
+Eiendeler 2 076714 2 565 483
+Egenkapital
+
+Note 2024 2025
+Selskapskapital 30 000 30 000
+Annen innskutt egenkapital -50 570 -33 570
+Innskutt egenkapital -20 570 -3 570
+Udekket tap -144 406 0
+Annen egenkapital -112 973 84 429
+Opptjent egenkapital -257 379 84 429
+Egenkapital -277 949 80 859
+
+Conta Arsoppgjgr, Ae Fisk AS
+-4-
+
+Gjeld
+
+Note 2024 2025
+Avsetning for forpliktelser 0 0
+Gjeld til kredittinstitusjoner 1724 299 1 672 603
+@vrig langsiktig gjeld 97 60 597
+Annen langsiktig gjeld 1 724 396 1 733 200
+Leverandgrgjeld 59 482 79 694
+Betalbar skatt 0 8 902
+Skyldig offentlige avgifter -8 903 69 755
+Annen kortsiktig gjeld 579 689 593 073
+Kortsiktig gjeld 630 268 751 424
+Gjeld 2 354 663 2 484 624
+Egenkapital og gjeld
+
+Note 2024 2025
+Egenkapital -277 949 80 859
+Gjeld 2 354 663 2 484 624
+Egenkapital og gjeld 2 076714 2 565 483
+
+NAR®YSUND, 07.05.2026
+Styret i Ae Fisk AS
+eskil arngy
+styreleder
+Conta Arsoppgjgr, Ae Fisk AS
+-5-
+
+Note 1: Regnskapsprinsipper
+Arsregnskapet er satt opp i samsvar med regnskapsloven og NRS 8 - God regnskapsskikk for sma
+foretak.
+Driftsinntekter
+Inntektsfgring ved salg av varer skjer pa leveringstidspunktet. Tjenester inntektsfgres etter hvert som
+de leveres.
+Skatt
+Skattekostnaden i resultatregnskapet omfatter bade periodens betalbare skatt og endring i utsatt
+skatt. Utsatt skatt er beregnet med 22 % pa grunnlag av de midlertidige forskjeller som eksisterer
+mellom regnskapsmessige og skattemessige verdier, samt ligningsmessig underskudd til fremfgring
+ved utgangen av regnskapsaret. Skattegkende og skattereduserende midlertidige forskjeller som
+reverserer eller kan reverseres i samme periode er utlignet og nettofgrt.
+Klassifisering og vurdering av anleggsmidler
+Anleggsmidler omfatter eiendeler bestemt til varig eie og bruk. Anleggsmidler er vurdert til
+anskaffelseskost. Varige driftsmidler balansefgres og avskrives over driftsmidlets ¢konomiske
+levetid. Avskrivingsperioden for fast eiendom anskaffet etter 2009 er dekomponert i en del som
+gjelder rabygget og en del som gjelder faste tekniske installasjoner. Varige driftsmidler nedskrives til
+gjenvinnbart belgp ved verdifall som forventes ikke a veere forbigaende.
+Gjenvinnbart belgp er det hayeste av netto salgsverdi og verdi i bruk. Verdi i bruk er naverdi av
+fremtidige kontantstra@mmer knyttet til eiendelen. Nedskrivingen reverseres nar grunnlaget for
+nedskrivingen ikke lenger er til stede.
+Klassifisering og vurdering av omlopsmidler
+Omlgpsmidler og kortsiktig gjeld omfatter normalt poster som forfaller til betaling innen ett ar etter
+balansedagen, samt poster som knytter seg til varekretslgpet. Oml@psmidler vurderes til laveste verdi
+av anskaffelseskost og virkelig verdi.
+Varer
+Varer er vurdert til det laveste av anskaffelseskost og netto salgsverdi.
+
+Conta Arsoppgjgr, Ae Fisk AS
+
+-6-
+
+Fordringer
+Kundefordringer og andre fordringer oppfordres til palydende etter fradrag for avsetning til forventet
+tap. Avsetning til tap gjgres pa grunnlag av en individuell vurdering av de enkelte fordringene.
+o
+
+Note 2: Arsverk
+Selskapet har sysselsatt 0.50 arsverk i 2025.
+Note 3: Lonnskostnader
+
+2024 2025
+Lenn 0 8)
+Arbeidsgiveravgift 0 0
+Pensjon 0 0
+Andre ytelser 13 028 230 631
+Sum 13 028 230 631
+Note 4: Anleggsmidler
+Varige driftsmidler
+Transportmidler
+Anskaffelseskost 01.01 2 190 759
+Tilgang i aret + 0
+Avgang i aret - 0
+Anskaffelseskost 31.12 = 2 190 759
+Akkumulerte avskrivninger 01.01 151 049
+Arets ordinzere avskrivninger + 152 479
+Tilbakefgrt avskrivning ved avgang - 0
+Akkumulerte avskrivninger 31.12 = 303 527
+Bokfort verdi 31.12 1 887 232
+@konomisk levetid 5-15 ar
+
+Conta Arsoppgjgr, Ae Fisk AS
+-7-
+
+Losore og inventar
+
+Anskaffelseskost 01.01 0
+Tilgang i aret + 4600
+Avgang i aret - 0
+Anskaffelseskost 31.12 = 4600
+Akkumulerte avskrivninger 01.01 0
+Arets ordinzere avskrivninger + 230
+Tilbakefgrt avskrivning ved avgang - 0
+Akkumulerte avskrivninger 31.12 ' 230
+Bokfort verdi 31.12 4370
+@Zkonomisk levetid 5 ar
+sum
+
+Anskaffelseskost 01.01 2 190 759
+Tilgang i aret + 4600
+Avgang i aret - 0
+Anskaffelseskost 31.12 = 2 195 359
+Akkumulerte avskrivninger 01.01 151 049
+Arets ordinzere avskrivninger + 152 709
+Tilbakefgrt avskrivning ved avgang - 0
+Akkumulerte avskrivninger 31.12 = 303 757
+Bokfort verdi 31.12 1 891 602
+@konomisk levetid -
+
+Conta Arsoppgjgr, Ae Fisk AS
+-8-
