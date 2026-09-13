@@ -31,7 +31,7 @@ uv run python scripts/run_competition_batch.py --resume --organisations $InputFi
 # WORKFORCE & FOOTPRINTS
 # ---------------------------------------------------------------------------------
 # Write-Host "Running workforce connector..."
-# uv run python scripts/run_annual_report_workforce_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/ocr_observations.jsonl" --cache "$OutputDir/footprint_cache/ocr_cache" --report "$OutputDir/footprint_cache/ocr_report.json" --ocr-dpi 130
+uv run python scripts/run_annual_report_workforce_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/ocr_observations.jsonl" --cache "$OutputDir/footprint_cache/ocr_cache" --report "$OutputDir/footprint_cache/ocr_report.json" --ocr-dpi 130
 
 Write-Host "Running Purehelp connector..."
 uv run python scripts/run_purehelp_connector.py --profiles "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/purehelp_observations.jsonl" --report "$OutputDir/footprint_cache/purehelp_report.json" --cache-dir "$OutputDir/footprint_cache/purehelp_cache"

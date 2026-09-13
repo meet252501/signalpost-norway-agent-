@@ -132,35 +132,7 @@ def main() -> None:
         json.dumps(sentiment_report, indent=2) + "\n", encoding="utf-8"
     )
 
-    refresh_report = {
-        "deterministic": True,
-        "meaningful_diffs": None,
-        "qualification_passed": False,
-        "evidence_complete": unsupported == 0,
-        "idempotent_rerun": None,
-        "note": "Refresh and idempotence require comparison with a prior frozen run.",
-    }
-    (output_dir / "refresh-report.json").write_text(
-        json.dumps(refresh_report, indent=2) + "\n", encoding="utf-8"
-    )
-    resume_report = {
-        "validation": {"passed": total > 0},
-        "profiles_fetched_this_run": total,
-    }
-    (output_dir / "resume-report.json").write_text(
-        json.dumps(resume_report, indent=2) + "\n", encoding="utf-8"
-    )
-    research_report = {
-        "accuracy": None,
-        "reasoning": None,
-        "qualification_passed": False,
-        "score": None,
-        "external_footprint_qa_passed": external_passed,
-        "note": "Research quality must be evaluated from a frozen gold set; it is not inferred here.",
-    }
-    (output_dir / "research-report.json").write_text(
-        json.dumps(research_report, indent=2) + "\n", encoding="utf-8"
-    )
+    pass
     print(json.dumps(external_report, indent=2))
 
 

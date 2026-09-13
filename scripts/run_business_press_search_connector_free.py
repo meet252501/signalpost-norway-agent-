@@ -40,6 +40,17 @@ BUSINESS_PRESS_HOSTS = [
     "kapital.no",
     "dagensperspektiv.no",
     "shifter.no",
+    "tu.no",             # Technology & Engineering
+    "bygg.no",           # Construction
+    "kampanje.com",      # Media & Marketing
+    "estatenyheter.no",  # Real Estate
+    "kyst.no",           # Aquaculture
+    "ilaks.no",          # Salmon/Seafood
+    "digi.no",           # IT
+    "cw.no",             # Computerworld
+    "finansfokus.no",    # Finance
+    "medier24.no",       # Media
+    "energiogklima.no",  # Energy
 ]
 
 LOOKBACK_WINDOW = "when:1y"
@@ -95,9 +106,8 @@ class SentimentResult:
 
 
 def _build_query(legal_name: str) -> str:
-    site_filter = "+OR+".join(f"site:{h}" for h in BUSINESS_PRESS_HOSTS)
     name_quoted = urllib.parse.quote(f'"{legal_name}"')
-    return f"{name_quoted}+({site_filter})+{LOOKBACK_WINDOW}"
+    return f"{name_quoted}+{LOOKBACK_WINDOW}"
 
 
 def _fetch_rss(url: str) -> str | None:
@@ -131,10 +141,16 @@ def _resolve_real_host(google_redirect_url: str, item_source_text: str | None) -
 
 
 def search_company_press(legal_name: str, api_key: str | None = None, cse_id: str | None = None) -> list[SentimentItem]:
+    import re
     items = []
     seen_urls = set()
     
-    for query_name in [legal_name, f'"{legal_name}"']:
+    cleaned_name = re.sub(r"(?i)\b(AS|ASA|BA|DA|ENK|NUF|SA)\b", "", legal_name).strip()
+    query_names = [legal_name, f'"{legal_name}"']
+    if cleaned_name and cleaned_name.casefold() != legal_name.casefold():
+        query_names.extend([cleaned_name, f'"{cleaned_name}"'])
+        
+    for query_name in query_names:
         name_quoted = urllib.parse.quote(query_name)
         url = f"https://www.bing.com/news/search?q={name_quoted}&format=rss"
         xml_text = _fetch_rss(url)
