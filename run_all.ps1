@@ -42,6 +42,9 @@ uv run python scripts/run_fagfolkguiden_reviews_connector.py --profiles "$Output
 Write-Host "Running Mobile App Reviews connector (FREE)..."
 uv run python scripts/run_trustpilot_search_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/trustpilot_search_observations.jsonl" --report "$OutputDir/footprint_cache/trustpilot_search_report.json" --cache-dir "$OutputDir/footprint_cache/trustpilot_search_cache"
 
+Write-Host "Running Google Play Store Reviews connector (FREE)..."
+uv run python scripts/run_google_play_search_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/google_play_observations.jsonl" --report "$OutputDir/footprint_cache/google_play_report.json" --cache-dir "$OutputDir/footprint_cache/google_play_cache"
+
 Write-Host "Running Bing Trustpilot search connector (FREE)..."
 uv run python scripts/run_bing_trustpilot_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/trustpilot_bing_observations.jsonl" --report "$OutputDir/footprint_cache/trustpilot_bing_report.json" --cache-dir "$OutputDir/footprint_cache/trustpilot_bing_cache"
 
