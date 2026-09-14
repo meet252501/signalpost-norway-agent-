@@ -82,8 +82,9 @@ WORD_EMPLOYEE_PATTERN = re.compile(
     r"(?i)\b(?:det\s+er|selskapet\s+har)\s+(ingen|en|ett|to|tre|fire|fem)\s+ansatte\b"
 )
 ZERO_WORKFORCE_PATTERN = re.compile(
-    r"(?i)\b(?:selskapet|stiftelsen|legatet|sameiet|det)\s+"
-    r"(?:har\s+ingen\s+(ansatte|(?:aarsverk|arsverk|årsverk))|"
+    r"(?i)\b(?:selskapet|stiftelsen|legatet|sameiet|det|bydelslaget|foreningen)\s+"
+    r"(?:har\s+ingen\s+(ansatte|(?:aarsverk|arsverk|rsverk))|"
+    r"har\s+ikke\s+(?:egne\s+)?ansatte|"
     r"har\s+ikke\s+hatt\s+(?:noen\s+)?ansatte|"
     r"hadde\s+ingen\s+ansatte|"
     r"ikke\s+har\s+ansatte)\b"
@@ -190,6 +191,17 @@ def ocr_pdf(pdf_path: Path, *, pages: int, dpi: int) -> str:
                 
                 # Early stop if we found the phrase!
                 if WORKFORCE_TERMS.search(completed.stdout):
+                    # Process one more page just in case of overflow/page breaks
+                    if page_num < num_pages - 1:
+                        next_page = doc[page_num + 1]
+                        next_pix = next_page.get_pixmap(dpi=dpi)
+                        next_img_path = Path(tmpdir) / f"page_{page_num + 1}.png"
+                        next_pix.save(str(next_img_path))
+                        completed_next = subprocess.run(
+                            ["tesseract", str(next_img_path), "stdout", "-l", "eng", "--psm", "6"],
+                            capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=30
+                        )
+                        text.append(completed_next.stdout)
                     break
             except Exception as e:
                 text.append(f"[OCR Error: {e}]")
@@ -331,7 +343,7 @@ def main() -> None:
     parser.add_argument("--report", required=True)
     parser.add_argument("--workers", type=int, default=3)
     parser.add_argument("--limit", type=int)
-    parser.add_argument("--ocr-pages", type=int, default=15)
+    parser.add_argument("--ocr-pages", type=int, default=40)
     parser.add_argument("--ocr-dpi", type=int, default=130)
     args = parser.parse_args()
     wanted = []

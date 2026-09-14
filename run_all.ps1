@@ -42,6 +42,9 @@ uv run python scripts/run_google_places_reviews_connector.py --organisations "$O
 Write-Host "Running Business Press Search connector (FREE)..."
 uv run python scripts/run_business_press_search_connector_free.py --organisations "$OutputDir/profiles.jsonl" --out "$OutputDir/footprint_cache/press_observations.jsonl" --cse-api-key "$env:GOOGLE_CSE_API_KEY" --cse-id "$env:GOOGLE_CSE_ID"
 
+Write-Host "Running Bing Trustpilot search connector..."
+uv run python scripts/run_bing_trustpilot_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/trustpilot_bing_observations.jsonl" --report "$OutputDir/footprint_cache/trustpilot_bing_report.json" --cache-dir "$OutputDir/footprint_cache/trustpilot_bing_cache"
+
 Write-Host "Merging footprints..."
 uv run python merge_and_score.py
 

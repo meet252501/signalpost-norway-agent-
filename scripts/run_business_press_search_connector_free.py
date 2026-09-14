@@ -140,15 +140,18 @@ def _resolve_real_host(google_redirect_url: str, item_source_text: str | None) -
     return urlparse(google_redirect_url).netloc
 
 
-def search_company_press(legal_name: str, api_key: str | None = None, cse_id: str | None = None) -> list[SentimentItem]:
+def search_company_press(legal_name: str, api_key: str | None = None, cse_id: str | None = None, org_number: str | None = None) -> list[SentimentItem]:
     import re
     items = []
     seen_urls = set()
     
-    cleaned_name = re.sub(r"(?i)\b(AS|ASA|BA|DA|ENK|NUF|SA)\b", "", legal_name).strip()
+    cleaned_name = re.sub(r"(?i)\b(AS|ASA|A/S|BA|DA|ENK|NUF|SA|KS|ANS|SDA|Group|Holdings|Holding|Konsern)\b", "", legal_name).strip()
+    cleaned_name = re.sub(r"[,\-]\s*$", "", cleaned_name).strip()
     query_names = [legal_name, f'"{legal_name}"']
     if cleaned_name and cleaned_name.casefold() != legal_name.casefold():
         query_names.extend([cleaned_name, f'"{cleaned_name}"'])
+    if org_number:
+        query_names.append(f'"{org_number}"')
         
     for query_name in query_names:
         name_quoted = urllib.parse.quote(query_name)
@@ -200,8 +203,8 @@ def classify_sentiment(title: str) -> str:
     return "neutral"
 
 
-def evaluate_company(legal_name: str, api_key: str | None = None, cse_id: str | None = None) -> SentimentResult:
-    items = search_company_press(legal_name, api_key, cse_id)
+def evaluate_company(legal_name: str, api_key: str | None = None, cse_id: str | None = None, org_number: str | None = None) -> SentimentResult:
+    items = search_company_press(legal_name, api_key, cse_id, org_number)
 
     if not items:
         return SentimentResult(
@@ -254,7 +257,7 @@ def process_company(line: str, api_key: str | None, cse_id: str | None) -> tuple
     record = json.loads(line)
     org_number = record["organisation_number"]
     name = record.get("name") or record.get("legal_name", "")
-    result = evaluate_company(name, api_key, cse_id)
+    result = evaluate_company(name, api_key, cse_id, org_number)
     ev = to_evidence(result, org_number)
     return ev, result.status
 
