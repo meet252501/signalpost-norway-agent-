@@ -51,6 +51,10 @@ uv run python scripts/run_bing_trustpilot_connector.py --profiles "$OutputDir/pr
 Write-Host "Running Bing Web Search Sentiment connector (FREE)..."
 uv run python scripts/run_bing_web_sentiment_connector.py --organisations "$OutputDir/profiles.jsonl" --out "$OutputDir/footprint_cache/press_observations.jsonl"
 
+Write-Host "Running Places Bypass connector (Heuristic)..."
+uv run python scripts/run_places_bypass_connector.py --profiles "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/places_bypass_observations.jsonl"
+
+
 Write-Host "Merging footprints..."
 uv run python merge_and_score.py
 
