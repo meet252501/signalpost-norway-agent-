@@ -9,7 +9,7 @@ import re
 import subprocess
 import tempfile
 import urllib.request
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ProcessPoolExecutor, as_completed
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -179,13 +179,18 @@ def ocr_pdf(pdf_path: Path, *, pages: int, dpi: int) -> str:
             pix.save(str(img_path))
             
             try:
+                import os
+                env = os.environ.copy()
+                env["OMP_THREAD_LIMIT"] = "1"
+                env["OMP_NUM_THREADS"] = "1"
                 completed = subprocess.run(
                     ["tesseract", str(img_path), "stdout", "-l", "eng", "--psm", "6"],
                     capture_output=True,
                     text=True,
                     encoding="utf-8",
                     errors="replace",
-                    timeout=30
+                    timeout=30,
+                    env=env
                 )
                 text.append(completed.stdout)
                 
@@ -199,7 +204,7 @@ def ocr_pdf(pdf_path: Path, *, pages: int, dpi: int) -> str:
                         next_pix.save(str(next_img_path))
                         completed_next = subprocess.run(
                             ["tesseract", str(next_img_path), "stdout", "-l", "eng", "--psm", "6"],
-                            capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=30
+                            capture_output=True, text=True, encoding="utf-8", errors="replace", timeout=30, env=env
                         )
                         text.append(completed_next.stdout)
                     break
@@ -383,7 +388,7 @@ def main() -> None:
     cache_dir = Path(args.cache)
     cache_dir.mkdir(parents=True, exist_ok=True)
     collected = {}
-    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+    with ProcessPoolExecutor(max_workers=args.workers) as pool:
         futures = {
             pool.submit(
                 collect,

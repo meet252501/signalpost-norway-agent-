@@ -13,7 +13,7 @@ if (!(Test-Path -Path $OutputDir)) {
 Write-Host "Running foundation batch with external footprint modules on $InputFile..."
 $ExpectedCount = (Get-Content $InputFile | Measure-Object).Count
 Write-Host "Expected company count: $ExpectedCount"
-uv run python scripts/run_competition_batch.py --resume --organisations $InputFile --bulk ..\enhetsregisteret.csv --profiles-output "$OutputDir/profiles.jsonl" --output "$OutputDir/envelopes.jsonl" --report "$OutputDir/batch-report.json" --run-id "submission-run-1" --expected-count $ExpectedCount --workers 16 --modules "registry,accounting_obligation,registry_live,financials,financial_history,roles,group,locations,website,external_footprint"
+uv run python scripts/run_competition_batch.py --resume --organisations $InputFile --bulk ..\enhetsregisteret.csv --profiles-output "$OutputDir/profiles.jsonl" --output "$OutputDir/envelopes.jsonl" --report "$OutputDir/batch-report.json" --run-id "submission-run-1" --expected-count $ExpectedCount --workers 32 --modules "registry,accounting_obligation,registry_live,financials,financial_history,roles,group,locations,website,external_footprint"
 
 # ---------------------------------------------------------------------------------
 # FIX: Ensure all registry_live values are populated
@@ -25,35 +25,57 @@ uv run python scripts/fix_registry_live.py "$OutputDir/profiles.jsonl"
 # FIX: Create deterministic resume report from batch report (REAL PASS)
 # ---------------------------------------------------------------------------------
 Write-Host "Running resume pass to generate resume report..."
-uv run python scripts/run_competition_batch.py --resume --organisations $InputFile --bulk ..\enhetsregisteret.csv --profiles-output "$OutputDir/profiles.jsonl" --output "$OutputDir/envelopes.jsonl" --report "$OutputDir/resume-report.json" --run-id "submission-run-1" --expected-count $ExpectedCount --workers 16 --modules "registry,accounting_obligation,registry_live,financials,financial_history,roles,group,locations,website,external_footprint"
+uv run python scripts/run_competition_batch.py --resume --organisations $InputFile --bulk ..\enhetsregisteret.csv --profiles-output "$OutputDir/profiles.jsonl" --output "$OutputDir/envelopes.jsonl" --report "$OutputDir/resume-report.json" --run-id "submission-run-1" --expected-count $ExpectedCount --workers 32 --modules "registry,accounting_obligation,registry_live,financials,financial_history,roles,group,locations,website,external_footprint"
 
 # ---------------------------------------------------------------------------------
-# WORKFORCE & FOOTPRINTS
+# WORKFORCE & FOOTPRINTS (RUN CONCURRENTLY)
 # ---------------------------------------------------------------------------------
-# Write-Host "Running workforce connector..."
-uv run python scripts/run_annual_report_workforce_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/ocr_observations.jsonl" --cache "$OutputDir/footprint_cache/ocr_cache" --report "$OutputDir/footprint_cache/ocr_report.json" --ocr-dpi 130 --workers 16
+Write-Host "Starting all footprint connectors concurrently..."
+$Jobs = @()
 
-Write-Host "Running Purehelp connector..."
-uv run python scripts/run_purehelp_connector.py --profiles "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/purehelp_observations.jsonl" --report "$OutputDir/footprint_cache/purehelp_report.json" --cache-dir "$OutputDir/footprint_cache/purehelp_cache" --workers 16
+$Jobs += Start-Job -Name "OCR_Workforce" -ScriptBlock {
+    Set-Location $args[0]
+    uv run python scripts/run_annual_report_workforce_connector.py --profiles "$($args[1])/profiles.jsonl" --organisations "$($args[1])/profiles.jsonl" --output "$($args[1])/footprint_cache/ocr_observations.jsonl" --cache "$($args[1])/footprint_cache/ocr_cache" --report "$($args[1])/footprint_cache/ocr_report.json" --ocr-dpi 100 --workers 16
+} -ArgumentList $PWD, $OutputDir
 
-Write-Host "Running Fagfolkguiden reviews connector (FREE)..."
-uv run python scripts/run_fagfolkguiden_reviews_connector.py --profiles "$OutputDir/profiles.jsonl" --out "$OutputDir/footprint_cache/fagfolk_observations.jsonl" --report "$OutputDir/footprint_cache/fagfolk_report.json" --cache-dir "$OutputDir/footprint_cache/fagfolk_cache" --workers 16
+$Jobs += Start-Job -Name "Purehelp" -ScriptBlock {
+    Set-Location $args[0]
+    uv run python scripts/run_purehelp_connector.py --profiles "$($args[1])/profiles.jsonl" --output "$($args[1])/footprint_cache/purehelp_observations.jsonl" --report "$($args[1])/footprint_cache/purehelp_report.json" --cache-dir "$($args[1])/footprint_cache/purehelp_cache" --workers 16
+} -ArgumentList $PWD, $OutputDir
 
-Write-Host "Running Mobile App Reviews connector (FREE)..."
-uv run python scripts/run_trustpilot_search_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/trustpilot_search_observations.jsonl" --report "$OutputDir/footprint_cache/trustpilot_search_report.json" --cache-dir "$OutputDir/footprint_cache/trustpilot_search_cache"
+$Jobs += Start-Job -Name "Fagfolkguiden" -ScriptBlock {
+    Set-Location $args[0]
+    uv run python scripts/run_fagfolkguiden_reviews_connector.py --profiles "$($args[1])/profiles.jsonl" --out "$($args[1])/footprint_cache/fagfolk_observations.jsonl" --report "$($args[1])/footprint_cache/fagfolk_report.json" --cache-dir "$($args[1])/footprint_cache/fagfolk_cache" --workers 16
+} -ArgumentList $PWD, $OutputDir
 
-Write-Host "Running Google Play Store Reviews connector (FREE)..."
-uv run python scripts/run_google_play_search_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/google_play_observations.jsonl" --report "$OutputDir/footprint_cache/google_play_report.json" --cache-dir "$OutputDir/footprint_cache/google_play_cache"
+$Jobs += Start-Job -Name "Trustpilot_Mobile" -ScriptBlock {
+    Set-Location $args[0]
+    uv run python scripts/run_trustpilot_search_connector.py --profiles "$($args[1])/profiles.jsonl" --organisations "$($args[1])/profiles.jsonl" --output "$($args[1])/footprint_cache/trustpilot_search_observations.jsonl" --report "$($args[1])/footprint_cache/trustpilot_search_report.json" --cache-dir "$($args[1])/footprint_cache/trustpilot_search_cache"
+} -ArgumentList $PWD, $OutputDir
 
-Write-Host "Running Bing Trustpilot search connector (FREE)..."
-uv run python scripts/run_bing_trustpilot_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/trustpilot_bing_observations.jsonl" --report "$OutputDir/footprint_cache/trustpilot_bing_report.json" --cache-dir "$OutputDir/footprint_cache/trustpilot_bing_cache"
+$Jobs += Start-Job -Name "GooglePlay" -ScriptBlock {
+    Set-Location $args[0]
+    uv run python scripts/run_google_play_search_connector.py --profiles "$($args[1])/profiles.jsonl" --organisations "$($args[1])/profiles.jsonl" --output "$($args[1])/footprint_cache/google_play_observations.jsonl" --report "$($args[1])/footprint_cache/google_play_report.json" --cache-dir "$($args[1])/footprint_cache/google_play_cache"
+} -ArgumentList $PWD, $OutputDir
 
-Write-Host "Running Bing Web Search Sentiment connector (FREE)..."
-uv run python scripts/run_bing_web_sentiment_connector.py --organisations "$OutputDir/profiles.jsonl" --out "$OutputDir/footprint_cache/press_observations.jsonl"
+$Jobs += Start-Job -Name "BingTrustpilot" -ScriptBlock {
+    Set-Location $args[0]
+    uv run python scripts/run_bing_trustpilot_connector.py --profiles "$($args[1])/profiles.jsonl" --organisations "$($args[1])/profiles.jsonl" --output "$($args[1])/footprint_cache/trustpilot_bing_observations.jsonl" --report "$($args[1])/footprint_cache/trustpilot_bing_report.json" --cache-dir "$($args[1])/footprint_cache/trustpilot_bing_cache"
+} -ArgumentList $PWD, $OutputDir
 
-Write-Host "Running Places Bypass connector (Heuristic)..."
-uv run python scripts/run_places_bypass_connector.py --profiles "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/places_bypass_observations.jsonl"
+$Jobs += Start-Job -Name "BingWebSentiment" -ScriptBlock {
+    Set-Location $args[0]
+    uv run python scripts/run_bing_web_sentiment_connector.py --organisations "$($args[1])/profiles.jsonl" --out "$($args[1])/footprint_cache/press_observations.jsonl"
+} -ArgumentList $PWD, $OutputDir
 
+$Jobs += Start-Job -Name "PlacesBypass" -ScriptBlock {
+    Set-Location $args[0]
+    uv run python scripts/run_places_bypass_connector.py --profiles "$($args[1])/profiles.jsonl" --output "$($args[1])/footprint_cache/places_bypass_observations.jsonl"
+} -ArgumentList $PWD, $OutputDir
+
+Write-Host "Waiting for all footprint connectors to finish..."
+$Jobs | Wait-Job
+$Jobs | Receive-Job
 
 Write-Host "Merging footprints..."
 uv run python merge_and_score.py
