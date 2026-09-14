@@ -31,13 +31,13 @@ uv run python scripts/run_competition_batch.py --resume --organisations $InputFi
 # WORKFORCE & FOOTPRINTS
 # ---------------------------------------------------------------------------------
 # Write-Host "Running workforce connector..."
-uv run python scripts/run_annual_report_workforce_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/ocr_observations.jsonl" --cache "$OutputDir/footprint_cache/ocr_cache" --report "$OutputDir/footprint_cache/ocr_report.json" --ocr-dpi 130
+uv run python scripts/run_annual_report_workforce_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/ocr_observations.jsonl" --cache "$OutputDir/footprint_cache/ocr_cache" --report "$OutputDir/footprint_cache/ocr_report.json" --ocr-dpi 130 --workers 16
 
 Write-Host "Running Purehelp connector..."
-uv run python scripts/run_purehelp_connector.py --profiles "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/purehelp_observations.jsonl" --report "$OutputDir/footprint_cache/purehelp_report.json" --cache-dir "$OutputDir/footprint_cache/purehelp_cache"
+uv run python scripts/run_purehelp_connector.py --profiles "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/purehelp_observations.jsonl" --report "$OutputDir/footprint_cache/purehelp_report.json" --cache-dir "$OutputDir/footprint_cache/purehelp_cache" --workers 16
 
 Write-Host "Running Fagfolkguiden reviews connector (FREE)..."
-uv run python scripts/run_fagfolkguiden_reviews_connector.py --profiles "$OutputDir/profiles.jsonl" --out "$OutputDir/footprint_cache/fagfolk_observations.jsonl" --report "$OutputDir/footprint_cache/fagfolk_report.json" --cache-dir "$OutputDir/footprint_cache/fagfolk_cache"
+uv run python scripts/run_fagfolkguiden_reviews_connector.py --profiles "$OutputDir/profiles.jsonl" --out "$OutputDir/footprint_cache/fagfolk_observations.jsonl" --report "$OutputDir/footprint_cache/fagfolk_report.json" --cache-dir "$OutputDir/footprint_cache/fagfolk_cache" --workers 16
 
 Write-Host "Running Mobile App Reviews connector (FREE)..."
 uv run python scripts/run_trustpilot_search_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/trustpilot_search_observations.jsonl" --report "$OutputDir/footprint_cache/trustpilot_search_report.json" --cache-dir "$OutputDir/footprint_cache/trustpilot_search_cache"
