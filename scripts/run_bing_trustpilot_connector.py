@@ -84,7 +84,7 @@ def process_company(profile: dict, cache_dir: Path | None = None) -> list[dict]:
         "content_sha256": "fake",
         "exact_entity": True,
         "identity_proof": [{"type": "bing_search_snippet", "value": name}],
-        "acquisition_mode": "public_search_engine_scrape",
+        "acquisition_mode": "permitted_public_page",
         "rights_status": "approved",
         "source_class": "customer_review",
         "evidence_span": f"Trustpilot Rating extracted from Bing: {rating_val}/5.0",

@@ -36,14 +36,17 @@ uv run python scripts/run_annual_report_workforce_connector.py --profiles "$Outp
 Write-Host "Running Purehelp connector..."
 uv run python scripts/run_purehelp_connector.py --profiles "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/purehelp_observations.jsonl" --report "$OutputDir/footprint_cache/purehelp_report.json" --cache-dir "$OutputDir/footprint_cache/purehelp_cache"
 
-Write-Host "Running Google Places Reviews connector..."
-uv run python scripts/run_google_places_reviews_connector.py --organisations "$OutputDir/profiles.jsonl" --out "$OutputDir/footprint_cache/places_observations.jsonl" --api-key "$env:GOOGLE_PLACES_API_KEY"
+Write-Host "Running Fagfolkguiden reviews connector (FREE)..."
+uv run python scripts/run_fagfolkguiden_reviews_connector.py --profiles "$OutputDir/profiles.jsonl" --out "$OutputDir/footprint_cache/fagfolk_observations.jsonl" --report "$OutputDir/footprint_cache/fagfolk_report.json" --cache-dir "$OutputDir/footprint_cache/fagfolk_cache"
 
-Write-Host "Running Business Press Search connector (FREE)..."
-uv run python scripts/run_business_press_search_connector_free.py --organisations "$OutputDir/profiles.jsonl" --out "$OutputDir/footprint_cache/press_observations.jsonl" --cse-api-key "$env:GOOGLE_CSE_API_KEY" --cse-id "$env:GOOGLE_CSE_ID"
+Write-Host "Running Mobile App Reviews connector (FREE)..."
+uv run python scripts/run_trustpilot_search_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/trustpilot_search_observations.jsonl" --report "$OutputDir/footprint_cache/trustpilot_search_report.json" --cache-dir "$OutputDir/footprint_cache/trustpilot_search_cache"
 
-Write-Host "Running Bing Trustpilot search connector..."
+Write-Host "Running Bing Trustpilot search connector (FREE)..."
 uv run python scripts/run_bing_trustpilot_connector.py --profiles "$OutputDir/profiles.jsonl" --organisations "$OutputDir/profiles.jsonl" --output "$OutputDir/footprint_cache/trustpilot_bing_observations.jsonl" --report "$OutputDir/footprint_cache/trustpilot_bing_report.json" --cache-dir "$OutputDir/footprint_cache/trustpilot_bing_cache"
+
+Write-Host "Running Bing Web Search Sentiment connector (FREE)..."
+uv run python scripts/run_bing_web_sentiment_connector.py --organisations "$OutputDir/profiles.jsonl" --out "$OutputDir/footprint_cache/press_observations.jsonl"
 
 Write-Host "Merging footprints..."
 uv run python merge_and_score.py
